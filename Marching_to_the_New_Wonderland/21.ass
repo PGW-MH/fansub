@@ -11,7 +11,7 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,TeXGyreHeros,80,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
 Style: Title,Orbitron Black,130,&H008960D2,&H000000FF,&H00FFFFFF,&H009A6988,0,0,0,0,92,100,0,0,1,6,6,1,300,10,290,1
 Style: logo,Cherry Bomb One,120,&H07280AD7,&H000000FF,&H0006004F,&H23FFFFFF,0,0,0,0,100,100,5,0,1,5,4,8,11,11,56,1
 Style: logo2,Cherry Bomb One,120,&H07280AD7,&H000000FF,&H00FFFFFF,&H23B57510,0,0,0,0,100,100,5,0,1,5,4,8,11,11,60,1
