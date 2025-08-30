@@ -12,10 +12,10 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
-Style: Title,Orbitron Black,115,&H0032A9F8,&H000000FF,&H00B7762D,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,6,2,8,58,128,1
-Style: end,Orbitron Black,80,&H003CF7FD,&H000000FF,&H00B34246,&H23531819,0,0,0,0,100,100,0,0,1,6,12,3,13,340,300,1
-Style: ratop,Orbitron Black,70,&H00FFFFFF,&H000000FF,&H009E4E2B,&H00200E05,0,0,0,0,100,100,0,0,1,4,4,2,8,8,170,1
-Style: rated,Orbitron SemiBold,60,&H00FFFFFF,&H000000FF,&H005A959D,&H00200E05,0,0,0,0,100,100,0,0,1,4,4,2,8,8,20,1
+Style: Title,Orbitron Black,85,&H0032A9F8,&H000000FF,&H00B7762D,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,6,2,8,58,128,1
+Style: end,Orbitron Black,62,&H003CF7FD,&H000000FF,&H00B34246,&H23531819,0,0,0,0,100,100,0,0,1,6,12,3,13,340,300,1
+Style: ratop,Orbitron Black,54,&H00FFFFFF,&H000000FF,&H009E4E2B,&H00200E05,0,0,0,0,100,100,0,0,1,4,4,2,8,8,170,1
+Style: rated,Orbitron SemiBold,46,&H00FFFFFF,&H000000FF,&H005A959D,&H00200E05,0,0,0,0,100,100,0,0,1,4,4,2,8,8,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
