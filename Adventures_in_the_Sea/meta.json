@@ -1,0 +1,484 @@
+{
+    "episodes": [
+        {
+            "num": 1,
+            "youtube": "https://www.youtube.com/watch?v=nX5g6YReIBU",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1PtQLsCMs4m-ERGNceTUxAdWXKznTXAxHfBxzG25rfOo"
+        },
+        {
+            "num": 2,
+            "youtube": "https://www.youtube.com/watch?v=AEnbnQEOVWY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1cICpoAyi4XY3cYVnUyQd0-2AOYCN9nQ2taZw7bjY7mY"
+        },
+        {
+            "num": 3,
+            "youtube": "https://www.youtube.com/watch?v=jJinmizL6X0",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1h3S8cZ0qAzQWW0_lu0dbM_FTaYSfnfpfvUCbo4_UhT0"
+        },
+        {
+            "num": 4,
+            "youtube": "https://www.youtube.com/watch?v=n5BQb9LweqE",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1CJh_cazENKhjWhMpB2zsGHJiHhr6V-bdOVM4LGD9JIY"
+        },
+        {
+            "num": 5,
+            "youtube": "https://www.youtube.com/watch?v=guuZUuxxvp4",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/10faBN38jcEmrrlab_klZ7PdSxjuu7HEYH8eXJCE_gXA"
+        },
+        {
+            "num": 6,
+            "youtube": "https://www.youtube.com/watch?v=yyFC6EvmAkk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1jsbrqyAyfZSr751B5dclwwyiYoI43vlrPcw2HY-Z2SY"
+        },
+        {
+            "num": 7,
+            "youtube": "https://www.youtube.com/watch?v=CflfWHAC8R4",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1ii8XeYhBMfClnaQ8zsurGpLgE_cSfq24KZztJSLUSFY"
+        },
+        {
+            "num": 8,
+            "youtube": "https://www.youtube.com/watch?v=GHvwjW4WHGY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1U-vEjHu9nIvPtdRJBe2xv4cG4poJPQGYCAO0p6c_yt4"
+        },
+        {
+            "num": 9,
+            "youtube": "https://www.youtube.com/watch?v=4hXxCsVxwqk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/10r0lZeYFUBXGz_2x7zFE8igfNyETtq7uLsExKKZnBcA"
+        },
+        {
+            "num": 10,
+            "youtube": "https://www.youtube.com/watch?v=12ehFVal1Zc",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1jy7V0SYSzh9QDgCPeGZX-u1tCuUx6--KtVxURhhKK0M"
+        },
+        {
+            "num": 11,
+            "youtube": "https://www.youtube.com/watch?v=icvvUq6hESY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/14GQExKCyr_WmtRgIxXP20wpSMPofve0-GOt2esYku5s"
+        },
+        {
+            "num": 12,
+            "youtube": "https://www.youtube.com/watch?v=ZkYmIQjnHKM",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1AMwpihquI0IYCNNID68Lwr0qFUjD3JZ3AOALzTSrg0o"
+        },
+        {
+            "num": 13,
+            "youtube": "https://www.youtube.com/watch?v=VOiw3W5ODR4",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1M3bs0bX68A9KsC-_IsPExcJN6_JwrhcwUpTnSYFYQkw"
+        },
+        {
+            "num": 14,
+            "youtube": "https://www.youtube.com/watch?v=W_v6B9hMwKk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1IhxnkME9AM2VL9Gu_DqqvlRPhLFti8lIFoIAo-QQuWE"
+        },
+        {
+            "num": 15,
+            "youtube": "https://www.youtube.com/watch?v=wEuNaQR6K-E",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1iKvaaUTUaRtBj_tcOkmZAeh-2Ki6nKlk94GCeZfIN3Q"
+        },
+        {
+            "num": 16,
+            "youtube": "https://www.youtube.com/watch?v=OjyaKKerW0g",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/17KM-CKU4WCZEFY1lCBMpo03bVQR3bUzWVr4n7iU511Q"
+        },
+        {
+            "num": 17,
+            "youtube": "https://www.youtube.com/watch?v=rx4ZgLKugYk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/10bXRojPmt8vdCESXy9hvyv6dF8hktXu0vL3d_ID9Vrw"
+        },
+        {
+            "num": 18,
+            "youtube": "https://www.youtube.com/watch?v=NqRDrLkpaUs",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1_3y1kWhzdLBT1rWnjawp9YqZVPet6MYwdf4KnDYS05Y"
+        },
+        {
+            "num": 19,
+            "youtube": "https://www.youtube.com/watch?v=X7pQjDrupDU",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/16KyjZ5e2iSuGuhJeGejGKV4rMKzhnfqlam2XiDbDDMY"
+        },
+        {
+            "num": 20,
+            "youtube": "https://www.youtube.com/watch?v=EF8wHdTxL18",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1i1-0OQhiOBCsFrumg7ve6WIPvV7unWo2juq102GIRT0"
+        },
+        {
+            "num": 21,
+            "youtube": "https://www.youtube.com/watch?v=bT5m8Ya8cIM",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/14Xagfy-XZhePY30ngFtvDE9VHa827sIzTkQGlmQ_1Zg"
+        },
+        {
+            "num": 22,
+            "youtube": "https://www.youtube.com/watch?v=ozapLGCLAn0",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1hJ2VSpj5EDr3AcNyGuBnWROhu8x9M8lSzftD1DrZIrw"
+        },
+        {
+            "num": 23,
+            "youtube": "https://www.youtube.com/watch?v=Rc38SaszpoI",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1SUVonoNjEHBjrG0GdYUja-mxrKTKJUrJU0h8FDRuBLo"
+        },
+        {
+            "num": 24,
+            "youtube": "https://www.youtube.com/watch?v=enfmVfeIw-k",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1hwuz2tyi6nOh5hzXbSJXGFjX_BD_FyK3e5rR4Kzgw2o"
+        },
+        {
+            "num": 25,
+            "youtube": "https://www.youtube.com/watch?v=e-40S_7vFtM",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1VOk5w6z4VPe6X-LM5ZSt2J5XHdd4eInrB6W368NwjwQ"
+        },
+        {
+            "num": 26,
+            "youtube": "https://www.youtube.com/watch?v=Am8rLViqKuQ",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/10VgeNoLW_qu_68KRztjEEK0dwYarKyb57akgzobw-pY"
+        },
+        {
+            "num": 27,
+            "youtube": "https://www.youtube.com/watch?v=tGuihSw53Fo",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1BBJL3it2BhYpseNvycuuYx4K1QwlLWNcrOgH3L-2Ch4"
+        },
+        {
+            "num": 28,
+            "youtube": "https://www.youtube.com/watch?v=cHXqQGnlaQI",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1Or0V-q2nZNjb4QWu0sFez6DVtJmlJORTAghiA_DsrYM"
+        },
+        {
+            "num": 29,
+            "youtube": "https://www.youtube.com/watch?v=eSAk3c1Aylc",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1q1eoFySOivZKvdyysFkHWRfh4TANjwaXa_cbxKH4eqc"
+        },
+        {
+            "num": 30,
+            "youtube": "https://www.youtube.com/watch?v=QSI7WHJLtVo",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1MBDuOnBvHWhLuAsZDyFkGCQpUoQ6EDx5awPWkyh7Wlw"
+        },
+        {
+            "num": 31,
+            "youtube": "https://www.youtube.com/watch?v=O-AxrjI9HFY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1tLMMEgxNWGPoUmb0qbpnQyCK2pdSx4wy2KJdhZV0DFs"
+        },
+        {
+            "num": 32,
+            "youtube": "https://www.youtube.com/watch?v=SV85YEeJs7Y",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1FcrGs7W2mvsslcX2mti-sIAlZm5oTG80EMlO5Eb2csQ"
+        },
+        {
+            "num": 33,
+            "youtube": "https://www.youtube.com/watch?v=G2Usuq6HPcA",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/14j98-nvInc69vPTUlo1OAN4DPoJIFUkhiaYWn5GsjAY"
+        },
+        {
+            "num": 34,
+            "youtube": "https://www.youtube.com/watch?v=kEtnXEBHiEw",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1rRyjuWjws0W-FMjPll8ipQAiKnda8dQ0IadeqDZpttA"
+        },
+        {
+            "num": 35,
+            "youtube": "https://www.youtube.com/watch?v=A4AQmnf2myk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1dIyP2LXrHyeZ6khNQYvDzqibqp_ANTNdgTGT98hwAiY"
+        },
+        {
+            "num": 36,
+            "youtube": "https://www.youtube.com/watch?v=VhTnbvH0p8Q",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1acTVpHB9030XmUSGoehvZ6ynk5maamRuQjsWCyBOSh8"
+        },
+        {
+            "num": 37,
+            "youtube": "https://www.youtube.com/watch?v=5Y6On0TdvO0",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1mWBTbwEgrmWj81VB3B1nxOcTNlOusKrVEViwSZ31naY"
+        },
+        {
+            "num": 38,
+            "youtube": "https://www.youtube.com/watch?v=NrlutkKgCxM",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1Pamjh9Kc6K5t4xmJN-C_tPhU6IpOPlUrlaK3Pulcey8"
+        },
+        {
+            "num": 39,
+            "youtube": "https://www.youtube.com/watch?v=pZFO-dSAklA",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1o1iuw5UqhUwa2g_rtOnhUu9WsX9FCndYKbGvTMVq02c"
+        },
+        {
+            "num": 40,
+            "youtube": "https://www.youtube.com/watch?v=p-GomTnrv_E",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1c3uWbmU7YW4jDLkOe8Le8sb8ToQTlYHq7z4MlGOtR1s"
+        },
+        {
+            "num": 41,
+            "youtube": "https://www.youtube.com/watch?v=dZ6Esd4e250",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1DOOJxYtF_FlJG9Ldvq2H6T4z5xfzf1Y21baBVADgAq0"
+        },
+        {
+            "num": 42,
+            "youtube": "https://www.youtube.com/watch?v=vujUO7WIdjw",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1E7-UXHIO6GdBaBswC4Lc7S1NoORUaFRk1tPiavf3MPU"
+        },
+        {
+            "num": 43,
+            "youtube": "https://www.youtube.com/watch?v=tFMkhZZLx0k",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1lwbfQc_pPUMBRz57Fi1Dj4YHlRlCFeC5iywPTt1K_A4"
+        },
+        {
+            "num": 44,
+            "youtube": "https://www.youtube.com/watch?v=KiPCDQIo2Bg",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1ddhaJJlu_wZYOddaqqEmAnCPoxgYANxXc9TRXKNJswA"
+        },
+        {
+            "num": 45,
+            "youtube": "https://www.youtube.com/watch?v=k2c0Vq-0Wgk",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1AjA7PgC_flfppuXfMSPvnEDLw3-o9NYdxdz4KSmfBM4"
+        },
+        {
+            "num": 46,
+            "youtube": "https://www.youtube.com/watch?v=-tLEQM2xzuo",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1eu3w2SInIH8B0HZrPdjVrZjS3it7Ph4aAPVZskNsouI"
+        },
+        {
+            "num": 47,
+            "youtube": "https://www.youtube.com/watch?v=lh4jiSVlBao",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1Zc-UwZRnpR9FTTi4WOK7oJGyz1UD5UEu2ru8U8ytKPk"
+        },
+        {
+            "num": 48,
+            "youtube": "https://www.youtube.com/watch?v=1SaXuoJCWdc",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1uE-m-m5kDvwE8yDUHH2lPBt3N7w4smCIIUvlBafEE20"
+        },
+        {
+            "num": 49,
+            "youtube": "https://www.youtube.com/watch?v=ILrLtsdC50U",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1vcbmXj4quLU_V3gzCYa5WVfoVaAFvNj0geUILH7L8JM"
+        },
+        {
+            "num": 50,
+            "youtube": "https://www.youtube.com/watch?v=bPPvpz7szaY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1JPz77azSk09q3EuZp_5sCTS0DsTVQDZgEBzfCY70iBQ"
+        },
+        {
+            "num": 51,
+            "youtube": "https://www.youtube.com/watch?v=e8URsqvDj0M",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1uRApS8TBdvB-Doy1zjAfN8D2VVwjfRBxUzqV3eSlO0c"
+        },
+        {
+            "num": 52,
+            "youtube": "https://www.youtube.com/watch?v=1VEHM1xGTaw",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1O0W3tU6zO12J7KpxgGrNwjDfS3bgzUhjD98uluDM6a0"
+        },
+        {
+            "num": 53,
+            "youtube": "https://www.youtube.com/watch?v=r8vuiRDGl0w",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1-LnLA5txNO67U2PboK01dEXgIixSnR-Q73bCMFVfewo"
+        },
+        {
+            "num": 54,
+            "youtube": "https://www.youtube.com/watch?v=5TlKjcRDWHU",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/15dwPYd-0jUUZNtXqT8f-lnDNsT57GhmUoTCi--MapDA"
+        },
+        {
+            "num": 55,
+            "youtube": "https://www.youtube.com/watch?v=Dawrun4L2SU",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1WY56WpCB2VRbBD1x8iw90hK8oeJgxqwT33EseXImWp0"
+        },
+        {
+            "num": 56,
+            "youtube": "https://www.youtube.com/watch?v=v8AKnPXbKHY",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1oraksOq8qr3AVS0bNkKCpmws7t81yjupcyw-eEObpqA"
+        },
+        {
+            "num": 57,
+            "youtube": "https://www.youtube.com/watch?v=OzRCNNuLl8s",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1Pyx3mJqamL_kgfsDiWJRByeI0zKTY4bW2tUwxucrcSs"
+        },
+        {
+            "num": 58,
+            "youtube": "https://www.youtube.com/watch?v=ExyC0o4euHg",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/135vdiDfcq4S2mseaf5Rxj4qpY-Jdb0MM3MnG2a7fMa4"
+        },
+        {
+            "num": 59,
+            "youtube": "https://www.youtube.com/watch?v=02J5FKWVKvQ",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1bqu13YJA7EMYi6i9TzfMUEeGAhJVZY5VTLyBiz2n4qw"
+        },
+        {
+            "num": 60,
+            "youtube": "https://www.youtube.com/watch?v=_nxY19aoHmg",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/12mp1zzaIrQV0_sJHKA6EnqWbmIpHFs-MUezxL01TuX8"
+        }
+    ]
+}
