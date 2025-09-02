@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../喜羊羊与灰太狼TV/2019-跨时空救兵/跨时空救兵59 末日.mp4
-Video File: ../../../喜羊羊与灰太狼TV/2019-跨时空救兵/跨时空救兵59 末日.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 170
-Active Line: 179
-Video Position: 19624
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
@@ -140,7 +129,7 @@ Dialogue: 0,0:05:37.66,0:05:40.08,Default,,0,0,0,,No!
 Dialogue: 0,0:05:45.50,0:05:46.75,Default,,0,0,0,,Thanks, guys!
 Dialogue: 0,0:05:47.08,0:05:48.16,Default,,0,0,0,,We’re glad you’re okay.
 Dialogue: 0,0:05:48.41,0:05:49.25,Default,,0,0,0,,Enough chatting.
-Dialogue: 0,0:05:49.33,0:05:50.75,Default,,0,0,0,,Let's fix the control panel!
+Dialogue: 0,0:05:49.33,0:05:50.75,Default,,0,0,0,,Let’s fix the control panel!
 Dialogue: 0,0:05:55.00,0:05:56.41,Default,,0,0,0,,You may have rescued Doudou,
 Dialogue: 0,0:05:57.08,0:05:58.75,Default,,0,0,0,,but you won’t be succeeding.
 Dialogue: 0,0:06:03.83,0:06:04.41,Default,,0,0,0,,Oh no,

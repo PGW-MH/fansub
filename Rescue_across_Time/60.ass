@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../喜羊羊与灰太狼TV/2019-跨时空救兵/跨时空救兵60 逆转时空.mp4
-Video File: ../../../喜羊羊与灰太狼TV/2019-跨时空救兵/跨时空救兵60 逆转时空.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 227
-Active Line: 236
-Video Position: 19940
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
@@ -121,7 +110,7 @@ Dialogue: 0,0:03:59.00,0:04:00.66,Default,,0,0,0,,even if I have to do it alone!
 Dialogue: 0,0:04:00.91,0:04:01.75,Default,,0,0,0,,Taotao…
 Dialogue: 0,0:04:15.75,0:04:16.75,Default,,0,0,0,,What’s that?
 Dialogue: 0,0:04:18.25,0:04:20.08,Default,,0,0,0,,Taotao and Doudou must be over there.
-Dialogue: 0,0:04:20.41,0:04:21.66,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:04:20.41,0:04:21.66,Default,,0,0,0,,Let’s go.
 Dialogue: 0,0:04:26.08,0:04:27.25,Default,,0,0,0,,Watch out, guys!
 Dialogue: 0,0:04:35.75,0:04:37.50,Default,,0,0,0,,Everyone is back at last.
 Dialogue: 0,0:04:38.16,0:04:39.25,Default,,0,0,0,,What the…?
