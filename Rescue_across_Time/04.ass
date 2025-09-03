@@ -95,7 +95,7 @@ Dialogue: 0,0:03:40.41,0:03:42.00,Default,,0,0,0,,until I get to Wolnie!
 Dialogue: 0,0:03:42.25,0:03:44.41,Default,,0,0,0,,I’m coming to rescue you, Wolnie!
 Dialogue: 0,0:03:50.25,0:03:52.08,Default,,0,0,0,,Wolnie, what happened?
 Dialogue: 0,0:03:54.75,0:03:55.75,Default,,0,0,0,,You’ve done a lot.
-Dialogue: 0,0:03:57.33,0:03:58.66,Default,,0,0,0,,So now you’re back, huh?
+Dialogue: 0,0:03:57.33,0:03:58.66,Default,,0,0,0,,So {\i1}now{\i0} you’re back, huh?
 Dialogue: 0,0:04:00.91,0:04:01.83,Default,,0,0,0,,You’re okay?
 Dialogue: 0,0:04:02.08,0:04:02.66,Default,,0,0,0,,Me?
 Dialogue: 0,0:04:03.00,0:04:04.08,Default,,0,0,0,,Why would I not be okay?
@@ -124,7 +124,7 @@ Dialogue: 0,0:05:06.08,0:05:06.83,Default,,0,0,0,,Aha!
 Dialogue: 0,0:05:15.08,0:05:15.83,Default,,0,0,0,,Still not awake?
 Dialogue: 0,0:05:16.33,0:05:18.08,Default,,0,0,0,,To be honest, this goat looks quite chubby.
 Dialogue: 0,0:05:18.33,0:05:20.83,Default,,0,0,0,,The grassland in their village must be very fertile.
-Dialogue: 0,0:05:20.91,0:05:22.91,Default,,0,0,0,,I knew it! They do want to eat me!
+Dialogue: 0,0:05:20.91,0:05:22.91,Default,,0,0,0,,I knew it! They {\i1}do{\i0} want to eat me!
 Dialogue: 0,0:05:22.91,0:05:24.08,Default,,0,0,0,,I’ll ask him when he wakes up,
 Dialogue: 0,0:05:24.08,0:05:26.83,Default,,0,0,0,,and then I’ll take you to their grassland for fun.
 Dialogue: 0,0:05:26.83,0:05:27.66,Default,,0,0,0,,Yay!

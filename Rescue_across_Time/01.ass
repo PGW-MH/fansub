@@ -78,7 +78,7 @@ Dialogue: 0,0:02:21.08,0:02:23.16,Default,,0,0,0,,Wait for me!
 Dialogue: 0,0:02:24.16,0:02:26.50,Default,,0,0,0,,At this rate, you might as well just roll over here.
 Dialogue: 0,0:02:27.50,0:02:29.41,Default,,0,0,0,,Help me!
 Dialogue: 0,0:02:36.91,0:02:39.91,Default,,0,0,0,,Who the heck was the one who decided to come to this place?
-Dialogue: 0,0:02:39.91,0:02:41.25,Default,,0,0,0,,You.
+Dialogue: 0,0:02:39.91,0:02:41.25,Default,,0,0,0,,{\i1}You.{\i0}
 Dialogue: 0,0:02:45.00,0:02:46.25,Default,,0,0,0,,It’s so hot!
 Dialogue: 0,0:02:49.08,0:02:49.83,Default,,0,0,0,,Water!
 Dialogue: 0,0:02:52.33,0:02:53.50,Default,,0,0,0,,Mr. Slowy?
@@ -237,7 +237,7 @@ Dialogue: 0,0:13:02.50,0:13:04.58,Default,,0,0,0,,What the heck is that?
 Dialogue: 0,0:13:05.08,0:13:07.00,Default,,0,0,0,,Thank you, Weslie!
 Dialogue: 0,0:13:07.58,0:13:08.83,Default,,0,0,0,,I’ll be on my way now!
 Dialogue: 0,0:13:09.41,0:13:10.16,Default,,0,0,0,,Hey!
-Dialogue: 0,0:13:21.00,0:13:24.41,Default,,0,0,0,,This flare is a little too strong, isn’t it?
+Dialogue: 0,0:13:21.00,0:13:24.41,Default,,0,0,0,,This flare is a little {\i1}too{\i0} strong, isn’t it?
 Dialogue: 0,0:13:33.66,0:13:35.91,Default,,0,0,0,,This is the worst part of adventuring!
 Dialogue: 0,0:13:48.75,0:13:50.16,Default,,0,0,0,,Ouch, ouch, ouch!
 Dialogue: 0,0:13:50.41,0:13:52.08,Default,,0,0,0,,Is… Is that…

@@ -113,7 +113,7 @@ Dialogue: 0,0:06:17.08,0:06:17.91,Default,,0,0,0,,and go help the others as soon
 Dialogue: 0,0:06:18.75,0:06:19.16,Default,,0,0,0,,Okay.
 Dialogue: 0,0:06:21.25,0:06:23.58,Default,,0,0,0,,But how… how come we’re not getting any closer?
 Dialogue: 0,0:06:23.83,0:06:25.83,Default,,0,0,0,,I know, right? I’m so tired.
-Dialogue: 0,0:06:30.66,0:06:31.75,Default,,0,0,0,,I’m the one who’s tired!
+Dialogue: 0,0:06:30.66,0:06:31.75,Default,,0,0,0,,{\i1}I’m{\i0} the one who’s tired!
 Dialogue: 0,0:06:31.83,0:06:34.33,Default,,0,0,0,,Why did you shovel back all of the snow that I shoveled?
 Dialogue: 0,0:06:36.58,0:06:37.58,Default,,0,0,0,,Sorry about that.
 Dialogue: 0,0:06:38.25,0:06:40.16,Default,,0,0,0,,Apparently, the legend hidden in these ruins
@@ -189,13 +189,13 @@ Dialogue: 0,0:12:35.33,0:12:36.58,Default,,0,0,0,,Paddi!
 Dialogue: 0,0:12:36.75,0:12:37.50,Default,,0,0,0,,Paddi?
 Dialogue: 0,0:12:44.08,0:12:46.08,Default,,0,0,0,,You didn’t eat Paddi, did you?
 Dialogue: 0,0:12:48.41,0:12:49.91,Default,,0,0,0,,How can it be?
-Dialogue: 0,0:12:50.66,0:12:52.91,Default,,0,0,0,,Even I have never eaten mutton!
+Dialogue: 0,0:12:50.66,0:12:52.91,Default,,0,0,0,,Even {\i1}I{\i0} have never eaten mutton!
 Dialogue: 0,0:12:57.16,0:13:00.41,Default,,0,0,0,,Paddi,
 Dialogue: 0,0:13:00.83,0:13:02.33,Default,,0,0,0,,are you in there?
 Dialogue: 0,0:13:36.16,0:13:37.33,Default,,0,0,0,,Paddi?
 Dialogue: 0,0:13:38.75,0:13:39.91,Default,,0,0,0,,Paddi!?
 Dialogue: 0,0:13:41.33,0:13:43.91,Default,,0,0,0,,Thank goodness you weren’t eaten by the dinosaur.
-Dialogue: 0,0:13:45.41,0:13:48.00,Default,,0,0,0,,You’re saying that like I should’ve been eaten by you instead!
+Dialogue: 0,0:13:45.41,0:13:48.00,Default,,0,0,0,,You’re saying that like I should’ve been eaten by {\i1}you{\i0} instead!
 Dialogue: 0,0:13:52.41,0:13:53.25,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:13:54.66,0:13:57.25,Default,,0,0,0,,Run, guys!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

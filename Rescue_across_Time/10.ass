@@ -196,7 +196,7 @@ Dialogue: 0,0:10:40.83,0:10:42.66,Default,,0,0,0,,What did I do this for?
 Dialogue: 0,0:10:43.58,0:10:44.58,Default,,0,0,0,,Aha!
 Dialogue: 0,0:10:44.58,0:10:47.16,Default,,0,0,0,,I can use this to create force for launching!
 Dialogue: 0,0:10:51.08,0:10:53.33,Default,,0,0,0,,He’s still such a weirdo.
-Dialogue: 0,0:10:54.33,0:10:57.08,Default,,0,0,0,,Maybe he really will get to outer space someday.
+Dialogue: 0,0:10:54.33,0:10:57.08,Default,,0,0,0,,Maybe he really {\i1}will{\i0} get to outer space someday.
 Dialogue: 0,0:11:10.25,0:11:11.58,Default,,0,0,0,,Watch this!
 Dialogue: 0,0:11:20.75,0:11:21.83,Default,,0,0,0,,Wait, what?
 Dialogue: 0,0:11:21.83,0:11:23.33,Default,,0,0,0,,How are the missiles the same?

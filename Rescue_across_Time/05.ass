@@ -154,7 +154,7 @@ Dialogue: 0,0:06:25.41,0:06:26.75,Default,,0,0,0,,No problem!
 Dialogue: 0,0:06:26.75,0:06:28.91,Default,,0,0,0,,I’ll just use my satellite to search.
 Dialogue: 0,0:06:30.66,0:06:33.08,Default,,0,0,0,,It’ll take a photo of every corner of the grassland.
 Dialogue: 0,0:06:33.08,0:06:35.08,Default,,0,0,0,,Afterwards, we’ll take our time and hunt through.
-Dialogue: 0,0:06:35.08,0:06:36.75,Default,,0,0,0,,This many?
+Dialogue: 0,0:06:35.08,0:06:36.75,Default,,0,0,0,,{\i1}This{\i0} many?
 Dialogue: 0,0:06:39.75,0:06:41.75,Default,,0,0,0,,A familiar ceiling
 Dialogue: 0,0:06:41.75,0:06:43.58,Default,,0,0,0,,and familiar sounds?
 Dialogue: 0,0:06:44.16,0:06:46.66,Default,,0,0,0,,Weslie? What’s he doing with a wolf?
@@ -213,7 +213,7 @@ Dialogue: 0,0:09:25.91,0:09:27.25,Default,,0,0,0,,That doesn’t matter, though.
 Dialogue: 0,0:09:27.25,0:09:29.83,Default,,0,0,0,,What matters is that we’re friends now!
 Dialogue: 0,0:09:30.75,0:09:33.33,Default,,0,0,0,,So you weren’t talking to me!
 Dialogue: 0,0:09:38.16,0:09:39.00,Default,,0,0,0,,Is that
-Dialogue: 0,0:09:40.66,0:09:43.41,Default,,0,0,0,,my blueprint? It really is down the canyon!
+Dialogue: 0,0:09:40.66,0:09:43.41,Default,,0,0,0,,my blueprint? It really {\i1}is{\i0} down the canyon!
 Dialogue: 0,0:09:43.41,0:09:45.00,Default,,0,0,0,,Was I wrong about them?
 Dialogue: 0,0:09:45.00,0:09:46.08,Default,,0,0,0,,Marky,
 Dialogue: 0,0:09:46.83,0:09:50.16,Default,,0,0,0,,all of the stuff I just said was for you.
@@ -247,7 +247,7 @@ Dialogue: 0,0:11:59.83,0:12:01.58,Default,,0,0,0,,Weslie!
 Dialogue: 0,0:12:02.91,0:12:04.50,Default,,0,0,0,,Wolf-something!
 Dialogue: 0,0:12:08.25,0:12:09.08,Default,,0,0,0,,You…
 Dialogue: 0,0:12:09.08,0:12:11.25,Default,,0,0,0,,You guys are over here? But over there—
-Dialogue: 0,0:12:16.50,0:12:18.75,Default,,0,0,0,,My name is Wolffy.
+Dialogue: 0,0:12:16.50,0:12:18.75,Default,,0,0,0,,My name is {\i1}Wolffy.{\i0}
 Dialogue: 0,0:12:19.08,0:12:20.91,Default,,0,0,0,,Plus, I’m not dead.
 Dialogue: 0,0:12:20.91,0:12:21.75,Default,,0,0,0,,Here.
 Dialogue: 0,0:12:23.83,0:12:25.33,Default,,0,0,0,,Thanks, guys!
