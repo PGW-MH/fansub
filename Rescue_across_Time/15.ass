@@ -225,8 +225,8 @@ Dialogue: 0,0:11:41.08,0:11:43.25,Default,,0,0,0,,let me take their punishment f
 Dialogue: 0,0:11:45.66,0:11:48.25,Default,,0,0,0,,Alright, then. Lock her in the dungeon.
 Dialogue: 0,0:11:52.91,0:11:54.41,Default,,0,0,0,,Mom!
 Dialogue: 0,0:11:56.41,0:11:59.00,Default,,0,0,0,,I’m sorry, Mom!
-Dialogue: 0,0:11:59.66,0:12:01.52,Default,,0,0,0,,It was my fault, Mom!
-Dialogue: 0,0:12:01.52,0:12:03.41,Default,,0,0,0,,It was my fault!
+Dialogue: 0,0:11:59.66,0:12:01.52,Default,,0,0,0,,It was {\i1}my{\i0} fault, Mom!
+Dialogue: 0,0:12:01.52,0:12:03.41,Default,,0,0,0,,It was {\i1}my{\i0} fault!
 Dialogue: 0,0:12:06.41,0:12:09.16,Default,,0,0,0,,Next up, it’s time to punish you two.
 Dialogue: 0,0:12:11.66,0:12:13.41,Default,,0,0,0,,Please, let them go!
 Dialogue: 0,0:12:14.00,0:12:16.50,Default,,0,0,0,,They had a reason for doing this.

@@ -80,7 +80,7 @@ Dialogue: 0,0:02:28.33,0:02:30.08,Default,,0,0,0,,I’m running with my legs,
 Dialogue: 0,0:02:30.08,0:02:31.66,Default,,0,0,0,,but you guys are flying airplanes!
 Dialogue: 0,0:02:31.66,0:02:32.41,Default,,0,0,0,,That’s cheating!
 Dialogue: 0,0:02:32.41,0:02:35.08,Default,,0,0,0,,Those who cheat shall slip on banana peels!
-Dialogue: 0,0:02:37.08,0:02:41.50,Default,,0,0,0,,How come I’m the one who slips on a banana peel?
+Dialogue: 0,0:02:37.08,0:02:41.50,Default,,0,0,0,,How come {\i1}I’m{\i0} the one who slips on a banana peel?
 Dialogue: 0,0:02:42.50,0:02:44.00,Default,,0,0,0,,Jollie!
 Dialogue: 0,0:02:53.41,0:02:58.75,Default,,0,0,0,,Someone come rescue this handsome, twisted-destined egg!
 Dialogue: 0,0:02:59.91,0:03:01.66,Default,,0,0,0,,I’ll get you.
@@ -184,7 +184,7 @@ Dialogue: 0,0:07:45.91,0:07:46.83,Default,,0,0,0,,Pay us back!
 Dialogue: 0,0:07:51.08,0:07:52.50,Default,,0,0,0,,I’ve finally escaped them.
 Dialogue: 0,0:07:53.83,0:07:56.08,Default,,0,0,0,,Messing around with Darton is so much fun!
 Dialogue: 0,0:08:00.25,0:08:02.08,Default,,0,0,0,,Darton!
-Dialogue: 0,0:08:02.16,0:08:04.25,Default,,0,0,0,,So you were also shooting me with water guns,
+Dialogue: 0,0:08:02.16,0:08:04.25,Default,,0,0,0,,So {\i1}you{\i0} were also shooting me with water guns,
 Dialogue: 0,0:08:04.41,0:08:05.66,Default,,0,0,0,,Wolffy!
 Dialogue: 0,0:08:06.08,0:08:07.50,Default,,0,0,0,,Uh…
 Dialogue: 0,0:08:08.33,0:08:08.60,Default,,0,0,0,,It…
@@ -244,7 +244,7 @@ Dialogue: 0,0:11:21.25,0:11:22.75,Default,,0,0,0,,Just go straight to Darton!
 Dialogue: 0,0:11:34.08,0:11:35.58,Default,,0,0,0,,Tibbie, what happened?
 Dialogue: 0,0:11:35.75,0:11:37.66,Default,,0,0,0,,We can’t move!
 Dialogue: 0,0:11:38.16,0:11:39.66,Default,,0,0,0,,It wasn’t my fault.
-Dialogue: 0,0:11:39.91,0:11:41.08,Default,,0,0,0,,It was yours.
+Dialogue: 0,0:11:39.91,0:11:41.08,Default,,0,0,0,,It was {\i1}yours.{\i0}
 Dialogue: 0,0:11:41.75,0:11:43.25,Default,,0,0,0,,What kind of tactic was that?
 Dialogue: 0,0:11:44.16,0:11:45.00,Default,,0,0,0,,Whatever.
 Dialogue: 0,0:11:45.25,0:11:47.25,Default,,0,0,0,,I’ll just finish you guys off!

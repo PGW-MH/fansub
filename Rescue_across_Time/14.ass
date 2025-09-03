@@ -107,7 +107,7 @@ Dialogue: 0,0:04:12.91,0:04:13.75,Default,,0,0,0,,That’s too bad, then.
 Dialogue: 0,0:04:15.16,0:04:17.16,Default,,0,0,0,,I guess Jollie won’t be able to eat
 Dialogue: 0,0:04:17.16,0:04:19.25,Default,,0,0,0,,the premium caramel cheesecake.
 Dialogue: 0,0:04:21.91,0:04:22.58,Default,,0,0,0,,Mmm!
-Dialogue: 0,0:04:22.66,0:04:25.25,Default,,0,0,0,,Only this quality of cake is suitable for my palate.
+Dialogue: 0,0:04:22.66,0:04:25.25,Default,,0,0,0,,Only {\i1}this{\i0} quality of cake is suitable for my palate.
 Dialogue: 0,0:04:26.00,0:04:28.00,Default,,0,0,0,,Wasn’t your tooth hurting, Jollie?
 Dialogue: 0,0:04:34.75,0:04:36.16,Default,,0,0,0,,I don’t want to go home!
 Dialogue: 0,0:04:36.16,0:04:37.08,Default,,0,0,0,,You must!
@@ -126,12 +126,12 @@ Dialogue: 0,0:05:12.58,0:05:14.66,Default,,0,0,0,,I’ll yell all that I want. W
 Dialogue: 0,0:05:15.66,0:05:17.75,Default,,0,0,0,,How dare you talk back to me!
 Dialogue: 0,0:05:18.08,0:05:19.83,Default,,0,0,0,,How dare you question me!
 Dialogue: 0,0:05:21.08,0:05:23.33,Default,,0,0,0,,I’ll show you what I’m made of!
-Dialogue: 0,0:05:24.08,0:05:26.08,Default,,0,0,0,,I’ll show you what I’m made of!
+Dialogue: 0,0:05:24.08,0:05:26.08,Default,,0,0,0,,I’ll show you what {\i1}I’m{\i0} made of!
 Dialogue: 0,0:05:28.75,0:05:30.08,Default,,0,0,0,,How dare you splash me!
 Dialogue: 0,0:05:36.08,0:05:38.33,Default,,0,0,0,,Still want to bully me?
 Dialogue: 0,0:05:41.00,0:05:42.91,Default,,0,0,0,,You two are brothers. Stop fighting.
 Dialogue: 0,0:05:43.16,0:05:44.75,Default,,0,0,0,,We’re not brothers!
-Dialogue: 0,0:05:46.16,0:05:47.91,Default,,0,0,0,,But you guys are actual brothers.
+Dialogue: 0,0:05:46.16,0:05:47.91,Default,,0,0,0,,But you guys {\i1}are{\i0} actual brothers.
 Dialogue: 0,0:05:48.75,0:05:50.16,Default,,0,0,0,,I have no such brother like you.
 Dialogue: 0,0:05:52.75,0:05:53.33,Default,,0,0,0,,Don’t leave!
 Dialogue: 0,0:05:53.33,0:05:54.50,Default,,0,0,0,,Let me out!
@@ -233,8 +233,8 @@ Dialogue: 0,0:13:11.25,0:13:13.83,Default,,0,0,0,,Can’t you see that I’ve do
 Dialogue: 0,0:13:20.25,0:13:22.33,Default,,0,0,0,,We can finally send them home.
 Dialogue: 0,0:13:23.33,0:13:24.83,Default,,0,0,0,,You black-hearted egg!
 Dialogue: 0,0:13:24.91,0:13:26.83,Default,,0,0,0,,If it weren’t for you, I’d have escaped by now!
-Dialogue: 0,0:13:28.08,0:13:29.00,Default,,0,0,0,,Me?
-Dialogue: 0,0:13:29.16,0:13:30.08,Default,,0,0,0,,If it weren’t for you,
+Dialogue: 0,0:13:28.08,0:13:29.00,Default,,0,0,0,,{\i1}Me?{\i0}
+Dialogue: 0,0:13:29.16,0:13:30.08,Default,,0,0,0,,If it weren’t for {\i1}you,{\i0}
 Dialogue: 0,0:13:30.16,0:13:32.66,Default,,0,0,0,,I would never have been captured again!
 Dialogue: 0,0:13:35.33,0:13:37.33,Default,,0,0,0,,Can’t you two brothers just calm down?
 Dialogue: 0,0:13:38.16,0:13:39.75,Default,,0,0,0,,We’re not brothers.
