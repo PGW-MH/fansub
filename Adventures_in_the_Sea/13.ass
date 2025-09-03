@@ -146,7 +146,7 @@ Dialogue: 0,0:08:25.16,0:08:26.04,Default,,0,0,0,,There he is!
 Dialogue: 0,0:08:29.00,0:08:32.12,Default,,0,0,0,,There’s been a traffic accident ahead; please take a detour.
 Dialogue: 0,0:08:36.68,0:08:39.00,Default,,0,0,0,,These are the consequences of reckless driving.
 Dialogue: 0,0:08:39.16,0:08:41.56,Default,,0,0,0,,I wouldn’t want a second vehicle to meet the same fate.
-Dialogue: 0,0:08:46.92,0:08:48.36,Default,,0,0,0,,There really is a second vehicle!
+Dialogue: 0,0:08:46.92,0:08:48.36,Default,,0,0,0,,There really {\i1}is{\i0} a second vehicle!
 Dialogue: 0,0:08:52.92,0:08:53.72,Default,,0,0,0,,Weslie,
 Dialogue: 0,0:08:53.96,0:08:56.20,Default,,0,0,0,,you must watch the road carefully from now on.
 Dialogue: 0,0:08:56.92,0:08:57.96,Default,,0,0,0,,I’m sorry.
