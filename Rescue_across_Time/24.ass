@@ -120,7 +120,7 @@ Dialogue: 0,0:04:43.75,0:04:46.41,Default,,0,0,0,,How can you prove that these a
 Dialogue: 0,0:04:46.75,0:04:50.00,Default,,0,0,0,,How about you fly them for us?
 Dialogue: 0,0:04:51.16,0:04:54.75,Default,,0,0,0,,Well, that’s a piece of cake for a genius like me.
 Dialogue: 0,0:04:56.16,0:04:56.83,Default,,0,0,0,,Hold on,
-Dialogue: 0,0:04:58.75,0:05:00.33,Default,,0,0,0,,I want you to fly this one.
+Dialogue: 0,0:04:58.75,0:05:00.33,Default,,0,0,0,,I want you to fly {\i1}this{\i0} one.
 Dialogue: 0,0:05:00.58,0:05:02.33,Default,,0,0,0,,No problem.
 Dialogue: 0,0:05:25.75,0:05:27.75,Default,,0,0,0,,You’re still saying these airplanes are yours?
 Dialogue: 0,0:05:51.08,0:05:53.00,Default,,0,0,0,,These airplanes aren’t too bad.
@@ -197,7 +197,7 @@ Dialogue: 0,0:10:27.58,0:10:30.00,Default,,0,0,0,,so I brought a frying pan to h
 Dialogue: 0,0:10:32.58,0:10:33.50,Default,,0,0,0,,What’s this?
 Dialogue: 0,0:10:34.25,0:10:35.25,Default,,0,0,0,,A… A candle.
 Dialogue: 0,0:10:35.41,0:10:37.08,Default,,0,0,0,,I wanted to set the mood a little.
-Dialogue: 0,0:10:46.83,0:10:49.16,Default,,0,0,0,,Maybe you have come to rescue the goats.
+Dialogue: 0,0:10:46.83,0:10:49.16,Default,,0,0,0,,Maybe you {\i1}have{\i0} come to rescue the goats.
 Dialogue: 0,0:10:49.33,0:10:51.50,Default,,0,0,0,,I swear I came to eat them!
 Dialogue: 0,0:10:52.16,0:10:53.08,Default,,0,0,0,,Suspicious!
 Dialogue: 0,0:10:53.25,0:10:54.75,Default,,0,0,0,,Get him!
@@ -223,7 +223,7 @@ Dialogue: 0,0:12:54.16,0:12:55.50,Default,,0,0,0,,Someone help!
 Dialogue: 0,0:12:55.75,0:12:56.75,Default,,0,0,0,,Goodbye!
 Dialogue: 0,0:13:02.00,0:13:04.33,Default,,0,0,0,,You forgot about me, didn’t you?
 Dialogue: 0,0:13:08.83,0:13:10.41,Default,,0,0,0,,You
-Dialogue: 0,0:13:10.41,0:13:11.83,Default,,0,0,0,,forgot about me, didn’t you?
+Dialogue: 0,0:13:10.41,0:13:11.83,Default,,0,0,0,,forgot about {\i1}me,{\i0} didn’t you?
 Dialogue: 0,0:13:17.50,0:13:20.08,Default,,0,0,0,,Goodbye, Seven Evil Wolves!
 Dialogue: 0,0:13:21.66,0:13:24.00,Default,,0,0,0,,Wolffy, you traitor!
 Dialogue: 0,0:13:27.25,0:13:29.08,Default,,0,0,0,,You’re incredible, Weslie!

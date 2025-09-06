@@ -94,7 +94,7 @@ Dialogue: 0,0:03:23.16,0:03:25.75,Default,,0,0,0,,Did he not understand what I m
 Dialogue: 0,0:03:27.33,0:03:29.41,Default,,0,0,0,,Why does my head hurt so badly?
 Dialogue: 0,0:03:31.58,0:03:33.33,Default,,0,0,0,,You little goats,
 Dialogue: 0,0:03:34.75,0:03:37.83,Default,,0,0,0,,I’m going to get you!
-Dialogue: 0,0:03:56.50,0:03:59.83,Default,,0,0,0,,Well, now he’s certainly not going to wake up for a while.
+Dialogue: 0,0:03:56.50,0:03:59.83,Default,,0,0,0,,Well, {\i1}now{\i0} he’s certainly not going to wake up for a while.
 Dialogue: 0,0:04:02.25,0:04:04.16,Default,,0,0,0,,Let’s go rescue Wolffy.
 Dialogue: 0,0:04:04.50,0:04:06.83,Default,,0,0,0,,What about this Wolffy, then?
 Dialogue: 0,0:04:07.50,0:04:08.83,Default,,0,0,0,,I have an idea.
@@ -152,7 +152,7 @@ Dialogue: 0,0:08:03.25,0:08:04.75,Default,,0,0,0,,Oh, it’s a mirror.
 Dialogue: 0,0:08:12.16,0:08:13.25,Default,,0,0,0,,What is she doing?
 Dialogue: 0,0:08:14.33,0:08:15.50,Default,,0,0,0,,Mirror, mirror, on the wall,
 Dialogue: 0,0:08:15.50,0:08:18.33,Default,,0,0,0,,who’s the fairest of them all?
-Dialogue: 0,0:08:19.16,0:08:21.33,Default,,0,0,0,,Well, of course it’s you, Tibbie.
+Dialogue: 0,0:08:19.16,0:08:21.33,Default,,0,0,0,,Well, of course it’s {\i1}you{\i0}, Tibbie.
 Dialogue: 0,0:08:24.00,0:08:27.00,Default,,0,0,0,,Ma’am, we’re patrolling elsewhere now.
 Dialogue: 0,0:08:27.91,0:08:28.83,Default,,0,0,0,,I know.
 Dialogue: 0,0:08:34.58,0:08:36.83,Default,,0,0,0,,I guess tricking myself isn’t as easy as it looks.
@@ -182,9 +182,9 @@ Dialogue: 0,0:09:47.66,0:09:48.75,Default,,0,0,0,,I was the one who arrested the
 Dialogue: 0,0:09:48.75,0:09:50.25,Default,,0,0,0,,Why would I set them free?
 Dialogue: 0,0:09:50.66,0:09:52.33,Default,,0,0,0,,Are you trying to show off to me?
 Dialogue: 0,0:09:52.83,0:09:55.66,Default,,0,0,0,,Do you really think I’d be scared of some stupid Tibbie?
-Dialogue: 0,0:09:56.50,0:09:57.91,Default,,0,0,0,,I wouldn’t even be scared of two!
+Dialogue: 0,0:09:56.50,0:09:57.91,Default,,0,0,0,,I wouldn’t even be scared of {\i1}two!{\i0}
 Dialogue: 0,0:09:58.33,0:09:59.58,Default,,0,0,0,,What are you guys doing?
-Dialogue: 0,0:10:03.50,0:10:05.58,Default,,0,0,0,,There’s actually two?
+Dialogue: 0,0:10:03.50,0:10:05.58,Default,,0,0,0,,There’s {\i1}actually{\i0} two?
 Dialogue: 0,0:10:05.58,0:10:07.08,Default,,0,0,0,,What’s going on?
 Dialogue: 0,0:10:13.16,0:10:14.08,Default,,0,0,0,,Darton,
 Dialogue: 0,0:10:14.25,0:10:15.33,Default,,0,0,0,,she’s impersonating me!
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:30.16,0:12:32.66,Default,,0,0,0,,I couldn’t stop the force!
 Dialogue: 0,0:12:32.91,0:12:34.66,Default,,0,0,0,,It hurts so badly that I’m passing out!
 Dialogue: 0,0:12:39.33,0:12:41.50,Default,,0,0,0,,Who’s going to believe such bad acting?
 Dialogue: 0,0:12:41.50,0:12:43.91,Default,,0,0,0,,Lock up this fake Tibbie!
-Dialogue: 0,0:12:45.75,0:12:48.50,Default,,0,0,0,,I’m the real one, Darton!
+Dialogue: 0,0:12:45.75,0:12:48.50,Default,,0,0,0,,{\i1}I’m{\i0} the real one, Darton!
 Dialogue: 0,0:12:49.68,0:12:50.66,Default,,0,0,0,,Darton,
 Dialogue: 0,0:12:51.33,0:12:52.75,Default,,0,0,0,,you’re a genius!
 Dialogue: 0,0:12:53.58,0:12:56.33,Default,,0,0,0,,Now, go lock up those goats.

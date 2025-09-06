@@ -143,8 +143,8 @@ Dialogue: 0,0:06:18.41,0:06:20.16,Default,,0,0,0,,…And that’s what happened.
 Dialogue: 0,0:06:21.41,0:06:25.00,Default,,0,0,0,,Why didn’t you guys return the baby to its actual parents?
 Dialogue: 0,0:06:25.16,0:06:26.08,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:06:26.08,0:06:28.16,Default,,0,0,0,,I’m the baby’s father.
-Dialogue: 0,0:06:28.91,0:06:30.41,Default,,0,0,0,,I’m the baby’s father!
-Dialogue: 0,0:06:30.41,0:06:36.58,Default,,0,0,0,,I am! I am!
+Dialogue: 0,0:06:28.91,0:06:30.41,Default,,0,0,0,,{\i1}I’m{\i0} the baby’s father!
+Dialogue: 0,0:06:30.41,0:06:36.58,Default,,0,0,0,,{\i1}I{\i0} am! {\i1}I{\i0} am!
 Dialogue: 0,0:06:36.58,0:06:37.41,Default,,0,0,0,,Enough!
 Dialogue: 0,0:06:37.83,0:06:39.08,Default,,0,0,0,,Give the baby back to me!
 Dialogue: 0,0:06:52.08,0:06:53.00,Default,,0,0,0,,Daddy!
@@ -178,7 +178,7 @@ Dialogue: 0,0:08:44.25,0:08:46.58,Default,,0,0,0,,What’s with all the traps he
 Dialogue: 0,0:08:55.41,0:08:56.58,Default,,0,0,0,,Buddy!
 Dialogue: 0,0:08:58.33,0:08:59.50,Default,,0,0,0,,Werewolf?
 Dialogue: 0,0:08:59.50,0:09:00.83,Default,,0,0,0,,I’ve been caught!
-Dialogue: 0,0:09:01.75,0:09:03.91,Default,,0,0,0,,So this was all your doing!
+Dialogue: 0,0:09:01.75,0:09:03.91,Default,,0,0,0,,So this was all {\i1}your{\i0} doing!
 Dialogue: 0,0:09:03.91,0:09:05.66,Default,,0,0,0,,We’ll just have to do this the hard way.
 Dialogue: 0,0:09:07.83,0:09:08.75,Default,,0,0,0,,Run!
 Dialogue: 0,0:09:09.66,0:09:10.83,Default,,0,0,0,,Hurricane!

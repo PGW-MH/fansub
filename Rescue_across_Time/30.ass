@@ -154,11 +154,11 @@ Dialogue: 0,0:06:41.75,0:06:43.33,Default,,0,0,0,,Whose baby is this?
 Dialogue: 0,0:06:44.00,0:06:45.33,Default,,0,0,0,,Daddy! Daddy!
 Dialogue: 0,0:06:46.08,0:06:48.50,Default,,0,0,0,,He’s calling you “Daddy,” so just admit it.
 Dialogue: 0,0:06:49.08,0:06:49.58,Default,,0,0,0,,Daddy!
-Dialogue: 0,0:06:51.33,0:06:53.33,Default,,0,0,0,,He calls you “Daddy,” too.
+Dialogue: 0,0:06:51.33,0:06:53.33,Default,,0,0,0,,He calls {\i1}you{\i0} “Daddy,” too.
 Dialogue: 0,0:06:53.58,0:06:55.08,Default,,0,0,0,,Uh…
 Dialogue: 0,0:07:00.33,0:07:02.25,Default,,0,0,0,,But Patriarch,
 Dialogue: 0,0:07:02.58,0:07:03.58,Default,,0,0,0,,the baby looks just like you.
-Dialogue: 0,0:07:03.75,0:07:05.08,Default,,0,0,0,,He must be your child, right?
+Dialogue: 0,0:07:03.75,0:07:05.08,Default,,0,0,0,,He must be {\i1}your{\i0} child, right?
 Dialogue: 0,0:07:06.08,0:07:07.08,Default,,0,0,0,,What are you talking about?
 Dialogue: 0,0:07:07.50,0:07:09.08,Default,,0,0,0,,I’m so young and handsome.
 Dialogue: 0,0:07:09.33,0:07:11.16,Default,,0,0,0,,Do I look like I have a child that’s this old?
@@ -187,7 +187,7 @@ Dialogue: 0,0:08:35.08,0:08:36.33,Default,,0,0,0,,Good thing I made it in time.
 Dialogue: 0,0:08:38.08,0:08:39.91,Default,,0,0,0,,No one can stop me now.
 Dialogue: 0,0:08:44.33,0:08:45.66,Default,,0,0,0,,What’s the matter with you?
 Dialogue: 0,0:08:46.33,0:08:48.25,Default,,0,0,0,,Are you done yet?
-Dialogue: 0,0:08:49.08,0:08:52.33,Default,,0,0,0,,You’re the one who’s not done. You haven’t finished cleaning.
+Dialogue: 0,0:08:49.08,0:08:52.33,Default,,0,0,0,,{\i1}You’re{\i0} the one who’s not done. You haven’t finished cleaning.
 Dialogue: 0,0:08:53.58,0:08:55.75,Default,,0,0,0,,Can’t I just go back and do it later?
 Dialogue: 0,0:08:56.08,0:08:57.02,Default,,0,0,0,,No need for that.
 Dialogue: 0,0:08:57.41,0:08:58.91,Default,,0,0,0,,I’ve brought it over for you.

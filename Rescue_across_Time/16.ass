@@ -73,7 +73,7 @@ Dialogue: 0,0:02:10.33,0:02:13.00,Default,,0,0,0,,This should be the correct tim
 Dialogue: 0,0:02:13.00,0:02:16.16,Default,,0,0,0,,I wonder what the Wolffy from this timespace is doing.
 Dialogue: 0,0:02:29.25,0:02:30.83,Default,,0,0,0,,I just knew that Mom loves me more.
 Dialogue: 0,0:02:33.41,0:02:36.00,Default,,0,0,0,,She gave all of the leftover honey to me.
-Dialogue: 0,0:02:40.25,0:02:42.58,Default,,0,0,0,,Mom obviously gave it to me!
+Dialogue: 0,0:02:40.25,0:02:42.58,Default,,0,0,0,,Mom obviously gave it to {\i1}me!{\i0}
 Dialogue: 0,0:02:43.08,0:02:45.16,Default,,0,0,0,,I’m older! Listen to me!
 Dialogue: 0,0:02:46.50,0:02:47.58,Default,,0,0,0,,Let go!
 Dialogue: 0,0:02:48.33,0:02:51.00,Default,,0,0,0,,I’m younger! Be nice to me!
@@ -153,9 +153,9 @@ Dialogue: 0,0:07:55.50,0:07:57.25,Default,,0,0,0,,Lock me in the dungeon if you 
 Dialogue: 0,0:08:00.25,0:08:01.58,Default,,0,0,0,,Wolffy,
 Dialogue: 0,0:08:02.33,0:08:03.58,Default,,0,0,0,,well done!
 Dialogue: 0,0:08:03.58,0:08:05.41,Default,,0,0,0,,Apparently, there’s a worm in the apple.
-Dialogue: 0,0:08:07.91,0:08:11.16,Default,,0,0,0,,Why zap me when you’re both happy and unhappy?
+Dialogue: 0,0:08:07.91,0:08:11.16,Default,,0,0,0,,Why zap me when you’re both happy {\i1}and{\i0} unhappy?
 Dialogue: 0,0:08:15.41,0:08:16.58,Default,,0,0,0,,It broke?
-Dialogue: 0,0:08:17.25,0:08:19.91,Default,,0,0,0,,There’s no way you won’t be angry about this.
+Dialogue: 0,0:08:17.25,0:08:19.91,Default,,0,0,0,,There’s no way you won’t be angry about {\i1}this.{\i0}
 Dialogue: 0,0:08:20.83,0:08:21.66,Default,,0,0,0,,This…
 Dialogue: 0,0:08:22.81,0:08:23.81,Default,,0,0,0,,This…
 Dialogue: 0,0:08:27.25,0:08:28.50,Default,,0,0,0,,Finally angry?
