@@ -134,7 +134,7 @@ Dialogue: 0,0:05:39.33,0:05:39.93,Default,,0,0,0,,Give it to me!\h\h
 Dialogue: 0,0:05:39.93,0:05:40.50,Default,,0,0,0,,Give it to me!
 Dialogue: 0,0:05:40.50,0:05:42.00,Default,,0,0,0,,What in the world do you want, Werewolf?
 Dialogue: 0,0:05:43.00,0:05:44.16,Default,,0,0,0,,I’m not telling you!
-Dialogue: 0,0:05:47.08,0:05:48.50,Default,,0,0,0,,You forgot about me, didn’t you?
+Dialogue: 0,0:05:47.08,0:05:48.50,Default,,0,0,0,,You forgot about {\i1}me{\i0}, didn’t you?
 Dialogue: 0,0:05:53.16,0:05:53.58,Default,,0,0,0,,Yeah,
 Dialogue: 0,0:05:54.00,0:05:55.66,Default,,0,0,0,,Wolffy’s a good wolf now.
 Dialogue: 0,0:05:57.08,0:05:57.41,Default,,0,0,0,,Oh no,
@@ -174,7 +174,7 @@ Dialogue: 0,0:07:57.50,0:07:58.25,Default,,0,0,0,,How strange.
 Dialogue: 0,0:08:01.66,0:08:05.41,Default,,0,0,0,,Tibbie was talking about Weslie’s attitude towards Wolffy.
 Dialogue: 0,0:08:05.75,0:08:08.58,Default,,0,0,0,,Yeah, he even said that Wolffy’s a bad guy!
 Dialogue: 0,0:08:10.41,0:08:13.00,Default,,0,0,0,,Giving us such disgusting fried rice
-Dialogue: 0,0:08:13.66,0:08:14.58,Default,,0,0,0,,does make him a bad guy.
+Dialogue: 0,0:08:13.66,0:08:14.58,Default,,0,0,0,,{\i1}does{\i0} make him a bad guy.
 Dialogue: 0,0:08:15.41,0:08:16.75,Default,,0,0,0,,Guys, meet at Wolf Fortress!
 Dialogue: 0,0:08:18.00,0:08:19.75,Default,,0,0,0,,Wolffy’s prototype has been stolen.
 Dialogue: 0,0:08:20.08,0:08:20.91,Default,,0,0,0,,Let’s investigate.

@@ -77,7 +77,7 @@ Dialogue: 0,0:02:16.41,0:02:18.91,Default,,0,0,0,,Let’s fly!
 Dialogue: 0,0:02:19.50,0:02:20.66,Default,,0,0,0,,We’ve been looking for so long.
 Dialogue: 0,0:02:20.83,0:02:22.66,Default,,0,0,0,,Whose family does the baby belong to, anyway?
 Dialogue: 0,0:02:23.25,0:02:24.66,Default,,0,0,0,,Well…
-Dialogue: 0,0:02:25.25,0:02:27.33,Default,,0,0,0,,He might just be your baby.
+Dialogue: 0,0:02:25.25,0:02:27.33,Default,,0,0,0,,He might just be {\i1}your{\i0} baby.
 Dialogue: 0,0:02:27.75,0:02:29.83,Default,,0,0,0,,How is that possible? I’m still so young!
 Dialogue: 0,0:02:33.08,0:02:34.25,Default,,0,0,0,,Let go!
 Dialogue: 0,0:02:34.75,0:02:35.83,Default,,0,0,0,,Hey, let go!
@@ -159,7 +159,7 @@ Dialogue: 0,0:05:50.83,0:05:51.58,Default,,0,0,0,,Start.
 Dialogue: 0,0:05:53.00,0:05:54.08,Default,,0,0,0,,All done!
 Dialogue: 0,0:05:54.58,0:05:55.75,Default,,0,0,0,,Let me see.
 Dialogue: 0,0:06:03.33,0:06:04.66,Default,,0,0,0,,Not like that.
-Dialogue: 0,0:06:04.66,0:06:06.83,Default,,0,0,0,,Why can’t you even do this one right?
+Dialogue: 0,0:06:04.66,0:06:06.83,Default,,0,0,0,,Why can’t you even do {\i1}this{\i0} one right?
 Dialogue: 0,0:06:07.91,0:06:09.16,Default,,0,0,0,,I’m sorry, Daddy.
 Dialogue: 0,0:06:10.33,0:06:12.08,Default,,0,0,0,,Whatever. Let’s end here for today.
 Dialogue: 0,0:06:15.25,0:06:15.50,Default,,0,0,0,,Daddy…
@@ -243,7 +243,7 @@ Dialogue: 0,0:10:51.08,0:10:52.91,Default,,0,0,0,,I won’t let you hurt them!
 Dialogue: 0,0:10:53.91,0:10:56.25,Default,,0,0,0,,You think you can stop me?
 Dialogue: 0,0:10:58.25,0:10:59.91,Default,,0,0,0,,You’re no match!
 Dialogue: 0,0:11:08.58,0:11:10.50,Default,,0,0,0,,Not too bad, huh?
-Dialogue: 0,0:11:11.33,0:11:13.75,Default,,0,0,0,,Have a taste of this, then!
+Dialogue: 0,0:11:11.33,0:11:13.75,Default,,0,0,0,,Have a taste of {\i1}this{\i0}, then!
 Dialogue: 0,0:11:14.75,0:11:16.16,Default,,0,0,0,,Run, son!
 Dialogue: 0,0:11:17.50,0:11:18.83,Default,,0,0,0,,Trying to run?
 Dialogue: 0,0:11:26.66,0:11:27.50,Default,,0,0,0,,Daddy!

@@ -96,7 +96,7 @@ Dialogue: 0,0:04:39.68,0:04:39.89,Default,,0,0,0,,Dad,
 Dialogue: 0,0:04:40.58,0:04:41.91,Default,,0,0,0,,the truth is, we’re—
 Dialogue: 0,0:04:43.08,0:04:44.41,Default,,0,0,0,,Where’s my brother?
 Dialogue: 0,0:04:46.58,0:04:48.08,Default,,0,0,0,,Where’s Paddi?
-Dialogue: 0,0:04:49.41,0:04:50.83,Default,,0,0,0,,Are you looking for him?
+Dialogue: 0,0:04:49.41,0:04:50.83,Default,,0,0,0,,Are you looking for {\i1}him?{\i0}
 Dialogue: 0,0:04:51.16,0:04:52.16,Default,,0,0,0,,Paddi!
 Dialogue: 0,0:04:53.16,0:04:55.16,Default,,0,0,0,,What are you doing here, Taotao?
 Dialogue: 0,0:04:55.91,0:04:57.16,Default,,0,0,0,,Bad news, Weslie!
@@ -149,7 +149,7 @@ Dialogue: 0,0:08:29.66,0:08:30.50,Default,,0,0,0,,This is—
 Dialogue: 0,0:08:37.66,0:08:37.91,Default,,0,0,0,,Dad?
 Dialogue: 0,0:08:39.83,0:08:40.75,Default,,0,0,0,,You brat,
 Dialogue: 0,0:08:40.75,0:08:43.16,Default,,0,0,0,,did you really think I didn’t already know?
-Dialogue: 0,0:08:45.25,0:08:46.66,Default,,0,0,0,,I do understand my son, actually.
+Dialogue: 0,0:08:45.25,0:08:46.66,Default,,0,0,0,,I {\i1}do{\i0} understand my son, actually.
 Dialogue: 0,0:08:50.25,0:08:51.58,Default,,0,0,0,,Behind this gate
 Dialogue: 0,0:08:52.75,0:08:54.83,Default,,0,0,0,,is the timespace that I’m returning to, right?
 Dialogue: 0,0:08:58.58,0:08:59.08,Default,,0,0,0,,Dad,
@@ -163,7 +163,7 @@ Dialogue: 0,0:09:23.91,0:09:27.08,Default,,0,0,0,,wanting you to grow up and bec
 Dialogue: 0,0:09:27.91,0:09:29.16,Default,,0,0,0,,a hero of the Wolf Clan.
 Dialogue: 0,0:09:30.83,0:09:31.50,Default,,0,0,0,,However,
 Dialogue: 0,0:09:32.16,0:09:33.08,Default,,0,0,0,,I didn’t realize
-Dialogue: 0,0:09:33.41,0:09:36.00,Default,,0,0,0,,that, in fact, you already are an outstanding wolf.
+Dialogue: 0,0:09:33.41,0:09:36.00,Default,,0,0,0,,that, in fact, you already {\i1}are{\i0} an outstanding wolf.
 Dialogue: 0,0:09:37.33,0:09:39.75,Default,,0,0,0,,You’re not just merely a hero of the Wolf Clan.
 Dialogue: 0,0:09:40.58,0:09:42.33,Default,,0,0,0,,You’re a hero of the entire world.
 Dialogue: 0,0:09:44.66,0:09:46.83,Default,,0,0,0,,I’m truly proud

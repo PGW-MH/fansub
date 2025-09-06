@@ -168,7 +168,7 @@ Dialogue: 0,0:08:25.41,0:08:28.25,Default,,0,0,0,,There’s only one anachronist
 Dialogue: 0,0:08:29.33,0:08:31.58,Default,,0,0,0,,In other words, Darky is the only one left?
 Dialogue: 0,0:08:32.08,0:08:33.16,Default,,0,0,0,,Great!
 Dialogue: 0,0:08:33.50,0:08:35.91,Default,,0,0,0,,Mr. Slowy and Darky should be here soon.
-Dialogue: 0,0:08:36.91,0:08:39.33,Default,,0,0,0,,So it’s Slowy who has him!
+Dialogue: 0,0:08:36.91,0:08:39.33,Default,,0,0,0,,So it’s {\i1}Slowy{\i0} who has him!
 Dialogue: 0,0:08:43.08,0:08:44.08,Default,,0,0,0,,Is it Mr. Slowy?
 Dialogue: 0,0:08:48.66,0:08:50.58,Default,,0,0,0,,They must have overheard our conversation.
 Dialogue: 0,0:08:50.75,0:08:52.41,Default,,0,0,0,,We need to go back up Mr. Slowy!
@@ -183,7 +183,7 @@ Dialogue: 0,0:09:26.83,0:09:28.25,Default,,0,0,0,,when you’re not the one who�
 Dialogue: 0,0:09:29.41,0:09:31.16,Default,,0,0,0,,Things will never turn around!
 Dialogue: 0,0:09:38.83,0:09:39.83,Default,,0,0,0,,You’re right.
 Dialogue: 0,0:09:41.41,0:09:43.41,Default,,0,0,0,,You get what I mean?
-Dialogue: 0,0:09:43.58,0:09:45.83,Default,,0,0,0,,Yes, things are turning around.
+Dialogue: 0,0:09:43.58,0:09:45.83,Default,,0,0,0,,Yes, things {\i1}are{\i0} turning around.
 Dialogue: 0,0:09:48.08,0:09:49.91,Default,,0,0,0,,Wolffy has come to save me!
 Dialogue: 0,0:09:56.41,0:09:58.08,Default,,0,0,0,,Hand over Darky right now!
 Dialogue: 0,0:10:00.66,0:10:03.75,Default,,0,0,0,,Weslie, you’re here at last!
@@ -210,7 +210,7 @@ Dialogue: 0,0:11:34.66,0:11:36.00,Default,,0,0,0,,Thank goodness I made it in ti
 Dialogue: 0,0:11:39.00,0:11:39.75,Default,,0,0,0,,Mr. Slowy!
 Dialogue: 0,0:11:43.08,0:11:45.58,Default,,0,0,0,,I don’t want to hurt you guys, Weslie.
 Dialogue: 0,0:11:45.91,0:11:47.66,Default,,0,0,0,,But if your dad isn’t sent home,
-Dialogue: 0,0:11:47.66,0:11:49.41,Default,,0,0,0,,everyone is going to get hurt!
+Dialogue: 0,0:11:47.66,0:11:49.41,Default,,0,0,0,,{\i1}everyone{\i0} is going to get hurt!
 Dialogue: 0,0:11:59.16,0:12:01.58,Default,,0,0,0,,My dad is staying with me!
 Dialogue: 0,0:12:16.33,0:12:16.75,Default,,0,0,0,,Dad!
 Dialogue: 0,0:12:25.25,0:12:26.08,Default,,0,0,0,,Wolffy!

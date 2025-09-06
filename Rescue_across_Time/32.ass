@@ -95,7 +95,7 @@ Dialogue: 0,0:03:22.41,0:03:24.50,Default,,0,0,0,,and go search for more anachro
 Dialogue: 0,0:03:27.25,0:03:27.83,Default,,0,0,0,,Wait,
 Dialogue: 0,0:03:29.08,0:03:31.33,Default,,0,0,0,,who’s going to take care of the baby?
 Dialogue: 0,0:03:32.66,0:03:33.58,Default,,0,0,0,,Daddy!
-Dialogue: 0,0:03:34.08,0:03:35.50,Default,,0,0,0,,You are.
+Dialogue: 0,0:03:34.08,0:03:35.50,Default,,0,0,0,,{\i1}You{\i0} are.
 Dialogue: 0,0:03:42.50,0:03:45.08,Default,,0,0,0,,Buddy, did you really stand up,
 Dialogue: 0,0:03:45.08,0:03:46.58,Default,,0,0,0,,or was I just dreaming?
 Dialogue: 0,0:03:46.58,0:03:47.41,Default,,0,0,0,,Daddy…
@@ -163,7 +163,7 @@ Dialogue: 0,0:07:38.33,0:07:39.83,Default,,0,0,0,,What’s wrong, buddy?
 Dialogue: 0,0:07:39.83,0:07:43.08,Default,,0,0,0,,How about I tell you a story?
 Dialogue: 0,0:07:44.75,0:07:47.50,Default,,0,0,0,,Once upon a time, there was a cute baby.
 Dialogue: 0,0:07:47.50,0:07:50.75,Default,,0,0,0,,One day, he was captured by a wolf!
-Dialogue: 0,0:07:53.16,0:07:54.33,Default,,0,0,0,,What now?
+Dialogue: 0,0:07:53.16,0:07:54.33,Default,,0,0,0,,What {\i1}now?{\i0}
 Dialogue: 0,0:07:54.72,0:07:56.22,Default,,0,0,0,,He…
 Dialogue: 0,0:07:56.25,0:07:58.25,Default,,0,0,0,,He probably wants to watch TV.
 Dialogue: 0,0:07:58.25,0:07:59.41,Default,,0,0,0,,There’s no way!
@@ -185,7 +185,7 @@ Dialogue: 0,0:08:56.83,0:08:59.33,Default,,0,0,0,,but I did make two deliveries 
 Dialogue: 0,0:08:59.33,0:09:01.91,Default,,0,0,0,,and both of them were things for babies.
 Dialogue: 0,0:09:02.50,0:09:03.58,Default,,0,0,0,,Where did you deliver them to?
 Dialogue: 0,0:09:03.58,0:09:05.58,Default,,0,0,0,,To the cave nearby.
-Dialogue: 0,0:09:06.25,0:09:08.41,Default,,0,0,0,,He really is in that cave again!
+Dialogue: 0,0:09:06.25,0:09:08.41,Default,,0,0,0,,He really {\i1}is{\i0} in that cave again!
 Dialogue: 0,0:09:09.08,0:09:10.41,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:09:14.25,0:09:17.16,Default,,0,0,0,,Don’t fly so fast, kid!
 Dialogue: 0,0:09:25.83,0:09:26.43,Default,,0,0,0,,Where’s the baby?
@@ -227,7 +227,7 @@ Dialogue: 0,0:12:26.66,0:12:28.50,Default,,0,0,0,,press that button, too!
 Dialogue: 0,0:12:43.25,0:12:44.58,Default,,0,0,0,,Paddi!
 Dialogue: 0,0:12:44.75,0:12:45.75,Default,,0,0,0,,You’re here?
 Dialogue: 0,0:12:49.00,0:12:50.08,Default,,0,0,0,,Werewolf,
-Dialogue: 0,0:12:50.50,0:12:52.08,Default,,0,0,0,,I’ll be the one to catch you!
+Dialogue: 0,0:12:50.50,0:12:52.08,Default,,0,0,0,,{\i1}I’ll{\i0} be the one to catch {\i1}you!{\i0}
 Dialogue: 0,0:12:53.16,0:12:54.91,Default,,0,0,0,,What a big mouth.
 Dialogue: 0,0:13:02.75,0:13:04.33,Default,,0,0,0,,Thank you, Tibbie.
 Dialogue: 0,0:13:04.66,0:13:06.08,Default,,0,0,0,,You’re welcome.

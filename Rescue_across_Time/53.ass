@@ -145,7 +145,7 @@ Dialogue: 0,0:06:19.25,0:06:20.00,Default,,0,0,0,,Sure, sure!
 Dialogue: 0,0:06:20.75,0:06:22.83,Default,,0,0,0,,Just bring the goats to Wolf Fortress first,
 Dialogue: 0,0:06:22.83,0:06:24.66,Default,,0,0,0,,and I’ll meet up with you once I’ve brought your dad to the Safe Room.
 Dialogue: 0,0:06:25.00,0:06:25.75,Default,,0,0,0,,That’s settled, then.
-Dialogue: 0,0:06:30.75,0:06:32.83,Default,,0,0,0,,There’s no way I’m bringing all of you!
+Dialogue: 0,0:06:30.75,0:06:32.83,Default,,0,0,0,,There’s no way I’m bringing {\i1}all{\i0} of you!
 Dialogue: 0,0:06:43.25,0:06:44.41,Default,,0,0,0,,Hide right here.
 Dialogue: 0,0:06:44.41,0:06:45.91,Default,,0,0,0,,The goats won’t find you.
 Dialogue: 0,0:06:47.08,0:06:49.00,Default,,0,0,0,,But why hide in here?
@@ -191,7 +191,7 @@ Dialogue: 0,0:08:46.41,0:08:46.91,Default,,0,0,0,,My dad?
 Dialogue: 0,0:08:56.33,0:08:58.75,Default,,0,0,0,,Wolffy, let us have your dad.
 Dialogue: 0,0:09:00.58,0:09:02.25,Default,,0,0,0,,What are you waiting for? Hand him over!
 Dialogue: 0,0:09:07.16,0:09:07.58,Default,,0,0,0,,Enough!
-Dialogue: 0,0:09:08.83,0:09:10.50,Default,,0,0,0,,Haven’t any of you guys thought about how I feel?
+Dialogue: 0,0:09:08.83,0:09:10.50,Default,,0,0,0,,Haven’t any of you guys thought about how {\i1}I{\i0} feel?
 Dialogue: 0,0:09:11.25,0:09:12.50,Default,,0,0,0,,He’s my dad, you know!
 Dialogue: 0,0:09:13.16,0:09:14.66,Default,,0,0,0,,How could you guys be so cruel?
 Dialogue: 0,0:09:16.08,0:09:17.50,Default,,0,0,0,,We could trust Werewolf,
@@ -221,7 +221,7 @@ Dialogue: 0,0:10:46.75,0:10:48.41,Default,,0,0,0,,Not bad. Very clean.
 Dialogue: 0,0:10:53.41,0:10:55.41,Default,,0,0,0,,Dangerous places are, in fact, dangerous.
 Dialogue: 0,0:10:56.33,0:10:57.66,Default,,0,0,0,,I need to get out of here.
 Dialogue: 0,0:11:03.00,0:11:03.83,Default,,0,0,0,,Darky?
-Dialogue: 0,0:11:04.75,0:11:06.58,Default,,0,0,0,,You were in here this whole time?
+Dialogue: 0,0:11:04.75,0:11:06.58,Default,,0,0,0,,You were in {\i1}here{\i0} this whole time?
 Dialogue: 0,0:11:11.41,0:11:12.25,Default,,0,0,0,,I’m sorry,
 Dialogue: 0,0:11:13.08,0:11:15.00,Default,,0,0,0,,I lost my temper just now.
 Dialogue: 0,0:11:15.60,0:11:15.81,Default,,0,0,0,,No,

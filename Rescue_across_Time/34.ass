@@ -229,7 +229,7 @@ Dialogue: 0,0:09:31.83,0:09:34.00,Default,,0,0,0,,The baby can’t return to his
 Dialogue: 0,0:09:34.16,0:09:36.08,Default,,0,0,0,,so my job is finished. Goodbye!
 Dialogue: 0,0:09:37.08,0:09:38.75,Default,,0,0,0,,I need to rescue the baby right away!
 Dialogue: 0,0:09:49.75,0:09:51.58,Default,,0,0,0,,How am I supposed to rescue the baby
-Dialogue: 0,0:09:51.58,0:09:53.50,Default,,0,0,0,,and get the key?
+Dialogue: 0,0:09:51.58,0:09:53.50,Default,,0,0,0,,{\i1}and{\i0} get the key?
 Dialogue: 0,0:09:58.33,0:10:00.00,Default,,0,0,0,,Do you like that?
 Dialogue: 0,0:10:02.75,0:10:03.75,Default,,0,0,0,,You can have it.
 Dialogue: 0,0:10:05.91,0:10:06.75,Default,,0,0,0,,Good job, buddy!
@@ -309,7 +309,7 @@ Dialogue: 0,0:13:34.75,0:13:37.50,Default,,0,0,0,,By the way, have you guys seen
 Dialogue: 0,0:13:37.83,0:13:38.41,Default,,0,0,0,,This is him.
 Dialogue: 0,0:13:38.66,0:13:39.91,Default,,0,0,0,,Isn’t this
 Dialogue: 0,0:13:40.08,0:13:41.16,Default,,0,0,0,,the baby?
-Dialogue: 0,0:13:41.41,0:13:43.33,Default,,0,0,0,,Is he the actual father?
+Dialogue: 0,0:13:41.41,0:13:43.33,Default,,0,0,0,,Is {\i1}he{\i0} the actual father?
 Dialogue: 0,0:13:43.41,0:13:45.00,Default,,0,0,0,,Then who was that other guy just now?
 Dialogue: 0,0:13:54.33,0:13:56.83,Default,,0,0,0,,We’re going home, buddy!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

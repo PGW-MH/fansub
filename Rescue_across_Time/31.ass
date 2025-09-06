@@ -170,7 +170,7 @@ Dialogue: 0,0:08:07.25,0:08:08.08,Default,,0,0,0,,Sparky…
 Dialogue: 0,0:08:08.75,0:08:11.16,Default,,0,0,0,,I’ll use Hurricane to run a search.
 Dialogue: 0,0:08:15.66,0:08:16.25,Default,,0,0,0,,Search!
 Dialogue: 0,0:08:21.58,0:08:22.66,Default,,0,0,0,,Werewolf?
-Dialogue: 0,0:08:23.33,0:08:24.75,Default,,0,0,0,,He was the one who took the baby!
+Dialogue: 0,0:08:23.33,0:08:24.75,Default,,0,0,0,,{\i1}He{\i0} was the one who took the baby!
 Dialogue: 0,0:08:26.33,0:08:27.66,Default,,0,0,0,,Let’s go after him!
 Dialogue: 0,0:08:31.83,0:08:34.50,Default,,0,0,0,,They surely won’t guess that I’m in here again!
 Dialogue: 0,0:08:49.66,0:08:50.58,Default,,0,0,0,,Stop crying!
@@ -193,7 +193,7 @@ Dialogue: 0,0:10:25.75,0:10:28.66,Default,,0,0,0,,Isn’t this the cave where we
 Dialogue: 0,0:10:30.83,0:10:33.33,Default,,0,0,0,,Then we should be careful and not make too much noise,
 Dialogue: 0,0:10:33.75,0:10:34.50,Default,,0,0,0,,or else—
 Dialogue: 0,0:10:40.41,0:10:42.16,Default,,0,0,0,,They’re here already?
-Dialogue: 0,0:10:50.33,0:10:51.75,Default,,0,0,0,,You’re the one being loud.
+Dialogue: 0,0:10:50.33,0:10:51.75,Default,,0,0,0,,{\i1}You’re{\i0} the one being loud.
 Dialogue: 0,0:10:55.00,0:10:55.58,Default,,0,0,0,,Over there!
 Dialogue: 0,0:11:00.16,0:11:00.58,Default,,0,0,0,,Buddy!
 Dialogue: 0,0:11:07.16,0:11:08.75,Default,,0,0,0,,Two babies?

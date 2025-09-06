@@ -68,14 +68,14 @@ Dialogue: 0,0:01:31.25,0:01:32.58,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:01:32.58,0:01:36.75,Default,,0,0,0,,Wolffy thanked the goats with Wolnie’s fried rice,
 Dialogue: 0,0:01:36.75,0:01:40.25,Default,,0,0,0,,and Weslie began acting strangely.
 Dialogue: 0,0:01:40.50,0:01:42.66,Default,,0,0,0,,Just when things couldn’t get more chaotic,
-Dialogue: 0,0:01:42.66,0:01:45.58,Default,,0,0,0,,it was discovered that there are two Weslies.
+Dialogue: 0,0:01:42.66,0:01:45.58,Default,,0,0,0,,it was discovered that there are {\i1}two{\i0} Weslies.
 Dialogue: 0,0:01:45.58,0:01:48.50,Default,,0,0,0,,What in the world is going on?
 Dialogue: 0,0:02:08.08,0:02:10.91,Default,,0,0,0,,Why are there two Weslies?
 Dialogue: 0,0:02:10.91,0:02:12.00,Default,,0,0,0,,Watch out, guys!
 Dialogue: 0,0:02:12.00,0:02:14.83,Default,,0,0,0,,The one in front of you is Werewolf in disguise!
 Dialogue: 0,0:02:17.08,0:02:19.41,Default,,0,0,0,,No wonder you were acting so strangely today.
 Dialogue: 0,0:02:19.41,0:02:21.16,Default,,0,0,0,,You’re fake!
-Dialogue: 0,0:02:21.66,0:02:23.75,Default,,0,0,0,,I’m the real Weslie!
+Dialogue: 0,0:02:21.66,0:02:23.75,Default,,0,0,0,,{\i1}I’m{\i0} the real Weslie!
 Dialogue: 0,0:02:24.91,0:02:27.08,Default,,0,0,0,,He must be one of Wolffy’s clone goats.
 Dialogue: 0,0:02:27.75,0:02:29.91,Default,,0,0,0,,I guess I can’t get them out of here for now.
 Dialogue: 0,0:02:30.25,0:02:32.75,Default,,0,0,0,,I’ll just have to retreat and find another way to get the antidote.
@@ -182,7 +182,7 @@ Dialogue: 0,0:07:33.75,0:07:35.33,Default,,0,0,0,,Can I have the airplane back?
 Dialogue: 0,0:07:37.33,0:07:38.16,Default,,0,0,0,,Uh…
 Dialogue: 0,0:07:39.25,0:07:41.91,Default,,0,0,0,,There are two Planies, too?
 Dialogue: 0,0:07:44.41,0:07:45.75,Default,,0,0,0,,As expected, Weslie.
-Dialogue: 0,0:07:45.75,0:07:47.33,Default,,0,0,0,,You even managed to break through this!
+Dialogue: 0,0:07:45.75,0:07:47.33,Default,,0,0,0,,You even managed to break through {\i1}this!{\i0}
 Dialogue: 0,0:07:47.66,0:07:49.83,Default,,0,0,0,,I… I didn’t say anything!
 Dialogue: 0,0:07:49.83,0:07:50.83,Default,,0,0,0,,But
 Dialogue: 0,0:07:51.08,0:07:53.41,Default,,0,0,0,,no matter how smart you are, you’re not going anywhere!
@@ -190,7 +190,7 @@ Dialogue: 0,0:07:54.41,0:07:54.83,Default,,0,0,0,,Huh?
 Dialogue: 0,0:07:55.00,0:07:55.91,Default,,0,0,0,,Who are you?
 Dialogue: 0,0:07:56.50,0:07:58.58,Default,,0,0,0,,Come on out!
 Dialogue: 0,0:08:04.50,0:08:06.16,Default,,0,0,0,,Have a taste of this!
-Dialogue: 0,0:08:14.08,0:08:15.66,Default,,0,0,0,,Let’s see if you can dodge this!
+Dialogue: 0,0:08:14.08,0:08:15.66,Default,,0,0,0,,Let’s see if you can dodge {\i1}this!{\i0}
 Dialogue: 0,0:08:24.83,0:08:25.66,Default,,0,0,0,,What?
 Dialogue: 0,0:08:25.66,0:08:27.58,Default,,0,0,0,,You guys ruin everything for me!
 Dialogue: 0,0:08:29.58,0:08:31.66,Default,,0,0,0,,You’re not going anywhere this time!
@@ -199,7 +199,7 @@ Dialogue: 0,0:08:33.91,0:08:37.16,Default,,0,0,0,,it looks like this Weslie isn�
 Dialogue: 0,0:08:37.50,0:08:39.66,Default,,0,0,0,,Either way, take him back to Goats’ Village for now.
 Dialogue: 0,0:08:40.16,0:08:42.25,Default,,0,0,0,,I know how to uncover his true identity.
 Dialogue: 0,0:08:45.66,0:08:46.91,Default,,0,0,0,,I’ll get him!
-Dialogue: 0,0:08:48.16,0:08:51.33,Default,,0,0,0,,Don’t forget that I’m still here!
+Dialogue: 0,0:08:48.16,0:08:51.33,Default,,0,0,0,,Don’t forget that {\i1}I’m{\i0} still here!
 Dialogue: 0,0:09:03.91,0:09:05.50,Default,,0,0,0,,Are you okay, Paddi?
 Dialogue: 0,0:09:05.66,0:09:07.75,Default,,0,0,0,,I won’t take more of your time. Goodbye!
 Dialogue: 0,0:09:07.83,0:09:08.50,Default,,0,0,0,,Stop!
@@ -257,7 +257,7 @@ Dialogue: 0,0:12:19.91,0:12:22.00,Default,,0,0,0,,Luckily, I came prepared.
 Dialogue: 0,0:12:23.33,0:12:26.00,Default,,0,0,0,,You’re coming with me!
 Dialogue: 0,0:12:29.00,0:12:30.50,Default,,0,0,0,,Read it aloud!
 Dialogue: 0,0:12:36.58,0:12:38.75,Default,,0,0,0,,Come on out, Thunderbolt!
-Dialogue: 0,0:12:40.08,0:12:41.66,Default,,0,0,0,,How do you also know Thunder—
+Dialogue: 0,0:12:40.08,0:12:41.66,Default,,0,0,0,,How do {\i1}you{\i0} also know Thunder—
 Dialogue: 0,0:12:41.66,0:12:43.75,Default,,0,0,0,,—bolt?
 Dialogue: 0,0:12:50.33,0:12:53.08,Default,,0,0,0,,Aren’t you the only one who can summon Thunderbolt?
 Dialogue: 0,0:12:54.25,0:12:56.91,Default,,0,0,0,,But he can summon Thunderbolt, too.

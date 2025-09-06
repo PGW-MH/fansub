@@ -88,7 +88,7 @@ Dialogue: 0,0:02:36.08,0:02:37.50,Default,,0,0,0,,The thief is
 Dialogue: 0,0:02:44.66,0:02:45.83,Default,,0,0,0,,Piggy!
 Dialogue: 0,0:02:46.50,0:02:47.25,Default,,0,0,0,,How…
 Dialogue: 0,0:02:48.08,0:02:50.58,Default,,0,0,0,,How could I possibly be the thief?
-Dialogue: 0,0:02:53.58,0:02:54.91,Default,,0,0,0,,He really is the thief!
+Dialogue: 0,0:02:53.58,0:02:54.91,Default,,0,0,0,,He really {\i1}is{\i0} the thief!
 Dialogue: 0,0:02:56.75,0:02:58.66,Default,,0,0,0,,How did you know?
 Dialogue: 0,0:02:59.50,0:03:02.08,Default,,0,0,0,,Because the look in your eyes betrayed you.
 Dialogue: 0,0:03:06.16,0:03:06.83,Default,,0,0,0,,Detective,
@@ -107,7 +107,7 @@ Dialogue: 0,0:03:55.10,0:03:56.06,Default,,0,0,0,,Ouch!
 Dialogue: 0,0:03:57.41,0:03:59.58,Default,,0,0,0,,So, are we sneaking into Goats’ Village,
 Dialogue: 0,0:03:59.58,0:04:01.08,Default,,0,0,0,,or launching a direct attack?
 Dialogue: 0,0:04:02.25,0:04:03.91,Default,,0,0,0,,We’re not doing either of those.
-Dialogue: 0,0:04:04.33,0:04:05.41,Default,,0,0,0,,I have this.
+Dialogue: 0,0:04:04.33,0:04:05.41,Default,,0,0,0,,I have {\i1}this.{\i0}
 Dialogue: 0,0:04:06.16,0:04:07.00,Default,,0,0,0,,What the…?
 Dialogue: 0,0:04:11.58,0:04:12.66,Default,,0,0,0,,A puzzle?
 Dialogue: 0,0:04:13.50,0:04:14.58,Default,,0,0,0,,Can this catch the goats?

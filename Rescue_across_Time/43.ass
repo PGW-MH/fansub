@@ -90,7 +90,7 @@ Dialogue: 0,0:02:45.66,0:02:46.66,Default,,0,0,0,,You guys go ahead.
 Dialogue: 0,0:02:47.58,0:02:49.91,Default,,0,0,0,,Don’t be long, Wolffy!
 Dialogue: 0,0:02:52.50,0:02:54.00,Default,,0,0,0,,Wolnie, I’m home!
 Dialogue: 0,0:02:57.08,0:02:58.27,Default,,0,0,0,,What’s going on?
-Dialogue: 0,0:02:58.27,0:03:00.08,Default,,0,0,0,,I should be asking you that.
+Dialogue: 0,0:02:58.27,0:03:00.08,Default,,0,0,0,,I should be asking {\i1}you{\i0} that.
 Dialogue: 0,0:03:02.33,0:03:03.50,Default,,0,0,0,,You tied me up earlier,
 Dialogue: 0,0:03:04.00,0:03:06.75,Default,,0,0,0,,and once you released me, you told someone to watch over me.
 Dialogue: 0,0:03:07.58,0:03:09.75,Default,,0,0,0,,What exactly do you want?
@@ -124,9 +124,9 @@ Dialogue: 0,0:04:02.58,0:04:03.25,Default,,0,0,0,,Silly,
 Dialogue: 0,0:04:03.50,0:04:04.08,Default,,0,0,0,,it’s alright.
 Dialogue: 0,0:04:04.08,0:04:05.16,Default,,0,0,0,,This is your grandpa.
 Dialogue: 0,0:04:05.16,0:04:06.66,Default,,0,0,0,,There’s no way I’m a grandpa!
-Dialogue: 0,0:04:07.00,0:04:09.08,Default,,0,0,0,,I’m Dad!
+Dialogue: 0,0:04:07.00,0:04:09.08,Default,,0,0,0,,{\i1}I’m Dad!{\i0}
 Dialogue: 0,0:04:09.25,0:04:10.83,Default,,0,0,0,,Daddy, help!
-Dialogue: 0,0:04:10.91,0:04:12.66,Default,,0,0,0,,You really are his grandpa, Dad.
+Dialogue: 0,0:04:10.91,0:04:12.66,Default,,0,0,0,,You really {\i1}are{\i0} his grandpa, Dad.
 Dialogue: 0,0:04:12.83,0:04:13.41,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:04:13.97,0:04:14.31,Default,,0,0,0,,Dad—
 Dialogue: 0,0:04:14.33,0:04:14.77,Default,,0,0,0,,Daddy—
@@ -200,7 +200,7 @@ Dialogue: 0,0:07:14.08,0:07:15.41,Default,,0,0,0,,I have to prove to Dad
 Dialogue: 0,0:07:17.33,0:07:19.16,Default,,0,0,0,,that his son has already grown up.
 Dialogue: 0,0:07:20.91,0:07:23.50,Default,,0,0,0,,I’m no longer the weak Wolffy that I used to be!
 Dialogue: 0,0:07:25.16,0:07:26.66,Default,,0,0,0,,Watch this!
-Dialogue: 0,0:07:27.00,0:07:29.00,Default,,0,0,0,,You really have changed, Wolffy.
+Dialogue: 0,0:07:27.00,0:07:29.00,Default,,0,0,0,,You really {\i1}have{\i0} changed, Wolffy.
 Dialogue: 0,0:07:33.41,0:07:34.91,Default,,0,0,0,,You’ve become even weaker.
 Dialogue: 0,0:07:35.83,0:07:37.25,Default,,0,0,0,,Can’t you fly?
 Dialogue: 0,0:07:38.08,0:07:40.58,Default,,0,0,0,,It looks like I’ll have to train you from the beginning.
@@ -212,7 +212,7 @@ Dialogue: 0,0:08:00.00,0:08:01.50,Default,,0,0,0,,Why are you laying down, Wolff
 Dialogue: 0,0:08:03.33,0:08:04.83,Default,,0,0,0,,By the time I’m done resting,
 Dialogue: 0,0:08:05.00,0:08:07.58,Default,,0,0,0,,you must move all the rocks to the other side of this line.
 Dialogue: 0,0:08:08.83,0:08:09.83,Default,,0,0,0,,Understood?
-Dialogue: 0,0:08:10.41,0:08:12.41,Default,,0,0,0,,Don’t I get to rest?
+Dialogue: 0,0:08:10.41,0:08:12.41,Default,,0,0,0,,Don’t {\i1}I{\i0} get to rest?
 Dialogue: 0,0:08:13.91,0:08:16.25,Default,,0,0,0,,Yes, sir! I understand! I understand!
 Dialogue: 0,0:08:23.41,0:08:25.08,Default,,0,0,0,,How long is this going to take?
 Dialogue: 0,0:08:32.66,0:08:34.25,Default,,0,0,0,,I’m done!
@@ -225,7 +225,7 @@ Dialogue: 0,0:08:48.58,0:08:51.25,Default,,0,0,0,,Wolffy, what are you doing?
 Dialogue: 0,0:08:52.00,0:08:53.52,Default,,0,0,0,,What… What am I doing?
 Dialogue: 0,0:08:53.52,0:08:55.00,Default,,0,0,0,,I’m…
 Dialogue: 0,0:08:55.50,0:08:57.16,Default,,0,0,0,,I’m exercising.
-Dialogue: 0,0:08:59.41,0:09:00.75,Default,,0,0,0,,What are you guys doing here?
+Dialogue: 0,0:08:59.41,0:09:00.75,Default,,0,0,0,,What are {\i1}you{\i0} guys doing here?
 Dialogue: 0,0:09:02.00,0:09:03.00,Default,,0,0,0,,I know you’re busy,
 Dialogue: 0,0:09:03.25,0:09:04.91,Default,,0,0,0,,so we brought you food.
 Dialogue: 0,0:09:04.91,0:09:06.25,Default,,0,0,0,,Surprise!

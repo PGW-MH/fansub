@@ -85,7 +85,7 @@ Dialogue: 0,0:03:09.16,0:03:10.66,Default,,0,0,0,,Dad, wake up!
 Dialogue: 0,0:03:12.66,0:03:13.58,Default,,0,0,0,,Son?
 Dialogue: 0,0:03:21.58,0:03:24.25,Default,,0,0,0,,You lied to me, didn’t you?
 Dialogue: 0,0:03:24.83,0:03:25.75,Default,,0,0,0,,Yep.
-Dialogue: 0,0:03:25.75,0:03:28.33,Default,,0,0,0,,I never actually agreed to bring everyone along.
+Dialogue: 0,0:03:25.75,0:03:28.33,Default,,0,0,0,,I never actually agreed to bring {\i1}everyone{\i0} along.
 Dialogue: 0,0:03:28.83,0:03:30.41,Default,,0,0,0,,Despicable!
 Dialogue: 0,0:03:31.08,0:03:32.33,Default,,0,0,0,,So what if I am?
 Dialogue: 0,0:03:32.33,0:03:34.83,Default,,0,0,0,,You think you can still mess with me?
@@ -127,7 +127,7 @@ Dialogue: 0,0:07:10.25,0:07:12.50,Default,,0,0,0,,I don’t care what happens to
 Dialogue: 0,0:07:12.91,0:07:16.75,Default,,0,0,0,,but don’t drag me down!
 Dialogue: 0,0:07:23.25,0:07:23.91,Default,,0,0,0,,You—
 Dialogue: 0,0:07:24.91,0:07:26.08,Default,,0,0,0,,I’ve made a decision.
-Dialogue: 0,0:07:27.00,0:07:30.00,Default,,0,0,0,,With how powerful you are, I’d rather work with you.
+Dialogue: 0,0:07:27.00,0:07:30.00,Default,,0,0,0,,With how powerful you are, I’d rather work with {\i1}you.{\i0}
 Dialogue: 0,0:07:30.58,0:07:33.50,Default,,0,0,0,,Great! Working with smart people is what I like.
 Dialogue: 0,0:07:34.08,0:07:35.83,Default,,0,0,0,,Let’s hurry to the Safe Room now.
 Dialogue: 0,0:07:36.33,0:07:37.00,Default,,0,0,0,,Sure!
@@ -203,7 +203,7 @@ Dialogue: 0,0:12:07.08,0:12:08.75,Default,,0,0,0,,If it weren’t for saving my 
 Dialogue: 0,0:12:08.75,0:12:10.50,Default,,0,0,0,,I would never have worked with you.
 Dialogue: 0,0:12:11.25,0:12:12.50,Default,,0,0,0,,You’ve lost, Taotao.
 Dialogue: 0,0:12:12.83,0:12:13.41,Default,,0,0,0,,The future
-Dialogue: 0,0:12:13.41,0:12:15.50,Default,,0,0,0,,belongs to them.
+Dialogue: 0,0:12:13.41,0:12:15.50,Default,,0,0,0,,belongs to {\i1}them.{\i0}
 Dialogue: 0,0:12:21.58,0:12:22.66,Default,,0,0,0,,No!
 Dialogue: 0,0:12:29.16,0:12:30.33,Default,,0,0,0,,Dad!
 Dialogue: 0,0:12:31.25,0:12:32.75,Default,,0,0,0,,Dad!

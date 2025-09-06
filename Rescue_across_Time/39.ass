@@ -84,7 +84,7 @@ Dialogue: 0,0:02:38.66,0:02:39.66,Default,,0,0,0,,What is it?
 Dialogue: 0,0:02:40.58,0:02:41.66,Default,,0,0,0,,Since we can’t find them,
 Dialogue: 0,0:02:41.66,0:02:44.41,Default,,0,0,0,,we’ll just wait for Werewolf to tell us himself.
 Dialogue: 0,0:02:46.41,0:02:49.41,Default,,0,0,0,,Werewolf likely can’t differentiate between the present and past me.
-Dialogue: 0,0:02:50.66,0:02:53.16,Default,,0,0,0,,If he thinks that I’m the one he should be after,
+Dialogue: 0,0:02:50.66,0:02:53.16,Default,,0,0,0,,If he thinks that {\i1}I’m{\i0} the one he should be after,
 Dialogue: 0,0:02:53.41,0:02:54.58,Default,,0,0,0,,he’ll show himself.
 Dialogue: 0,0:02:56.08,0:02:58.91,Default,,0,0,0,,How do we make him think he got the wrong one, though?
 Dialogue: 0,0:02:59.41,0:03:01.58,Default,,0,0,0,,Well, the captured one is my past self,
@@ -117,7 +117,7 @@ Dialogue: 0,0:04:20.83,0:04:21.58,Default,,0,0,0,,Werewolf’s coming!
 Dialogue: 0,0:04:22.25,0:04:23.25,Default,,0,0,0,,Let’s begin.
 Dialogue: 0,0:04:26.58,0:04:28.83,Default,,0,0,0,,Goodbye, Weslie!
 Dialogue: 0,0:04:31.83,0:04:33.75,Default,,0,0,0,,Goodbye, my friends!
-Dialogue: 0,0:04:34.58,0:04:36.08,Default,,0,0,0,,I did get the wrong one!
+Dialogue: 0,0:04:34.58,0:04:36.08,Default,,0,0,0,,I {\i1}did{\i0} get the wrong one!
 Dialogue: 0,0:04:36.91,0:04:38.16,Default,,0,0,0,,You’re not going anywhere!
 Dialogue: 0,0:04:43.33,0:04:44.41,Default,,0,0,0,,Weslie!
 Dialogue: 0,0:04:45.00,0:04:46.00,Default,,0,0,0,,Oh, what a pity.
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:51.58,0:12:54.33,Default,,0,0,0,,I just knew that Weslie would 
 Dialogue: 0,0:12:54.50,0:12:55.58,Default,,0,0,0,,Hold on, guys!
 Dialogue: 0,0:12:55.91,0:12:57.83,Default,,0,0,0,,I have someone on my hands, you know—
 Dialogue: 0,0:13:02.66,0:13:04.41,Default,,0,0,0,,My mechanical arms!
-Dialogue: 0,0:13:05.33,0:13:08.08,Default,,0,0,0,,Have a taste of evolved mechanical arms!
+Dialogue: 0,0:13:05.33,0:13:08.08,Default,,0,0,0,,Have a taste of {\i1}evolved{\i0} mechanical arms!
 Dialogue: 0,0:13:11.08,0:13:13.16,Default,,0,0,0,,Just you wait!
 Dialogue: 0,0:13:21.41,0:13:23.83,Default,,0,0,0,,Two Weslies collaborating is incredible.
 Dialogue: 0,0:13:24.50,0:13:25.83,Default,,0,0,0,,Thanks.
@@ -248,5 +248,5 @@ Dialogue: 0,0:13:39.83,0:13:40.91,Default,,0,0,0,,I’m a little busy.
 Dialogue: 0,0:13:40.91,0:13:41.75,Default,,0,0,0,,I have to go.
 Dialogue: 0,0:13:46.50,0:13:47.66,Default,,0,0,0,,What’s up with Wolffy?
 Dialogue: 0,0:13:52.25,0:13:53.25,Default,,0,0,0,,Was that wolf
-Dialogue: 0,0:13:54.25,0:13:55.75,Default,,0,0,0,,really him?
+Dialogue: 0,0:13:54.25,0:13:55.75,Default,,0,0,0,,really {\i1}him?{\i0}
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

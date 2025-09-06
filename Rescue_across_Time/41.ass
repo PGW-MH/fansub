@@ -104,13 +104,13 @@ Dialogue: 0,0:03:43.00,0:03:44.41,Default,,0,0,0,,Wolnie’s calling me.
 Dialogue: 0,0:03:44.58,0:03:46.08,Default,,0,0,0,,Wolnie, I…
 Dialogue: 0,0:03:46.16,0:03:47.25,Default,,0,0,0,,I won’t be home for dinner.
 Dialogue: 0,0:03:48.33,0:03:48.91,Default,,0,0,0,,It…
-Dialogue: 0,0:03:48.91,0:03:50.00,Default,,0,0,0,,It is a cell phone.
+Dialogue: 0,0:03:48.91,0:03:50.00,Default,,0,0,0,,It {\i1}is{\i0} a cell phone.
 Dialogue: 0,0:03:53.08,0:03:54.66,Default,,0,0,0,,These slippers are a bit big, aren’t they?
 Dialogue: 0,0:03:57.58,0:03:59.33,Default,,0,0,0,,Are Wolnie’s feet this big?
 Dialogue: 0,0:04:00.52,0:04:00.81,Default,,0,0,0,,These…
 Dialogue: 0,0:04:00.81,0:04:02.33,Default,,0,0,0,,These are for killing cockroaches.
 Dialogue: 0,0:04:02.58,0:04:03.50,Default,,0,0,0,,Killing cockroaches?
-Dialogue: 0,0:04:06.25,0:04:07.66,Default,,0,0,0,,This is what you’d need!
+Dialogue: 0,0:04:06.25,0:04:07.66,Default,,0,0,0,,{\i1}This{\i0} is what you’d need!
 Dialogue: 0,0:04:11.16,0:04:12.66,Default,,0,0,0,,What’s up, Doudou?
 Dialogue: 0,0:04:12.91,0:04:14.50,Default,,0,0,0,,Something’s gone wrong in the timespaces!
 Dialogue: 0,0:04:14.83,0:04:16.16,Default,,0,0,0,,Hurry over here!
@@ -187,7 +187,7 @@ Dialogue: 0,0:09:21.33,0:09:23.08,Default,,0,0,0,,I don’t know what you’re t
 Dialogue: 0,0:09:24.58,0:09:25.75,Default,,0,0,0,,Playing dumb, huh?
 Dialogue: 0,0:09:26.58,0:09:28.83,Default,,0,0,0,,If you didn’t take Weslie, what were you running for?
 Dialogue: 0,0:09:29.08,0:09:30.16,Default,,0,0,0,,Hello? Mr. Slowy?
-Dialogue: 0,0:09:30.16,0:09:32.83,Default,,0,0,0,,I should be worried about you guys capturing me.
+Dialogue: 0,0:09:30.16,0:09:32.83,Default,,0,0,0,,I should be worried about you guys capturing {\i1}me.{\i0}
 Dialogue: 0,0:09:33.00,0:09:34.75,Default,,0,0,0,,If you don’t tell me right now, I’ll—
 Dialogue: 0,0:09:33.31,0:09:34.72,Default,,0,0,0,,{\pos(960,1070)}Let’s head back to Goats’ Village!
 Dialogue: 0,0:09:37.33,0:09:38.25,Default,,0,0,0,,Weslie
