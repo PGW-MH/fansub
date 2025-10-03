@@ -1,0 +1,212 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.84,00:00:19.84,Default,,0,0,0,,You’re good
+Dialogue: 0,00:00:21.16,00:00:22.20,Default,,0,0,0,,- Weslie
+- Weslie
+Dialogue: 0,00:00:26.16,00:00:27.72,Default,,0,0,0,,Weslie What are you here to do
+Dialogue: 0,00:00:29.88,00:00:31.23,Default,,0,0,0,,Of course I’m here to catch people
+Dialogue: 0,00:00:31.76,00:00:32.36,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:00:33.04,00:00:35.60,Default,,0,0,0,,This is my mission, you don’t need to interfere
+Dialogue: 0,00:00:36.24,00:00:38.72,Default,,0,0,0,,I’m just doing it on orders
+Dialogue: 0,00:00:39.44,00:00:40.92,Default,,0,0,0,,This is my place
+Dialogue: 0,00:00:41.68,00:00:43.09,Default,,0,0,0,,If you can complete the mission
+Dialogue: 0,00:00:43.12,00:00:44.47,Default,,0,0,0,,I don’t want to come here
+Dialogue: 0,00:00:44.64,00:00:46.44,Default,,0,0,0,,I’ll stop messing with me again
+Dialogue: 0,00:00:47.32,00:00:47.96,Default,,0,0,0,,Oops
+Dialogue: 0,00:00:48.32,00:00:50.12,Default,,0,0,0,,- Tibbie
+- I’ll warn you again in the end
+Dialogue: 0,00:00:50.24,00:00:51.84,Default,,0,0,0,,I’ll catch the prisoner
+Dialogue: 0,00:00:52.00,00:00:53.57,Default,,0,0,0,,Of course I was arresting the prisoner
+Dialogue: 0,00:00:53.60,00:00:54.28,Default,,0,0,0,,I’ll catch it
+Dialogue: 0,00:00:54.36,00:00:55.29,Default,,0,0,0,,I’ll catch it
+Dialogue: 0,00:00:55.32,00:00:56.84,Default,,0,0,0,,I’ll catch it
+Dialogue: 0,00:00:56.96,00:01:00.69,Default,,0,0,0,,I’ll catch it
+Dialogue: 0,00:01:00.72,00:01:02.40,Default,,0,0,0,,The prisoner ran away
+Dialogue: 0,00:01:05.84,00:01:08.48,Default,,0,0,0,,Weslie, thank you for your help
+Dialogue: 0,00:01:19.56,00:01:20.88,Default,,0,0,0,,They’re catching up
+Dialogue: 0,00:01:21.40,00:01:23.04,Default,,0,0,0,,We need to speed up our pace
+Dialogue: 0,00:01:23.95,00:01:24.52,Default,,0,0,0,,Um
+Dialogue: 0,00:01:33.72,00:01:34.68,Default,,0,0,0,,ah
+Dialogue: 0,00:01:34.84,00:01:36.64,Default,,0,0,0,,Ah Princess Luna
+Dialogue: 0,00:01:40.92,00:01:41.92,Default,,0,0,0,,Give me a slap
+Dialogue: 0,00:01:44.72,00:01:52.29,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:01:52.31,00:01:53.04,Default,,0,0,0,,Blessing
+Dialogue: 0,00:01:55.04,00:01:56.64,Default,,0,0,0,,What’s wrong with Tibbie?
+Dialogue: 0,00:01:57.36,00:01:58.36,Default,,0,0,0,,Who told you to interfere
+Dialogue: 0,00:01:58.84,00:01:59.60,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:02:04.12,00:02:05.44,Default,,0,0,0,,Everyone is fine
+Dialogue: 0,00:02:05.92,00:02:06.64,Default,,0,0,0,,Don’t want to run
+Dialogue: 0,00:02:08.00,00:02:08.64,Default,,0,0,0,,No!
+Dialogue: 0,00:02:14.04,00:02:17.09,Default,,0,0,0,,Ah, he actually brought the explosive bean
+Dialogue: 0,00:02:17.12,00:02:18.63,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:19.32,00:02:20.72,Default,,0,0,0,,We’re here to help you too
+Dialogue: 0,00:02:32.00,00:02:32.60,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:02:42.24,00:02:44.28,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:48.72,00:02:51.36,Default,,0,0,0,,Ah, blessing!
+Dialogue: 0,00:02:52.60,00:02:53.84,Default,,0,0,0,,Here is the sacred thorn forest
+Dialogue: 0,00:02:54.48,00:02:56.28,Default,,0,0,0,,He was hit by the poisonous thorns
+Dialogue: 0,00:02:56.52,00:02:58.52,Default,,0,0,0,,Have to suck out the venom tightly
+Dialogue: 0,00:02:58.76,00:03:00.40,Default,,0,0,0,,Otherwise, life will be in danger
+Dialogue: 0,00:03:01.12,00:03:02.12,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:03:02.52,00:03:03.44,Default,,0,0,0,,Want to escape
+Dialogue: 0,00:03:06.40,00:03:07.48,Default,,0,0,0,,Not that easy
+Dialogue: 0,00:03:09.84,00:03:11.00,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:11.76,00:03:12.56,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:13.91,00:03:14.76,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:15.91,00:03:16.76,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:17.72,00:03:21.00,Default,,0,0,0,,Help, howl...
+Dialogue: 0,00:03:22.16,00:03:23.32,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:03:26.16,00:03:28.00,Default,,0,0,0,,Don’t be afraid, I’m here
+Dialogue: 0,00:03:28.91,00:03:29.36,Default,,0,0,0,,Um
+Dialogue: 0,00:03:38.24,00:03:39.04,Default,,0,0,0,,ah!
+Dialogue: 0,00:03:41.72,00:03:43.32,Default,,0,0,0,,Princess, we have to hurry
+Dialogue: 0,00:03:43.72,00:03:44.92,Default,,0,0,0,,Explosion beans are gone
+Dialogue: 0,00:03:45.84,00:03:47.80,Default,,0,0,0,,I need more time
+Dialogue: 0,00:03:50.44,00:03:52.88,Default,,0,0,0,,So what should I do? This smoke won’t last long
+Dialogue: 0,00:03:53.24,00:03:54.28,Default,,0,0,0,,I have a way
+Dialogue: 0,00:03:55.44,00:03:56.72,Default,,0,0,0,,I’ll lead them out
+Dialogue: 0,00:03:56.92,00:03:58.16,Default,,0,0,0,,You take everyone away first
+Dialogue: 0,00:03:59.20,00:04:00.56,Default,,0,0,0,,Then how can we get along
+Dialogue: 0,00:04:01.12,00:04:02.16,Default,,0,0,0,,Go to the exit
+Dialogue: 0,00:04:02.76,00:04:05.24,Default,,0,0,0,,Wait, you don’t know where the exit is
+Dialogue: 0,00:04:05.76,00:04:07.24,Default,,0,0,0,,Wolffy catch
+Dialogue: 0,00:04:10.76,00:04:11.64,Default,,0,0,0,,This is...
+Dialogue: 0,00:04:12.72,00:04:13.76,Default,,0,0,0,,This is the guide bean
+Dialogue: 0,00:04:14.12,00:04:16.72,Default,,0,0,0,,Follow the direction it points to find the exit
+Dialogue: 0,00:04:20.32,00:04:20.76,Default,,0,0,0,,good
+Dialogue: 0,00:04:26.36,00:04:27.83,Default,,0,0,0,,Have to attract their attention
+Dialogue: 0,00:04:28.12,00:04:30.20,Default,,0,0,0,,Just give the Goat to the Goat to get some time
+Dialogue: 0,00:04:31.64,00:04:33.04,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:04:38.83,00:04:40.45,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:04:40.48,00:04:41.32,Default,,0,0,0,,There
+Dialogue: 0,00:04:43.92,00:04:44.60,Default,,0,0,0,,Don’t try to escape
+Dialogue: 0,00:04:51.16,00:04:52.12,Default,,0,0,0,,He is mine
+Dialogue: 0,00:04:54.27,00:04:56.32,Default,,0,0,0,,Tibbie, you’re like this
+Dialogue: 0,00:04:56.44,00:04:58.56,Default,,0,0,0,,I’m not polite to you
+Dialogue: 0,00:04:58.83,00:05:03.27,Default,,0,0,0,,snort! I’m not polite to you...
+Dialogue: 0,00:05:17.16,00:05:18.00,Default,,0,0,0,,Very strong...
+Dialogue: 0,00:05:20.96,00:05:24.04,Default,,0,0,0,,I was so tired that I couldn’t move all over my body
+Dialogue: 0,00:05:25.72,00:05:28.44,Default,,0,0,0,,I didn’t expect that Tibbies had such a powerful beast
+Dialogue: 0,00:05:30.24,00:05:31.32,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:05:38.76,00:05:39.83,Default,,0,0,0,,I won’t be there
+Dialogue: 0,00:05:40.20,00:05:41.68,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:50.64,00:05:51.96,Default,,0,0,0,,It’s indeed fake
+Dialogue: 0,00:05:52.52,00:05:55.44,Default,,0,0,0,,oh? Are you awake now?
+Dialogue: 0,00:05:57.76,00:05:59.88,Default,,0,0,0,,cut! Small carvings
+Dialogue: 0,00:06:05.76,00:06:09.08,Default,,0,0,0,,Isn’t it fake to just the pain in the illusion?
+Dialogue: 0,00:06:10.16,00:06:12.68,Default,,0,0,0,,Don’t worry, that’s the poison of my thorn forest
+Dialogue: 0,00:06:13.36,00:06:14.68,Default,,0,0,0,,You just need to be good and not to act
+Dialogue: 0,00:06:15.72,00:06:18.48,Default,,0,0,0,,When my mission is completed, I will come back to save you
+Dialogue: 0,00:06:22.44,00:06:24.00,Default,,0,0,0,,Always feel a little uneven
+Dialogue: 0,00:06:25.32,00:06:26.68,Default,,0,0,0,,Where is Princess Luna?
+Dialogue: 0,00:06:31.24,00:06:34.96,Default,,0,0,0,,You... dare to fool me!
+Dialogue: 0,00:06:36.24,00:06:39.04,Default,,0,0,0,,She can’t run away even if she is injured
+Dialogue: 0,00:06:40.36,00:06:41.96,Default,,0,0,0,,Come back and calculate with you two
+Dialogue: 0,00:06:45.32,00:06:46.52,Default,,0,0,0,,Don’t go...
+Dialogue: 0,00:06:49.44,00:06:52.40,Default,,0,0,0,,I didn’t expect that I would be discovered so soon
+Dialogue: 0,00:06:55.40,00:06:57.24,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:07:02.44,00:07:04.08,Default,,0,0,0,,Have to suck out the venom tightly
+Dialogue: 0,00:07:04.32,00:07:05.92,Default,,0,0,0,,Otherwise, life will be in danger
+Dialogue: 0,00:07:20.60,00:07:21.56,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:07:22.64,00:07:24.24,Default,,0,0,0,,Don’t...want...run...
+Dialogue: 0,00:07:25.96,00:07:27.88,Default,,0,0,0,,Who is the evil one? Report the name
+Dialogue: 0,00:07:32.04,00:07:33.16,Default,,0,0,0,,Is it really Wolffy?
+Dialogue: 0,00:07:34.48,00:07:37.16,Default,,0,0,0,,My friend, you’re so awkward to wear
+Dialogue: 0,00:07:38.00,00:07:40.33,Default,,0,0,0,,It’s not just to help you suck out the drugs
+Dialogue: 0,00:07:40.36,00:07:41.84,Default,,0,0,0,,It became like this
+Dialogue: 0,00:07:48.48,00:07:50.36,Default,,0,0,0,,cut! Do more care!
+Dialogue: 0,00:07:50.96,00:07:52.85,Default,,0,0,0,,I’ve saved your life at least
+Dialogue: 0,00:07:52.88,00:07:55.00,Default,,0,0,0,,Isn’t there a word of thanks?
+Dialogue: 0,00:07:57.60,00:07:57.92,Default,,0,0,0,,Um?
+Dialogue: 0,00:07:59.32,00:08:00.56,Default,,0,0,0,,Taste good
+Dialogue: 0,00:08:07.04,00:08:09.12,Default,,0,0,0,,All of them have been cured
+Dialogue: 0,00:08:12.60,00:08:14.84,Default,,0,0,0,,Then let’s get out of here by tight time
+Dialogue: 0,00:08:15.04,00:08:15.76,Default,,0,0,0,,Um
+Dialogue: 0,00:08:21.24,00:08:22.52,Default,,0,0,0,,It’s Tibbie!
+Dialogue: 0,00:08:23.40,00:08:25.44,Default,,0,0,0,,quick! Everyone find a place to hide!
+Dialogue: 0,00:08:40.16,00:08:41.76,Default,,0,0,0,,I just heard a static
+Dialogue: 0,00:08:42.12,00:08:43.16,Default,,0,0,0,,Why is there nothing left
+Dialogue: 0,00:08:44.52,00:08:46.20,Default,,0,0,0,,It seems that everyone is hiding
+Dialogue: 0,00:08:47.44,00:08:49.44,Default,,0,0,0,,I didn’t hide it at all.
+Dialogue: 0,00:08:56.96,00:08:58.32,Default,,0,0,0,,This grass line should be
+Dialogue: 0,00:08:59.04,00:09:00.96,Default,,0,0,0,,Go and hide there
+Dialogue: 0,00:09:02.52,00:09:04.04,Default,,0,0,0,,Fortunately, I found out earlier or otherwise...
+Dialogue: 0,00:09:04.28,00:09:06.41,Default,,0,0,0,,I’m stuck...
+Dialogue: 0,00:09:06.44,00:09:08.92,Default,,0,0,0,,Can you have some self-knowledge?
+Dialogue: 0,00:09:14.55,00:09:16.41,Default,,0,0,0,,What to do...She has walked over
+Dialogue: 0,00:09:16.44,00:09:17.44,Default,,0,0,0,,Don’t panic...
+Dialogue: 0,00:09:17.55,00:09:19.00,Default,,0,0,0,,The lawns are more indifferent
+Dialogue: 0,00:09:19.32,00:09:21.24,Default,,0,0,0,,There is also a line of life if you are unmoved
+Dialogue: 0,00:09:22.64,00:09:24.17,Default,,0,0,0,,I beg you little fat
+Dialogue: 0,00:09:24.20,00:09:25.72,Default,,0,0,0,,Don’t move, okay
+Dialogue: 0,00:09:26.52,00:09:28.16,Default,,0,0,0,,Who comes to save me
+Dialogue: 0,00:09:29.40,00:09:31.36,Default,,0,0,0,,Can you stop moving
+Dialogue: 0,00:09:34.04,00:09:35.32,Default,,0,0,0,,Why there is nothing
+Dialogue: 0,00:09:36.04,00:09:37.44,Default,,0,0,0,,Could it be that I’ve heard it?
+Dialogue: 0,00:09:39.36,00:09:40.44,Default,,0,0,0,,Have good luck
+Dialogue: 0,00:09:41.16,00:09:43.52,Default,,0,0,0,,As long as you hide in peace and leave Tibbie...
+Dialogue: 0,00:09:44.12,00:09:46.24,Default,,0,0,0,,Stand up...
+Dialogue: 0,00:09:54.12,00:09:55.28,Default,,0,0,0,,Princess Luna
+Dialogue: 0,00:09:55.44,00:09:58.36,Default,,0,0,0,,Are you sure Fulai is really our teammate?
+Dialogue: 0,00:09:58.96,00:10:00.53,Default,,0,0,0,,Waste my time so long
+Dialogue: 0,00:10:00.55,00:10:02.76,Default,,0,0,0,,Nothing Hum!
+Dialogue: 0,00:10:07.67,00:10:08.52,Default,,0,0,0,,Great!
+Dialogue: 0,00:10:10.72,00:10:12.12,Default,,0,0,0,,Finally came out
+Dialogue: 0,00:10:13.80,00:10:16.40,Default,,0,0,0,,Everyone is safe and has nothing to do. It’s great
+Dialogue: 0,00:10:17.64,00:10:18.61,Default,,0,0,0,,Fortunately, you are here
+Dialogue: 0,00:10:18.64,00:10:19.67,Default,,0,0,0,,Uh-huh
+Dialogue: 0,00:10:21.36,00:10:23.00,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:10:23.44,00:10:25.29,Default,,0,0,0,,It turns out that you are coming out so soon
+Dialogue: 0,00:10:25.32,00:10:28.72,Default,,0,0,0,,- 未…
+- Don’t be so loud, Big Grey Wolf
+Dialogue: 0,00:10:29.60,00:10:32.12,Default,,0,0,0,,What are you talking about? That’s so small
+Dialogue: 0,00:10:32.64,00:10:33.36,Default,,0,0,0,,They say
+Dialogue: 0,00:10:33.60,00:10:34.67,Default,,0,0,0,,Don’t be so loud
+Dialogue: 0,00:10:34.96,00:10:36.84,Default,,0,0,0,,Otherwise, I’ll be discovered by Tibbie
+Dialogue: 0,00:10:36.88,00:10:39.32,Default,,0,0,0,,Yes, thanks for the reminder
+Dialogue: 0,00:10:42.84,00:10:45.09,Default,,0,0,0,,Take down Princess Luna and others
+Dialogue: 0,00:10:45.12,00:10:45.64,Default,,0,0,0,,yes
+Dialogue: 0,00:10:49.96,00:10:51.55,Default,,0,0,0,,Don’t be afraid, look at me
+Dialogue: 0,00:10:51.88,00:10:54.24,Default,,0,0,0,,Lightning Strike... Alas...
+Dialogue: 0,00:10:54.52,00:10:55.24,Default,,0,0,0,,Take it away
+Dialogue: 0,00:10:56.32,00:10:58.72,Default,,0,0,0,,How do they deal with it?
+Dialogue: 0,00:10:59.16,00:11:02.16,Default,,0,0,0,,It’s useless to catch Princess Luna
+Dialogue: 0,00:11:02.60,00:11:03.12,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:11:08.64,00:11:11.24,Default,,0,0,0,,I used this hand to push it
+Dialogue: 0,00:11:11.67,00:11:13.92,Default,,0,0,0,,Just rescue Princess Luna and the others
+Dialogue: 0,00:11:14.64,00:11:15.32,Default,,0,0,0,,Go in!
+Dialogue: 0,00:11:17.84,00:11:19.32,Default,,0,0,0,,Hello everyone
+Dialogue: 0,00:11:21.04,00:11:23.96,Default,,0,0,0,,Princess Luna Why are you caught back
+Dialogue: 0,00:11:25.84,00:11:26.16,Default,,0,0,0,,Um
+Dialogue: 0,00:11:40.52,00:11:41.32,Default,,0,0,0,,I think…
+Dialogue: 0,00:11:42.80,00:11:44.72,Default,,0,0,0,,I want to save Princess Luna and the others
+Dialogue: 0,00:11:45.32,00:11:46.60,Default,,0,0,0,,Are you going with me?
+Dialogue: 0,00:11:56.64,00:11:57.64,Default,,0,0,0,,I’ll go with you
+Dialogue: 0,00:12:01.67,00:12:02.89,Default,,0,0,0,,My brother saved me
+Dialogue: 0,00:12:02.92,00:12:04.28,Default,,0,0,0,,I want to save my brother, too
+Dialogue: 0,00:12:04.40,00:12:06.16,Default,,0,0,0,,Yes, let’s go together
+Dialogue: 0,00:12:07.16,00:12:07.80,Default,,0,0,0,,I’ll go too
+Dialogue: 0,00:12:09.64,00:12:11.84,Default,,0,0,0,,They risked their lives to save us
+Dialogue: 0,00:12:12.20,00:12:14.00,Default,,0,0,0,,Now we’re reporting it
+Dialogue: 0,00:12:15.72,00:12:17.16,Default,,0,0,0,,Let me go with you
+Dialogue: 0,00:12:18.12,00:12:18.48,Default,,0,0,0,,That’s right!
+Dialogue: 0,00:12:19.64,00:12:20.80,Default,,0,0,0,,Now the princess is in trouble
+Dialogue: 0,00:12:21.04,00:12:22.36,Default,,0,0,0,,We can’t stand by and watch
+Dialogue: 0,00:12:22.84,00:12:23.92,Default,,0,0,0,,I want to save them
+Dialogue: 0,00:12:24.67,00:12:26.52,Default,,0,0,0,,Yes, save them...
+Dialogue: 0,00:12:26.92,00:12:28.12,Default,,0,0,0,,Save them...
+Dialogue: 0,00:12:28.40,00:12:33.08,Default,,0,0,0,,Save them...

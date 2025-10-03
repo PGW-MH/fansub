@@ -1,0 +1,152 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.85,00:00:25.69,Default,,0,0,0,,Wilie Dad made a cake for you
+Dialogue: 0,00:00:31.93,00:00:34.13,Default,,0,0,0,,Wilie Open the door
+Dialogue: 0,00:00:34.41,00:00:37.09,Default,,0,0,0,,Don’t keep yourself in the room every day
+Dialogue: 0,00:00:40.97,00:00:42.21,Default,,0,0,0,,oops…
+Dialogue: 0,00:00:42.41,00:00:43.37,Default,,0,0,0,,Can you stop quarreling?
+Dialogue: 0,00:00:44.21,00:00:45.29,Default,,0,0,0,,I’m busy
+Dialogue: 0,00:00:47.89,00:00:49.89,Default,,0,0,0,,How long has it been since your room been cleaned
+Dialogue: 0,00:00:50.05,00:00:51.49,Default,,0,0,0,,Miserable
+Dialogue: 0,00:00:52.05,00:00:53.69,Default,,0,0,0,,You don’t have to worry about my business
+Dialogue: 0,00:00:56.57,00:00:59.61,Default,,0,0,0,,OK OK OK Dad will help you clean up
+Dialogue: 0,00:00:59.77,00:01:01.13,Default,,0,0,0,,Don’t quarrel with you
+Dialogue: 0,00:01:09.65,00:01:12.89,Default,,0,0,0,,Oh, this...this mouse mark bites people
+Dialogue: 0,00:01:12.97,00:01:14.57,Default,,0,0,0,,That’s a rat-shaped shaver
+Dialogue: 0,00:01:19.21,00:01:20.31,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:01:20.33,00:01:22.43,Default,,0,0,0,,Why do these shoes smell so smelly
+Dialogue: 0,00:01:22.45,00:01:24.29,Default,,0,0,0,,That’s a shoe-type sponge
+Dialogue: 0,00:01:30.57,00:01:33.61,Default,,0,0,0,,Why are there all the rooms strange things
+Dialogue: 0,00:01:41.45,00:01:42.65,Default,,0,0,0,,Design diagram
+Dialogue: 0,00:01:46.09,00:01:47.57,Default,,0,0,0,,Invention Competition
+Dialogue: 0,00:01:55.13,00:01:58.09,Default,,0,0,0,,It turns out that my son has passed on my tomorrow
+Dialogue: 0,00:02:00.01,00:02:00.81,Default,,0,0,0,,Son
+Dialogue: 0,00:02:01.57,00:02:04.73,Default,,0,0,0,,Let Dad, the inventor, guide you
+Dialogue: 0,00:02:05.77,00:02:07.99,Default,,0,0,0,,Your circuit is too complicated
+Dialogue: 0,00:02:08.01,00:02:09.45,Default,,0,0,0,,Let’s simplify it
+Dialogue: 0,00:02:10.41,00:02:12.51,Default,,0,0,0,,If the resistance value is too low, it will short circuit
+Dialogue: 0,00:02:12.53,00:02:13.81,Default,,0,0,0,,Two more resistors
+Dialogue: 0,00:02:14.01,00:02:15.57,Default,,0,0,0,,Or add a light
+Dialogue: 0,00:02:23.05,00:02:24.33,Default,,0,0,0,,Where is there a problem
+Dialogue: 0,00:02:25.65,00:02:27.73,Default,,0,0,0,,If the resistance value is too low, it will short circuit
+Dialogue: 0,00:02:28.01,00:02:29.77,Default,,0,0,0,,Two more resistors
+Dialogue: 0,00:02:37.97,00:02:39.29,Default,,0,0,0,,He really said it
+Dialogue: 0,00:02:42.33,00:02:42.77,Default,,0,0,0,,Go
+Dialogue: 0,00:02:43.29,00:02:44.49,Default,,0,0,0,,Help me sweep the Wolf Castle
+Dialogue: 0,00:02:53.25,00:02:54.19,Default,,0,0,0,,Small gray
+Dialogue: 0,00:02:54.21,00:02:55.73,Default,,0,0,0,,Have eaten
+Dialogue: 0,00:02:58.01,00:02:59.17,Default,,0,0,0,,Small gray
+Dialogue: 0,00:03:20.49,00:03:23.61,Default,,0,0,0,,This is the invention of Wilie Competition
+Dialogue: 0,00:03:25.89,00:03:28.17,Default,,0,0,0,,It’s not going to be rubbish
+Dialogue: 0,00:03:33.01,00:03:36.41,Default,,0,0,0,,It’s smaller than garbage
+Dialogue: 0,00:03:36.81,00:03:38.25,Default,,0,0,0,,What’s the use
+Dialogue: 0,00:03:42.81,00:03:43.65,Default,,0,0,0,,no
+Dialogue: 0,00:03:44.13,00:03:45.69,Default,,0,0,0,,Can’t let the son lose
+Dialogue: 0,00:03:46.29,00:03:48.37,Default,,0,0,0,,I’ll help him win the competition
+Dialogue: 0,00:04:25.33,00:04:27.25,Default,,0,0,0,,Ah, it’s coming
+Dialogue: 0,00:04:31.57,00:04:32.93,Default,,0,0,0,,I’ll go with you
+Dialogue: 0,00:04:33.89,00:04:34.33,Default,,0,0,0,,Need not
+Dialogue: 0,00:04:44.21,00:04:46.37,Default,,0,0,0,,Son, come on
+Dialogue: 0,00:04:47.77,00:04:48.57,Default,,0,0,0,,come on
+Dialogue: 0,00:04:49.01,00:04:49.45,Default,,0,0,0,,Um
+Dialogue: 0,00:04:54.13,00:04:55.23,Default,,0,0,0,,It’s now
+Dialogue: 0,00:04:55.25,00:04:58.25,Default,,0,0,0,,The display time of the future Star Cup invention competition
+Dialogue: 0,00:04:58.65,00:05:00.29,Default,,0,0,0,,Please make preparations
+Dialogue: 0,00:05:09.17,00:05:11.97,Default,,0,0,0,,Please introduce and show your invention
+Dialogue: 0,00:05:13.13,00:05:16.73,Default,,0,0,0,,This...This is the super swipe expert I invented
+Dialogue: 0,00:05:17.85,00:05:19.29,Default,,0,0,0,,It has a bad function
+Dialogue: 0,00:05:19.69,00:05:20.87,Default,,0,0,0,,It can be smaller
+Dialogue: 0,00:05:20.89,00:05:23.05,Default,,0,0,0,,Run to a place that cannot be cleaned normally
+Dialogue: 0,00:05:31.77,00:05:33.41,Default,,0,0,0,,oops
+Dialogue: 0,00:05:34.21,00:05:35.17,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:05:37.73,00:05:40.85,Default,,0,0,0,,Hehe The celebration banquet is ready
+Dialogue: 0,00:05:41.37,00:05:44.69,Default,,0,0,0,,When Wilie comes back, you can start to celebrate
+Dialogue: 0,00:05:49.09,00:05:51.09,Default,,0,0,0,,Dad, you’re so terrible
+Dialogue: 0,00:05:51.93,00:05:54.65,Default,,0,0,0,,I can only win the prize by your invention
+Dialogue: 0,00:06:01.33,00:06:02.85,Default,,0,0,0,,Congratulations to son
+Dialogue: 0,00:06:03.21,00:06:04.05,Default,,0,0,0,,How
+Dialogue: 0,00:06:04.45,00:06:07.21,Default,,0,0,0,,Do you like your invention very much?
+Dialogue: 0,00:06:11.45,00:06:13.93,Default,,0,0,0,,Did you stole my invention
+Dialogue: 0,00:06:14.33,00:06:16.01,Default,,0,0,0,,What...what happened
+Dialogue: 0,00:06:17.25,00:06:19.33,Default,,0,0,0,,You always think you are
+Dialogue: 0,00:06:19.65,00:06:20.69,Default,,0,0,0,,I…
+Dialogue: 0,00:06:21.85,00:06:23.97,Default,,0,0,0,,Do you think I’m happy like this?
+Dialogue: 0,00:06:24.97,00:06:26.49,Default,,0,0,0,,Fifteen years have passed
+Dialogue: 0,00:06:26.65,00:06:27.77,Default,,0,0,0,,You haven’t changed at all
+Dialogue: 0,00:06:35.01,00:06:38.61,Default,,0,0,0,,How about it...Little Huihui complained to me
+Dialogue: 0,00:06:39.05,00:06:41.49,Default,,0,0,0,,He said I always thought it was right
+Dialogue: 0,00:06:42.41,00:06:45.45,Default,,0,0,0,,I’m just doing it for him
+Dialogue: 0,00:06:45.77,00:06:47.41,Default,,0,0,0,,I know I know
+Dialogue: 0,00:06:51.77,00:06:54.99,Default,,0,0,0,,Wilie probably just wanted to do it through his own efforts
+Dialogue: 0,00:06:55.01,00:06:56.21,Default,,0,0,0,,Get the prize
+Dialogue: 0,00:06:57.37,00:06:58.41,Default,,0,0,0,,Change it is you
+Dialogue: 0,00:06:58.57,00:07:01.53,Default,,0,0,0,,You don’t want to win the championship by relying on others’ strength, right?
+Dialogue: 0,00:07:02.37,00:07:04.93,Default,,0,0,0,,Wilie is no longer the child he used to be
+Dialogue: 0,00:07:06.49,00:07:07.33,Default,,0,0,0,,Yes
+Dialogue: 0,00:07:07.65,00:07:10.01,Default,,0,0,0,,I’m too self-righteous
+Dialogue: 0,00:07:10.93,00:07:12.01,Default,,0,0,0,,I want to apologize
+Dialogue: 0,00:07:29.89,00:07:32.25,Default,,0,0,0,,Don’t throw it away if you don’t want to
+Dialogue: 0,00:07:33.41,00:07:34.45,Default,,0,0,0,,What’s the use of keeping it
+Dialogue: 0,00:07:40.61,00:07:41.53,Default,,0,0,0,,What’s up
+Dialogue: 0,00:07:52.77,00:07:53.97,Default,,0,0,0,,Monster beast
+Dialogue: 0,00:07:54.21,00:07:55.65,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:07:59.13,00:08:00.05,Default,,0,0,0,,oops
+Dialogue: 0,00:08:03.85,00:08:04.97,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:08:05.61,00:08:06.45,Default,,0,0,0,,Don’t slap
+Dialogue: 0,00:08:11.41,00:08:12.29,Default,,0,0,0,,ah
+Dialogue: 0,00:08:40.65,00:08:41.65,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:08:42.29,00:08:42.61,Default,,0,0,0,,Um
+Dialogue: 0,00:08:44.45,00:08:44.93,Default,,0,0,0,,Um?
+Dialogue: 0,00:08:48.53,00:08:50.77,Default,,0,0,0,,The sweeping robot I made?
+Dialogue: 0,00:09:03.01,00:09:04.15,Default,,0,0,0,,You think you can fight
+Dialogue: 0,00:09:04.17,00:09:06.13,Default,,0,0,0,,Am I the one who makes your master?
+Dialogue: 0,00:09:22.53,00:09:24.91,Default,,0,0,0,,As long as it destroys your power core
+Dialogue: 0,00:09:24.93,00:09:26.45,Default,,0,0,0,,You can’t move
+Dialogue: 0,00:09:33.17,00:09:34.01,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:09:34.85,00:09:35.97,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:09:55.37,00:09:57.21,Default,,0,0,0,,You’ll escape to a safe place
+Dialogue: 0,00:09:57.61,00:09:58.41,Default,,0,0,0,,And you
+Dialogue: 0,00:09:58.93,00:10:02.09,Default,,0,0,0,,Of course I have taken on my own conspiracy
+Dialogue: 0,00:10:05.01,00:10:07.29,Default,,0,0,0,,Aren’t you unable to break its outer armor?
+Dialogue: 0,00:10:07.73,00:10:08.97,Default,,0,0,0,,How to clean it up
+Dialogue: 0,00:10:09.21,00:10:11.53,Default,,0,0,0,,Let everyone deal with it together
+Dialogue: 0,00:10:19.17,00:10:21.19,Default,,0,0,0,,Everyone went out to find the cards
+Dialogue: 0,00:10:21.21,00:10:22.55,Default,,0,0,0,,It’s too late
+Dialogue: 0,00:10:22.57,00:10:25.81,Default,,0,0,0,,As long as I want to attack it inside
+Dialogue: 0,00:10:30.05,00:10:30.73,Default,,0,0,0,,dad…
+Dialogue: 0,00:10:39.61,00:10:42.13,Default,,0,0,0,,Big block, I’ll deal with you
+Dialogue: 0,00:10:56.29,00:10:56.97,Default,,0,0,0,,Oops...
+Dialogue: 0,00:11:04.45,00:11:05.19,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:05.21,00:11:06.71,Default,,0,0,0,,What are you doing here
+Dialogue: 0,00:11:06.73,00:11:08.05,Default,,0,0,0,,Escape quickly
+Dialogue: 0,00:11:08.65,00:11:10.77,Default,,0,0,0,,I’m here to help you attack its inside
+Dialogue: 0,00:11:11.29,00:11:13.53,Default,,0,0,0,,Super Swallowing Experts
+Dialogue: 0,00:11:33.01,00:11:33.85,Default,,0,0,0,,It’s up to you
+Dialogue: 0,00:11:34.77,00:11:36.13,Default,,0,0,0,,no problem
+Dialogue: 0,00:11:39.93,00:11:41.97,Default,,0,0,0,,See the big block again
+Dialogue: 0,00:11:50.69,00:11:51.69,Default,,0,0,0,,- well done
+- well done
+Dialogue: 0,00:11:56.09,00:11:56.97,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:58.05,00:11:59.71,Default,,0,0,0,,Remember it’s delicious
+Dialogue: 0,00:11:59.73,00:12:00.77,Default,,0,0,0,,I’ll leave first
+Dialogue: 0,00:12:03.93,00:12:06.21,Default,,0,0,0,,Could it be that I just got hurt?
+Dialogue: 0,00:12:06.89,00:12:07.69,Default,,0,0,0,,Where to go
+Dialogue: 0,00:12:08.93,00:12:10.81,Default,,0,0,0,,Don’t run away if your hands are injured
+Dialogue: 0,00:12:11.09,00:12:13.87,Default,,0,0,0,,The hand is injured and it doesn’t affect walking
+Dialogue: 0,00:12:13.89,00:12:16.41,Default,,0,0,0,,Just leave if you don’t come in
+Dialogue: 0,00:12:18.97,00:12:21.69,Default,,0,0,0,,Don’t, I’ll come in here
+Dialogue: 0,00:12:24.61,00:12:25.41,Default,,0,0,0,,Son...

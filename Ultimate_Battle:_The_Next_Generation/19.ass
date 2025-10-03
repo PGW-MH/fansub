@@ -1,0 +1,216 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:28.93,00:00:31.01,Default,,0,0,0,,Village Chief, have any results?
+Dialogue: 0,00:00:33.61,00:00:35.97,Default,,0,0,0,,Although it spreads slowly
+Dialogue: 0,00:00:36.37,00:00:39.13,Default,,0,0,0,,But your right hand has begun to become mechanical
+Dialogue: 0,00:00:39.73,00:00:40.81,Default,,0,0,0,,what
+Dialogue: 0,00:00:41.21,00:00:43.27,Default,,0,0,0,,Can cause such damage
+Dialogue: 0,00:00:43.29,00:00:45.49,Default,,0,0,0,,There is only that mysterious person right now
+Dialogue: 0,00:00:46.41,00:00:48.31,Default,,0,0,0,,Do you still remember how you got hurt?
+Dialogue: 0,00:00:48.33,00:00:49.33,Default,,0,0,0,,Well…
+Dialogue: 0,00:00:49.89,00:00:51.69,Default,,0,0,0,,Ah, it won’t be...
+Dialogue: 0,00:00:55.73,00:00:58.89,Default,,0,0,0,,Will Wolffy become a robot in the future?
+Dialogue: 0,00:00:59.09,00:01:00.97,Default,,0,0,0,,It’s hard to say now
+Dialogue: 0,00:01:01.53,00:01:03.29,Default,,0,0,0,,Will I become a robot
+Dialogue: 0,00:01:04.17,00:01:07.13,Default,,0,0,0,,Finally got a little more irrelevant with my son
+Dialogue: 0,00:01:07.41,00:01:09.41,Default,,0,0,0,,But I haven’t seen any red
+Dialogue: 0,00:01:09.81,00:01:10.73,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:01:11.53,00:01:13.61,Default,,0,0,0,,You moved to Goat Village at a time
+Dialogue: 0,00:01:13.73,00:01:16.01,Default,,0,0,0,,Let’s study the treatment together
+Dialogue: 0,00:01:16.61,00:01:19.75,Default,,0,0,0,,But I’m afraid that one day I can’t control myself
+Dialogue: 0,00:01:19.77,00:01:21.03,Default,,0,0,0,,Hurt you
+Dialogue: 0,00:01:21.05,00:01:22.05,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:01:22.89,00:01:26.73,Default,,0,0,0,,We will take care of you in all directions for 24 hours
+Dialogue: 0,00:01:27.01,00:01:28.81,Default,,0,0,0,,They’re not monsters
+Dialogue: 0,00:01:31.09,00:01:32.25,Default,,0,0,0,,Oh well
+Dialogue: 0,00:01:37.89,00:01:38.57,Default,,0,0,0,,PhD
+Dialogue: 0,00:01:38.97,00:01:42.05,Default,,0,0,0,,I’ve started adjusting the abnormal data of black diamonds
+Dialogue: 0,00:01:42.61,00:01:43.45,Default,,0,0,0,,Um…
+Dialogue: 0,00:01:43.69,00:01:45.57,Default,,0,0,0,,I’m very curious
+Dialogue: 0,00:01:45.85,00:01:48.49,Default,,0,0,0,,Black Diamond is obviously a robot
+Dialogue: 0,00:01:48.65,00:01:50.97,Default,,0,0,0,,Why do you still have feelings
+Dialogue: 0,00:01:51.13,00:01:53.27,Default,,0,0,0,,And the fragments of star stones
+Dialogue: 0,00:01:53.29,00:01:56.05,Default,,0,0,0,,It can also produce effects on the body
+Dialogue: 0,00:01:56.41,00:01:59.21,Default,,0,0,0,,Fun... Fun...
+Dialogue: 0,00:01:59.81,00:02:02.37,Default,,0,0,0,,Wilie, you are waiting for me here
+Dialogue: 0,00:02:04.65,00:02:05.29,Default,,0,0,0,,dad
+Dialogue: 0,00:02:06.05,00:02:06.69,Default,,0,0,0,,dad
+Dialogue: 0,00:02:11.85,00:02:12.57,Default,,0,0,0,,etc.
+Dialogue: 0,00:02:13.65,00:02:14.45,Default,,0,0,0,,dad
+Dialogue: 0,00:02:21.69,00:02:22.69,Default,,0,0,0,,This is another
+Dialogue: 0,00:02:31.29,00:02:33.27,Default,,0,0,0,,Son, you’re awake
+Dialogue: 0,00:02:33.29,00:02:34.69,Default,,0,0,0,,I…
+Dialogue: 0,00:02:35.41,00:02:36.29,Default,,0,0,0,,Just say if you have any
+Dialogue: 0,00:02:37.61,00:02:40.13,Default,,0,0,0,,I have to move to Yangcun for a while
+Dialogue: 0,00:02:40.89,00:02:41.65,Default,,0,0,0,,Yes
+Dialogue: 0,00:02:42.29,00:02:44.23,Default,,0,0,0,,You have to take good care of yourself...
+Dialogue: 0,00:02:44.25,00:02:45.17,Default,,0,0,0,,Just leave if you want
+Dialogue: 0,00:02:45.41,00:02:46.85,Default,,0,0,0,,Anyway, I’m all ill
+Dialogue: 0,00:02:47.97,00:02:49.57,Default,,0,0,0,,No I just...
+Dialogue: 0,00:02:58.81,00:02:59.89,Default,,0,0,0,,Just leave if you want
+Dialogue: 0,00:03:00.09,00:03:01.53,Default,,0,0,0,,Anyway, I’m all ill
+Dialogue: 0,00:03:04.93,00:03:06.33,Default,,0,0,0,,Don’t worry, the village chief
+Dialogue: 0,00:03:06.97,00:03:08.57,Default,,0,0,0,,I’m on the road
+Dialogue: 0,00:03:10.41,00:03:11.37,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:03:11.77,00:03:14.21,Default,,0,0,0,,Wilie Why are you here
+Dialogue: 0,00:03:14.53,00:03:15.33,Default,,0,0,0,,What about Wolffy
+Dialogue: 0,00:03:17.01,00:03:19.01,Default,,0,0,0,,I heard that he was moving to Goat Village
+Dialogue: 0,00:03:19.81,00:03:20.65,Default,,0,0,0,,What’s wrong with him
+Dialogue: 0,00:03:22.09,00:03:24.13,Default,,0,0,0,,Big Wolf didn’t tell you
+Dialogue: 0,00:03:29.01,00:03:30.49,Default,,0,0,0,,I really admire you
+Dialogue: 0,00:03:35.21,00:03:36.53,Default,,0,0,0,,Dad catches the ball
+Dialogue: 0,00:03:37.13,00:03:39.01,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:03:40.41,00:03:41.05,Default,,0,0,0,,Hey
+Dialogue: 0,00:03:41.61,00:03:43.29,Default,,0,0,0,,Oh oh oh
+Dialogue: 0,00:03:43.53,00:03:45.65,Default,,0,0,0,,Look at me...Oh
+Dialogue: 0,00:03:46.57,00:03:47.81,Default,,0,0,0,,First...Sir...
+Dialogue: 0,00:03:48.69,00:03:49.89,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:52.25,00:03:53.61,Default,,0,0,0,,Sorry
+Dialogue: 0,00:03:55.77,00:03:56.29,Default,,0,0,0,,give
+Dialogue: 0,00:03:56.57,00:03:57.71,Default,,0,0,0,,-Thank you -Thank you
+Dialogue: 0,00:03:57.73,00:04:01.51,Default,,0,0,0,,Ah... Monster
+Dialogue: 0,00:04:01.53,00:04:02.13,Default,,0,0,0,,monster?
+Dialogue: 0,00:04:02.29,00:04:04.73,Default,,0,0,0,,Can’t I have become mechanical?
+Dialogue: 0,00:04:07.65,00:04:09.49,Default,,0,0,0,,This...this is...
+Dialogue: 0,00:04:10.53,00:04:12.17,Default,,0,0,0,,That’s how it is
+Dialogue: 0,00:04:13.73,00:04:16.61,Default,,0,0,0,,He just likes to carry everything alone
+Dialogue: 0,00:04:17.53,00:04:19.87,Default,,0,0,0,,Run quickly...
+Dialogue: 0,00:04:19.89,00:04:20.97,Default,,0,0,0,,What happened
+Dialogue: 0,00:04:22.89,00:04:25.31,Default,,0,0,0,,Weslie The fragments appear
+Dialogue: 0,00:04:25.33,00:04:27.45,Default,,0,0,0,,Come to Central Park for support
+Dialogue: 0,00:04:27.93,00:04:28.69,Default,,0,0,0,,receive
+Dialogue: 0,00:04:29.61,00:04:31.55,Default,,0,0,0,,Wilie I’m going to help Big Wolf
+Dialogue: 0,00:04:31.57,00:04:32.97,Default,,0,0,0,,You go and avoid the trouble first
+Dialogue: 0,00:04:34.29,00:04:35.29,Default,,0,0,0,,Weslie Brother...
+Dialogue: 0,00:04:41.89,00:04:44.99,Default,,0,0,0,,There are monsters, help...
+Dialogue: 0,00:04:45.01,00:04:45.87,Default,,0,0,0,,Help
+Dialogue: 0,00:04:45.89,00:04:47.53,Default,,0,0,0,,Ahhhhhh
+Dialogue: 0,00:04:49.53,00:04:50.93,Default,,0,0,0,,Help
+Dialogue: 0,00:05:09.13,00:05:11.69,Default,,0,0,0,,You won’t have anything to do with me...
+Dialogue: 0,00:05:15.29,00:05:17.85,Default,,0,0,0,,Ahhhhhhhh
+Dialogue: 0,00:05:19.45,00:05:21.19,Default,,0,0,0,,It actually sneaked into me
+Dialogue: 0,00:05:21.21,00:05:22.97,Default,,0,0,0,,I won’t let you go
+Dialogue: 0,00:05:25.77,00:05:27.55,Default,,0,0,0,,I’m angry
+Dialogue: 0,00:05:27.57,00:05:36.99,Default,,0,0,0,,Ahhhh
+Dialogue: 0,00:05:37.01,00:05:38.69,Default,,0,0,0,,My hands...
+Dialogue: 0,00:05:39.49,00:05:41.97,Default,,0,0,0,,Ah Hey
+Dialogue: 0,00:05:44.57,00:05:46.49,Default,,0,0,0,,I know my trauma is not...
+Dialogue: 0,00:05:47.41,00:05:48.17,Default,,0,0,0,,oops
+Dialogue: 0,00:05:50.01,00:05:52.01,Default,,0,0,0,,This is... glue water
+Dialogue: 0,00:05:59.69,00:06:01.03,Default,,0,0,0,,All of this can be restored
+Dialogue: 0,00:06:01.05,00:06:02.77,Default,,0,0,0,,Still not talking
+Dialogue: 0,00:06:06.89,00:06:08.69,Default,,0,0,0,,Help...
+Dialogue: 0,00:06:12.61,00:06:15.01,Default,,0,0,0,,Ahhhhhh
+Dialogue: 0,00:06:22.05,00:06:25.47,Default,,0,0,0,,Weslie
+Dialogue: 0,00:06:25.49,00:06:26.25,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:06:27.49,00:06:28.37,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:06:28.41,00:06:29.43,Default,,0,0,0,,Don’t be careless
+Dialogue: 0,00:06:29.45,00:06:31.37,Default,,0,0,0,,This water monster can recover
+Dialogue: 0,00:06:32.17,00:06:33.17,Default,,0,0,0,,- Wilie
+- Wilie
+Dialogue: 0,00:06:34.41,00:06:35.39,Default,,0,0,0,,What did you come
+Dialogue: 0,00:06:35.41,00:06:36.59,Default,,0,0,0,,It’s very dangerous here
+Dialogue: 0,00:06:36.61,00:06:38.85,Default,,0,0,0,,Yes, hurry up and avoid the difficulties
+Dialogue: 0,00:06:43.41,00:06:46.45,Default,,0,0,0,,Those who want to leave should be injured and strong people.
+Dialogue: 0,00:06:49.45,00:06:50.77,Default,,0,0,0,,But…
+Dialogue: 0,00:06:54.01,00:06:55.09,Default,,0,0,0,,What is that
+Dialogue: 0,00:07:07.85,00:07:09.51,Default,,0,0,0,,This monster can recover
+Dialogue: 0,00:07:09.53,00:07:11.77,Default,,0,0,0,,Could it be that is its core?
+Dialogue: 0,00:07:12.17,00:07:14.53,Default,,0,0,0,,Little Huihui Big Wolf will hand it over to you
+Dialogue: 0,00:07:21.69,00:07:23.53,Default,,0,0,0,,I’ll go over to help
+Dialogue: 0,00:07:24.61,00:07:25.29,Default,,0,0,0,,no
+Dialogue: 0,00:07:26.01,00:07:26.93,Default,,0,0,0,,You’ve been hurt
+Dialogue: 0,00:07:27.21,00:07:28.85,Default,,0,0,0,,What kind of busyness can you help in the past
+Dialogue: 0,00:07:28.93,00:07:31.49,Default,,0,0,0,,But Weslie can’t handle it alone
+Dialogue: 0,00:07:32.09,00:07:33.05,Default,,0,0,0,,Danger
+Dialogue: 0,00:07:34.29,00:07:34.81,Default,,0,0,0,,dad
+Dialogue: 0,00:07:37.09,00:07:37.85,Default,,0,0,0,,not good
+Dialogue: 0,00:07:44.01,00:07:46.15,Default,,0,0,0,,Wilie, please let go
+Dialogue: 0,00:07:46.17,00:07:48.09,Default,,0,0,0,,You’ll be pulled in, too
+Dialogue: 0,00:07:49.45,00:07:50.25,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:07:50.57,00:07:51.69,Default,,0,0,0,,Little Gray Gray…
+Dialogue: 0,00:07:52.05,00:07:53.57,Default,,0,0,0,,Ahhhh
+Dialogue: 0,00:07:57.33,00:07:58.05,Default,,0,0,0,,Oops
+Dialogue: 0,00:08:03.73,00:08:06.05,Default,,0,0,0,,Little Gray Gray Small Gray Gray
+Dialogue: 0,00:08:09.01,00:08:11.81,Default,,0,0,0,,Don’t be afraid, Dad will come to save you immediately
+Dialogue: 0,00:08:20.05,00:08:20.69,Default,,0,0,0,,Oops
+Dialogue: 0,00:08:23.85,00:08:25.25,Default,,0,0,0,,Nothing is done...
+Dialogue: 0,00:08:27.57,00:08:30.17,Default,,0,0,0,,Son, hold on
+Dialogue: 0,00:08:43.21,00:08:45.01,Default,,0,0,0,,It’s not a way to hide like this
+Dialogue: 0,00:08:45.65,00:08:47.57,Default,,0,0,0,,It’s necessary to find its core
+Dialogue: 0,00:08:49.57,00:08:51.33,Default,,0,0,0,,The body cannot move at all...
+Dialogue: 0,00:08:52.09,00:08:53.13,Default,,0,0,0,,Son
+Dialogue: 0,00:08:53.81,00:08:54.53,Default,,0,0,0,,Son
+Dialogue: 0,00:08:59.49,00:09:00.97,Default,,0,0,0,,You have to hold on
+Dialogue: 0,00:09:03.73,00:09:06.41,Default,,0,0,0,,Uh uh uh…
+Dialogue: 0,00:09:08.05,00:09:10.37,Default,,0,0,0,,Don’t move your hand anymore...
+Dialogue: 0,00:09:11.29,00:09:11.89,Default,,0,0,0,,no
+Dialogue: 0,00:09:11.97,00:09:14.45,Default,,0,0,0,,I promise you will save you
+Dialogue: 0,00:09:16.05,00:09:17.25,Default,,0,0,0,,Wait for dad
+Dialogue: 0,00:09:18.65,00:09:19.33,Default,,0,0,0,,The cheating person...
+Dialogue: 0,00:09:19.89,00:09:21.93,Default,,0,0,0,,Quit... Quit...
+Dialogue: 0,00:09:22.97,00:09:25.09,Default,,0,0,0,,Don’t let things you do without ease
+Dialogue: 0,00:09:25.53,00:09:28.25,Default,,0,0,0,,What will come back soon? Will definitely come back
+Dialogue: 0,00:09:28.61,00:09:29.43,Default,,0,0,0,,Over the past fifteen years
+Dialogue: 0,00:09:29.45,00:09:31.65,Default,,0,0,0,,I can live a very good life without you...
+Dialogue: 0,00:09:33.01,00:09:36.53,Default,,0,0,0,,I always like to take all my responsibilities on my own
+Dialogue: 0,00:09:36.61,00:09:39.97,Default,,0,0,0,,It appears if you like it. It disappears if you don’t like it.
+Dialogue: 0,00:09:40.41,00:09:41.57,Default,,0,0,0,,Little Gray Gray…
+Dialogue: 0,00:09:41.97,00:09:42.93,Default,,0,0,0,,Why
+Dialogue: 0,00:09:43.61,00:09:46.03,Default,,0,0,0,,Have you ever thought about us?
+Dialogue: 0,00:09:46.05,00:09:47.49,Default,,0,0,0,,Small gray
+Dialogue: 0,00:09:47.65,00:09:48.69,Default,,0,0,0,,Alas
+Dialogue: 0,00:09:51.41,00:09:52.17,Default,,0,0,0,,dad
+Dialogue: 0,00:09:53.33,00:09:54.13,Default,,0,0,0,,dad
+Dialogue: 0,00:09:55.77,00:09:56.81,Default,,0,0,0,,Small gray
+Dialogue: 0,00:10:04.09,00:10:06.21,Default,,0,0,0,,Wilie, you said it’s OK
+Dialogue: 0,00:10:06.53,00:10:07.91,Default,,0,0,0,,Over the past fifteen years
+Dialogue: 0,00:10:07.93,00:10:10.31,Default,,0,0,0,,I’ve never been with you
+Dialogue: 0,00:10:10.33,00:10:12.81,Default,,0,0,0,,It’s natural for you to tell me
+Dialogue: 0,00:10:13.77,00:10:18.21,Default,,0,0,0,,But...but...I...
+Dialogue: 0,00:10:21.29,00:10:22.93,Default,,0,0,0,,Dad doesn’t cry or not
+Dialogue: 0,00:10:23.77,00:10:26.05,Default,,0,0,0,,Wilie will wait for you to come back
+Dialogue: 0,00:10:28.53,00:10:31.69,Default,,0,0,0,,Sorry Wilie Sorry...
+Dialogue: 0,00:10:34.93,00:10:35.61,Default,,0,0,0,,dad…
+Dialogue: 0,00:10:36.97,00:10:40.65,Default,,0,0,0,,You know...we have... miss you so much...
+Dialogue: 0,00:10:41.29,00:10:42.37,Default,,0,0,0,,Small gray
+Dialogue: 0,00:10:49.41,00:10:51.13,Default,,0,0,0,,Sorry, son
+Dialogue: 0,00:10:51.49,00:10:52.73,Default,,0,0,0,,This time...
+Dialogue: 0,00:10:57.89,00:10:58.73,Default,,0,0,0,,This is...
+Dialogue: 0,00:11:09.29,00:11:10.09,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:11.61,00:11:15.09,Default,,0,0,0,,Son, I will definitely not leave you again
+Dialogue: 0,00:11:16.61,00:11:17.61,Default,,0,0,0,,Found the core
+Dialogue: 0,00:11:18.73,00:11:19.49,Default,,0,0,0,,good
+Dialogue: 0,00:11:33.41,00:11:35.45,Default,,0,0,0,,This sun is really good
+Dialogue: 0,00:11:37.41,00:11:37.93,Default,,0,0,0,,dad
+Dialogue: 0,00:11:39.17,00:11:42.89,Default,,0,0,0,,Actually...you can do it without moving out
+Dialogue: 0,00:11:43.61,00:11:44.97,Default,,0,0,0,,I’ll take care of you
+Dialogue: 0,00:11:45.17,00:11:46.21,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:46.69,00:11:49.09,Default,,0,0,0,,Don’t you blame me for leaving you back then?
+Dialogue: 0,00:11:49.53,00:11:49.97,Default,,0,0,0,,Strange
+Dialogue: 0,00:11:51.81,00:11:52.53,Default,,0,0,0,,but…
+Dialogue: 0,00:11:55.45,00:11:57.49,Default,,0,0,0,,But haven’t you said it?
+Dialogue: 0,00:11:58.01,00:11:58.97,Default,,0,0,0,,This time...
+Dialogue: 0,00:11:59.89,00:12:02.01,Default,,0,0,0,,This time you won’t leave us again
+Dialogue: 0,00:12:05.13,00:12:06.17,Default,,0,0,0,,Little Gray Gray…
+Dialogue: 0,00:12:06.81,00:12:08.25,Default,,0,0,0,,Don’t hug you suddenly
+Dialogue: 0,00:12:08.53,00:12:10.69,Default,,0,0,0,,I...I’m not a child again
+Dialogue: 0,00:12:11.69,00:12:14.45,Default,,0,0,0,,But this time you have to say it
+Dialogue: 0,00:12:14.65,00:12:15.41,Default,,0,0,0,,Um
+Dialogue: 0,00:12:16.57,00:12:17.29,Default,,0,0,0,,and…
+Dialogue: 0,00:12:20.01,00:12:21.13,Default,,0,0,0,,This is...
+Dialogue: 0,00:12:26.89,00:12:27.57,Default,,0,0,0,,Hello

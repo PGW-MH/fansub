@@ -1,0 +1,192 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.02,00:00:21.70,Default,,0,0,0,,Sparky
+Dialogue: 0,00:00:22.94,00:00:24.74,Default,,0,0,0,,We didn’t find the monster here
+Dialogue: 0,00:00:25.06,00:00:26.70,Default,,0,0,0,,Then find it and contact us
+Dialogue: 0,00:00:27.26,00:00:27.70,Default,,0,0,0,,Um
+Dialogue: 0,00:00:29.30,00:00:30.78,Default,,0,0,0,,Where will it be
+Dialogue: 0,00:00:30.90,00:00:32.42,Default,,0,0,0,,Found
+Dialogue: 0,00:00:33.22,00:00:34.66,Default,,0,0,0,,I’m here
+Dialogue: 0,00:00:36.22,00:00:38.54,Default,,0,0,0,,I found a new restaurant
+Dialogue: 0,00:00:41.14,00:00:43.02,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:00:43.10,00:00:44.62,Default,,0,0,0,,Need to be tight when looking for cards
+Dialogue: 0,00:00:46.18,00:00:47.38,Default,,0,0,0,,The monster is here
+Dialogue: 0,00:00:50.02,00:00:51.58,Default,,0,0,0,,We’re here right now
+Dialogue: 0,00:00:54.94,00:01:01.46,Default,,0,0,0,,It’s...
+Dialogue: 0,00:01:02.82,00:01:04.74,Default,,0,0,0,,You’re OK with Jonie
+Dialogue: 0,00:01:08.06,00:01:08.98,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:01:09.86,00:01:11.06,Default,,0,0,0,,Then let’s go quickly
+Dialogue: 0,00:01:20.14,00:01:22.38,Default,,0,0,0,,I also collected a card for the doctor
+Dialogue: 0,00:01:23.58,00:01:26.90,Default,,0,0,0,,It’s...
+Dialogue: 0,00:01:31.02,00:01:32.10,Default,,0,0,0,,ah
+Dialogue: 0,00:01:32.42,00:01:34.26,Default,,0,0,0,,Look forward to her and don’t let her run away
+Dialogue: 0,00:01:34.86,00:01:37.94,Default,,0,0,0,,That’s too dangerous. You can’t get there
+Dialogue: 0,00:01:38.50,00:01:39.74,Default,,0,0,0,,Believe in black diamonds
+Dialogue: 0,00:01:40.66,00:01:41.78,Default,,0,0,0,,elder brother
+Dialogue: 0,00:01:47.30,00:01:49.82,Default,,0,0,0,,I won’t win the same move for the second time
+Dialogue: 0,00:01:57.22,00:01:58.10,Default,,0,0,0,,See you again
+Dialogue: 0,00:01:58.38,00:02:01.46,Default,,0,0,0,,Oh…
+Dialogue: 0,00:02:01.70,00:02:02.46,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:02:03.46,00:02:04.38,Default,,0,0,0,,Shield monster
+Dialogue: 0,00:02:09.50,00:02:10.86,Default,,0,0,0,,Very hard to fight
+Dialogue: 0,00:02:13.22,00:02:14.28,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:02:14.30,00:02:15.82,Default,,0,0,0,,Why are you here
+Dialogue: 0,00:02:17.26,00:02:19.66,Default,,0,0,0,,We were beaten by the monsters there
+Dialogue: 0,00:02:20.78,00:02:22.02,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:02:22.46,00:02:25.34,Default,,0,0,0,,Spear, you’re actually knocked down
+Dialogue: 0,00:02:26.02,00:02:27.74,Default,,0,0,0,,No need to interfere...
+Dialogue: 0,00:02:29.58,00:02:31.18,Default,,0,0,0,,It’s the same as many
+Dialogue: 0,00:02:43.26,00:02:46.62,Default,,0,0,0,,Are you looking for me if you have something to do?
+Dialogue: 0,00:02:59.58,00:03:00.40,Default,,0,0,0,,elder brother
+Dialogue: 0,00:03:00.42,00:03:01.18,Default,,0,0,0,,not good
+Dialogue: 0,00:03:01.66,00:03:03.78,Default,,0,0,0,,Wilie takes good care of Xiao Yu
+Dialogue: 0,00:03:04.10,00:03:04.38,Default,,0,0,0,,Um
+Dialogue: 0,00:03:15.58,00:03:16.46,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:03:17.26,00:03:18.26,Default,,0,0,0,,More carefree things
+Dialogue: 0,00:03:21.34,00:03:23.68,Default,,0,0,0,,Ha... I’ve been beaten
+Dialogue: 0,00:03:23.70,00:03:24.94,Default,,0,0,0,,The same to you
+Dialogue: 0,00:03:25.98,00:03:27.30,Default,,0,0,0,,We’re going to make a quick decision
+Dialogue: 0,00:03:46.86,00:03:47.98,Default,,0,0,0,,It’s really hard
+Dialogue: 0,00:03:48.58,00:03:50.62,Default,,0,0,0,,They are so crowded that they are going to lose
+Dialogue: 0,00:03:51.22,00:03:53.38,Default,,0,0,0,,Or we can cooperate at the right time
+Dialogue: 0,00:03:54.74,00:03:56.94,Default,,0,0,0,,Hum, it’s just a while
+Dialogue: 0,00:03:57.26,00:03:58.82,Default,,0,0,0,,Death piercing
+Dialogue: 0,00:04:12.10,00:04:12.70,Default,,0,0,0,,dad
+Dialogue: 0,00:04:13.14,00:04:15.26,Default,,0,0,0,,ah
+Dialogue: 0,00:04:17.78,00:04:18.94,Default,,0,0,0,,ah
+Dialogue: 0,00:04:19.30,00:04:20.18,Default,,0,0,0,,elder brother
+Dialogue: 0,00:04:20.78,00:04:22.82,Default,,0,0,0,,Don’t go past you will hinder their
+Dialogue: 0,00:04:32.74,00:04:35.10,Default,,0,0,0,,They’re so terrible when they work together
+Dialogue: 0,00:04:36.18,00:04:37.34,Default,,0,0,0,,- Watch the trick
+- Watch the trick
+Dialogue: 0,00:04:54.50,00:04:56.42,Default,,0,0,0,,elder brother…
+Dialogue: 0,00:04:56.78,00:04:57.58,Default,,0,0,0,,Light rain
+Dialogue: 0,00:04:58.78,00:05:01.02,Default,,0,0,0,,You don’t want to bully my brother
+Dialogue: 0,00:05:01.98,00:05:02.94,Default,,0,0,0,,danger
+Dialogue: 0,00:05:12.10,00:05:13.86,Default,,0,0,0,,Tell you... don’t run away...
+Dialogue: 0,00:05:17.90,00:05:20.02,Default,,0,0,0,,elder brother
+Dialogue: 0,00:05:33.70,00:05:35.54,Default,,0,0,0,,They actually ran away
+Dialogue: 0,00:05:40.50,00:05:42.66,Default,,0,0,0,,There are no tools here
+Dialogue: 0,00:05:42.78,00:05:45.18,Default,,0,0,0,,And his structure is so sophisticated
+Dialogue: 0,00:05:45.66,00:05:47.18,Default,,0,0,0,,There is no way to practice the Dharma at all
+Dialogue: 0,00:05:48.98,00:05:50.14,Default,,0,0,0,,elder brother…
+Dialogue: 0,00:05:51.90,00:05:52.58,Default,,0,0,0,,elder brother
+Dialogue: 0,00:05:55.66,00:05:56.78,Default,,0,0,0,,Who is the brother
+Dialogue: 0,00:06:00.58,00:06:01.70,Default,,0,0,0,,Xiaoyu, please slow down
+Dialogue: 0,00:06:05.46,00:06:06.18,Default,,0,0,0,,Who is he
+Dialogue: 0,00:06:07.34,00:06:09.38,Default,,0,0,0,,Brother, turn faster
+Dialogue: 0,00:06:09.70,00:06:11.00,Default,,0,0,0,,Does Xiaoyu like her brother?
+Dialogue: 0,00:06:11.02,00:06:13.14,Default,,0,0,0,,Yes, my favorite brother
+Dialogue: 0,00:06:14.98,00:06:16.90,Default,,0,0,0,,The brother will protect his sister
+Dialogue: 0,00:06:17.46,00:06:17.94,Default,,0,0,0,,etc…
+Dialogue: 0,00:06:18.82,00:06:19.66,Default,,0,0,0,,elder brother
+Dialogue: 0,00:06:24.62,00:06:25.30,Default,,0,0,0,,younger sister
+Dialogue: 0,00:06:26.34,00:06:28.02,Default,,0,0,0,,What exactly are these
+Dialogue: 0,00:06:28.22,00:06:30.58,Default,,0,0,0,,And why does it appear in my memory
+Dialogue: 0,00:06:33.42,00:06:34.16,Default,,0,0,0,,elder brother
+Dialogue: 0,00:06:34.18,00:06:34.74,Default,,0,0,0,,Light rain
+Dialogue: 0,00:06:34.86,00:06:37.26,Default,,0,0,0,,Brother, wake up
+Dialogue: 0,00:06:38.02,00:06:39.50,Default,,0,0,0,,elder brother
+Dialogue: 0,00:06:39.86,00:06:41.86,Default,,0,0,0,,- elder brother
+- Xiaoyu
+Dialogue: 0,00:06:43.14,00:06:45.58,Default,,0,0,0,,Sister... Stop crying...
+Dialogue: 0,00:06:49.78,00:06:52.86,Default,,0,0,0,,elder brother…
+Dialogue: 0,00:06:57.66,00:07:00.38,Default,,0,0,0,,Just called Xiaoyu to call her sister
+Dialogue: 0,00:07:04.30,00:07:07.30,Default,,0,0,0,,They came and we went out and led them out
+Dialogue: 0,00:07:10.46,00:07:11.72,Default,,0,0,0,,This spear and this shield
+Dialogue: 0,00:07:11.74,00:07:14.10,Default,,0,0,0,,One is indestructible, one is indestructible
+Dialogue: 0,00:07:14.30,00:07:15.78,Default,,0,0,0,,How to deal with it
+Dialogue: 0,00:07:17.14,00:07:18.82,Default,,0,0,0,,Yes, there is a way
+Dialogue: 0,00:07:22.14,00:07:23.50,Default,,0,0,0,,No need to hide
+Dialogue: 0,00:07:24.54,00:07:25.46,Default,,0,0,0,,Come out
+Dialogue: 0,00:07:29.30,00:07:30.86,Default,,0,0,0,,Blue chase
+Dialogue: 0,00:07:32.38,00:07:34.56,Default,,0,0,0,,We’re here
+Dialogue: 0,00:07:34.58,00:07:35.92,Default,,0,0,0,,Come and catch us
+Dialogue: 0,00:07:35.94,00:07:38.74,Default,,0,0,0,,Stealing and making a decision openly
+Dialogue: 0,00:07:49.38,00:07:50.86,Default,,0,0,0,,Can’t escape
+Dialogue: 0,00:07:53.74,00:07:56.34,Default,,0,0,0,,We won’t get
+Dialogue: 0,00:07:59.30,00:08:01.02,Default,,0,0,0,,Alas, it’s so hard to fight
+Dialogue: 0,00:08:02.10,00:08:05.20,Default,,0,0,0,,Haha…it’s up to us
+Dialogue: 0,00:08:05.22,00:08:06.54,Default,,0,0,0,,Surrender
+Dialogue: 0,00:08:13.22,00:08:16.28,Default,,0,0,0,,We were beaten by the Spear Monster
+Dialogue: 0,00:08:16.30,00:08:18.70,Default,,0,0,0,,We have surrendered
+Dialogue: 0,00:08:21.66,00:08:24.80,Default,,0,0,0,,Hahaha Do you know my widow is hurt?
+Dialogue: 0,00:08:24.82,00:08:25.84,Default,,0,0,0,,Of course of course
+Dialogue: 0,00:08:25.86,00:08:28.60,Default,,0,0,0,,Your attack is the most harmful
+Dialogue: 0,00:08:28.62,00:08:31.30,Default,,0,0,0,,No one can attack you once you take action
+Dialogue: 0,00:08:33.82,00:08:36.04,Default,,0,0,0,,The eyes of the crowd are bright
+Dialogue: 0,00:08:36.06,00:08:37.50,Default,,0,0,0,,Are you right?
+Dialogue: 0,00:08:37.82,00:08:40.34,Default,,0,0,0,,The shield monster is the most harmful
+Dialogue: 0,00:08:41.38,00:08:43.80,Default,,0,0,0,,It’s all his body that is inaccessible to the sword
+Dialogue: 0,00:08:43.82,00:08:45.60,Default,,0,0,0,,Stop our attack
+Dialogue: 0,00:08:45.62,00:08:47.58,Default,,0,0,0,,We were just beaten
+Dialogue: 0,00:08:48.70,00:08:52.98,Default,,0,0,0,,Hey...the eyes of the crowd are so bright
+Dialogue: 0,00:08:53.58,00:08:54.66,Default,,0,0,0,,what
+Dialogue: 0,00:08:55.46,00:08:58.30,Default,,0,0,0,,You mean you are worse than me
+Dialogue: 0,00:08:58.66,00:09:00.18,Default,,0,0,0,,Isn’t this a bright one?
+Dialogue: 0,00:09:01.22,00:09:03.86,Default,,0,0,0,,It’s not me who came to save you. You’ve already passed
+Dialogue: 0,00:09:04.74,00:09:07.12,Default,,0,0,0,,So ugly, let’s compare
+Dialogue: 0,00:09:07.14,00:09:08.22,Default,,0,0,0,,Come on
+Dialogue: 0,00:09:24.82,00:09:28.26,Default,,0,0,0,,Master Spear Monster, let him see your ultimate move
+Dialogue: 0,00:09:28.50,00:09:31.06,Default,,0,0,0,,Shield monster I’m going to do something
+Dialogue: 0,00:09:32.66,00:09:35.30,Default,,0,0,0,,Lord Shield Monster, you can’t transfer it
+Dialogue: 0,00:09:45.30,00:09:46.56,Default,,0,0,0,,- Just now
+- Just now
+Dialogue: 0,00:09:46.58,00:09:47.86,Default,,0,0,0,,- Rotary Card
+- Huge card
+Dialogue: 0,00:09:53.66,00:09:55.40,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:55.42,00:09:57.64,Default,,0,0,0,,It turns out they’ve been doing it
+Dialogue: 0,00:09:57.66,00:10:00.54,Default,,0,0,0,,Just wait for our chance to kill each other
+Dialogue: 0,00:10:04.30,00:10:05.78,Default,,0,0,0,,Finally finished
+Dialogue: 0,00:10:05.86,00:10:07.26,Default,,0,0,0,,Too tired
+Dialogue: 0,00:10:07.50,00:10:09.10,Default,,0,0,0,,Don’t want to run, monster
+Dialogue: 0,00:10:10.30,00:10:13.26,Default,,0,0,0,,You’re going to come late and it’s going to be broadcast at the end of the film
+Dialogue: 0,00:10:23.58,00:10:27.90,Default,,0,0,0,,I don’t have to take my brother away...
+Dialogue: 0,00:10:30.54,00:10:31.34,Default,,0,0,0,,Nothing allowed
+Dialogue: 0,00:10:33.58,00:10:34.66,Default,,0,0,0,,Small gray
+Dialogue: 0,00:10:34.82,00:10:35.62,Default,,0,0,0,,Light rain
+Dialogue: 0,00:10:39.58,00:10:43.10,Default,,0,0,0,,I have a lot of questions to ask you
+Dialogue: 0,00:10:45.34,00:10:47.54,Default,,0,0,0,,Why do you want to take the black diamond away
+Dialogue: 0,00:10:48.66,00:10:51.78,Default,,0,0,0,,I want to recycle him because he belongs to Dr.
+Dialogue: 0,00:10:52.54,00:10:55.44,Default,,0,0,0,,Today I will let you know that it is my martial arts
+Dialogue: 0,00:10:55.46,00:10:56.94,Default,,0,0,0,,Or your machine is damaged
+Dialogue: 0,00:10:57.70,00:10:58.22,Default,,0,0,0,,Come on
+Dialogue: 0,00:11:09.46,00:11:12.02,Default,,0,0,0,,Brother Brother...
+Dialogue: 0,00:11:12.38,00:11:15.34,Default,,0,0,0,,Hum, you still have some use
+Dialogue: 0,00:11:16.70,00:11:20.02,Default,,0,0,0,,Hei Diamond is really Xiaoyu’s brother
+Dialogue: 0,00:11:21.02,00:11:22.90,Default,,0,0,0,,Why did he become like this
+Dialogue: 0,00:11:23.30,00:11:25.34,Default,,0,0,0,,Because the doctor chose him
+Dialogue: 0,00:11:32.86,00:11:34.02,Default,,0,0,0,,Where is the smoke?
+Dialogue: 0,00:11:35.70,00:11:39.42,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:11:40.86,00:11:42.06,Default,,0,0,0,,Everyone is fine
+Dialogue: 0,00:11:42.46,00:11:43.42,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:11:45.54,00:11:46.98,Default,,0,0,0,,My brother doesn’t see it
+Dialogue: 0,00:11:48.38,00:11:50.94,Default,,0,0,0,,elder brother
+Dialogue: 0,00:11:52.78,00:11:53.50,Default,,0,0,0,,Light rain
+Dialogue: 0,00:11:56.22,00:11:56.98,Default,,0,0,0,,Where have you gone
+Dialogue: 0,00:11:58.38,00:12:01.38,Default,,0,0,0,,The mood of the light rain is so exciting. It’s over
+Dialogue: 0,00:12:02.46,00:12:03.44,Default,,0,0,0,,Who is it
+Dialogue: 0,00:12:03.46,00:12:04.78,Default,,0,0,0,,Help her take away the black diamond
+Dialogue: 0,00:12:05.02,00:12:06.24,Default,,0,0,0,,And I didn’t expect
+Dialogue: 0,00:12:06.26,00:12:09.06,Default,,0,0,0,,Mysterious people have the ability to turn people into robots
+Dialogue: 0,00:12:09.78,00:12:11.58,Default,,0,0,0,,Will it be cold weather?
+Dialogue: 0,00:12:12.78,00:12:15.28,Default,,0,0,0,,Then will I become a robot in the end
+Dialogue: 0,00:12:15.30,00:12:17.02,Default,,0,0,0,,Under the control of mythical people
+Dialogue: 0,00:12:18.38,00:12:21.34,Default,,0,0,0,,Don’t worry, we will definitely defeat the mysterious
+Dialogue: 0,00:12:22.70,00:12:25.10,Default,,0,0,0,,Let you recover and save Xiaoyu’s brother
+Dialogue: 0,00:12:28.46,00:12:29.18,Default,,0,0,0,,Um
+Dialogue: 0,00:12:32.62,00:12:33.62,Default,,0,0,0,,come on

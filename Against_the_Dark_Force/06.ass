@@ -1,0 +1,206 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.03,00:00:19.03,Default,,0,0,0,,Wow…
+Dialogue: 0,00:00:19.76,00:00:22.84,Default,,0,0,0,,Look, is the town of Strange Flowers in front of it?
+Dialogue: 0,00:00:23.23,00:00:26.52,Default,,0,0,0,,Well, my sister and I used to visit Qihua Town
+Dialogue: 0,00:00:27.23,00:00:28.73,Default,,0,0,0,,There are seas of flowers everywhere here
+Dialogue: 0,00:00:28.76,00:00:31.04,Default,,0,0,0,,A peaceful and beautiful
+Dialogue: 0,00:00:31.68,00:00:34.12,Default,,0,0,0,,And that unique flower is called Seven Colors...
+Dialogue: 0,00:00:36.36,00:00:37.73,Default,,0,0,0,,Ah...Help...
+Dialogue: 0,00:00:37.76,00:00:40.96,Default,,0,0,0,,You can take the clouds to catch everyone
+Dialogue: 0,00:00:41.92,00:00:44.24,Default,,0,0,0,,Yes Magic Cloud
+Dialogue: 0,00:01:00.68,00:01:02.32,Default,,0,0,0,,Where are we?
+Dialogue: 0,00:01:03.04,00:01:04.56,Default,,0,0,0,,Has arrived at Qihua Town
+Dialogue: 0,00:01:04.76,00:01:06.44,Default,,0,0,0,,Thanks for riding
+Dialogue: 0,00:01:15.72,00:01:18.04,Default,,0,0,0,,Is this a peaceful and strange flower town?
+Dialogue: 0,00:01:18.88,00:01:22.12,Default,,0,0,0,,Look, that vine did it
+Dialogue: 0,00:01:24.92,00:01:27.24,Default,,0,0,0,,Why is it the only one moving?
+Dialogue: 0,00:01:27.92,00:01:29.48,Default,,0,0,0,,Oh no, I forgot to be in the water
+Dialogue: 0,00:01:30.68,00:01:32.04,Default,,0,0,0,,Who are these people
+Dialogue: 0,00:01:33.56,00:01:35.12,Default,,0,0,0,,Then where are we going now
+Dialogue: 0,00:01:35.56,00:01:36.60,Default,,0,0,0,,The train is broken
+Dialogue: 0,00:01:37.12,00:01:40.16,Default,,0,0,0,,The car stands in the town, let’s wait for the next trip
+Dialogue: 0,00:01:40.92,00:01:42.12,Default,,0,0,0,,Then let’s go quickly
+Dialogue: 0,00:01:43.08,00:01:43.84,Default,,0,0,0,,Um
+Dialogue: 0,00:02:05.44,00:02:07.12,Default,,0,0,0,,Don’t step on plants
+Dialogue: 0,00:02:09.56,00:02:10.52,Default,,0,0,0,,sorry
+Dialogue: 0,00:02:11.80,00:02:12.40,Default,,0,0,0,,What’s up
+Dialogue: 0,00:02:13.12,00:02:14.44,Default,,0,0,0,,Be careful
+Dialogue: 0,00:02:14.56,00:02:16.96,Default,,0,0,0,,Injuring plants here will be caught
+Dialogue: 0,00:02:17.32,00:02:19.63,Default,,0,0,0,,And you can’t touch them
+Dialogue: 0,00:02:19.96,00:02:21.16,Default,,0,0,0,,What happens if you touch it
+Dialogue: 0,00:02:21.32,00:02:22.56,Default,,0,0,0,,Will be bitten
+Dialogue: 0,00:02:22.84,00:02:24.72,Default,,0,0,0,,- Ah how did you know
+- Ah how did you know
+Dialogue: 0,00:02:34.12,00:02:36.09,Default,,0,0,0,,Ah, run quickly
+Dialogue: 0,00:02:36.12,00:02:38.08,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:02:38.32,00:02:41.76,Default,,0,0,0,,Isn’t this a peaceful and strange flower town?
+Dialogue: 0,00:02:41.96,00:02:45.24,Default,,0,0,0,,Hit the vine and it will drop the explosive seeds. It’s very dangerous
+Dialogue: 0,00:02:45.44,00:02:47.44,Default,,0,0,0,,Oops lightweight...
+Dialogue: 0,00:02:53.52,00:02:55.72,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:03:08.20,00:03:09.41,Default,,0,0,0,,Hello, horrible
+Dialogue: 0,00:03:09.44,00:03:10.04,Default,,0,0,0,,Uh-huh
+Dialogue: 0,00:03:10.32,00:03:12.72,Default,,0,0,0,,These are mammoths
+Dialogue: 0,00:03:13.04,00:03:15.24,Default,,0,0,0,,Wake up will be very fierce
+Dialogue: 0,00:03:17.16,00:03:19.80,Default,,0,0,0,,You are not like residents of Qihua Town
+Dialogue: 0,00:03:21.72,00:03:24.73,Default,,0,0,0,,Actually, we traveled from another place
+Dialogue: 0,00:03:24.76,00:03:26.76,Default,,0,0,0,,My name is Big Wolf
+Dialogue: 0,00:03:26.88,00:03:27.40,Default,,0,0,0,,Blessing
+Dialogue: 0,00:03:27.96,00:03:29.00,Default,,0,0,0,,My name is Xiaoyue
+Dialogue: 0,00:03:29.63,00:03:30.68,Default,,0,0,0,,Paddi
+Dialogue: 0,00:03:31.40,00:03:32.16,Default,,0,0,0,,Hello
+Dialogue: 0,00:03:32.76,00:03:35.56,Default,,0,0,0,,My name is Xiao Zheng. I am a resident here
+Dialogue: 0,00:03:36.60,00:03:38.96,Default,,0,0,0,,Hello, Xiaozheng, I want to ask
+Dialogue: 0,00:03:39.16,00:03:41.88,Default,,0,0,0,,How did Qihua Town become like this now
+Dialogue: 0,00:03:45.80,00:03:46.16,Default,,0,0,0,,oops!
+Dialogue: 0,00:03:49.04,00:03:50.92,Default,,0,0,0,,Weslie, you kicked me in the head again
+Dialogue: 0,00:03:51.84,00:03:54.76,Default,,0,0,0,,Playing football is difficult to avoid mistakes. Do you want to come again?
+Dialogue: 0,00:03:55.20,00:03:56.68,Default,,0,0,0,,You’ll kick it out for Sparky
+Dialogue: 0,00:03:57.92,00:04:00.49,Default,,0,0,0,,Playing football? I don’t want to sweat
+Dialogue: 0,00:04:00.52,00:04:02.45,Default,,0,0,0,,- You’ll kick it out for Jonie
+- No
+Dialogue: 0,00:04:02.48,00:04:04.48,Default,,0,0,0,,I just want to lie down
+Dialogue: 0,00:04:11.16,00:04:12.84,Default,,0,0,0,,Visit the Queen
+Dialogue: 0,00:04:13.44,00:04:15.96,Default,,0,0,0,,Haha...why are you so embarrassed
+Dialogue: 0,00:04:16.16,00:04:17.24,Default,,0,0,0,,Military officer
+Dialogue: 0,00:04:18.36,00:04:19.72,Default,,0,0,0,,Military officer, how are you here
+Dialogue: 0,00:04:19.92,00:04:22.76,Default,,0,0,0,,Let’s show you these two new scoundrels
+Dialogue: 0,00:04:23.36,00:04:25.83,Default,,0,0,0,,Military officer, do you have a miracle? Two more?
+Dialogue: 0,00:04:26.44,00:04:28.68,Default,,0,0,0,,Let me see you
+Dialogue: 0,00:04:33.92,00:04:36.00,Default,,0,0,0,,Cough cough cough cough cough...
+Dialogue: 0,00:04:42.36,00:04:45.68,Default,,0,0,0,,Wow! Is this the military’s miracle?
+Dialogue: 0,00:04:45.96,00:04:48.56,Default,,0,0,0,,That’s right, and they hear it very much
+Dialogue: 0,00:04:51.92,00:04:54.21,Default,,0,0,0,,oops…
+Dialogue: 0,00:04:54.24,00:04:56.08,Default,,0,0,0,,Really good to hear
+Dialogue: 0,00:04:59.16,00:05:01.72,Default,,0,0,0,,Um? Visit the Queen
+Dialogue: 0,00:05:02.72,00:05:06.20,Default,,0,0,0,,Tibbie and Luna have arrived at Qihua Town
+Dialogue: 0,00:05:06.40,00:05:07.88,Default,,0,0,0,,You go and greet them
+Dialogue: 0,00:05:09.20,00:05:11.56,Default,,0,0,0,,Yes, I will not disappoint you
+Dialogue: 0,00:05:16.52,00:05:19.04,Default,,0,0,0,,The Qihua Town was not like this before
+Dialogue: 0,00:05:36.64,00:05:39.36,Default,,0,0,0,,But since the princess becomes queen tomorrow
+Dialogue: 0,00:05:39.60,00:05:43.20,Default,,0,0,0,,Just let a man named Tibbie control the Qihua Temple
+Dialogue: 0,00:05:44.76,00:05:46.36,Default,,0,0,0,,After Tibbie arrives
+Dialogue: 0,00:05:46.68,00:05:48.60,Default,,0,0,0,,Plants are beginning to grow wildly
+Dialogue: 0,00:05:49.12,00:05:52.16,Default,,0,0,0,,Huge vines and strange flowers have emerged
+Dialogue: 0,00:05:54.36,00:05:56.32,Default,,0,0,0,,Make the villagers uneasy
+Dialogue: 0,00:05:56.83,00:06:00.24,Default,,0,0,0,,The strange flower town has gradually become this current model
+Dialogue: 0,00:06:01.83,00:06:04.33,Default,,0,0,0,,It also stipulates that we cannot destroy any plants
+Dialogue: 0,00:06:04.36,00:06:06.24,Default,,0,0,0,,Otherwise, it will be closed
+Dialogue: 0,00:06:06.80,00:06:08.96,Default,,0,0,0,,Tibbie...will not be like this
+Dialogue: 0,00:06:09.24,00:06:11.76,Default,,0,0,0,,Tibbie and Goat also let everyone have seven-color flowers
+Dialogue: 0,00:06:11.92,00:06:12.69,Default,,0,0,0,,Speaking
+Dialogue: 0,00:06:12.72,00:06:15.40,Default,,0,0,0,,Seven-colored flowers only have seven colors of petals
+Dialogue: 0,00:06:15.56,00:06:17.08,Default,,0,0,0,,You can realize your wish
+Dialogue: 0,00:06:17.16,00:06:19.12,Default,,0,0,0,,well! Don’t know whether it’s true or not
+Dialogue: 0,00:06:19.88,00:06:20.76,Default,,0,0,0,,It’s true
+Dialogue: 0,00:06:20.88,00:06:21.76,Default,,0,0,0,,ah?
+Dialogue: 0,00:06:22.68,00:06:24.83,Default,,0,0,0,,The seven-color flowers are indeed real
+Dialogue: 0,00:06:27.64,00:06:29.68,Default,,0,0,0,,It really opened up seven colors
+Dialogue: 0,00:06:30.12,00:06:32.04,Default,,0,0,0,,Sister, please give me your wish
+Dialogue: 0,00:06:36.72,00:06:38.69,Default,,0,0,0,,I want Luna’s fish doll
+Dialogue: 0,00:06:38.72,00:06:40.12,Default,,0,0,0,,Can go back to her
+Dialogue: 0,00:06:40.24,00:06:41.60,Default,,0,0,0,,Sister, you should...
+Dialogue: 0,00:06:41.92,00:06:43.48,Default,,0,0,0,,Close your eyes
+Dialogue: 0,00:06:53.72,00:06:55.60,Default,,0,0,0,,Wow! Fish doll
+Dialogue: 0,00:06:56.12,00:06:59.48,Default,,0,0,0,,The seven-colored flowers can really realize their wishes. Sister, please see
+Dialogue: 0,00:07:02.20,00:07:05.01,Default,,0,0,0,,Luna, are you sure that your sister was not cheating on you?
+Dialogue: 0,00:07:05.04,00:07:06.88,Default,,0,0,0,,My sister won’t cheat me
+Dialogue: 0,00:07:07.32,00:07:09.40,Default,,0,0,0,,You... Are you Princess Luna?
+Dialogue: 0,00:07:10.32,00:07:11.04,Default,,0,0,0,,Yes
+Dialogue: 0,00:07:11.32,00:07:14.20,Default,,0,0,0,,Wait a moment Since the seven-color flowers can realize their wishes
+Dialogue: 0,00:07:14.36,00:07:16.32,Default,,0,0,0,,Can you give me the seeds of the seven-color flower?
+Dialogue: 0,00:07:16.56,00:07:19.60,Default,,0,0,0,,The seven-colored flowers are only in the back garden of Tibbie
+Dialogue: 0,00:07:19.96,00:07:22.84,Default,,0,0,0,,Only those who have withered will be wiped out
+Dialogue: 0,00:07:31.44,00:07:33.24,Default,,0,0,0,,Tibbie taught me how to grow flowers
+Dialogue: 0,00:07:33.88,00:07:35.32,Default,,0,0,0,,I think I can save it
+Dialogue: 0,00:07:35.76,00:07:37.40,Default,,0,0,0,,All I have produced seven-color flowers
+Dialogue: 0,00:07:37.76,00:07:39.96,Default,,0,0,0,,I’d like to restore everyone to its original state
+Dialogue: 0,00:07:40.24,00:07:41.61,Default,,0,0,0,,Which would be so easy
+Dialogue: 0,00:07:41.64,00:07:43.72,Default,,0,0,0,,We’ve been using it for so long
+Dialogue: 0,00:07:45.84,00:07:47.16,Default,,0,0,0,,That...that’s...
+Dialogue: 0,00:07:48.04,00:07:49.04,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:07:49.84,00:07:50.56,Default,,0,0,0,,What’s up
+Dialogue: 0,00:08:01.84,00:08:03.12,Default,,0,0,0,,- Tibbie
+- Tibbie
+Dialogue: 0,00:08:11.96,00:08:14.20,Default,,0,0,0,,Ah... Escape quickly...
+Dialogue: 0,00:08:21.28,00:08:22.64,Default,,0,0,0,,So loud
+Dialogue: 0,00:08:26.68,00:08:27.36,Default,,0,0,0,,Run separately
+Dialogue: 0,00:08:44.67,00:08:46.69,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:08:46.72,00:08:48.16,Default,,0,0,0,,Danger
+Dialogue: 0,00:08:53.96,00:08:54.88,Default,,0,0,0,,Blessing
+Dialogue: 0,00:08:57.52,00:08:58.64,Default,,0,0,0,,Paddi
+Dialogue: 0,00:08:59.20,00:08:59.69,Default,,0,0,0,,ah
+Dialogue: 0,00:08:59.72,00:09:01.48,Default,,0,0,0,,Hide quickly, Paddi
+Dialogue: 0,00:09:02.40,00:09:03.55,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:04.44,00:09:06.24,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:09:07.08,00:09:08.04,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:08.44,00:09:09.55,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:09:13.55,00:09:15.84,Default,,0,0,0,,Help
+Dialogue: 0,00:09:16.20,00:09:17.12,Default,,0,0,0,,Look quickly
+Dialogue: 0,00:09:17.36,00:09:19.64,Default,,0,0,0,,There is a cave, let’s hide in it
+Dialogue: 0,00:09:23.08,00:09:27.60,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:09:42.72,00:09:44.13,Default,,0,0,0,,It’s safe at the moment
+Dialogue: 0,00:09:44.16,00:09:45.55,Default,,0,0,0,,Is it really safe?
+Dialogue: 0,00:09:59.72,00:10:01.96,Default,,0,0,0,,snort! Self-submission network!
+Dialogue: 0,00:10:02.44,00:10:03.16,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:10:05.52,00:10:08.04,Default,,0,0,0,,This... This is the virtual illusion of one of the strange powers
+Dialogue: 0,00:10:08.84,00:10:09.67,Default,,0,0,0,,A illusion?
+Dialogue: 0,00:10:10.64,00:10:13.01,Default,,0,0,0,,Yes, as long as you have a close eye to her eyes
+Dialogue: 0,00:10:13.04,00:10:14.40,Default,,0,0,0,,You’ll fall into a illusion
+Dialogue: 0,00:10:19.12,00:10:20.00,Default,,0,0,0,,Luna
+Dialogue: 0,00:10:20.12,00:10:21.72,Default,,0,0,0,,Don’t worry about us, run away
+Dialogue: 0,00:10:22.16,00:10:24.72,Default,,0,0,0,,run? Do you think you can run away?
+Dialogue: 0,00:10:25.52,00:10:27.20,Default,,0,0,0,,Tibbie It’s me
+Dialogue: 0,00:10:27.36,00:10:30.24,Default,,0,0,0,,I’m Yuyangyang, don’t you remember me?
+Dialogue: 0,00:10:30.48,00:10:32.04,Default,,0,0,0,,Ah, you don’t remember?
+Dialogue: 0,00:10:32.40,00:10:33.92,Default,,0,0,0,,You are the ones you catch
+Dialogue: 0,00:10:34.44,00:10:36.84,Default,,0,0,0,,The Goat, the Blessed Moon, the Blessed
+Dialogue: 0,00:10:37.12,00:10:38.92,Default,,0,0,0,,There is also a Wolffy
+Dialogue: 0,00:10:44.16,00:10:45.28,Default,,0,0,0,,Um
+Dialogue: 0,00:10:45.52,00:10:47.48,Default,,0,0,0,,Where has your companion Big Wolf gone?
+Dialogue: 0,00:10:49.64,00:10:50.60,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:10:55.00,00:10:58.12,Default,,0,0,0,,Try again Thunderbolt...
+Dialogue: 0,00:11:01.92,00:11:04.00,Default,,0,0,0,,Tibbie Be careful
+Dialogue: 0,00:11:07.67,00:11:09.16,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:09.96,00:11:11.72,Default,,0,0,0,,You want to save me
+Dialogue: 0,00:11:12.40,00:11:13.52,Default,,0,0,0,,Catch him up
+Dialogue: 0,00:11:15.84,00:11:17.40,Default,,0,0,0,,It’s good that Tibbie, you’re fine
+Dialogue: 0,00:11:21.55,00:11:23.12,Default,,0,0,0,,Fortunately, there was no pressure
+Dialogue: 0,00:11:25.84,00:11:30.16,Default,,0,0,0,,Seven-colored flowers? Another color
+Dialogue: 0,00:11:30.44,00:11:31.76,Default,,0,0,0,,Will you have seven-color flowers?
+Dialogue: 0,00:11:32.16,00:11:32.67,Default,,0,0,0,,ah?
+Dialogue: 0,00:11:33.44,00:11:35.52,Default,,0,0,0,,Just you come and help me with the seven-color flowers
+Dialogue: 0,00:11:36.08,00:11:37.16,Default,,0,0,0,,A variety of seven-color flowers...
+Dialogue: 0,00:11:38.88,00:11:40.72,Default,,0,0,0,,Yes, as long as the seven-color flowers are produced
+Dialogue: 0,00:11:40.88,00:11:42.96,Default,,0,0,0,,I can only hope to restore everyone to its original state
+Dialogue: 0,00:11:43.16,00:11:44.28,Default,,0,0,0,,OK My kind
+Dialogue: 0,00:11:44.96,00:11:46.96,Default,,0,0,0,,Take these two first and close them
+Dialogue: 0,00:11:47.52,00:11:49.12,Default,,0,0,0,,Take him back to the flower field
+Dialogue: 0,00:11:49.24,00:11:52.24,Default,,0,0,0,,Also, catch the missed wolf
+Dialogue: 0,00:11:52.64,00:11:53.16,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:11:54.84,00:11:57.84,Default,,0,0,0,,Levana’s Queen has announced all trains to be suspended
+Dialogue: 0,00:11:58.55,00:12:01.36,Default,,0,0,0,,No matter how you can’t escape the strange flower town
+Dialogue: 0,00:12:01.52,00:12:02.76,Default,,0,0,0,,Hehehehe...
+Dialogue: 0,00:12:03.04,00:12:04.64,Default,,0,0,0,,Ah, the train is stopped?
+Dialogue: 0,00:12:05.16,00:12:07.64,Default,,0,0,0,,Then how can we go up to find Princess Levana
+Dialogue: 0,00:12:13.67,00:12:15.84,Default,,0,0,0,,The wolf should be nearby
+Dialogue: 0,00:12:19.08,00:12:21.12,Default,,0,0,0,,Report No target was found here
+Dialogue: 0,00:12:21.76,00:12:22.60,Default,,0,0,0,,Go search there
+Dialogue: 0,00:12:22.84,00:12:23.32,Default,,0,0,0,,yes
+Dialogue: 0,00:12:28.72,00:12:32.12,Default,,0,0,0,,Now I can’t escape the strange flower town, and I’m the only one left
+Dialogue: 0,00:12:32.20,00:12:34.76,Default,,0,0,0,,What should I do next

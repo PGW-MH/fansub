@@ -1,0 +1,213 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:23.76,00:00:26.32,Default,,0,0,0,,Tibbie, what did you tell us to do?
+Dialogue: 0,00:00:27.07,00:00:28.88,Default,,0,0,0,,How easy it is to come out
+Dialogue: 0,00:00:29.92,00:00:33.56,Default,,0,0,0,,Are those seven-color flowers that are truly desirable?
+Dialogue: 0,00:00:33.72,00:00:36.16,Default,,0,0,0,,Um? I’ve heard of this flower, too
+Dialogue: 0,00:00:36.28,00:00:39.32,Default,,0,0,0,,Really... can you really realize your hope?
+Dialogue: 0,00:00:41.04,00:00:42.68,Default,,0,0,0,,It doesn’t matter to you...
+Dialogue: 0,00:00:42.72,00:00:44.12,Default,,0,0,0,,The Queen will arrive tomorrow
+Dialogue: 0,00:00:47.44,00:00:48.76,Default,,0,0,0,,Queen Levana
+Dialogue: 0,00:00:52.76,00:00:53.96,Default,,0,0,0,,What’s wrong
+Dialogue: 0,00:00:54.56,00:00:56.64,Default,,0,0,0,,I caught Princess Luna and the others
+Dialogue: 0,00:00:58.04,00:01:01.16,Default,,0,0,0,,Oh, that’s so bad!
+Dialogue: 0,00:01:03.56,00:01:07.72,Default,,0,0,0,,It’s true that you didn’t have any trust in you
+Dialogue: 0,00:01:08.24,00:01:10.60,Default,,0,0,0,,How will the Queen deal with them tomorrow?
+Dialogue: 0,00:01:12.12,00:01:13.84,Default,,0,0,0,,Never release
+Dialogue: 0,00:01:15.08,00:01:15.72,Default,,0,0,0,,Obey orders
+Dialogue: 0,00:01:16.56,00:01:17.20,Default,,0,0,0,,Oh
+Dialogue: 0,00:01:19.80,00:01:22.93,Default,,0,0,0,,Tibbie I’ll go back with you too
+Dialogue: 0,00:01:22.95,00:01:26.21,Default,,0,0,0,,I want to see what those prisoners look like, too
+Dialogue: 0,00:01:26.24,00:01:27.72,Default,,0,0,0,,Don’t follow me
+Dialogue: 0,00:01:28.95,00:01:30.41,Default,,0,0,0,,Don’t be so stingy
+Dialogue: 0,00:01:30.44,00:01:32.72,Default,,0,0,0,,Don’t walk so fast, you will sweat
+Dialogue: 0,00:01:45.40,00:01:45.92,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:45.95,00:01:49.13,Default,,0,0,0,,It’s a hundred keys that can’t be opened...
+Dialogue: 0,00:01:49.16,00:01:52.24,Default,,0,0,0,,Our prison here
+Only use our keys to open
+Dialogue: 0,00:01:53.12,00:01:54.48,Default,,0,0,0,,You can’t open
+Dialogue: 0,00:01:55.16,00:01:57.37,Default,,0,0,0,,snort! I want to use the original method of
+Dialogue: 0,00:01:57.40,00:01:58.52,Default,,0,0,0,,Pry it open!
+Dialogue: 0,00:01:59.32,00:02:04.12,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:04.64,00:02:06.04,Default,,0,0,0,,You’re too noisy
+Dialogue: 0,00:02:07.72,00:02:08.88,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:02:12.64,00:02:16.63,Default,,0,0,0,,My good brother Sparky, save us out...
+Dialogue: 0,00:02:17.52,00:02:19.85,Default,,0,0,0,,This goat is so dirty. Don’t touch me...
+Dialogue: 0,00:02:19.88,00:02:21.81,Default,,0,0,0,,I’ll recognize you with your mask
+Dialogue: 0,00:02:21.84,00:02:23.73,Default,,0,0,0,,Why can’t you recognize me...
+Dialogue: 0,00:02:23.76,00:02:24.72,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:02:24.76,00:02:27.97,Default,,0,0,0,,Let me go, it’s so dirty...
+Dialogue: 0,00:02:28.00,00:02:30.96,Default,,0,0,0,,Ahem! The Queen has ordered tomorrow
+Dialogue: 0,00:02:31.32,00:02:33.28,Default,,0,0,0,,Keep you in the dungeon forever
+Dialogue: 0,00:02:33.44,00:02:36.01,Default,,0,0,0,,Princess Luna, don’t even think of it
+Dialogue: 0,00:02:36.04,00:02:36.91,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:02:36.96,00:02:38.20,Default,,0,0,0,,- Princess Luna…
+- Princess Luna…
+Dialogue: 0,00:02:41.12,00:02:44.76,Default,,0,0,0,,Ah...so dirty. Let me go...
+Dialogue: 0,00:02:44.96,00:02:47.04,Default,,0,0,0,,Oh, let me go, dirty...
+Dialogue: 0,00:02:47.84,00:02:50.16,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:02:50.36,00:02:54.32,Default,,0,0,0,,Cockroaches...
+Dialogue: 0,00:02:55.12,00:02:56.24,Default,,0,0,0,,What a big reaction
+Dialogue: 0,00:02:56.76,00:02:58.61,Default,,0,0,0,,Hum, let’s go
+Dialogue: 0,00:02:58.63,00:02:59.08,Default,,0,0,0,,yes
+Dialogue: 0,00:03:02.28,00:03:05.56,Default,,0,0,0,,Sparky  remembers that she is afraid of cockroaches, but she can’t remember me
+Dialogue: 0,00:03:06.04,00:03:07.01,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:03:07.04,00:03:09.04,Default,,0,0,0,,Are you really Princess Luna?
+Dialogue: 0,00:03:10.76,00:03:11.84,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:03:20.56,00:03:22.76,Default,,0,0,0,,I’ll save you
+Dialogue: 0,00:03:23.32,00:03:24.32,Default,,0,0,0,,Who are you going to save?
+Dialogue: 0,00:03:24.96,00:03:27.21,Default,,0,0,0,,I...I’m a new gardener
+Dialogue: 0,00:03:27.24,00:03:29.84,Default,,0,0,0,,I want to save the seven-color flower, but I’m lost
+Dialogue: 0,00:03:33.60,00:03:35.56,Default,,0,0,0,,Go and have fun, don’t run around again
+Dialogue: 0,00:03:35.63,00:03:36.84,Default,,0,0,0,,good
+Dialogue: 0,00:03:38.52,00:03:40.09,Default,,0,0,0,,Escape from this
+Dialogue: 0,00:03:40.12,00:03:41.77,Default,,0,0,0,,Otherwise, it will be troublesome to meet Tibbies
+Dialogue: 0,00:03:41.80,00:03:43.16,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:47.56,00:03:49.40,Default,,0,0,0,,Did it cost you to succeed?
+Dialogue: 0,00:03:50.04,00:03:52.56,Default,,0,0,0,,Still... only five colors
+Dialogue: 0,00:03:54.56,00:03:55.64,Default,,0,0,0,,No use!
+Dialogue: 0,00:03:57.56,00:03:58.64,Default,,0,0,0,,It’s almost here
+Dialogue: 0,00:04:00.08,00:04:02.76,Default,,0,0,0,,He finally opened the six colors and was destroyed by him
+Dialogue: 0,00:04:05.92,00:04:07.76,Default,,0,0,0,,I’ll supervise you today
+Dialogue: 0,00:04:08.12,00:04:09.68,Default,,0,0,0,,I must give me seven-colored flowers
+Dialogue: 0,00:04:11.04,00:04:11.88,Default,,0,0,0,,good
+Dialogue: 0,00:04:14.16,00:04:15.16,Default,,0,0,0,,You help me win
+Dialogue: 0,00:04:16.56,00:04:17.40,Default,,0,0,0,,yes
+Dialogue: 0,00:04:21.56,00:04:23.16,Default,,0,0,0,,Have to find a way to leave here
+Dialogue: 0,00:04:27.36,00:04:28.33,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:04:28.36,00:04:31.01,Default,,0,0,0,,I’ll go to the kitchen to get some drinks for you
+Dialogue: 0,00:04:31.04,00:04:31.76,Default,,0,0,0,,Not thirsty
+Dialogue: 0,00:04:33.64,00:04:34.92,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:04:35.12,00:04:36.89,Default,,0,0,0,,I’ll go to the kitchen to help you get some food
+Dialogue: 0,00:04:36.92,00:04:37.56,Default,,0,0,0,,Not enough
+Dialogue: 0,00:04:39.27,00:04:41.16,Default,,0,0,0,,Then I’ll help you get the sun
+Dialogue: 0,00:04:41.36,00:04:41.83,Default,,0,0,0,,Not silly
+Dialogue: 0,00:04:42.44,00:04:44.96,Default,,0,0,0,,What do you want to order
+Dialogue: 0,00:04:48.08,00:04:49.80,Default,,0,0,0,,It turns out that the seven-color flowers are here
+Dialogue: 0,00:04:52.12,00:04:53.44,Default,,0,0,0,,well…
+Dialogue: 0,00:05:00.24,00:05:02.92,Default,,0,0,0,,Lord Tibbie, I’ll help him
+Dialogue: 0,00:05:03.24,00:05:03.68,Default,,0,0,0,,Go
+Dialogue: 0,00:05:04.76,00:05:08.29,Default,,0,0,0,,Hehe...I’ll help him move something later
+Dialogue: 0,00:05:08.32,00:05:10.32,Default,,0,0,0,,Then I accidentally fell down as a dress
+Dialogue: 0,00:05:10.56,00:05:12.56,Default,,0,0,0,,oops…
+Dialogue: 0,00:05:16.80,00:05:18.17,Default,,0,0,0,,Oh, so dirty
+Dialogue: 0,00:05:18.20,00:05:20.52,Default,,0,0,0,,It seems I’m going to take a shower
+Dialogue: 0,00:05:20.88,00:05:21.76,Default,,0,0,0,,Go quickly and go quickly...
+Dialogue: 0,00:05:21.92,00:05:26.36,Default,,0,0,0,,Hehehehehehehehehehe...
+Dialogue: 0,00:05:26.76,00:05:28.12,Default,,0,0,0,,I’ll help you move
+Dialogue: 0,00:05:32.83,00:05:34.36,Default,,0,0,0,,Where are the seven-color flowers?
+Dialogue: 0,00:05:34.76,00:05:37.48,Default,,0,0,0,,So heavy, I’m not going to be able to handle it
+Dialogue: 0,00:05:38.24,00:05:40.44,Default,,0,0,0,,Alas...
+Dialogue: 0,00:05:41.08,00:05:43.76,Default,,0,0,0,,Um? It doesn’t seem to be this one
+Dialogue: 0,00:05:46.64,00:05:48.45,Default,,0,0,0,,Wow wow wow wow wow...
+Dialogue: 0,00:05:48.48,00:05:49.53,Default,,0,0,0,,Alas I...
+Dialogue: 0,00:05:49.56,00:05:53.00,Default,,0,0,0,,I’m so dirty...
+Dialogue: 0,00:05:53.60,00:05:55.04,Default,,0,0,0,,Why didn’t Sparky go?
+Dialogue: 0,00:05:55.36,00:05:57.36,Default,,0,0,0,,Sneaky to see what you’re doing
+Dialogue: 0,00:06:00.27,00:06:01.36,Default,,0,0,0,,Sparky
+Dialogue: 0,00:06:01.56,00:06:04.45,Default,,0,0,0,,- You’ll be on the spot early
+- You’re so dirty
+Dialogue: 0,00:06:04.48,00:06:05.92,Default,,0,0,0,,Do you want to take care of it?
+Dialogue: 0,00:06:07.92,00:06:09.76,Default,,0,0,0,,Now I can finally slip away
+Dialogue: 0,00:06:13.80,00:06:16.24,Default,,0,0,0,,I didn’t expect Queen Levana to be so cruel
+Dialogue: 0,00:06:17.04,00:06:19.36,Default,,0,0,0,,I believe my sister will come back
+Dialogue: 0,00:06:20.24,00:06:22.12,Default,,0,0,0,,Then why are you here
+Dialogue: 0,00:06:22.88,00:06:25.80,Default,,0,0,0,,well! We’re all because of accident
+Dialogue: 0,00:06:26.32,00:06:30.00,Default,,0,0,0,,The plants were caught due to damage
+Dialogue: 0,00:06:32.56,00:06:33.64,Default,,0,0,0,,Have you been injured?
+Dialogue: 0,00:06:34.80,00:06:36.24,Default,,0,0,0,,Just a minor injury
+Dialogue: 0,00:06:37.16,00:06:38.64,Default,,0,0,0,,I’ll help you with treatment
+Dialogue: 0,00:06:40.96,00:06:42.73,Default,,0,0,0,,Haha...Princess Luna...
+Dialogue: 0,00:06:42.76,00:06:43.27,Default,,0,0,0,,alright
+Dialogue: 0,00:06:43.83,00:06:46.08,Default,,0,0,0,,Wow, your wood carving is so beautiful
+Dialogue: 0,00:06:47.12,00:06:47.88,Default,,0,0,0,,this
+Dialogue: 0,00:06:48.00,00:06:49.61,Default,,0,0,0,,This is for my son
+Dialogue: 0,00:06:49.64,00:06:51.89,Default,,0,0,0,,I don’t know when I will see him
+Dialogue: 0,00:06:51.92,00:06:54.69,Default,,0,0,0,,I really hope that Xiaozhen can return to its former appearance
+Dialogue: 0,00:06:54.72,00:06:56.12,Default,,0,0,0,,Be able to gather with your family
+Dialogue: 0,00:06:56.36,00:06:58.12,Default,,0,0,0,,I want everything to return to its original state, too
+Dialogue: 0,00:06:58.64,00:07:01.88,Default,,0,0,0,,You can eat the green grass cake made by Tibbie
+Dialogue: 0,00:07:01.92,00:07:03.52,Default,,0,0,0,,So I have to go out quickly
+Dialogue: 0,00:07:06.96,00:07:09.80,Default,,0,0,0,,Have to find a way to find the goat
+Dialogue: 0,00:07:22.36,00:07:25.04,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:07:28.24,00:07:31.88,Default,,0,0,0,,Finally washed the soil, it was much more comfortable
+Dialogue: 0,00:07:32.28,00:07:33.88,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:07:38.76,00:07:39.93,Default,,0,0,0,,Who is this big
+Dialogue: 0,00:07:39.96,00:07:41.84,Default,,0,0,0,,I actually knocked off my mask
+Dialogue: 0,00:07:42.96,00:07:44.04,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:07:46.32,00:07:48.45,Default,,0,0,0,,Princess Luna’s party…
+Dialogue: 0,00:07:48.48,00:07:50.36,Default,,0,0,0,,How to expose it
+Dialogue: 0,00:07:50.68,00:07:52.60,Default,,0,0,0,,It seems I have to use that trick
+Dialogue: 0,00:07:57.64,00:08:00.08,Default,,0,0,0,,Hahaha Do you want to kneel down and beg for a gift?
+Dialogue: 0,00:08:00.32,00:08:02.12,Default,,0,0,0,,OK I’ll approve it
+Dialogue: 0,00:08:03.16,00:08:05.48,Default,,0,0,0,,Wolffy Escape Method
+Dialogue: 0,00:08:07.00,00:08:09.04,Default,,0,0,0,,Stop me
+Dialogue: 0,00:08:09.32,00:08:10.80,Default,,0,0,0,,Look at my power
+Dialogue: 0,00:08:13.32,00:08:14.96,Default,,0,0,0,,Ah, no, you will sweat
+Dialogue: 0,00:08:16.88,00:08:18.24,Default,,0,0,0,,stop!
+Dialogue: 0,00:08:24.32,00:08:25.84,Default,,0,0,0,,Can’t beat
+Dialogue: 0,00:08:26.96,00:08:27.72,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:09:06.00,00:09:09.20,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:09:13.24,00:09:15.00,Default,,0,0,0,,I won’t be caught
+Dialogue: 0,00:09:34.00,00:09:35.55,Default,,0,0,0,,Pain and pain
+Dialogue: 0,00:09:36.67,00:09:37.72,Default,,0,0,0,,Makeup room?
+Dialogue: 0,00:09:38.44,00:09:39.76,Default,,0,0,0,,Huh? What is this
+Dialogue: 0,00:09:44.67,00:09:45.96,Default,,0,0,0,,There is a way
+Dialogue: 0,00:09:50.32,00:09:51.16,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:09:53.92,00:09:58.60,Default,,0,0,0,,Now I’m not afraid of being recognized. Hehe...
+Dialogue: 0,00:10:00.96,00:10:02.44,Default,,0,0,0,,Could it be recognized?
+Dialogue: 0,00:10:03.36,00:10:04.48,Default,,0,0,0,,Hello, Master Sparky
+Dialogue: 0,00:10:05.64,00:10:07.65,Default,,0,0,0,,Just please don’t have to react so much
+Dialogue: 0,00:10:07.67,00:10:07.92,Default,,0,0,0,,good
+Dialogue: 0,00:10:12.92,00:10:15.24,Default,,0,0,0,,Who are they?
+Dialogue: 0,00:10:15.92,00:10:17.25,Default,,0,0,0,,They’re in the cell there
+Dialogue: 0,00:10:17.28,00:10:18.67,Default,,0,0,0,,Just keep moving forward
+Dialogue: 0,00:10:19.12,00:10:20.55,Default,,0,0,0,,You retreat
+Dialogue: 0,00:10:21.36,00:10:21.84,Default,,0,0,0,,good
+Dialogue: 0,00:10:24.64,00:10:25.55,Default,,0,0,0,,You can’t cheat me
+Dialogue: 0,00:10:26.55,00:10:27.72,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:10:28.28,00:10:30.96,Default,,0,0,0,,I already know your true face
+Dialogue: 0,00:10:31.24,00:10:33.24,Default,,0,0,0,,You...how did you know me
+Dialogue: 0,00:10:33.48,00:10:36.44,Default,,0,0,0,,Oh! I knew you when you were in the flower field
+Dialogue: 0,00:10:40.36,00:10:42.28,Default,,0,0,0,,She actually knew my identity
+Dialogue: 0,00:10:42.55,00:10:43.72,Default,,0,0,0,,All I can do is to open
+Dialogue: 0,00:10:45.44,00:10:48.16,Default,,0,0,0,,Sparky  Goat, I still want to hit someone if I can’t steal flowers
+Dialogue: 0,00:10:48.28,00:10:51.92,Default,,0,0,0,,Come and see the prisoner is an excuse. You want to steal flowers
+Dialogue: 0,00:10:52.48,00:10:53.28,Default,,0,0,0,,Stealing money!
+Dialogue: 0,00:10:54.84,00:10:56.72,Default,,0,0,0,,It turns out that the true face she said is
+Dialogue: 0,00:10:58.12,00:11:00.69,Default,,0,0,0,,Oh, I suddenly remembered that I was going to apply a facial mask
+Dialogue: 0,00:11:00.72,00:11:01.93,Default,,0,0,0,,So come to the makeup room
+Dialogue: 0,00:11:01.96,00:11:04.84,Default,,0,0,0,,I got lost and entered the flower field
+Dialogue: 0,00:11:05.48,00:11:08.64,Default,,0,0,0,,Look, haven’t I just come out of the makeup room?
+Dialogue: 0,00:11:11.60,00:11:12.24,Default,,0,0,0,,All right
+Dialogue: 0,00:11:16.40,00:11:17.24,Default,,0,0,0,,There are cockroaches!
+Dialogue: 0,00:11:21.44,00:11:23.16,Default,,0,0,0,,Aren’t you afraid of cockroaches?
+Dialogue: 0,00:11:23.64,00:11:24.96,Default,,0,0,0,,Am I afraid of cockroaches?
+Dialogue: 0,00:11:25.36,00:11:31.55,Default,,0,0,0,,Oh oh oh... Oh I’m so scared...
+Dialogue: 0,00:11:34.00,00:11:35.40,Default,,0,0,0,,snort! A strength
+Dialogue: 0,00:11:38.48,00:11:40.55,Default,,0,0,0,,I’m here
+Dialogue: 0,00:11:41.84,00:11:42.84,Default,,0,0,0,,oops…
+Dialogue: 0,00:11:43.44,00:11:44.88,Default,,0,0,0,,How can I get out
+Dialogue: 0,00:11:50.55,00:11:51.84,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:11:53.16,00:11:54.08,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:56.84,00:11:59.36,Default,,0,0,0,,If the wrench doesn’t work, then use it to smash it
+Dialogue: 0,00:12:16.04,00:12:17.88,Default,,0,0,0,,Ah, goat
+Dialogue: 0,00:12:19.52,00:12:20.44,Default,,0,0,0,,Alas...
+Dialogue: 0,00:12:24.80,00:12:25.73,Default,,0,0,0,,Who is it
+Dialogue: 0,00:12:25.76,00:12:27.36,Default,,0,0,0,,Paddi
+Dialogue: 0,00:12:27.72,00:12:30.92,Default,,0,0,0,,I... come... save you
+Dialogue: 0,00:12:31.16,00:12:34.55,Default,,0,0,0,,Wolffy...

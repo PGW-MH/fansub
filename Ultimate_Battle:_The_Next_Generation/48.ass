@@ -1,0 +1,202 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.98,00:00:23.72,Default,,0,0,0,,Not too quick to have breakfast
+Dialogue: 0,00:00:23.74,00:00:24.82,Default,,0,0,0,,Come
+Dialogue: 0,00:00:25.06,00:00:28.46,Default,,0,0,0,,See what delicious food today...
+Dialogue: 0,00:00:29.30,00:00:32.20,Default,,0,0,0,,Why is it still bread...
+Dialogue: 0,00:00:32.22,00:00:35.22,Default,,0,0,0,,Have the same breakfast every day, I have eaten it
+Dialogue: 0,00:00:37.78,00:00:39.70,Default,,0,0,0,,I obviously have water every day
+Dialogue: 0,00:00:40.22,00:00:42.14,Default,,0,0,0,,Why did this flower die
+Dialogue: 0,00:00:42.30,00:00:44.90,Default,,0,0,0,,Impossible I have water every day
+Dialogue: 0,00:00:45.50,00:00:47.90,Default,,0,0,0,,So, I’ve been three times a day
+Dialogue: 0,00:00:49.66,00:00:51.18,Default,,0,0,0,,So am I...
+Dialogue: 0,00:00:51.66,00:00:54.34,Default,,0,0,0,,Drinking this watery every day is so strange
+Dialogue: 0,00:00:55.06,00:00:57.38,Default,,0,0,0,,It seems there is no way to save it
+Dialogue: 0,00:01:00.74,00:01:02.92,Default,,0,0,0,,Finally taken care of
+Dialogue: 0,00:01:02.94,00:01:05.70,Default,,0,0,0,,Village Chief, why hasn’t you seen this computer before
+Dialogue: 0,00:01:06.22,00:01:09.02,Default,,0,0,0,,This is the new supercomputer of the Tech Museum
+Dialogue: 0,00:01:09.18,00:01:12.46,Default,,0,0,0,,Director, please ask me to help it detect and maintain it
+Dialogue: 0,00:01:12.70,00:01:13.96,Default,,0,0,0,,It’s hard to tell that
+Dialogue: 0,00:01:13.98,00:01:16.14,Default,,0,0,0,,Can predict future supercomputers
+Dialogue: 0,00:01:16.58,00:01:17.50,Default,,0,0,0,,That’s right
+Dialogue: 0,00:01:18.10,00:01:19.50,Default,,0,0,0,,Predicting the future
+Dialogue: 0,00:01:19.70,00:01:21.82,Default,,0,0,0,,Let you see it
+Dialogue: 0,00:01:25.26,00:01:26.88,Default,,0,0,0,,Let your computer predict
+Dialogue: 0,00:01:26.90,00:01:29.26,Default,,0,0,0,,What happens here next
+Dialogue: 0,00:01:31.70,00:01:34.18,Default,,0,0,0,,The Goat Apple Village Manager
+Dialogue: 0,00:01:34.66,00:01:36.30,Default,,0,0,0,,The goat are not there
+Dialogue: 0,00:01:37.02,00:01:40.86,Default,,0,0,0,,So hungry, what to eat for breakfast today
+Dialogue: 0,00:01:41.94,00:01:43.86,Default,,0,0,0,,Why did you eat these again...
+Dialogue: 0,00:01:44.78,00:01:46.18,Default,,0,0,0,,This Apple is pretty good
+Dialogue: 0,00:01:47.90,00:01:50.94,Default,,0,0,0,,The taste of this apple is so...it’s so hard to eat
+Dialogue: 0,00:01:51.46,00:01:53.52,Default,,0,0,0,,How long has this apple been left?
+Dialogue: 0,00:01:53.54,00:01:54.32,Default,,0,0,0,,It’s all gone
+Dialogue: 0,00:01:54.34,00:01:56.46,Default,,0,0,0,,I accidentally let it go for three weeks
+Dialogue: 0,00:01:57.74,00:02:00.78,Default,,0,0,0,,Can you really predict the future? Is this magic?
+Dialogue: 0,00:02:01.30,00:02:02.52,Default,,0,0,0,,Not magic
+Dialogue: 0,00:02:02.54,00:02:05.86,Default,,0,0,0,,A massive amount of data is stored in a super computer
+Dialogue: 0,00:02:05.94,00:02:08.72,Default,,0,0,0,,It is through analysis of the character of the Goat
+Dialogue: 0,00:02:08.74,00:02:11.60,Default,,0,0,0,,For example, love is so bad and the bad of this Apple
+Dialogue: 0,00:02:11.62,00:02:13.70,Default,,0,0,0,,It was only reasonable to draw a
+Dialogue: 0,00:02:13.94,00:02:15.60,Default,,0,0,0,,That can predict several months
+Dialogue: 0,00:02:15.62,00:02:17.40,Default,,0,0,0,,Or something a few years later
+Dialogue: 0,00:02:17.42,00:02:19.08,Default,,0,0,0,,It’s theoretically OK
+Dialogue: 0,00:02:19.10,00:02:21.44,Default,,0,0,0,,But the predicted time span is longer
+Dialogue: 0,00:02:21.46,00:02:23.02,Default,,0,0,0,,The lower the accuracy
+Dialogue: 0,00:02:24.86,00:02:27.20,Default,,0,0,0,,I’m going to go back and rest first, too
+Dialogue: 0,00:02:27.22,00:02:30.02,Default,,0,0,0,,You’ll send your computer back to the tech museum later
+Dialogue: 0,00:02:31.58,00:02:32.18,Default,,0,0,0,,good
+Dialogue: 0,00:02:32.38,00:02:36.02,Default,,0,0,0,,Hehe...I’ll try what to eat for breakfast tomorrow
+Dialogue: 0,00:02:40.54,00:02:42.80,Default,,0,0,0,,I won’t eat bread tomorrow
+Dialogue: 0,00:02:42.82,00:02:44.82,Default,,0,0,0,,It won’t be released for three weeks
+Dialogue: 0,00:02:47.22,00:02:50.46,Default,,0,0,0,,This computer...can really predict the future
+Dialogue: 0,00:02:51.10,00:02:52.42,Default,,0,0,0,,Of course it’s true
+Dialogue: 0,00:02:54.54,00:02:56.14,Default,,0,0,0,,Don’t miss the time
+Dialogue: 0,00:02:56.46,00:02:59.62,Default,,0,0,0,,Big Wolf and I first sent the super computer back to the technology library
+Dialogue: 0,00:03:02.50,00:03:04.54,Default,,0,0,0,,Everyone else will look for the card first
+Dialogue: 0,00:03:07.66,00:03:10.34,Default,,0,0,0,,Say... are they familiar with the path of the tech museum?
+Dialogue: 0,00:03:13.22,00:03:15.08,Default,,0,0,0,,Why not predict it
+Dialogue: 0,00:03:15.10,00:03:18.38,Default,,0,0,0,,See when can we go back fifteen years ago
+Dialogue: 0,00:03:20.06,00:03:21.26,Default,,0,0,0,,It’s okay for a computer
+Dialogue: 0,00:03:22.50,00:03:23.96,Default,,0,0,0,,Ah, look ahead
+Dialogue: 0,00:03:23.98,00:03:25.86,Default,,0,0,0,,- ah
+- ah
+Dialogue: 0,00:03:29.70,00:03:31.94,Default,,0,0,0,,I don’t know if they have sent it
+Dialogue: 0,00:03:33.22,00:03:38.86,Default,,0,0,0,,My robot...why is it not controlled by...
+Dialogue: 0,00:03:42.90,00:03:46.06,Default,,0,0,0,,No...good...
+Dialogue: 0,00:03:49.22,00:03:50.52,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:50.54,00:03:51.66,Default,,0,0,0,,We’re fine...
+Dialogue: 0,00:03:52.90,00:03:56.98,Default,,0,0,0,,It’s all my fault for the robot. The super computer has dropped
+Dialogue: 0,00:03:57.10,00:03:58.70,Default,,0,0,0,,Let’s go and look for it
+Dialogue: 0,00:04:08.26,00:04:10.02,Default,,0,0,0,,Look there
+Dialogue: 0,00:04:12.34,00:04:13.86,Default,,0,0,0,,Ah, what about computers
+Dialogue: 0,00:04:14.06,00:04:15.68,Default,,0,0,0,,There are fragmented reactions
+Dialogue: 0,00:04:15.70,00:04:17.50,Default,,0,0,0,,You’ve gotten too far
+Dialogue: 0,00:04:19.30,00:04:22.50,Default,,0,0,0,,Don’t you know if you want to Aixi Electronics
+Dialogue: 0,00:04:23.34,00:04:26.22,Default,,0,0,0,,My fragile screen has broken
+Dialogue: 0,00:04:27.02,00:04:28.78,Default,,0,0,0,,Can you afford it?
+Dialogue: 0,00:04:29.78,00:04:31.84,Default,,0,0,0,,Super computer has become a monster
+Dialogue: 0,00:04:31.86,00:04:33.08,Default,,0,0,0,,Comet worm
+Dialogue: 0,00:04:33.10,00:04:34.40,Default,,0,0,0,,Double Butterfly Sword
+Dialogue: 0,00:04:34.42,00:04:36.00,Default,,0,0,0,,Gravity War
+Dialogue: 0,00:04:36.02,00:04:37.04,Default,,0,0,0,,Shadow Blade
+Dialogue: 0,00:04:37.06,00:04:38.54,Default,,0,0,0,,Blue Blue Sniper
+Dialogue: 0,00:04:38.70,00:04:39.94,Default,,0,0,0,,Floating cannon
+Dialogue: 0,00:04:45.06,00:04:47.78,Default,,0,0,0,,Sure enough, the first one was a whirlwind card
+Dialogue: 0,00:04:52.06,00:04:53.80,Default,,0,0,0,,Hehehehehe...
+Dialogue: 0,00:04:53.82,00:04:54.76,Default,,0,0,0,,Ah, I’ve been hiding
+Dialogue: 0,00:04:54.78,00:04:55.62,Default,,0,0,0,,Weslie
+Dialogue: 0,00:04:56.94,00:04:58.02,Default,,0,0,0,,Next...
+Dialogue: 0,00:05:00.90,00:05:03.02,Default,,0,0,0,,Spear card and fire medicine card
+Dialogue: 0,00:05:11.78,00:05:13.74,Default,,0,0,0,,The attack range of fire medicine cards is limited
+Dialogue: 0,00:05:13.98,00:05:15.78,Default,,0,0,0,,Just take a few steps back
+Dialogue: 0,00:05:16.22,00:05:17.92,Default,,0,0,0,,The spear stuck behind the smoke
+Dialogue: 0,00:05:17.94,00:05:20.32,Default,,0,0,0,,Just grab the machine when you are optimistic
+Dialogue: 0,00:05:20.34,00:05:21.38,Default,,0,0,0,,what
+Dialogue: 0,00:05:21.70,00:05:23.22,Default,,0,0,0,,Comet worm
+Dialogue: 0,00:05:23.70,00:05:27.10,Default,,0,0,0,,Thunder card, let’s solve you first
+Dialogue: 0,00:05:27.74,00:05:29.30,Default,,0,0,0,,It’s not me who took action
+Dialogue: 0,00:05:30.02,00:05:30.68,Default,,0,0,0,,Ahhh
+Dialogue: 0,00:05:30.70,00:05:32.52,Default,,0,0,0,,Oops Oops...
+Dialogue: 0,00:05:32.54,00:05:34.30,Default,,0,0,0,,- Jonie Grey Wolf
+- Jonie Grey Wolf
+Dialogue: 0,00:05:35.06,00:05:37.14,Default,,0,0,0,,What other moves do you have even
+Dialogue: 0,00:05:39.30,00:05:43.16,Default,,0,0,0,,Anyway, I can follow your actions and attitudes
+Dialogue: 0,00:05:43.18,00:05:45.14,Default,,0,0,0,,Predict your moves easily
+Dialogue: 0,00:05:46.94,00:05:50.32,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:50.34,00:05:50.80,Default,,0,0,0,,Tibbie
+ah…
+Dialogue: 0,00:05:50.82,00:05:52.42,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:53.50,00:05:55.58,Default,,0,0,0,,Computer monster tricks
+Dialogue: 0,00:05:57.90,00:05:58.68,Default,,0,0,0,,it hurts
+Dialogue: 0,00:05:58.70,00:05:59.98,Default,,0,0,0,,ah
+Dialogue: 0,00:06:00.62,00:06:02.82,Default,,0,0,0,,Ah, I won’t beat you anymore
+Dialogue: 0,00:06:03.02,00:06:04.88,Default,,0,0,0,,It’s just a matter of being beaten
+Dialogue: 0,00:06:04.90,00:06:06.84,Default,,0,0,0,,Any tricks used will be predicted
+Dialogue: 0,00:06:06.86,00:06:07.94,Default,,0,0,0,,How to hit
+Dialogue: 0,00:06:11.78,00:06:14.02,Default,,0,0,0,,Want to use a cyclone card for me again
+Dialogue: 0,00:06:15.38,00:06:16.14,Default,,0,0,0,,ah…
+Dialogue: 0,00:06:16.70,00:06:17.88,Default,,0,0,0,,My screen...
+Dialogue: 0,00:06:17.90,00:06:20.18,Default,,0,0,0,,Wow, cool...
+Dialogue: 0,00:06:20.54,00:06:22.34,Default,,0,0,0,,We exchange cards for use
+Dialogue: 0,00:06:22.46,00:06:24.66,Default,,0,0,0,,Just surprise it can defeat it
+Dialogue: 0,00:06:26.98,00:06:28.62,Default,,0,0,0,,Wolffy We’ll hold it
+Dialogue: 0,00:06:31.14,00:06:33.30,Default,,0,0,0,,Hum I have all your data
+Dialogue: 0,00:06:33.70,00:06:36.14,Default,,0,0,0,,Start with you who have shadow cards
+Dialogue: 0,00:06:39.58,00:06:40.14,Default,,0,0,0,,what
+Dialogue: 0,00:06:40.30,00:06:42.06,Default,,0,0,0,,Wolffy follows
+Dialogue: 0,00:06:48.02,00:06:50.74,Default,,0,0,0,,This is the Shadow Card When…
+Dialogue: 0,00:06:57.78,00:06:59.32,Default,,0,0,0,,How about it...
+Dialogue: 0,00:06:59.34,00:07:00.54,Default,,0,0,0,,Sparky follow
+Dialogue: 0,00:07:33.58,00:07:36.26,Default,,0,0,0,,ah…
+Dialogue: 0,00:07:40.06,00:07:41.66,Default,,0,0,0,,Now you win me
+Dialogue: 0,00:07:42.46,00:07:43.74,Default,,0,0,0,,But a month later...
+Dialogue: 0,00:07:44.82,00:07:46.86,Default,,0,0,0,,You can’t win at all
+Dialogue: 0,00:07:55.66,00:07:56.86,Default,,0,0,0,,Have you seen it
+Dialogue: 0,00:07:57.22,00:07:58.78,Default,,0,0,0,,This is your future
+Dialogue: 0,00:07:59.34,00:08:03.14,Default,,0,0,0,,You can’t stop the world from ruin
+Dialogue: 0,00:08:10.18,00:08:11.62,Default,,0,0,0,,Our future...
+Dialogue: 0,00:09:14.54,00:09:17.34,Default,,0,0,0,,Ahhhhh...It’s over
+Dialogue: 0,00:09:19.14,00:09:22.50,Default,,0,0,0,,Just like yesterday’s...
+Dialogue: 0,00:09:25.42,00:09:27.90,Default,,0,0,0,,The prophecy...is true
+Dialogue: 0,00:09:28.22,00:09:30.62,Default,,0,0,0,,In one month, the Science and Technology City will really...
+Dialogue: 0,00:09:34.46,00:09:36.82,Default,,0,0,0,,Ha ha…
+Dialogue: 0,00:09:37.30,00:09:39.82,Default,,0,0,0,,New breakfast is good
+Dialogue: 0,00:09:41.46,00:09:45.36,Default,,0,0,0,,Ah Who are you
+Dialogue: 0,00:09:45.38,00:09:46.76,Default,,0,0,0,,It’s us, village chief
+Dialogue: 0,00:09:46.78,00:09:47.70,Default,,0,0,0,,oh
+Dialogue: 0,00:09:49.34,00:09:51.70,Default,,0,0,0,,What’s wrong? Is the breakfast not delicious?
+Dialogue: 0,00:09:52.66,00:09:56.50,Default,,0,0,0,,You said the breakfast was not delicious before
+Dialogue: 0,00:09:56.62,00:09:58.86,Default,,0,0,0,,I just changed a flower
+Dialogue: 0,00:10:01.50,00:10:03.34,Default,,0,0,0,,Don’t put on your face
+Dialogue: 0,00:10:03.82,00:10:05.90,Default,,0,0,0,,We didn’t collect so many cards
+Dialogue: 0,00:10:06.02,00:10:07.78,Default,,0,0,0,,Let’s go find the card
+Dialogue: 0,00:10:15.62,00:10:17.58,Default,,0,0,0,,Haven’t eaten breakfast yet
+Dialogue: 0,00:10:21.94,00:10:24.80,Default,,0,0,0,,Is the breakfast that bad today?
+Dialogue: 0,00:10:24.82,00:10:28.18,Default,,0,0,0,,He didn’t eat a bite
+Dialogue: 0,00:10:35.02,00:10:37.04,Default,,0,0,0,,Didn’t you look for fragments?
+Dialogue: 0,00:10:37.06,00:10:39.78,Default,,0,0,0,,How did Weslie ask us to come here to gather
+Dialogue: 0,00:10:40.78,00:10:42.58,Default,,0,0,0,,I’m not waiting, I’m going to find a card
+Dialogue: 0,00:10:50.54,00:10:52.30,Default,,0,0,0,,What to do? Weslie
+Dialogue: 0,00:10:53.18,00:10:54.16,Default,,0,0,0,,Everyone still remembers
+Dialogue: 0,00:10:54.18,00:10:56.62,Default,,0,0,0,,Did we participate in the basketball cup?
+Dialogue: 0,00:11:02.98,00:11:05.62,Default,,0,0,0,,Just as the weak goat played the ball
+Dialogue: 0,00:11:10.98,00:11:12.58,Default,,0,0,0,,Wolf and Goat Team Competition
+Dialogue: 0,00:11:14.62,00:11:17.14,Default,,0,0,0,,It’s an impossible task
+Dialogue: 0,00:11:21.54,00:11:24.78,Default,,0,0,0,,But have we been here again and again?
+Dialogue: 0,00:11:27.70,00:11:31.38,Default,,0,0,0,,And the obstacles and setbacks faced by the wolves and goat peace
+Dialogue: 0,00:11:32.06,00:11:33.30,Default,,0,0,0,,Did you defeat us?
+Dialogue: 0,00:11:34.90,00:11:35.70,Default,,0,0,0,,no
+Dialogue: 0,00:11:36.14,00:11:38.62,Default,,0,0,0,,We’ve never been knocked down
+Dialogue: 0,00:11:41.90,00:11:43.46,Default,,0,0,0,,As long as we have hope
+Dialogue: 0,00:11:45.02,00:11:48.32,Default,,0,0,0,,It can be like this pot of flowers that have withered in the end
+Dialogue: 0,00:11:48.34,00:11:50.24,Default,,0,0,0,,Grow young buds and grow to the sun
+Dialogue: 0,00:11:50.26,00:11:51.30,Default,,0,0,0,,This flower...
+Dialogue: 0,00:11:51.66,00:11:53.22,Default,,0,0,0,,It’s your pot of flowers
+Dialogue: 0,00:11:54.06,00:11:56.34,Default,,0,0,0,,But didn’t he wither yesterday?
+Dialogue: 0,00:11:56.58,00:12:00.18,Default,,0,0,0,,Yes, I obviously remember the computer predicted screen
+Dialogue: 0,00:12:00.30,00:12:02.74,Default,,0,0,0,,It shows that this pot of flowers has withered
+Dialogue: 0,00:12:03.42,00:12:05.12,Default,,0,0,0,,The village chief said before
+Dialogue: 0,00:12:05.14,00:12:07.86,Default,,0,0,0,,Computers are not 100% accurate
+Dialogue: 0,00:12:08.10,00:12:11.06,Default,,0,0,0,,That is to say, the end of the world may not necessarily come
+Dialogue: 0,00:12:12.38,00:12:14.98,Default,,0,0,0,,Yes, but even if it arrives
+Dialogue: 0,00:12:15.14,00:12:17.20,Default,,0,0,0,,We can also enjoy the hard work and courage
+Dialogue: 0,00:12:17.22,00:12:18.30,Default,,0,0,0,,Change the future
+Dialogue: 0,00:12:18.66,00:12:22.06,Default,,0,0,0,,Said it right, we won’t be knocked down
+Dialogue: 0,00:12:23.54,00:12:27.18,Default,,0,0,0,,Dare to come to a competition...and the future
+Dialogue: 0,00:12:27.94,00:12:28.90,Default,,0,0,0,,Come on
+Dialogue: 0,00:12:31.22,00:12:31.94,Default,,0,0,0,,Watch the ball

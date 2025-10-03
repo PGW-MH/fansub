@@ -1,0 +1,152 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.09,00:00:23.65,Default,,0,0,0,,Next, it’s you
+Dialogue: 0,00:00:31.21,00:00:32.09,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:00:32.61,00:00:34.69,Default,,0,0,0,,-The body is a little uncontrolled - Bu Lei...
+Dialogue: 0,00:00:36.01,00:00:36.97,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:00:43.29,00:00:44.37,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:00:44.93,00:00:46.57,Default,,0,0,0,,Why did the monster start to move again
+Dialogue: 0,00:00:46.93,00:00:48.29,Default,,0,0,0,,It also changed its shape
+Dialogue: 0,00:00:49.17,00:00:51.67,Default,,0,0,0,,Quick... Let me go...
+Dialogue: 0,00:00:51.69,00:00:53.71,Default,,0,0,0,,I’ll come to save you right away
+Dialogue: 0,00:00:53.73,00:00:55.89,Default,,0,0,0,,Who wants...you save
+Dialogue: 0,00:01:19.25,00:01:22.81,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:23.17,00:01:25.81,Default,,0,0,0,,Let me...release the thunder
+Dialogue: 0,00:01:30.37,00:01:31.37,Default,,0,0,0,,Very hard
+Dialogue: 0,00:01:33.21,00:01:36.01,Default,,0,0,0,,Do you actually use the metal adsorbed on your body as armor?
+Dialogue: 0,00:01:37.93,00:01:39.77,Default,,0,0,0,,But the eyes are exposed
+Dialogue: 0,00:01:54.49,00:01:55.25,Default,,0,0,0,,Bu Lei…
+Dialogue: 0,00:01:56.13,00:01:57.97,Default,,0,0,0,,If this continues, she will not be able to hold back
+Dialogue: 0,00:02:28.69,00:02:31.29,Default,,0,0,0,,Let me release the thunder
+Dialogue: 0,00:02:55.81,00:02:57.41,Default,,0,0,0,,Stepping and Stepping and Stepping and Stepping...
+Dialogue: 0,00:03:00.13,00:03:02.21,Default,,0,0,0,,Bu Lei Where are you
+Dialogue: 0,00:03:08.05,00:03:08.89,Default,,0,0,0,,Bu Lei…
+Dialogue: 0,00:03:20.49,00:03:22.81,Default,,0,0,0,,The doctor will definitely be happy this time
+Dialogue: 0,00:03:23.53,00:03:28.17,Default,,0,0,0,,Mission...complete... the cards are all here... Come soon...
+Dialogue: 0,00:03:30.13,00:03:31.75,Default,,0,0,0,,Bu Lei got the card
+Dialogue: 0,00:03:31.77,00:03:33.49,Default,,0,0,0,,You bring the robot to get it back
+Dialogue: 0,00:03:34.57,00:03:35.17,Default,,0,0,0,,yes
+Dialogue: 0,00:03:46.97,00:03:49.25,Default,,0,0,0,,You... finally...
+Dialogue: 0,00:03:49.81,00:03:53.01,Default,,0,0,0,,Bu Lei You don’t look very good
+Dialogue: 0,00:03:56.13,00:03:57.37,Default,,0,0,0,,I...is nothing...
+Dialogue: 0,00:03:57.69,00:04:01.85,Default,,0,0,0,,Card... card... handed over... to you...
+Dialogue: 0,00:04:06.37,00:04:07.81,Default,,0,0,0,,The card has been obtained
+Dialogue: 0,00:04:08.41,00:04:10.65,Default,,0,0,0,,But Bu Lei suffered a lot
+Dialogue: 0,00:04:11.33,00:04:13.55,Default,,0,0,0,,She has no longer used the value
+Dialogue: 0,00:04:13.57,00:04:15.61,Default,,0,0,0,,Just bring the card back
+Dialogue: 0,00:04:16.41,00:04:17.01,Default,,0,0,0,,Know
+Dialogue: 0,00:04:20.65,00:04:23.29,Default,,0,0,0,,Bu Lei Are you here?
+Dialogue: 0,00:04:24.05,00:04:25.45,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:04:38.13,00:04:38.81,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:04:41.01,00:04:41.85,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:04:45.01,00:04:47.21,Default,,0,0,0,,Is it you, the mysterious man?
+Dialogue: 0,00:04:49.65,00:04:50.77,Default,,0,0,0,,Our cards…
+Dialogue: 0,00:04:51.41,00:04:54.29,Default,,0,0,0,,Doctors no longer need you, never
+Dialogue: 0,00:05:00.21,00:05:00.93,Default,,0,0,0,,Run away
+Dialogue: 0,00:05:01.57,00:05:03.05,Default,,0,0,0,,I have to inform you very much
+Dialogue: 0,00:05:04.05,00:05:05.91,Default,,0,0,0,,The mysterious subordinates were abandoning the construction site
+Dialogue: 0,00:05:05.93,00:05:07.45,Default,,0,0,0,,He took all the cards
+Dialogue: 0,00:05:08.01,00:05:09.33,Default,,0,0,0,,We’re here right now
+Dialogue: 0,00:05:10.97,00:05:12.77,Default,,0,0,0,,Bu Lei, you hold on
+Dialogue: 0,00:05:13.33,00:05:16.59,Default,,0,0,0,,I’ll take you back to the base now and let the village chief help you heal
+Dialogue: 0,00:05:16.61,00:05:17.45,Default,,0,0,0,,insist
+Dialogue: 0,00:05:19.57,00:05:21.73,Default,,0,0,0,,I’m not your friend
+Dialogue: 0,00:05:21.89,00:05:24.05,Default,,0,0,0,,Why do you want to save me
+Dialogue: 0,00:05:24.57,00:05:26.61,Default,,0,0,0,,Even if we are not friends now
+Dialogue: 0,00:05:27.29,00:05:29.81,Default,,0,0,0,,But in the future we can also become good friends.
+Dialogue: 0,00:05:41.49,00:05:43.05,Default,,0,0,0,,Return our cards
+Dialogue: 0,00:05:43.61,00:05:44.45,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:05:48.93,00:05:49.97,Default,,0,0,0,,Don’t want to run
+Dialogue: 0,00:06:01.89,00:06:02.97,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:06:03.37,00:06:05.41,Default,,0,0,0,,Give us the card quickly
+Dialogue: 0,00:06:06.89,00:06:07.81,Default,,0,0,0,,Hold them down
+Dialogue: 0,00:06:07.89,00:06:08.65,Default,,0,0,0,,yes
+Dialogue: 0,00:06:08.77,00:06:09.69,Default,,0,0,0,,what
+Dialogue: 0,00:06:21.97,00:06:22.73,Default,,0,0,0,,What’s the good fortune
+Dialogue: 0,00:06:24.93,00:06:25.97,Default,,0,0,0,,No way to leave
+Dialogue: 0,00:06:38.53,00:06:39.93,Default,,0,0,0,,And me
+Dialogue: 0,00:06:40.73,00:06:41.77,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:06:42.33,00:06:46.05,Default,,0,0,0,,Want to take everyone’s card away, ask me first
+Dialogue: 0,00:07:12.29,00:07:12.77,Default,,0,0,0,,ah
+Dialogue: 0,00:07:17.17,00:07:18.13,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:07:24.45,00:07:25.61,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:08:03.33,00:08:04.93,Default,,0,0,0,,Our cards…
+Dialogue: 0,00:08:18.29,00:08:19.73,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:08:27.25,00:08:27.79,Default,,0,0,0,,ah
+Dialogue: 0,00:08:27.81,00:08:28.53,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:08:29.57,00:08:30.45,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:08:30.61,00:08:32.89,Default,,0,0,0,,I’m fine, what about my mysterious subordinates
+Dialogue: 0,00:08:34.21,00:08:34.81,Default,,0,0,0,,Run away
+Dialogue: 0,00:08:41.17,00:08:42.31,Default,,0,0,0,,Everyone is back
+Dialogue: 0,00:08:42.33,00:08:45.93,Default,,0,0,0,,Yes, and got most of the cards back
+Dialogue: 0,00:08:46.53,00:08:47.61,Default,,0,0,0,,most?
+Dialogue: 0,00:08:48.17,00:08:48.93,Default,,0,0,0,,That’s right
+Dialogue: 0,00:08:49.89,00:08:51.45,Default,,0,0,0,,I just cleared it
+Dialogue: 0,00:08:51.89,00:08:54.79,Default,,0,0,0,,We only lack the enhancing card, acid rain card
+Dialogue: 0,00:08:54.81,00:08:56.93,Default,,0,0,0,,Polkadot and slam cards
+Dialogue: 0,00:08:57.73,00:09:00.13,Default,,0,0,0,,And it’s my only impact card
+Dialogue: 0,00:09:00.77,00:09:03.41,Default,,0,0,0,,It’s okay, we can use it together
+Dialogue: 0,00:09:04.81,00:09:06.41,Default,,0,0,0,,It’s all caused by the thunder
+Dialogue: 0,00:09:07.33,00:09:09.05,Default,,0,0,0,,We still believe her so much
+Dialogue: 0,00:09:10.61,00:09:13.21,Default,,0,0,0,,That...I...
+Dialogue: 0,00:09:14.61,00:09:16.09,Default,,0,0,0,,Come with me
+Dialogue: 0,00:09:20.25,00:09:21.57,Default,,0,0,0,,You’re back
+Dialogue: 0,00:09:22.37,00:09:24.01,Default,,0,0,0,,It turns out that you are here, village chief
+Dialogue: 0,00:09:24.17,00:09:27.73,Default,,0,0,0,,Ah Bu Lei
+Dialogue: 0,00:09:28.25,00:09:29.73,Default,,0,0,0,,Why is she here
+Dialogue: 0,00:09:30.37,00:09:33.65,Default,,0,0,0,,Sorry, yes...I brought her back
+Dialogue: 0,00:09:34.05,00:09:36.25,Default,,0,0,0,,She’s the one who stole everyone’s cards
+Dialogue: 0,00:09:36.81,00:09:38.41,Default,,0,0,0,,Why did you bring her back?
+Dialogue: 0,00:09:38.85,00:09:41.89,Default,,0,0,0,,She suffered a serious injury...and...
+Dialogue: 0,00:09:43.61,00:09:45.21,Default,,0,0,0,,She was defeated by a mysterious person
+Dialogue: 0,00:09:45.41,00:09:46.73,Default,,0,0,0,,Also attacked by companions
+Dialogue: 0,00:09:48.89,00:09:50.61,Default,,0,0,0,,I really can’t bear it
+Dialogue: 0,00:09:52.17,00:09:54.17,Default,,0,0,0,,Then she is dressed again
+Dialogue: 0,00:09:54.37,00:09:57.53,Default,,0,0,0,,This time the injury is not ordinary serious
+Dialogue: 0,00:09:58.69,00:10:01.05,Default,,0,0,0,,Then... can the village chief repair her?
+Dialogue: 0,00:10:01.85,00:10:02.65,Default,,0,0,0,,Why…
+Dialogue: 0,00:10:03.13,00:10:05.83,Default,,0,0,0,,She has never seen any designs or parts
+Dialogue: 0,00:10:05.85,00:10:08.17,Default,,0,0,0,,It should have been created by that mysterious person
+Dialogue: 0,00:10:08.21,00:10:10.85,Default,,0,0,0,,I have no way to repair her
+Dialogue: 0,00:10:14.69,00:10:17.41,Default,,0,0,0,,I’ll look for information and study it
+Dialogue: 0,00:10:18.97,00:10:20.59,Default,,0,0,0,,Everyone is tired today
+Dialogue: 0,00:10:20.61,00:10:21.71,Default,,0,0,0,,Let’s take a break early
+Dialogue: 0,00:10:21.73,00:10:22.69,Default,,0,0,0,,Um
+Dialogue: 0,00:10:25.37,00:10:27.17,Default,,0,0,0,,I’m not allowed to take a shower first
+Dialogue: 0,00:10:38.13,00:10:39.17,Default,,0,0,0,,Bu Lei…
+Dialogue: 0,00:10:47.41,00:10:49.69,Default,,0,0,0,,Ah Bu Lei...
+Dialogue: 0,00:11:06.85,00:11:10.85,Default,,0,0,0,,Doctor...I want to...go back...
+Dialogue: 0,00:11:14.93,00:11:16.37,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:11:17.09,00:11:18.57,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:11:21.53,00:11:23.22,Default,,0,0,0,,All the mysterious people abandon you
+Dialogue: 0,00:11:23.25,00:11:24.77,Default,,0,0,0,,Why do you still have to go back
+Dialogue: 0,00:11:33.65,00:11:34.57,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:11:35.13,00:11:36.53,Default,,0,0,0,,You’re finally back
+Dialogue: 0,00:11:37.69,00:11:40.29,Default,,0,0,0,,Doctor, I thought you didn’t want me anymore
+Dialogue: 0,00:11:41.25,00:11:42.77,Default,,0,0,0,,How did it happen
+Dialogue: 0,00:11:42.97,00:11:45.61,Default,,0,0,0,,Don’t be afraid, you’re safe now
+Dialogue: 0,00:11:47.01,00:11:47.93,Default,,0,0,0,,PhD…
+Dialogue: 0,00:11:49.97,00:11:51.81,Default,,0,0,0,,- Hehehehehe...
+- Hehehehehe...
+Dialogue: 0,00:11:55.41,00:11:56.29,Default,,0,0,0,,Oh
+Dialogue: 0,00:11:58.01,00:11:59.05,Default,,0,0,0,,Oh
+Dialogue: 0,00:12:05.45,00:12:07.19,Default,,0,0,0,,My name is Dr. Ti
+Dialogue: 0,00:12:07.21,00:12:10.13,Default,,0,0,0,,Don’t be afraid, you’re safe now
+Dialogue: 0,00:12:11.49,00:12:16.57,Default,,0,0,0,,Dr. Tie...Dr.
+Dialogue: 0,00:12:17.73,00:12:18.57,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:12:22.25,00:12:24.21,Default,,0,0,0,,Bo…Dr.
+Dialogue: 0,00:12:25.09,00:12:30.37,Default,,0,0,0,,Overcoming machine stop...stop...motor...

@@ -1,0 +1,173 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:23.65,00:00:27.17,Default,,0,0,0,,Use astrological stone fragments to make biological experiments
+Dialogue: 0,00:00:27.41,00:00:29.61,Default,,0,0,0,,Really looking forward to it
+Dialogue: 0,00:01:02.01,00:01:03.25,Default,,0,0,0,,It’s really inexplicable
+Dialogue: 0,00:01:03.61,00:01:05.01,Default,,0,0,0,,How did this do to me
+Dialogue: 0,00:01:05.41,00:01:06.81,Default,,0,0,0,,How did I treat you
+Dialogue: 0,00:01:07.65,00:01:09.49,Default,,0,0,0,,What’s wrong with you?
+Dialogue: 0,00:01:11.73,00:01:13.29,Default,,0,0,0,,It’s okay, I’ll eat it
+Dialogue: 0,00:01:14.09,00:01:15.45,Default,,0,0,0,,I’ll look for the card first
+Dialogue: 0,00:01:19.53,00:01:21.53,Default,,0,0,0,,What happened to him in Sparky
+Dialogue: 0,00:01:22.97,00:01:25.53,Default,,0,0,0,,It seems that Sparky has suffered a great grievance
+Dialogue: 0,00:01:26.01,00:01:27.41,Default,,0,0,0,,Why is this said
+Dialogue: 0,00:01:27.81,00:01:28.97,Default,,0,0,0,,Last night...
+Dialogue: 0,00:01:30.45,00:01:32.77,Default,,0,0,0,,Last night I slept with Sparky
+Dialogue: 0,00:01:33.53,00:01:34.89,Default,,0,0,0,,Suddenly I’m tired
+Dialogue: 0,00:01:36.29,00:01:37.37,Default,,0,0,0,,Tell the point
+Dialogue: 0,00:01:37.93,00:01:39.53,Default,,0,0,0,,Isn’t this just about to say
+Dialogue: 0,00:01:41.81,00:01:43.01,Default,,0,0,0,,I’ve woken up
+Dialogue: 0,00:01:52.61,00:01:54.29,Default,,0,0,0,,Sparky  What’s wrong with you
+Dialogue: 0,00:01:54.45,00:01:55.29,Default,,0,0,0,,oops
+Dialogue: 0,00:01:56.05,00:01:58.41,Default,,0,0,0,,How can you hit someone at will
+Dialogue: 0,00:01:59.29,00:02:00.85,Default,,0,0,0,,Didn’t you hit me?
+Dialogue: 0,00:02:01.09,00:02:01.93,Default,,0,0,0,,oops
+Dialogue: 0,00:02:04.45,00:02:06.05,Default,,0,0,0,,Sparky  Grows Up
+Dialogue: 0,00:02:06.21,00:02:07.73,Default,,0,0,0,,It’s been a long time since this has happened
+Dialogue: 0,00:02:08.61,00:02:11.65,Default,,0,0,0,,So who happened to him yesterday
+Dialogue: 0,00:02:13.69,00:02:16.51,Default,,0,0,0,,It’s okay, Sparky  is careless
+Dialogue: 0,00:02:16.53,00:02:17.69,Default,,0,0,0,,It’s gone soon
+Dialogue: 0,00:02:18.17,00:02:19.13,Default,,0,0,0,,Have you eaten it?
+Dialogue: 0,00:02:19.49,00:02:21.17,Default,,0,0,0,,We’re going to find the card, too
+Dialogue: 0,00:02:22.01,00:02:22.41,Default,,0,0,0,,- Um
+- Um
+Dialogue: 0,00:02:22.89,00:02:24.33,Default,,0,0,0,,I haven’t eaten yet
+Dialogue: 0,00:02:39.69,00:02:40.89,Default,,0,0,0,,Sure enough, here again
+Dialogue: 0,00:02:43.41,00:02:46.29,Default,,0,0,0,,You didn’t apologize to me yesterday about what happened to me?
+Dialogue: 0,00:02:55.73,00:02:57.69,Default,,0,0,0,,How do you want to do it?
+Dialogue: 0,00:03:01.09,00:03:03.63,Default,,0,0,0,,The elephant saw the passing
+Dialogue: 0,00:03:03.65,00:03:05.49,Default,,0,0,0,,The stools are diamonded into the soil
+Dialogue: 0,00:03:05.81,00:03:08.03,Default,,0,0,0,,Only one leg exposed
+Dialogue: 0,00:03:08.05,00:03:10.67,Default,,0,0,0,,The rabbit asked him why he did this
+Dialogue: 0,00:03:10.69,00:03:11.77,Default,,0,0,0,,后后后
+Dialogue: 0,00:03:12.21,00:03:16.13,Default,,0,0,0,,I want to take revenge, he fell
+Dialogue: 0,00:03:16.53,00:03:18.33,Default,,0,0,0,,Haha Haha Haha
+Dialogue: 0,00:03:20.37,00:03:22.05,Default,,0,0,0,,Why did he joke again
+Dialogue: 0,00:03:22.61,00:03:25.61,Default,,0,0,0,,I’m sorry to apologize. Do you hear jokes from me?
+Dialogue: 0,00:03:27.33,00:03:28.77,Default,,0,0,0,,Just forget what happened yesterday
+Dialogue: 0,00:03:29.21,00:03:31.89,Default,,0,0,0,,You’re a robot, I won’t consider it with you
+Dialogue: 0,00:03:32.33,00:03:33.85,Default,,0,0,0,,Let’s shake hands and make peace
+Dialogue: 0,00:03:37.97,00:03:39.65,Default,,0,0,0,,What do you mean
+Dialogue: 0,00:03:41.37,00:03:41.97,Default,,0,0,0,,Have a signal
+Dialogue: 0,00:03:42.69,00:03:46.01,Default,,0,0,0,,Discover target attack program start
+Dialogue: 0,00:03:51.93,00:03:52.89,Default,,0,0,0,,What do you want to do
+Dialogue: 0,00:04:00.77,00:04:04.73,Default,,0,0,0,,You took my way
+Dialogue: 0,00:04:11.21,00:04:11.93,Default,,0,0,0,,Monsters
+Dialogue: 0,00:04:12.21,00:04:13.77,Default,,0,0,0,,Gravity War
+Dialogue: 0,00:04:26.13,00:04:28.59,Default,,0,0,0,,Too dangerous, please leave
+Dialogue: 0,00:04:28.61,00:04:29.77,Default,,0,0,0,,I’ll deal with it
+Dialogue: 0,00:04:31.57,00:04:32.41,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:39.53,00:04:44.01,Default,,0,0,0,,Who can’t stop my work, blow it up
+Dialogue: 0,00:04:49.77,00:04:52.29,Default,,0,0,0,,You are not allowed to destroy this station
+Dialogue: 0,00:04:52.61,00:04:55.17,Default,,0,0,0,,Why would he fight monsters if he doesn’t
+Dialogue: 0,00:04:55.81,00:04:57.61,Default,,0,0,0,,This is a robot
+Dialogue: 0,00:04:57.77,00:04:59.73,Default,,0,0,0,,He is a mysterious man’s subordinate
+Dialogue: 0,00:05:07.97,00:05:08.77,Default,,0,0,0,,Owner
+Dialogue: 0,00:05:10.81,00:05:11.53,Default,,0,0,0,,what
+Dialogue: 0,00:05:14.97,00:05:15.89,Default,,0,0,0,,What’s wrong with him
+Dialogue: 0,00:05:19.29,00:05:21.97,Default,,0,0,0,,No matter what, I’ll play with you next
+Dialogue: 0,00:05:23.25,00:05:26.09,Default,,0,0,0,,Overestimate one’s ability, blow up
+Dialogue: 0,00:05:28.97,00:05:29.57,Default,,0,0,0,,Oops
+Dialogue: 0,00:05:47.73,00:05:48.41,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:05:49.01,00:05:50.09,Default,,0,0,0,,thank you
+Dialogue: 0,00:05:52.21,00:05:54.29,Default,,0,0,0,,Everyone evacuates to a safe place
+Dialogue: 0,00:05:57.53,00:06:01.61,Default,,0,0,0,,No one can stop my work.
+Dialogue: 0,00:06:02.57,00:06:03.25,Default,,0,0,0,,stop
+Dialogue: 0,00:06:10.25,00:06:12.53,Default,,0,0,0,,I searched for a long time but couldn’t find anything
+Dialogue: 0,00:06:14.69,00:06:23.07,Default,,0,0,0,,My bun...
+Dialogue: 0,00:06:23.09,00:06:24.29,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:06:26.89,00:06:28.49,Default,,0,0,0,,My buns...
+Dialogue: 0,00:06:29.25,00:06:31.13,Default,,0,0,0,,Don’t eat the buns again
+Dialogue: 0,00:06:31.45,00:06:32.81,Default,,0,0,0,,I’ll give you another one
+Dialogue: 0,00:06:35.69,00:06:36.45,Default,,0,0,0,,steamed stuffed bun…
+Dialogue: 0,00:06:39.41,00:06:42.23,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:06:42.25,00:06:46.67,Default,,0,0,0,,Mom…Is an uncle bullying me
+Dialogue: 0,00:06:46.69,00:06:49.09,Default,,0,0,0,,You’ve got too much
+Dialogue: 0,00:06:49.77,00:06:51.69,Default,,0,0,0,,What’s wrong with you, Yangyang
+Dialogue: 0,00:06:52.85,00:06:54.31,Default,,0,0,0,,I didn’t mean it
+Dialogue: 0,00:06:54.33,00:06:56.67,Default,,0,0,0,,I...I just saw the bun and figured it out
+Dialogue: 0,00:06:56.69,00:06:58.63,Default,,0,0,0,,A joke that Sparky said yesterday
+Dialogue: 0,00:06:58.65,00:07:02.37,Default,,0,0,0,,Hahaha... hiccup... I’ll tell you
+Dialogue: 0,00:07:02.81,00:07:05.85,Default,,0,0,0,,There was a bun since before, and one day he sucked it
+Dialogue: 0,00:07:07.21,00:07:12.37,Default,,0,0,0,,So funny...hahaha...
+Dialogue: 0,00:07:12.85,00:07:14.69,Default,,0,0,0,,Is it so funny?
+Dialogue: 0,00:07:15.69,00:07:19.49,Default,,0,0,0,,Forget it, you don’t understand. I’ll tell him Sparky
+Dialogue: 0,00:07:27.25,00:07:29.49,Default,,0,0,0,,Have to find a time to come and unexpectedly
+Dialogue: 0,00:07:33.61,00:07:36.85,Default,,0,0,0,,Sparky  I finally know why you laughed
+Dialogue: 0,00:07:37.25,00:07:43.31,Default,,0,0,0,,So funny hahaha...
+Dialogue: 0,00:07:43.33,00:07:44.69,Default,,0,0,0,,I can’t laugh anymore
+Dialogue: 0,00:07:45.81,00:07:48.17,Default,,0,0,0,,Come here there are monsters
+Dialogue: 0,00:07:48.77,00:07:51.61,Default,,0,0,0,,Oh no, the Sparky  now has no cards
+Dialogue: 0,00:07:52.53,00:07:55.61,Default,,0,0,0,,You keep looking for it, we’re here to help
+Dialogue: 0,00:07:56.81,00:07:58.77,Default,,0,0,0,,- Follow the order Weslie and Goat Chief
+- Follow the order Weslie and Goat Chief
+Dialogue: 0,00:08:00.37,00:08:01.17,Default,,0,0,0,,What’s up
+Dialogue: 0,00:08:02.05,00:08:04.22,Default,,0,0,0,,Because Weslie is like a young official
+Dialogue: 0,00:08:04.25,00:08:05.85,Default,,0,0,0,,Assign tasks to us
+Dialogue: 0,00:08:16.77,00:08:18.87,Default,,0,0,0,,Doctor, you’re back
+Dialogue: 0,00:08:18.89,00:08:19.81,Default,,0,0,0,,What’s up
+Dialogue: 0,00:08:21.05,00:08:22.33,Default,,0,0,0,,Who are you
+Dialogue: 0,00:08:22.65,00:08:23.81,Default,,0,0,0,,Let me go
+Dialogue: 0,00:08:24.77,00:08:26.21,Default,,0,0,0,,Not a doctor...
+Dialogue: 0,00:08:30.05,00:08:33.85,Default,,0,0,0,,Responsive to negative energy emotions Start the joke program
+Dialogue: 0,00:08:36.93,00:08:39.89,Default,,0,0,0,,Have a stick on vacation in Northern Europe
+Dialogue: 0,00:08:40.29,00:08:42.13,Default,,0,0,0,,Please ask what stick he is
+Dialogue: 0,00:08:42.85,00:08:44.71,Default,,0,0,0,,The answer is pockmarks
+Dialogue: 0,00:08:44.73,00:08:50.89,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:09:01.65,00:09:03.41,Default,,0,0,0,,That’s your ability
+Dialogue: 0,00:09:11.01,00:09:12.49,Default,,0,0,0,,Not his opponent at all
+Dialogue: 0,00:09:13.37,00:09:15.33,Default,,0,0,0,,Let’s have fun again
+Dialogue: 0,00:09:20.53,00:09:21.09,Default,,0,0,0,,Oops
+Dialogue: 0,00:09:24.97,00:09:26.57,Default,,0,0,0,,Light and easy to carry
+Dialogue: 0,00:09:34.25,00:09:35.09,Default,,0,0,0,,Who is it
+Dialogue: 0,00:09:45.01,00:09:46.61,Default,,0,0,0,,You’re just here
+Dialogue: 0,00:09:46.73,00:09:48.61,Default,,0,0,0,,Let me deal with you
+Dialogue: 0,00:09:59.61,00:10:01.21,Default,,0,0,0,,No use
+Dialogue: 0,00:10:02.09,00:10:02.65,Default,,0,0,0,,whee
+Dialogue: 0,00:10:05.01,00:10:05.69,Default,,0,0,0,,not good
+Dialogue: 0,00:10:09.97,00:10:10.69,Default,,0,0,0,,Thank you
+Dialogue: 0,00:10:11.45,00:10:14.17,Default,,0,0,0,,Big Wolf You’re not doing well
+Dialogue: 0,00:10:14.77,00:10:17.45,Default,,0,0,0,,Hahaha I’ve come and got a shot
+Dialogue: 0,00:10:22.09,00:10:23.41,Default,,0,0,0,,Be careful about his pyrodisiac
+Dialogue: 0,00:10:24.89,00:10:28.09,Default,,0,0,0,,Let me come and let him stop. Control card
+Dialogue: 0,00:10:31.89,00:10:32.93,Default,,0,0,0,,Blasted
+Dialogue: 0,00:10:33.41,00:10:35.49,Default,,0,0,0,,Hum, I have a flame card
+Dialogue: 0,00:10:35.61,00:10:37.85,Default,,0,0,0,,No, his body is full of pyrodisiac
+Dialogue: 0,00:10:38.65,00:10:42.01,Default,,0,0,0,,Once detonated, this area will become a sea of fire
+Dialogue: 0,00:10:44.77,00:10:47.61,Default,,0,0,0,,Weslie, let him not move first
+Dialogue: 0,00:10:47.85,00:10:48.33,Default,,0,0,0,,good
+Dialogue: 0,00:10:50.81,00:10:51.89,Default,,0,0,0,,Sticky card
+Dialogue: 0,00:11:02.53,00:11:03.45,Default,,0,0,0,,Success
+Dialogue: 0,00:11:05.25,00:11:06.41,Default,,0,0,0,,Yes
+Dialogue: 0,00:11:07.73,00:11:08.57,Default,,0,0,0,,Oops
+Dialogue: 0,00:11:08.73,00:11:10.47,Default,,0,0,0,,We’re surrounded
+Dialogue: 0,00:11:10.49,00:11:12.19,Default,,0,0,0,,You’re all too weak
+Dialogue: 0,00:11:12.21,00:11:16.73,Default,,0,0,0,,Enjoy the blasting feast I prepared for you
+Dialogue: 0,00:11:23.29,00:11:24.37,Default,,0,0,0,,Rotary card
+Dialogue: 0,00:11:32.93,00:11:33.93,Default,,0,0,0,,It’s up to me...
+Dialogue: 0,00:11:34.57,00:11:38.25,Default,,0,0,0,,Do you think I can’t get angry if I can’t move?
+Dialogue: 0,00:11:46.33,00:11:47.21,Default,,0,0,0,,what…
+Dialogue: 0,00:11:52.25,00:11:54.29,Default,,0,0,0,,Let’s change back to the original state
+Dialogue: 0,00:12:02.49,00:12:04.37,Default,,0,0,0,,The darn boring goat
+Dialogue: 0,00:12:05.53,00:12:07.09,Default,,0,0,0,,I’m a Sparky
+Dialogue: 0,00:12:07.57,00:12:09.81,Default,,0,0,0,,Of course you don’t pay any more
+Dialogue: 0,00:12:10.41,00:12:11.93,Default,,0,0,0,,Let’s go back
+Dialogue: 0,00:12:12.57,00:12:13.13,Default,,0,0,0,,Um
+Dialogue: 0,00:12:15.25,00:12:16.49,Default,,0,0,0,,Oh, it’s on fire...
+Dialogue: 0,00:12:22.21,00:12:24.53,Default,,0,0,0,,Group photo? Who are these two people?
+Dialogue: 0,00:12:25.45,00:12:27.45,Default,,0,0,0,,This is the robot at the station
+Dialogue: 0,00:12:27.77,00:12:29.37,Default,,0,0,0,,Who is the other one

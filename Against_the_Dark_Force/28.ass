@@ -1,0 +1,229 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:26.05,00:00:28.17,Default,,0,0,0,,They’re still hunting us down
+Dialogue: 0,00:00:28.81,00:00:32.97,Default,,0,0,0,,Ah, it seems that staying here is safer
+Dialogue: 0,00:00:34.09,00:00:35.97,Default,,0,0,0,,Well, let’s hide here first
+Dialogue: 0,00:00:36.29,00:00:36.93,Default,,0,0,0,,good
+Dialogue: 0,00:00:39.05,00:00:40.85,Default,,0,0,0,,Let it open
+Dialogue: 0,00:00:46.77,00:00:49.53,Default,,0,0,0,,Ah...refreshing
+Dialogue: 0,00:00:50.09,00:00:52.61,Default,,0,0,0,,Oh, the allergy has improved
+Dialogue: 0,00:00:52.97,00:00:54.77,Default,,0,0,0,,Mud is really useful
+Dialogue: 0,00:00:55.01,00:00:56.25,Default,,0,0,0,,marvelous
+Dialogue: 0,00:00:59.61,00:01:01.39,Default,,0,0,0,,Uh, right
+Dialogue: 0,00:01:01.41,00:01:02.45,Default,,0,0,0,,Those backs...
+Dialogue: 0,00:01:03.45,00:01:05.13,Default,,0,0,0,,Who are they
+Dialogue: 0,00:01:08.05,00:01:10.09,Default,,0,0,0,,Sparky  Sparky 
+Dialogue: 0,00:01:12.01,00:01:12.85,Default,,0,0,0,,Who
+Dialogue: 0,00:01:13.49,00:01:15.57,Default,,0,0,0,,It’s us, come and play
+Dialogue: 0,00:01:16.37,00:01:17.17,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:01:17.41,00:01:18.85,Default,,0,0,0,,Uh you...
+Dialogue: 0,00:01:19.49,00:01:21.13,Default,,0,0,0,,Wait who are you
+Dialogue: 0,00:01:25.69,00:01:26.57,Default,,0,0,0,,Here is...
+Dialogue: 0,00:01:27.05,00:01:30.55,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:01:30.57,00:01:32.77,Default,,0,0,0,,Ah, tell me
+Dialogue: 0,00:01:33.29,00:01:34.97,Default,,0,0,0,,Who are you
+Dialogue: 0,00:01:37.09,00:01:39.97,Default,,0,0,0,,Ah... it hurts... it hurts...
+Dialogue: 0,00:01:41.89,00:01:42.53,Default,,0,0,0,,pain…
+Dialogue: 0,00:01:43.25,00:01:45.25,Default,,0,0,0,,Who are they
+Dialogue: 0,00:01:46.65,00:01:50.41,Default,,0,0,0,,Forget it, I have to go and get the crystal stone with Queen Levana first
+Dialogue: 0,00:01:58.89,00:02:00.81,Default,,0,0,0,,Queen Levana Where is mine?
+Dialogue: 0,00:02:01.41,00:02:02.35,Default,,0,0,0,,Sparky
+Dialogue: 0,00:02:02.37,00:02:05.85,Default,,0,0,0,,How long has it been since the lamb and the bright moon arrived in your quicksand town
+Dialogue: 0,00:02:06.33,00:02:08.45,Default,,0,0,0,,Why didn’t I catch them yet
+Dialogue: 0,00:02:10.33,00:02:13.13,Default,,0,0,0,,Sparky  Have you betrayed the Queen?
+Dialogue: 0,00:02:13.29,00:02:14.67,Default,,0,0,0,,Nonsense!
+Dialogue: 0,00:02:14.69,00:02:16.47,Default,,0,0,0,,Those little lambs made me run for a day
+Dialogue: 0,00:02:16.49,00:02:18.69,Default,,0,0,0,,I am not at the same time as them!
+Dialogue: 0,00:02:19.25,00:02:21.17,Default,,0,0,0,,OK, let’s trust you
+Dialogue: 0,00:02:23.77,00:02:24.29,Default,,0,0,0,,oh…
+Dialogue: 0,00:02:26.65,00:02:27.57,Default,,0,0,0,,Thank you Queen
+Dialogue: 0,00:02:28.29,00:02:31.23,Default,,0,0,0,,But I can’t catch anyone anymore
+Dialogue: 0,00:02:31.25,00:02:33.69,Default,,0,0,0,,I will punish you...
+Dialogue: 0,00:02:34.49,00:02:37.85,Default,,0,0,0,,I promise to catch them within a week
+Dialogue: 0,00:02:39.17,00:02:40.89,Default,,0,0,0,,You listen to me
+Dialogue: 0,00:02:41.21,00:02:43.79,Default,,0,0,0,,They must be caught within a week
+Dialogue: 0,00:02:43.81,00:02:44.77,Default,,0,0,0,,yes
+Dialogue: 0,00:02:46.49,00:02:49.29,Default,,0,0,0,,It’s so hot I’m going back to the house
+Dialogue: 0,00:02:53.53,00:02:55.65,Default,,0,0,0,,You two help me take a shower
+Dialogue: 0,00:02:56.25,00:02:56.85,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:03:03.29,00:03:07.05,Default,,0,0,0,,This back...why is it so much like a dream
+Dialogue: 0,00:03:07.57,00:03:08.25,Default,,0,0,0,,etc.
+Dialogue: 0,00:03:09.49,00:03:11.37,Default,,0,0,0,,You turn your face over and see it
+Dialogue: 0,00:03:13.85,00:03:16.53,Default,,0,0,0,,Is there anything wrong with Sparky ?
+Dialogue: 0,00:03:18.17,00:03:18.83,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:03:18.85,00:03:20.17,Default,,0,0,0,,You go, go, go, go
+Dialogue: 0,00:03:22.05,00:03:23.89,Default,,0,0,0,,Not familiar with it at all
+Dialogue: 0,00:03:26.17,00:03:26.89,Default,,0,0,0,,This back...
+Dialogue: 0,00:03:27.45,00:03:29.57,Default,,0,0,0,,Hello, you’ve turned over
+Dialogue: 0,00:03:31.17,00:03:33.37,Default,,0,0,0,,Is there anything wrong with Sparky ?
+Dialogue: 0,00:03:33.77,00:03:35.49,Default,,0,0,0,,Huh? Not familiar
+Dialogue: 0,00:03:36.01,00:03:37.09,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:03:41.89,00:03:43.57,Default,,0,0,0,,what? Not found?
+Dialogue: 0,00:03:44.01,00:03:47.73,Default,,0,0,0,,It’s the seventh day, what are you doing!
+Dialogue: 0,00:03:48.65,00:03:50.45,Default,,0,0,0,,Don’t continue to search!
+Dialogue: 0,00:04:00.13,00:04:01.45,Default,,0,0,0,,I’m so angry!
+Dialogue: 0,00:04:01.97,00:04:04.73,Default,,0,0,0,,you! Take grapes and bring down the fire to me
+Dialogue: 0,00:04:05.17,00:04:05.57,Default,,0,0,0,,yes
+Dialogue: 0,00:04:08.45,00:04:12.47,Default,,0,0,0,,Um? I said these on your face are...
+Dialogue: 0,00:04:12.49,00:04:14.59,Default,,0,0,0,,Back to adults, it’s a natural mole
+Dialogue: 0,00:04:14.61,00:04:16.77,Default,,0,0,0,,Not the grape seeds on your face
+Dialogue: 0,00:04:19.45,00:04:21.33,Default,,0,0,0,,Uh your mole...
+Dialogue: 0,00:04:21.65,00:04:22.45,Default,,0,0,0,,Born
+Dialogue: 0,00:04:24.89,00:04:25.73,Default,,0,0,0,,ah!
+Dialogue: 0,00:04:26.41,00:04:29.09,Default,,0,0,0,,You are here!
+Dialogue: 0,00:04:29.69,00:04:30.85,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:04:33.21,00:04:35.17,Default,,0,0,0,,Don’t want to run away!
+Dialogue: 0,00:04:37.65,00:04:40.51,Default,,0,0,0,,Sparky  If you run away, you will be sweating all over
+Dialogue: 0,00:04:40.53,00:04:41.75,Default,,0,0,0,,What if he doesn’t
+Dialogue: 0,00:04:41.77,00:04:44.65,Default,,0,0,0,,This time, no matter what, I will catch you
+Dialogue: 0,00:04:45.89,00:04:46.93,Default,,0,0,0,,Their backs...
+Dialogue: 0,00:04:47.53,00:04:49.57,Default,,0,0,0,,It looks like my dream
+Dialogue: 0,00:04:49.93,00:04:51.29,Default,,0,0,0,,No No no
+Dialogue: 0,00:04:51.89,00:04:53.61,Default,,0,0,0,,Stop me
+Dialogue: 0,00:04:55.29,00:04:56.57,Default,,0,0,0,,Catch you
+Dialogue: 0,00:04:58.25,00:04:59.87,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:59.89,00:05:00.41,Default,,0,0,0,,oops
+Dialogue: 0,00:05:01.45,00:05:03.17,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:05:07.17,00:05:10.57,Default,,0,0,0,,Help, Sparky ...
+Dialogue: 0,00:05:13.17,00:05:14.77,Default,,0,0,0,,I’m here
+Dialogue: 0,00:05:18.01,00:05:19.77,Default,,0,0,0,,Sparky , you’re fine
+Dialogue: 0,00:05:20.13,00:05:22.81,Default,,0,0,0,,Hahaha...I have nothing to do. It’s fine
+Dialogue: 0,00:05:25.21,00:05:26.19,Default,,0,0,0,,These memories
+Dialogue: 0,00:05:26.21,00:05:27.87,Default,,0,0,0,,How could it be in my brain?
+Dialogue: 0,00:05:27.89,00:05:28.69,Default,,0,0,0,,- Well
+- Well
+Dialogue: 0,00:05:29.45,00:05:31.58,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:05:31.61,00:05:32.53,Default,,0,0,0,,Below is...
+Dialogue: 0,00:05:32.97,00:05:35.29,Default,,0,0,0,,No, here is the cactus forest
+Dialogue: 0,00:05:35.73,00:05:37.17,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:05:42.97,00:05:44.49,Default,,0,0,0,,The Goat Sparky 
+Dialogue: 0,00:05:52.45,00:05:54.41,Default,,0,0,0,,You...you saved me?
+Dialogue: 0,00:05:55.89,00:05:57.97,Default,,0,0,0,,You’re fine...
+Dialogue: 0,00:06:00.53,00:06:02.49,Default,,0,0,0,,It’s fine if you’re fine
+Dialogue: 0,00:06:04.17,00:06:07.65,Default,,0,0,0,,Well? We’re enemies
+Dialogue: 0,00:06:08.09,00:06:09.89,Default,,0,0,0,,Why do you want to save me
+Dialogue: 0,00:06:10.97,00:06:14.69,Default,,0,0,0,,What are you saying, don’t you save me often?
+Dialogue: 0,00:06:19.49,00:06:20.49,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:06:22.57,00:06:24.65,Default,,0,0,0,,Why are these pictures again
+Dialogue: 0,00:06:24.89,00:06:26.63,Default,,0,0,0,,We’ve done a lot of things
+Dialogue: 0,00:06:26.65,00:06:30.09,Default,,0,0,0,,Playing and laughing, and fighting the wolf tribe together
+Dialogue: 0,00:06:36.53,00:06:38.09,Default,,0,0,0,,Laughing together?
+Dialogue: 0,00:06:39.05,00:06:43.85,Default,,0,0,0,,Yes, because we are still good friends
+Dialogue: 0,00:06:45.37,00:06:46.89,Default,,0,0,0,,good friend…
+Dialogue: 0,00:06:50.05,00:06:54.09,Default,,0,0,0,,These pictures...the back of my dream...
+Dialogue: 0,00:06:54.57,00:06:56.57,Default,,0,0,0,,It’s all clearer
+Dialogue: 0,00:06:57.37,00:07:00.57,Default,,0,0,0,,Let’s play together and laugh together
+Dialogue: 0,00:07:00.81,00:07:02.23,Default,,0,0,0,,Take the wolf group together
+Dialogue: 0,00:07:02.25,00:07:06.21,Default,,0,0,0,,We want to be a good friend
+Dialogue: 0,00:07:09.85,00:07:12.09,Default,,0,0,0,,I...remember it
+Dialogue: 0,00:07:12.53,00:07:15.69,Default,,0,0,0,,We want to be friends
+Dialogue: 0,00:07:17.13,00:07:19.57,Default,,0,0,0,,Sparky , you’ve remembered it
+Dialogue: 0,00:07:19.65,00:07:23.05,Default,,0,0,0,,Ah, Sparky ...
+Dialogue: 0,00:07:24.81,00:07:26.93,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:07:28.17,00:07:28.97,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:07:30.49,00:07:32.53,Default,,0,0,0,,I think of everyone
+Dialogue: 0,00:07:33.41,00:07:34.33,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:07:34.89,00:07:37.25,Default,,0,0,0,,Really, do you think of us?
+Dialogue: 0,00:07:37.85,00:07:39.69,Default,,0,0,0,,Yes, I remembered it
+Dialogue: 0,00:07:39.93,00:07:41.57,Default,,0,0,0,,You won’t forget to dream
+Dialogue: 0,00:07:42.73,00:07:44.29,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:07:46.05,00:07:48.89,Default,,0,0,0,,Welcome back Sparky 
+Dialogue: 0,00:07:49.09,00:07:50.89,Default,,0,0,0,,OK OK Don’t cry
+Dialogue: 0,00:07:53.57,00:07:55.23,Default,,0,0,0,,Well…
+Dialogue: 0,00:07:55.25,00:07:56.41,Default,,0,0,0,,Sparky!
+Dialogue: 0,00:07:57.49,00:07:58.17,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:59.01,00:08:01.37,Default,,0,0,0,,Not good, Sparky’s hand ring has been developed
+Dialogue: 0,00:08:01.57,00:08:03.05,Default,,0,0,0,,It’s true
+Dialogue: 0,00:08:03.37,00:08:05.25,Default,,0,0,0,,Your hand ring has been developed
+Dialogue: 0,00:08:05.69,00:08:06.97,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:08:08.53,00:08:11.09,Default,,0,0,0,,The Queen has known that you have betrayed her
+Dialogue: 0,00:08:11.21,00:08:11.93,Default,,0,0,0,,but
+Dialogue: 0,00:08:12.49,00:08:14.73,Default,,0,0,0,,She is willing to give you another chance
+Dialogue: 0,00:08:15.37,00:08:18.77,Default,,0,0,0,,As long as you catch them, crystal is yours
+Dialogue: 0,00:08:19.77,00:08:21.83,Default,,0,0,0,,Sparky, please respond to him quickly
+Dialogue: 0,00:08:21.85,00:08:23.85,Default,,0,0,0,,Get the crystal first and then talk
+Dialogue: 0,00:08:24.37,00:08:28.61,Default,,0,0,0,,No! No matter how much I feel, I will not betray my friends!
+Dialogue: 0,00:08:29.05,00:08:30.17,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:08:32.89,00:08:36.33,Default,,0,0,0,,Since that’s the case, I’ll start
+Dialogue: 0,00:08:36.69,00:08:38.37,Default,,0,0,0,,Miscellaneous
+Dialogue: 0,00:08:43.29,00:08:44.45,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:08:47.09,00:08:48.69,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:08:51.09,00:08:51.93,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:08:53.97,00:08:55.29,Default,,0,0,0,,Beware that Wolffy
+Dialogue: 0,00:08:55.85,00:08:56.29,Default,,0,0,0,,Um
+Dialogue: 0,00:09:03.89,00:09:05.17,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:05.81,00:09:07.89,Default,,0,0,0,,The Goat and the Big Wolf...
+Dialogue: 0,00:09:08.13,00:09:10.21,Default,,0,0,0,,Also have the heart to care about others
+Dialogue: 0,00:09:18.25,00:09:19.67,Default,,0,0,0,,Vague lens
+Dialogue: 0,00:09:19.69,00:09:20.21,Default,,0,0,0,,ah
+Dialogue: 0,00:09:21.53,00:09:22.29,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:09:26.61,00:09:27.89,Default,,0,0,0,,- Sparky 
+- Sparky 
+Dialogue: 0,00:09:28.29,00:09:31.69,Default,,0,0,0,,No... hurt them again...
+Dialogue: 0,00:09:38.61,00:09:40.17,Default,,0,0,0,,Sparky , you’re fine
+Dialogue: 0,00:09:41.61,00:09:43.53,Default,,0,0,0,,Sparky  Your hand...
+Dialogue: 0,00:09:43.97,00:09:45.05,Default,,0,0,0,,My hands...
+Dialogue: 0,00:09:45.37,00:09:49.49,Default,,0,0,0,,Ah, it turns out that all it bit off was the hand
+Dialogue: 0,00:09:50.61,00:09:52.95,Default,,0,0,0,,Just call you nothing
+Dialogue: 0,00:09:52.97,00:09:54.49,Default,,0,0,0,,Hehehehehe...
+Dialogue: 0,00:09:56.21,00:09:57.73,Default,,0,0,0,,That’s how it is
+Dialogue: 0,00:09:58.65,00:10:00.65,Default,,0,0,0,,So that’s how it is
+Dialogue: 0,00:10:01.01,00:10:04.81,Default,,0,0,0,,I’m really sorry for letting everyone suffer
+Dialogue: 0,00:10:05.29,00:10:06.07,Default,,0,0,0,,and
+Dialogue: 0,00:10:06.09,00:10:07.37,Default,,0,0,0,,Water in the reservoir
+Dialogue: 0,00:10:07.65,00:10:09.97,Default,,0,0,0,,You can come and get it anytime in the future
+Dialogue: 0,00:10:11.49,00:10:12.97,Default,,0,0,0,,Very good
+Dialogue: 0,00:10:25.17,00:10:27.37,Default,,0,0,0,,This is...a hand ring?
+Dialogue: 0,00:10:27.81,00:10:30.65,Default,,0,0,0,,ah! The scoundrel actually bit the queen’s hand...
+Dialogue: 0,00:10:32.93,00:10:33.89,Default,,0,0,0,,Please, please
+Dialogue: 0,00:10:34.49,00:10:37.21,Default,,0,0,0,,It is necessary to let Princess Luna return to normal as soon as possible
+Dialogue: 0,00:10:37.85,00:10:39.93,Default,,0,0,0,,Don’t worry, we’ll do it
+Dialogue: 0,00:10:43.09,00:10:46.37,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:10:46.73,00:10:49.01,Default,,0,0,0,,These are of course...
+Dialogue: 0,00:10:49.77,00:10:50.85,Default,,0,0,0,,Water
+Dialogue: 0,00:10:52.29,00:10:55.25,Default,,0,0,0,,After this time I realized that it wouldn’t work without water
+Dialogue: 0,00:10:56.13,00:10:58.73,Default,,0,0,0,,From now on, I can’t leave you for a moment
+Dialogue: 0,00:10:59.21,00:11:01.37,Default,,0,0,0,,But the next town is the Aqua Spirit Town
+Dialogue: 0,00:11:01.61,00:11:03.05,Default,,0,0,0,,It’s water everywhere
+Dialogue: 0,00:11:03.45,00:11:05.17,Default,,0,0,0,,what? Well…
+Dialogue: 0,00:11:05.37,00:11:07.95,Default,,0,0,0,,Didn’t you say it earlier...
+Dialogue: 0,00:11:07.97,00:11:09.81,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:11:12.29,00:11:13.95,Default,,0,0,0,,We’re leaving
+Dialogue: 0,00:11:13.97,00:11:15.37,Default,,0,0,0,,goodbye
+Dialogue: 0,00:11:16.09,00:11:18.05,Default,,0,0,0,,goodbye
+Dialogue: 0,00:11:22.01,00:11:25.07,Default,,0,0,0,,Great, we can have fun again
+Dialogue: 0,00:11:25.09,00:11:26.17,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:11:30.77,00:11:33.41,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:11:39.17,00:11:40.13,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:11:42.85,00:11:44.69,Default,,0,0,0,,Can’t drag everyone down any more
+Dialogue: 0,00:11:45.89,00:11:48.05,Default,,0,0,0,,I must control the thunderbolt
+Dialogue: 0,00:11:51.77,00:11:54.97,Default,,0,0,0,,Say, do you want to betray me?
+Dialogue: 0,00:11:56.97,00:11:59.01,Default,,0,0,0,,I will never betray the Queen
+Dialogue: 0,00:11:59.37,00:12:01.61,Default,,0,0,0,,We will never betray you
+Dialogue: 0,00:12:01.85,00:12:03.97,Default,,0,0,0,,We’ll definitely catch them
+Dialogue: 0,00:12:04.45,00:12:05.89,Default,,0,0,0,,If the Queen doesn’t believe it
+Dialogue: 0,00:12:06.17,00:12:08.45,Default,,0,0,0,,Can I add a few more hands to me
+Dialogue: 0,00:12:08.97,00:12:10.09,Default,,0,0,0,,The same goes for me
+Dialogue: 0,00:12:12.33,00:12:12.85,Default,,0,0,0,,snort!
+Dialogue: 0,00:12:18.65,00:12:19.81,Default,,0,0,0,,- Queen
+- Queen
+Dialogue: 0,00:12:21.13,00:12:23.93,Default,,0,0,0,,You want to betray me, no more hand rings will work
+Dialogue: 0,00:12:24.37,00:12:24.85,Default,,0,0,0,,and
+Dialogue: 0,00:12:25.21,00:12:28.01,Default,,0,0,0,,I hope you can say what you just said so much
+Dialogue: 0,00:12:29.57,00:12:31.45,Default,,0,0,0,,The Queen trusts us so much
+Dialogue: 0,00:12:31.57,00:12:33.77,Default,,0,0,0,,I swear to be loyal to her forever

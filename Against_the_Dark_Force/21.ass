@@ -1,0 +1,196 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:31.45,00:00:32.45,Default,,0,0,0,,Ice Fan
+Dialogue: 0,00:00:34.45,00:00:36.85,Default,,0,0,0,,Everyone, come back
+Dialogue: 0,00:00:42.53,00:00:43.21,Default,,0,0,0,,Meow
+Dialogue: 0,00:00:44.21,00:00:44.90,Default,,0,0,0,,cocoa
+Dialogue: 0,00:00:44.93,00:00:45.77,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:46.61,00:00:48.89,Default,,0,0,0,,Great, no one is fine
+Dialogue: 0,00:00:54.65,00:00:56.49,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:59.09,00:01:01.21,Default,,0,0,0,,Where are you
+Dialogue: 0,00:01:02.57,00:01:05.37,Default,,0,0,0,,Could it be that they are below?
+Dialogue: 0,00:01:11.01,00:01:12.81,Default,,0,0,0,,You must be fine
+Dialogue: 0,00:01:13.13,00:01:14.25,Default,,0,0,0,,Let’s help everyone
+Dialogue: 0,00:01:14.41,00:01:14.97,Default,,0,0,0,,good
+Dialogue: 0,00:01:24.01,00:01:25.93,Default,,0,0,0,,It’s all my fault for using thunderbolt
+Dialogue: 0,00:01:26.13,00:01:28.49,Default,,0,0,0,,Otherwise they wouldn’t have encountered an avalanche
+Dialogue: 0,00:01:29.05,00:01:32.29,Default,,0,0,0,,Wolffy, they will definitely be fine
+Dialogue: 0,00:01:32.97,00:01:35.17,Default,,0,0,0,,You see, no one gave up
+Dialogue: 0,00:01:36.13,00:01:37.77,Default,,0,0,0,,So let’s dig it out quickly
+Dialogue: 0,00:01:38.05,00:01:39.69,Default,,0,0,0,,Must rescue them
+Dialogue: 0,00:01:40.93,00:01:41.45,Default,,0,0,0,,good
+Dialogue: 0,00:01:43.09,00:01:45.89,Default,,0,0,0,,Weslie Goat Answer me
+Dialogue: 0,00:01:46.65,00:01:47.77,Default,,0,0,0,,Answer me quickly
+Dialogue: 0,00:01:52.37,00:01:54.01,Default,,0,0,0,,It hurts where am I?
+Dialogue: 0,00:01:54.61,00:01:55.97,Default,,0,0,0,,Ah Weslie
+Dialogue: 0,00:01:57.69,00:02:01.65,Default,,0,0,0,,Weslie wake up, Weslie
+Dialogue: 0,00:02:03.17,00:02:04.37,Default,,0,0,0,,Lots of wounds
+Dialogue: 0,00:02:12.97,00:02:13.85,Default,,0,0,0,,Happy goat
+Dialogue: 0,00:02:15.09,00:02:18.09,Default,,0,0,0,,ah
+Dialogue: 0,00:02:22.85,00:02:23.93,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:02:24.29,00:02:26.49,Default,,0,0,0,,ah
+Dialogue: 0,00:02:35.53,00:02:38.97,Default,,0,0,0,,Weslie, Weslie, wake up
+Dialogue: 0,00:02:41.73,00:02:44.21,Default,,0,0,0,,No! I can’t hold it anymore!
+Dialogue: 0,00:02:52.77,00:02:54.25,Default,,0,0,0,,This is a lot of snow
+Dialogue: 0,00:02:55.17,00:02:57.05,Default,,0,0,0,,I don’t know where I’m buried
+Dialogue: 0,00:02:58.05,00:02:59.77,Default,,0,0,0,,And it’s been so long
+Dialogue: 0,00:03:01.17,00:03:02.85,Default,,0,0,0,,Weslie and the others will be fine
+Dialogue: 0,00:03:03.53,00:03:06.29,Default,,0,0,0,,We won’t give up until the last moment
+Dialogue: 0,00:03:06.97,00:03:08.89,Default,,0,0,0,,Let’s keep cheering
+Dialogue: 0,00:03:10.49,00:03:11.37,Default,,0,0,0,,good
+Dialogue: 0,00:03:15.69,00:03:16.25,Default,,0,0,0,,Weslie
+Dialogue: 0,00:03:20.93,00:03:22.45,Default,,0,0,0,,Ha ha
+Dialogue: 0,00:03:22.93,00:03:24.57,Default,,0,0,0,,I beg you not to miss it
+Dialogue: 0,00:03:36.13,00:03:38.97,Default,,0,0,0,,Weslie: I didn’t encounter any danger before
+Dialogue: 0,00:03:39.65,00:03:40.93,Default,,0,0,0,,Will you save me?
+Dialogue: 0,00:03:41.65,00:03:45.25,Default,,0,0,0,,You’re getting up now, don’t sleep
+Dialogue: 0,00:03:45.85,00:03:48.85,Default,,0,0,0,,I want to sleep again, too
+Dialogue: 0,00:03:58.69,00:03:59.69,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:03.81,00:04:04.61,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:04:05.37,00:04:06.97,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:09.77,00:04:13.33,Default,,0,0,0,,Weslie, you’re fine
+Dialogue: 0,00:04:13.85,00:04:16.81,Default,,0,0,0,,Sorry, I can’t protect you this time
+Dialogue: 0,00:04:17.17,00:04:18.65,Default,,0,0,0,,But you have to be brave
+Dialogue: 0,00:04:19.25,00:04:22.49,Default,,0,0,0,,But I’m so cool, I can’t hold on
+Dialogue: 0,00:04:24.13,00:04:26.25,Default,,0,0,0,,You can definitely
+Dialogue: 0,00:04:26.53,00:04:29.25,Default,,0,0,0,,Believe in yourself, don’t give up?
+Dialogue: 0,00:04:31.77,00:04:32.29,Default,,0,0,0,,good
+Dialogue: 0,00:04:37.49,00:04:39.93,Default,,0,0,0,,I’ll promise you
+Dialogue: 0,00:04:40.29,00:04:43.65,Default,,0,0,0,,Magic Cloud!
+Dialogue: 0,00:04:50.49,00:04:51.57,Default,,0,0,0,,Hide
+Dialogue: 0,00:04:56.17,00:04:56.85,Default,,0,0,0,,Difficult to tell
+Dialogue: 0,00:04:58.41,00:05:01.09,Default,,0,0,0,,The Goat is the Goat
+Dialogue: 0,00:05:01.49,00:05:03.25,Default,,0,0,0,,The goat must be below
+Dialogue: 0,00:05:11.49,00:05:13.25,Default,,0,0,0,,Meow Meow Meow
+Dialogue: 0,00:05:20.77,00:05:22.07,Default,,0,0,0,,You finally arrived
+Dialogue: 0,00:05:22.09,00:05:24.73,Default,,0,0,0,,We will rescue you immediately
+Dialogue: 0,00:05:25.53,00:05:27.37,Default,,0,0,0,,Rescue first
+Dialogue: 0,00:05:28.85,00:05:29.97,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:05:32.65,00:05:34.49,Default,,0,0,0,,- Paddi
+- Paddi
+Dialogue: 0,00:05:35.17,00:05:37.17,Default,,0,0,0,,Save people quickly
+Dialogue: 0,00:05:46.57,00:05:48.13,Default,,0,0,0,,Weslie’s hand movement
+Dialogue: 0,00:06:02.45,00:06:03.49,Default,,0,0,0,,What happened?
+Dialogue: 0,00:06:04.81,00:06:07.17,Default,,0,0,0,,Weslie’s injury should be nothing serious
+Dialogue: 0,00:06:07.77,00:06:09.49,Default,,0,0,0,,- Thank you Luna
+- Thank you Luna
+Dialogue: 0,00:06:09.89,00:06:10.49,Default,,0,0,0,,but
+Dialogue: 0,00:06:11.49,00:06:14.65,Default,,0,0,0,,The rest depends on when he wakes up
+Dialogue: 0,00:06:15.77,00:06:16.89,Default,,0,0,0,,I’ve tried my best
+Dialogue: 0,00:06:17.09,00:06:17.85,Default,,0,0,0,,Cough cough
+Dialogue: 0,00:06:18.65,00:06:20.49,Default,,0,0,0,,Princess, let’s take a rest first
+Dialogue: 0,00:06:21.17,00:06:22.73,Default,,0,0,0,,- Thanks for your hard work
+- Go and rest quickly
+Dialogue: 0,00:06:23.65,00:06:24.63,Default,,0,0,0,,- Weslie
+- Weslie
+Dialogue: 0,00:06:24.65,00:06:25.37,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:06:44.37,00:06:45.37,Default,,0,0,0,,Let’s go in
+Dialogue: 0,00:06:49.69,00:06:52.49,Default,,0,0,0,,It’s been five days, I haven’t woken up yet
+Dialogue: 0,00:06:53.97,00:06:56.25,Default,,0,0,0,,Weslie If you don’t wake up again
+Dialogue: 0,00:06:57.05,00:07:00.17,Default,,0,0,0,,I will be the protagonist of the green grassland
+Dialogue: 0,00:07:02.57,00:07:03.41,Default,,0,0,0,,It won’t
+Dialogue: 0,00:07:04.69,00:07:06.53,Default,,0,0,0,,He just fell asleep and didn’t wake up
+Dialogue: 0,00:07:07.17,00:07:09.69,Default,,0,0,0,,Weslie, wake up, Weslie
+Dialogue: 0,00:07:10.29,00:07:12.29,Default,,0,0,0,,You’ve been lying for almost a week
+Dialogue: 0,00:07:12.85,00:07:14.29,Default,,0,0,0,,Don’t sleep anymore
+Dialogue: 0,00:07:15.17,00:07:16.03,Default,,0,0,0,,Don’t you
+Dialogue: 0,00:07:16.05,00:07:19.25,Default,,0,0,0,,You let Weslie have a good rest
+Dialogue: 0,00:07:22.33,00:07:24.17,Default,,0,0,0,,You are a little cold
+Dialogue: 0,00:07:24.41,00:07:25.97,Default,,0,0,0,,Weslie will not be a problem
+Dialogue: 0,00:07:26.09,00:07:27.65,Default,,0,0,0,,Wasn’t it okay before?
+Dialogue: 0,00:07:27.93,00:07:29.43,Default,,0,0,0,,There will be no problem this time
+Dialogue: 0,00:07:29.45,00:07:31.49,Default,,0,0,0,,There will be no problem in the future
+Dialogue: 0,00:07:35.05,00:07:37.29,Default,,0,0,0,,What are you doing? Stop being done
+Dialogue: 0,00:07:38.17,00:07:41.41,Default,,0,0,0,,You said there will be nothing wrong, but Wan will not come when you wake up
+Dialogue: 0,00:07:41.53,00:07:42.85,Default,,0,0,0,,I don’t want this
+Dialogue: 0,00:07:43.05,00:07:45.33,Default,,0,0,0,,- Don’t do this
+- You don’t make a fuss
+Dialogue: 0,00:07:48.01,00:07:53.01,Default,,0,0,0,,If only I could have found you earlier
+Dialogue: 0,00:07:53.25,00:07:54.17,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:07:54.89,00:07:56.37,Default,,0,0,0,,You don’t have to blame yourself
+Dialogue: 0,00:07:56.73,00:07:59.97,Default,,0,0,0,,Actually, it’s all my fault if I hadn’t caused an avalanche
+Dialogue: 0,00:08:00.45,00:08:01.61,Default,,0,0,0,,Weslie will not
+Dialogue: 0,00:08:04.25,00:08:05.97,Default,,0,0,0,,Don’t be buried in the snow
+Dialogue: 0,00:08:06.69,00:08:10.09,Default,,0,0,0,,It’s all my fault, it’s all my fault
+Dialogue: 0,00:08:10.69,00:08:13.13,Default,,0,0,0,,No, I didn’t protect him
+Dialogue: 0,00:08:14.13,00:08:17.29,Default,,0,0,0,,He suffered a lot and was over
+Dialogue: 0,00:08:18.57,00:08:21.89,Default,,0,0,0,,In such a cold place, I’ve been so tired for so long
+Dialogue: 0,00:08:23.77,00:08:26.53,Default,,0,0,0,,It’s my bad, it’s my useless
+Dialogue: 0,00:08:27.69,00:08:30.41,Default,,0,0,0,,If I could have thought of a way out sooner
+Dialogue: 0,00:08:30.77,00:08:32.65,Default,,0,0,0,,Weslie can cure it early
+Dialogue: 0,00:08:33.17,00:08:35.81,Default,,0,0,0,,How about you, Weslie, wake up
+Dialogue: 0,00:08:36.65,00:08:39.65,Default,,0,0,0,,If you like playing football, can we play football?
+Dialogue: 0,00:08:40.57,00:08:43.73,Default,,0,0,0,,I’ll help you with your room every day.
+Dialogue: 0,00:08:44.17,00:08:45.21,Default,,0,0,0,,OK
+Dialogue: 0,00:08:45.53,00:08:47.77,Default,,0,0,0,,Wake up, wake up
+Dialogue: 0,00:09:13.69,00:09:15.73,Default,,0,0,0,,I’ll give you all the snacks
+Dialogue: 0,00:09:16.33,00:09:19.33,Default,,0,0,0,,Can you stop sleeping
+Dialogue: 0,00:09:39.49,00:09:42.01,Default,,0,0,0,,I know you’re having a hard time
+Dialogue: 0,00:09:42.37,00:09:44.53,Default,,0,0,0,,But let it go if it is past
+Dialogue: 0,00:09:45.69,00:09:48.29,Default,,0,0,0,,I didn’t expect the result to be like this
+Dialogue: 0,00:09:48.81,00:09:50.57,Default,,0,0,0,,You have to cheer up
+Dialogue: 0,00:09:50.93,00:09:51.85,Default,,0,0,0,,Heart hurts so much
+Dialogue: 0,00:09:53.97,00:09:56.85,Default,,0,0,0,,Hehehe is still feeling worried about your snacks
+Dialogue: 0,00:09:58.17,00:10:00.09,Default,,0,0,0,,This is all my snacks
+Dialogue: 0,00:10:00.45,00:10:02.63,Default,,0,0,0,,It hurts so much if you think about it
+Dialogue: 0,00:10:02.65,00:10:04.61,Default,,0,0,0,,Please leave me a piece
+Dialogue: 0,00:10:04.65,00:10:05.97,Default,,0,0,0,,OK OK OK
+Dialogue: 0,00:10:06.25,00:10:09.57,Default,,0,0,0,,Hahahahaha
+Dialogue: 0,00:10:09.93,00:10:12.17,Default,,0,0,0,,I’ll give you all the snacks
+Dialogue: 0,00:10:12.65,00:10:14.97,Default,,0,0,0,,Can you stop sleeping
+Dialogue: 0,00:10:19.17,00:10:20.45,Default,,0,0,0,,Really
+Dialogue: 0,00:10:21.61,00:10:23.73,Default,,0,0,0,,Then you’ve got all your snacks
+Dialogue: 0,00:10:24.21,00:10:25.65,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:10:26.45,00:10:28.67,Default,,0,0,0,,You finally wake up
+Dialogue: 0,00:10:28.69,00:10:30.25,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:30.57,00:10:33.37,Default,,0,0,0,,You goat, stop crying, I’m fine
+Dialogue: 0,00:10:33.89,00:10:37.01,Default,,0,0,0,,I remember that’s not the case when you were avalanche
+Dialogue: 0,00:10:37.21,00:10:39.09,Default,,0,0,0,,You are so strong that you protect me
+Dialogue: 0,00:10:39.53,00:10:40.77,Default,,0,0,0,,Do you still remember?
+Dialogue: 0,00:10:42.25,00:10:43.97,Default,,0,0,0,,Weslie finally recovered
+Dialogue: 0,00:10:44.05,00:10:45.53,Default,,0,0,0,,Yes, I remembered it
+Dialogue: 0,00:10:45.77,00:10:47.13,Default,,0,0,0,,Everything we’ve ever done
+Dialogue: 0,00:10:48.65,00:10:50.41,Default,,0,0,0,,Very good
+Dialogue: 0,00:10:58.57,00:11:02.05,Default,,0,0,0,,Sorry, I apologize for the previous injuries
+Dialogue: 0,00:11:02.69,00:11:05.49,Default,,0,0,0,,OK You’ve apologized many times
+Dialogue: 0,00:11:05.85,00:11:07.27,Default,,0,0,0,,We won’t blame you either
+Dialogue: 0,00:11:07.29,00:11:09.05,Default,,0,0,0,,Hahahahaha
+Dialogue: 0,00:11:10.17,00:11:12.37,Default,,0,0,0,,Everyone should take good care of themselves
+Dialogue: 0,00:11:12.85,00:11:16.21,Default,,0,0,0,,Princess Luna, you must restore the cat country
+Dialogue: 0,00:11:19.29,00:11:20.09,Default,,0,0,0,,Meow
+Dialogue: 0,00:11:20.73,00:11:23.25,Default,,0,0,0,,See you again, I’ll miss you
+Dialogue: 0,00:11:23.57,00:11:24.57,Default,,0,0,0,,Meow
+Dialogue: 0,00:11:27.29,00:11:29.25,Default,,0,0,0,,See you again
+Dialogue: 0,00:11:38.89,00:11:41.67,Default,,0,0,0,,See you again
+Dialogue: 0,00:11:41.69,00:11:44.13,Default,,0,0,0,,goodbye
+Dialogue: 0,00:11:45.13,00:11:47.57,Default,,0,0,0,,Report to the Queen Weslie has become rebellious
+Dialogue: 0,00:11:47.77,00:11:48.49,Default,,0,0,0,,And
+Dialogue: 0,00:11:48.65,00:11:50.29,Default,,0,0,0,,It’s over, no need to say
+Dialogue: 0,00:11:53.65,00:11:54.73,Default,,0,0,0,,You three
+Dialogue: 0,00:11:55.37,00:11:58.65,Default,,0,0,0,,Will they betray me like they two?
+Dialogue: 0,00:11:58.77,00:12:00.29,Default,,0,0,0,,Of course not
+Dialogue: 0,00:12:00.61,00:12:02.61,Default,,0,0,0,,OK Since that’s the case
+Dialogue: 0,00:12:03.17,00:12:06.85,Default,,0,0,0,,These three hand rings on my hand are now being paid to you
+Dialogue: 0,00:12:08.25,00:12:09.41,Default,,0,0,0,,Thank you Queen
+Dialogue: 0,00:12:13.49,00:12:16.03,Default,,0,0,0,,What is this
+Dialogue: 0,00:12:16.05,00:12:17.73,Default,,0,0,0,,- Very hard
+- Very hard
+Dialogue: 0,00:12:22.17,00:12:23.09,Default,,0,0,0,,Disappeared?
+Dialogue: 0,00:12:23.77,00:12:26.69,Default,,0,0,0,,The hand ring will automatically retract every time
+Dialogue: 0,00:12:27.17,00:12:29.17,Default,,0,0,0,,I’ll give you crystal stones regularly
+Dialogue: 0,00:12:30.77,00:12:33.99,Default,,0,0,0,,You better not betray me? Do you understand?
+Dialogue: 0,00:12:34.01,00:12:34.85,Default,,0,0,0,,yes

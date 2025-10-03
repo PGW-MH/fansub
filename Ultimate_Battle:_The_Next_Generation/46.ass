@@ -1,0 +1,178 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:48.12,00:00:49.92,Default,,0,0,0,,You’re not a robot
+Dialogue: 0,00:00:50.48,00:00:53.68,Default,,0,0,0,,You will be happy, angry, and hurt
+Dialogue: 0,00:00:54.08,00:00:55.80,Default,,0,0,0,,You are my Wolnie
+Dialogue: 0,00:00:56.32,00:00:59.00,Default,,0,0,0,,A lovely wolf
+Dialogue: 0,00:01:02.24,00:01:03.36,Default,,0,0,0,,How to open the door
+Dialogue: 0,00:01:03.92,00:01:04.52,Default,,0,0,0,,who?
+Dialogue: 0,00:01:05.00,00:01:06.24,Default,,0,0,0,,Are you doing? stop
+Dialogue: 0,00:01:07.88,00:01:09.08,Default,,0,0,0,,Huh? Where is the person
+Dialogue: 0,00:01:13.76,00:01:15.12,Default,,0,0,0,,What do you want to do
+Dialogue: 0,00:01:17.08,00:01:17.71,Default,,0,0,0,,etc.
+Dialogue: 0,00:01:35.68,00:01:37.00,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:42.04,00:01:44.20,Default,,0,0,0,,Don’t run Don’t run...
+Dialogue: 0,00:01:51.12,00:01:51.97,Default,,0,0,0,,Small gray
+Dialogue: 0,00:01:52.00,00:01:54.71,Default,,0,0,0,,Your performance in this inventorial competition is pretty good
+Dialogue: 0,00:01:55.52,00:01:58.53,Default,,0,0,0,,Your first try to convert light energy to heat energy
+Dialogue: 0,00:01:58.56,00:02:01.36,Default,,0,0,0,,It’s so terrible
+Dialogue: 0,00:02:01.60,00:02:02.24,Default,,0,0,0,,Thank you
+Dialogue: 0,00:02:02.68,00:02:06.16,Default,,0,0,0,,However, there are still some places that need to be adjusted
+Dialogue: 0,00:02:06.84,00:02:09.52,Default,,0,0,0,,OK, Baoba, where do you want to go next
+Dialogue: 0,00:02:10.64,00:02:12.28,Default,,0,0,0,,I’ll think about it...
+Dialogue: 0,00:02:13.52,00:02:16.04,Default,,0,0,0,,Well...I want to go to the park
+Dialogue: 0,00:02:16.60,00:02:17.24,Default,,0,0,0,,OK
+Dialogue: 0,00:02:17.36,00:02:18.89,Default,,0,0,0,,Then Dad will take you there
+Dialogue: 0,00:02:18.92,00:02:22.37,Default,,0,0,0,,Hahahahaha
+Dialogue: 0,00:02:22.40,00:02:24.72,Default,,0,0,0,,Little Gray Gray Small Gray Gray
+Dialogue: 0,00:02:24.88,00:02:26.16,Default,,0,0,0,,What’s wrong with you
+Dialogue: 0,00:02:26.60,00:02:28.88,Default,,0,0,0,,Nothing to do, maybe just tired
+Dialogue: 0,00:02:29.08,00:02:30.17,Default,,0,0,0,,Then go back and have a break...
+Dialogue: 0,00:02:30.20,00:02:32.28,Default,,0,0,0,,Help...
+Dialogue: 0,00:02:32.48,00:02:34.08,Default,,0,0,0,,Help...
+Dialogue: 0,00:02:35.40,00:02:37.36,Default,,0,0,0,,Wow, then...what is that
+Dialogue: 0,00:02:40.88,00:02:43.16,Default,,0,0,0,,Ah...it’s past
+Dialogue: 0,00:02:46.48,00:02:47.36,Default,,0,0,0,,Let’s try it
+Dialogue: 0,00:02:55.12,00:02:57.48,Default,,0,0,0,,Find a place to hide
+Dialogue: 0,00:02:59.00,00:03:00.44,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:03:01.24,00:03:02.88,Default,,0,0,0,,It’s hard to say that it’s a fragment of star stone
+Dialogue: 0,00:03:05.32,00:03:07.28,Default,,0,0,0,,Ahhhh…
+Dialogue: 0,00:03:08.24,00:03:09.04,Default,,0,0,0,,Target confirmation
+Dialogue: 0,00:03:35.00,00:03:36.53,Default,,0,0,0,,- Target cleared
+- Run quickly
+Dialogue: 0,00:03:36.56,00:03:37.52,Default,,0,0,0,,Begin recycling of fragments
+Dialogue: 0,00:03:44.00,00:03:44.68,Default,,0,0,0,,ah?
+Dialogue: 0,00:03:45.12,00:03:47.04,Default,,0,0,0,,Will it...rebirth?
+Dialogue: 0,00:03:48.36,00:03:49.92,Default,,0,0,0,,It’s still spikes
+Dialogue: 0,00:03:51.28,00:03:53.68,Default,,0,0,0,,Uh...what is going on...
+Dialogue: 0,00:03:57.72,00:03:59.24,Default,,0,0,0,,Not sure... Injury...
+Dialogue: 0,00:03:59.96,00:04:01.16,Default,,0,0,0,,My mother
+Dialogue: 0,00:04:08.88,00:04:11.28,Default,,0,0,0,,Humph, let me remember
+Dialogue: 0,00:04:15.04,00:04:16.84,Default,,0,0,0,,It seems it has run away
+Dialogue: 0,00:04:17.68,00:04:18.96,Default,,0,0,0,,Mom Mom
+Dialogue: 0,00:04:19.32,00:04:20.44,Default,,0,0,0,,Mom, what’s wrong with you
+Dialogue: 0,00:04:23.84,00:04:25.72,Default,,0,0,0,,Mom, you’re awake
+Dialogue: 0,00:04:36.60,00:04:37.40,Default,,0,0,0,,Hmm...
+Dialogue: 0,00:04:37.84,00:04:39.44,Default,,0,0,0,,Mom, don’t
+Dialogue: 0,00:04:40.07,00:04:41.72,Default,,0,0,0,,I’m helping you with the injury
+Dialogue: 0,00:04:42.07,00:04:42.60,Default,,0,0,0,,you…
+Dialogue: 0,00:04:43.20,00:04:44.60,Default,,0,0,0,,Mom, this is for you
+Dialogue: 0,00:04:46.76,00:04:48.84,Default,,0,0,0,,Mom, do you still remember
+Dialogue: 0,00:04:49.36,00:04:52.40,Default,,0,0,0,,I was injured when I was a kid and you will give me candy
+Dialogue: 0,00:04:53.00,00:04:54.80,Default,,0,0,0,,I won’t feel any more pain in this way
+Dialogue: 0,00:04:55.92,00:04:57.80,Default,,0,0,0,,Wow, so beautiful
+Dialogue: 0,00:04:59.12,00:05:01.69,Default,,0,0,0,,Well...wow, it hurts very much
+Dialogue: 0,00:05:01.72,00:05:05.45,Default,,0,0,0,,Well...wow, it hurts...
+Dialogue: 0,00:05:05.48,00:05:07.49,Default,,0,0,0,,Wilie, be good, don’t cry
+Dialogue: 0,00:05:07.52,00:05:08.80,Default,,0,0,0,,Let mother see
+Dialogue: 0,00:05:10.96,00:05:12.48,Default,,0,0,0,,Wilie Look
+Dialogue: 0,00:05:12.76,00:05:14.12,Default,,0,0,0,,It’s candy
+Dialogue: 0,00:05:14.76,00:05:16.32,Default,,0,0,0,,Wilie is the bravest
+Dialogue: 0,00:05:16.56,00:05:19.56,Default,,0,0,0,,After taking candy, it doesn’t hurt if we take medicine
+Dialogue: 0,00:05:20.96,00:05:22.09,Default,,0,0,0,,Ahhh
+Dialogue: 0,00:05:22.12,00:05:24.28,Default,,0,0,0,,Come, mother, look at your hands
+Dialogue: 0,00:05:25.00,00:05:27.92,Default,,0,0,0,,The wound hurts more because my family cares
+Dialogue: 0,00:05:28.80,00:05:30.88,Default,,0,0,0,,I’ll feel unparalleled happiness
+Dialogue: 0,00:05:32.16,00:05:33.04,Default,,0,0,0,,happiness?
+Dialogue: 0,00:05:33.52,00:05:37.24,Default,,0,0,0,,Well, happy... to me...
+Dialogue: 0,00:05:39.20,00:05:41.56,Default,,0,0,0,,It’s when my mother is around me
+Dialogue: 0,00:05:46.48,00:05:47.32,Default,,0,0,0,,The bag is ready
+Dialogue: 0,00:05:47.84,00:05:49.08,Default,,0,0,0,,Mom, do you still feel pain?
+Dialogue: 0,00:05:51.24,00:05:53.72,Default,,0,0,0,,Why do I feel pain?
+Dialogue: 0,00:05:54.36,00:05:56.48,Default,,0,0,0,,Mom Leave a reminder last time
+Dialogue: 0,00:05:57.24,00:05:59.20,Default,,0,0,0,,You are the one who found my dad
+Dialogue: 0,00:06:00.24,00:06:01.72,Default,,0,0,0,,Feel less self-righteous
+Dialogue: 0,00:06:02.36,00:06:05.44,Default,,0,0,0,,I’m a robot, it won’t hurt at all
+Dialogue: 0,00:06:06.16,00:06:06.76,Default,,0,0,0,,will not
+Dialogue: 0,00:06:10.24,00:06:10.92,Default,,0,0,0,,mother
+Dialogue: 0,00:06:11.52,00:06:14.00,Default,,0,0,0,,The poison in your body has not been cleaned yet
+Dialogue: 0,00:06:14.60,00:06:16.40,Default,,0,0,0,,You must come tomorrow
+Dialogue: 0,00:06:20.40,00:06:22.16,Default,,0,0,0,,I’ll wait for you here
+Dialogue: 0,00:06:27.76,00:06:28.28,Default,,0,0,0,,dad
+Dialogue: 0,00:06:30.44,00:06:31.21,Default,,0,0,0,,Where did you go
+Dialogue: 0,00:06:31.24,00:06:32.28,Default,,0,0,0,,oops…
+Dialogue: 0,00:06:32.64,00:06:33.20,Default,,0,0,0,,dad
+Dialogue: 0,00:06:33.80,00:06:34.84,Default,,0,0,0,,What happened
+Dialogue: 0,00:06:34.96,00:06:36.76,Default,,0,0,0,,Wait, don’t come in first
+Dialogue: 0,00:06:47.24,00:06:49.08,Default,,0,0,0,,Dad is doing a practical experiment
+Dialogue: 0,00:06:55.28,00:06:58.68,Default,,0,0,0,,The foot...why...why it hurts...
+Dialogue: 0,00:07:11.88,00:07:14.32,Default,,0,0,0,,Dad, I saw my mother today
+Dialogue: 0,00:07:16.56,00:07:17.35,Default,,0,0,0,,Really
+Dialogue: 0,00:07:17.88,00:07:20.44,Default,,0,0,0,,Yes, but she’s gone
+Dialogue: 0,00:07:21.84,00:07:24.40,Default,,0,0,0,,But I’ll make an appointment with her to meet at the river tomorrow
+Dialogue: 0,00:07:25.20,00:07:26.40,Default,,0,0,0,,That’s great
+Dialogue: 0,00:07:29.20,00:07:31.84,Default,,0,0,0,,Uh, Dad will go with you tomorrow
+Dialogue: 0,00:07:32.16,00:07:33.56,Default,,0,0,0,,You have a rest first
+Dialogue: 0,00:07:33.88,00:07:36.28,Default,,0,0,0,,OK Dad, you have a good rest, too
+Dialogue: 0,00:07:49.16,00:07:50.64,Default,,0,0,0,,Why haven’t my mother come yet
+Dialogue: 0,00:07:51.40,00:07:54.52,Default,,0,0,0,,Don’t worry, I believe your mother will come back
+Dialogue: 0,00:07:55.24,00:07:55.47,Default,,0,0,0,,Um
+Dialogue: 0,00:07:59.80,00:08:02.40,Default,,0,0,0,,Mom, I’ll wait for you
+Dialogue: 0,00:08:07.47,00:08:08.47,Default,,0,0,0,,- Red
+- mother
+Dialogue: 0,00:08:09.28,00:08:10.60,Default,,0,0,0,,What is this
+Dialogue: 0,00:08:12.56,00:08:13.60,Default,,0,0,0,,Be careful, dad
+Dialogue: 0,00:08:16.28,00:08:17.56,Default,,0,0,0,,These thorns are poisonous
+Dialogue: 0,00:08:18.12,00:08:20.60,Default,,0,0,0,,It was also his mother’s injuries before
+Dialogue: 0,00:08:22.04,00:08:26.47,Default,,0,0,0,,Wilie, hand it to me here. You can hurry up...
+Dialogue: 0,00:08:27.80,00:08:28.28,Default,,0,0,0,,dad…
+Dialogue: 0,00:08:29.40,00:08:30.84,Default,,0,0,0,,Let’s fight together
+Dialogue: 0,00:08:34.64,00:08:36.88,Default,,0,0,0,,Wilie Be careful behind
+Dialogue: 0,00:08:44.52,00:08:45.65,Default,,0,0,0,,Drink...uh
+Dialogue: 0,00:08:45.68,00:08:47.08,Default,,0,0,0,,Small gray
+Dialogue: 0,00:08:49.44,00:08:52.88,Default,,0,0,0,,Ah, at this time...
+Dialogue: 0,00:09:07.12,00:09:08.40,Default,,0,0,0,,Ah...Mom
+Dialogue: 0,00:09:10.44,00:09:13.52,Default,,0,0,0,,Don’t mislead, I’m just here to get the pieces
+Dialogue: 0,00:09:20.35,00:09:21.92,Default,,0,0,0,,I can’t catch you yet
+Dialogue: 0,00:09:22.52,00:09:23.96,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:09:25.28,00:09:28.52,Default,,0,0,0,,Be careful, this guy likes stealing
+Dialogue: 0,00:09:28.72,00:09:30.68,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:35.76,00:09:37.35,Default,,0,0,0,,Protect your child’s work
+Dialogue: 0,00:09:37.47,00:09:39.84,Default,,0,0,0,,How can I hand it all over to red
+Dialogue: 0,00:09:40.12,00:09:41.60,Default,,0,0,0,,I’ll help, too
+Dialogue: 0,00:09:44.08,00:09:46.12,Default,,0,0,0,,Shadow Blade
+Dialogue: 0,00:09:50.12,00:09:51.40,Default,,0,0,0,,Want to hold on
+Dialogue: 0,00:10:15.68,00:10:16.65,Default,,0,0,0,,This is...
+Dialogue: 0,00:10:16.68,00:10:18.84,Default,,0,0,0,,Dad, this is great
+Dialogue: 0,00:10:19.08,00:10:20.68,Default,,0,0,0,,It has miraculous effects on vines
+Dialogue: 0,00:10:25.44,00:10:29.09,Default,,0,0,0,,If you careless this time, you will remember it for me again
+Dialogue: 0,00:10:29.12,00:10:30.08,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:10:31.20,00:10:32.76,Default,,0,0,0,,Red, let’s go chase
+Dialogue: 0,00:10:35.24,00:10:37.96,Default,,0,0,0,,Ah...uh...
+Dialogue: 0,00:10:40.40,00:10:44.35,Default,,0,0,0,,Red...Don’t worry about me first. Chase
+Dialogue: 0,00:11:05.24,00:11:06.76,Default,,0,0,0,,You’re nowhere to escape
+Dialogue: 0,00:11:11.24,00:11:13.85,Default,,0,0,0,,You’re not the same person too
+Dialogue: 0,00:11:13.88,00:11:16.32,Default,,0,0,0,,Fight with you...
+Dialogue: 0,00:11:21.12,00:11:22.16,Default,,0,0,0,,Very fast
+Dialogue: 0,00:11:26.20,00:11:27.56,Default,,0,0,0,,Oops...
+Dialogue: 0,00:11:30.60,00:11:32.53,Default,,0,0,0,,The toxicity works
+Dialogue: 0,00:11:32.56,00:11:34.73,Default,,0,0,0,,See how I deal with you
+Dialogue: 0,00:11:34.76,00:11:35.88,Default,,0,0,0,,Yes
+Dialogue: 0,00:11:36.52,00:11:37.88,Default,,0,0,0,,what?
+Dialogue: 0,00:11:41.20,00:11:42.47,Default,,0,0,0,,Who will allow you...
+Dialogue: 0,00:11:42.88,00:11:47.08,Default,,0,0,0,,The red that hurt my family...
+Dialogue: 0,00:11:50.80,00:11:53.37,Default,,0,0,0,,Wilie, you see your mother and me
+Dialogue: 0,00:11:53.40,00:11:55.47,Default,,0,0,0,,Have you cooperated without any wits?
+Dialogue: 0,00:11:56.00,00:11:57.08,Default,,0,0,0,,See it, see it
+Dialogue: 0,00:11:57.56,00:12:00.01,Default,,0,0,0,,Hehehehehehehehe
+Dialogue: 0,00:12:00.04,00:12:01.12,Default,,0,0,0,,You said yes
+Dialogue: 0,00:12:02.60,00:12:03.56,Default,,0,0,0,,Red...
+Dialogue: 0,00:12:08.60,00:12:11.76,Default,,0,0,0,,Don’t worry, our family will definitely be able to gather together
+Dialogue: 0,00:12:19.20,00:12:21.16,Default,,0,0,0,,Yes, we can definitely
+Dialogue: 0,00:12:22.96,00:12:23.40,Default,,0,0,0,,Um?
+Dialogue: 0,00:12:25.20,00:12:25.88,Default,,0,0,0,,dad…
+Dialogue: 0,00:12:27.56,00:12:28.56,Default,,0,0,0,,Your face...

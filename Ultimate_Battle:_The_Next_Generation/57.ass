@@ -1,0 +1,213 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:27.69,00:00:29.13,Default,,0,0,0,,The explosion outside stopped
+Dialogue: 0,00:00:29.97,00:00:31.29,Default,,0,0,0,,We’re safe at the moment
+Dialogue: 0,00:00:32.37,00:00:35.45,Default,,0,0,0,,But here is also shocked
+Dialogue: 0,00:00:37.77,00:00:41.49,Default,,0,0,0,,Hey, why are there so many mechanical parts here?
+Dialogue: 0,00:00:42.25,00:00:43.33,Default,,0,0,0,,Be careful
+Dialogue: 0,00:00:43.45,00:00:44.11,Default,,0,0,0,,actually
+Dialogue: 0,00:00:44.13,00:00:47.05,Default,,0,0,0,,This is a secret base built by Dr. Ti
+Dialogue: 0,00:00:47.45,00:00:48.61,Default,,0,0,0,,Secret base
+Dialogue: 0,00:00:49.21,00:00:49.73,Default,,0,0,0,,Um
+Dialogue: 0,00:00:50.61,00:00:53.85,Default,,0,0,0,,I’ve been working on ways to remove mechanization here
+Dialogue: 0,00:00:54.41,00:00:57.09,Default,,0,0,0,,Unfortunately, I haven’t done any research yet...
+Dialogue: 0,00:00:57.77,00:01:00.93,Default,,0,0,0,,Then... what happened to Bu Lei and the others now
+Dialogue: 0,00:01:04.53,00:01:05.89,Default,,0,0,0,,They’re not at the base
+Dialogue: 0,00:01:06.33,00:01:09.05,Default,,0,0,0,,I’ve moved them to a safe place
+Dialogue: 0,00:01:10.29,00:01:11.01,Default,,0,0,0,,That…
+Dialogue: 0,00:01:11.17,00:01:12.09,Default,,0,0,0,,Except for the thunder...
+Dialogue: 0,00:01:14.53,00:01:18.73,Default,,0,0,0,,Since that mission, he has been missing
+Dialogue: 0,00:01:20.37,00:01:21.33,Default,,0,0,0,,The class leader…
+Dialogue: 0,00:01:22.21,00:01:24.15,Default,,0,0,0,,Then why did you become a robot
+Dialogue: 0,00:01:24.17,00:01:25.89,Default,,0,0,0,,Can you still stay awake
+Dialogue: 0,00:01:28.05,00:01:30.85,Default,,0,0,0,,Things will begin from that day...
+Dialogue: 0,00:01:32.09,00:01:33.93,Default,,0,0,0,,The seedlings have begun to change
+Dialogue: 0,00:01:34.89,00:01:36.89,Default,,0,0,0,,The barrier is ready
+Dialogue: 0,00:01:37.29,00:01:39.65,Default,,0,0,0,,OK, let’s start the experiment
+Dialogue: 0,00:01:53.61,00:01:55.89,Default,,0,0,0,,Wow, we succeeded
+Dialogue: 0,00:01:59.57,00:02:02.93,Default,,0,0,0,,Dr. Qian, Dr. Yan, long-awaited Daming
+Dialogue: 0,00:02:03.65,00:02:04.81,Default,,0,0,0,,My name is Dr. Ti
+Dialogue: 0,00:02:05.77,00:02:08.17,Default,,0,0,0,,I have something important to discuss with you
+Dialogue: 0,00:02:10.93,00:02:13.53,Default,,0,0,0,,Dr. Tie The important thing you said is...
+Dialogue: 0,00:02:13.73,00:02:16.63,Default,,0,0,0,,Actually, I have a scientific research project
+Dialogue: 0,00:02:16.65,00:02:18.01,Default,,0,0,0,,Hope both join
+Dialogue: 0,00:02:18.77,00:02:21.75,Default,,0,0,0,,Especially the top experts in biotechnology
+Dialogue: 0,00:02:21.77,00:02:23.21,Default,,0,0,0,,Dr. Qian, you
+Dialogue: 0,00:02:23.61,00:02:24.61,Default,,0,0,0,,Winning the prize
+Dialogue: 0,00:02:25.17,00:02:27.09,Default,,0,0,0,,The content of that project is...
+Dialogue: 0,00:02:28.01,00:02:29.61,Default,,0,0,0,,Please visit two doctors
+Dialogue: 0,00:02:31.45,00:02:33.57,Default,,0,0,0,,Machinery…Plant
+Dialogue: 0,00:02:33.93,00:02:35.17,Default,,0,0,0,,Mechanical frog
+Dialogue: 0,00:02:36.37,00:02:38.47,Default,,0,0,0,,This project is through technology
+Dialogue: 0,00:02:38.49,00:02:40.37,Default,,0,0,0,,Mechanize fragile life
+Dialogue: 0,00:02:41.05,00:02:43.57,Default,,0,0,0,,From then on, you can gain true eternity
+Dialogue: 0,00:02:47.89,00:02:50.09,Default,,0,0,0,,Sorry, I’m sorry for refusing
+Dialogue: 0,00:02:51.17,00:02:51.77,Default,,0,0,0,,oh…
+Dialogue: 0,00:02:52.69,00:02:56.17,Default,,0,0,0,,I think life is fragile but it is also impoverished
+Dialogue: 0,00:02:56.77,00:02:59.33,Default,,0,0,0,,We cannot cure disease and death
+Dialogue: 0,00:03:00.25,00:03:01.61,Default,,0,0,0,,But it’s also because of this
+Dialogue: 0,00:03:01.65,00:03:04.93,Default,,0,0,0,,We cherish each other more and cherish the present
+Dialogue: 0,00:03:06.53,00:03:09.09,Default,,0,0,0,,So you still need to go back
+Dialogue: 0,00:03:10.33,00:03:12.85,Default,,0,0,0,,Alas, since that’s the case...
+Dialogue: 0,00:03:13.13,00:03:14.25,Default,,0,0,0,,Take them away
+Dialogue: 0,00:03:24.89,00:03:26.93,Default,,0,0,0,,Qianqian, let’s go quickly
+Dialogue: 0,00:03:27.53,00:03:28.21,Default,,0,0,0,,good
+Dialogue: 0,00:03:40.13,00:03:41.01,Default,,0,0,0,,Brother Jian…
+Dialogue: 0,00:03:41.17,00:03:43.37,Default,,0,0,0,,Brother Yan, please cheer up
+Dialogue: 0,00:03:47.29,00:03:48.49,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:03:48.85,00:03:53.89,Default,,0,0,0,,Qian...Qianqian Quick...Go away...
+Dialogue: 0,00:03:55.93,00:03:57.01,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:00.85,00:04:03.65,Default,,0,0,0,,I have to turn you into robots
+Dialogue: 0,00:04:05.89,00:04:08.13,Default,,0,0,0,,Is it better to have an answer earlier
+Dialogue: 0,00:04:10.29,00:04:13.93,Default,,0,0,0,,And it happened to be the drug we studied at that time
+Dialogue: 0,00:04:14.33,00:04:16.53,Default,,0,0,0,,Let me retain human consciousness
+Dialogue: 0,00:04:17.09,00:04:20.53,Default,,0,0,0,,You mean... this can inhibit mechanicalization
+Dialogue: 0,00:04:21.61,00:04:22.01,Default,,0,0,0,,right
+Dialogue: 0,00:04:22.45,00:04:26.01,Default,,0,0,0,,Unfortunately, it cannot transform mechanized people back
+Dialogue: 0,00:04:28.29,00:04:32.01,Default,,0,0,0,,And this was originally developed for plants
+Dialogue: 0,00:04:32.29,00:04:36.17,Default,,0,0,0,,If you are not careful, it will cause great harm to the human body
+Dialogue: 0,00:04:37.65,00:04:39.93,Default,,0,0,0,,I just happened to succeed last time
+Dialogue: 0,00:04:40.49,00:04:43.69,Default,,0,0,0,,If it fails, I may lose my life
+Dialogue: 0,00:04:45.37,00:04:47.09,Default,,0,0,0,,That’s so dangerous
+Dialogue: 0,00:04:47.97,00:04:49.61,Default,,0,0,0,,Let’s stop Dr. Ti
+Dialogue: 0,00:04:49.77,00:04:51.69,Default,,0,0,0,,Not much time, let’s talk
+Dialogue: 0,00:04:55.05,00:04:58.17,Default,,0,0,0,,Why is the doctor so enforced that star stone?
+Dialogue: 0,00:04:59.17,00:05:00.55,Default,,0,0,0,,Global mechanized instruments
+Dialogue: 0,00:05:00.57,00:05:02.69,Default,,0,0,0,,Needs a lot of energy to start
+Dialogue: 0,00:05:03.69,00:05:06.21,Default,,0,0,0,,When he struggles with energy supply problems
+Dialogue: 0,00:05:06.37,00:05:09.49,Default,,0,0,0,,It is discovered that the star stone has great energy
+Dialogue: 0,00:05:11.45,00:05:13.53,Default,,0,0,0,,But when he got it
+Dialogue: 0,00:05:13.93,00:05:15.21,Default,,0,0,0,,Because of time problems
+Dialogue: 0,00:05:15.77,00:05:19.13,Default,,0,0,0,,The energy of the Elephant Star Stone has been greatly reduced to nothing
+Dialogue: 0,00:05:19.73,00:05:22.33,Default,,0,0,0,,So I’m going back fifteen years ago
+Dialogue: 0,00:05:22.49,00:05:25.77,Default,,0,0,0,,Go and grab that energy-filled elephant star stone back
+Dialogue: 0,00:05:26.65,00:05:27.81,Default,,0,0,0,,When he returned here
+Dialogue: 0,00:05:28.01,00:05:30.25,Default,,0,0,0,,I took advantage of the situation and destroyed the Elephant Star Stone
+Dialogue: 0,00:05:30.81,00:05:32.93,Default,,0,0,0,,But it was just delayed for a while
+Dialogue: 0,00:05:33.29,00:05:34.37,Default,,0,0,0,,So that’s how it is
+Dialogue: 0,00:05:34.49,00:05:36.41,Default,,0,0,0,,You should tell us early
+Dialogue: 0,00:05:36.73,00:05:39.89,Default,,0,0,0,,In this way, we can work with you
+Dialogue: 0,00:05:41.77,00:05:42.61,Default,,0,0,0,,No
+Dialogue: 0,00:05:43.05,00:05:45.73,Default,,0,0,0,,He is a person with a close mind and a very suspicious person
+Dialogue: 0,00:05:47.09,00:05:48.73,Default,,0,0,0,,I can’t take it easy
+Dialogue: 0,00:05:49.21,00:05:50.03,Default,,0,0,0,,Yes
+Dialogue: 0,00:05:50.05,00:05:53.25,Default,,0,0,0,,Sparky, you have such a big mouth, can you believe it
+Dialogue: 0,00:05:54.25,00:05:57.29,Default,,0,0,0,,You’re just a big mouth
+Dialogue: 0,00:05:57.41,00:05:59.93,Default,,0,0,0,,I’m a foodie job
+Dialogue: 0,00:06:00.49,00:06:01.45,Default,,0,0,0,,Don’t be too worried
+Dialogue: 0,00:06:01.69,00:06:04.79,Default,,0,0,0,,Actually, I’ve been in contact with Slowy
+Dialogue: 0,00:06:04.81,00:06:05.69,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:06:07.09,00:06:07.77,Default,,0,0,0,,That’s right
+Dialogue: 0,00:06:07.93,00:06:10.81,Default,,0,0,0,,Although he has always been very strict in my supervision
+Dialogue: 0,00:06:11.53,00:06:13.65,Default,,0,0,0,,But there are many goat and cold weather
+Dialogue: 0,00:06:13.73,00:06:16.81,Default,,0,0,0,,Only then can I successfully get in touch with the Slowy
+Dialogue: 0,00:06:18.17,00:06:19.41,Default,,0,0,0,,A goat?
+Dialogue: 0,00:06:19.81,00:06:20.65,Default,,0,0,0,,I?
+Dialogue: 0,00:06:21.85,00:06:23.77,Default,,0,0,0,,Why don’t I remember it?
+Dialogue: 0,00:06:24.29,00:06:25.45,Default,,0,0,0,,Just last time...
+Dialogue: 0,00:06:27.77,00:06:30.13,Default,,0,0,0,,When the control is in a cold weather...
+Dialogue: 0,00:06:34.89,00:06:37.25,Default,,0,0,0,,I was swaying him and made a message
+Dialogue: 0,00:06:37.45,00:06:39.81,Default,,0,0,0,,And secretly sent the Slowy
+Dialogue: 0,00:06:49.21,00:06:50.41,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:08.01,00:07:10.37,Default,,0,0,0,,Hum, meet and discuss
+Dialogue: 0,00:07:11.37,00:07:13.09,Default,,0,0,0,,Who is it
+Dialogue: 0,00:07:13.25,00:07:15.41,Default,,0,0,0,,Let me see your true face
+Dialogue: 0,00:07:16.69,00:07:19.13,Default,,0,0,0,,What a do, busy
+Dialogue: 0,00:07:22.57,00:07:23.43,Default,,0,0,0,,ah…
+Dialogue: 0,00:07:23.45,00:07:25.73,Default,,0,0,0,,You, who are you
+Dialogue: 0,00:07:26.01,00:07:27.21,Default,,0,0,0,,How did you come in
+Dialogue: 0,00:07:27.85,00:07:29.49,Default,,0,0,0,,Village chief, it’s me
+Dialogue: 0,00:07:35.09,00:07:37.33,Default,,0,0,0,,Is she okay with Tibbie?
+Dialogue: 0,00:07:38.69,00:07:41.09,Default,,0,0,0,,You are... Qian Yangyang
+Dialogue: 0,00:07:42.77,00:07:44.73,Default,,0,0,0,,The child is suffering
+Dialogue: 0,00:07:45.17,00:07:47.29,Default,,0,0,0,,As long as you can crush the doctor’s traits
+Dialogue: 0,00:07:47.45,00:07:48.71,Default,,0,0,0,,Everything is worth it
+Dialogue: 0,00:07:48.73,00:07:51.77,Default,,0,0,0,,Must stop him, not let him succeed
+Dialogue: 0,00:07:52.45,00:07:54.77,Default,,0,0,0,,I’ll do my best to help you
+Dialogue: 0,00:07:55.29,00:07:58.33,Default,,0,0,0,,After that, I and Slowy secretly contacted each other many times
+Dialogue: 0,00:07:59.69,00:08:01.83,Default,,0,0,0,,Bu Lei is a subordinate of Dr. Ti
+Dialogue: 0,00:08:01.85,00:08:03.33,Default,,0,0,0,,You need to be more careful
+Dialogue: 0,00:08:04.09,00:08:07.37,Default,,0,0,0,,I understand, you should also pay attention to safety
+Dialogue: 0,00:08:11.37,00:08:14.85,Default,,0,0,0,,Oh, Slowy, Why are you here
+Dialogue: 0,00:08:19.65,00:08:20.49,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:08:24.29,00:08:26.69,Default,,0,0,0,,Then let’s take her back to find the village chief
+Dialogue: 0,00:08:26.81,00:08:28.05,Default,,0,0,0,,Wait outside
+Dialogue: 0,00:08:30.33,00:08:31.05,Default,,0,0,0,,Village chief…
+Dialogue: 0,00:08:32.01,00:08:33.89,Default,,0,0,0,,Goat Village may have a bottom
+Dialogue: 0,00:08:34.61,00:08:35.73,Default,,0,0,0,,Bottom of the bed?
+Dialogue: 0,00:08:36.41,00:08:38.45,Default,,0,0,0,,Please pay more attention to the people around you
+Dialogue: 0,00:08:39.17,00:08:42.97,Default,,0,0,0,,I should leave, I can’t make him suspicious of me
+Dialogue: 0,00:08:44.01,00:08:47.09,Default,,0,0,0,,Wait, you can’t just go out like that
+Dialogue: 0,00:08:47.33,00:08:49.69,Default,,0,0,0,,That’s it, I have an idea...
+Dialogue: 0,00:08:52.33,00:08:54.10,Default,,0,0,0,,I don’t know the last card
+Dialogue: 0,00:08:54.13,00:08:56.21,Default,,0,0,0,,The village chief insisted that he had a bottom
+Dialogue: 0,00:08:57.05,00:08:59.37,Default,,0,0,0,,After that, I was trapped at the base
+Dialogue: 0,00:08:59.49,00:09:01.45,Default,,0,0,0,,Completely broke up with the village chief
+Dialogue: 0,00:09:07.17,00:09:08.85,Default,,0,0,0,,We finally came out
+Dialogue: 0,00:09:09.57,00:09:11.33,Default,,0,0,0,,You have to find Dr. Tie quickly
+Dialogue: 0,00:09:13.21,00:09:15.41,Default,,0,0,0,,Let me tell you the village chief about the current situation
+Dialogue: 0,00:09:15.65,00:09:17.57,Default,,0,0,0,,Doctor picking is about to start the instrument
+Dialogue: 0,00:09:17.69,00:09:19.71,Default,,0,0,0,,Must find and stop him as soon as possible
+Dialogue: 0,00:09:19.73,00:09:20.41,Default,,0,0,0,,Um
+Dialogue: 0,00:09:26.05,00:09:30.05,Default,,0,0,0,,Jonie, Sparky, binge goat
+Dialogue: 0,00:09:30.13,00:09:33.25,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:09:33.97,00:09:37.61,Default,,0,0,0,,Village Chief, we’re fine, it makes you worry
+Dialogue: 0,00:09:38.41,00:09:40.93,Default,,0,0,0,,Duomei Goat’s mother saved us
+Dialogue: 0,00:09:42.13,00:09:45.17,Default,,0,0,0,,I’ll bring you out just now and be ready to contact you
+Dialogue: 0,00:09:45.45,00:09:49.13,Default,,0,0,0,,It seems that you all know about Qianyangyang
+Dialogue: 0,00:09:49.77,00:09:51.17,Default,,0,0,0,,What about Big Big Werewolf
+Dialogue: 0,00:09:52.01,00:09:57.21,Default,,0,0,0,,Wolffy... controlled by Dr. Cut and left
+Dialogue: 0,00:09:57.33,00:09:59.10,Default,,0,0,0,,Still couldn’t save him
+Dialogue: 0,00:09:59.13,00:10:01.45,Default,,0,0,0,,Wolffy, you are such a big cheat
+Dialogue: 0,00:10:02.17,00:10:04.21,Default,,0,0,0,,Didn’t you say you’d come back?
+Dialogue: 0,00:10:05.73,00:10:08.03,Default,,0,0,0,,I really don’t know how long I can hold...
+Dialogue: 0,00:10:08.05,00:10:09.65,Default,,0,0,0,,Then you can’t give up...
+Dialogue: 0,00:10:09.73,00:10:11.09,Default,,0,0,0,,Can’t give up
+Dialogue: 0,00:10:11.57,00:10:12.73,Default,,0,0,0,,Can’t give up
+Dialogue: 0,00:10:13.45,00:10:15.53,Default,,0,0,0,,We can’t let Dr. Tie succeed
+Dialogue: 0,00:10:16.17,00:10:19.45,Default,,0,0,0,,Everyone is very committed to stop him
+Dialogue: 0,00:10:20.49,00:10:22.41,Default,,0,0,0,,-Yeah, go all out -Yeah, go all out
+Dialogue: 0,00:10:25.45,00:10:26.53,Default,,0,0,0,,Children...
+Dialogue: 0,00:10:27.41,00:10:28.21,Default,,0,0,0,,Out
+Dialogue: 0,00:10:28.81,00:10:30.61,Default,,0,0,0,,Out
+Dialogue: 0,00:10:43.89,00:10:46.37,Default,,0,0,0,,Still no trace of Dr. Tie
+Dialogue: 0,00:10:46.81,00:10:47.89,Default,,0,0,0,,Me too
+Dialogue: 0,00:10:49.41,00:10:51.81,Default,,0,0,0,,How to do it? There is not much time left
+Dialogue: 0,00:10:52.13,00:10:54.83,Default,,0,0,0,,Doctor Tie may start the machine at any time
+Dialogue: 0,00:10:54.85,00:10:58.97,Default,,0,0,0,,There must be something we didn’t notice
+Dialogue: 0,00:10:59.65,00:11:00.91,Default,,0,0,0,,Doctor’s instrument
+Dialogue: 0,00:11:00.93,00:11:03.45,Default,,0,0,0,,To use these transmitters to radiate the surrounding
+Dialogue: 0,00:11:04.33,00:11:07.49,Default,,0,0,0,,You have to go to the highest place to start the machine
+Dialogue: 0,00:11:09.21,00:11:12.57,Default,,0,0,0,,But we have looked for all the high floors
+Dialogue: 0,00:11:14.17,00:11:17.25,Default,,0,0,0,,Oops It’s too difficult
+Dialogue: 0,00:11:22.65,00:11:25.33,Default,,0,0,0,,He can’t shoot at our base
+Dialogue: 0,00:11:27.33,00:11:28.81,Default,,0,0,0,,Goat Village Base
+Dialogue: 0,00:11:30.69,00:11:33.45,Default,,0,0,0,,Hello, Slowy
+Dialogue: 0,00:11:34.53,00:11:38.49,Default,,0,0,0,,Hum What is the ability to bully an elderly woman?
+Dialogue: 0,00:11:39.69,00:11:43.85,Default,,0,0,0,,Don’t be excited, I just borrowed local private matters
+Dialogue: 0,00:11:44.21,00:11:45.13,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:11:48.69,00:11:52.37,Default,,0,0,0,,I plan to use your base as the startup center
+Dialogue: 0,00:11:53.17,00:11:55.43,Default,,0,0,0,,Isn’t it a blessing
+Dialogue: 0,00:11:55.45,00:11:59.81,Default,,0,0,0,,You...you don’t want to move my base
+Dialogue: 0,00:12:08.85,00:12:11.77,Default,,0,0,0,,Village Chief Village Chief Quickly connect to the phone
+Dialogue: 0,00:12:15.33,00:12:17.85,Default,,0,0,0,,Oh, he’s still alive
+Dialogue: 0,00:12:19.81,00:12:20.45,Default,,0,0,0,,village…
+Dialogue: 0,00:12:21.37,00:12:22.29,Default,,0,0,0,,This is...
+Dialogue: 0,00:12:23.41,00:12:25.22,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:12:25.25,00:12:26.43,Default,,0,0,0,,Congratulations
+Dialogue: 0,00:12:26.45,00:12:29.45,Default,,0,0,0,,I’m lucky to witness the great miracle I created
+Dialogue: 0,00:12:30.49,00:12:33.65,Default,,0,0,0,,Dr. Tie...

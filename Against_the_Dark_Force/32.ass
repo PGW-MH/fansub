@@ -1,0 +1,181 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.11,00:00:19.64,Default,,0,0,0,,Lord Jonie told you to organize this
+Dialogue: 0,00:00:27.32,00:00:28.40,Default,,0,0,0,,Very clean
+Dialogue: 0,00:00:28.56,00:00:30.32,Default,,0,0,0,,The Jonie is so good to us
+Dialogue: 0,00:00:39.84,00:00:42.44,Default,,0,0,0,,You have to sort out all these
+Dialogue: 0,00:00:44.72,00:00:47.00,Default,,0,0,0,,Alas, please go to the casino
+Dialogue: 0,00:00:47.24,00:00:49.52,Default,,0,0,0,,It’s just not difficult to clean up these
+Dialogue: 0,00:00:50.40,00:00:51.52,Default,,0,0,0,,In addition to these
+Dialogue: 0,00:00:51.64,00:00:53.76,Default,,0,0,0,,You also need to wash dishes and make meals
+Dialogue: 0,00:00:54.36,00:00:57.72,Default,,0,0,0,,Shredding floor, washroom and flower
+Dialogue: 0,00:00:58.12,00:01:01.44,Default,,0,0,0,,Change water to fish tank, wash clothes, bed single…
+Dialogue: 0,00:01:01.72,00:01:04.32,Default,,0,0,0,,Ahem...you can get these done first
+Dialogue: 0,00:01:04.68,00:01:07.16,Default,,0,0,0,,Others will be told to you later
+Dialogue: 0,00:01:09.76,00:01:11.76,Default,,0,0,0,,Who proposed the competition!
+Dialogue: 0,00:01:12.64,00:01:13.48,Default,,0,0,0,,you
+Dialogue: 0,00:01:14.20,00:01:16.44,Default,,0,0,0,,Who answered the competition conditions?
+Dialogue: 0,00:01:16.92,00:01:17.76,Default,,0,0,0,,you
+Dialogue: 0,00:01:18.44,00:01:22.24,Default,,0,0,0,,Sorry, I wouldn’t make this appointment if I had known it
+Dialogue: 0,00:01:22.44,00:01:25.36,Default,,0,0,0,,It’s okay. You’re also anxious for everyone
+Dialogue: 0,00:01:40.88,00:01:41.95,Default,,0,0,0,,sorry
+Dialogue: 0,00:01:42.44,00:01:43.52,Default,,0,0,0,,I’ll help you
+Dialogue: 0,00:01:51.56,00:01:54.72,Default,,0,0,0,,You said that in the past, the Jonie always helped us
+Dialogue: 0,00:01:55.28,00:01:57.52,Default,,0,0,0,,Now we help her in front of her
+Dialogue: 0,00:01:57.96,00:02:00.24,Default,,0,0,0,,Is it possible that she remembers us?
+Dialogue: 0,00:02:01.16,00:02:03.64,Default,,0,0,0,,Anyway, you have to have sex, so why not try it
+Dialogue: 0,00:02:05.28,00:02:06.60,Default,,0,0,0,,What do you want me to see
+Dialogue: 0,00:02:07.40,00:02:08.61,Default,,0,0,0,,You see, Jonie
+Dialogue: 0,00:02:08.64,00:02:10.44,Default,,0,0,0,,You helped me wash the quilt before
+Dialogue: 0,00:02:10.60,00:02:12.16,Default,,0,0,0,,Now I’ll help you
+Dialogue: 0,00:02:15.48,00:02:17.96,Default,,0,0,0,,Sorry, I forgot to wash my feet first
+Dialogue: 0,00:02:19.04,00:02:19.91,Default,,0,0,0,,Jonie
+Dialogue: 0,00:02:20.08,00:02:22.72,Default,,0,0,0,,Do you remember the scene of our sanitation in the past?
+Dialogue: 0,00:02:23.36,00:02:24.63,Default,,0,0,0,,Hey! Huh!
+Dialogue: 0,00:02:24.91,00:02:27.44,Default,,0,0,0,,Every time I practice like this...
+Dialogue: 0,00:02:33.80,00:02:35.72,Default,,0,0,0,,Ah I’m sorry
+Dialogue: 0,00:02:35.88,00:02:37.44,Default,,0,0,0,,By the way, I have
+Dialogue: 0,00:02:45.04,00:02:47.91,Default,,0,0,0,,Jonie I’ll give you a baked fish and dried
+Dialogue: 0,00:02:47.96,00:02:50.16,Default,,0,0,0,,You used to cook it for us
+Dialogue: 0,00:02:52.32,00:02:53.65,Default,,0,0,0,,It’s a bit boring
+Dialogue: 0,00:02:53.68,00:02:56.28,Default,,0,0,0,,You guys are going to sleep
+Dialogue: 0,00:02:57.44,00:02:58.56,Default,,0,0,0,,This method doesn’t work
+Dialogue: 0,00:02:58.76,00:03:01.84,Default,,0,0,0,,Or we take this opportunity to look for the floating beads
+Dialogue: 0,00:03:03.04,00:03:04.24,Default,,0,0,0,,Floating beads?
+Dialogue: 0,00:03:05.16,00:03:06.85,Default,,0,0,0,,When the first man, the Jonie
+Dialogue: 0,00:03:06.88,00:03:09.52,Default,,0,0,0,,It’s just to send everyone down with floating beads
+Dialogue: 0,00:03:10.44,00:03:13.44,Default,,0,0,0,,Yes, you can take us up if you find it
+Dialogue: 0,00:03:14.16,00:03:14.91,Default,,0,0,0,,Um
+Dialogue: 0,00:03:35.88,00:03:37.36,Default,,0,0,0,,Not found
+Dialogue: 0,00:03:40.48,00:03:41.52,Default,,0,0,0,,That’s all there left
+Dialogue: 0,00:03:46.56,00:03:47.68,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:03:48.48,00:03:51.48,Default,,0,0,0,,We went in and swept the room of Jonie
+Dialogue: 0,00:03:51.84,00:03:54.44,Default,,0,0,0,,No, Lord Jonie is sleeping
+Dialogue: 0,00:03:54.80,00:03:56.60,Default,,0,0,0,,Just keep slapping outside
+Dialogue: 0,00:03:56.92,00:03:59.76,Default,,0,0,0,,But we’ve finished slapping outside
+Dialogue: 0,00:04:04.92,00:04:06.64,Default,,0,0,0,,Is this called sweeping clean?
+Dialogue: 0,00:04:10.00,00:04:11.72,Default,,0,0,0,,The hall is guaranteed to be clean
+Dialogue: 0,00:04:12.00,00:04:13.24,Default,,0,0,0,,No hair
+Dialogue: 0,00:04:13.28,00:04:14.92,Default,,0,0,0,,If you don’t believe it, go and see
+Dialogue: 0,00:04:15.56,00:04:16.32,Default,,0,0,0,,I don’t believe it
+Dialogue: 0,00:04:17.16,00:04:20.04,Default,,0,0,0,,If you can find a hair, I will give you a bench
+Dialogue: 0,00:04:20.32,00:04:22.21,Default,,0,0,0,,- Yes, I can find a hair
+- Yes, I can find a hair
+Dialogue: 0,00:04:22.24,00:04:24.16,Default,,0,0,0,,- We will also give you a seat on a stool.
+- We will also give you a seat on a stool.
+Dialogue: 0,00:04:24.76,00:04:25.48,Default,,0,0,0,,Go and go
+Dialogue: 0,00:05:05.12,00:05:06.92,Default,,0,0,0,,Don’t let go of any corner
+Dialogue: 0,00:05:07.64,00:05:08.20,Default,,0,0,0,,good
+Dialogue: 0,00:05:13.36,00:05:15.48,Default,,0,0,0,,Why are they all the same bags?
+Dialogue: 0,00:05:18.24,00:05:19.20,Default,,0,0,0,,Here too...
+Dialogue: 0,00:05:23.48,00:05:24.64,Default,,0,0,0,,Here too...
+Dialogue: 0,00:05:25.40,00:05:28.04,Default,,0,0,0,,How much does Jonie like bags?
+Dialogue: 0,00:05:28.52,00:05:29.56,Default,,0,0,0,,Have found it!
+Dialogue: 0,00:05:30.72,00:05:31.92,Default,,0,0,0,,Any discoveries?
+Dialogue: 0,00:05:33.56,00:05:36.36,Default,,0,0,0,,I found the snacks hidden under the bed by Jonie.
+Dialogue: 0,00:05:50.83,00:05:52.56,Default,,0,0,0,,I searched the entire room
+Dialogue: 0,00:05:52.64,00:05:53.72,Default,,0,0,0,,Still no
+Dialogue: 0,00:05:54.00,00:05:55.36,Default,,0,0,0,,Haven’t found a place yet...
+Dialogue: 0,00:05:57.52,00:05:58.36,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:06:07.92,00:06:09.27,Default,,0,0,0,,Golden Bag…
+Dialogue: 0,00:06:12.92,00:06:13.88,Default,,0,0,0,,Retreat first
+Dialogue: 0,00:06:30.92,00:06:32.04,Default,,0,0,0,,Don’t quit
+Dialogue: 0,00:06:35.32,00:06:37.29,Default,,0,0,0,,I...I just came in and swiped
+Dialogue: 0,00:06:37.32,00:06:38.96,Default,,0,0,0,,Then I saw that your quilt fell off...
+Dialogue: 0,00:06:40.04,00:06:41.12,Default,,0,0,0,,What to do!
+Dialogue: 0,00:06:43.48,00:06:45.76,Default,,0,0,0,,You dare to quarrel with Lord Jonie to sleep
+Dialogue: 0,00:06:46.64,00:06:47.92,Default,,0,0,0,,You’re very noisy now, too
+Dialogue: 0,00:06:48.04,00:06:49.60,Default,,0,0,0,,Are you not afraid of waking up the Jonie?
+Dialogue: 0,00:06:50.12,00:06:51.04,Default,,0,0,0,,You have to care!
+Dialogue: 0,00:06:51.80,00:06:53.64,Default,,0,0,0,,Anyway, Lord Jonie is very upset
+Dialogue: 0,00:06:53.80,00:06:54.80,Default,,0,0,0,,Don’t want to see you
+Dialogue: 0,00:06:55.08,00:06:56.83,Default,,0,0,0,,You go to the kitchen to have sex
+Dialogue: 0,00:07:02.24,00:07:04.33,Default,,0,0,0,,I’ve found all the room of Jonie
+Dialogue: 0,00:07:04.36,00:07:05.88,Default,,0,0,0,,There is nothing wrong with it
+Dialogue: 0,00:07:06.72,00:07:09.68,Default,,0,0,0,,That’s right, is it hard to do with her?
+Dialogue: 0,00:07:10.24,00:07:12.56,Default,,0,0,0,,It’s really harder to get what’s on her
+Dialogue: 0,00:07:13.20,00:07:14.72,Default,,0,0,0,,I think of another place
+Dialogue: 0,00:07:15.36,00:07:16.27,Default,,0,0,0,,Where?
+Dialogue: 0,00:07:17.08,00:07:18.96,Default,,0,0,0,,I think it should be...
+Dialogue: 0,00:07:20.88,00:07:22.32,Default,,0,0,0,,Jonie’s baby
+Dialogue: 0,00:07:22.48,00:07:23.44,Default,,0,0,0,,what…
+Dialogue: 0,00:07:24.32,00:07:25.56,Default,,0,0,0,,It’s very likely
+Dialogue: 0,00:07:26.04,00:07:28.04,Default,,0,0,0,,You are so smart
+Dialogue: 0,00:07:29.96,00:07:31.89,Default,,0,0,0,,But the Jonie is so easy to wake up
+Dialogue: 0,00:07:31.92,00:07:33.20,Default,,0,0,0,,How do we get it
+Dialogue: 0,00:07:34.36,00:07:37.13,Default,,0,0,0,,Then we will wait until Jonie is not in the room
+Dialogue: 0,00:07:37.16,00:07:37.92,Default,,0,0,0,,Go in and get it
+Dialogue: 0,00:07:38.84,00:07:40.20,Default,,0,0,0,,Who would have gone better
+Dialogue: 0,00:07:40.60,00:07:42.88,Default,,0,0,0,,And he doesn’t show up in front of Jonie
+Dialogue: 0,00:07:43.08,00:07:44.65,Default,,0,0,0,,It will not cause suspicion
+Dialogue: 0,00:07:44.68,00:07:46.28,Default,,0,0,0,,Yes, who?
+Dialogue: 0,00:07:49.28,00:07:51.64,Default,,0,0,0,,whee…
+Dialogue: 0,00:07:58.92,00:08:01.36,Default,,0,0,0,,This big brother, dinner is ready
+Dialogue: 0,00:08:01.96,00:08:04.52,Default,,0,0,0,,May I feel sorry, please come out for a meal
+Dialogue: 0,00:08:05.32,00:08:06.81,Default,,0,0,0,,We’ve prepared for you too
+Dialogue: 0,00:08:06.84,00:08:08.56,Default,,0,0,0,,Delicious little fish cubes
+Dialogue: 0,00:08:14.96,00:08:16.68,Default,,0,0,0,,Where have you gone?
+Dialogue: 0,00:08:17.56,00:08:19.40,Default,,0,0,0,,The boy woke up the adults and went to bed
+Dialogue: 0,00:08:19.56,00:08:21.64,Default,,0,0,0,,I’ve already put him in the kitchen to wash dishes
+Dialogue: 0,00:08:21.96,00:08:23.20,Default,,0,0,0,,Oh, that’s it
+Dialogue: 0,00:08:23.64,00:08:26.64,Default,,0,0,0,,Jonie This is the seaweed cake I made
+Dialogue: 0,00:08:27.60,00:08:28.56,Default,,0,0,0,,Jonie
+Dialogue: 0,00:08:28.76,00:08:31.16,Default,,0,0,0,,Look, this is my re-baked fish baking
+Dialogue: 0,00:08:31.52,00:08:32.92,Default,,0,0,0,,Was it very successful?
+Dialogue: 0,00:08:34.76,00:08:36.80,Default,,0,0,0,,Jonie eat this
+Dialogue: 0,00:08:38.32,00:08:39.45,Default,,0,0,0,,Eat this Eat this... Jonie
+Dialogue: 0,00:08:39.48,00:08:42.32,Default,,0,0,0,,- Jonie Eat this...
+- Jonie Eat this...
+Dialogue: 0,00:08:46.55,00:08:47.96,Default,,0,0,0,,And this...
+Dialogue: 0,00:08:57.28,00:08:58.64,Default,,0,0,0,,Very cool
+Dialogue: 0,00:08:59.40,00:08:59.92,Default,,0,0,0,,Sweet?
+Dialogue: 0,00:09:00.52,00:09:02.28,Default,,0,0,0,,Press and press and stop silence
+Dialogue: 0,00:09:04.92,00:09:07.09,Default,,0,0,0,,I was just clamored by you so much that I couldn’t sleep well
+Dialogue: 0,00:09:07.12,00:09:08.84,Default,,0,0,0,,I’m going to replenish
+Dialogue: 0,00:09:11.64,00:09:12.64,Default,,0,0,0,,That’s this...
+Dialogue: 0,00:09:14.67,00:09:16.72,Default,,0,0,0,,Don’t leave, eat some more
+Dialogue: 0,00:09:16.96,00:09:18.84,Default,,0,0,0,,There are also many delicious...
+Dialogue: 0,00:09:21.32,00:09:22.96,Default,,0,0,0,,Something must be here
+Dialogue: 0,00:09:28.12,00:09:30.36,Default,,0,0,0,,What to do? The goat is still inside
+Dialogue: 0,00:09:31.04,00:09:32.64,Default,,0,0,0,,Do we want to go in and save the goat?
+Dialogue: 0,00:09:34.55,00:09:36.36,Default,,0,0,0,,Now going in will expose your purpose
+Dialogue: 0,00:09:37.08,00:09:38.44,Default,,0,0,0,,We must believe in the goat
+Dialogue: 0,00:09:51.76,00:09:53.84,Default,,0,0,0,,Why is Jonie coming back so soon?
+Dialogue: 0,00:10:04.67,00:10:06.12,Default,,0,0,0,,Where have you gone
+Dialogue: 0,00:10:08.76,00:10:11.08,Default,,0,0,0,,It’s over... I won’t be discovered
+Dialogue: 0,00:10:19.80,00:10:20.72,Default,,0,0,0,,Found
+Dialogue: 0,00:10:22.16,00:10:22.96,Default,,0,0,0,,Good
+Dialogue: 0,00:10:45.24,00:10:48.12,Default,,0,0,0,,That’s great. I didn’t expect Nuanyang to cooperate like this
+Dialogue: 0,00:10:58.64,00:11:01.55,Default,,0,0,0,,Did Jonie treat me as her doll?
+Dialogue: 0,00:11:11.24,00:11:13.20,Default,,0,0,0,,The goat in the goat has been there for so long
+Dialogue: 0,00:11:13.52,00:11:14.84,Default,,0,0,0,,Will something happen?
+Dialogue: 0,00:11:24.88,00:11:26.04,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:29.40,00:11:30.76,Default,,0,0,0,,Too shocked
+Dialogue: 0,00:11:31.44,00:11:33.20,Default,,0,0,0,,You are so awesome
+Dialogue: 0,00:11:34.32,00:11:35.36,Default,,0,0,0,,Nothing
+Dialogue: 0,00:11:35.55,00:11:37.76,Default,,0,0,0,,Check out if there are any floating beads inside
+Dialogue: 0,00:11:38.04,00:11:39.36,Default,,0,0,0,,I’ll have to put it back soon
+Dialogue: 0,00:11:39.84,00:11:41.48,Default,,0,0,0,,Can’t let the Jonie discover
+Dialogue: 0,00:11:42.12,00:11:42.48,Default,,0,0,0,,right
+Dialogue: 0,00:11:54.84,00:11:56.32,Default,,0,0,0,,This...this is...
+Dialogue: 0,00:12:01.84,00:12:03.92,Default,,0,0,0,,I slept so hard last night
+Dialogue: 0,00:12:09.24,00:12:10.97,Default,,0,0,0,,Jonie You’re awake
+Dialogue: 0,00:12:11.00,00:12:13.92,Default,,0,0,0,,Come and have breakfast, all of them are ready for you
+Dialogue: 0,00:12:14.55,00:12:17.00,Default,,0,0,0,,Yes, I feel very self-righteous
+Dialogue: 0,00:12:24.00,00:12:25.44,Default,,0,0,0,,ah? Empty?
+Dialogue: 0,00:12:27.16,00:12:28.16,Default,,0,0,0,,well…
+Dialogue: 0,00:12:31.96,00:12:34.48,Default,,0,0,0,,Where did she hide the floating beads?

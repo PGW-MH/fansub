@@ -1,0 +1,175 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.64,00:00:25.84,Default,,0,0,0,,Going here?
+Dialogue: 0,00:00:27.04,00:00:28.80,Default,,0,0,0,,I’ll find yours
+Dialogue: 0,00:00:31.44,00:00:33.89,Default,,0,0,0,,Wow
+Dialogue: 0,00:00:33.92,00:00:36.40,Default,,0,0,0,,Tibbie Please don’t cry
+Dialogue: 0,00:00:36.64,00:00:39.44,Default,,0,0,0,,Whenever Weslie heard it, it found us
+Dialogue: 0,00:00:41.15,00:00:41.80,Default,,0,0,0,,Weslie?
+Dialogue: 0,00:00:42.68,00:00:45.64,Default,,0,0,0,,I don’t want Weslie to see me like this
+Dialogue: 0,00:00:45.84,00:00:48.09,Default,,0,0,0,,Snowmen also have the benefits of snowmen
+Dialogue: 0,00:00:48.12,00:00:51.08,Default,,0,0,0,,I won’t have to worry about not eating shaved ice in the future
+Dialogue: 0,00:00:52.68,00:00:53.28,Default,,0,0,0,,Shaved ice?
+Dialogue: 0,00:00:56.36,00:00:59.29,Default,,0,0,0,,Tibbie, let me take a bite
+Dialogue: 0,00:00:59.32,00:01:03.60,Default,,0,0,0,,Oh, don’t eat me
+Dialogue: 0,00:01:03.68,00:01:05.32,Default,,0,0,0,,Just a spoonful
+Dialogue: 0,00:01:07.20,00:01:10.72,Default,,0,0,0,,Wow, I don’t want to turn into shaved ice
+Dialogue: 0,00:01:11.08,00:01:12.92,Default,,0,0,0,,We have to fan the ice back
+Dialogue: 0,00:01:13.12,00:01:14.52,Default,,0,0,0,,Let everyone recover
+Dialogue: 0,00:01:15.52,00:01:17.76,Default,,0,0,0,,Then we are going to find Weslie?
+Dialogue: 0,00:01:18.36,00:01:19.97,Default,,0,0,0,,Even if we don’t look for him
+Dialogue: 0,00:01:20.00,00:01:21.64,Default,,0,0,0,,He will come back to find us, too
+Dialogue: 0,00:01:22.08,00:01:23.16,Default,,0,0,0,,Weslie is here
+Dialogue: 0,00:01:23.76,00:01:24.76,Default,,0,0,0,,what!
+Dialogue: 0,00:01:25.31,00:01:26.95,Default,,0,0,0,,What should I do if I finish it?
+Dialogue: 0,00:01:33.72,00:01:34.84,Default,,0,0,0,,I’ll ask you again
+Dialogue: 0,00:01:37.04,00:01:39.36,Default,,0,0,0,,Where did the Yanyang and the others hide?
+Dialogue: 0,00:01:40.16,00:01:42.12,Default,,0,0,0,,We don’t know
+Dialogue: 0,00:01:43.84,00:01:46.20,Default,,0,0,0,,Then this little cat will suffer
+Dialogue: 0,00:01:46.92,00:01:47.52,Default,,0,0,0,,stop!
+Dialogue: 0,00:01:53.52,00:01:55.04,Default,,0,0,0,,Finally came out
+Dialogue: 0,00:01:59.48,00:02:00.96,Default,,0,0,0,,All turned into snowmen
+Dialogue: 0,00:02:02.12,00:02:02.92,Default,,0,0,0,,Ice fan?
+Dialogue: 0,00:02:12.48,00:02:14.84,Default,,0,0,0,,ah? fan?
+Dialogue: 0,00:02:19.56,00:02:20.12,Default,,0,0,0,,Blessing
+Dialogue: 0,00:02:21.08,00:02:21.40,Default,,0,0,0,,snort!
+Dialogue: 0,00:02:30.36,00:02:31.44,Default,,0,0,0,,Overestimate one’s ability!
+Dialogue: 0,00:02:45.60,00:02:47.52,Default,,0,0,0,,snort! interesting
+Dialogue: 0,00:03:12.76,00:03:13.36,Default,,0,0,0,,not good!
+Dialogue: 0,00:03:32.24,00:03:33.76,Default,,0,0,0,,It seems that I won
+Dialogue: 0,00:03:34.44,00:03:36.77,Default,,0,0,0,,Don’t be proud, even if we become snowmen
+Dialogue: 0,00:03:36.80,00:03:38.68,Default,,0,0,0,,Will bring the ice fan back
+Dialogue: 0,00:03:39.76,00:03:40.84,Default,,0,0,0,,oh? Yes?
+Dialogue: 0,00:03:46.36,00:03:48.20,Default,,0,0,0,,If you want it, just go and pick it up
+Dialogue: 0,00:03:54.92,00:03:56.80,Default,,0,0,0,,All turned into snowmen?
+Dialogue: 0,00:03:57.56,00:03:58.64,Default,,0,0,0,,Yes Queen
+Dialogue: 0,00:03:58.96,00:04:01.64,Default,,0,0,0,,As long as they leave the ice town, they will melt
+Dialogue: 0,00:04:02.28,00:04:04.32,Default,,0,0,0,,Humph, good doing
+Dialogue: 0,00:04:05.24,00:04:08.04,Default,,0,0,0,,Yes, the ice fan cannot be taken away by them
+Dialogue: 0,00:04:08.44,00:04:11.88,Default,,0,0,0,,The queen is relieved. I threw the ice fan into the ice lake.
+Dialogue: 0,00:04:12.64,00:04:13.52,Default,,0,0,0,,Throwed it?
+Dialogue: 0,00:04:13.84,00:04:14.92,Default,,0,0,0,,Don’t be careless
+Dialogue: 0,00:04:15.04,00:04:17.16,Default,,0,0,0,,What should they do when they get it?
+Dialogue: 0,00:04:18.56,00:04:20.73,Default,,0,0,0,,No, even if they are cunning
+Dialogue: 0,00:04:20.76,00:04:23.00,Default,,0,0,0,,It is impossible to get a fan from the Bing Lake
+Dialogue: 0,00:04:23.92,00:04:26.04,Default,,0,0,0,,You should go back and watch them carefully
+Dialogue: 0,00:04:26.32,00:04:28.52,Default,,0,0,0,,Don’t have any more accidents
+Dialogue: 0,00:04:29.60,00:04:30.92,Default,,0,0,0,,Yes His Highness
+Dialogue: 0,00:04:37.04,00:04:39.24,Default,,0,0,0,,How can I get the ice fan?
+Dialogue: 0,00:04:42.72,00:04:44.08,Default,,0,0,0,,Let me go down and try
+Dialogue: 0,00:04:44.32,00:04:46.40,Default,,0,0,0,,Anyway, I’m a snowman, it should be fine
+Dialogue: 0,00:04:48.52,00:04:49.68,Default,,0,0,0,,Pay attention to safety
+Dialogue: 0,00:05:00.04,00:05:01.68,Default,,0,0,0,,It seems that it won’t work
+Dialogue: 0,00:05:03.24,00:05:06.04,Default,,0,0,0,,Is it hard to get the ice fan?
+Dialogue: 0,00:05:07.16,00:05:07.68,Default,,0,0,0,,Ha chi!
+Dialogue: 0,00:05:16.40,00:05:17.52,Default,,0,0,0,,Very cold
+Dialogue: 0,00:05:18.00,00:05:19.16,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:05:19.92,00:05:22.16,Default,,0,0,0,,Haven’t you been hit?
+Dialogue: 0,00:05:22.96,00:05:24.48,Default,,0,0,0,,ha? ah
+Dialogue: 0,00:05:38.88,00:05:40.20,Default,,0,0,0,,That’s how things are
+Dialogue: 0,00:05:42.72,00:05:44.88,Default,,0,0,0,,Great, we still have the chance
+Dialogue: 0,00:05:45.96,00:05:46.92,Default,,0,0,0,,What opportunity
+Dialogue: 0,00:05:47.72,00:05:51.00,Default,,0,0,0,,Come here, I have a plan
+Dialogue: 0,00:05:53.52,00:05:55.24,Default,,0,0,0,,what? Is this feasible?
+Dialogue: 0,00:05:55.76,00:05:57.61,Default,,0,0,0,,Now everyone has become a snowman
+Dialogue: 0,00:05:57.64,00:05:59.52,Default,,0,0,0,,Only you can do this
+Dialogue: 0,00:06:01.12,00:06:02.24,Default,,0,0,0,,Can I really
+Dialogue: 0,00:06:03.04,00:06:07.04,Default,,0,0,0,,You can do it, we all believe in you
+Dialogue: 0,00:06:08.12,00:06:09.04,Default,,0,0,0,,Everyone
+Dialogue: 0,00:06:11.04,00:06:13.00,Default,,0,0,0,,OK, I’ll go and try
+Dialogue: 0,00:06:17.04,00:06:19.44,Default,,0,0,0,,The Queen is so attentive
+Dialogue: 0,00:06:19.76,00:06:22.36,Default,,0,0,0,,In this case, they can’t leave here at all
+Dialogue: 0,00:06:23.12,00:06:25.64,Default,,0,0,0,,Weslie has come. Practical plan
+Dialogue: 0,00:06:29.60,00:06:30.64,Default,,0,0,0,,Weslie
+Dialogue: 0,00:06:35.12,00:06:37.44,Default,,0,0,0,,It’s just right I’m bored
+Dialogue: 0,00:06:37.83,00:06:39.53,Default,,0,0,0,,Give it to me!
+Dialogue: 0,00:06:39.56,00:06:46.27,Default,,0,0,0,,ah
+Dialogue: 0,00:06:48.80,00:06:51.92,Default,,0,0,0,,Please help us get the ice fan back
+Dialogue: 0,00:06:53.40,00:06:55.88,Default,,0,0,0,,Don’t hang on me, I won’t help you
+Dialogue: 0,00:07:01.68,00:07:03.72,Default,,0,0,0,,It seems he doesn’t eat this one
+Dialogue: 0,00:07:06.44,00:07:07.12,Default,,0,0,0,,Weslie
+Dialogue: 0,00:07:09.08,00:07:10.00,Default,,0,0,0,,It’s you again
+Dialogue: 0,00:07:14.76,00:07:16.96,Default,,0,0,0,,- Let us give you a massage
+- Let’s give you a massage
+Dialogue: 0,00:07:20.56,00:07:21.49,Default,,0,0,0,,Weslie
+Dialogue: 0,00:07:21.52,00:07:24.12,Default,,0,0,0,,Can you help us fan the ice...
+Dialogue: 0,00:07:24.84,00:07:25.92,Default,,0,0,0,,Don’t want to scold me
+Dialogue: 0,00:07:26.32,00:07:28.16,Default,,0,0,0,,I won’t give you ice fan
+Dialogue: 0,00:07:36.12,00:07:36.92,Default,,0,0,0,,Weslie
+Dialogue: 0,00:07:40.32,00:07:42.92,Default,,0,0,0,,Are you tired after repeated
+Dialogue: 0,00:07:44.44,00:07:46.12,Default,,0,0,0,,Want to eat something or not
+Dialogue: 0,00:07:47.36,00:07:48.24,Default,,0,0,0,,think
+Dialogue: 0,00:07:48.56,00:07:49.84,Default,,0,0,0,,No, you don’t want to
+Dialogue: 0,00:07:56.04,00:07:57.28,Default,,0,0,0,,What about the goat
+Dialogue: 0,00:07:57.96,00:07:59.08,Default,,0,0,0,,not good!
+Dialogue: 0,00:08:03.32,00:08:05.44,Default,,0,0,0,,Why are you still sleeping?
+Dialogue: 0,00:08:06.04,00:08:06.80,Default,,0,0,0,,sleep?
+Dialogue: 0,00:08:08.16,00:08:10.44,Default,,0,0,0,,Do you want to have a bite of it?
+Dialogue: 0,00:08:11.68,00:08:13.16,Default,,0,0,0,,No reaction?
+Dialogue: 0,00:08:19.64,00:08:20.56,Default,,0,0,0,,Fake?
+Dialogue: 0,00:08:23.92,00:08:25.72,Default,,0,0,0,,What are you playing?
+Dialogue: 0,00:08:28.16,00:08:31.68,Default,,0,0,0,,I’ll tell you
+Dialogue: 0,00:08:32.36,00:08:34.76,Default,,0,0,0,,The silly goat has already gone to Binghu
+Dialogue: 0,00:08:38.72,00:08:39.44,Default,,0,0,0,,Ice Lake?
+Dialogue: 0,00:08:43.24,00:08:44.32,Default,,0,0,0,,I’m ready
+Dialogue: 0,00:08:45.00,00:08:47.76,Default,,0,0,0,,You must be careful after you go into the water
+Dialogue: 0,00:08:48.16,00:08:49.52,Default,,0,0,0,,OK No problem
+Dialogue: 0,00:08:51.20,00:08:54.00,Default,,0,0,0,,I have decorated the spring water of the warm spring into the cloud layer
+Dialogue: 0,00:08:54.80,00:08:56.88,Default,,0,0,0,,Wear the diving suit on your body again
+Dialogue: 0,00:08:58.48,00:09:00.52,Default,,0,0,0,,This will protect me from being frozen
+Dialogue: 0,00:09:02.24,00:09:03.32,Default,,0,0,0,,I’ve come out
+Dialogue: 0,00:09:08.44,00:09:10.80,Default,,0,0,0,,You must come back safely
+Dialogue: 0,00:09:17.44,00:09:19.12,Default,,0,0,0,,Where is the ice fan
+Dialogue: 0,00:09:23.76,00:09:26.04,Default,,0,0,0,,It seems you’ve prepared a ridiculous plan
+Dialogue: 0,00:09:27.24,00:09:28.52,Default,,0,0,0,,Just take Paddi
+Dialogue: 0,00:09:32.00,00:09:33.20,Default,,0,0,0,,Can he save you?
+Dialogue: 0,00:09:36.24,00:09:39.80,Default,,0,0,0,,We believe him
+Dialogue: 0,00:09:41.88,00:09:43.28,Default,,0,0,0,,Where are you confident
+Dialogue: 0,00:09:44.55,00:09:46.93,Default,,0,0,0,,He must be saying now... so tired
+Dialogue: 0,00:09:46.96,00:09:48.28,Default,,0,0,0,,I’m so hungry
+Dialogue: 0,00:09:48.92,00:09:50.33,Default,,0,0,0,,I’m so cold
+Dialogue: 0,00:09:50.36,00:09:53.44,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:09:53.84,00:09:57.05,Default,,0,0,0,,And you may also say the hope of your entire village
+Dialogue: 0,00:09:57.08,00:10:00.52,Default,,0,0,0,,It has now become ice in the ice lake!
+Dialogue: 0,00:10:03.84,00:10:05.16,Default,,0,0,0,,Why did it suddenly get cold?
+Dialogue: 0,00:10:07.32,00:10:09.24,Default,,0,0,0,,ah? Ice Fan!
+Dialogue: 0,00:10:14.52,00:10:15.32,Default,,0,0,0,,So cold
+Dialogue: 0,00:10:17.84,00:10:19.28,Default,,0,0,0,,Why is the diving suit leaking?
+Dialogue: 0,00:10:22.12,00:10:23.44,Default,,0,0,0,,Being broken
+Dialogue: 0,00:10:24.72,00:10:26.13,Default,,0,0,0,,I’ll get ice
+Dialogue: 0,00:10:26.16,00:10:27.64,Default,,0,0,0,,How to do it
+Dialogue: 0,00:10:36.36,00:10:38.72,Default,,0,0,0,,So you should listen obediently
+Dialogue: 0,00:10:38.96,00:10:41.20,Default,,0,0,0,,Be here obediently
+Dialogue: 0,00:10:42.32,00:10:43.96,Default,,0,0,0,,No one can save you
+Dialogue: 0,00:10:46.12,00:10:47.44,Default,,0,0,0,,Paddi
+Dialogue: 0,00:10:56.64,00:10:57.44,Default,,0,0,0,,Don’t act
+Dialogue: 0,00:11:00.20,00:11:01.28,Default,,0,0,0,,How is it possible?
+Dialogue: 0,00:11:02.16,00:11:03.36,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:04.55,00:11:06.08,Default,,0,0,0,,You actually did it?
+Dialogue: 0,00:11:12.44,00:11:14.36,Default,,0,0,0,,I can’t leave you alone
+Dialogue: 0,00:11:21.84,00:11:22.84,Default,,0,0,0,,It’s a goat
+Dialogue: 0,00:11:28.64,00:11:31.24,Default,,0,0,0,,You are so great
+Dialogue: 0,00:11:32.20,00:11:34.24,Default,,0,0,0,,It seems that I really underestimate you
+Dialogue: 0,00:11:41.84,00:11:43.67,Default,,0,0,0,,Give me the ice fan
+Dialogue: 0,00:11:59.64,00:12:00.12,Default,,0,0,0,,ah
+Dialogue: 0,00:12:02.76,00:12:04.76,Default,,0,0,0,,Fan the ice quickly!
+Dialogue: 0,00:12:07.96,00:12:10.52,Default,,0,0,0,,Not good, goat are in danger
+Dialogue: 0,00:12:11.72,00:12:12.64,Default,,0,0,0,,No matter what!
+Dialogue: 0,00:12:13.24,00:12:14.52,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:12:15.44,00:12:17.04,Default,,0,0,0,,I can’t stand Weslie
+Dialogue: 0,00:12:23.80,00:12:24.84,Default,,0,0,0,,ah
+Dialogue: 0,00:12:27.00,00:12:27.76,Default,,0,0,0,,Weslie

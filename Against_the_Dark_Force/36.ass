@@ -1,0 +1,179 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:26.36,00:00:29.52,Default,,0,0,0,,Queen Those lambs are so unreliable
+Dialogue: 0,00:00:29.92,00:00:31.92,Default,,0,0,0,,One actually betrays you
+Dialogue: 0,00:00:33.32,00:00:34.84,Default,,0,0,0,,That’s true
+Dialogue: 0,00:00:35.20,00:00:38.48,Default,,0,0,0,,You had a good relationship before
+Dialogue: 0,00:00:40.44,00:00:41.77,Default,,0,0,0,,I’m different from them
+Dialogue: 0,00:00:41.80,00:00:44.12,Default,,0,0,0,,I will never betray the Queen
+Dialogue: 0,00:00:45.36,00:00:46.24,Default,,0,0,0,,oh?
+Dialogue: 0,00:00:47.24,00:00:51.52,Default,,0,0,0,,Trust me I’ve already started training elite soldiers
+Dialogue: 0,00:00:52.60,00:00:54.33,Default,,0,0,0,,And I prepared it for them
+Dialogue: 0,00:00:54.36,00:00:56.80,Default,,0,0,0,,But the most terrible trap
+Dialogue: 0,00:00:57.76,00:00:59.72,Default,,0,0,0,,It’s best if they come quickly
+Dialogue: 0,00:01:15.72,00:01:17.56,Default,,0,0,0,,It doesn’t look like a palace here
+Dialogue: 0,00:01:19.92,00:01:21.56,Default,,0,0,0,,Here is the final stop
+Dialogue: 0,00:01:22.84,00:01:24.76,Default,,0,0,0,,Trains will only park in the Soldiers’ Village
+Dialogue: 0,00:01:24.95,00:01:27.92,Default,,0,0,0,,Next we have to hike up to the palace
+Dialogue: 0,00:01:29.04,00:01:30.08,Default,,0,0,0,,Soldiers Village?
+Dialogue: 0,00:01:30.28,00:01:33.56,Default,,0,0,0,,Yes, a place to train soldiers from the cats
+Dialogue: 0,00:01:34.72,00:01:35.56,Default,,0,0,0,,Then let’s go
+Dialogue: 0,00:01:37.44,00:01:40.31,Default,,0,0,0,,Wait a minute There are traps nearby
+Dialogue: 0,00:01:41.20,00:01:42.24,Default,,0,0,0,,We need to be careful
+Dialogue: 0,00:01:47.64,00:01:49.13,Default,,0,0,0,,Very good I will have you again in the future
+Dialogue: 0,00:01:49.16,00:01:51.48,Default,,0,0,0,,Come and protect me, this weak boy
+Dialogue: 0,00:01:52.40,00:01:53.36,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:02:40.88,00:02:43.00,Default,,0,0,0,,Be careful not to attract the attention of soldiers
+Dialogue: 0,00:02:43.24,00:02:44.56,Default,,0,0,0,,Otherwise it will be irritating
+Dialogue: 0,00:02:45.56,00:02:46.56,Default,,0,0,0,,I’m not afraid
+Dialogue: 0,00:02:47.12,00:02:49.60,Default,,0,0,0,,The trap just now has consumed a lot of energy
+Dialogue: 0,00:02:49.91,00:02:51.52,Default,,0,0,0,,It’s better to be careful
+Dialogue: 0,00:02:51.96,00:02:52.72,Default,,0,0,0,,Too
+Dialogue: 0,00:02:53.24,00:02:54.52,Default,,0,0,0,,A soldier has come
+Dialogue: 0,00:03:00.04,00:03:00.96,Default,,0,0,0,,Not safe here
+Dialogue: 0,00:03:01.48,00:03:03.36,Default,,0,0,0,,Let’s find a safe place to talk about it
+Dialogue: 0,00:03:27.32,00:03:28.36,Default,,0,0,0,,They’re leaving
+Dialogue: 0,00:03:31.04,00:03:32.63,Default,,0,0,0,,It looks like a house here
+Dialogue: 0,00:03:35.60,00:03:37.48,Default,,0,0,0,,You see, there are soldiers here
+Dialogue: 0,00:03:38.04,00:03:40.91,Default,,0,0,0,,We can mix in as soldiers as before
+Dialogue: 0,00:03:41.92,00:03:44.48,Default,,0,0,0,,But there are only three soldier equipment here.
+Dialogue: 0,00:03:47.88,00:03:50.45,Default,,0,0,0,,Then let Fulai and I go out to explore the way
+Dialogue: 0,00:03:50.48,00:03:51.96,Default,,0,0,0,,You’re waiting for us here
+Dialogue: 0,00:03:56.84,00:03:57.36,Default,,0,0,0,,stop!
+Dialogue: 0,00:04:02.36,00:04:03.68,Default,,0,0,0,,Have I caught it
+Dialogue: 0,00:04:04.36,00:04:06.96,Default,,0,0,0,,The military officer asked you to gather and you didn’t go
+Dialogue: 0,00:04:07.44,00:04:09.08,Default,,0,0,0,,Hiding here and stealing
+Dialogue: 0,00:04:15.44,00:04:16.12,Default,,0,0,0,,Come out!
+Dialogue: 0,00:04:17.92,00:04:20.32,Default,,0,0,0,,Don’t think I don’t know there is someone else in it
+Dialogue: 0,00:04:21.84,00:04:22.88,Default,,0,0,0,,I’ll go
+Dialogue: 0,00:04:28.72,00:04:29.56,Default,,0,0,0,,Be careful
+Dialogue: 0,00:04:32.24,00:04:34.04,Default,,0,0,0,,Come out and gather soon
+Dialogue: 0,00:04:34.64,00:04:36.80,Default,,0,0,0,,Sorry, I’m late
+Dialogue: 0,00:04:38.48,00:04:39.48,Default,,0,0,0,,All came with me
+Dialogue: 0,00:04:41.40,00:04:44.16,Default,,0,0,0,,Wolffy will not be in danger
+Dialogue: 0,00:04:45.36,00:04:48.32,Default,,0,0,0,,Big Wolf is cunning and he will protect himself
+Dialogue: 0,00:04:49.36,00:04:51.88,Default,,0,0,0,,Let’s look for any soldier equipment.
+Dialogue: 0,00:04:52.32,00:04:52.88,Default,,0,0,0,,Um
+Dialogue: 0,00:05:22.56,00:05:24.44,Default,,0,0,0,,Be careful not to be discovered
+Dialogue: 0,00:05:28.36,00:05:29.24,Default,,0,0,0,,Village chief…
+Dialogue: 0,00:05:30.44,00:05:31.68,Default,,0,0,0,,It’s just a photo
+Dialogue: 0,00:05:33.44,00:05:35.20,Default,,0,0,0,,It seems that this is the village chief’s residence
+Dialogue: 0,00:05:42.83,00:05:44.64,Default,,0,0,0,,I heard that someone was off the motor
+Dialogue: 0,00:05:44.80,00:05:46.96,Default,,0,0,0,,Is Princess Luna and the others here?
+Dialogue: 0,00:05:49.52,00:05:50.32,Default,,0,0,0,,Feel sorry
+Dialogue: 0,00:05:50.52,00:05:52.09,Default,,0,0,0,,It was when I was just guarding
+Dialogue: 0,00:05:52.12,00:05:53.92,Default,,0,0,0,,I accidentally touched the machine
+Dialogue: 0,00:05:56.40,00:05:57.92,Default,,0,0,0,,You keep staring at me
+Dialogue: 0,00:05:58.04,00:05:59.72,Default,,0,0,0,,If you have any feelings, you will come back
+Dialogue: 0,00:06:00.60,00:06:01.16,Default,,0,0,0,,yes
+Dialogue: 0,00:06:09.52,00:06:10.48,Default,,0,0,0,,All stood up
+Dialogue: 0,00:06:10.68,00:06:13.08,Default,,0,0,0,,The military officer is going to talk to us now
+Dialogue: 0,00:06:14.32,00:06:16.24,Default,,0,0,0,,Everyone has heard it
+Dialogue: 0,00:06:16.64,00:06:18.36,Default,,0,0,0,,The enemy is right in front of you
+Dialogue: 0,00:06:20.83,00:06:22.68,Default,,0,0,0,,So what do we do
+Dialogue: 0,00:06:23.52,00:06:29.33,Default,,0,0,0,,Work hard to train...
+Dialogue: 0,00:06:29.36,00:06:31.27,Default,,0,0,0,,Let’s slip away while we’re here
+Dialogue: 0,00:06:37.04,00:06:39.72,Default,,0,0,0,,You have the best soldiers
+Dialogue: 0,00:06:39.96,00:06:41.97,Default,,0,0,0,,I’ll promote him to my side
+Dialogue: 0,00:06:42.00,00:06:43.32,Default,,0,0,0,,Be my assistant
+Dialogue: 0,00:06:43.72,00:06:47.73,Default,,0,0,0,,Work hard to train...
+Dialogue: 0,00:06:47.76,00:06:50.44,Default,,0,0,0,,Very good, you let me be confident
+Dialogue: 0,00:06:50.60,00:06:51.36,Default,,0,0,0,,Oh!
+Dialogue: 0,00:06:54.60,00:06:56.04,Default,,0,0,0,,Military officer, you’re fine, right?
+Dialogue: 0,00:06:56.27,00:06:58.20,Default,,0,0,0,,My old waist...
+Dialogue: 0,00:07:00.44,00:07:02.27,Default,,0,0,0,,Military officer, hold on, military officer
+Dialogue: 0,00:07:03.32,00:07:04.16,Default,,0,0,0,,Hiding
+Dialogue: 0,00:07:14.36,00:07:15.24,Default,,0,0,0,,Village chief…
+Dialogue: 0,00:07:15.56,00:07:17.76,Default,,0,0,0,,My old waist...
+Dialogue: 0,00:07:18.56,00:07:21.12,Default,,0,0,0,,I’ll give you a massage, sir
+Dialogue: 0,00:07:23.16,00:07:25.85,Default,,0,0,0,,Ah...it hurts so much
+Dialogue: 0,00:07:25.88,00:07:28.13,Default,,0,0,0,,Will you press it...
+Dialogue: 0,00:07:28.16,00:07:29.12,Default,,0,0,0,,will not
+Dialogue: 0,00:07:30.32,00:07:32.72,Default,,0,0,0,,Let’s go...
+Dialogue: 0,00:07:33.72,00:07:35.32,Default,,0,0,0,,Pour me a glass of water
+Dialogue: 0,00:07:36.64,00:07:38.76,Default,,0,0,0,,Tell you to leave, you really leave
+Dialogue: 0,00:07:39.52,00:07:40.48,Default,,0,0,0,,Alas...
+Dialogue: 0,00:07:47.56,00:07:49.84,Default,,0,0,0,,That’s it
+Dialogue: 0,00:07:51.24,00:07:53.12,Default,,0,0,0,,snort! I know to come back
+Dialogue: 0,00:07:53.56,00:07:55.28,Default,,0,0,0,,But the techniques have improved
+Dialogue: 0,00:07:57.24,00:07:59.41,Default,,0,0,0,,I just want to give you these young people
+Dialogue: 0,00:07:59.44,00:08:01.36,Default,,0,0,0,,Just a chance to recognize an error
+Dialogue: 0,00:08:02.08,00:08:04.76,Default,,0,0,0,,It’s not that I can’t do it without you...
+Dialogue: 0,00:08:05.24,00:08:06.60,Default,,0,0,0,,Go and make me a cup of tea
+Dialogue: 0,00:08:07.96,00:08:09.24,Default,,0,0,0,,Go and cook for me
+Dialogue: 0,00:08:10.44,00:08:11.76,Default,,0,0,0,,Give me a terrible
+Dialogue: 0,00:08:11.96,00:08:13.84,Default,,0,0,0,,A little on the left A little on the top
+Dialogue: 0,00:08:13.96,00:08:15.08,Default,,0,0,0,,Right Right
+Dialogue: 0,00:08:24.92,00:08:26.64,Default,,0,0,0,,Get off now
+Dialogue: 0,00:08:27.64,00:08:28.36,Default,,0,0,0,,Um
+Dialogue: 0,00:08:31.16,00:08:32.24,Default,,0,0,0,,Where to go?
+Dialogue: 0,00:08:34.88,00:08:36.92,Default,,0,0,0,,Start training soon
+Dialogue: 0,00:08:37.00,00:08:39.40,Default,,0,0,0,,You go find your way
+Dialogue: 0,00:08:40.72,00:08:41.55,Default,,0,0,0,,Um
+Dialogue: 0,00:08:41.80,00:08:44.00,Default,,0,0,0,,Don’t be slow, come here quickly
+Dialogue: 0,00:08:44.88,00:08:45.92,Default,,0,0,0,,Yes yes...
+Dialogue: 0,00:08:56.72,00:08:59.08,Default,,0,0,0,,The first training: bend and stretch
+Dialogue: 0,00:08:59.76,00:09:01.04,Default,,0,0,0,,It’s indeed a cat
+Dialogue: 0,00:09:01.44,00:09:03.40,Default,,0,0,0,,Children should not learn this kind of thing
+Dialogue: 0,00:09:05.16,00:09:06.24,Default,,0,0,0,,That’s of course
+Dialogue: 0,00:09:06.52,00:09:07.36,Default,,0,0,0,,You go quickly
+Dialogue: 0,00:09:11.64,00:09:13.72,Default,,0,0,0,,Save me and save me...
+Dialogue: 0,00:09:16.12,00:09:18.32,Default,,0,0,0,,This test will test your balance
+Dialogue: 0,00:09:27.64,00:09:29.44,Default,,0,0,0,,This is too dangerous
+Dialogue: 0,00:09:29.76,00:09:32.12,Default,,0,0,0,,Go out and execute tasks Is there any choice in the environment?
+Dialogue: 0,00:09:33.72,00:09:35.55,Default,,0,0,0,,Just to let you sleep anywhere
+Dialogue: 0,00:09:36.52,00:09:37.96,Default,,0,0,0,,You just practice more
+Dialogue: 0,00:09:57.08,00:09:57.80,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:09:58.92,00:10:01.16,Default,,0,0,0,,We found a small path in the back mountain
+Dialogue: 0,00:10:01.44,00:10:02.84,Default,,0,0,0,,There were no soldiers there
+Dialogue: 0,00:10:03.96,00:10:06.24,Default,,0,0,0,,real? Then we’ll leave tonight
+Dialogue: 0,00:10:06.92,00:10:08.84,Default,,0,0,0,,Weslie and the others don’t know where to go
+Dialogue: 0,00:10:08.88,00:10:10.24,Default,,0,0,0,,How to inform him
+Dialogue: 0,00:10:10.72,00:10:12.32,Default,,0,0,0,,I’ll think about it
+Dialogue: 0,00:10:12.88,00:10:14.48,Default,,0,0,0,,Have a rest. Come and gather
+Dialogue: 0,00:10:14.84,00:10:16.33,Default,,0,0,0,,Prepare for the next round of training
+Dialogue: 0,00:10:16.36,00:10:17.36,Default,,0,0,0,,Also...
+Dialogue: 0,00:10:23.55,00:10:25.72,Default,,0,0,0,,The previous ones are just basic training
+Dialogue: 0,00:10:27.72,00:10:29.16,Default,,0,0,0,,It’s hard behind it
+Dialogue: 0,00:10:39.28,00:10:40.37,Default,,0,0,0,,These confuses
+Dialogue: 0,00:10:40.40,00:10:42.72,Default,,0,0,0,,It is used to train your willpower
+Dialogue: 0,00:10:43.20,00:10:44.48,Default,,0,0,0,,Want to be an elite soldier...
+Dialogue: 0,00:10:46.55,00:10:48.64,Default,,0,0,0,,Failed Failed Failed…
+Dialogue: 0,00:10:54.44,00:10:57.72,Default,,0,0,0,,Isn’t it just a wool ball? What’s so confusing?
+Dialogue: 0,00:11:06.04,00:11:08.76,Default,,0,0,0,,You boy is a genius, what’s your name
+Dialogue: 0,00:11:09.60,00:11:10.72,Default,,0,0,0,,My name is Hui...
+Dialogue: 0,00:11:11.55,00:11:12.13,Default,,0,0,0,,Ah Hui
+Dialogue: 0,00:11:12.16,00:11:13.48,Default,,0,0,0,,What a genius
+Dialogue: 0,00:11:14.24,00:11:16.55,Default,,0,0,0,,Go clean up, I’ll take you to see the military
+Dialogue: 0,00:11:16.96,00:11:17.72,Default,,0,0,0,,ah?
+Dialogue: 0,00:11:24.84,00:11:25.73,Default,,0,0,0,,marvelous
+Dialogue: 0,00:11:25.76,00:11:27.55,Default,,0,0,0,,You know me very well
+Dialogue: 0,00:11:28.32,00:11:30.76,Default,,0,0,0,,Especially the massage method is really good
+Dialogue: 0,00:11:31.04,00:11:31.92,Default,,0,0,0,,Military officer
+Dialogue: 0,00:11:32.44,00:11:34.72,Default,,0,0,0,,I’ll check if the kitchen fire is off
+Dialogue: 0,00:11:37.04,00:11:38.36,Default,,0,0,0,,I’ll help him shut up
+Dialogue: 0,00:11:40.52,00:11:42.04,Default,,0,0,0,,Let’s collect clothes
+Dialogue: 0,00:11:45.36,00:11:46.00,Default,,0,0,0,,Come in
+Dialogue: 0,00:11:52.32,00:11:54.76,Default,,0,0,0,,No, is Wolffy caught?
+Dialogue: 0,00:11:58.60,00:12:01.04,Default,,0,0,0,,Military officer I discovered a genius
+Dialogue: 0,00:12:01.44,00:12:02.24,Default,,0,0,0,,ah?
+Dialogue: 0,00:12:03.48,00:12:05.36,Default,,0,0,0,,That’s what’s called Ah Hui
+Dialogue: 0,00:12:06.12,00:12:09.00,Default,,0,0,0,,It passed the project with the highest elimination rate in a moment
+Dialogue: 0,00:12:09.92,00:12:12.04,Default,,0,0,0,,Willpower is so constrained that it makes people look hairy
+Dialogue: 0,00:12:12.52,00:12:15.44,Default,,0,0,0,,Yes, I’ll walk over and let me take a closer look
+Dialogue: 0,00:12:16.40,00:12:18.24,Default,,0,0,0,,This...good...
+Dialogue: 0,00:12:18.55,00:12:19.96,Default,,0,0,0,,Then I’ll go out first

@@ -1,0 +1,160 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.64,00:00:24.57,Default,,0,0,0,,When Baobao said this news
+Dialogue: 0,00:00:24.60,00:00:26.28,Default,,0,0,0,,Shocked me
+Dialogue: 0,00:00:26.88,00:00:29.77,Default,,0,0,0,,The green grassland is about to be transformed into a high-tech city
+Dialogue: 0,00:00:29.80,00:00:32.88,Default,,0,0,0,,Ah, I feel a little reluctant to see the green grassland now
+Dialogue: 0,00:00:33.72,00:00:35.05,Default,,0,0,0,,No need not let it go
+Dialogue: 0,00:00:35.08,00:00:37.05,Default,,0,0,0,,We’re making a time capsule now
+Dialogue: 0,00:00:37.08,00:00:38.49,Default,,0,0,0,,As a memorable
+Dialogue: 0,00:00:38.52,00:00:39.84,Default,,0,0,0,,Come on digging
+Dialogue: 0,00:00:40.08,00:00:41.64,Default,,0,0,0,,You’re here to help
+Dialogue: 0,00:00:42.64,00:00:44.21,Default,,0,0,0,,OK, the hole is ready
+Dialogue: 0,00:00:44.24,00:00:45.92,Default,,0,0,0,,Then it’s...
+Dialogue: 0,00:00:49.40,00:00:51.76,Default,,0,0,0,,The time capsule is ready
+Dialogue: 0,00:00:52.20,00:00:54.33,Default,,0,0,0,,I’m going to put the sling in
+Dialogue: 0,00:00:54.36,00:00:57.29,Default,,0,0,0,,I want to send a letter to myself for the future
+Dialogue: 0,00:00:57.32,00:00:58.68,Default,,0,0,0,,Humph...
+Dialogue: 0,00:01:00.36,00:01:03.17,Default,,0,0,0,,Then I’ll put some snacks in
+Dialogue: 0,00:01:03.20,00:01:04.13,Default,,0,0,0,,Paddi
+Dialogue: 0,00:01:04.16,00:01:07.21,Default,,0,0,0,,You can’t put your snacks in.
+Dialogue: 0,00:01:07.24,00:01:08.92,Default,,0,0,0,,Then I’ll eat it now
+Dialogue: 0,00:01:09.96,00:01:11.32,Default,,0,0,0,,Brother and sister
+Dialogue: 0,00:01:14.08,00:01:17.28,Default,,0,0,0,,We want to put the painting in the time capsule
+Dialogue: 0,00:01:17.80,00:01:18.65,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:01:18.68,00:01:21.52,Default,,0,0,0,,I thought you would let your invention go in
+Dialogue: 0,00:01:22.08,00:01:24.12,Default,,0,0,0,,This is a little gray-painted
+Dialogue: 0,00:01:25.52,00:01:28.49,Default,,0,0,0,,What we painted is our past adventure experience
+Dialogue: 0,00:01:28.52,00:01:30.84,Default,,0,0,0,,It’s something more important than invention
+Dialogue: 0,00:01:39.68,00:01:40.41,Default,,0,0,0,,dad
+Dialogue: 0,00:01:40.44,00:01:43.52,Default,,0,0,0,,In the future, I will go to more places to venture with you
+Dialogue: 0,00:01:43.60,00:01:45.76,Default,,0,0,0,,No problem son
+Dialogue: 0,00:01:49.92,00:01:51.93,Default,,0,0,0,,Then let’s close the capsule
+Dialogue: 0,00:01:51.96,00:01:52.88,Default,,0,0,0,,etc.
+Dialogue: 0,00:01:53.28,00:01:55.60,Default,,0,0,0,,I have something I want to put in
+Dialogue: 0,00:02:07.36,00:02:09.24,Default,,0,0,0,,Go to have a meal
+Dialogue: 0,00:02:11.12,00:02:12.44,Default,,0,0,0,,The last one didn’t eat
+Dialogue: 0,00:02:13.36,00:02:13.88,Default,,0,0,0,,ah
+Dialogue: 0,00:02:15.04,00:02:17.44,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:02:26.72,00:02:29.56,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:02:30.12,00:02:31.88,Default,,0,0,0,,It doesn’t matter to you. Paddi
+Dialogue: 0,00:02:35.36,00:02:37.00,Default,,0,0,0,,What a big scent
+Dialogue: 0,00:02:37.52,00:02:38.28,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:02:43.80,00:02:45.76,Default,,0,0,0,,That thing hits the front
+Dialogue: 0,00:02:48.52,00:02:49.80,Default,,0,0,0,,This is...
+Dialogue: 0,00:02:52.48,00:02:54.12,Default,,0,0,0,,What a big pit
+Dialogue: 0,00:02:56.68,00:02:58.28,Default,,0,0,0,,Let’s continue to check it out
+Dialogue: 0,00:03:00.24,00:03:01.63,Default,,0,0,0,,Be careful
+Dialogue: 0,00:03:08.52,00:03:10.32,Default,,0,0,0,,What’s there in...
+Dialogue: 0,00:03:19.63,00:03:22.60,Default,,0,0,0,,Is this pit caused by this strange stone?
+Dialogue: 0,00:03:23.32,00:03:25.52,Default,,0,0,0,,If I guess it’s right
+Dialogue: 0,00:03:26.88,00:03:31.53,Default,,0,0,0,,This...I was the protagonist of the season
+Dialogue: 0,00:03:31.56,00:03:33.24,Default,,0,0,0,,Sparky
+Dialogue: 0,00:03:34.12,00:03:35.88,Default,,0,0,0,,Thunder summons
+Dialogue: 0,00:03:37.00,00:03:38.68,Default,,0,0,0,,Invented me to create
+Dialogue: 0,00:03:39.44,00:03:41.07,Default,,0,0,0,,No response
+Dialogue: 0,00:03:42.96,00:03:43.85,Default,,0,0,0,,Since that’s the case
+Dialogue: 0,00:03:43.88,00:03:46.09,Default,,0,0,0,,Why don’t you give the stone to the village chief to see
+Dialogue: 0,00:03:46.12,00:03:48.45,Default,,0,0,0,,Yes, the village chief explained the question of opening the stone
+Dialogue: 0,00:03:48.48,00:03:51.05,Default,,0,0,0,,I can be the protagonist
+Dialogue: 0,00:03:51.07,00:03:53.07,Default,,0,0,0,,Wait for us
+Dialogue: 0,00:04:00.16,00:04:03.04,Default,,0,0,0,,Why can’t I find results?
+Dialogue: 0,00:04:05.52,00:04:08.07,Default,,0,0,0,,The village chief has big discoveries
+Dialogue: 0,00:04:08.92,00:04:12.12,Default,,0,0,0,,We just snatched this strange rock
+Dialogue: 0,00:04:14.44,00:04:15.96,Default,,0,0,0,,what
+Dialogue: 0,00:04:20.60,00:04:22.40,Default,,0,0,0,,That’s just...
+Dialogue: 0,00:04:26.20,00:04:28.00,Default,,0,0,0,,Again...no response
+Dialogue: 0,00:04:30.12,00:04:33.32,Default,,0,0,0,,I have to study it carefully this time
+Dialogue: 0,00:04:51.76,00:04:53.32,Default,,0,0,0,,Researched for so long
+Dialogue: 0,00:04:53.48,00:04:55.93,Default,,0,0,0,,Now I only know this stone
+Dialogue: 0,00:04:55.96,00:04:57.73,Default,,0,0,0,,Huge energy
+Dialogue: 0,00:04:57.76,00:05:00.77,Default,,0,0,0,,And there is a certain connection between the stone and the robot
+Dialogue: 0,00:05:00.80,00:05:04.60,Default,,0,0,0,,But the technology still has no way to read it now
+Dialogue: 0,00:05:10.32,00:05:12.45,Default,,0,0,0,,I’m going to study it again
+Dialogue: 0,00:05:12.48,00:05:14.57,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:05:14.60,00:05:17.63,Default,,0,0,0,,The ritual is about to begin. You are still here
+Dialogue: 0,00:05:18.60,00:05:20.09,Default,,0,0,0,,Almost forgot
+Dialogue: 0,00:05:20.12,00:05:21.28,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:05:22.28,00:05:24.63,Default,,0,0,0,,Then continue to analyze the computer
+Dialogue: 0,00:05:41.60,00:05:43.56,Default,,0,0,0,,Wow, so hot
+Dialogue: 0,00:05:43.88,00:05:46.53,Default,,0,0,0,,Today is our green grassland
+Dialogue: 0,00:05:46.56,00:05:49.44,Default,,0,0,0,,A classic of transformation to a science and technology city
+Dialogue: 0,00:05:50.44,00:05:52.81,Default,,0,0,0,,Science and technology development is the first production force
+Dialogue: 0,00:05:52.84,00:05:55.49,Default,,0,0,0,,The green grassland will definitely be better in the future
+Dialogue: 0,00:05:55.52,00:05:59.01,Default,,0,0,0,,good…
+Dialogue: 0,00:05:59.04,00:06:00.37,Default,,0,0,0,,To commemorate a new beginning
+Dialogue: 0,00:06:00.40,00:06:02.32,Default,,0,0,0,,Let’s take a photo together
+Dialogue: 0,00:06:03.44,00:06:04.48,Default,,0,0,0,,Stand ready
+Dialogue: 0,00:06:09.80,00:06:11.65,Default,,0,0,0,,Everyone eat something
+Dialogue: 0,00:06:11.68,00:06:14.56,Default,,0,0,0,,Wait for a smoky sermon
+Dialogue: 0,00:06:19.16,00:06:20.36,Default,,0,0,0,,Science and Technology City
+Dialogue: 0,00:06:21.52,00:06:23.36,Default,,0,0,0,,Really looking forward to it
+Dialogue: 0,00:06:25.88,00:06:28.81,Default,,0,0,0,,What will the green grassland become in the future
+Dialogue: 0,00:06:28.84,00:06:31.40,Default,,0,0,0,,What will we become again
+Dialogue: 0,00:06:31.96,00:06:34.80,Default,,0,0,0,,I...will definitely be taller than dad
+Dialogue: 0,00:06:35.52,00:06:38.36,Default,,0,0,0,,I’ll be fine if I’m with everyone
+Dialogue: 0,00:06:39.08,00:06:42.25,Default,,0,0,0,,I will continue to protect the goat village in the future and protect everyone
+Dialogue: 0,00:06:42.28,00:06:45.76,Default,,0,0,0,,I’ll eat more in the future
+Dialogue: 0,00:06:46.28,00:06:48.52,Default,,0,0,0,,You’re not going to be at all
+Dialogue: 0,00:06:50.76,00:06:52.36,Default,,0,0,0,,What about you, Weslie
+Dialogue: 0,00:06:56.56,00:07:00.28,Default,,0,0,0,,I will...
+Dialogue: 0,00:07:07.32,00:07:08.52,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:07:09.04,00:07:11.92,Default,,0,0,0,,They wanted to cook but forgot to cook the roast
+Dialogue: 0,00:07:12.28,00:07:15.12,Default,,0,0,0,,Then let’s go to the test room to get it together
+Dialogue: 0,00:07:15.44,00:07:17.08,Default,,0,0,0,,OK Let’s go
+Dialogue: 0,00:07:17.24,00:07:19.12,Default,,0,0,0,,Dad, I’m going, too
+Dialogue: 0,00:07:20.84,00:07:23.32,Default,,0,0,0,,Be good, eat an orange first and wait for dad
+Dialogue: 0,00:07:25.76,00:07:28.56,Default,,0,0,0,,After eating, Dad will come back soon
+Dialogue: 0,00:07:30.28,00:07:30.57,Default,,0,0,0,,dad
+Dialogue: 0,00:07:30.60,00:07:32.17,Default,,0,0,0,,Let’s go, Big Gray Wolf
+Dialogue: 0,00:07:32.20,00:07:33.84,Default,,0,0,0,,Wait for dad
+Dialogue: 0,00:07:42.32,00:07:45.84,Default,,0,0,0,,Don’t look at me just a goat (wolf)
+Dialogue: 0,00:07:49.92,00:07:51.45,Default,,0,0,0,,How did the door open
+Dialogue: 0,00:07:51.47,00:07:53.24,Default,,0,0,0,,Let’s go and have a look
+Dialogue: 0,00:08:05.04,00:08:06.04,Default,,0,0,0,,Who is it
+Dialogue: 0,00:08:16.04,00:08:18.60,Default,,0,0,0,,Is that strange stone yours?
+Dialogue: 0,00:08:26.35,00:08:28.01,Default,,0,0,0,,You haven’t answered my question yet
+Dialogue: 0,00:08:28.04,00:08:29.56,Default,,0,0,0,,Who are you
+Dialogue: 0,00:08:33.84,00:08:35.32,Default,,0,0,0,,I’m here to goat
+Dialogue: 0,00:08:46.28,00:08:47.08,Default,,0,0,0,,not good
+Dialogue: 0,00:09:01.92,00:09:03.57,Default,,0,0,0,,What kind of weapon is this
+Dialogue: 0,00:09:03.60,00:09:05.72,Default,,0,0,0,,It can actually turn things into iron
+Dialogue: 0,00:09:33.64,00:09:34.96,Default,,0,0,0,,Delivery door
+Dialogue: 0,00:09:35.47,00:09:37.21,Default,,0,0,0,,Can’t let him take that stone
+Dialogue: 0,00:09:37.24,00:09:38.68,Default,,0,0,0,,Let’s chase
+Dialogue: 0,00:09:47.04,00:09:47.53,Default,,0,0,0,,ah
+Dialogue: 0,00:09:47.56,00:09:49.32,Default,,0,0,0,,What is this place
+Dialogue: 0,00:09:49.84,00:09:50.56,Default,,0,0,0,,look
+Dialogue: 0,00:09:51.60,00:09:54.24,Default,,0,0,0,,If he continues to fight, he will run away
+Dialogue: 0,00:09:54.52,00:09:55.08,Default,,0,0,0,,Chase
+Dialogue: 0,00:09:59.88,00:10:02.35,Default,,0,0,0,,My swimming is not very good
+Dialogue: 0,00:10:13.44,00:10:14.60,Default,,0,0,0,,careful
+Dialogue: 0,00:10:17.44,00:10:19.47,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:10:20.12,00:10:21.08,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:10:21.84,00:10:23.29,Default,,0,0,0,,He’s about to escape
+Dialogue: 0,00:10:23.32,00:10:25.64,Default,,0,0,0,,Weslie Let’s fly over
+Dialogue: 0,00:10:28.44,00:10:32.24,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:34.08,00:10:35.68,Default,,0,0,0,,And me...
+Dialogue: 0,00:10:44.35,00:10:45.52,Default,,0,0,0,,Don’t think about it
+Dialogue: 0,00:10:52.56,00:10:54.08,Default,,0,0,0,,stop
+Dialogue: 0,00:11:02.84,00:11:05.12,Default,,0,0,0,,Haven’t Weslie and Wolffy come back yet?
+Dialogue: 0,00:11:06.28,00:11:08.72,Default,,0,0,0,,Yes, I’m going to get tired
+Dialogue: 0,00:11:10.35,00:11:13.89,Default,,0,0,0,,Wow, so beautiful
+Dialogue: 0,00:11:13.92,00:11:17.35,Default,,0,0,0,,It’s a pity that Weslie and Wolffy can’t see it
+Dialogue: 0,00:11:19.56,00:11:20.40,Default,,0,0,0,,dad…
+Dialogue: 0,00:11:26.40,00:11:28.16,Default,,0,0,0,,stop
+Dialogue: 0,00:11:45.84,00:11:50.35,Default,,0,0,0,,ah…

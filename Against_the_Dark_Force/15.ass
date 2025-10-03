@@ -1,0 +1,169 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.09,00:00:21.01,Default,,0,0,0,,Princess Luna
+Dialogue: 0,00:00:21.37,00:00:24.17,Default,,0,0,0,,You have never said before that there are snowmen residents in the country of Weird Cat
+Dialogue: 0,00:00:24.53,00:00:26.09,Default,,0,0,0,,It’s so amazing
+Dialogue: 0,00:00:26.25,00:00:27.69,Default,,0,0,0,,I don’t know much, either
+Dialogue: 0,00:00:28.17,00:00:31.37,Default,,0,0,0,,Princess Luna Are you Princess Luna?
+Dialogue: 0,00:00:31.69,00:00:32.17,Default,,0,0,0,,Yes
+Dialogue: 0,00:00:35.65,00:00:37.05,Default,,0,0,0,,I’m really sorry
+Dialogue: 0,00:00:37.21,00:00:39.93,Default,,0,0,0,,We saw that they looked like Weslie
+Dialogue: 0,00:00:40.09,00:00:41.77,Default,,0,0,0,,I thought you were a guy
+Dialogue: 0,00:00:41.97,00:00:44.33,Default,,0,0,0,,I’ll do something as unforgettable as before
+Dialogue: 0,00:00:45.65,00:00:47.73,Default,,0,0,0,,It seems you don’t like Weslie
+Dialogue: 0,00:00:48.45,00:00:50.89,Default,,0,0,0,,We are all caused by Weslie and Goat
+Dialogue: 0,00:00:56.21,00:00:57.65,Default,,0,0,0,,A month ago...
+Dialogue: 0,00:01:05.69,00:01:09.17,Default,,0,0,0,,Hearing that Princess Levana is sending soldiers to capture Princess Luna
+Dialogue: 0,00:01:09.65,00:01:12.89,Default,,0,0,0,,It’s so too much, we want to protect Princess Luna
+Dialogue: 0,00:01:13.57,00:01:14.49,Default,,0,0,0,,right!
+Dialogue: 0,00:01:18.77,00:01:20.21,Default,,0,0,0,,What happened?
+Dialogue: 0,00:01:20.37,00:01:21.85,Default,,0,0,0,,Let’s go back to the city to take a look
+Dialogue: 0,00:01:31.65,00:01:32.73,Default,,0,0,0,,Who is this?
+Dialogue: 0,00:01:34.89,00:01:35.97,Default,,0,0,0,,My name is Weslie
+Dialogue: 0,00:01:36.57,00:01:39.01,Default,,0,0,0,,Levana the Queen sends me to manage the ice and snow town
+Dialogue: 0,00:01:41.13,00:01:42.81,Default,,0,0,0,,It’s too boring here
+Dialogue: 0,00:01:43.01,00:01:44.97,Default,,0,0,0,,Let’s have some fun things
+Dialogue: 0,00:01:59.77,00:02:00.65,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:02:02.01,00:02:04.37,Default,,0,0,0,,All the people in the town have become snowmen
+Dialogue: 0,00:02:04.65,00:02:06.45,Default,,0,0,0,,We can never eat the fire again
+Dialogue: 0,00:02:07.97,00:02:09.61,Default,,0,0,0,,Can’t soak in a hot spring
+Dialogue: 0,00:02:10.85,00:02:11.49,Default,,0,0,0,,and
+Dialogue: 0,00:02:11.85,00:02:14.65,Default,,0,0,0,,Weslie also let us make various ice sculptures for him
+Dialogue: 0,00:02:14.69,00:02:15.45,Default,,0,0,0,,then…
+Dialogue: 0,00:02:25.93,00:02:30.45,Default,,0,0,0,,It’s mostly clean, how about it...
+Dialogue: 0,00:02:31.41,00:02:34.17,Default,,0,0,0,,So have people in your town become snowmen?
+Dialogue: 0,00:02:34.65,00:02:35.65,Default,,0,0,0,,this…
+Dialogue: 0,00:02:36.17,00:02:38.61,Default,,0,0,0,,Meow Meow…
+Dialogue: 0,00:02:41.09,00:02:42.87,Default,,0,0,0,,This is not what we saw in the photos
+Dialogue: 0,00:02:42.89,00:02:44.17,Default,,0,0,0,,That cat
+Dialogue: 0,00:02:44.97,00:02:47.09,Default,,0,0,0,,This is our son Coco
+Dialogue: 0,00:02:48.09,00:02:50.45,Default,,0,0,0,,It’s also the only survivor who has not become a snowman
+Dialogue: 0,00:02:51.05,00:02:52.89,Default,,0,0,0,,Never let Weslie discover
+Dialogue: 0,00:02:53.93,00:02:56.01,Default,,0,0,0,,Don’t worry, we’ll keep it secret too
+Dialogue: 0,00:02:57.81,00:02:59.29,Default,,0,0,0,,Where has Coco gone?
+Dialogue: 0,00:03:00.49,00:03:02.21,Default,,0,0,0,,Cocoa is coming out soon
+Dialogue: 0,00:03:03.85,00:03:05.17,Default,,0,0,0,,Are you there Coco?
+Dialogue: 0,00:03:05.89,00:03:07.21,Default,,0,0,0,,- Cocoa…
+- Cocoa…
+Dialogue: 0,00:03:07.69,00:03:09.25,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:03:11.61,00:03:12.29,Default,,0,0,0,,Wow!
+Dialogue: 0,00:03:12.85,00:03:15.17,Default,,0,0,0,,Who has built a Wolffy’s snowman here
+Dialogue: 0,00:03:15.77,00:03:16.49,Default,,0,0,0,,Shocked me
+Dialogue: 0,00:03:17.81,00:03:20.45,Default,,0,0,0,,Isn’t it you? Don’t go there and do it
+Dialogue: 0,00:03:20.97,00:03:24.09,Default,,0,0,0,,To find the thread carefully, observe the cat’s footprints
+Dialogue: 0,00:03:25.05,00:03:26.97,Default,,0,0,0,,Son, come out soon
+Dialogue: 0,00:03:27.45,00:03:28.65,Default,,0,0,0,,cocoa…
+Dialogue: 0,00:03:30.57,00:03:32.81,Default,,0,0,0,,Why did you find it there?
+Dialogue: 0,00:03:34.29,00:03:35.53,Default,,0,0,0,,no
+Dialogue: 0,00:03:36.21,00:03:38.25,Default,,0,0,0,,Find Weslie before he returns
+Dialogue: 0,00:03:38.37,00:03:39.81,Default,,0,0,0,,Otherwise it will be irritating
+Dialogue: 0,00:03:40.17,00:03:41.97,Default,,0,0,0,,When will Weslie come back?
+Dialogue: 0,00:03:46.05,00:03:47.75,Default,,0,0,0,,It must be Weslie Goat coming back
+Dialogue: 0,00:03:47.77,00:03:49.01,Default,,0,0,0,,You’ll hide it
+Dialogue: 0,00:03:49.41,00:03:49.73,Default,,0,0,0,,good
+Dialogue: 0,00:03:53.21,00:03:55.05,Default,,0,0,0,,Hello! What should I do?
+Dialogue: 0,00:04:07.77,00:04:08.73,Default,,0,0,0,,Where have they been
+Dialogue: 0,00:04:09.89,00:04:12.81,Default,,0,0,0,,Who are they? I don’t know who you are talking about
+Dialogue: 0,00:04:13.93,00:04:14.69,Default,,0,0,0,,Yes
+Dialogue: 0,00:04:20.49,00:04:22.29,Default,,0,0,0,,These young traps
+Dialogue: 0,00:04:22.69,00:04:24.33,Default,,0,0,0,,How could I catch someone
+Dialogue: 0,00:04:24.65,00:04:26.61,Default,,0,0,0,,Who said we caught it
+Dialogue: 0,00:04:29.25,00:04:31.89,Default,,0,0,0,,oh? So have you seen them?
+Dialogue: 0,00:04:36.73,00:04:38.61,Default,,0,0,0,,We don’t know anything
+Dialogue: 0,00:04:43.25,00:04:44.25,Default,,0,0,0,,Too obvious
+Dialogue: 0,00:04:45.73,00:04:46.65,Default,,0,0,0,,Hurricane Blade!
+Dialogue: 0,00:04:58.69,00:04:59.97,Default,,0,0,0,,Found
+Dialogue: 0,00:05:00.45,00:05:03.01,Default,,0,0,0,,Weslie I am Tibbie
+Dialogue: 0,00:05:03.69,00:05:05.65,Default,,0,0,0,,Tibbie? You are a traitor
+Dialogue: 0,00:05:13.21,00:05:14.93,Default,,0,0,0,,You’d better not be too weak
+Dialogue: 0,00:05:15.17,00:05:16.89,Default,,0,0,0,,Otherwise it will be no fun
+Dialogue: 0,00:05:17.45,00:05:18.77,Default,,0,0,0,,How to do it
+Dialogue: 0,00:05:22.21,00:05:24.25,Default,,0,0,0,,Don’t worry, I’ll be gentler
+Dialogue: 0,00:05:28.45,00:05:29.89,Default,,0,0,0,,oops!
+Dialogue: 0,00:05:31.69,00:05:32.85,Default,,0,0,0,,cocoa!
+Dialogue: 0,00:05:36.09,00:05:36.93,Default,,0,0,0,,Escape quickly
+Dialogue: 0,00:05:41.37,00:05:43.69,Default,,0,0,0,,There was still a cat not turned into a snowman?
+Dialogue: 0,00:05:44.37,00:05:47.29,Default,,0,0,0,,oops! Injured? Need to handle it tightly
+Dialogue: 0,00:05:47.65,00:05:50.57,Default,,0,0,0,,Forever, it will be bad if you get infected with bacteria
+Dialogue: 0,00:05:51.09,00:05:52.85,Default,,0,0,0,,Come on I have medicine here
+Dialogue: 0,00:06:00.37,00:06:01.33,Default,,0,0,0,,Excess cocoa
+Dialogue: 0,00:06:01.49,00:06:03.21,Default,,0,0,0,,Otherwise we’ll all be arrested
+Dialogue: 0,00:06:03.73,00:06:05.97,Default,,0,0,0,,Cocoa Cocoa…
+Dialogue: 0,00:06:07.37,00:06:10.37,Default,,0,0,0,,What to do? If Coco was found by Weslie...
+Dialogue: 0,00:06:16.77,00:06:18.01,Default,,0,0,0,,Let’s look for it separately
+Dialogue: 0,00:06:20.09,00:06:21.33,Default,,0,0,0,,Yes OK
+Dialogue: 0,00:06:32.17,00:06:33.53,Default,,0,0,0,,cocoa!
+Dialogue: 0,00:06:35.25,00:06:35.85,Default,,0,0,0,,Alas!
+Dialogue: 0,00:06:38.09,00:06:38.81,Default,,0,0,0,,cocoa
+Dialogue: 0,00:06:43.49,00:06:46.25,Default,,0,0,0,,Help Cocoa get a chicken leg, and the bread is OK...
+Dialogue: 0,00:06:51.97,00:06:52.77,Default,,0,0,0,,cocoa!
+Dialogue: 0,00:06:58.49,00:06:59.77,Default,,0,0,0,,Can’t jump
+Dialogue: 0,00:07:00.37,00:07:03.09,Default,,0,0,0,,This is the ice lake. If you jump down, you will get ice
+Dialogue: 0,00:07:08.37,00:07:09.29,Default,,0,0,0,,fortunately…
+Dialogue: 0,00:07:11.29,00:07:12.37,Default,,0,0,0,,Found it or not
+Dialogue: 0,00:07:12.65,00:07:13.65,Default,,0,0,0,,no
+Dialogue: 0,00:07:15.29,00:07:17.01,Default,,0,0,0,,Where did Coco go?
+Dialogue: 0,00:07:17.33,00:07:17.93,Default,,0,0,0,,He’s there
+Dialogue: 0,00:07:22.49,00:07:23.77,Default,,0,0,0,,Be careful
+Dialogue: 0,00:07:37.33,00:07:39.89,Default,,0,0,0,,It’s really a slim-up. Play with me for a cat
+Dialogue: 0,00:07:40.77,00:07:42.33,Default,,0,0,0,,Then let’s have fun
+Dialogue: 0,00:07:46.81,00:07:49.29,Default,,0,0,0,,Coco, don’t move me, I’ll save you
+Dialogue: 0,00:07:51.05,00:07:52.17,Default,,0,0,0,,I’ll help, too
+Dialogue: 0,00:08:04.33,00:08:05.69,Default,,0,0,0,,I’ll help others
+Dialogue: 0,00:08:07.21,00:08:08.29,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:08:14.17,00:08:16.97,Default,,0,0,0,,Don’t be afraid, I’ll save you
+Dialogue: 0,00:08:22.25,00:08:24.17,Default,,0,0,0,,Coco, I’ll come right away
+Dialogue: 0,00:08:41.21,00:08:41.77,Default,,0,0,0,,Meow…
+Dialogue: 0,00:08:42.85,00:08:52.69,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:57.37,00:09:00.25,Default,,0,0,0,,Big Wolf, you’re slow, I don’t have a good position yet
+Dialogue: 0,00:09:09.25,00:09:10.57,Default,,0,0,0,,It’s fine
+Dialogue: 0,00:09:13.65,00:09:16.17,Default,,0,0,0,,Let’s go quickly, don’t let Weslie discover
+Dialogue: 0,00:09:17.85,00:09:19.89,Default,,0,0,0,,What to do? I’ve discovered it again
+Dialogue: 0,00:09:27.69,00:09:28.49,Default,,0,0,0,,run!
+Dialogue: 0,00:09:32.13,00:09:33.89,Default,,0,0,0,,So you want to have a snowball fight?
+Dialogue: 0,00:09:35.01,00:09:37.45,Default,,0,0,0,,OK I like snowball fights the most
+Dialogue: 0,00:09:47.25,00:09:49.05,Default,,0,0,0,,Everyone came here to me
+Dialogue: 0,00:09:52.01,00:09:52.89,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:10:05.41,00:10:07.81,Default,,0,0,0,,Let me come thunderbolt...
+Dialogue: 0,00:10:16.25,00:10:20.01,Default,,0,0,0,,Hahahaha...you are so fun
+Dialogue: 0,00:10:21.05,00:10:23.09,Default,,0,0,0,,But...it’s over
+Dialogue: 0,00:10:29.29,00:10:31.65,Default,,0,0,0,,I’m here to help
+Dialogue: 0,00:10:37.29,00:10:38.57,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:42.77,00:10:43.93,Default,,0,0,0,,oops…
+Dialogue: 0,00:10:47.85,00:10:49.45,Default,,0,0,0,,You’re so weak
+Dialogue: 0,00:10:50.97,00:10:53.69,Default,,0,0,0,,Recover Weslie
+Dialogue: 0,00:11:00.09,00:11:01.25,Default,,0,0,0,,Weslie
+Dialogue: 0,00:11:05.53,00:11:07.69,Default,,0,0,0,,Weslie Let’s go home together
+Dialogue: 0,00:11:08.05,00:11:10.29,Default,,0,0,0,,I made a vegetable soup and I can eat it right away
+Dialogue: 0,00:11:10.81,00:11:11.89,Default,,0,0,0,,OK
+Dialogue: 0,00:11:12.77,00:11:14.57,Default,,0,0,0,,Do you want to come to the football competition?
+Dialogue: 0,00:11:17.17,00:11:18.49,Default,,0,0,0,,We’ve always been a team
+Dialogue: 0,00:11:18.77,00:11:20.57,Default,,0,0,0,,This time, we have to fight on our shoulders
+Dialogue: 0,00:11:21.81,00:11:23.05,Default,,0,0,0,,And fight on your shoulders...
+Dialogue: 0,00:11:26.29,00:11:27.81,Default,,0,0,0,,Have you written your work?
+Dialogue: 0,00:11:30.97,00:11:34.41,Default,,0,0,0,,But...No need to write it today. Go and play
+Dialogue: 0,00:11:36.13,00:11:38.45,Default,,0,0,0,,Very good…
+Dialogue: 0,00:11:42.45,00:11:43.45,Default,,0,0,0,,This feeling...
+Dialogue: 0,00:11:50.57,00:11:51.69,Default,,0,0,0,,Very childish
+Dialogue: 0,00:11:52.13,00:11:53.81,Default,,0,0,0,,ah…
+Dialogue: 0,00:11:56.65,00:11:59.37,Default,,0,0,0,,Tibbie Do you think I will get into the illusion again?
+Dialogue: 0,00:12:08.09,00:12:09.17,Default,,0,0,0,,I’m back
+Dialogue: 0,00:12:11.57,00:12:13.09,Default,,0,0,0,,Sorry for Weslie
+Dialogue: 0,00:12:13.77,00:12:15.13,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:12:15.77,00:12:16.33,Default,,0,0,0,,Um
+Dialogue: 0,00:12:29.93,00:12:31.11,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:12:31.13,00:12:34.61,Default,,0,0,0,,It’s so interesting. Let’s have fun with me again

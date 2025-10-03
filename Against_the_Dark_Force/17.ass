@@ -1,0 +1,234 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.45,00:00:19.86,Default,,0,0,0,,The location here is more biased
+Dialogue: 0,00:00:19.89,00:00:21.69,Default,,0,0,0,,Not so easy to find
+Dialogue: 0,00:00:22.97,00:00:24.65,Default,,0,0,0,,That’s great, you’re fine
+Dialogue: 0,00:00:25.81,00:00:27.25,Default,,0,0,0,,The ice fan is damaged
+Dialogue: 0,00:00:27.49,00:00:30.13,Default,,0,0,0,,No need to worry about you becoming a snowman anymore
+Dialogue: 0,00:00:31.09,00:00:34.97,Default,,0,0,0,,Sorry, I’m the one who ruined the ice fan
+Dialogue: 0,00:00:35.13,00:00:38.77,Default,,0,0,0,,It’s me that I’ve made everyone unable to return to their original appearance
+Dialogue: 0,00:00:41.29,00:00:43.73,Default,,0,0,0,,It’s okay, we’re already ill
+Dialogue: 0,00:00:44.01,00:00:46.37,Default,,0,0,0,,You should leave here quickly
+Dialogue: 0,00:00:47.45,00:00:49.29,Default,,0,0,0,,Staying here is dangerous
+Dialogue: 0,00:00:49.45,00:00:50.37,Default,,0,0,0,,no
+Dialogue: 0,00:00:50.65,00:00:54.09,Default,,0,0,0,,I want to find out the fragments of the ice fan and repair it
+Dialogue: 0,00:00:54.93,00:00:55.85,Default,,0,0,0,,Can it be repaired?
+Dialogue: 0,00:00:56.69,00:00:57.81,Default,,0,0,0,,I can try
+Dialogue: 0,00:00:58.85,00:01:01.85,Default,,0,0,0,,But now there are soldiers everywhere
+Dialogue: 0,00:01:02.41,00:01:03.97,Default,,0,0,0,,We can’t go back at all
+Dialogue: 0,00:01:06.85,00:01:09.27,Default,,0,0,0,,There is no Wolffy King in the world
+Dialogue: 0,00:01:09.29,00:01:10.65,Default,,0,0,0,,Places that cannot be accessed
+Dialogue: 0,00:01:11.25,00:01:14.25,Default,,0,0,0,,You’re waiting for my good news
+Dialogue: 0,00:01:15.01,00:01:16.21,Default,,0,0,0,,Alas...
+Dialogue: 0,00:01:18.53,00:01:21.89,Default,,0,0,0,,We still led all the soldiers we searched for.
+Dialogue: 0,00:01:22.05,00:01:24.17,Default,,0,0,0,,Let Wolffy collect the fragments
+Dialogue: 0,00:01:24.53,00:01:24.93,Default,,0,0,0,,Um
+Dialogue: 0,00:01:36.45,00:01:37.29,Default,,0,0,0,,Who are you
+Dialogue: 0,00:01:58.69,00:01:59.97,Default,,0,0,0,,Come and catch us
+Dialogue: 0,00:02:01.17,00:02:01.81,Default,,0,0,0,,There
+Dialogue: 0,00:02:04.53,00:02:05.53,Default,,0,0,0,,Huh? ah!
+Dialogue: 0,00:02:05.81,00:02:08.39,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:08.41,00:02:09.07,Default,,0,0,0,,Then...
+Dialogue: 0,00:02:09.09,00:02:09.89,Default,,0,0,0,,There is a situation
+Dialogue: 0,00:02:10.13,00:02:11.89,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:14.09,00:02:15.25,Default,,0,0,0,,Thank you
+Dialogue: 0,00:02:33.61,00:02:35.85,Default,,0,0,0,,Very good I found a piece
+Dialogue: 0,00:02:36.49,00:02:37.29,Default,,0,0,0,,Add more robberies
+Dialogue: 0,00:02:41.57,00:02:43.09,Default,,0,0,0,,Have you been searching for too long
+Dialogue: 0,00:02:43.21,00:02:44.89,Default,,0,0,0,,Something uncomfortable in eyes
+Dialogue: 0,00:02:45.81,00:02:46.13,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:48.29,00:02:49.69,Default,,0,0,0,,Found again
+Dialogue: 0,00:02:49.77,00:02:52.89,Default,,0,0,0,,snort! Do you dare to come back?
+Dialogue: 0,00:02:53.85,00:02:56.41,Default,,0,0,0,,Hurricane Blade!
+Dialogue: 0,00:02:57.25,00:02:58.29,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:03:02.05,00:03:04.03,Default,,0,0,0,,Let me take it first
+Dialogue: 0,00:03:04.05,00:03:04.69,Default,,0,0,0,,goodbye
+Dialogue: 0,00:03:07.09,00:03:08.33,Default,,0,0,0,,Want to find the ice fan
+Dialogue: 0,00:03:09.17,00:03:11.45,Default,,0,0,0,,That’s... impossible
+Dialogue: 0,00:03:18.37,00:03:19.41,Default,,0,0,0,,oops…
+Dialogue: 0,00:03:20.17,00:03:21.25,Default,,0,0,0,,Don’t want to run
+Dialogue: 0,00:03:22.17,00:03:24.07,Default,,0,0,0,,You’re offending
+Dialogue: 0,00:03:24.09,00:03:26.25,Default,,0,0,0,,It’s stupid to have the ability
+Dialogue: 0,00:03:27.09,00:03:28.29,Default,,0,0,0,,Then I’ll come too
+Dialogue: 0,00:03:28.73,00:03:30.37,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:03:30.69,00:03:34.49,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:03:37.33,00:03:39.13,Default,,0,0,0,,Failed to hit, gray...
+Dialogue: 0,00:03:41.61,00:03:42.77,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:03:44.17,00:03:46.95,Default,,0,0,0,,The video...so fuzzy...
+Dialogue: 0,00:03:46.97,00:03:48.13,Default,,0,0,0,,The eyes are getting hurting more and more
+Dialogue: 0,00:03:50.85,00:03:53.65,Default,,0,0,0,,The light is so bright that I can’t see the way
+Dialogue: 0,00:03:54.09,00:03:56.69,Default,,0,0,0,,What’s going on? I can’t see it anymore
+Dialogue: 0,00:03:57.09,00:03:57.89,Default,,0,0,0,,Ah...
+Dialogue: 0,00:04:00.01,00:04:00.77,Default,,0,0,0,,Are you exhausted?
+Dialogue: 0,00:04:01.69,00:04:04.69,Default,,0,0,0,,Good chance to catch you
+Dialogue: 0,00:04:08.69,00:04:09.47,Default,,0,0,0,,Let go!
+Dialogue: 0,00:04:09.49,00:04:10.29,Default,,0,0,0,,Don’t let it go!
+Dialogue: 0,00:04:12.05,00:04:13.15,Default,,0,0,0,,黑风黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑
+Dialogue: 0,00:04:13.17,00:04:13.97,Default,,0,0,0,,Don’t think about it!
+Dialogue: 0,00:04:14.77,00:04:15.63,Default,,0,0,0,,Let me go
+Dialogue: 0,00:04:15.65,00:04:18.17,Default,,0,0,0,,Even if you can’t see it, just catch you
+Dialogue: 0,00:04:18.33,00:04:20.45,Default,,0,0,0,,Just hate you?黑风黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑黑
+Dialogue: 0,00:04:20.69,00:04:22.37,Default,,0,0,0,,Lightning Strike!
+Dialogue: 0,00:04:28.77,00:04:31.33,Default,,0,0,0,,It seems that I heard a bad sound
+Dialogue: 0,00:04:32.81,00:04:34.37,Default,,0,0,0,,How did it sink
+Dialogue: 0,00:04:34.73,00:04:36.25,Default,,0,0,0,,It depends on the good things you did...
+Dialogue: 0,00:04:37.49,00:04:42.05,Default,,0,0,0,,- Ahhhhh…
+- Ahhhhh…
+Dialogue: 0,00:04:46.37,00:04:47.49,Default,,0,0,0,,What happened here?
+Dialogue: 0,00:04:48.69,00:04:49.97,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:04:50.37,00:04:52.37,Default,,0,0,0,,I heard there was tranquility around the park
+Dialogue: 0,00:04:52.49,00:04:53.85,Default,,0,0,0,,Let’s go and have a look
+Dialogue: 0,00:04:54.05,00:04:55.53,Default,,0,0,0,,Right, I heard it too
+Dialogue: 0,00:05:00.69,00:05:01.21,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:05:01.81,00:05:02.41,Default,,0,0,0,,puff!
+Dialogue: 0,00:05:04.65,00:05:05.49,Default,,0,0,0,,Get it done
+Dialogue: 0,00:05:05.89,00:05:07.65,Default,,0,0,0,,Wow! Big snowball!
+Dialogue: 0,00:05:07.77,00:05:08.77,Default,,0,0,0,,Help...
+Dialogue: 0,00:05:11.13,00:05:11.77,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:05:16.21,00:05:18.33,Default,,0,0,0,,Ah... monster
+Dialogue: 0,00:05:19.73,00:05:22.01,Default,,0,0,0,,Don’t come...I will never dare again...
+Dialogue: 0,00:05:22.89,00:05:24.05,Default,,0,0,0,,All caught
+Dialogue: 0,00:05:24.49,00:05:26.37,Default,,0,0,0,,I don’t know what happened to Wolffy
+Dialogue: 0,00:05:26.77,00:05:28.29,Default,,0,0,0,,Let’s go find him now
+Dialogue: 0,00:05:28.53,00:05:28.89,Default,,0,0,0,,Um
+Dialogue: 0,00:05:39.61,00:05:42.37,Default,,0,0,0,,Oh, I really can’t see anything...
+Dialogue: 0,00:05:42.69,00:05:43.41,Default,,0,0,0,,oops
+Dialogue: 0,00:05:43.61,00:05:44.25,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:44.49,00:05:46.41,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:05:46.49,00:05:48.05,Default,,0,0,0,,I’m under you
+Dialogue: 0,00:05:49.69,00:05:51.97,Default,,0,0,0,,Weslie, aren’t you hurt?
+Dialogue: 0,00:05:52.37,00:05:53.17,Default,,0,0,0,,My feet...
+Dialogue: 0,00:05:53.57,00:05:54.17,Default,,0,0,0,,horn?
+Dialogue: 0,00:05:59.89,00:06:03.25,Default,,0,0,0,,Sorry, Weslie, I stepped on your horn
+Dialogue: 0,00:06:03.45,00:06:05.45,Default,,0,0,0,,I’ll pack it for you here
+Dialogue: 0,00:06:07.05,00:06:08.43,Default,,0,0,0,,Not this corner
+Dialogue: 0,00:06:08.45,00:06:11.41,Default,,0,0,0,,My legs were all pressed by stones
+Dialogue: 0,00:06:20.65,00:06:21.53,Default,,0,0,0,,Found
+Dialogue: 0,00:06:22.45,00:06:24.57,Default,,0,0,0,,Let me help you pry the stone open
+Dialogue: 0,00:06:29.45,00:06:32.21,Default,,0,0,0,,Not here, this is my head
+Dialogue: 0,00:06:34.17,00:06:35.49,Default,,0,0,0,,Where is that?
+Dialogue: 0,00:06:36.17,00:06:38.25,Default,,0,0,0,,Here? Here?
+Dialogue: 0,00:06:39.29,00:06:40.97,Default,,0,0,0,,Where are you, Weslie?
+Dialogue: 0,00:06:41.17,00:06:41.97,Default,,0,0,0,,Snow blindness?
+Dialogue: 0,00:06:43.09,00:06:44.93,Default,,0,0,0,,Now you hear me pointing
+Dialogue: 0,00:06:45.37,00:06:47.21,Default,,0,0,0,,Walk towards you at 3 o’clock
+Dialogue: 0,00:06:47.69,00:06:49.69,Default,,0,0,0,,Then insert the branches under the stone
+Dialogue: 0,00:06:50.93,00:06:54.97,Default,,0,0,0,,12 o’clock 1 o’clock 2 o’clock 3 o’clock
+Dialogue: 0,00:06:55.45,00:06:56.81,Default,,0,0,0,,Is that right?
+Dialogue: 0,00:07:01.17,00:07:03.29,Default,,0,0,0,,Now my legs are damaged and I can’t move
+Dialogue: 0,00:07:03.49,00:07:05.25,Default,,0,0,0,,You can call someone to save us
+Dialogue: 0,00:07:05.61,00:07:09.83,Default,,0,0,0,,OK Help...
+Dialogue: 0,00:07:09.85,00:07:11.97,Default,,0,0,0,,- ah…
+- Stop shouting, the stone was shocked
+Dialogue: 0,00:07:14.05,00:07:15.65,Default,,0,0,0,,Where to hide? Where to hide?
+Dialogue: 0,00:07:16.65,00:07:17.09,Default,,0,0,0,,Right
+Dialogue: 0,00:07:18.17,00:07:18.81,Default,,0,0,0,,Jump left
+Dialogue: 0,00:07:19.37,00:07:20.09,Default,,0,0,0,,Three circles on the right
+Dialogue: 0,00:07:24.65,00:07:26.57,Default,,0,0,0,,Can’t you make a little noise if you call someone?
+Dialogue: 0,00:07:26.97,00:07:29.07,Default,,0,0,0,,Then you can clear my eyes
+Dialogue: 0,00:07:29.09,00:07:30.93,Default,,0,0,0,,I can take you right up
+Dialogue: 0,00:07:31.41,00:07:34.09,Default,,0,0,0,,Hum, I can’t help your eyes clear
+Dialogue: 0,00:07:34.65,00:07:35.79,Default,,0,0,0,,It’s not that you use your power
+Dialogue: 0,00:07:35.81,00:07:37.85,Default,,0,0,0,,Have my eyes lost sight of anything?
+Dialogue: 0,00:07:38.33,00:07:41.03,Default,,0,0,0,,Your eyes are the sun reflected by snow
+Dialogue: 0,00:07:41.05,00:07:43.53,Default,,0,0,0,,It’s not visible after a long period of exposure
+Dialogue: 0,00:07:43.65,00:07:44.77,Default,,0,0,0,,This is snow blindness
+Dialogue: 0,00:07:45.25,00:07:47.13,Default,,0,0,0,,There is no way to recover in a short period of time
+Dialogue: 0,00:07:47.85,00:07:49.17,Default,,0,0,0,,Then what should I do now
+Dialogue: 0,00:07:49.37,00:07:51.25,Default,,0,0,0,,I...I can’t see it
+Dialogue: 0,00:07:51.65,00:07:55.09,Default,,0,0,0,,You can’t leave, you can’t call for help
+Dialogue: 0,00:07:56.01,00:07:57.91,Default,,0,0,0,,Then won’t you be able to get out?
+Dialogue: 0,00:07:57.93,00:07:58.75,Default,,0,0,0,,How about it...
+Dialogue: 0,00:07:58.77,00:08:01.25,Default,,0,0,0,,Still think about what’s the solution
+Dialogue: 0,00:08:02.57,00:08:06.69,Default,,0,0,0,,How to do it? I’ve come up with the idea
+Dialogue: 0,00:08:08.41,00:08:12.49,Default,,0,0,0,,You are my eyes I am your double digit
+Dialogue: 0,00:08:12.69,00:08:14.73,Default,,0,0,0,,Let’s go up together
+Dialogue: 0,00:08:15.81,00:08:18.57,Default,,0,0,0,,Is it hard to worry about your strength?
+Dialogue: 0,00:08:19.97,00:08:21.77,Default,,0,0,0,,Then try it
+Dialogue: 0,00:08:22.77,00:08:24.83,Default,,0,0,0,,Don’t run and hit the stone
+Dialogue: 0,00:08:24.85,00:08:26.09,Default,,0,0,0,,Stop and stop…
+Dialogue: 0,00:08:26.37,00:08:28.45,Default,,0,0,0,,You stand up first and let me see how to climb
+Dialogue: 0,00:08:34.29,00:08:35.95,Default,,0,0,0,,ha! Just go to the right
+Dialogue: 0,00:08:35.97,00:08:37.83,Default,,0,0,0,,At that time, I will climb up the vines
+Dialogue: 0,00:08:37.85,00:08:38.85,Default,,0,0,0,,Put him here
+Dialogue: 0,00:08:40.57,00:08:41.37,Default,,0,0,0,,Go to the right
+Dialogue: 0,00:08:45.49,00:08:46.89,Default,,0,0,0,,Listen to my instructions and climb up
+Dialogue: 0,00:08:49.69,00:08:51.49,Default,,0,0,0,,There is a stone to tread on the right
+Dialogue: 0,00:08:54.13,00:08:55.45,Default,,0,0,0,,There is also a stone on the left
+Dialogue: 0,00:08:57.69,00:08:58.49,Default,,0,0,0,,Climbing upwards
+Dialogue: 0,00:09:05.05,00:09:05.97,Default,,0,0,0,,Climb to the left a little
+Dialogue: 0,00:09:06.89,00:09:08.89,Default,,0,0,0,,Do you... believe me?
+Dialogue: 0,00:09:09.69,00:09:12.57,Default,,0,0,0,,We are two brothers on the same boat now
+Dialogue: 0,00:09:13.37,00:09:15.05,Default,,0,0,0,,Of course I believe you
+Dialogue: 0,00:09:16.89,00:09:19.25,Default,,0,0,0,,- Oh, it hurts so much...
+- Ahhhhh…
+Dialogue: 0,00:09:20.05,00:09:21.69,Default,,0,0,0,,You’re going to hug me
+Dialogue: 0,00:09:22.09,00:09:23.41,Default,,0,0,0,,Don’t fall down
+Dialogue: 0,00:09:30.77,00:09:32.63,Default,,0,0,0,,I’m here to see Wolffy again
+Dialogue: 0,00:09:32.65,00:09:33.97,Default,,0,0,0,,You’re stuck here
+Dialogue: 0,00:09:35.05,00:09:37.11,Default,,0,0,0,,Ah, it hurts so much...
+Dialogue: 0,00:09:37.13,00:09:40.17,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:09:40.29,00:09:45.81,Default,,0,0,0,,Weslie? oops…
+Dialogue: 0,00:09:46.41,00:09:47.45,Default,,0,0,0,,Wolffy, you...
+Dialogue: 0,00:09:50.05,00:09:51.85,Default,,0,0,0,,It’s about to fall to the ground...
+Dialogue: 0,00:09:59.69,00:10:00.73,Default,,0,0,0,,You’re fine, right?
+Dialogue: 0,00:10:01.29,00:10:03.17,Default,,0,0,0,,No...I’m fine
+Dialogue: 0,00:10:04.61,00:10:06.49,Default,,0,0,0,,Why did you turn down?
+Dialogue: 0,00:10:07.13,00:10:08.41,Default,,0,0,0,,No reason
+Dialogue: 0,00:10:09.09,00:10:10.45,Default,,0,0,0,,Don’t care about these
+Dialogue: 0,00:10:10.69,00:10:12.25,Default,,0,0,0,,You’ve helped me before
+Dialogue: 0,00:10:14.17,00:10:17.17,Default,,0,0,0,,Weslie, aren’t we friends?
+Dialogue: 0,00:10:18.57,00:10:22.49,Default,,0,0,0,,Wolffy I’m behind you
+Dialogue: 0,00:10:24.89,00:10:26.37,Default,,0,0,0,,I’m not friends with you
+Dialogue: 0,00:10:26.57,00:10:27.85,Default,,0,0,0,,We just got on the right time
+Dialogue: 0,00:10:28.37,00:10:30.13,Default,,0,0,0,,OK, take a quick ride
+Dialogue: 0,00:10:30.73,00:10:33.05,Default,,0,0,0,,Come on, let’s try again
+Dialogue: 0,00:10:40.61,00:10:42.97,Default,,0,0,0,,It’s hard to climb on the right, let’s climb from the left
+Dialogue: 0,00:10:44.01,00:10:44.41,Default,,0,0,0,,good
+Dialogue: 0,00:10:56.17,00:10:59.09,Default,,0,0,0,,- Very good, finally came out
+- Very good, finally came out
+Dialogue: 0,00:10:59.77,00:11:00.75,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:11:00.77,00:11:01.37,Default,,0,0,0,,Weslie
+Dialogue: 0,00:11:02.93,00:11:04.77,Default,,0,0,0,,Ahem, you’re just here
+Dialogue: 0,00:11:05.65,00:11:06.81,Default,,0,0,0,,Come and carry me back
+Dialogue: 0,00:11:06.97,00:11:07.45,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:11:10.17,00:11:12.25,Default,,0,0,0,,So how should this wolf be dealt with?
+Dialogue: 0,00:11:19.25,00:11:19.77,Default,,0,0,0,,yes
+Dialogue: 0,00:11:21.61,00:11:22.01,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:23.17,00:11:24.05,Default,,0,0,0,,What’s up
+Dialogue: 0,00:11:24.73,00:11:25.13,Default,,0,0,0,,Next
+Dialogue: 0,00:11:27.77,00:11:28.89,Default,,0,0,0,,This is...
+Dialogue: 0,00:11:29.49,00:11:31.29,Default,,0,0,0,,I’ll give you this favor
+Dialogue: 0,00:11:31.81,00:11:35.61,Default,,0,0,0,,Now I’m doing business and hand over the fragments
+Dialogue: 0,00:11:36.37,00:11:38.97,Default,,0,0,0,,No, I won’t hand over the fragments to you
+Dialogue: 0,00:11:41.61,00:11:42.09,Default,,0,0,0,,yes
+Dialogue: 0,00:11:43.97,00:11:45.29,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:50.97,00:11:51.81,Default,,0,0,0,,Retreat first
+Dialogue: 0,00:11:52.45,00:11:52.89,Default,,0,0,0,,yes
+Dialogue: 0,00:11:58.37,00:12:00.29,Default,,0,0,0,,Wolffy, you’re fine?
+Dialogue: 0,00:12:01.97,00:12:03.13,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:12:06.77,00:12:08.21,Default,,0,0,0,,What’s wrong with your eyes
+Dialogue: 0,00:12:08.57,00:12:12.29,Default,,0,0,0,,It’s snow blindness, I can’t see anything
+Dialogue: 0,00:12:12.45,00:12:13.81,Default,,0,0,0,,What should I do
+Dialogue: 0,00:12:14.29,00:12:16.77,Default,,0,0,0,,Don’t worry, this can be cured
+Dialogue: 0,00:12:17.33,00:12:18.89,Default,,0,0,0,,Let’s leave here first
+Dialogue: 0,00:12:20.29,00:12:22.57,Default,,0,0,0,,Wolffy What’s on this bag
+Dialogue: 0,00:12:23.05,00:12:27.21,Default,,0,0,0,,This is…a medicine for treating snow blindness
+Dialogue: 0,00:12:27.85,00:12:29.01,Default,,0,0,0,,Who gave it to you?
+Dialogue: 0,00:12:29.85,00:12:31.73,Default,,0,0,0,,It’s given by Weslie
+Dialogue: 0,00:12:32.25,00:12:33.09,Default,,0,0,0,,what?

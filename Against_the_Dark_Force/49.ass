@@ -1,0 +1,212 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.53,00:00:20.73,Default,,0,0,0,,This is hard to say that this is the light drama of that year
+Dialogue: 0,00:00:21.09,00:00:22.51,Default,,0,0,0,,Very likely
+Dialogue: 0,00:00:22.53,00:00:24.82,Default,,0,0,0,,The strange king has never been found
+Dialogue: 0,00:00:24.85,00:00:26.81,Default,,0,0,0,,It turns out that the light sculpt was inserted into the stone statue
+Dialogue: 0,00:00:28.29,00:00:30.37,Default,,0,0,0,,But this sword is inserted into the stone
+Dialogue: 0,00:00:30.49,00:00:31.81,Default,,0,0,0,,It seems difficult to get
+Dialogue: 0,00:00:35.09,00:00:37.77,Default,,0,0,0,,Hehehe... I’ll give it to me when this is the case
+Dialogue: 0,00:00:40.69,00:00:43.65,Default,,0,0,0,,After so many years of training, it was finally put on the stage
+Dialogue: 0,00:00:44.21,00:00:45.29,Default,,0,0,0,,come on
+Dialogue: 0,00:00:49.29,00:00:51.81,Default,,0,0,0,,ah…
+Dialogue: 0,00:00:53.49,00:00:55.69,Default,,0,0,0,,ah…
+Dialogue: 0,00:00:56.57,00:01:02.41,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:03.57,00:01:06.09,Default,,0,0,0,,Sparky , you’re fine
+Dialogue: 0,00:01:08.85,00:01:11.89,Default,,0,0,0,,How can I not even have the most powerful Sparky?
+Dialogue: 0,00:01:12.61,00:01:14.67,Default,,0,0,0,,Will it be the only selected warrior
+Dialogue: 0,00:01:14.69,00:01:16.25,Default,,0,0,0,,Can you pull it out
+Dialogue: 0,00:01:16.69,00:01:18.97,Default,,0,0,0,,Just like the stone in the morning of that year
+Dialogue: 0,00:01:19.65,00:01:21.05,Default,,0,0,0,,- Stone Spot…
+- Stone Spot…
+Dialogue: 0,00:01:22.01,00:01:24.69,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:30.85,00:01:33.85,Default,,0,0,0,,It makes sense. Go and try it
+Dialogue: 0,00:01:35.25,00:01:36.49,Default,,0,0,0,,Then I’ll try it
+Dialogue: 0,00:01:43.93,00:01:51.41,Default,,0,0,0,,Huh...ah...
+Dialogue: 0,00:01:52.13,00:01:54.77,Default,,0,0,0,,Successful uh...
+Dialogue: 0,00:01:54.89,00:01:56.61,Default,,0,0,0,,I got the silhouette
+Dialogue: 0,00:01:56.77,00:01:57.49,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:01.05,00:02:02.29,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:02:02.57,00:02:04.33,Default,,0,0,0,,I’ll break it with kiwi
+Dialogue: 0,00:02:07.37,00:02:10.09,Default,,0,0,0,,It depends on the time machine to remove the sword
+Dialogue: 0,00:02:15.57,00:02:16.57,Default,,0,0,0,,Just now
+Dialogue: 0,00:02:19.17,00:02:20.29,Default,,0,0,0,,Did it succeed?
+Dialogue: 0,00:02:24.29,00:02:26.05,Default,,0,0,0,,Where is the light drama?
+Dialogue: 0,00:02:28.37,00:02:29.81,Default,,0,0,0,,What should I do
+Dialogue: 0,00:02:32.05,00:02:33.17,Default,,0,0,0,,Come quickly everyone
+Dialogue: 0,00:02:34.37,00:02:35.79,Default,,0,0,0,,What’s wrong? Tibbie
+Dialogue: 0,00:02:35.81,00:02:36.77,Default,,0,0,0,,Look quickly
+Dialogue: 0,00:02:37.89,00:02:38.77,Default,,0,0,0,,It’s a shoe print
+Dialogue: 0,00:02:39.69,00:02:42.29,Default,,0,0,0,,Hehe...it’s successful
+Dialogue: 0,00:02:42.81,00:02:44.17,Default,,0,0,0,,The lone wolf stands
+Dialogue: 0,00:02:44.53,00:02:45.57,Default,,0,0,0,,Don’t want to run
+Dialogue: 0,00:02:58.29,00:02:59.01,Default,,0,0,0,,Look quickly
+Dialogue: 0,00:03:01.97,00:03:03.89,Default,,0,0,0,,The stone shattered
+Dialogue: 0,00:03:04.65,00:03:06.93,Default,,0,0,0,,Let me test its power
+Dialogue: 0,00:03:10.01,00:03:10.89,Default,,0,0,0,,No!
+Dialogue: 0,00:03:17.09,00:03:18.89,Default,,0,0,0,,Even the cloud shields are cut
+Dialogue: 0,00:03:19.45,00:03:21.09,Default,,0,0,0,,This is a drama of light
+Dialogue: 0,00:03:21.17,00:03:24.05,Default,,0,0,0,,Your bad egg cannot expose its true power
+Dialogue: 0,00:03:24.57,00:03:25.66,Default,,0,0,0,,What do you mean...
+Dialogue: 0,00:03:25.69,00:03:26.89,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:03:30.21,00:03:31.53,Default,,0,0,0,,Get the scimitar
+Dialogue: 0,00:03:31.85,00:03:33.33,Default,,0,0,0,,yeah!
+Dialogue: 0,00:03:40.09,00:03:42.17,Default,,0,0,0,,You don’t have to worry about it
+Dialogue: 0,00:03:42.89,00:03:45.89,Default,,0,0,0,,I believe they will find Weslie
+Dialogue: 0,00:03:47.13,00:03:49.29,Default,,0,0,0,,ah? Um
+Dialogue: 0,00:03:52.17,00:03:53.25,Default,,0,0,0,,Who is coming
+Dialogue: 0,00:03:53.77,00:03:54.65,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:03:58.65,00:03:59.41,Default,,0,0,0,,Be careful
+Dialogue: 0,00:04:01.93,00:04:05.25,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:09.49,00:04:11.13,Default,,0,0,0,,Will something happen to Luna?
+Dialogue: 0,00:04:13.13,00:04:14.77,Default,,0,0,0,,Mom Where is Dad?
+Dialogue: 0,00:04:15.01,00:04:16.49,Default,,0,0,0,,Dad is back soon
+Dialogue: 0,00:04:17.57,00:04:20.09,Default,,0,0,0,,Luna Where are you
+Dialogue: 0,00:04:25.69,00:04:26.83,Default,,0,0,0,,Luna
+Dialogue: 0,00:04:26.85,00:04:28.65,Default,,0,0,0,,Luna, you’re back
+Dialogue: 0,00:04:30.05,00:04:32.69,Default,,0,0,0,,Luna You finally come back
+Dialogue: 0,00:04:32.89,00:04:33.97,Default,,0,0,0,,Luna
+Dialogue: 0,00:04:34.93,00:04:36.09,Default,,0,0,0,,Luna…
+Dialogue: 0,00:04:36.69,00:04:38.37,Default,,0,0,0,,Luna, are you doing
+Dialogue: 0,00:04:38.73,00:04:41.67,Default,,0,0,0,,I will call me...Luna
+Dialogue: 0,00:04:41.69,00:04:43.01,Default,,0,0,0,,Hahahahaha
+Dialogue: 0,00:04:43.85,00:04:45.53,Default,,0,0,0,,He seems to have passed
+Dialogue: 0,00:04:46.41,00:04:47.81,Default,,0,0,0,,Then how to deal with him
+Dialogue: 0,00:04:48.37,00:04:50.75,Default,,0,0,0,,The most important thing now is to bring the sword back
+Dialogue: 0,00:04:50.77,00:04:52.69,Default,,0,0,0,,Take the lonely wolf back together
+Dialogue: 0,00:04:53.41,00:04:55.01,Default,,0,0,0,,Yes, I’ll carry him
+Dialogue: 0,00:04:56.05,00:04:57.17,Default,,0,0,0,,OK Let’s go
+Dialogue: 0,00:05:05.29,00:05:06.37,Default,,0,0,0,,I’ll get it
+Dialogue: 0,00:05:07.09,00:05:07.85,Default,,0,0,0,,What’s up
+Dialogue: 0,00:05:09.17,00:05:10.35,Default,,0,0,0,,This important thing
+Dialogue: 0,00:05:10.37,00:05:13.29,Default,,0,0,0,,Of course I have to hand it over to me, the most powerful person, to keep it
+Dialogue: 0,00:05:14.37,00:05:16.05,Default,,0,0,0,,But we are except you
+Dialogue: 0,00:05:16.25,00:05:18.41,Default,,0,0,0,,It’s hard to carry the lone wolf
+Dialogue: 0,00:05:18.93,00:05:21.81,Default,,0,0,0,,Are you looking for excuses to steal?
+Dialogue: 0,00:05:22.05,00:05:23.29,Default,,0,0,0,,Uh I...
+Dialogue: 0,00:05:23.85,00:05:26.45,Default,,0,0,0,,It’s okay, I’ll come and recite it
+Dialogue: 0,00:05:30.57,00:05:31.49,Default,,0,0,0,,It’s so strange
+Dialogue: 0,00:05:31.77,00:05:34.65,Default,,0,0,0,,Isn’t it that Sparky  takes the initiative to carry the lone-hearted wolf?
+Dialogue: 0,00:05:38.77,00:05:41.09,Default,,0,0,0,,Wait a minute I’ll get it
+Dialogue: 0,00:05:44.01,00:05:45.99,Default,,0,0,0,,You...you are not a Sparky
+Dialogue: 0,00:05:46.01,00:05:46.97,Default,,0,0,0,,what!
+Dialogue: 0,00:05:47.17,00:05:48.25,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:05:50.85,00:05:51.81,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:05:52.77,00:05:54.31,Default,,0,0,0,,My doubts are correct
+Dialogue: 0,00:05:54.33,00:05:56.61,Default,,0,0,0,,The Sparky  is controlled by the lonely wolf
+Dialogue: 0,00:05:57.89,00:05:58.53,Default,,0,0,0,,goodbye
+Dialogue: 0,00:06:00.05,00:06:03.15,Default,,0,0,0,,Don’t let him run away.
+Dialogue: 0,00:06:03.17,00:06:03.89,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:06:04.81,00:06:06.57,Default,,0,0,0,,This will hurt Sparky’s body
+Dialogue: 0,00:06:16.97,00:06:17.77,Default,,0,0,0,,Innocent
+Dialogue: 0,00:06:25.73,00:06:26.81,Default,,0,0,0,,See
+Dialogue: 0,00:06:39.97,00:06:42.09,Default,,0,0,0,,Just want to defeat me, you want to defeat me
+Dialogue: 0,00:06:43.69,00:06:45.09,Default,,0,0,0,,And we
+Dialogue: 0,00:06:47.49,00:06:49.49,Default,,0,0,0,,Oh wow...
+Dialogue: 0,00:06:52.25,00:06:53.81,Default,,0,0,0,,Have to find a way to leave
+Dialogue: 0,00:06:55.53,00:06:57.21,Default,,0,0,0,,It’s time to be old this time
+Dialogue: 0,00:06:57.85,00:06:58.73,Default,,0,0,0,,The lone wolf
+Dialogue: 0,00:06:58.77,00:07:00.89,Default,,0,0,0,,Give me a quick leave of the Sparky ’s body
+Dialogue: 0,00:07:01.13,00:07:02.05,Default,,0,0,0,,Otherwise...
+Dialogue: 0,00:07:03.05,00:07:05.21,Default,,0,0,0,,But don’t blame us for being rude
+Dialogue: 0,00:07:07.53,00:07:08.45,Default,,0,0,0,,The opportunity is here
+Dialogue: 0,00:07:15.01,00:07:16.01,Default,,0,0,0,,Sparky
+Dialogue: 0,00:07:17.97,00:07:18.85,Default,,0,0,0,,Sparky
+Dialogue: 0,00:07:20.45,00:07:21.77,Default,,0,0,0,,What happened
+Dialogue: 0,00:07:22.85,00:07:24.45,Default,,0,0,0,,How did I hold me
+Dialogue: 0,00:07:24.69,00:07:25.89,Default,,0,0,0,,You don’t remember it?
+Dialogue: 0,00:07:26.41,00:07:28.49,Default,,0,0,0,,You were just controlled by the lonely wolf
+Dialogue: 0,00:07:28.73,00:07:30.09,Default,,0,0,0,,The light drama was also taken away
+Dialogue: 0,00:07:35.89,00:07:38.65,Default,,0,0,0,,Successful, and the light drama is here with me
+Dialogue: 0,00:07:39.25,00:07:41.33,Default,,0,0,0,,- Only the one who can handle this help
+- This happened
+Dialogue: 0,00:07:42.45,00:07:44.85,Default,,0,0,0,,Hunting Yangyang, please help me untie the skeleton
+Dialogue: 0,00:07:44.97,00:07:45.45,Default,,0,0,0,,good
+Dialogue: 0,00:07:46.37,00:07:47.45,Default,,0,0,0,,Don’t believe him
+Dialogue: 0,00:07:47.89,00:07:49.69,Default,,0,0,0,,The lonely wolf hasn’t woken up yet
+Dialogue: 0,00:07:50.17,00:07:52.65,Default,,0,0,0,,So he must be still controlling the Sparky 
+Dialogue: 0,00:07:53.41,00:07:55.07,Default,,0,0,0,,Almost cheated by you
+Dialogue: 0,00:07:55.09,00:07:56.49,Default,,0,0,0,,I’m...really
+Dialogue: 0,00:07:57.49,00:07:58.65,Default,,0,0,0,,I want to make a mistake
+Dialogue: 0,00:07:58.85,00:08:00.49,Default,,0,0,0,,No I don’t
+Dialogue: 0,00:08:02.89,00:08:04.61,Default,,0,0,0,,See you again, lamb
+Dialogue: 0,00:08:04.89,00:08:05.69,Default,,0,0,0,,careful…
+Dialogue: 0,00:08:19.69,00:08:20.77,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:23.97,00:08:25.69,Default,,0,0,0,,Weslie, you’re fine
+Dialogue: 0,00:08:26.89,00:08:28.37,Default,,0,0,0,,What happened?
+Dialogue: 0,00:08:28.89,00:08:33.49,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:08:37.21,00:08:39.09,Default,,0,0,0,,Wake up Luna
+Dialogue: 0,00:08:40.69,00:08:42.57,Default,,0,0,0,,You are controlled by dark energy
+Dialogue: 0,00:08:43.73,00:08:45.37,Default,,0,0,0,,I’m very awake
+Dialogue: 0,00:08:49.21,00:08:51.77,Default,,0,0,0,,Then you still remember...your family
+Dialogue: 0,00:08:52.97,00:08:54.29,Default,,0,0,0,,Are you with my sister?
+Dialogue: 0,00:09:03.17,00:09:04.69,Default,,0,0,0,,How kind you are
+Dialogue: 0,00:09:05.45,00:09:07.41,Default,,0,0,0,,Take care of me when I’m sick
+Dialogue: 0,00:09:07.97,00:09:09.81,Default,,0,0,0,,Love every inch of flowers and plants
+Dialogue: 0,00:09:10.09,00:09:12.25,Default,,0,0,0,,Rescue me from the darkness
+Dialogue: 0,00:09:12.69,00:09:13.69,Default,,0,0,0,,Have you finished speaking
+Dialogue: 0,00:09:19.09,00:09:20.17,Default,,0,0,0,,- Levana
+- Levana
+Dialogue: 0,00:09:36.13,00:09:37.33,Default,,0,0,0,,- Levana
+- Levana
+Dialogue: 0,00:09:43.41,00:09:45.65,Default,,0,0,0,,You just want to stop me?
+Dialogue: 0,00:09:45.93,00:09:46.73,Default,,0,0,0,,It’s over!
+Dialogue: 0,00:09:48.25,00:09:49.57,Default,,0,0,0,,Don’t beat it again
+Dialogue: 0,00:09:50.49,00:09:52.73,Default,,0,0,0,,Everyone hears the bright moon
+Dialogue: 0,00:09:54.21,00:09:55.73,Default,,0,0,0,,Hahahahahahahahaha...
+Dialogue: 0,00:10:01.29,00:10:03.37,Default,,0,0,0,,Now I’m the strongest
+Dialogue: 0,00:10:08.77,00:10:09.77,Default,,0,0,0,,I’ll catch up first
+Dialogue: 0,00:10:16.81,00:10:19.01,Default,,0,0,0,,Give us the lone wolf
+Dialogue: 0,00:10:19.81,00:10:21.77,Default,,0,0,0,,He caught up so quickly
+Dialogue: 0,00:10:23.29,00:10:24.17,Default,,0,0,0,,Have it!
+Dialogue: 0,00:10:26.21,00:10:28.25,Default,,0,0,0,,OK, go and take it yourself
+Dialogue: 0,00:10:30.53,00:10:33.49,Default,,0,0,0,,Just go down and get the sword and don’t want to come up alive
+Dialogue: 0,00:10:40.65,00:10:41.93,Default,,0,0,0,,Really desperate
+Dialogue: 0,00:10:42.37,00:10:43.57,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:43.85,00:10:44.77,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:10:46.09,00:10:47.37,Default,,0,0,0,,Everyone, hurry up
+Dialogue: 0,00:10:47.81,00:10:48.57,Default,,0,0,0,,you…
+Dialogue: 0,00:10:55.85,00:10:57.77,Default,,0,0,0,,Can’t let Weslie goat have something to do
+Dialogue: 0,00:10:57.89,00:11:00.01,Default,,0,0,0,,He actually did this in front of the enemy
+Dialogue: 0,00:11:02.09,00:11:03.49,Default,,0,0,0,,Do you look down on me?
+Dialogue: 0,00:11:10.73,00:11:12.69,Default,,0,0,0,,Lonely Wolf, please take it
+Dialogue: 0,00:11:13.45,00:11:14.77,Default,,0,0,0,,Don’t hurt them
+Dialogue: 0,00:11:14.93,00:11:16.29,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:11:16.65,00:11:18.23,Default,,0,0,0,,Hahaha...
+Dialogue: 0,00:11:18.25,00:11:21.93,Default,,0,0,0,,Weslie You actually believe in your so-called friends
+Dialogue: 0,00:11:22.77,00:11:25.33,Default,,0,0,0,,They just pretended to be false
+Dialogue: 0,00:11:25.69,00:11:27.89,Default,,0,0,0,,They’ll be able to relax soon
+Dialogue: 0,00:11:29.09,00:11:30.85,Default,,0,0,0,,Stop the lonely wolf
+Dialogue: 0,00:11:32.45,00:11:34.99,Default,,0,0,0,,It’s too deep, Hurricane Blade cannot be used
+Dialogue: 0,00:11:35.01,00:11:36.45,Default,,0,0,0,,ah…
+Dialogue: 0,00:11:39.57,00:11:42.01,Default,,0,0,0,,Very strong, then continue
+Dialogue: 0,00:11:42.69,00:11:44.13,Default,,0,0,0,,ah…
+Dialogue: 0,00:11:44.17,00:11:45.33,Default,,0,0,0,,ah…
+Dialogue: 0,00:11:47.57,00:11:49.09,Default,,0,0,0,,Why don’t you let go
+Dialogue: 0,00:11:49.45,00:11:50.19,Default,,0,0,0,,Because…
+Dialogue: 0,00:11:50.21,00:11:53.01,Default,,0,0,0,,We won’t give up our partners
+Dialogue: 0,00:11:54.77,00:11:57.75,Default,,0,0,0,,Then let me cut this faint mask
+Dialogue: 0,00:11:57.77,00:11:58.97,Default,,0,0,0,,Can’t give up
+Dialogue: 0,00:11:59.33,00:12:00.93,Default,,0,0,0,,Everyone pull it hard
+Dialogue: 0,00:12:08.01,00:12:09.01,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:12:15.97,00:12:16.81,Default,,0,0,0,,Escaped?
+Dialogue: 0,00:12:18.49,00:12:20.37,Default,,0,0,0,,Sorry, I’m tired of everyone
+Dialogue: 0,00:12:21.13,00:12:22.17,Default,,0,0,0,,What are you talking about
+Dialogue: 0,00:12:22.33,00:12:24.77,Default,,0,0,0,,Isn’t this what a good friend should do?
+Dialogue: 0,00:12:26.17,00:12:29.45,Default,,0,0,0,,Haha…The light drama is back in our hands
+Dialogue: 0,00:12:29.57,00:12:31.85,Default,,0,0,0,,good friend? It’s so ridiculous
+Dialogue: 0,00:12:32.69,00:12:34.25,Default,,0,0,0,,Have to go back and think about the solution

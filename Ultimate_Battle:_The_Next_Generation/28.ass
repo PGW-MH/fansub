@@ -1,0 +1,221 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.74,00:00:22.50,Default,,0,0,0,,After searching for two days, I still couldn’t find Bu Lei
+Dialogue: 0,00:00:24.34,00:00:25.38,Default,,0,0,0,,Jonie
+Dialogue: 0,00:00:25.90,00:00:28.50,Default,,0,0,0,,Is she really the friend you were a kid?
+Dialogue: 0,00:00:29.58,00:00:33.06,Default,,0,0,0,,I...I don’t know, but I want to save her
+Dialogue: 0,00:00:34.14,00:00:35.54,Default,,0,0,0,,No matter who she is
+Dialogue: 0,00:00:36.46,00:00:36.98,Default,,0,0,0,,good
+Dialogue: 0,00:00:38.26,00:00:39.96,Default,,0,0,0,,We want to find the mysterious
+Dialogue: 0,00:00:39.98,00:00:41.46,Default,,0,0,0,,Then rescue everyone
+Dialogue: 0,00:00:43.46,00:00:44.10,Default,,0,0,0,,That’s right
+Dialogue: 0,00:00:44.98,00:00:47.78,Default,,0,0,0,,The mysterious man has sent out three robots
+Dialogue: 0,00:00:47.98,00:00:50.50,Default,,0,0,0,,The fourth robot has probably appeared
+Dialogue: 0,00:00:51.06,00:00:52.60,Default,,0,0,0,,When everyone is looking for cards
+Dialogue: 0,00:00:52.62,00:00:53.78,Default,,0,0,0,,Be more careful
+Dialogue: 0,00:00:54.34,00:00:55.18,Default,,0,0,0,,Um
+Dialogue: 0,00:00:59.14,00:01:00.82,Default,,0,0,0,,What’s the matter? Goat
+Dialogue: 0,00:01:01.50,00:01:04.64,Default,,0,0,0,,Hehehe, wasn’t your card stolen?
+Dialogue: 0,00:01:04.66,00:01:06.42,Default,,0,0,0,,I’ll lend it to you
+Dialogue: 0,00:01:06.90,00:01:08.08,Default,,0,0,0,,No need
+Dialogue: 0,00:01:08.10,00:01:10.22,Default,,0,0,0,,It’s okay for me to have a few cards
+Dialogue: 0,00:01:10.50,00:01:13.30,Default,,0,0,0,,Keep it and protect yourself
+Dialogue: 0,00:01:15.10,00:01:15.84,Default,,0,0,0,,Sparky
+Dialogue: 0,00:01:15.86,00:01:18.30,Default,,0,0,0,,A child at the station was stuck in a chair
+Dialogue: 0,00:01:18.90,00:01:20.14,Default,,0,0,0,,OK I’ll go up right away
+Dialogue: 0,00:01:21.06,00:01:22.66,Default,,0,0,0,,I have the task, let’s go first
+Dialogue: 0,00:01:26.06,00:01:29.56,Default,,0,0,0,,Oh wow wow wow wow
+Dialogue: 0,00:01:29.58,00:01:32.02,Default,,0,0,0,,I’m going to go out and suck
+Dialogue: 0,00:01:32.62,00:01:34.06,Default,,0,0,0,,What happened to that kid
+Dialogue: 0,00:01:34.42,00:01:35.42,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:01:37.66,00:01:39.06,Default,,0,0,0,,Trouble everyone, let me
+Dialogue: 0,00:01:39.66,00:01:41.06,Default,,0,0,0,,Let me thank you
+Dialogue: 0,00:01:42.66,00:01:45.72,Default,,0,0,0,,Hello Sparky, please help my child
+Dialogue: 0,00:01:45.74,00:01:49.10,Default,,0,0,0,,No problem, let me see what the child is doing
+Dialogue: 0,00:01:50.82,00:01:51.88,Default,,0,0,0,,What to watch
+Dialogue: 0,00:01:51.90,00:01:53.54,Default,,0,0,0,,Save me out quickly
+Dialogue: 0,00:01:57.58,00:02:00.34,Default,,0,0,0,,Fortunately, I wasn’t injured. Please wait a moment
+Dialogue: 0,00:02:11.74,00:02:14.38,Default,,0,0,0,,OK, let the children come out slowly
+Dialogue: 0,00:02:14.98,00:02:16.18,Default,,0,0,0,,OK OK
+Dialogue: 0,00:02:16.58,00:02:18.40,Default,,0,0,0,,Thank you so much
+Dialogue: 0,00:02:18.42,00:02:20.06,Default,,0,0,0,,Thank you, brother
+Dialogue: 0,00:02:20.34,00:02:21.66,Default,,0,0,0,,Thank you, brother
+Dialogue: 0,00:02:22.86,00:02:23.72,Default,,0,0,0,,You are welcome
+Dialogue: 0,00:02:23.74,00:02:25.20,Default,,0,0,0,,Be sure to pay more attention in the future
+Dialogue: 0,00:02:25.22,00:02:27.50,Default,,0,0,0,,Don’t let children encounter dangerous things
+Dialogue: 0,00:02:27.62,00:02:29.94,Default,,0,0,0,,Or tap the head to a narrow place
+Dialogue: 0,00:02:30.38,00:02:32.82,Default,,0,0,0,,I will educate him well in the future
+Dialogue: 0,00:02:33.18,00:02:36.58,Default,,0,0,0,,Children don’t want to be so naughty in the future
+Dialogue: 0,00:02:36.62,00:02:37.90,Default,,0,0,0,,Oh wow, so terrible
+Dialogue: 0,00:02:39.18,00:02:40.82,Default,,0,0,0,,Ah, what’s this sound
+Dialogue: 0,00:02:43.86,00:02:44.92,Default,,0,0,0,,There are monsters nearby
+Dialogue: 0,00:02:44.94,00:02:46.94,Default,,0,0,0,,I have other tasks, let’s go first
+Dialogue: 0,00:02:50.02,00:02:50.86,Default,,0,0,0,,Dear passengers
+Dialogue: 0,00:02:51.10,00:02:54.96,Default,,0,0,0,,The D206 train to Permanent City is about to enter the station
+Dialogue: 0,00:02:54.98,00:02:57.98,Default,,0,0,0,,- Please carry your luggage and start checking
+- Where is it
+Dialogue: 0,00:03:03.26,00:03:04.12,Default,,0,0,0,,Alas
+Dialogue: 0,00:03:04.14,00:03:05.14,Default,,0,0,0,,Oh
+Dialogue: 0,00:03:05.66,00:03:08.10,Default,,0,0,0,,Very sorry, I’ll help you get it
+Dialogue: 0,00:03:08.26,00:03:09.34,Default,,0,0,0,,Where are you going
+Dialogue: 0,00:03:10.06,00:03:14.46,Default,,0,0,0,,Thank you, I’m going to get on the train behind you
+Dialogue: 0,00:03:17.10,00:03:18.22,Default,,0,0,0,,Then let’s go quickly
+Dialogue: 0,00:03:21.10,00:03:21.94,Default,,0,0,0,,There are cards
+Dialogue: 0,00:03:22.74,00:03:23.98,Default,,0,0,0,,ah
+Dialogue: 0,00:03:24.26,00:03:25.04,Default,,0,0,0,,Get off quickly
+Dialogue: 0,00:03:25.06,00:03:27.18,Default,,0,0,0,,If this continues, your luggage will explode
+Dialogue: 0,00:03:27.98,00:03:28.96,Default,,0,0,0,,There is danger here
+Dialogue: 0,00:03:28.98,00:03:30.82,Default,,0,0,0,,Please leave the station immediately
+Dialogue: 0,00:03:31.62,00:03:35.62,Default,,0,0,0,,Wow ah ah ah...
+Dialogue: 0,00:03:40.78,00:03:42.74,Default,,0,0,0,,Help...
+ah?
+Dialogue: 0,00:03:43.66,00:03:45.58,Default,,0,0,0,,I’ll come... catch you
+Dialogue: 0,00:03:50.66,00:03:51.86,Default,,0,0,0,,Do you catch me
+Dialogue: 0,00:03:52.10,00:03:53.38,Default,,0,0,0,,But... thank you
+Dialogue: 0,00:03:54.26,00:03:56.18,Default,,0,0,0,,Can’t destroy the station
+Dialogue: 0,00:03:56.54,00:03:58.10,Default,,0,0,0,,I don’t have a broken station
+Dialogue: 0,00:04:02.66,00:04:04.50,Default,,0,0,0,,The joke time has arrived
+Dialogue: 0,00:04:10.66,00:04:12.42,Default,,0,0,0,,There was a bun since
+Dialogue: 0,00:04:12.78,00:04:13.40,Default,,0,0,0,,ah
+Dialogue: 0,00:04:13.42,00:04:15.10,Default,,0,0,0,,One day he got angry...
+Dialogue: 0,00:04:17.90,00:04:18.54,Default,,0,0,0,,ah
+Dialogue: 0,00:04:19.62,00:04:20.70,Default,,0,0,0,,Hahaha
+Dialogue: 0,00:04:21.18,00:04:23.94,Default,,0,0,0,,What buns...
+Dialogue: 0,00:04:24.06,00:04:27.42,Default,,0,0,0,,What does it mean? What does it mean
+Dialogue: 0,00:04:29.86,00:04:31.26,Default,,0,0,0,,It exploded outside, too
+Dialogue: 0,00:04:32.58,00:04:33.68,Default,,0,0,0,,Ahhhh…
+Dialogue: 0,00:04:33.70,00:04:35.12,Default,,0,0,0,,There is danger here
+Dialogue: 0,00:04:35.14,00:04:36.98,Default,,0,0,0,,- Everyone, please leave
+- Help...
+Dialogue: 0,00:04:38.58,00:04:39.94,Default,,0,0,0,,The suitcase exploded again
+Dialogue: 0,00:04:42.74,00:04:43.74,Default,,0,0,0,,Come again...
+Dialogue: 0,00:04:46.46,00:04:50.54,Default,,0,0,0,,The sound of clock... is strange
+Dialogue: 0,00:04:53.54,00:04:55.90,Default,,0,0,0,,Why did all the items around start to explode
+Dialogue: 0,00:05:00.02,00:05:01.24,Default,,0,0,0,,Where is the monster
+Dialogue: 0,00:05:01.26,00:05:02.72,Default,,0,0,0,,How to beat
+Dialogue: 0,00:05:02.74,00:05:04.02,Default,,0,0,0,,- How to beat...
+- There is also a child
+Dialogue: 0,00:05:04.26,00:05:06.58,Default,,0,0,0,,Not good, the skateboard is ready to explode
+Dialogue: 0,00:05:06.98,00:05:08.58,Default,,0,0,0,,Can’t let it explode here
+Dialogue: 0,00:05:21.22,00:05:23.44,Default,,0,0,0,,Hahahahaha It’s so fun
+Dialogue: 0,00:05:23.46,00:05:24.76,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:05:24.78,00:05:26.58,Default,,0,0,0,,Found...you
+Dialogue: 0,00:05:27.02,00:05:28.16,Default,,0,0,0,,Not wrong
+Dialogue: 0,00:05:28.18,00:05:31.18,Default,,0,0,0,,Hey, this is the reward for finding me
+Dialogue: 0,00:05:32.26,00:05:33.96,Default,,0,0,0,,You’ll explode together, too
+Dialogue: 0,00:05:33.98,00:05:35.36,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:05:35.38,00:05:36.20,Default,,0,0,0,,What...what
+Dialogue: 0,00:05:36.22,00:05:38.70,Default,,0,0,0,,It turns out that you are at the broken station
+Dialogue: 0,00:05:43.62,00:05:45.32,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:05:45.34,00:05:46.18,Default,,0,0,0,,dad
+Dialogue: 0,00:05:46.74,00:05:47.90,Default,,0,0,0,,thank you
+Dialogue: 0,00:05:48.26,00:05:48.94,Default,,0,0,0,,No thanks
+Dialogue: 0,00:05:52.58,00:05:53.70,Default,,0,0,0,,The reaction disappeared
+Dialogue: 0,00:05:54.30,00:05:56.02,Default,,0,0,0,,The monster that just now was defeated
+Dialogue: 0,00:05:56.98,00:05:57.86,Default,,0,0,0,,Except for us
+Dialogue: 0,00:05:57.98,00:06:00.40,Default,,0,0,0,,Only the mysterious people are still collecting cards. It’s hard to tell...
+Dialogue: 0,00:06:00.42,00:06:01.92,Default,,0,0,0,,ah
+Dialogue: 0,00:06:01.94,00:06:03.22,Default,,0,0,0,,Sorry
+Dialogue: 0,00:06:07.66,00:06:10.62,Default,,0,0,0,,My photo...
+Dialogue: 0,00:06:14.74,00:06:15.66,Default,,0,0,0,,It’s him
+Dialogue: 0,00:06:25.66,00:06:27.36,Default,,0,0,0,,Red is us
+Dialogue: 0,00:06:27.38,00:06:29.50,Default,,0,0,0,,Surprise or not
+Dialogue: 0,00:06:29.78,00:06:32.58,Default,,0,0,0,,You’ve called five times today
+Dialogue: 0,00:06:33.74,00:06:35.62,Default,,0,0,0,,I’m really anxious
+Dialogue: 0,00:06:36.34,00:06:38.66,Default,,0,0,0,,Don’t worry, it should be here soon
+Dialogue: 0,00:06:39.82,00:06:40.26,Default,,0,0,0,,mother
+Dialogue: 0,00:06:41.70,00:06:43.38,Default,,0,0,0,,I’ve learned how to cook many dishes
+Dialogue: 0,00:06:44.94,00:06:46.66,Default,,0,0,0,,I’ll make it for you
+Dialogue: 0,00:06:46.94,00:06:47.58,Default,,0,0,0,,good
+Dialogue: 0,00:06:48.66,00:06:49.30,Default,,0,0,0,,Red
+Dialogue: 0,00:06:50.54,00:06:52.78,Default,,0,0,0,,We cleaned up the wolf castle
+Dialogue: 0,00:06:53.62,00:06:55.40,Default,,0,0,0,,You come back to check
+Dialogue: 0,00:06:55.42,00:06:55.98,Default,,0,0,0,,Uh-huh
+Dialogue: 0,00:06:56.82,00:06:57.58,Default,,0,0,0,,good
+Dialogue: 0,00:06:58.58,00:07:01.14,Default,,0,0,0,,Red Red I heard that there has been a meteor shower recently…
+Dialogue: 0,00:07:01.94,00:07:04.58,Default,,0,0,0,,You come back and let’s go see it together
+Dialogue: 0,00:07:06.42,00:07:08.84,Default,,0,0,0,,OK, it’s really exciting
+Dialogue: 0,00:07:08.86,00:07:11.14,Default,,0,0,0,,We’ll be able to get together soon
+Dialogue: 0,00:07:12.66,00:07:15.36,Default,,0,0,0,,The car is about to enter the tunnel, the signal is uncertain
+Dialogue: 0,00:07:15.38,00:07:16.54,Default,,0,0,0,,Then I’ll quit first
+Dialogue: 0,00:07:17.42,00:07:18.92,Default,,0,0,0,,Red and red again
+Dialogue: 0,00:07:18.94,00:07:19.78,Default,,0,0,0,,See you again, mom
+Dialogue: 0,00:07:23.18,00:07:24.76,Default,,0,0,0,,You’ve called a few phone calls
+Dialogue: 0,00:07:24.78,00:07:26.70,Default,,0,0,0,,Are you ready to go home?
+Dialogue: 0,00:07:27.42,00:07:30.30,Default,,0,0,0,,I must be seeing my family, aren’t you very anxious
+Dialogue: 0,00:07:34.02,00:07:38.14,Default,,0,0,0,,Finally... I’m going to meet
+Dialogue: 0,00:07:44.42,00:07:48.30,Default,,0,0,0,,Next…Next…Next…Next…
+Dialogue: 0,00:07:58.66,00:07:59.74,Default,,0,0,0,,The system is stuck
+Dialogue: 0,00:08:00.38,00:08:04.74,Default,,0,0,0,,Yes, then...just you
+Dialogue: 0,00:08:08.38,00:08:09.86,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:09.94,00:08:15.00,Default,,0,0,0,,What? Mysterious sent robots out again
+Dialogue: 0,00:08:15.02,00:08:16.38,Default,,0,0,0,,- ah….
+- Very likely
+Dialogue: 0,00:08:17.02,00:08:19.84,Default,,0,0,0,,Otherwise, who will solve the monster
+Dialogue: 0,00:08:19.86,00:08:21.06,Default,,0,0,0,,Take the card away
+Dialogue: 0,00:08:22.50,00:08:24.18,Default,,0,0,0,,Let’s have something to eat first
+Dialogue: 0,00:08:30.22,00:08:30.90,Default,,0,0,0,,steamed stuffed bun…
+Dialogue: 0,00:08:33.70,00:08:35.66,Default,,0,0,0,,There was a bun since then...
+Dialogue: 0,00:08:37.10,00:08:39.38,Default,,0,0,0,,Huh? Isn’t one too small
+Dialogue: 0,00:08:39.70,00:08:41.38,Default,,0,0,0,,I have it here
+Dialogue: 0,00:08:41.94,00:08:42.86,Default,,0,0,0,,steamed stuffed bun…
+Dialogue: 0,00:08:48.46,00:08:49.92,Default,,0,0,0,,puff…
+Dialogue: 0,00:08:49.94,00:09:01.06,Default,,0,0,0,,Ah hahahahahaha
+Dialogue: 0,00:09:03.98,00:09:05.38,Default,,0,0,0,,There is no problem with the bun
+Dialogue: 0,00:09:05.94,00:09:08.32,Default,,0,0,0,,I’ll tell you a very funny joke
+Dialogue: 0,00:09:08.34,00:09:10.72,Default,,0,0,0,,There was a bun since then...
+Dialogue: 0,00:09:10.74,00:09:14.46,Default,,0,0,0,,Hahahahahahaha...
+Dialogue: 0,00:09:20.86,00:09:26.00,Default,,0,0,0,,Why? Isn’t it funny? Hahaha...
+Dialogue: 0,00:09:26.02,00:09:28.72,Default,,0,0,0,,What joke is so funny? Sparky
+Dialogue: 0,00:09:28.74,00:09:35.26,Default,,0,0,0,,Hahahahahaha... It’s so funny...
+Dialogue: 0,00:09:41.42,00:09:42.34,Default,,0,0,0,,It’s you
+Dialogue: 0,00:09:42.54,00:09:45.36,Default,,0,0,0,,Yesterday’s jokes were so fun, hahaha...
+Dialogue: 0,00:09:45.38,00:09:46.74,Default,,0,0,0,,Give it to me
+Dialogue: 0,00:09:54.06,00:09:55.14,Default,,0,0,0,,Why so irritable
+Dialogue: 0,00:09:55.98,00:09:57.42,Default,,0,0,0,,I’m not laughing at you
+Dialogue: 0,00:09:57.62,00:10:00.02,Default,,0,0,0,,I just think that joke is so funny
+Dialogue: 0,00:10:01.30,00:10:02.66,Default,,0,0,0,,Give it to me
+Dialogue: 0,00:10:06.34,00:10:07.30,Default,,0,0,0,,Do you want to do
+Dialogue: 0,00:10:07.74,00:10:08.82,Default,,0,0,0,,Cold and quiet
+Dialogue: 0,00:10:28.78,00:10:29.18,Default,,0,0,0,,Um?
+Dialogue: 0,00:10:31.62,00:10:33.54,Default,,0,0,0,,What do you want to do...
+Dialogue: 0,00:10:34.50,00:10:35.74,Default,,0,0,0,,Give it to me
+Dialogue: 0,00:10:41.30,00:10:42.50,Default,,0,0,0,,what?
+Dialogue: 0,00:10:43.02,00:10:46.74,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:53.46,00:10:55.18,Default,,0,0,0,,What exactly do you want to do...
+Dialogue: 0,00:11:06.74,00:11:07.54,Default,,0,0,0,,no
+Dialogue: 0,00:11:12.98,00:11:14.38,Default,,0,0,0,,Give me a photo
+Dialogue: 0,00:11:14.54,00:11:15.78,Default,,0,0,0,,Don’t go too far
+Dialogue: 0,00:11:15.90,00:11:18.10,Default,,0,0,0,,I haven’t seen any photos
+Dialogue: 0,00:11:18.82,00:11:20.54,Default,,0,0,0,,Huh? This is...
+Dialogue: 0,00:11:21.70,00:11:22.42,Default,,0,0,0,,etc.
+Dialogue: 0,00:11:29.58,00:11:31.74,Default,,0,0,0,,You’re looking for this photo
+Dialogue: 0,00:11:34.18,00:11:35.78,Default,,0,0,0,,Yes Thanks
+Dialogue: 0,00:11:41.34,00:11:42.66,Default,,0,0,0,,What happened to this person
+Dialogue: 0,00:11:42.78,00:11:45.14,Default,,0,0,0,,Hitting someone is just to find photos
+Dialogue: 0,00:11:45.90,00:11:46.54,Default,,0,0,0,,No
+Dialogue: 0,00:11:47.18,00:11:48.32,Default,,0,0,0,,Don’t go...
+Dialogue: 0,00:11:48.34,00:11:51.18,Default,,0,0,0,,Apologize to me...
+Dialogue: 0,00:12:02.78,00:12:05.14,Default,,0,0,0,,Finally...come back...
+Dialogue: 0,00:12:08.66,00:12:10.14,Default,,0,0,0,,Found you
+Dialogue: 0,00:12:11.26,00:12:12.14,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:12:12.94,00:12:13.62,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:15.74,00:12:18.62,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:19.78,00:12:20.54,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:22.06,00:12:23.14,Default,,0,0,0,,Come on
+Dialogue: 0,00:12:24.70,00:12:25.66,Default,,0,0,0,,Red...
+Dialogue: 0,00:12:27.62,00:12:30.14,Default,,0,0,0,,Strange, why is there no one

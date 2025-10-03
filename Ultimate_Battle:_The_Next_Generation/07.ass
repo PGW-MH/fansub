@@ -1,0 +1,228 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.73,00:00:19.95,Default,,0,0,0,,You’re not fighting
+Dialogue: 0,00:00:19.97,00:00:22.65,Default,,0,0,0,,Wilie, let dad come and help
+Dialogue: 0,00:00:23.25,00:00:24.49,Default,,0,0,0,,All said no
+Dialogue: 0,00:00:24.85,00:00:26.07,Default,,0,0,0,,I’ll come
+Dialogue: 0,00:00:26.09,00:00:26.67,Default,,0,0,0,,Need not
+Dialogue: 0,00:00:26.69,00:00:27.81,Default,,0,0,0,,I’m here
+Dialogue: 0,00:00:28.05,00:00:28.85,Default,,0,0,0,,Need not
+Dialogue: 0,00:00:31.65,00:00:33.37,Default,,0,0,0,,Break... Break...
+Dialogue: 0,00:00:33.73,00:00:35.77,Default,,0,0,0,,You’re here to help you
+Dialogue: 0,00:00:36.85,00:00:37.61,Default,,0,0,0,,rest assured
+Dialogue: 0,00:00:38.13,00:00:40.21,Default,,0,0,0,,There is nothing I can’t fix
+Dialogue: 0,00:00:41.73,00:00:43.93,Default,,0,0,0,,You can hand it to me with confidence
+Dialogue: 0,00:00:44.57,00:00:45.41,Default,,0,0,0,,etc.
+Dialogue: 0,00:00:53.33,00:00:55.55,Default,,0,0,0,,Here is the concert of Sister Jonie
+Dialogue: 0,00:00:55.57,00:00:57.03,Default,,0,0,0,,All made you mess up
+Dialogue: 0,00:00:57.05,00:00:59.59,Default,,0,0,0,,Again…sorry…
+Dialogue: 0,00:00:59.61,00:01:01.63,Default,,0,0,0,,I’ll definitely fix it here
+Dialogue: 0,00:01:01.65,00:01:04.13,Default,,0,0,0,,Jonie, go and practice rehearsal
+Dialogue: 0,00:01:04.57,00:01:06.85,Default,,0,0,0,,You are the brightest boy here tonight
+Dialogue: 0,00:01:12.25,00:01:15.77,Default,,0,0,0,,- I searched for nothing in the morning
+- Good friend Feng Yu is not separated
+Dialogue: 0,00:01:15.97,00:01:19.63,Default,,0,0,0,,Best friend
+Dialogue: 0,00:01:19.65,00:01:21.67,Default,,0,0,0,,Time together
+Dialogue: 0,00:01:21.69,00:01:24.11,Default,,0,0,0,,Growing together
+Dialogue: 0,00:01:24.13,00:01:27.67,Default,,0,0,0,,Go bravely
+Dialogue: 0,00:01:27.69,00:01:29.71,Default,,0,0,0,,Light together
+Dialogue: 0,00:01:29.73,00:01:32.23,Default,,0,0,0,,Smile exhibition together
+Dialogue: 0,00:01:32.25,00:01:36.25,Default,,0,0,0,,Confidant is like sunlight
+Dialogue: 0,00:01:37.21,00:01:38.41,Default,,0,0,0,,Very good to hear
+Dialogue: 0,00:01:40.05,00:01:42.17,Default,,0,0,0,,A little embarrassed
+Dialogue: 0,00:01:43.09,00:01:45.93,Default,,0,0,0,,I’m looking forward to tonight’s concert more and more
+Dialogue: 0,00:01:46.73,00:01:48.69,Default,,0,0,0,,So do I thank you
+Dialogue: 0,00:01:49.77,00:01:51.37,Default,,0,0,0,,Yes, what are you grateful for
+Dialogue: 0,00:01:52.09,00:01:55.21,Default,,0,0,0,,Thank you for coming back to participate in my concert
+Dialogue: 0,00:01:56.77,00:01:57.37,Default,,0,0,0,,Um
+Dialogue: 0,00:01:58.17,00:01:59.79,Default,,0,0,0,,Concerts in each future
+Dialogue: 0,00:01:59.81,00:02:01.25,Default,,0,0,0,,Neither of us will be absent
+Dialogue: 0,00:02:03.29,00:02:06.77,Default,,0,0,0,,Nuanyang Goat Concert Don’t miss it if you have walked past
+Dialogue: 0,00:02:07.29,00:02:09.25,Default,,0,0,0,,Come and have a look
+Dialogue: 0,00:02:09.49,00:02:10.77,Default,,0,0,0,,Welcome
+Dialogue: 0,00:02:12.61,00:02:15.37,Default,,0,0,0,,Is the Jonie talking about each other?
+Dialogue: 0,00:02:15.77,00:02:18.33,Default,,0,0,0,,No, he is a little famous star
+Dialogue: 0,00:02:18.89,00:02:19.71,Default,,0,0,0,,No
+Dialogue: 0,00:02:19.73,00:02:22.81,Default,,0,0,0,,Jonie is a very hardworking and talented singer
+Dialogue: 0,00:02:24.17,00:02:26.07,Default,,0,0,0,,Guaranteed not to disappoint you
+Dialogue: 0,00:02:26.09,00:02:27.53,Default,,0,0,0,,Remember to support the scene
+Dialogue: 0,00:02:27.77,00:02:30.85,Default,,0,0,0,,Weslie, let’s help us too
+Dialogue: 0,00:02:31.97,00:02:32.67,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:02:32.69,00:02:34.13,Default,,0,0,0,,Bamboo wolf
+Dialogue: 0,00:02:34.85,00:02:36.97,Default,,0,0,0,,Second uncle, it’s really you
+Dialogue: 0,00:02:37.41,00:02:40.57,Default,,0,0,0,,I heard you are still alive but I didn’t expect it to be true
+Dialogue: 0,00:02:41.01,00:02:44.25,Default,,0,0,0,,Huh? Weslie, are you alive?
+Dialogue: 0,00:02:44.81,00:02:46.81,Default,,0,0,0,,It’s so good
+Dialogue: 0,00:02:47.77,00:02:50.29,Default,,0,0,0,,Jiao Tailang Why haven’t you changed at all
+Dialogue: 0,00:02:50.77,00:02:53.33,Default,,0,0,0,,You haven’t changed for fifteen years
+Dialogue: 0,00:02:54.21,00:02:56.89,Default,,0,0,0,,Are you here to participate in the Jonie concert?
+Dialogue: 0,00:02:57.33,00:02:58.45,Default,,0,0,0,,Of course
+Dialogue: 0,00:03:00.41,00:03:03.67,Default,,0,0,0,,And I also picked some fat and big bananas
+Dialogue: 0,00:03:03.69,00:03:05.45,Default,,0,0,0,,Replenish the energy of the Jonie
+Dialogue: 0,00:03:05.69,00:03:07.75,Default,,0,0,0,,I bring so many bananas every time
+Dialogue: 0,00:03:07.77,00:03:09.23,Default,,0,0,0,,How can I be so sorry
+Dialogue: 0,00:03:09.25,00:03:10.81,Default,,0,0,0,,Have to eat this
+Dialogue: 0,00:03:10.89,00:03:12.77,Default,,0,0,0,,That’s left for the Jonie
+Dialogue: 0,00:03:13.49,00:03:14.87,Default,,0,0,0,,Don’t eat the goat
+Dialogue: 0,00:03:14.89,00:03:16.37,Default,,0,0,0,,Let’s go and send a bill
+Dialogue: 0,00:03:17.81,00:03:18.57,Default,,0,0,0,,I know
+Dialogue: 0,00:03:27.09,00:03:29.53,Default,,0,0,0,,Hope the concert can be completed smoothly
+Dialogue: 0,00:03:34.73,00:03:35.97,Default,,0,0,0,,It’s about to start
+Dialogue: 0,00:03:45.57,00:03:47.11,Default,,0,0,0,,She’s the Hot Goat
+Dialogue: 0,00:03:47.13,00:03:49.13,Default,,0,0,0,,- Nothing special
+- Yeah yeah
+Dialogue: 0,00:03:49.41,00:03:51.45,Default,,0,0,0,,I don’t know how I sing
+Dialogue: 0,00:03:52.25,00:03:54.79,Default,,0,0,0,,- Jonie Come on
+- Nuanyang Goat Come on
+Dialogue: 0,00:03:54.81,00:03:57.37,Default,,0,0,0,,- Come on, come on…
+- come on…
+Dialogue: 0,00:04:06.37,00:04:08.47,Default,,0,0,0,,My son has become so outstanding
+Dialogue: 0,00:04:08.49,00:04:11.81,Default,,0,0,0,,But I missed his growth
+Dialogue: 0,00:04:13.09,00:04:17.05,Default,,0,0,0,,There are me and you in the blue sky
+Dialogue: 0,00:04:17.29,00:04:21.05,Default,,0,0,0,,A confidant who is in the green grassland
+Dialogue: 0,00:04:21.41,00:04:22.99,Default,,0,0,0,,- Wow, listen carefully
+- Good friends
+Dialogue: 0,00:04:23.01,00:04:25.87,Default,,0,0,0,,- Such a bad concert is still free
+- Encounter and know each other
+Dialogue: 0,00:04:25.89,00:04:28.97,Default,,0,0,0,,The same heaven and earth
+Dialogue: 0,00:04:29.13,00:04:33.05,Default,,0,0,0,,We support each other when we fall on the road
+Dialogue: 0,00:04:33.37,00:04:37.31,Default,,0,0,0,,- We don’t give up when we encounter difficulties
+- good…
+Dialogue: 0,00:04:37.33,00:04:40.99,Default,,0,0,0,,Good friend Feng Yu is not separated
+Dialogue: 0,00:04:41.01,00:04:44.82,Default,,0,0,0,,Best friend
+Dialogue: 0,00:04:44.85,00:04:46.87,Default,,0,0,0,,Time together
+Dialogue: 0,00:04:46.89,00:04:49.27,Default,,0,0,0,,Growing together
+Dialogue: 0,00:04:49.29,00:04:52.95,Default,,0,0,0,,Go bravely
+Dialogue: 0,00:04:52.97,00:04:54.79,Default,,0,0,0,,Light together
+Dialogue: 0,00:04:54.81,00:04:57.35,Default,,0,0,0,,- Smile exhibition together
+- Very dazzling
+Dialogue: 0,00:04:57.37,00:05:01.47,Default,,0,0,0,,- It must be that I sang so well, I couldn’t even see it directly
+- Confidant is like sunlight
+Dialogue: 0,00:05:01.49,00:05:04.91,Default,,0,0,0,,Do you think the light is getting brighter and brighter
+Dialogue: 0,00:05:04.93,00:05:05.57,Default,,0,0,0,,Um
+Dialogue: 0,00:05:12.29,00:05:14.23,Default,,0,0,0,,- Why did the light suddenly get completely washed
+- yes
+Dialogue: 0,00:05:14.25,00:05:17.73,Default,,0,0,0,,It’s not a show that is prepared for singing
+Dialogue: 0,00:05:18.65,00:05:19.97,Default,,0,0,0,,Why are the lights completely damaged
+Dialogue: 0,00:05:20.93,00:05:22.25,Default,,0,0,0,,What happened
+Dialogue: 0,00:05:32.41,00:05:34.01,Default,,0,0,0,,It’s okay, Jonie
+Dialogue: 0,00:05:34.37,00:05:35.77,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:05:36.77,00:05:37.77,Default,,0,0,0,,This is...
+Dialogue: 0,00:05:38.65,00:05:40.05,Default,,0,0,0,,The detector has a reaction
+Dialogue: 0,00:05:40.29,00:05:43.25,Default,,0,0,0,,I’m fine. Wilie is still on the stage.
+Dialogue: 0,00:05:46.09,00:05:47.13,Default,,0,0,0,,Small gray
+Dialogue: 0,00:05:57.29,00:05:58.81,Default,,0,0,0,,Son, Alas...
+Dialogue: 0,00:06:05.73,00:06:06.97,Default,,0,0,0,,You’re injured
+Dialogue: 0,00:06:07.69,00:06:10.33,Default,,0,0,0,,It’s nothing, it’s just a minor injury
+Dialogue: 0,00:06:10.57,00:06:11.69,Default,,0,0,0,,Alas...
+Dialogue: 0,00:06:11.97,00:06:12.89,Default,,0,0,0,,Don’t force yourself
+Dialogue: 0,00:06:15.69,00:06:17.93,Default,,0,0,0,,Little Huihui, take Wolffy down
+Dialogue: 0,00:06:17.97,00:06:18.37,Default,,0,0,0,,Um
+Dialogue: 0,00:06:27.25,00:06:29.05,Default,,0,0,0,,It’s weird... strange...
+Dialogue: 0,00:06:31.37,00:06:35.31,Default,,0,0,0,,Strange... monster
+Run quickly...
+Dialogue: 0,00:06:35.33,00:06:36.49,Default,,0,0,0,,Go and protect everyone
+Dialogue: 0,00:06:38.57,00:06:39.69,Default,,0,0,0,,I want to go, too
+Dialogue: 0,00:06:40.53,00:06:41.69,Default,,0,0,0,,Jonie
+Dialogue: 0,00:06:55.65,00:06:57.37,Default,,0,0,0,,No one is allowed to run
+Dialogue: 0,00:07:00.69,00:07:01.69,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:07:01.97,00:07:03.41,Default,,0,0,0,,Find a place to hide
+Dialogue: 0,00:07:05.09,00:07:06.81,Default,,0,0,0,,Nuanyang Goat You go and protect the citizens
+Dialogue: 0,00:07:07.65,00:07:08.89,Default,,0,0,0,,I’ll cover it
+Dialogue: 0,00:07:09.61,00:07:10.67,Default,,0,0,0,,Sparky  Tibbie
+Dialogue: 0,00:07:10.69,00:07:12.61,Default,,0,0,0,,You must keep it up and create air
+Dialogue: 0,00:07:13.33,00:07:13.93,Default,,0,0,0,,- Um
+- Um
+Dialogue: 0,00:07:14.41,00:07:16.41,Default,,0,0,0,,You come to give him the last shot
+Dialogue: 0,00:07:16.97,00:07:18.45,Default,,0,0,0,,Don’t worry, hand it to me
+Dialogue: 0,00:07:19.05,00:07:19.49,Default,,0,0,0,,superior
+Dialogue: 0,00:07:54.53,00:07:55.33,Default,,0,0,0,,It’s an opportunity
+Dialogue: 0,00:08:13.61,00:08:15.01,Default,,0,0,0,,- Knock it down
+- Knock it down
+Dialogue: 0,00:08:16.01,00:08:16.93,Default,,0,0,0,,Knock it down
+Dialogue: 0,00:08:26.09,00:08:27.73,Default,,0,0,0,,ah? It can still be
+Dialogue: 0,00:08:33.85,00:08:36.91,Default,,0,0,0,,- How to shut down the power...
+- How to shut down the power...
+Dialogue: 0,00:08:36.93,00:08:37.69,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:08:47.89,00:08:50.93,Default,,0,0,0,,It sucks all the electricity in the city
+Dialogue: 0,00:08:51.65,00:08:52.93,Default,,0,0,0,,Let’s stop it
+Dialogue: 0,00:09:02.85,00:09:03.81,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:09:04.29,00:09:05.29,Default,,0,0,0,,Weslie
+Dialogue: 0,00:09:05.53,00:09:08.49,Default,,0,0,0,,If you are injured, don’t go there if you are injured.
+Dialogue: 0,00:09:19.17,00:09:21.81,Default,,0,0,0,,My body is paralyzed...I can’t move...
+Dialogue: 0,00:09:23.73,00:09:24.65,Default,,0,0,0,,Abnormal...
+Dialogue: 0,00:09:33.57,00:09:35.45,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:09:36.49,00:09:39.47,Default,,0,0,0,,It’s okay... I’m here...
+Dialogue: 0,00:09:39.49,00:09:40.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:09:49.09,00:09:51.81,Default,,0,0,0,,No, its attack is too strong
+Dialogue: 0,00:09:52.33,00:09:54.47,Default,,0,0,0,,I have to help them. Alas...
+Dialogue: 0,00:09:54.49,00:09:55.41,Default,,0,0,0,,Second uncle
+Dialogue: 0,00:09:55.61,00:09:58.05,Default,,0,0,0,,It’s hard for you to get close to that monster now
+Dialogue: 0,00:09:58.65,00:10:00.77,Default,,0,0,0,,In the past, it only dragged them down
+Dialogue: 0,00:10:05.49,00:10:06.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:10:07.25,00:10:08.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:10:09.61,00:10:11.21,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:10:11.33,00:10:14.99,Default,,0,0,0,,With me here... I will definitely protect you...
+Dialogue: 0,00:10:15.01,00:10:16.19,Default,,0,0,0,,As long as you don’t give up
+Dialogue: 0,00:10:16.21,00:10:18.45,Default,,0,0,0,,Hope is in our hands
+Dialogue: 0,00:10:22.57,00:10:24.49,Default,,0,0,0,,As long as we are in a strong position
+Dialogue: 0,00:10:26.25,00:10:28.83,Default,,0,0,0,,Then there is no difficulty...
+Dialogue: 0,00:10:28.85,00:10:30.49,Default,,0,0,0,,It cannot be crossed
+Dialogue: 0,00:10:34.49,00:10:35.81,Default,,0,0,0,,Go
+Dialogue: 0,00:10:52.49,00:10:54.13,Default,,0,0,0,,Finally, I’ve defeated the monster
+Dialogue: 0,00:10:54.69,00:10:56.49,Default,,0,0,0,,No one is okay
+Dialogue: 0,00:10:57.29,00:10:59.69,Default,,0,0,0,,This time it’s all up to you. Jonie
+Dialogue: 0,00:11:00.17,00:11:01.33,Default,,0,0,0,,but…
+Dialogue: 0,00:11:01.61,00:11:03.55,Default,,0,0,0,,A concert that everyone has worked hard to hold
+Dialogue: 0,00:11:03.57,00:11:04.81,Default,,0,0,0,,It’s also destroyed
+Dialogue: 0,00:11:05.81,00:11:08.25,Default,,0,0,0,,The concert can’t be done at all
+Dialogue: 0,00:11:08.97,00:11:10.03,Default,,0,0,0,,Nothing to do
+Dialogue: 0,00:11:10.05,00:11:12.33,Default,,0,0,0,,It’s fine for everyone to be fine
+Dialogue: 0,00:11:18.37,00:11:19.99,Default,,0,0,0,,As long as we are together
+Dialogue: 0,00:11:20.01,00:11:21.29,Default,,0,0,0,,There are dances everywhere
+Dialogue: 0,00:11:33.57,00:11:34.49,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:11:35.57,00:11:39.47,Default,,0,0,0,,There are me and you in the blue sky
+Dialogue: 0,00:11:39.49,00:11:43.59,Default,,0,0,0,,A confidant who is in the green grassland
+Dialogue: 0,00:11:43.61,00:11:47.47,Default,,0,0,0,,Good friends meet and know each other
+Dialogue: 0,00:11:47.49,00:11:49.63,Default,,0,0,0,,- The same heaven and earth
+- Um? Singing?
+Dialogue: 0,00:11:49.65,00:11:51.95,Default,,0,0,0,,It’s hard to say...the monster was defeated
+Dialogue: 0,00:11:51.97,00:11:55.55,Default,,0,0,0,,We support each other when we fall on the road
+Dialogue: 0,00:11:55.57,00:11:59.43,Default,,0,0,0,,- We don’t give up when we encounter difficulties
+- Check it out Come on
+Dialogue: 0,00:11:59.45,00:12:01.19,Default,,0,0,0,,- Good friends
+- Good to hear
+Dialogue: 0,00:12:01.21,00:12:03.55,Default,,0,0,0,,- The wind and rain are not separated
+- This kind of singing is quite interesting
+Dialogue: 0,00:12:03.57,00:12:07.07,Default,,0,0,0,,- Best friend
+- yes
+Dialogue: 0,00:12:07.09,00:12:08.99,Default,,0,0,0,,- Time together
+- Good to hear
+Dialogue: 0,00:12:09.01,00:12:11.43,Default,,0,0,0,,- Growing together
+- Thank you
+Dialogue: 0,00:12:11.45,00:12:14.71,Default,,0,0,0,,- The stewards bravely go
+- Although concerts over the past fifteen years
+Dialogue: 0,00:12:14.73,00:12:16.95,Default,,0,0,0,,- Light together
+- You both are absent...
+Dialogue: 0,00:12:16.97,00:12:19.79,Default,,0,0,0,,- Smile exhibition together
+- But I believe we will be reunited one day
+Dialogue: 0,00:12:19.81,00:12:23.41,Default,,0,0,0,,- Confidant is like sunlight
+- Today...it finally happened
+Dialogue: 0,00:12:24.41,00:12:26.81,Default,,0,0,0,,This is the most exciting concert
+Dialogue: 0,00:12:28.45,00:12:29.09,Default,,0,0,0,,That’s right
+Dialogue: 0,00:12:29.69,00:12:31.13,Default,,0,0,0,,As long as everyone is together
+Dialogue: 0,00:12:31.37,00:12:33.85,Default,,0,0,0,,I’m the best dance hall everywhere

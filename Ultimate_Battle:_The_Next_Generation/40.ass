@@ -1,0 +1,138 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:34.21,00:00:37.57,Default,,0,0,0,,Doctor I have already installed something, and I have this one
+Dialogue: 0,00:00:44.61,00:00:45.61,Default,,0,0,0,,very good
+Dialogue: 0,00:00:49.73,00:00:53.46,Default,,0,0,0,,Continue the mission This time it’s the museum. Go
+Dialogue: 0,00:00:53.49,00:00:54.05,Default,,0,0,0,,yes
+Dialogue: 0,00:01:00.69,00:01:01.33,Default,,0,0,0,,dad…
+Dialogue: 0,00:01:12.17,00:01:13.65,Default,,0,0,0,,Dad hasn’t come back yet
+Dialogue: 0,00:01:18.33,00:01:21.57,Default,,0,0,0,,Mom, where are you
+Dialogue: 0,00:01:27.89,00:01:29.97,Default,,0,0,0,,That’s how it’s happening
+Dialogue: 0,00:01:30.89,00:01:33.61,Default,,0,0,0,,Wolnie, did you find her?
+Dialogue: 0,00:01:34.49,00:01:38.33,Default,,0,0,0,,Yes, but Wolnie doesn’t seem to know us
+Dialogue: 0,00:01:45.37,00:01:48.53,Default,,0,0,0,,The strangest thing is that she is also collecting cards
+Dialogue: 0,00:01:48.97,00:01:51.93,Default,,0,0,0,,It wouldn’t be that she’d been turned into a robot too
+Dialogue: 0,00:01:54.61,00:01:56.59,Default,,0,0,0,,Yes, Tibbie
+Dialogue: 0,00:01:56.61,00:01:59.61,Default,,0,0,0,,You said before that you saw Dr. Ti was doing biology experience
+Dialogue: 0,00:02:00.41,00:02:02.65,Default,,0,0,0,,Will that person be too red and too wolf
+Dialogue: 0,00:02:03.01,00:02:06.25,Default,,0,0,0,,I’m not sure I didn’t have time to see...
+Dialogue: 0,00:02:13.81,00:02:15.37,Default,,0,0,0,,Just found out
+Dialogue: 0,00:02:15.93,00:02:17.45,Default,,0,0,0,,What about Wolffy now
+Dialogue: 0,00:02:18.09,00:02:19.21,Default,,0,0,0,,He’s still looking for it
+Dialogue: 0,00:02:19.53,00:02:22.93,Default,,0,0,0,,I’m tired and I have to let us come back first
+Dialogue: 0,00:02:23.33,00:02:25.45,Default,,0,0,0,,I don’t know if he found it
+Dialogue: 0,00:02:27.17,00:02:29.79,Default,,0,0,0,,Hello, have you seen her?
+Dialogue: 0,00:02:29.81,00:02:31.57,Default,,0,0,0,,Please think carefully
+Dialogue: 0,00:02:44.41,00:02:46.97,Default,,0,0,0,,Big Wolf Have you found Big Wolf?
+Dialogue: 0,00:02:47.41,00:02:48.73,Default,,0,0,0,,Not yet
+Dialogue: 0,00:02:51.41,00:02:53.37,Default,,0,0,0,,Big Wolf, you’re fine
+Dialogue: 0,00:02:54.13,00:02:55.45,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:02:55.73,00:02:58.21,Default,,0,0,0,,At least she appeared
+Dialogue: 0,00:02:59.17,00:03:00.93,Default,,0,0,0,,Although she doesn’t remember me
+Dialogue: 0,00:03:02.41,00:03:05.05,Default,,0,0,0,,Yes, you’re so unique
+Dialogue: 0,00:03:05.69,00:03:07.57,Default,,0,0,0,,She can definitely remember you
+Dialogue: 0,00:03:11.33,00:03:13.65,Default,,0,0,0,,The most important thing is that she is fine
+Dialogue: 0,00:03:14.21,00:03:16.65,Default,,0,0,0,,I’ll be relieved if she’s fine
+Dialogue: 0,00:03:32.69,00:03:33.29,Default,,0,0,0,,mother
+Dialogue: 0,00:03:35.85,00:03:37.89,Default,,0,0,0,,It’s mom
+Dialogue: 0,00:03:47.45,00:03:49.13,Default,,0,0,0,,Hello Is anyone there?
+Dialogue: 0,00:03:55.85,00:03:59.05,Default,,0,0,0,,Dad, I saw my mother, come here
+Dialogue: 0,00:04:01.17,00:04:02.37,Default,,0,0,0,,I’ll arrive right away
+Dialogue: 0,00:04:04.17,00:04:05.01,Default,,0,0,0,,Who
+Dialogue: 0,00:04:15.21,00:04:16.69,Default,,0,0,0,,Where is your mother
+Dialogue: 0,00:04:19.65,00:04:20.89,Default,,0,0,0,,I’m following here
+Dialogue: 0,00:04:21.97,00:04:23.57,Default,,0,0,0,,But I can’t see it once I turn my eyes
+Dialogue: 0,00:04:28.85,00:04:31.35,Default,,0,0,0,,Don’t worry, let’s look for it
+Dialogue: 0,00:04:31.37,00:04:31.85,Default,,0,0,0,,Um
+Dialogue: 0,00:04:51.81,00:04:54.69,Default,,0,0,0,,Climb high and look far away. Go upstairs and take a look
+Dialogue: 0,00:05:04.65,00:05:07.57,Default,,0,0,0,,That must be red. Wait for me
+Dialogue: 0,00:05:17.93,00:05:20.95,Default,,0,0,0,,Install the instrument on the top of the museum pyramid
+Dialogue: 0,00:05:20.97,00:05:22.49,Default,,0,0,0,,Under the crystal corner
+Dialogue: 0,00:05:28.85,00:05:29.33,Default,,0,0,0,,who
+Dialogue: 0,00:05:30.25,00:05:33.37,Default,,0,0,0,,Red, don’t you remember me?
+Dialogue: 0,00:05:34.41,00:05:35.13,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:05:39.09,00:05:40.77,Default,,0,0,0,,The wolf that I beat down before
+Dialogue: 0,00:05:43.25,00:05:46.49,Default,,0,0,0,,Forget those uneasy things
+Dialogue: 0,00:05:47.01,00:05:48.97,Default,,0,0,0,,I’m Wolffy
+Dialogue: 0,00:05:52.97,00:05:54.05,Default,,0,0,0,,I don’t know you
+Dialogue: 0,00:05:56.41,00:06:00.05,Default,,0,0,0,,Red Red Where have you been here during this period
+Dialogue: 0,00:06:00.89,00:06:03.13,Default,,0,0,0,,My son and I miss you very much
+Dialogue: 0,00:06:03.41,00:06:05.17,Default,,0,0,0,,Is it okay to go home with me
+Dialogue: 0,00:06:07.49,00:06:10.37,Default,,0,0,0,,Red Red What do you want to do
+Dialogue: 0,00:06:16.57,00:06:18.61,Default,,0,0,0,,Red, look at me
+Dialogue: 0,00:06:22.17,00:06:25.45,Default,,0,0,0,,Do you think it looks familiar? Very considerate
+Dialogue: 0,00:06:28.33,00:06:29.45,Default,,0,0,0,,Don’t bother me
+Dialogue: 0,00:06:31.25,00:06:33.37,Default,,0,0,0,,Look at it
+Dialogue: 0,00:06:34.13,00:06:36.89,Default,,0,0,0,,This is our son, Wilie
+Dialogue: 0,00:06:39.09,00:06:40.37,Default,,0,0,0,,How cute
+Dialogue: 0,00:06:43.41,00:06:45.81,Default,,0,0,0,,Red, do you remember it?
+Dialogue: 0,00:06:47.01,00:06:47.97,Default,,0,0,0,,Remembered...
+Dialogue: 0,00:06:48.61,00:06:50.41,Default,,0,0,0,,I remembered to beat you up
+Dialogue: 0,00:06:59.73,00:07:01.69,Default,,0,0,0,,Red Red Red
+Dialogue: 0,00:07:03.61,00:07:06.09,Default,,0,0,0,,I’ll make you remember me
+Dialogue: 0,00:07:13.33,00:07:16.81,Default,,0,0,0,,Last time I went to work during the day, I actually encountered a monster
+Dialogue: 0,00:07:17.33,00:07:20.49,Default,,0,0,0,,Hum Now I’m going to work at night
+Dialogue: 0,00:07:21.49,00:07:23.25,Default,,0,0,0,,The security system has been strengthened
+Dialogue: 0,00:07:30.85,00:07:32.85,Default,,0,0,0,,This time it will definitely be fine
+Dialogue: 0,00:07:36.13,00:07:37.17,Default,,0,0,0,,What sound
+Dialogue: 0,00:07:43.65,00:07:45.01,Default,,0,0,0,,Start monitoring without humans
+Dialogue: 0,00:07:48.85,00:07:49.89,Default,,0,0,0,,Have been discovered
+Dialogue: 0,00:08:20.57,00:08:22.21,Default,,0,0,0,,What happened
+Dialogue: 0,00:08:29.01,00:08:29.93,Default,,0,0,0,,Have a quick
+Dialogue: 0,00:08:35.97,00:08:36.53,Default,,0,0,0,,what
+Dialogue: 0,00:08:40.93,00:08:43.13,Default,,0,0,0,,Oh, my obscene is not available
+Dialogue: 0,00:08:50.33,00:08:51.17,Default,,0,0,0,,There is a thief
+Dialogue: 0,00:08:51.85,00:08:53.45,Default,,0,0,0,,All unmanned machines are activated
+Dialogue: 0,00:09:50.29,00:09:50.75,Default,,0,0,0,,Hello…
+Dialogue: 0,00:09:50.77,00:09:51.77,Default,,0,0,0,,…
+Dialogue: 0,00:10:13.01,00:10:14.37,Default,,0,0,0,,Don’t open the door
+Dialogue: 0,00:10:17.65,00:10:20.33,Default,,0,0,0,,Red Red How did you come here
+Dialogue: 0,00:10:20.73,00:10:22.93,Default,,0,0,0,,Did you force me to do it?
+Dialogue: 0,00:10:23.21,00:10:24.71,Default,,0,0,0,,I remember the museum used to
+Dialogue: 0,00:10:24.73,00:10:26.61,Default,,0,0,0,,It’s his secret base
+Dialogue: 0,00:10:27.53,00:10:28.21,Default,,0,0,0,,Close your mouth
+Dialogue: 0,00:10:30.37,00:10:33.21,Default,,0,0,0,,Red, you see, this is our family portrait
+Dialogue: 0,00:10:33.53,00:10:35.43,Default,,0,0,0,,I’ve got it done again
+Dialogue: 0,00:10:35.45,00:10:38.41,Default,,0,0,0,,I’m Wolffy, you’re my wife
+Dialogue: 0,00:10:38.81,00:10:41.22,Default,,0,0,0,,This is our son Wilie
+Dialogue: 0,00:10:41.25,00:10:42.79,Default,,0,0,0,,We are a family
+Dialogue: 0,00:10:42.81,00:10:43.57,Default,,0,0,0,,you…
+Dialogue: 0,00:10:46.41,00:10:49.61,Default,,0,0,0,,Ah...thief...
+Dialogue: 0,00:10:53.13,00:10:54.09,Default,,0,0,0,,don’t want
+Dialogue: 0,00:10:56.77,00:10:57.89,Default,,0,0,0,,oops
+Dialogue: 0,00:11:14.05,00:11:14.93,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:11:15.13,00:11:18.67,Default,,0,0,0,,Yep, I’ve lost my salary this month
+Dialogue: 0,00:11:18.69,00:11:20.79,Default,,0,0,0,,I’ll get the red red back
+Dialogue: 0,00:11:20.81,00:11:22.09,Default,,0,0,0,,How about it...
+Dialogue: 0,00:11:26.05,00:11:26.85,Default,,0,0,0,,Red
+Dialogue: 0,00:11:27.57,00:11:28.69,Default,,0,0,0,,What to do again
+Dialogue: 0,00:11:29.25,00:11:32.01,Default,,0,0,0,,How can you hit someone randomly?
+Dialogue: 0,00:11:32.21,00:11:34.21,Default,,0,0,0,,That security guard is innocent
+Dialogue: 0,00:11:36.69,00:11:37.77,Default,,0,0,0,,More carefree things
+Dialogue: 0,00:11:40.61,00:11:42.01,Default,,0,0,0,,Of course I have to take care of it
+Dialogue: 0,00:11:42.49,00:11:45.61,Default,,0,0,0,,I won’t make you a cold-blooded person
+Dialogue: 0,00:11:45.77,00:11:47.61,Default,,0,0,0,,Although you are missing now
+Dialogue: 0,00:11:47.89,00:11:50.85,Default,,0,0,0,,But you can’t lose your kind heart
+Dialogue: 0,00:11:51.13,00:11:53.01,Default,,0,0,0,,Come home with me
+Dialogue: 0,00:11:58.41,00:12:02.97,Default,,0,0,0,,Ahem Red, I don’t want to yell at you either
+Dialogue: 0,00:12:03.77,00:12:05.95,Default,,0,0,0,,It’s just if I don’t stop you
+Dialogue: 0,00:12:05.97,00:12:07.53,Default,,0,0,0,,Wait until you recover your memory
+Dialogue: 0,00:12:07.65,00:12:09.77,Default,,0,0,0,,Thinking of the wrong thing I’ve done
+Dialogue: 0,00:12:09.97,00:12:11.89,Default,,0,0,0,,I’ll definitely regret it.
+Dialogue: 0,00:12:12.61,00:12:15.57,Default,,0,0,0,,Come and go home with me
+Dialogue: 0,00:12:24.29,00:12:28.93,Default,,0,0,0,,Ahem... Red I won’t give up
+Dialogue: 0,00:12:29.25,00:12:31.97,Default,,0,0,0,,I’ll make you remember me

@@ -1,0 +1,152 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.29,00:00:22.49,Default,,0,0,0,,While the Sparky  is not chasing
+Dialogue: 0,00:00:22.73,00:00:25.09,Default,,0,0,0,,Let’s take a car to the palace to find Princess Levana
+Dialogue: 0,00:00:31.93,00:00:33.57,Default,,0,0,0,,What are you doing with Weslie
+Dialogue: 0,00:00:35.09,00:00:35.57,Default,,0,0,0,,You see
+Dialogue: 0,00:00:38.13,00:00:39.09,Default,,0,0,0,,What should I do
+Dialogue: 0,00:00:43.29,00:00:44.57,Default,,0,0,0,,Just a few soldiers
+Dialogue: 0,00:00:44.81,00:00:47.69,Default,,0,0,0,,I used the Lightning Strike to hit the opposite side and led them out
+Dialogue: 0,00:00:48.25,00:00:48.89,Default,,0,0,0,,thunder…
+Dialogue: 0,00:00:49.09,00:00:50.65,Default,,0,0,0,,No…
+Dialogue: 0,00:00:51.81,00:00:53.37,Default,,0,0,0,,oops…
+Dialogue: 0,00:00:56.05,00:00:56.85,Default,,0,0,0,,Alas
+Dialogue: 0,00:01:00.17,00:01:01.93,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:01:02.57,00:01:05.57,Default,,0,0,0,,Wolffy, a thunderbolt hit us here
+Dialogue: 0,00:01:05.89,00:01:09.57,Default,,0,0,0,,Uh...it seems to be the same, but I still don’t need it
+Dialogue: 0,00:01:10.57,00:01:13.05,Default,,0,0,0,,Now it’s no longer a problem with several soldiers
+Dialogue: 0,00:01:17.69,00:01:19.13,Default,,0,0,0,,Then what should I do now
+Dialogue: 0,00:01:20.25,00:01:21.77,Default,,0,0,0,,When they exchange
+Dialogue: 0,00:01:21.89,00:01:24.01,Default,,0,0,0,,See if there is any chance to mix in
+Dialogue: 0,00:01:24.17,00:01:24.65,Default,,0,0,0,,Um
+Dialogue: 0,00:01:39.81,00:01:42.13,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:01:42.81,00:01:43.73,Default,,0,0,0,,Let me come
+Dialogue: 0,00:01:59.97,00:02:01.17,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:02:02.49,00:02:05.57,Default,,0,0,0,,They’re not sick, they’re lacking water
+Dialogue: 0,00:02:06.21,00:02:08.29,Default,,0,0,0,,Have to give them water soon
+Dialogue: 0,00:02:09.25,00:02:11.25,Default,,0,0,0,,Where is there water in the desert
+Dialogue: 0,00:02:14.37,00:02:15.65,Default,,0,0,0,,ah? What is this
+Dialogue: 0,00:02:17.49,00:02:19.97,Default,,0,0,0,,This is...tea pot
+Dialogue: 0,00:02:20.57,00:02:21.65,Default,,0,0,0,,That’s the light
+Dialogue: 0,00:02:22.37,00:02:24.61,Default,,0,0,0,,Divine light? We’re saved
+Dialogue: 0,00:02:31.21,00:02:32.29,Default,,0,0,0,,Why didn’t you react?
+Dialogue: 0,00:02:32.73,00:02:35.33,Default,,0,0,0,,That...is not friction
+Dialogue: 0,00:02:35.53,00:02:37.25,Default,,0,0,0,,It’s time to knock three times with a cube
+Dialogue: 0,00:02:45.41,00:02:46.89,Default,,0,0,0,,Light God Light God
+Dialogue: 0,00:02:46.97,00:02:49.81,Default,,0,0,0,,Please help me restore everyone to its original state
+Dialogue: 0,00:02:52.97,00:02:55.29,Default,,0,0,0,,I don’t seem to understand what you’re saying
+Dialogue: 0,00:02:55.85,00:02:57.93,Default,,0,0,0,,The divine lights here cannot be silly
+Dialogue: 0,00:02:58.25,00:02:59.73,Default,,0,0,0,,Only answer questions
+Dialogue: 0,00:02:59.85,00:03:01.45,Default,,0,0,0,,What a useless divine light
+Dialogue: 0,00:03:02.13,00:03:05.57,Default,,0,0,0,,OK, light god, please tell me where is there water
+Dialogue: 0,00:03:06.25,00:03:09.61,Default,,0,0,0,,Every day at 12 noon, someone will give water in the market
+Dialogue: 0,00:03:09.85,00:03:11.85,Default,,0,0,0,,Do you have a second question?
+Dialogue: 0,00:03:12.41,00:03:12.99,Default,,0,0,0,,That…
+Dialogue: 0,00:03:13.01,00:03:14.81,Default,,0,0,0,,I won’t answer some
+Dialogue: 0,00:03:17.01,00:03:19.69,Default,,0,0,0,,The light god here can only answer one question
+Dialogue: 0,00:03:21.13,00:03:24.05,Default,,0,0,0,,Since that’s the case, I’m pretending to be a resident and go to the team to steer the water
+Dialogue: 0,00:03:25.05,00:03:26.69,Default,,0,0,0,,Wolffy, try it
+Dialogue: 0,00:03:26.77,00:03:28.69,Default,,0,0,0,,Can you check with residents around you?
+Dialogue: 0,00:03:29.85,00:03:32.21,Default,,0,0,0,,Who finds the water first, who will come back to save people first
+Dialogue: 0,00:03:33.45,00:03:35.01,Default,,0,0,0,,Princess Luna Fulai
+Dialogue: 0,00:03:35.09,00:03:37.23,Default,,0,0,0,,Please find a place to stay calm
+Dialogue: 0,00:03:37.25,00:03:38.25,Default,,0,0,0,,Andon they
+Dialogue: 0,00:03:39.21,00:03:39.69,Default,,0,0,0,,Um
+Dialogue: 0,00:03:57.89,00:03:58.57,Default,,0,0,0,,Sparky
+Dialogue: 0,00:03:58.97,00:04:00.57,Default,,0,0,0,,Everyone cooperates with the inspection
+Dialogue: 0,00:04:01.05,00:04:02.65,Default,,0,0,0,,All those wearing masks were lifted off for me
+Dialogue: 0,00:04:04.37,00:04:05.05,Default,,0,0,0,,How to do it
+Dialogue: 0,00:04:07.65,00:04:09.37,Default,,0,0,0,,No one can live without water
+Dialogue: 0,00:04:09.49,00:04:11.49,Default,,0,0,0,,I don’t believe you don’t come to get water
+Dialogue: 0,00:04:11.65,00:04:13.89,Default,,0,0,0,,The military officer is really tall when he waits for the rabbit
+Dialogue: 0,00:04:14.53,00:04:16.25,Default,,0,0,0,,See what they look like
+Dialogue: 0,00:04:22.41,00:04:23.17,Default,,0,0,0,,Can’t leave anymore
+Dialogue: 0,00:04:23.45,00:04:25.57,Default,,0,0,0,,There will be no water to save Yangyang and the others
+Dialogue: 0,00:04:32.25,00:04:32.97,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:04:38.69,00:04:40.73,Default,,0,0,0,,All fell off, go ahead
+Dialogue: 0,00:04:54.89,00:04:56.65,Default,,0,0,0,,I’ve asked a lot of people
+Dialogue: 0,00:04:56.81,00:04:59.13,Default,,0,0,0,,No one has water, what should I do
+Dialogue: 0,00:05:05.89,00:05:08.69,Default,,0,0,0,,Sparky  manages here so that it will not leak out
+Dialogue: 0,00:05:08.89,00:05:10.89,Default,,0,0,0,,But there must be a miscellaneous secret.
+Dialogue: 0,00:05:11.09,00:05:12.45,Default,,0,0,0,,He never thought...
+Dialogue: 0,00:05:15.37,00:05:18.89,Default,,0,0,0,,Kid, lend the water gun to the uncle for fun
+Dialogue: 0,00:05:20.45,00:05:20.85,Default,,0,0,0,,Um
+Dialogue: 0,00:05:24.05,00:05:26.65,Default,,0,0,0,,I didn’t expect it to be so easy to get water
+Dialogue: 0,00:05:47.37,00:05:48.61,Default,,0,0,0,,It’s sand again...
+Dialogue: 0,00:05:50.05,00:05:51.85,Default,,0,0,0,,Oh, I’m too difficult
+Dialogue: 0,00:06:01.17,00:06:04.61,Default,,0,0,0,,Water...water...water...
+Dialogue: 0,00:06:06.01,00:06:08.77,Default,,0,0,0,,Why don’t Weslie and Wolffy come back yet
+Dialogue: 0,00:06:08.97,00:06:11.29,Default,,0,0,0,,Princess Luna
+Dialogue: 0,00:06:11.57,00:06:13.21,Default,,0,0,0,,Wolffy, is there water?
+Dialogue: 0,00:06:14.69,00:06:15.73,Default,,0,0,0,,- Wolffy
+- Wolffy
+Dialogue: 0,00:06:20.81,00:06:22.65,Default,,0,0,0,,Now Wolffy has heatstroke
+Dialogue: 0,00:06:23.65,00:06:25.69,Default,,0,0,0,,Weslie has never come back
+Dialogue: 0,00:06:26.53,00:06:27.69,Default,,0,0,0,,I’ll go find water
+Dialogue: 0,00:06:27.77,00:06:29.57,Default,,0,0,0,,You take care of them here
+Dialogue: 0,00:06:30.29,00:06:32.01,Default,,0,0,0,,Then you have to be careful
+Dialogue: 0,00:06:32.25,00:06:32.49,Default,,0,0,0,,Um
+Dialogue: 0,00:06:51.69,00:06:52.49,Default,,0,0,0,,Lift your head
+Dialogue: 0,00:06:56.53,00:06:57.05,Default,,0,0,0,,Next
+Dialogue: 0,00:07:07.57,00:07:10.37,Default,,0,0,0,,Strange why you didn’t see the goat
+Dialogue: 0,00:07:10.97,00:07:12.49,Default,,0,0,0,,Maybe wait and see
+Dialogue: 0,00:07:14.77,00:07:15.37,Default,,0,0,0,,Yes
+Dialogue: 0,00:07:20.49,00:07:22.37,Default,,0,0,0,,What if they don’t come
+Dialogue: 0,00:07:24.93,00:07:28.01,Default,,0,0,0,,You are so wise, they will definitely be
+Dialogue: 0,00:07:28.49,00:07:31.15,Default,,0,0,0,,It makes sense, please continue to send water
+Dialogue: 0,00:07:31.17,00:07:31.65,Default,,0,0,0,,Um
+Dialogue: 0,00:07:36.09,00:07:39.01,Default,,0,0,0,,Alas! ah…
+Dialogue: 0,00:07:46.49,00:07:47.69,Default,,0,0,0,,Sorry Sorry...
+Dialogue: 0,00:07:47.89,00:07:49.05,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:07:50.45,00:07:50.97,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:57.17,00:07:59.13,Default,,0,0,0,,Weslie? Catch him!
+Dialogue: 0,00:08:12.93,00:08:14.89,Default,,0,0,0,,Water I want water...
+Dialogue: 0,00:08:19.81,00:08:20.89,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:08:24.21,00:08:25.17,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:08:26.45,00:08:27.89,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:08:36.93,00:08:38.01,Default,,0,0,0,,No more water
+Dialogue: 0,00:08:42.05,00:08:43.09,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:08:53.29,00:08:54.29,Default,,0,0,0,,Chase me
+Dialogue: 0,00:08:54.49,00:08:54.81,Default,,0,0,0,,yes
+Dialogue: 0,00:09:02.17,00:09:03.33,Default,,0,0,0,,Go and stare at them
+Dialogue: 0,00:09:09.69,00:09:10.97,Default,,0,0,0,,Depend on where you’re running away
+Dialogue: 0,00:09:17.13,00:09:17.77,Default,,0,0,0,,stop!
+Dialogue: 0,00:09:37.09,00:09:37.65,Default,,0,0,0,,stop!
+Dialogue: 0,00:09:49.49,00:09:50.53,Default,,0,0,0,,Very good!
+Dialogue: 0,00:09:54.65,00:09:55.57,Default,,0,0,0,,Don’t be proud
+Dialogue: 0,00:09:56.09,00:09:59.17,Default,,0,0,0,,Everyone went to the back of the street to catch Weslie
+Dialogue: 0,00:09:59.77,00:10:03.17,Default,,0,0,0,,Everyone went to the back of the street to catch Weslie
+Dialogue: 0,00:10:04.29,00:10:04.57,Default,,0,0,0,,quick
+Dialogue: 0,00:10:49.29,00:10:50.05,Default,,0,0,0,,Catch him!
+Dialogue: 0,00:10:54.45,00:10:55.65,Default,,0,0,0,,Xiaomu?
+Dialogue: 0,00:10:58.49,00:11:00.29,Default,,0,0,0,,Don’t go to let it open
+Dialogue: 0,00:11:05.37,00:11:07.01,Default,,0,0,0,,Soldier Chief What to do?
+Dialogue: 0,00:11:07.05,00:11:07.89,Default,,0,0,0,,Let it open first
+Dialogue: 0,00:11:32.37,00:11:33.05,Default,,0,0,0,,not good!
+Dialogue: 0,00:11:44.45,00:11:46.45,Default,,0,0,0,,Weslie Xiaomu
+Dialogue: 0,00:11:50.53,00:11:52.01,Default,,0,0,0,,A bunch of useless things
+Dialogue: 0,00:11:58.85,00:12:00.65,Default,,0,0,0,,Thank you for saving us again
+Dialogue: 0,00:12:01.57,00:12:02.17,Default,,0,0,0,,You are welcome
+Dialogue: 0,00:12:03.05,00:12:04.69,Default,,0,0,0,,Why do you keep helping us
+Dialogue: 0,00:12:05.25,00:12:05.95,Default,,0,0,0,,Because…
+Dialogue: 0,00:12:05.97,00:12:06.61,Default,,0,0,0,,stop!
+Dialogue: 0,00:12:08.09,00:12:10.25,Default,,0,0,0,,You go quickly and they’re caught up with you right away
+Dialogue: 0,00:12:12.57,00:12:13.01,Default,,0,0,0,,- Um
+- Um
+Dialogue: 0,00:12:13.61,00:12:15.05,Default,,0,0,0,,Then you have to be careful too
+Dialogue: 0,00:12:15.45,00:12:16.05,Default,,0,0,0,,Um
+Dialogue: 0,00:12:26.17,00:12:28.09,Default,,0,0,0,,Just ahead, it’s almost here

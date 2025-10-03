@@ -1,0 +1,208 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:35.65,00:00:37.29,Default,,0,0,0,,Who are you
+Dialogue: 0,00:00:37.93,00:00:38.57,Default,,0,0,0,,presumptuous
+Dialogue: 0,00:00:38.77,00:00:40.81,Default,,0,0,0,,How can I talk to Queen Levana like this
+Dialogue: 0,00:00:41.57,00:00:43.61,Default,,0,0,0,,Are you the sister of Princess Luna?
+Dialogue: 0,00:00:44.49,00:00:47.37,Default,,0,0,0,,You are the help my sister has come to
+Dialogue: 0,00:00:48.57,00:00:51.33,Default,,0,0,0,,I wonder if there is anything wrong with you
+Dialogue: 0,00:00:51.57,00:00:52.85,Default,,0,0,0,,misunderstanding?
+Dialogue: 0,00:00:53.33,00:00:55.41,Default,,0,0,0,,Princess Luna is actually very concerned...
+Dialogue: 0,00:00:56.65,00:00:58.05,Default,,0,0,0,,Jonie
+Dialogue: 0,00:00:58.57,00:00:59.81,Default,,0,0,0,,Not enough
+Dialogue: 0,00:01:00.49,00:01:02.01,Default,,0,0,0,,What happened?
+Dialogue: 0,00:01:02.45,00:01:04.33,Default,,0,0,0,,- Jonie, are you okay?
+- Jonie, are you okay?
+Dialogue: 0,00:01:04.97,00:01:07.53,Default,,0,0,0,,We’re on...
+Dialogue: 0,00:01:28.21,00:01:30.01,Default,,0,0,0,,It seems that I underestimated you
+Dialogue: 0,00:01:32.21,00:01:35.41,Default,,0,0,0,,But...that’s the end
+Dialogue: 0,00:01:37.85,00:01:39.17,Default,,0,0,0,,Be careful, everyone
+Dialogue: 0,00:01:41.65,00:01:43.33,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:01:44.49,00:01:46.41,Default,,0,0,0,,Will be crushed
+Dialogue: 0,00:01:46.45,00:01:49.17,Default,,0,0,0,,Is this her Qili?
+Dialogue: 0,00:01:57.81,00:01:58.95,Default,,0,0,0,,What to do
+Dialogue: 0,00:01:58.97,00:02:00.35,Default,,0,0,0,,The village chief was caught
+Dialogue: 0,00:02:00.37,00:02:02.89,Default,,0,0,0,,There is no news about Weslie and the others
+Dialogue: 0,00:02:04.57,00:02:06.63,Default,,0,0,0,,Since my sister’s personality changed drastically
+Dialogue: 0,00:02:06.65,00:02:08.25,Default,,0,0,0,,I’ll pay for it
+Dialogue: 0,00:02:09.29,00:02:12.45,Default,,0,0,0,,Weslie and the sister will not be caught by their sister too
+Dialogue: 0,00:02:13.85,00:02:14.77,Default,,0,0,0,,I’ll go find them
+Dialogue: 0,00:02:15.01,00:02:17.05,Default,,0,0,0,,Don’t walk if you stay here
+Dialogue: 0,00:02:17.97,00:02:20.45,Default,,0,0,0,,But there are soldiers everywhere outside
+Dialogue: 0,00:02:21.09,00:02:23.21,Default,,0,0,0,,You’ll definitely be caught
+Dialogue: 0,00:02:24.37,00:02:27.33,Default,,0,0,0,,I’m the big wolf, the transformer.
+Dialogue: 0,00:02:27.37,00:02:28.21,Default,,0,0,0,,I’m going
+Dialogue: 0,00:02:29.93,00:02:31.93,Default,,0,0,0,,Wow...
+Dialogue: 0,00:02:32.81,00:02:34.85,Default,,0,0,0,,This won’t be discovered
+Dialogue: 0,00:02:34.97,00:02:36.53,Default,,0,0,0,,Meow…
+Dialogue: 0,00:02:36.69,00:02:38.33,Default,,0,0,0,,- Wow, great
+- Wow, great
+Dialogue: 0,00:02:38.69,00:02:40.97,Default,,0,0,0,,I’ll find everyone
+Dialogue: 0,00:02:41.17,00:02:41.85,Default,,0,0,0,,Alas
+Dialogue: 0,00:02:44.53,00:02:46.61,Default,,0,0,0,,It doesn’t matter at all
+Dialogue: 0,00:02:46.97,00:02:47.59,Default,,0,0,0,,That’s right
+Dialogue: 0,00:02:47.61,00:02:49.97,Default,,0,0,0,,He hadn’t caught a goat before
+Dialogue: 0,00:02:52.97,00:02:54.81,Default,,0,0,0,,No, I’m going to help
+Dialogue: 0,00:02:55.41,00:02:57.29,Default,,0,0,0,,Princess, wait for me
+Dialogue: 0,00:02:59.45,00:03:00.77,Default,,0,0,0,,I want to go, too
+Dialogue: 0,00:03:15.49,00:03:17.59,Default,,0,0,0,,Have you ever seen a goat like me?
+Dialogue: 0,00:03:17.61,00:03:18.65,Default,,0,0,0,,No, no
+Dialogue: 0,00:03:20.57,00:03:22.91,Default,,0,0,0,,Could you ever see a goat like me?
+Dialogue: 0,00:03:22.93,00:03:23.97,Default,,0,0,0,,No, no
+Dialogue: 0,00:03:24.61,00:03:26.41,Default,,0,0,0,,no
+Dialogue: 0,00:03:26.57,00:03:27.45,Default,,0,0,0,,no
+Dialogue: 0,00:03:28.21,00:03:29.61,Default,,0,0,0,,I’ve seen it
+Dialogue: 0,00:03:30.21,00:03:31.77,Default,,0,0,0,,Ask for a while...
+Dialogue: 0,00:03:33.21,00:03:34.09,Default,,0,0,0,,It’s you
+Dialogue: 0,00:03:34.17,00:03:35.05,Default,,0,0,0,,What did you just say
+Dialogue: 0,00:03:35.57,00:03:38.45,Default,,0,0,0,,I saw the soldier escorting Lao Yu to the side
+Dialogue: 0,00:03:38.69,00:03:39.81,Default,,0,0,0,,thank you
+Dialogue: 0,00:03:48.29,00:03:50.85,Default,,0,0,0,,Is Luna’s helper still somewhat capable?
+Dialogue: 0,00:03:51.49,00:03:53.65,Default,,0,0,0,,Lord Queen, how many have not been caught
+Dialogue: 0,00:03:57.73,00:03:59.29,Default,,0,0,0,,Maybe they can catch it
+Dialogue: 0,00:03:59.37,00:04:01.81,Default,,0,0,0,,But, I need to strengthen it
+Dialogue: 0,00:04:29.01,00:04:29.89,Default,,0,0,0,,now…
+Dialogue: 0,00:04:31.97,00:04:33.41,Default,,0,0,0,,You are mine
+Dialogue: 0,00:04:35.17,00:04:36.89,Default,,0,0,0,,Work as much as possible
+Dialogue: 0,00:04:49.45,00:04:50.29,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:53.65,00:04:54.65,Default,,0,0,0,,What should I do now
+Dialogue: 0,00:04:56.25,00:04:58.37,Default,,0,0,0,,I can only save the village chief myself
+Dialogue: 0,00:04:59.65,00:05:02.17,Default,,0,0,0,,But how can I do it alone
+Dialogue: 0,00:05:02.89,00:05:03.69,Default,,0,0,0,,No matter
+Dialogue: 0,00:05:03.81,00:05:04.97,Default,,0,0,0,,Keep up first and then talk
+Dialogue: 0,00:05:11.17,00:05:11.85,Default,,0,0,0,,who?
+Dialogue: 0,00:05:15.49,00:05:17.65,Default,,0,0,0,,It should be just a mouse
+Dialogue: 0,00:05:41.25,00:05:41.93,Default,,0,0,0,,Meow…
+Dialogue: 0,00:05:45.05,00:05:47.27,Default,,0,0,0,,You have to control yourself
+Dialogue: 0,00:05:47.29,00:05:49.49,Default,,0,0,0,,You have been trained professionally
+Dialogue: 0,00:05:50.77,00:05:52.01,Default,,0,0,0,,sorry
+Dialogue: 0,00:05:52.61,00:05:53.93,Default,,0,0,0,,Do cats like light spots?
+Dialogue: 0,00:05:54.57,00:05:55.49,Default,,0,0,0,,There is a way
+Dialogue: 0,00:06:08.65,00:06:09.41,Default,,0,0,0,,Meow
+Dialogue: 0,00:06:12.85,00:06:15.21,Default,,0,0,0,,You can’t be a high-level soldier
+Dialogue: 0,00:06:15.73,00:06:16.69,Default,,0,0,0,,True failure
+Dialogue: 0,00:06:27.77,00:06:29.47,Default,,0,0,0,,Can’t help it...
+Dialogue: 0,00:06:29.49,00:06:31.55,Default,,0,0,0,,I’ve failed too
+Dialogue: 0,00:06:31.57,00:06:35.05,Default,,0,0,0,,Meow Meow Meow Meow…
+Dialogue: 0,00:06:35.65,00:06:37.57,Default,,0,0,0,,Village Chief, I’m here to save you
+Dialogue: 0,00:06:38.45,00:06:40.07,Default,,0,0,0,,Why are you the only ones
+Dialogue: 0,00:06:40.09,00:06:41.09,Default,,0,0,0,,What about others
+Dialogue: 0,00:06:42.93,00:06:44.97,Default,,0,0,0,,Let’s run first
+Dialogue: 0,00:06:45.53,00:06:45.85,Default,,0,0,0,,Um
+Dialogue: 0,00:06:47.61,00:06:49.69,Default,,0,0,0,,Meow Meow Meow Meow…
+Dialogue: 0,00:06:53.33,00:06:55.01,Default,,0,0,0,,The goat escaped
+Dialogue: 0,00:06:55.33,00:06:57.37,Default,,0,0,0,,Stop and don’t run
+Dialogue: 0,00:07:02.25,00:07:05.17,Default,,0,0,0,,I don’t know if Big Wolf and the others succeeded
+Dialogue: 0,00:07:05.81,00:07:07.05,Default,,0,0,0,,Catch him
+Dialogue: 0,00:07:08.09,00:07:09.57,Default,,0,0,0,,Stop and don’t run
+Dialogue: 0,00:07:11.21,00:07:12.09,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:12.25,00:07:13.35,Default,,0,0,0,,- Wolffy
+- Wolffy
+Dialogue: 0,00:07:13.37,00:07:15.51,Default,,0,0,0,,Oh, I’m dressed up like this
+Dialogue: 0,00:07:15.53,00:07:17.03,Default,,0,0,0,,How can it be recognized
+Dialogue: 0,00:07:17.05,00:07:17.83,Default,,0,0,0,,Wait
+Dialogue: 0,00:07:17.85,00:07:20.17,Default,,0,0,0,,The ears are all gone, why can’t you tell me
+Dialogue: 0,00:07:20.89,00:07:22.41,Default,,0,0,0,,It seems to have failed
+Dialogue: 0,00:07:22.81,00:07:24.29,Default,,0,0,0,,We want to help him
+Dialogue: 0,00:07:25.61,00:07:27.33,Default,,0,0,0,,Stop and don’t run
+Dialogue: 0,00:07:27.41,00:07:28.49,Default,,0,0,0,,stop
+Dialogue: 0,00:07:29.17,00:07:31.29,Default,,0,0,0,,Oops, no way to go
+Dialogue: 0,00:07:35.53,00:07:37.33,Default,,0,0,0,,Depend on where you’re going
+Dialogue: 0,00:07:39.65,00:07:41.61,Default,,0,0,0,,Let you see my power
+Dialogue: 0,00:07:42.97,00:07:44.09,Default,,0,0,0,,Explode
+Dialogue: 0,00:07:49.93,00:07:52.93,Default,,0,0,0,,Hehe...a joke
+Dialogue: 0,00:07:53.21,00:07:53.73,Default,,0,0,0,,superior
+Dialogue: 0,00:07:59.45,00:08:01.05,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:08:02.01,00:08:03.73,Default,,0,0,0,,I really have the power
+Dialogue: 0,00:08:03.77,00:08:05.67,Default,,0,0,0,,Cough cough... grab him...
+Dialogue: 0,00:08:05.69,00:08:06.57,Default,,0,0,0,,Ahem...
+Dialogue: 0,00:08:09.89,00:08:10.83,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:08:10.85,00:08:12.65,Default,,0,0,0,,It turns out that it is Luna’s ability
+Dialogue: 0,00:08:15.25,00:08:16.61,Default,,0,0,0,,Where is the car
+Dialogue: 0,00:08:17.05,00:08:18.97,Default,,0,0,0,,Can’t explain it now, get on the train
+Dialogue: 0,00:08:23.69,00:08:24.65,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:08:24.97,00:08:27.01,Default,,0,0,0,,Help
+Dialogue: 0,00:08:28.89,00:08:30.13,Default,,0,0,0,,It’s Weslie and the others
+Dialogue: 0,00:08:31.53,00:08:34.17,Default,,0,0,0,,Great, finally found you
+Dialogue: 0,00:08:36.09,00:08:37.25,Default,,0,0,0,,It’s fine if you’re fine
+Dialogue: 0,00:08:37.49,00:08:39.57,Default,,0,0,0,,Let’s run, there are chasers behind.
+Dialogue: 0,00:08:41.25,00:08:41.71,Default,,0,0,0,,you…
+Dialogue: 0,00:08:41.73,00:08:44.37,Default,,0,0,0,,Like...
+Dialogue: 0,00:08:44.81,00:08:48.13,Default,,0,0,0,,How could he dress up like a cat?
+Dialogue: 0,00:08:48.97,00:08:51.37,Default,,0,0,0,,Is it hard to hide from the pursuit?
+Dialogue: 0,00:08:52.45,00:08:55.01,Default,,0,0,0,,Then hurry up and get the two pursuers behind you
+Dialogue: 0,00:08:56.93,00:08:59.09,Default,,0,0,0,,What happened to you? Nothing is said
+Dialogue: 0,00:09:00.05,00:09:02.01,Default,,0,0,0,,Why do you ignore me?
+Dialogue: 0,00:09:05.77,00:09:07.17,Default,,0,0,0,,Let me go!
+Dialogue: 0,00:09:08.69,00:09:09.29,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:09:12.89,00:09:15.87,Default,,0,0,0,,Weslie, are you catching me and doing me
+Dialogue: 0,00:09:15.89,00:09:18.05,Default,,0,0,0,,I’m going to save the village chief...
+Dialogue: 0,00:09:18.09,00:09:20.21,Default,,0,0,0,,We are ordered by Queen Levana
+Dialogue: 0,00:09:20.29,00:09:21.45,Default,,0,0,0,,Come and catch you
+Dialogue: 0,00:09:22.65,00:09:23.97,Default,,0,0,0,,Catch me? Why?
+Dialogue: 0,00:09:24.13,00:09:25.73,Default,,0,0,0,,We are good friends
+Dialogue: 0,00:09:25.93,00:09:27.65,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:09:27.97,00:09:29.89,Default,,0,0,0,,This scene is really good
+Dialogue: 0,00:09:34.69,00:09:35.61,Default,,0,0,0,,Who are you
+Dialogue: 0,00:09:35.77,00:09:37.25,Default,,0,0,0,,Queen Levana
+Dialogue: 0,00:09:37.37,00:09:38.25,Default,,0,0,0,,It’s you?
+Dialogue: 0,00:09:38.45,00:09:40.77,Default,,0,0,0,,What did you do to my friends
+Dialogue: 0,00:09:41.45,00:09:42.85,Default,,0,0,0,,Your friend?
+Dialogue: 0,00:09:43.53,00:09:45.41,Default,,0,0,0,,Then do you still know him?
+Dialogue: 0,00:09:46.21,00:09:47.57,Default,,0,0,0,,Don’t recognize
+Dialogue: 0,00:09:47.97,00:09:50.41,Default,,0,0,0,,How could it be...
+Dialogue: 0,00:09:51.73,00:09:54.05,Default,,0,0,0,,OK, take him away
+Dialogue: 0,00:09:54.21,00:09:55.61,Default,,0,0,0,,What are you talking nonsense
+Dialogue: 0,00:09:55.65,00:09:58.69,Default,,0,0,0,,Why don’t you recognize me? I’m a goat
+Dialogue: 0,00:09:58.93,00:09:59.81,Default,,0,0,0,,A goat?
+Dialogue: 0,00:10:00.05,00:10:01.05,Default,,0,0,0,,Don’t recognize...
+Dialogue: 0,00:10:02.37,00:10:05.49,Default,,0,0,0,,I only know that we are the subordinates of Queen Levana, Zhongli
+Dialogue: 0,00:10:09.09,00:10:10.29,Default,,0,0,0,,You wake up quickly
+Dialogue: 0,00:10:10.33,00:10:11.21,Default,,0,0,0,,Magic Cloud!
+Dialogue: 0,00:10:15.57,00:10:16.89,Default,,0,0,0,,He actually has amazing powers.
+Dialogue: 0,00:10:17.01,00:10:19.29,Default,,0,0,0,,Could it be that it was the magic stone that Luna gave him?
+Dialogue: 0,00:10:19.81,00:10:21.77,Default,,0,0,0,,Why do you become like this
+Dialogue: 0,00:10:22.33,00:10:25.27,Default,,0,0,0,,They must be controlled
+Dialogue: 0,00:10:25.29,00:10:26.49,Default,,0,0,0,,You run away quickly
+Dialogue: 0,00:10:27.09,00:10:28.01,Default,,0,0,0,,Escape quickly?
+Dialogue: 0,00:10:28.25,00:10:29.81,Default,,0,0,0,,But…
+Dialogue: 0,00:10:30.09,00:10:31.65,Default,,0,0,0,,Everyone is still controlled
+Dialogue: 0,00:10:32.17,00:10:33.57,Default,,0,0,0,,What should I do?
+Dialogue: 0,00:10:34.89,00:10:36.97,Default,,0,0,0,,They are my best partners
+Dialogue: 0,00:10:37.97,00:10:40.13,Default,,0,0,0,,Let’s change everyone back soon
+Dialogue: 0,00:10:42.81,00:10:44.77,Default,,0,0,0,,It depends on your ability
+Dialogue: 0,00:10:52.17,00:10:53.77,Default,,0,0,0,,Is that only level?
+Dialogue: 0,00:11:09.97,00:11:12.57,Default,,0,0,0,,I’ll tell you the real power
+Dialogue: 0,00:11:17.85,00:11:19.57,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:11:20.57,00:11:21.49,Default,,0,0,0,,Too weak
+Dialogue: 0,00:11:33.29,00:11:35.65,Default,,0,0,0,,snort! Even if you have Qili...
+Dialogue: 0,00:11:35.81,00:11:36.45,Default,,0,0,0,,stop
+Dialogue: 0,00:11:36.65,00:11:38.25,Default,,0,0,0,,Let go of goat
+Dialogue: 0,00:11:39.09,00:11:40.17,Default,,0,0,0,,Small tricks of carving
+Dialogue: 0,00:11:41.97,00:11:42.59,Default,,0,0,0,,what
+Dialogue: 0,00:11:42.61,00:11:44.17,Default,,0,0,0,,Is this... flour?
+Dialogue: 0,00:11:46.73,00:11:48.37,Default,,0,0,0,,Let’s run away with rush
+Dialogue: 0,00:11:51.45,00:11:53.29,Default,,0,0,0,,Luna You can’t fight mine
+Dialogue: 0,00:12:02.05,00:12:04.45,Default,,0,0,0,,Wake up quickly
+Dialogue: 0,00:12:13.05,00:12:14.45,Default,,0,0,0,,Where are you going?
+Dialogue: 0,00:12:15.09,00:12:16.57,Default,,0,0,0,,Don’t leave...
+Dialogue: 0,00:12:17.93,00:12:20.21,Default,,0,0,0,,No...don’t let me go
+Dialogue: 0,00:12:21.17,00:12:23.97,Default,,0,0,0,,Luna What’s going on with the slept goat
+Dialogue: 0,00:12:24.05,00:12:26.45,Default,,0,0,0,,I didn’t expect my sister to do so hard
+Dialogue: 0,00:12:26.85,00:12:30.13,Default,,0,0,0,,I don’t have the ability to cure the goat now
+Dialogue: 0,00:12:30.49,00:12:31.83,Default,,0,0,0,,Then...Next...
+Dialogue: 0,00:12:31.85,00:12:33.69,Default,,0,0,0,,What should I do?

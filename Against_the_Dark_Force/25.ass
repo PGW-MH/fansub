@@ -1,0 +1,154 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.88,00:00:23.20,Default,,0,0,0,,Xiaomu What are you planning to do next
+Dialogue: 0,00:00:24.20,00:00:26.16,Default,,0,0,0,,Don’t worry, I’ll go back to my hometown
+Dialogue: 0,00:00:26.44,00:00:28.80,Default,,0,0,0,,You have to be careful
+Dialogue: 0,00:00:31.12,00:00:33.16,Default,,0,0,0,,Neither far or far, the next village is
+Dialogue: 0,00:00:36.92,00:00:38.72,Default,,0,0,0,,Let’s go take the car, too
+Dialogue: 0,00:00:38.84,00:00:40.56,Default,,0,0,0,,Don’t be discovered
+Dialogue: 0,00:01:08.60,00:01:10.76,Default,,0,0,0,,It’s a desert turtle. Hide!
+Dialogue: 0,00:01:20.04,00:01:22.04,Default,,0,0,0,,Hunting up!
+Dialogue: 0,00:01:22.48,00:01:24.72,Default,,0,0,0,,Where should I hide?
+Dialogue: 0,00:01:33.80,00:01:35.52,Default,,0,0,0,,Even if you search through the quicksand town
+Dialogue: 0,00:01:35.64,00:01:37.52,Default,,0,0,0,,Find them out too
+Dialogue: 0,00:01:38.84,00:01:39.52,Default,,0,0,0,,grown ups
+Dialogue: 0,00:01:41.04,00:01:43.84,Default,,0,0,0,,Don’t you really have to ask the Queen to get crystals?
+Dialogue: 0,00:01:44.92,00:01:46.00,Default,,0,0,0,,Catch someone first
+Dialogue: 0,00:01:46.28,00:01:48.80,Default,,0,0,0,,I have already made arrangements for the crystal matter
+Dialogue: 0,00:01:49.04,00:01:49.56,Default,,0,0,0,,yes
+Dialogue: 0,00:01:55.84,00:01:57.65,Default,,0,0,0,,These three knives in my hand
+Dialogue: 0,00:01:57.68,00:01:59.56,Default,,0,0,0,,Now I’ll pay you
+Dialogue: 0,00:02:00.40,00:02:02.28,Default,,0,0,0,,Must catch them
+Dialogue: 0,00:02:14.84,00:02:16.32,Default,,0,0,0,,It’s a Jonie!
+Dialogue: 0,00:02:28.20,00:02:30.12,Default,,0,0,0,,Desert Eagle should have left, right?
+Dialogue: 0,00:02:33.63,00:02:35.76,Default,,0,0,0,,Lord Jonie Please come
+Dialogue: 0,00:02:38.52,00:02:39.44,Default,,0,0,0,,It’s a Jonie!
+Dialogue: 0,00:02:39.72,00:02:41.72,Default,,0,0,0,,Oops, can’t be discovered
+Dialogue: 0,00:02:51.24,00:02:53.21,Default,,0,0,0,,I knew that the last bathroom was so far away
+Dialogue: 0,00:02:53.24,00:02:54.36,Default,,0,0,0,,I won’t go
+Dialogue: 0,00:03:15.32,00:03:17.52,Default,,0,0,0,,No! The slept with the goat is still hiding inside!
+Dialogue: 0,00:03:18.36,00:03:20.52,Default,,0,0,0,,It seems that the 日本語 has not been discovered yet
+Dialogue: 0,00:03:31.40,00:03:33.00,Default,,0,0,0,,What to do next
+Dialogue: 0,00:03:33.56,00:03:34.32,Default,,0,0,0,,Save the goat!
+Dialogue: 0,00:03:43.48,00:03:45.49,Default,,0,0,0,,How did Lord Jonie get to the bathroom
+Dialogue: 0,00:03:45.52,00:03:46.68,Default,,0,0,0,,So much heavier
+Dialogue: 0,00:03:52.88,00:03:54.89,Default,,0,0,0,,When they step on the beans, they slipped
+Dialogue: 0,00:03:54.92,00:03:56.92,Default,,0,0,0,,I took the opportunity to rescue the goat
+Dialogue: 0,00:04:01.44,00:04:02.52,Default,,0,0,0,,They are here!
+Dialogue: 0,00:04:17.16,00:04:18.68,Default,,0,0,0,,How could this happen?
+Dialogue: 0,00:04:21.16,00:04:22.24,Default,,0,0,0,,We want to check!
+Dialogue: 0,00:04:25.48,00:04:28.60,Default,,0,0,0,,You actually dare to search our Lord Jonie!
+Dialogue: 0,00:04:29.16,00:04:31.76,Default,,0,0,0,,Inside... is the Jonie
+Dialogue: 0,00:04:32.20,00:04:33.04,Default,,0,0,0,,terribly sorry
+Dialogue: 0,00:04:33.48,00:04:36.76,Default,,0,0,0,,But Master Sparky said that he could not let go anywhere
+Dialogue: 0,00:04:37.76,00:04:38.69,Default,,0,0,0,,Jonie
+Dialogue: 0,00:04:38.72,00:04:40.53,Default,,0,0,0,,If you have the dignity of being a goat
+Dialogue: 0,00:04:40.56,00:04:42.52,Default,,0,0,0,,They must not search
+Dialogue: 0,00:04:45.96,00:04:47.52,Default,,0,0,0,,It’s okay, let them search
+Dialogue: 0,00:05:01.56,00:05:02.56,Default,,0,0,0,,It’s Weslie
+Dialogue: 0,00:05:11.04,00:05:12.12,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:16.36,00:05:17.76,Default,,0,0,0,,Come and chase me
+Dialogue: 0,00:05:18.44,00:05:19.04,Default,,0,0,0,,superior!
+Dialogue: 0,00:05:38.04,00:05:39.32,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:05:42.60,00:05:44.64,Default,,0,0,0,,It turns out that everyone is here
+Dialogue: 0,00:05:45.20,00:05:45.72,Default,,0,0,0,,catch!
+Dialogue: 0,00:06:22.88,00:06:23.56,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:06:30.36,00:06:31.96,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:06:32.44,00:06:33.40,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:06:40.72,00:06:41.76,Default,,0,0,0,,Hot Goat
+Dialogue: 0,00:06:42.44,00:06:44.60,Default,,0,0,0,,They are prisoners that the Queen will catch tomorrow
+Dialogue: 0,00:06:44.76,00:06:46.24,Default,,0,0,0,,Let’s go chase them
+Dialogue: 0,00:06:46.96,00:06:49.64,Default,,0,0,0,,No, I have something more important
+Dialogue: 0,00:06:58.92,00:07:00.85,Default,,0,0,0,,It hurts so much...
+Dialogue: 0,00:07:00.88,00:07:02.36,Default,,0,0,0,,ah…
+Dialogue: 0,00:07:05.08,00:07:07.60,Default,,0,0,0,,Report to Lord Jonie is here
+Dialogue: 0,00:07:11.68,00:07:12.61,Default,,0,0,0,,Sparky
+Dialogue: 0,00:07:12.64,00:07:14.83,Default,,0,0,0,,The Queen asked me to send the crystals over
+Dialogue: 0,00:07:15.64,00:07:17.48,Default,,0,0,0,,Great, give it to me
+Dialogue: 0,00:07:23.92,00:07:27.76,Default,,0,0,0,,I... seemed to...smash the crystal...
+Dialogue: 0,00:07:32.32,00:07:33.60,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:07:39.44,00:07:42.56,Default,,0,0,0,,Do not let any criminals go
+Dialogue: 0,00:07:43.32,00:07:43.80,Default,,0,0,0,,yes
+Dialogue: 0,00:07:55.12,00:07:56.24,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:56.36,00:07:58.00,Default,,0,0,0,,Huh? What is this?
+Dialogue: 0,00:08:00.36,00:08:02.12,Default,,0,0,0,,It’s like a crystal
+Dialogue: 0,00:08:03.16,00:08:04.52,Default,,0,0,0,,…
+Dialogue: 0,00:08:08.40,00:08:09.80,Default,,0,0,0,,This big cactus
+Dialogue: 0,00:08:09.88,00:08:11.56,Default,,0,0,0,,Will they be hiding in it?
+Dialogue: 0,00:08:18.72,00:08:20.12,Default,,0,0,0,,It’s over...
+Dialogue: 0,00:08:22.00,00:08:22.96,Default,,0,0,0,,Don’t look for it there
+Dialogue: 0,00:08:24.04,00:08:26.04,Default,,0,0,0,,Stop searching for prisoners
+Dialogue: 0,00:08:26.16,00:08:28.21,Default,,0,0,0,,I’ll send me the Jonie
+Dialogue: 0,00:08:28.24,00:08:29.61,Default,,0,0,0,,On the way
+Dialogue: 0,00:08:29.64,00:08:31.12,Default,,0,0,0,,Find a small bag
+Dialogue: 0,00:08:31.56,00:08:32.16,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:08:37.12,00:08:39.04,Default,,0,0,0,,What bag are they looking for...
+Dialogue: 0,00:08:41.64,00:08:42.60,Default,,0,0,0,,A sac?
+Dialogue: 0,00:08:42.92,00:08:44.05,Default,,0,0,0,,Don’t worry about them
+Dialogue: 0,00:08:44.08,00:08:46.88,Default,,0,0,0,,Let’s go and fix the car and go away
+Dialogue: 0,00:08:57.84,00:08:59.67,Default,,0,0,0,,OK Fixed
+Dialogue: 0,00:09:00.04,00:09:02.08,Default,,0,0,0,,Finally, I can leave the quicksand town
+Dialogue: 0,00:09:08.44,00:09:09.40,Default,,0,0,0,,They’re back
+Dialogue: 0,00:09:13.36,00:09:16.36,Default,,0,0,0,,Can’t find the crystal stone again, Lord Sparky will be in danger
+Dialogue: 0,00:09:16.72,00:09:17.88,Default,,0,0,0,,Sparky?
+Dialogue: 0,00:09:18.55,00:09:20.20,Default,,0,0,0,,But we searched it all
+Dialogue: 0,00:09:20.55,00:09:22.67,Default,,0,0,0,,I can’t find that red pouch
+Dialogue: 0,00:09:23.12,00:09:25.96,Default,,0,0,0,,If there is no crystal detox in the sac
+Dialogue: 0,00:09:26.55,00:09:28.55,Default,,0,0,0,,Lord Sparky can’t hold back
+Dialogue: 0,00:09:31.96,00:09:33.40,Default,,0,0,0,,Something happened to Sparky 
+Dialogue: 0,00:09:34.12,00:09:35.52,Default,,0,0,0,,Crystal?
+Dialogue: 0,00:09:38.12,00:09:39.20,Default,,0,0,0,,Is that what?
+Dialogue: 0,00:09:50.96,00:09:52.28,Default,,0,0,0,,Sparky is in danger
+Dialogue: 0,00:09:52.36,00:09:54.12,Default,,0,0,0,,We have to go back and save him soon
+Dialogue: 0,00:09:54.16,00:09:56.36,Default,,0,0,0,,All of them are cheating us back
+Dialogue: 0,00:09:58.40,00:09:59.92,Default,,0,0,0,,There is also this possibility
+Dialogue: 0,00:10:01.08,00:10:03.32,Default,,0,0,0,,The crystal was accidentally picked up by the Goat
+Dialogue: 0,00:10:03.60,00:10:05.67,Default,,0,0,0,,So Sparky and the others don’t know
+Dialogue: 0,00:10:06.32,00:10:08.84,Default,,0,0,0,,And they can tell the characteristics of the sac
+Dialogue: 0,00:10:09.04,00:10:10.92,Default,,0,0,0,,I don’t think it’s cheating on us
+Dialogue: 0,00:10:11.80,00:10:12.84,Default,,0,0,0,,That…
+Dialogue: 0,00:10:16.16,00:10:18.32,Default,,0,0,0,,It’s finally arrived here
+Dialogue: 0,00:10:19.12,00:10:20.92,Default,,0,0,0,,Go back
+Dialogue: 0,00:10:21.67,00:10:25.04,Default,,0,0,0,,Let’s go I know you’re not going to feel at ease
+Dialogue: 0,00:10:26.12,00:10:27.04,Default,,0,0,0,,Um
+Dialogue: 0,00:10:27.88,00:10:30.93,Default,,0,0,0,,Princess Luna, you go to the palace first
+Dialogue: 0,00:10:30.96,00:10:32.72,Default,,0,0,0,,Let’s save the Sparky first
+Dialogue: 0,00:10:33.64,00:10:36.00,Default,,0,0,0,,By then we want to get along with you
+Dialogue: 0,00:10:36.67,00:10:37.84,Default,,0,0,0,,You must be careful
+Dialogue: 0,00:10:44.76,00:10:45.84,Default,,0,0,0,,We’re here
+Dialogue: 0,00:10:46.24,00:10:47.52,Default,,0,0,0,,I found out that the communication was offended
+Dialogue: 0,00:10:53.88,00:10:55.80,Default,,0,0,0,,Is Sparky  in danger?
+Dialogue: 0,00:10:55.96,00:10:57.44,Default,,0,0,0,,Take us to see him
+Dialogue: 0,00:11:09.08,00:11:09.88,Default,,0,0,0,,Sparky
+Dialogue: 0,00:11:11.04,00:11:14.24,Default,,0,0,0,,We’re here with a bag, don’t be afraid
+Dialogue: 0,00:11:15.28,00:11:17.16,Default,,0,0,0,,Did you take the crystal?
+Dialogue: 0,00:11:19.80,00:11:20.88,Default,,0,0,0,,Save him quickly
+Dialogue: 0,00:11:47.72,00:11:50.65,Default,,0,0,0,,Sparky, you’re fine
+Dialogue: 0,00:11:50.67,00:11:51.92,Default,,0,0,0,,Goat...goat...
+Dialogue: 0,00:11:52.44,00:11:54.28,Default,,0,0,0,,We came back to save you
+Dialogue: 0,00:11:54.84,00:11:56.17,Default,,0,0,0,,Isn’t it very touching
+Dialogue: 0,00:11:56.20,00:11:58.08,Default,,0,0,0,,Have you remembered us
+Dialogue: 0,00:11:58.16,00:12:00.48,Default,,0,0,0,,Ah...so dirty...
+Dialogue: 0,00:12:00.76,00:12:02.76,Default,,0,0,0,,Soldiers, catch them
+Dialogue: 0,00:12:10.04,00:12:11.92,Default,,0,0,0,,Unexpectedly, I was caught when I came back
+Dialogue: 0,00:12:12.16,00:12:14.08,Default,,0,0,0,,Sparky  is really cruel
+Dialogue: 0,00:12:14.52,00:12:16.55,Default,,0,0,0,,But Sparky  is fine
+Dialogue: 0,00:12:18.64,00:12:21.67,Default,,0,0,0,,Yes, I feel relieved when Sparky is fine
+Dialogue: 0,00:12:23.52,00:12:25.55,Default,,0,0,0,,As long as he has nothing to do
+Dialogue: 0,00:12:27.24,00:12:29.61,Default,,0,0,0,,Sparky, please give me some food
+Dialogue: 0,00:12:29.64,00:12:32.12,Default,,0,0,0,,Why are you so cruel...

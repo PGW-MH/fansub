@@ -1,0 +1,232 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.89,00:00:24.05,Default,,0,0,0,,There is no abnormality on the right
+Dialogue: 0,00:00:24.33,00:00:25.57,Default,,0,0,0,,There is no abnormality on the left
+Dialogue: 0,00:00:42.29,00:00:43.21,Default,,0,0,0,,According to the information
+Dialogue: 0,00:00:43.33,00:00:46.37,Default,,0,0,0,,In order to prevent Princess Luna and others from overwhelming.
+Dialogue: 0,00:00:46.49,00:00:48.85,Default,,0,0,0,,To transfer them to the cliff cell
+Dialogue: 0,00:00:49.25,00:00:50.17,Default,,0,0,0,,ah…
+Dialogue: 0,00:00:50.25,00:00:51.71,Default,,0,0,0,,- That’s the one who’s in.
+- ah…
+Dialogue: 0,00:00:51.73,00:00:53.77,Default,,0,0,0,,- Can’t even escape the cliff?
+- ah…
+Dialogue: 0,00:01:00.09,00:01:00.65,Default,,0,0,0,,so
+Dialogue: 0,00:01:00.89,00:01:03.81,Default,,0,0,0,,The last chance we can rescue them on the way
+Dialogue: 0,00:01:04.57,00:01:05.95,Default,,0,0,0,,Everyone is ready
+Dialogue: 0,00:01:05.97,00:01:06.57,Default,,0,0,0,,yes
+Dialogue: 0,00:01:10.45,00:01:13.13,Default,,0,0,0,,Don’t look at me just a goat
+Dialogue: 0,00:01:13.41,00:01:16.09,Default,,0,0,0,,Goat’s cleverness is hard to imagine
+Dialogue: 0,00:01:17.21,00:01:17.87,Default,,0,0,0,,What’s the quarrel
+Dialogue: 0,00:01:17.89,00:01:19.09,Default,,0,0,0,,It’s not letting people sleep
+Dialogue: 0,00:01:22.25,00:01:24.21,Default,,0,0,0,,Don’t look at me just a goat
+Dialogue: 0,00:01:24.29,00:01:25.65,Default,,0,0,0,,Don’t worry about the energy
+Dialogue: 0,00:01:25.85,00:01:28.65,Default,,0,0,0,,Such seven-color flowers cannot be produced by many gardeners
+Dialogue: 0,00:01:29.25,00:01:32.09,Default,,0,0,0,,Why not think about what is the way to escape
+Dialogue: 0,00:01:33.37,00:01:34.69,Default,,0,0,0,,I have a way
+Dialogue: 0,00:01:35.05,00:01:37.53,Default,,0,0,0,,The sky became blue because of me...
+Dialogue: 0,00:01:38.29,00:01:41.05,Default,,0,0,0,,Wolffy, let me take my seven-colored flowers
+Dialogue: 0,00:01:42.01,00:01:42.45,Default,,0,0,0,,Huh?
+Dialogue: 0,00:01:43.29,00:01:45.41,Default,,0,0,0,,How did you create the seventh color
+Dialogue: 0,00:01:46.17,00:01:47.85,Default,,0,0,0,,How is it? It looks real
+Dialogue: 0,00:01:48.93,00:01:51.89,Default,,0,0,0,,As long as we take this fake seven-color flower
+Dialogue: 0,00:01:52.17,00:01:54.49,Default,,0,0,0,,The siege shouted Tibbie and goat over
+Dialogue: 0,00:01:56.57,00:02:00.09,Default,,0,0,0,,While they opened their cells to get the seven-color flowers
+Dialogue: 0,00:02:00.37,00:02:03.29,Default,,0,0,0,,We can all take advantage of the opportunity to get out
+Dialogue: 0,00:02:04.57,00:02:06.07,Default,,0,0,0,,ah? Very darn
+Dialogue: 0,00:02:06.09,00:02:07.17,Default,,0,0,0,,Nothing to do
+Dialogue: 0,00:02:08.13,00:02:09.55,Default,,0,0,0,,The seven-color flowers are blooming
+Dialogue: 0,00:02:09.57,00:02:11.81,Default,,0,0,0,,Opened Opened Opened…
+Dialogue: 0,00:02:12.25,00:02:14.77,Default,,0,0,0,,Seven colors...flower
+Dialogue: 0,00:02:16.41,00:02:18.49,Default,,0,0,0,,Look at the seven colors
+Dialogue: 0,00:02:18.77,00:02:19.45,Default,,0,0,0,,Go and call...
+Dialogue: 0,00:02:19.61,00:02:21.35,Default,,0,0,0,,Hahaha...Thank you
+Dialogue: 0,00:02:21.37,00:02:23.45,Default,,0,0,0,,I’ll go find Master Tibbie to ask for credit
+Dialogue: 0,00:02:23.77,00:02:25.19,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:02:25.21,00:02:27.47,Default,,0,0,0,,The seven-colored flowers are being taken away...
+Dialogue: 0,00:02:27.49,00:02:28.81,Default,,0,0,0,,Ah hahahahahahaha...
+Dialogue: 0,00:02:29.89,00:02:32.93,Default,,0,0,0,,The seven-color flower that is impossible is now in my hands
+Dialogue: 0,00:02:33.77,00:02:37.69,Default,,0,0,0,,Then why don’t I be willing to be a Warrior?
+Dialogue: 0,00:02:38.85,00:02:42.17,Default,,0,0,0,,Seven-colored flowers, let me become a warrior
+Dialogue: 0,00:02:48.73,00:02:50.19,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:02:50.21,00:02:51.83,Default,,0,0,0,,How to do it...
+Dialogue: 0,00:02:51.85,00:02:53.09,Default,,0,0,0,,It should be able to save it
+Dialogue: 0,00:02:55.21,00:02:57.01,Default,,0,0,0,,Um? Fake?
+Dialogue: 0,00:02:58.41,00:03:00.53,Default,,0,0,0,,How to do it? How to do it...
+Dialogue: 0,00:03:00.81,00:03:02.81,Default,,0,0,0,,You actually cheated me with fake flowers
+Dialogue: 0,00:03:03.05,00:03:04.17,Default,,0,0,0,,Don’t think I’ll be there
+Dialogue: 0,00:03:05.85,00:03:08.09,Default,,0,0,0,,Then what should I do now
+Dialogue: 0,00:03:10.01,00:03:11.49,Default,,0,0,0,,We also have seven-color flowers
+Dialogue: 0,00:03:11.69,00:03:14.05,Default,,0,0,0,,As long as we work hard to produce the seventh color
+Dialogue: 0,00:03:14.21,00:03:17.01,Default,,0,0,0,,It will definitely save the entire cat country
+Dialogue: 0,00:03:17.17,00:03:18.97,Default,,0,0,0,,Yes, let’s work together
+Dialogue: 0,00:03:19.89,00:03:20.57,Default,,0,0,0,,Um
+Dialogue: 0,00:03:22.77,00:03:24.29,Default,,0,0,0,,Work hard together
+Dialogue: 0,00:03:29.81,00:03:32.53,Default,,0,0,0,,Work hard all night, no results
+Dialogue: 0,00:03:33.77,00:03:36.97,Default,,0,0,0,,Take them all out and send them to the bottom of the cliff
+Dialogue: 0,00:03:46.73,00:03:47.83,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:03:47.85,00:03:50.61,Default,,0,0,0,,Wouldn’t it be better to knock them down with your Lightning Strike?
+Dialogue: 0,00:03:51.29,00:03:54.27,Default,,0,0,0,,No, my thunder flicker is not fully controlled yet
+Dialogue: 0,00:03:54.29,00:03:55.69,Default,,0,0,0,,Will hurt yours
+Dialogue: 0,00:03:56.09,00:03:57.13,Default,,0,0,0,,That’s it
+Dialogue: 0,00:04:00.37,00:04:01.45,Default,,0,0,0,,Just now
+Dialogue: 0,00:04:03.25,00:04:03.75,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:03.77,00:04:05.29,Default,,0,0,0,,Oh wow...
+Dialogue: 0,00:04:08.85,00:04:10.97,Default,,0,0,0,,snort! How dare you come to save someone?
+Dialogue: 0,00:04:11.49,00:04:12.57,Default,,0,0,0,,Catch them for me
+Dialogue: 0,00:04:13.37,00:04:16.89,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:04:18.17,00:04:19.27,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:04:19.29,00:04:20.57,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:04:21.33,00:04:23.57,Default,,0,0,0,,The soldiers were attracted by the attention
+Dialogue: 0,00:04:23.85,00:04:26.09,Default,,0,0,0,,We went over to save people while we were rushing.
+Dialogue: 0,00:04:26.53,00:04:26.97,Default,,0,0,0,,Um
+Dialogue: 0,00:04:28.01,00:04:29.53,Default,,0,0,0,,Rush...
+Dialogue: 0,00:04:31.49,00:04:33.07,Default,,0,0,0,,Could it be that we saved us?
+Dialogue: 0,00:04:33.09,00:04:33.45,Default,,0,0,0,,right
+Dialogue: 0,00:04:34.69,00:04:35.57,Default,,0,0,0,,Come with us quickly
+Dialogue: 0,00:04:39.29,00:04:39.85,Default,,0,0,0,,Here!
+Dialogue: 0,00:04:44.57,00:04:45.97,Default,,0,0,0,,The person who wants to kill me
+Dialogue: 0,00:04:46.65,00:04:47.73,Default,,0,0,0,,No door!
+Dialogue: 0,00:04:49.69,00:04:50.97,Default,,0,0,0,,Everyone...where are you
+Dialogue: 0,00:04:51.89,00:04:54.17,Default,,0,0,0,,Where are you
+Dialogue: 0,00:04:56.77,00:04:58.49,Default,,0,0,0,,Here is...whether
+Dialogue: 0,00:04:59.05,00:05:01.71,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:01.73,00:05:03.99,Default,,0,0,0,,It hurts so much...
+- ah…
+Dialogue: 0,00:05:04.01,00:05:05.97,Default,,0,0,0,,It hurts so much...
+Dialogue: 0,00:05:07.09,00:05:08.89,Default,,0,0,0,,snort! Not enough!
+Dialogue: 0,00:05:09.61,00:05:11.05,Default,,0,0,0,,There must be something wrong with her eyes
+Dialogue: 0,00:05:11.21,00:05:12.45,Default,,0,0,0,,ah
+Dialogue: 0,00:05:12.53,00:05:14.85,Default,,0,0,0,,I won’t let you die in vain
+Dialogue: 0,00:05:15.05,00:05:16.69,Default,,0,0,0,,We’re slapping
+Dialogue: 0,00:05:18.61,00:05:19.63,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:19.65,00:05:21.05,Default,,0,0,0,,- ah…
+- Anti-warming
+Dialogue: 0,00:05:26.89,00:05:29.21,Default,,0,0,0,,Wake up quickly This is a illusion
+Dialogue: 0,00:05:33.49,00:05:34.85,Default,,0,0,0,,Princess, go quickly
+Dialogue: 0,00:05:35.05,00:05:36.25,Default,,0,0,0,,We’ll go and slap the soldiers
+Dialogue: 0,00:05:37.05,00:05:39.73,Default,,0,0,0,,No, how can I destroy you
+Dialogue: 0,00:05:40.37,00:05:41.41,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:05:43.93,00:05:44.39,Default,,0,0,0,,Walk
+Dialogue: 0,00:05:44.41,00:05:46.33,Default,,0,0,0,,We can’t put them down
+Dialogue: 0,00:05:47.53,00:05:49.17,Default,,0,0,0,,Let go
+Dialogue: 0,00:05:54.41,00:05:58.41,Default,,0,0,0,,Don’t...Don’t hurt them anymore
+Dialogue: 0,00:06:02.69,00:06:03.65,Default,,0,0,0,,Seven-colored flowers...
+Dialogue: 0,00:06:04.49,00:06:06.13,Default,,0,0,0,,The seventh petal is open
+Dialogue: 0,00:06:06.97,00:06:10.77,Default,,0,0,0,,Seven Color Flowers, please restore everything to its original state
+Dialogue: 0,00:06:12.69,00:06:16.57,Default,,0,0,0,,Let’s go back to that kind Tibbie
+Dialogue: 0,00:06:27.57,00:06:28.77,Default,,0,0,0,,Paddi
+Dialogue: 0,00:06:30.41,00:06:32.17,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:06:33.41,00:06:35.77,Default,,0,0,0,,Great, you finally come back
+Dialogue: 0,00:06:36.13,00:06:38.17,Default,,0,0,0,,What’s up? What happened?
+Dialogue: 0,00:06:38.25,00:06:40.69,Default,,0,0,0,,Tibbie finally changed back
+Dialogue: 0,00:06:42.29,00:06:45.07,Default,,0,0,0,,Now that I’m back, you don’t cry anymore
+Dialogue: 0,00:06:45.09,00:06:48.29,Default,,0,0,0,,Tibbie? How do you feel strange?
+Dialogue: 0,00:06:49.29,00:06:50.61,Default,,0,0,0,,Wolffy, what’s wrong
+Dialogue: 0,00:06:51.25,00:06:54.29,Default,,0,0,0,,I think this should be...
+Dialogue: 0,00:06:54.41,00:06:56.49,Default,,0,0,0,,These are all fake
+Dialogue: 0,00:06:57.09,00:06:58.05,Default,,0,0,0,,What...what
+Dialogue: 0,00:06:58.81,00:07:01.31,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:07:01.33,00:07:04.45,Default,,0,0,0,,I didn’t expect you to see through my illusion
+Dialogue: 0,00:07:06.85,00:07:07.89,Default,,0,0,0,,All are fake?
+Dialogue: 0,00:07:08.85,00:07:09.81,Default,,0,0,0,,The seven-colored flowers...
+Dialogue: 0,00:07:13.77,00:07:14.81,Default,,0,0,0,,How did this happen...
+Dialogue: 0,00:07:15.17,00:07:16.93,Default,,0,0,0,,That’s because you’re too stupid
+Dialogue: 0,00:07:17.09,00:07:19.17,Default,,0,0,0,,Only then will it be repeated
+Dialogue: 0,00:07:19.25,00:07:21.13,Default,,0,0,0,,What’s wrong with believing in friends?
+Dialogue: 0,00:07:22.17,00:07:25.49,Default,,0,0,0,,friend? Less self-indulgent
+Dialogue: 0,00:07:25.89,00:07:28.57,Default,,0,0,0,,The Goat can only...
+Dialogue: 0,00:07:29.25,00:07:30.77,Default,,0,0,0,,Lightning Strike...
+Dialogue: 0,00:07:39.49,00:07:40.29,Default,,0,0,0,,careful!
+Dialogue: 0,00:07:44.41,00:07:45.41,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:07:52.69,00:07:54.57,Default,,0,0,0,,All...it’s all my fault
+Dialogue: 0,00:07:54.89,00:07:56.77,Default,,0,0,0,,Ah, you look at it
+Dialogue: 0,00:07:57.13,00:07:57.73,Default,,0,0,0,,Um?
+Dialogue: 0,00:07:59.69,00:08:01.09,Default,,0,0,0,,Tibbie was knocked down
+Dialogue: 0,00:08:01.37,00:08:02.71,Default,,0,0,0,,Oh wow ah ah ah ah...
+Dialogue: 0,00:08:02.73,00:08:04.93,Default,,0,0,0,,- Run quickly...
+- Escape quickly...
+Dialogue: 0,00:08:05.69,00:08:07.69,Default,,0,0,0,,Oh wow... run away quickly...
+Dialogue: 0,00:08:07.85,00:08:08.93,Default,,0,0,0,,Very good
+Dialogue: 0,00:08:10.49,00:08:12.69,Default,,0,0,0,,Princess, let’s go while we are now
+Dialogue: 0,00:08:13.65,00:08:17.53,Default,,0,0,0,,You... don’t want to escape one
+Dialogue: 0,00:08:18.49,00:08:20.73,Default,,0,0,0,,No, she’s going to use the illusion again
+Dialogue: 0,00:08:21.21,00:08:23.19,Default,,0,0,0,,quick! Stop her quickly!
+Dialogue: 0,00:08:23.21,00:08:23.89,Default,,0,0,0,,etc…
+Dialogue: 0,00:08:30.17,00:08:31.17,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:08:39.25,00:08:39.95,Default,,0,0,0,,It’s you?
+Dialogue: 0,00:08:39.97,00:08:41.89,Default,,0,0,0,,You’re fine, Tibbie?
+Dialogue: 0,00:08:42.49,00:08:43.41,Default,,0,0,0,,Let it open quickly
+Dialogue: 0,00:08:43.81,00:08:44.15,Default,,0,0,0,,Don’t beat her down
+Dialogue: 0,00:08:44.17,00:08:46.49,Default,,0,0,0,,Everyone will be confused by the illusion again
+Dialogue: 0,00:08:46.85,00:08:49.21,Default,,0,0,0,,She was just controlled
+Dialogue: 0,00:08:49.57,00:08:50.49,Default,,0,0,0,,Everyone is calm
+Dialogue: 0,00:08:51.37,00:08:54.17,Default,,0,0,0,,There must be a way to make Tibbie come back
+Dialogue: 0,00:08:55.33,00:08:58.45,Default,,0,0,0,,ha? You’re not a fool
+Dialogue: 0,00:08:58.77,00:09:01.17,Default,,0,0,0,,You’re injured yourself, and you’re going to protect the enemy?
+Dialogue: 0,00:09:01.49,00:09:02.81,Default,,0,0,0,,I don’t need your sympathy
+Dialogue: 0,00:09:03.93,00:09:06.77,Default,,0,0,0,,But I can’t watch you get hurt with silence
+Dialogue: 0,00:09:07.37,00:09:10.29,Default,,0,0,0,,We are our best friends
+Dialogue: 0,00:09:11.17,00:09:14.65,Default,,0,0,0,,No...No. Don’t get close to me...
+Dialogue: 0,00:09:17.77,00:09:20.45,Default,,0,0,0,,Oh no, her Magic power seems to be a little out of control
+Dialogue: 0,00:09:21.21,00:09:23.65,Default,,0,0,0,,Illusion and reality are recurring
+Dialogue: 0,00:09:23.93,00:09:26.61,Default,,0,0,0,,Come back soon to take Paddi. It’s too dangerous
+Dialogue: 0,00:09:27.01,00:09:29.57,Default,,0,0,0,,Then I will break it all
+Dialogue: 0,00:09:33.41,00:09:35.41,Default,,0,0,0,,I’ll definitely remember it
+Dialogue: 0,00:09:41.29,00:09:43.37,Default,,0,0,0,,Remember those who work together...
+Dialogue: 0,00:09:46.41,00:09:47.79,Default,,0,0,0,,shut up!
+Dialogue: 0,00:09:47.81,00:09:49.45,Default,,0,0,0,,It’s hard to go together...
+Dialogue: 0,00:09:57.33,00:09:58.69,Default,,0,0,0,,shut up!
+Dialogue: 0,00:10:15.57,00:10:16.89,Default,,0,0,0,,Nothing...
+Dialogue: 0,00:10:19.01,00:10:20.23,Default,,0,0,0,,Nothing
+Dialogue: 0,00:10:20.25,00:10:22.29,Default,,0,0,0,,Can erase the time we are in contact with each other
+Dialogue: 0,00:10:28.25,00:10:30.21,Default,,0,0,0,,Come back Tibbie
+Dialogue: 0,00:10:32.85,00:10:36.17,Default,,0,0,0,,I’ve remembered it all. Thank you for taking Paddi
+Dialogue: 0,00:10:37.57,00:10:40.09,Default,,0,0,0,,Hey, I just said you won’t forget me
+Dialogue: 0,00:10:40.65,00:10:42.77,Default,,0,0,0,,All the illusion of the illusion disappeared
+Dialogue: 0,00:10:43.45,00:10:46.65,Default,,0,0,0,,Sorry, it caused such a lot of damage to everyone
+Dialogue: 0,00:10:47.57,00:10:49.15,Default,,0,0,0,,Do you think apology is useful?
+Dialogue: 0,00:10:49.17,00:10:50.85,Default,,0,0,0,,Turn the town into this
+Dialogue: 0,00:10:50.89,00:10:52.57,Default,,0,0,0,,We also imprisoned our parents
+Dialogue: 0,00:10:53.09,00:10:55.85,Default,,0,0,0,,No matter what punishment I’m willing to accept
+Dialogue: 0,00:10:57.97,00:11:00.09,Default,,0,0,0,,- We are willing to bear it together
+- We are willing to bear it together
+Dialogue: 0,00:11:00.33,00:11:01.33,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:11:02.81,00:11:04.37,Default,,0,0,0,,Yes, no matter what the punishment
+Dialogue: 0,00:11:04.57,00:11:06.65,Default,,0,0,0,,I’m willing to take it with Tibbie
+Dialogue: 0,00:11:07.01,00:11:09.37,Default,,0,0,0,,Is it really okay to punish any money?
+Dialogue: 0,00:11:10.61,00:11:11.97,Default,,0,0,0,,That...that...
+Dialogue: 0,00:11:12.33,00:11:14.73,Default,,0,0,0,,Then you can rebuild the town with us
+Dialogue: 0,00:11:16.09,00:11:16.65,Default,,0,0,0,,Um
+Dialogue: 0,00:11:18.25,00:11:19.81,Default,,0,0,0,,Hahahahahahaha...
+Dialogue: 0,00:11:20.49,00:11:23.93,Default,,0,0,0,,I didn’t expect that the seven-color flowers really let you come out
+Dialogue: 0,00:11:24.61,00:11:27.09,Default,,0,0,0,,Wow…1234567…
+Dialogue: 0,00:11:27.45,00:11:30.03,Default,,0,0,0,,Ah...I really created the seven-color flowers...
+Dialogue: 0,00:11:30.05,00:11:31.17,Default,,0,0,0,,Give it to me
+Dialogue: 0,00:11:31.97,00:11:34.15,Default,,0,0,0,,I’ll give it to you when I’m done
+Dialogue: 0,00:11:34.17,00:11:35.57,Default,,0,0,0,,ah? etc…
+Dialogue: 0,00:11:36.01,00:11:38.37,Default,,0,0,0,,The seven-color flower that cannot be done
+Dialogue: 0,00:11:38.53,00:11:41.49,Default,,0,0,0,,Let me be a warrior in the cat country
+Dialogue: 0,00:11:43.37,00:11:43.73,Default,,0,0,0,,ah?
+Dialogue: 0,00:11:45.45,00:11:47.75,Default,,0,0,0,,This time I watched it grow
+Dialogue: 0,00:11:47.77,00:11:49.03,Default,,0,0,0,,It can’t be fake
+Dialogue: 0,00:11:49.05,00:11:51.65,Default,,0,0,0,,Have you finished your wish?
+Dialogue: 0,00:11:52.09,00:11:53.25,Default,,0,0,0,,Don’t come here...
+Dialogue: 0,00:11:53.65,00:11:56.13,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:04.17,00:12:05.53,Default,,0,0,0,,sorry
+Dialogue: 0,00:12:16.69,00:12:18.93,Default,,0,0,0,,How about it...
+Dialogue: 0,00:12:19.25,00:12:21.29,Default,,0,0,0,,It’s absolutely fine
+Dialogue: 0,00:12:28.21,00:12:31.21,Default,,0,0,0,,Why can’t this seven-color flower realize hope?

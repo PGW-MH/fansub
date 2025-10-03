@@ -1,0 +1,160 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.13,00:00:21.13,Default,,0,0,0,,sorry
+Dialogue: 0,00:00:22.81,00:00:24.13,Default,,0,0,0,,I failed
+Dialogue: 0,00:00:25.25,00:00:27.57,Default,,0,0,0,,You’re useless
+Dialogue: 0,00:00:29.85,00:00:30.57,Default,,0,0,0,,PhD
+Dialogue: 0,00:00:31.73,00:00:32.57,Default,,0,0,0,,And it’s gone
+Dialogue: 0,00:00:33.01,00:00:34.61,Default,,0,0,0,,It’s better to use it to the end
+Dialogue: 0,00:00:35.49,00:00:37.81,Default,,0,0,0,,Maybe it can also play a role
+Dialogue: 0,00:00:45.01,00:00:46.93,Default,,0,0,0,,Failed again
+Dialogue: 0,00:00:47.77,00:00:50.61,Default,,0,0,0,,You know the consequences
+Dialogue: 0,00:00:51.17,00:00:52.45,Default,,0,0,0,,Yes Doctor
+Dialogue: 0,00:00:59.85,00:01:01.53,Default,,0,0,0,,I’m still worried
+Dialogue: 0,00:01:01.65,00:01:03.21,Default,,0,0,0,,You go and have a look
+Dialogue: 0,00:01:03.37,00:01:03.85,Default,,0,0,0,,OK
+Dialogue: 0,00:01:16.21,00:01:18.93,Default,,0,0,0,,We are still very efficient in collecting fragments
+Dialogue: 0,00:01:25.93,00:01:27.17,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:01:32.89,00:01:33.69,Default,,0,0,0,,Monsters
+Dialogue: 0,00:01:34.77,00:01:36.01,Default,,0,0,0,,The cold weather is also here
+Dialogue: 0,00:02:06.57,00:02:08.77,Default,,0,0,0,,Can’t harm plants
+Dialogue: 0,00:02:18.65,00:02:21.85,Default,,0,0,0,,I didn’t expect you to protect a flower
+Dialogue: 0,00:02:27.49,00:02:28.83,Default,,0,0,0,,Nothing to do with you
+Dialogue: 0,00:02:28.85,00:02:29.33,Default,,0,0,0,,snort
+Dialogue: 0,00:02:30.13,00:02:32.21,Default,,0,0,0,,When I don’t exist
+Dialogue: 0,00:02:32.45,00:02:33.71,Default,,0,0,0,,Then another one
+Dialogue: 0,00:02:33.73,00:02:35.33,Default,,0,0,0,,Then come together
+Dialogue: 0,00:02:35.73,00:02:37.57,Default,,0,0,0,,Don’t hang your hands
+Dialogue: 0,00:02:38.53,00:02:39.87,Default,,0,0,0,,- The fragments are mine
+- Don’t forget
+Dialogue: 0,00:02:39.89,00:02:42.13,Default,,0,0,0,,Who got the fragments a few times ago
+Dialogue: 0,00:02:51.29,00:02:53.35,Default,,0,0,0,,Your fire melted my ice
+Dialogue: 0,00:02:53.37,00:02:54.35,Default,,0,0,0,,I accidentally
+Dialogue: 0,00:02:54.37,00:02:56.09,Default,,0,0,0,,I just want to eliminate monsters
+Dialogue: 0,00:02:57.13,00:02:58.77,Default,,0,0,0,,I want to destroy you first
+Dialogue: 0,00:02:59.09,00:03:00.43,Default,,0,0,0,,Help...
+Dialogue: 0,00:03:00.45,00:03:01.91,Default,,0,0,0,,Ah, help, don’t chase me
+Dialogue: 0,00:03:01.93,00:03:03.13,Default,,0,0,0,,- ah…
+- Don’t run
+Dialogue: 0,00:03:03.37,00:03:05.53,Default,,0,0,0,,Dare not to ignore me
+Dialogue: 0,00:03:06.37,00:03:07.93,Default,,0,0,0,,Come back to me
+Dialogue: 0,00:03:12.49,00:03:13.39,Default,,0,0,0,,Weslie
+Dialogue: 0,00:03:13.41,00:03:14.87,Default,,0,0,0,,Come and help me
+Dialogue: 0,00:03:14.89,00:03:16.57,Default,,0,0,0,,I was blown by the cold sky
+Dialogue: 0,00:03:16.77,00:03:17.89,Default,,0,0,0,,what?
+Dialogue: 0,00:03:18.77,00:03:20.15,Default,,0,0,0,,You can hold on first
+Dialogue: 0,00:03:20.17,00:03:21.29,Default,,0,0,0,,We’re here right now
+Dialogue: 0,00:03:22.33,00:03:23.25,Default,,0,0,0,,good
+Dialogue: 0,00:03:31.01,00:03:33.81,Default,,0,0,0,,Hand over the card, kid
+Dialogue: 0,00:03:35.17,00:03:38.61,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:41.73,00:03:42.82,Default,,0,0,0,,Ah my card...
+Dialogue: 0,00:03:42.85,00:03:46.37,Default,,0,0,0,,Hum, it’s my card now
+Dialogue: 0,00:03:47.49,00:03:48.05,Default,,0,0,0,,who
+Dialogue: 0,00:03:59.73,00:04:02.09,Default,,0,0,0,,Found you
+Dialogue: 0,00:04:02.57,00:04:04.69,Default,,0,0,0,,You don’t want to ignore me
+Dialogue: 0,00:04:08.13,00:04:09.53,Default,,0,0,0,,- Oops card
+- Oops card
+Dialogue: 0,00:04:20.17,00:04:22.33,Default,,0,0,0,,I can’t escape this time
+Dialogue: 0,00:04:22.85,00:04:25.17,Default,,0,0,0,,Hahahahahaha
+Dialogue: 0,00:04:30.33,00:04:31.17,Default,,0,0,0,,So dark
+Dialogue: 0,00:04:36.45,00:04:38.41,Default,,0,0,0,,Ahhhhhhhhhhhh
+Dialogue: 0,00:04:38.65,00:04:39.47,Default,,0,0,0,,Cold sky
+Dialogue: 0,00:04:39.49,00:04:40.29,Default,,0,0,0,,Let it open
+Dialogue: 0,00:04:41.13,00:04:42.82,Default,,0,0,0,,People without a card
+Dialogue: 0,00:04:42.85,00:04:44.41,Default,,0,0,0,,Not worth my waste of energy
+Dialogue: 0,00:04:54.57,00:04:55.91,Default,,0,0,0,,Not dead
+Dialogue: 0,00:04:55.93,00:04:57.29,Default,,0,0,0,,What a thick wall
+Dialogue: 0,00:04:58.53,00:04:59.73,Default,,0,0,0,,Let me try it
+Dialogue: 0,00:05:09.49,00:05:10.37,Default,,0,0,0,,no
+Dialogue: 0,00:05:11.41,00:05:13.49,Default,,0,0,0,,Why don’t we cooperate
+Dialogue: 0,00:05:15.13,00:05:16.49,Default,,0,0,0,,I don’t need to cooperate
+Dialogue: 0,00:05:26.49,00:05:27.45,Default,,0,0,0,,Paddi
+Dialogue: 0,00:05:27.97,00:05:30.65,Default,,0,0,0,,What? Can’t connect to the phone number of the 海官网?
+Dialogue: 0,00:05:31.57,00:05:32.53,Default,,0,0,0,,Don’t have anything to do
+Dialogue: 0,00:05:42.57,00:05:45.17,Default,,0,0,0,,That person was the subordinate of a mysterious person
+Dialogue: 0,00:05:45.97,00:05:46.89,Default,,0,0,0,,- what?
+- what?
+Dialogue: 0,00:05:47.73,00:05:49.49,Default,,0,0,0,,It is possible that it knows what inner story
+Dialogue: 0,00:05:49.93,00:05:51.73,Default,,0,0,0,,We must not let it run away any more
+Dialogue: 0,00:05:55.93,00:05:57.39,Default,,0,0,0,,You go and save the goat first
+Dialogue: 0,00:05:57.41,00:05:58.57,Default,,0,0,0,,I’ll control it
+Dialogue: 0,00:05:59.81,00:06:00.81,Default,,0,0,0,,Head-dividing action
+Dialogue: 0,00:06:01.01,00:06:02.45,Default,,0,0,0,,You go and save the goat first
+Dialogue: 0,00:06:02.65,00:06:04.53,Default,,0,0,0,,My husband and I went to help Tibbie
+Dialogue: 0,00:06:04.65,00:06:05.17,Default,,0,0,0,,-good
+good
+Dialogue: 0,00:06:21.45,00:06:22.13,Default,,0,0,0,,superior!
+Dialogue: 0,00:06:24.09,00:06:25.33,Default,,0,0,0,,Be careful
+Dialogue: 0,00:07:06.57,00:07:08.05,Default,,0,0,0,,Your card will also be my
+Dialogue: 0,00:07:10.05,00:07:11.09,Default,,0,0,0,,Don’t think about it!
+Dialogue: 0,00:07:19.25,00:07:20.41,Default,,0,0,0,,The card of the goat
+Dialogue: 0,00:07:23.05,00:07:24.33,Default,,0,0,0,,You really have a problem
+Dialogue: 0,00:07:31.37,00:07:32.97,Default,,0,0,0,,Just surrender
+Dialogue: 0,00:07:39.41,00:07:41.13,Default,,0,0,0,,It seems that I underestimated you
+Dialogue: 0,00:07:42.29,00:07:42.89,Default,,0,0,0,,never mind
+Dialogue: 0,00:07:43.45,00:07:44.65,Default,,0,0,0,,See you next time
+Dialogue: 0,00:07:46.97,00:07:47.93,Default,,0,0,0,,Don’t run...
+Dialogue: 0,00:07:54.05,00:07:55.17,Default,,0,0,0,,Let him run away
+Dialogue: 0,00:07:58.49,00:08:00.21,Default,,0,0,0,,The goat stuck in its hand
+Dialogue: 0,00:08:00.37,00:08:02.45,Default,,0,0,0,,It is very likely that Paddi are in danger
+Dialogue: 0,00:08:03.65,00:08:05.13,Default,,0,0,0,,Then let’s go find him
+Dialogue: 0,00:08:05.61,00:08:06.17,Default,,0,0,0,,- good
+- good
+Dialogue: 0,00:08:29.57,00:08:31.65,Default,,0,0,0,,That’s too hard
+Dialogue: 0,00:08:32.37,00:08:34.17,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:08:34.33,00:08:37.33,Default,,0,0,0,,Don’t do slap in vain
+Dialogue: 0,00:08:37.53,00:08:40.17,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:08:53.97,00:08:56.17,Default,,0,0,0,,Who told you to ignore me
+Dialogue: 0,00:09:15.65,00:09:17.09,Default,,0,0,0,,Why do you want to save me
+Dialogue: 0,00:09:18.09,00:09:19.61,Default,,0,0,0,,Is this another reason?
+Dialogue: 0,00:09:21.65,00:09:23.57,Default,,0,0,0,,I won’t see you never save me
+Dialogue: 0,00:09:23.85,00:09:25.61,Default,,0,0,0,,Just like you’re going to save the flower
+Dialogue: 0,00:09:32.41,00:09:34.81,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:09:39.37,00:09:41.09,Default,,0,0,0,,The situation is getting more and more dangerous
+Dialogue: 0,00:09:41.21,00:09:42.87,Default,,0,0,0,,And you’re hurting so much
+Dialogue: 0,00:09:42.89,00:09:44.77,Default,,0,0,0,,Why not cooperate
+Dialogue: 0,00:09:45.61,00:09:46.25,Default,,0,0,0,,good…
+Dialogue: 0,00:09:46.81,00:09:48.17,Default,,0,0,0,,You finally answered
+Dialogue: 0,00:09:50.05,00:09:53.05,Default,,0,0,0,,It’s funny, I won’t work with you
+Dialogue: 0,00:09:58.93,00:10:01.49,Default,,0,0,0,,Hum, I want to cooperate with you
+Dialogue: 0,00:10:18.77,00:10:20.33,Default,,0,0,0,,Go open, you don’t need to help
+Dialogue: 0,00:10:21.01,00:10:22.37,Default,,0,0,0,,Humph, good intentions are not good
+Dialogue: 0,00:10:23.61,00:10:24.95,Default,,0,0,0,,Even if you are not
+Dialogue: 0,00:10:24.97,00:10:26.77,Default,,0,0,0,,I can also punch the wall
+Dialogue: 0,00:10:29.37,00:10:32.21,Default,,0,0,0,,Close your mouth and disappear to me
+Dialogue: 0,00:10:34.25,00:10:36.49,Default,,0,0,0,,Or...we will work together again
+Dialogue: 0,00:10:37.33,00:10:38.57,Default,,0,0,0,,unnecessary
+Dialogue: 0,00:10:44.61,00:10:46.19,Default,,0,0,0,,Ah, Oops, it’s over
+Dialogue: 0,00:10:46.21,00:10:47.53,Default,,0,0,0,,Dead...
+Dialogue: 0,00:10:55.77,00:10:56.65,Default,,0,0,0,,Sparky
+Dialogue: 0,00:11:11.89,00:11:14.05,Default,,0,0,0,,You’re finally here
+Dialogue: 0,00:11:14.21,00:11:15.21,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:15.93,00:11:17.01,Default,,0,0,0,,Next
+Dialogue: 0,00:11:31.57,00:11:33.09,Default,,0,0,0,,Take the call
+Dialogue: 0,00:11:36.69,00:11:39.45,Default,,0,0,0,,Ahhhhhhhhhhhh
+Dialogue: 0,00:11:47.09,00:11:48.31,Default,,0,0,0,,It’s okay, goat
+Dialogue: 0,00:11:48.33,00:11:48.97,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:11:49.85,00:11:52.07,Default,,0,0,0,,Yes, it hurts very heavily in the cold days
+Dialogue: 0,00:11:52.09,00:11:53.17,Default,,0,0,0,,Just in...
+Dialogue: 0,00:11:56.85,00:11:57.77,Default,,0,0,0,,What about the cold weather?
+Dialogue: 0,00:12:09.49,00:12:12.49,Default,,0,0,0,,Hantian will leave it to you for processing
+Dialogue: 0,00:12:13.85,00:12:14.85,Default,,0,0,0,,Wait Doctor
+Dialogue: 0,00:12:16.49,00:12:19.45,Default,,0,0,0,,I found that Hantian recorded the data of fighting with the lamb
+Dialogue: 0,00:12:19.93,00:12:22.77,Default,,0,0,0,,These data will help deal with the lamb in the future
+Dialogue: 0,00:12:25.77,00:12:26.91,Default,,0,0,0,,Then let it go
+Dialogue: 0,00:12:26.93,00:12:28.93,Default,,0,0,0,,Enable me a new battle
+Dialogue: 0,00:12:29.73,00:12:30.41,Default,,0,0,0,,Obey orders

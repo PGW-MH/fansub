@@ -1,0 +1,241 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:28.73,00:00:30.77,Default,,0,0,0,,Yes, you’re Ah Hui
+Dialogue: 0,00:00:31.61,00:00:32.69,Default,,0,0,0,,Yes...yes
+Dialogue: 0,00:00:35.25,00:00:37.85,Default,,0,0,0,,How do you look a bit like Wolffy?
+Dialogue: 0,00:00:38.21,00:00:39.25,Default,,0,0,0,,No!
+Dialogue: 0,00:00:39.85,00:00:42.43,Default,,0,0,0,,what! Is this aware?
+Dialogue: 0,00:00:42.45,00:00:43.05,Default,,0,0,0,,I…
+Dialogue: 0,00:00:43.41,00:00:45.22,Default,,0,0,0,,But the public face of Wolffy
+Dialogue: 0,00:00:45.25,00:00:47.41,Default,,0,0,0,,It’s not surprising that there are a few similarities
+Dialogue: 0,00:00:48.05,00:00:49.21,Default,,0,0,0,,Thick eyebrows and small eyes
+Dialogue: 0,00:00:49.37,00:00:50.75,Default,,0,0,0,,There are scars on the face
+Dialogue: 0,00:00:50.77,00:00:51.97,Default,,0,0,0,,Belly like watermelon
+Dialogue: 0,00:00:52.09,00:00:54.49,Default,,0,0,0,,A middle-aged man’s oily posture
+Dialogue: 0,00:00:54.77,00:00:56.57,Default,,0,0,0,,But you don’t have to be too inferior
+Dialogue: 0,00:00:56.77,00:00:59.37,Default,,0,0,0,,How many talented and beautiful like me are
+Dialogue: 0,00:00:59.49,00:01:00.77,Default,,0,0,0,,Just have the ability
+Dialogue: 0,00:01:06.25,00:01:06.95,Default,,0,0,0,,ah!
+Dialogue: 0,00:01:06.97,00:01:08.53,Default,,0,0,0,,Um? What sound is that?
+Dialogue: 0,00:01:09.81,00:01:11.51,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:01:11.53,00:01:13.41,Default,,0,0,0,,Uh uh uh…
+Dialogue: 0,00:01:14.05,00:01:14.65,Default,,0,0,0,,oops
+Dialogue: 0,00:01:16.45,00:01:19.13,Default,,0,0,0,,What are you doing! It hurts so much!
+Dialogue: 0,00:01:19.97,00:01:21.67,Default,,0,0,0,,There are cats outside
+Dialogue: 0,00:01:21.69,00:01:24.73,Default,,0,0,0,,You’re hurt, don’t be upset
+Dialogue: 0,00:01:27.57,00:01:28.31,Default,,0,0,0,,Meow…
+Dialogue: 0,00:01:28.33,00:01:31.41,Default,,0,0,0,,What I’m hurting is your waist, are you twisting my head?
+Dialogue: 0,00:01:32.61,00:01:34.53,Default,,0,0,0,,My whole body massage is very bad
+Dialogue: 0,00:01:34.69,00:01:35.89,Default,,0,0,0,,All of them will be given to you
+Dialogue: 0,00:01:36.05,00:01:38.17,Default,,0,0,0,,Not bad, it’s really comfortable
+Dialogue: 0,00:01:39.01,00:01:41.55,Default,,0,0,0,,Of course I often help red press
+Dialogue: 0,00:01:41.57,00:01:42.77,Default,,0,0,0,,Who is red?
+Dialogue: 0,00:01:43.45,00:01:45.53,Default,,0,0,0,,Uh... It’s my frog...
+Dialogue: 0,00:01:46.53,00:01:48.49,Default,,0,0,0,,Why are frogs called red?
+Dialogue: 0,00:01:48.77,00:01:51.05,Default,,0,0,0,,Isn’t the red green green pretty good
+Dialogue: 0,00:01:52.25,00:01:55.69,Default,,0,0,0,,Wolnie knows it, the gray wolf is despised
+Dialogue: 0,00:01:55.97,00:01:56.77,Default,,0,0,0,,…
+Dialogue: 0,00:01:57.61,00:01:59.69,Default,,0,0,0,,Good, it feels very comfortable
+Dialogue: 0,00:01:59.81,00:02:02.09,Default,,0,0,0,,OK, I’ll give you a chance to upgrade
+Dialogue: 0,00:02:02.73,00:02:04.25,Default,,0,0,0,,What opportunity
+Dialogue: 0,00:02:04.49,00:02:07.05,Default,,0,0,0,,Go and find the soldier he will tell you
+Dialogue: 0,00:02:07.97,00:02:08.69,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:02:10.41,00:02:12.25,Default,,0,0,0,,Alas, I’m almost asleep
+Dialogue: 0,00:02:13.09,00:02:14.71,Default,,0,0,0,,Princess Luna is in the back mountain
+Dialogue: 0,00:02:14.73,00:02:16.61,Default,,0,0,0,,Found the path to the palace
+Dialogue: 0,00:02:17.25,00:02:18.69,Default,,0,0,0,,Wait until late tonight
+Dialogue: 0,00:02:18.89,00:02:20.63,Default,,0,0,0,,When soldiers patrol the rules relax
+Dialogue: 0,00:02:20.65,00:02:22.57,Default,,0,0,0,,We’ll get together there
+Dialogue: 0,00:02:23.29,00:02:23.97,Default,,0,0,0,,good
+Dialogue: 0,00:02:24.17,00:02:26.09,Default,,0,0,0,,Didn’t Slowy find out you
+Dialogue: 0,00:02:26.29,00:02:29.17,Default,,0,0,0,,He still treats us as soldiers without him
+Dialogue: 0,00:02:29.97,00:02:32.85,Default,,0,0,0,,Then we are going back to take care of the village chief now
+Dialogue: 0,00:02:33.81,00:02:35.77,Default,,0,0,0,,Then you must be careful
+Dialogue: 0,00:02:37.33,00:02:37.85,Default,,0,0,0,,Right...
+Dialogue: 0,00:02:38.05,00:02:40.81,Default,,0,0,0,,What did she let me do?
+Dialogue: 0,00:02:41.05,00:02:42.57,Default,,0,0,0,,Oh, look for the soldier
+Dialogue: 0,00:02:43.97,00:02:45.09,Default,,0,0,0,,Training?
+Dialogue: 0,00:02:46.17,00:02:47.97,Default,,0,0,0,,To the military officer, you have performed well
+Dialogue: 0,00:02:48.05,00:02:49.89,Default,,0,0,0,,Give you an opportunity to improve
+Dialogue: 0,00:02:51.33,00:02:53.57,Default,,0,0,0,,Then...how long will it take to go
+Dialogue: 0,00:02:54.01,00:02:55.69,Default,,0,0,0,,Soon, just two days
+Dialogue: 0,00:02:56.69,00:03:00.57,Default,,0,0,0,,Two days? How can I get along with everyone at night?
+Dialogue: 0,00:03:03.05,00:03:07.09,Default,,0,0,0,,Brother, do you think I can’t go?
+Dialogue: 0,00:03:07.29,00:03:07.93,Default,,0,0,0,,OK
+Dialogue: 0,00:03:09.01,00:03:10.61,Default,,0,0,0,,Then go to the cell
+Dialogue: 0,00:03:12.05,00:03:14.57,Default,,0,0,0,,Anyone who resists the order will be imprisoned in the cell
+Dialogue: 0,00:03:16.21,00:03:18.73,Default,,0,0,0,,How long does it take to close the cell?
+Dialogue: 0,00:03:19.93,00:03:20.65,Default,,0,0,0,,Two months
+Dialogue: 0,00:03:21.77,00:03:23.09,Default,,0,0,0,,Two months...
+Dialogue: 0,00:03:24.69,00:03:27.27,Default,,0,0,0,,Brother, there are other ways
+Dialogue: 0,00:03:27.29,00:03:29.69,Default,,0,0,0,,Can I stay in the military tonight?
+Dialogue: 0,00:03:29.97,00:03:32.29,Default,,0,0,0,,Ahem... there is a way to do it
+Dialogue: 0,00:03:32.65,00:03:35.17,Default,,0,0,0,,Or you can take care of the military’s miracle
+Dialogue: 0,00:03:35.45,00:03:36.05,Default,,0,0,0,,But…
+Dialogue: 0,00:03:36.57,00:03:38.37,Default,,0,0,0,,This is good, I’ll choose this one
+Dialogue: 0,00:03:42.37,00:03:44.65,Default,,0,0,0,,Alas...what is going on?
+Dialogue: 0,00:03:48.45,00:03:51.53,Default,,0,0,0,,Young people are so brave and have a future
+Dialogue: 0,00:03:51.61,00:03:53.65,Default,,0,0,0,,The miracle will be handed over to you
+Dialogue: 0,00:03:53.77,00:03:55.27,Default,,0,0,0,,Ah OK No problem
+Dialogue: 0,00:03:55.29,00:03:56.97,Default,,0,0,0,,You can hand it to me with confidence
+Dialogue: 0,00:04:00.05,00:04:02.27,Default,,0,0,0,,I’ll take care of you today
+Dialogue: 0,00:04:02.29,00:04:05.89,Default,,0,0,0,,Guaranteed that you and Baobao will have a great body
+Dialogue: 0,00:04:07.57,00:04:08.97,Default,,0,0,0,,After eating these red ingredients
+Dialogue: 0,00:04:09.05,00:04:11.53,Default,,0,0,0,,Our previous grievances were curled...
+Dialogue: 0,00:04:15.17,00:04:16.25,Default,,0,0,0,,That’s weird
+Dialogue: 0,00:04:17.05,00:04:18.65,Default,,0,0,0,,Make you so fierce usually
+Dialogue: 0,00:04:18.73,00:04:20.85,Default,,0,0,0,,Can’t eat it, hahaha...
+Dialogue: 0,00:04:21.01,00:04:22.25,Default,,0,0,0,,Hahahahahahaha...
+Dialogue: 0,00:04:31.01,00:04:33.57,Default,,0,0,0,,Wolffy is not powerful. You think I am Husky
+Dialogue: 0,00:04:34.09,00:04:35.61,Default,,0,0,0,,Thunder Bird
+Dialogue: 0,00:04:44.97,00:04:46.69,Default,,0,0,0,,If the ability is out of control
+Dialogue: 0,00:04:46.81,00:04:48.49,Default,,0,0,0,,It will definitely hurt others
+Dialogue: 0,00:04:49.17,00:04:51.73,Default,,0,0,0,,When can I control the Lightning Strikees?
+Dialogue: 0,00:04:53.01,00:04:53.65,Default,,0,0,0,,Ah Hui
+Dialogue: 0,00:04:54.65,00:04:57.33,Default,,0,0,0,,In addition to feeding the strange beasts, I also need to help the strange beasts take a bath today
+Dialogue: 0,00:04:57.73,00:04:58.45,Default,,0,0,0,,Good luck
+Dialogue: 0,00:05:00.01,00:05:01.37,Default,,0,0,0,,No...
+Dialogue: 0,00:05:12.09,00:05:15.23,Default,,0,0,0,,Alas, I don’t know if Wilie heard about his mother
+Dialogue: 0,00:05:15.25,00:05:16.69,Default,,0,0,0,,Take a shower behaved?
+Dialogue: 0,00:05:18.49,00:05:20.27,Default,,0,0,0,,I don’t want to take a shower I don’t want to take a shower
+Dialogue: 0,00:05:20.29,00:05:22.11,Default,,0,0,0,,I don’t want it, I don’t want it...
+Dialogue: 0,00:05:22.13,00:05:23.53,Default,,0,0,0,,Who doesn’t take a bath
+Dialogue: 0,00:05:24.77,00:05:28.21,Default,,0,0,0,,Little Bear... Dad is so terrible
+Dialogue: 0,00:05:29.01,00:05:31.39,Default,,0,0,0,,You take a shower, dad will teach you how to do it
+Dialogue: 0,00:05:31.41,00:05:33.85,Default,,0,0,0,,OK I want so many bubbles
+Dialogue: 0,00:05:35.13,00:05:37.89,Default,,0,0,0,,Haha, do you still need to bubble? Xiaoxiao
+Dialogue: 0,00:05:41.85,00:05:44.11,Default,,0,0,0,,I...I didn’t mean it
+Dialogue: 0,00:05:44.13,00:05:46.65,Default,,0,0,0,,I’m just in a good memory
+Dialogue: 0,00:05:47.65,00:05:50.93,Default,,0,0,0,,Oh...I’ll definitely come back...
+Dialogue: 0,00:05:53.49,00:05:54.73,Default,,0,0,0,,oops…
+Dialogue: 0,00:05:56.97,00:05:59.57,Default,,0,0,0,,Oh, it hurts so much...
+Dialogue: 0,00:06:01.21,00:06:04.65,Default,,0,0,0,,Which one does not have the moral integrity to throw garbage...
+Dialogue: 0,00:06:08.25,00:06:11.49,Default,,0,0,0,,Wait... Why does this seem to be a red crown?
+Dialogue: 0,00:06:12.65,00:06:16.69,Default,,0,0,0,,It’s true, our names are engraved on it
+Dialogue: 0,00:06:16.97,00:06:19.05,Default,,0,0,0,,But why did it appear here?
+Dialogue: 0,00:06:19.69,00:06:21.29,Default,,0,0,0,,Is it hard to tell what happened?
+Dialogue: 0,00:06:21.81,00:06:24.25,Default,,0,0,0,,No, I have to find the red
+Dialogue: 0,00:06:34.61,00:06:37.49,Default,,0,0,0,,But where to find red now?
+Dialogue: 0,00:06:37.89,00:06:42.17,Default,,0,0,0,,Let me go, I’m innocent
+Dialogue: 0,00:06:42.45,00:06:45.05,Default,,0,0,0,,Well, please...what happened to him?
+Dialogue: 0,00:06:45.89,00:06:48.37,Default,,0,0,0,,This person sneaked into the Soldiers Village
+Dialogue: 0,00:06:48.57,00:06:50.85,Default,,0,0,0,,Very suspicious, I also want to find a prison
+Dialogue: 0,00:06:51.25,00:06:53.97,Default,,0,0,0,,Then we will send him into the cell as he wishes
+Dialogue: 0,00:06:55.25,00:06:57.45,Default,,0,0,0,,Just sent to the cell?
+Dialogue: 0,00:06:57.61,00:06:58.09,Default,,0,0,0,,right
+Dialogue: 0,00:06:58.25,00:07:01.25,Default,,0,0,0,,Anyone who enters suspicious privately will be locked in the cell
+Dialogue: 0,00:07:01.29,00:07:03.31,Default,,0,0,0,,They all said I’m not a suspicious person
+Dialogue: 0,00:07:03.33,00:07:06.09,Default,,0,0,0,,I’m looking for a thatched cottage...
+Dialogue: 0,00:07:06.93,00:07:08.49,Default,,0,0,0,,Stop talking, leave quickly
+Dialogue: 0,00:07:10.29,00:07:12.69,Default,,0,0,0,,Is it difficult to find Red Red Red also arrested and entered a cell?
+Dialogue: 0,00:07:12.89,00:07:13.95,Default,,0,0,0,,I have to go and see...
+Dialogue: 0,00:07:13.97,00:07:16.57,Default,,0,0,0,,OK, then we’ll leave first if nothing happens
+Dialogue: 0,00:07:18.17,00:07:19.53,Default,,0,0,0,,Wait wait wait wait...
+Dialogue: 0,00:07:21.65,00:07:22.25,Default,,0,0,0,,Look
+Dialogue: 0,00:07:22.69,00:07:24.81,Default,,0,0,0,,Look at this person’s eyebrows and mouse eyes
+Dialogue: 0,00:07:25.21,00:07:26.41,Default,,0,0,0,,There are scars on the face
+Dialogue: 0,00:07:26.81,00:07:28.25,Default,,0,0,0,,Belly like watermelon
+Dialogue: 0,00:07:28.77,00:07:31.01,Default,,0,0,0,,A middle-aged man’s oily posture
+Dialogue: 0,00:07:33.97,00:07:36.45,Default,,0,0,0,,Why do you seem to have heard it?
+Dialogue: 0,00:07:36.73,00:07:40.31,Default,,0,0,0,,Forget it... In short, you are the only two, it’s too dangerous
+Dialogue: 0,00:07:40.33,00:07:42.35,Default,,0,0,0,,Let me come and help you send him into the cell
+Dialogue: 0,00:07:42.37,00:07:44.37,Default,,0,0,0,,Uh...but...
+Dialogue: 0,00:07:47.61,00:07:49.09,Default,,0,0,0,,Simply exactly the same...
+Dialogue: 0,00:07:49.93,00:07:50.93,Default,,0,0,0,,You’re pretty good
+Dialogue: 0,00:07:51.25,00:07:53.85,Default,,0,0,0,,Too dangerous, we can just give it
+Dialogue: 0,00:07:54.53,00:07:55.83,Default,,0,0,0,,See you again if you don’t bother
+Dialogue: 0,00:07:55.85,00:07:56.85,Default,,0,0,0,,Slow, slow, slow, slow…
+Dialogue: 0,00:07:57.97,00:07:59.77,Default,,0,0,0,,Not good, the gathering time is coming
+Dialogue: 0,00:08:00.65,00:08:02.65,Default,,0,0,0,,Have to get along with the lambs first
+Dialogue: 0,00:08:03.29,00:08:04.09,Default,,0,0,0,,Red...
+Dialogue: 0,00:08:05.25,00:08:07.37,Default,,0,0,0,,I must go into the cell to see what happened
+Dialogue: 0,00:08:20.05,00:08:21.65,Default,,0,0,0,,The tea has also been soaked by the village chief
+Dialogue: 0,00:08:21.77,00:08:23.53,Default,,0,0,0,,I’ll be able to drink it when the village chief gets up
+Dialogue: 0,00:08:25.89,00:08:27.77,Default,,0,0,0,,Well...but the painting seems to be a little bit off...
+Dialogue: 0,00:08:30.01,00:08:32.47,Default,,0,0,0,,The village chief woke up and saw this beautiful flower
+Dialogue: 0,00:08:32.49,00:08:34.37,Default,,0,0,0,,I’ll be in a good mood
+Dialogue: 0,00:08:34.77,00:08:37.45,Default,,0,0,0,,We have also cleaned up the house for the village chief
+Dialogue: 0,00:08:38.65,00:08:40.93,Default,,0,0,0,,The food and use are also placed by the village chief
+Dialogue: 0,00:08:40.97,00:08:43.45,Default,,0,0,0,,Don’t worry about the village chief no one taking care of him
+Dialogue: 0,00:08:47.05,00:08:50.01,Default,,0,0,0,,But...will it be a little too grand...
+Dialogue: 0,00:08:50.73,00:08:53.39,Default,,0,0,0,,The time is almost done, let’s go and meet
+Dialogue: 0,00:08:53.41,00:08:54.35,Default,,0,0,0,,Um
+Dialogue: 0,00:08:54.37,00:08:56.85,Default,,0,0,0,,Huh? The village chief was sleeping and wearing eyeglasses
+Dialogue: 0,00:08:57.05,00:08:58.45,Default,,0,0,0,,I’ll help him take it off
+Dialogue: 0,00:09:02.85,00:09:05.17,Default,,0,0,0,,When did the village chief wake up
+Dialogue: 0,00:09:06.45,00:09:08.57,Default,,0,0,0,,It’s finished...
+Dialogue: 0,00:09:11.89,00:09:12.91,Default,,0,0,0,,Run...
+Dialogue: 0,00:09:12.93,00:09:16.97,Default,,0,0,0,,Hello! You lambs will stop me!
+Dialogue: 0,00:09:21.61,00:09:24.25,Default,,0,0,0,,Let’s go to the meeting place now
+Dialogue: 0,00:09:26.53,00:09:29.63,Default,,0,0,0,,Come on, let me out quickly
+Dialogue: 0,00:09:29.65,00:09:32.61,Default,,0,0,0,,Let me catch you I won’t let you go
+Dialogue: 0,00:09:35.61,00:09:38.69,Default,,0,0,0,,Don’t beat me, Weslie...
+Dialogue: 0,00:09:49.21,00:09:50.13,Default,,0,0,0,,You’re here
+Dialogue: 0,00:09:51.57,00:09:53.09,Default,,0,0,0,,Yes, it was discovered by the village chief
+Dialogue: 0,00:09:53.29,00:09:55.25,Default,,0,0,0,,But we trapped him temporarily
+Dialogue: 0,00:09:57.53,00:09:59.61,Default,,0,0,0,,Now only Big Wolf is not here yet
+Dialogue: 0,00:10:00.29,00:10:01.42,Default,,0,0,0,,No way
+Dialogue: 0,00:10:01.45,00:10:03.89,Default,,0,0,0,,Are you missing one person?
+Dialogue: 0,00:10:06.69,00:10:09.61,Default,,0,0,0,,You can’t be like this to me...
+Dialogue: 0,00:10:10.09,00:10:11.69,Default,,0,0,0,,Not good...
+Dialogue: 0,00:10:12.65,00:10:13.69,Default,,0,0,0,,What happened
+Dialogue: 0,00:10:15.89,00:10:18.45,Default,,0,0,0,,I just discovered the red crown
+Dialogue: 0,00:10:18.77,00:10:19.89,Default,,0,0,0,,what?
+Dialogue: 0,00:10:20.05,00:10:22.89,Default,,0,0,0,,How did Wolnie appear here
+Dialogue: 0,00:10:23.29,00:10:25.17,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:10:26.69,00:10:27.65,Default,,0,0,0,,You go first
+Dialogue: 0,00:10:27.89,00:10:29.30,Default,,0,0,0,,I’m going to check out the cell
+Dialogue: 0,00:10:29.33,00:10:31.65,Default,,0,0,0,,Is my red beside it?
+Dialogue: 0,00:10:31.97,00:10:33.85,Default,,0,0,0,,You’re too dangerous
+Dialogue: 0,00:10:34.25,00:10:35.97,Default,,0,0,0,,Why don’t we go with you
+Dialogue: 0,00:10:36.29,00:10:39.09,Default,,0,0,0,,Don’t worry, they all think I’m a soldier
+Dialogue: 0,00:10:39.17,00:10:40.13,Default,,0,0,0,,I’m moving alone
+Dialogue: 0,00:10:40.21,00:10:42.17,Default,,0,0,0,,It’s safer than with you
+Dialogue: 0,00:10:42.33,00:10:42.97,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:10:43.57,00:10:44.29,Default,,0,0,0,,But…
+Dialogue: 0,00:10:44.73,00:10:48.99,Default,,0,0,0,,Stop, you fugitives don’t want to run
+Dialogue: 0,00:10:49.01,00:10:50.49,Default,,0,0,0,,Bring them up to me quickly
+Dialogue: 0,00:10:54.05,00:10:56.73,Default,,0,0,0,,Ah Hui, why are you here?
+Dialogue: 0,00:10:57.05,00:10:58.75,Default,,0,0,0,,I...I am...
+Dialogue: 0,00:10:58.77,00:10:59.85,Default,,0,0,0,,You can catch us quickly
+Dialogue: 0,00:10:59.97,00:11:01.89,Default,,0,0,0,,After entering the cell, we should work outside
+Dialogue: 0,00:11:02.01,00:11:03.69,Default,,0,0,0,,Just in time to help you find Wolnie
+Dialogue: 0,00:11:04.73,00:11:06.35,Default,,0,0,0,,Just like these few people
+Dialogue: 0,00:11:06.37,00:11:08.25,Default,,0,0,0,,Do you think you can catch us?
+Dialogue: 0,00:11:11.57,00:11:12.63,Default,,0,0,0,,Hold him
+Dialogue: 0,00:11:12.65,00:11:14.05,Default,,0,0,0,,You all stopped me
+Dialogue: 0,00:11:14.69,00:11:16.97,Default,,0,0,0,,Otherwise I won’t guarantee her safety
+Dialogue: 0,00:11:17.41,00:11:20.85,Default,,0,0,0,,Idiot, you’re going to catch a weak person
+Dialogue: 0,00:11:26.25,00:11:28.69,Default,,0,0,0,,Big Wolf, you should say to us
+Dialogue: 0,00:11:31.65,00:11:33.42,Default,,0,0,0,,You’re already surrounded by us
+Dialogue: 0,00:11:33.45,00:11:34.97,Default,,0,0,0,,Hurry up and surrender
+Dialogue: 0,00:11:35.17,00:11:38.29,Default,,0,0,0,,We surrender...
+Dialogue: 0,00:11:40.69,00:11:42.21,Default,,0,0,0,,Is it difficult to reveal my baby?
+Dialogue: 0,00:11:43.29,00:11:44.69,Default,,0,0,0,,It’s worthy of being Ah Hui
+Dialogue: 0,00:11:44.89,00:11:47.57,Default,,0,0,0,,The fugitives caught on the first day of the new arrival
+Dialogue: 0,00:11:50.89,00:11:53.21,Default,,0,0,0,,Get them all for me
+Dialogue: 0,00:12:00.89,00:12:02.17,Default,,0,0,0,,Come on
+Dialogue: 0,00:12:02.25,00:12:04.85,Default,,0,0,0,,Light years, unrestrained future
+Dialogue: 0,00:12:06.57,00:12:07.57,Default,,0,0,0,,Give me in
+Dialogue: 0,00:12:10.05,00:12:11.89,Default,,0,0,0,,You just stay here obediently
+Dialogue: 0,00:12:11.97,00:12:13.85,Default,,0,0,0,,Don’t think about going out forever
+Dialogue: 0,00:12:15.13,00:12:17.65,Default,,0,0,0,,Now we can find a way to find Wolnie
+Dialogue: 0,00:12:18.01,00:12:18.77,Default,,0,0,0,,Weslie
+Dialogue: 0,00:12:19.89,00:12:20.69,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:12:22.05,00:12:25.23,Default,,0,0,0,,You finally came to save me
+Dialogue: 0,00:12:25.25,00:12:26.97,Default,,0,0,0,,Let’s go out quickly
+Dialogue: 0,00:12:28.09,00:12:31.77,Default,,0,0,0,,There is no window here, how can we get out?

@@ -1,0 +1,218 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.53,00:00:23.29,Default,,0,0,0,,Look forward to them
+Dialogue: 0,00:00:23.65,00:00:25.65,Default,,0,0,0,,No matter what situation can be opened
+Dialogue: 0,00:00:25.85,00:00:26.45,Default,,0,0,0,,yes
+Dialogue: 0,00:00:39.65,00:00:41.49,Default,,0,0,0,,Open the door and let them out
+Dialogue: 0,00:00:41.81,00:00:42.37,Default,,0,0,0,,yes
+Dialogue: 0,00:00:50.09,00:00:51.81,Default,,0,0,0,,Two Sparky ?
+Dialogue: 0,00:00:52.13,00:00:54.05,Default,,0,0,0,,Wake me up!
+Dialogue: 0,00:01:00.29,00:01:02.45,Default,,0,0,0,,This...is this a silhouette lens?
+Dialogue: 0,00:01:02.69,00:01:05.55,Default,,0,0,0,,Fortunately, I remember that Tibbie will use the virtual mirror
+Dialogue: 0,00:01:05.57,00:01:06.65,Default,,0,0,0,,Come back in time
+Dialogue: 0,00:01:07.13,00:01:08.21,Default,,0,0,0,,Stop opening again
+Dialogue: 0,00:01:08.85,00:01:09.25,Default,,0,0,0,,yes
+Dialogue: 0,00:01:10.65,00:01:12.05,Default,,0,0,0,,Don’t let me down
+Dialogue: 0,00:01:12.25,00:01:12.69,Default,,0,0,0,,yes
+Dialogue: 0,00:01:14.57,00:01:17.93,Default,,0,0,0,,Yes, I suddenly remembered something
+Dialogue: 0,00:01:18.17,00:01:19.69,Default,,0,0,0,,Open the door soon and let me ask them
+Dialogue: 0,00:01:20.29,00:01:21.41,Default,,0,0,0,,OK
+Dialogue: 0,00:01:24.81,00:01:25.45,Default,,0,0,0,,oops!
+Dialogue: 0,00:01:26.53,00:01:28.87,Default,,0,0,0,,I just said something and forgot it again!
+Dialogue: 0,00:01:28.89,00:01:30.67,Default,,0,0,0,,It’s so easy to get ahead!
+Dialogue: 0,00:01:30.69,00:01:33.15,Default,,0,0,0,,Let me say again. Do I need to open the question?
+Dialogue: 0,00:01:33.17,00:01:35.65,Default,,0,0,0,,Why is the brain so ignorant...
+Dialogue: 0,00:01:35.93,00:01:39.09,Default,,0,0,0,,Compared to the previous Sparky, he is really more careful
+Dialogue: 0,00:01:39.53,00:01:40.65,Default,,0,0,0,,The little one knows
+Dialogue: 0,00:01:40.97,00:01:42.57,Default,,0,0,0,,Please calm down your anger, Lord Sparky
+Dialogue: 0,00:01:43.09,00:01:45.17,Default,,0,0,0,,The regenerated anaconda comes out
+Dialogue: 0,00:01:46.37,00:01:47.89,Default,,0,0,0,,It really makes people feel worried
+Dialogue: 0,00:01:48.45,00:01:49.29,Default,,0,0,0,,That’s it
+Dialogue: 0,00:01:51.77,00:01:53.69,Default,,0,0,0,,You two go to guard the door
+Dialogue: 0,00:01:53.97,00:01:55.73,Default,,0,0,0,,Here is the Desert Germine
+Dialogue: 0,00:01:56.49,00:01:57.37,Default,,0,0,0,,OK
+Dialogue: 0,00:01:57.85,00:01:58.49,Default,,0,0,0,,and
+Dialogue: 0,00:01:58.85,00:02:00.59,Default,,0,0,0,,Give them a bottle of water every day
+Dialogue: 0,00:02:00.61,00:02:01.73,Default,,0,0,0,,Just a thunderhead
+Dialogue: 0,00:02:01.97,00:02:04.29,Default,,0,0,0,,Can’t be too good to them, do you understand?
+Dialogue: 0,00:02:04.97,00:02:05.69,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:02:11.05,00:02:12.89,Default,,0,0,0,,Sparky , please stand me
+Dialogue: 0,00:02:14.45,00:02:15.63,Default,,0,0,0,,No need to quit
+Dialogue: 0,00:02:15.65,00:02:17.97,Default,,0,0,0,,I won’t let you out, no matter what.
+Dialogue: 0,00:02:18.81,00:02:21.05,Default,,0,0,0,,Is it not possible for each person to have two pants?
+Dialogue: 0,00:02:26.97,00:02:29.09,Default,,0,0,0,,Weslie What to do now
+Dialogue: 0,00:02:51.41,00:02:53.03,Default,,0,0,0,,Why can’t you see anything?
+Dialogue: 0,00:02:53.05,00:02:54.77,Default,,0,0,0,,Hello, what are you doing?
+Dialogue: 0,00:02:56.17,00:02:58.07,Default,,0,0,0,,This cake is so sweet
+Dialogue: 0,00:02:58.09,00:03:01.61,Default,,0,0,0,,This sofa is so soft, this bed is so comfortable
+Dialogue: 0,00:03:01.97,00:03:04.09,Default,,0,0,0,,Can’t eat it anymore, it’s so good
+Dialogue: 0,00:03:04.29,00:03:06.37,Default,,0,0,0,,I didn’t expect the treatment of this cell to be so good
+Dialogue: 0,00:03:07.45,00:03:08.81,Default,,0,0,0,,What the hell is going on?
+Dialogue: 0,00:03:09.45,00:03:11.05,Default,,0,0,0,,Huh? There is a hole here
+Dialogue: 0,00:03:11.09,00:03:12.49,Default,,0,0,0,,…
+Dialogue: 0,00:03:12.57,00:03:14.69,Default,,0,0,0,,Have a hole? What the hell is going on
+Dialogue: 0,00:03:15.89,00:03:18.75,Default,,0,0,0,,You open the door and see what happened to the prisoners
+Dialogue: 0,00:03:18.77,00:03:20.05,Default,,0,0,0,,You open the door quickly
+Dialogue: 0,00:03:22.45,00:03:24.69,Default,,0,0,0,,Don’t go, have you forgotten the teaching?
+Dialogue: 0,00:03:24.81,00:03:26.29,Default,,0,0,0,,This must be a illusion
+Dialogue: 0,00:03:26.77,00:03:28.55,Default,,0,0,0,,Yes, thank you for reminding me
+Dialogue: 0,00:03:28.57,00:03:30.69,Default,,0,0,0,,I’m going to learn to be smart this time
+Dialogue: 0,00:03:30.85,00:03:33.31,Default,,0,0,0,,What a fantasy I am a Sparky
+Dialogue: 0,00:03:33.33,00:03:35.61,Default,,0,0,0,,Come in and see what they are doing!
+Dialogue: 0,00:03:35.85,00:03:37.11,Default,,0,0,0,,- What a fantasy
+- Alas
+Dialogue: 0,00:03:37.13,00:03:38.73,Default,,0,0,0,,- I am Sparky 
+- I’ve learned quite like it
+Dialogue: 0,00:03:39.45,00:03:41.49,Default,,0,0,0,,It seems that I can only go by myself
+Dialogue: 0,00:03:46.37,00:03:49.65,Default,,0,0,0,,Why are you so good to give prisoners privately
+Dialogue: 0,00:03:49.93,00:03:51.85,Default,,0,0,0,,No, Sparky 
+Dialogue: 0,00:03:52.37,00:03:54.95,Default,,0,0,0,,Then why do they have so much food to eat
+Dialogue: 0,00:03:54.97,00:03:56.41,Default,,0,0,0,,There is also a comfortable bed
+Dialogue: 0,00:03:56.69,00:03:58.41,Default,,0,0,0,,We just follow the instructions
+Dialogue: 0,00:03:58.45,00:04:00.63,Default,,0,0,0,,Each person gives a roe and a bottle of water
+Dialogue: 0,00:04:00.65,00:04:02.21,Default,,0,0,0,,Nothing else
+Dialogue: 0,00:04:02.65,00:04:04.85,Default,,0,0,0,,Open the door and let me go in and take a look
+Dialogue: 0,00:04:09.25,00:04:11.09,Default,,0,0,0,,Wait, this may be a illusion
+Dialogue: 0,00:04:11.45,00:04:13.33,Default,,0,0,0,,Have you forgotten your previous teaching?
+Dialogue: 0,00:04:16.13,00:04:17.43,Default,,0,0,0,,The innocent goat
+Dialogue: 0,00:04:17.45,00:04:19.21,Default,,0,0,0,,Do you think we’ll be there again?
+Dialogue: 0,00:04:20.09,00:04:22.69,Default,,0,0,0,,I’ve seen through your tricks
+Dialogue: 0,00:04:23.29,00:04:25.29,Default,,0,0,0,,Let it open! I’ll go in by myself!
+Dialogue: 0,00:04:25.77,00:04:29.02,Default,,0,0,0,,Hum, as long as we are still standing here
+Dialogue: 0,00:04:29.05,00:04:30.57,Default,,0,0,0,,No one can get in
+Dialogue: 0,00:04:31.89,00:04:34.05,Default,,0,0,0,,OK, you forced me
+Dialogue: 0,00:04:52.45,00:04:53.37,Default,,0,0,0,,Where is the person?
+Dialogue: 0,00:04:54.09,00:04:55.67,Default,,0,0,0,,Huh? There is a hole here
+Dialogue: 0,00:04:55.69,00:04:57.01,Default,,0,0,0,,…
+Dialogue: 0,00:04:57.17,00:04:59.57,Default,,0,0,0,,Is it really a hole that makes them run away?
+Dialogue: 0,00:05:04.29,00:05:05.13,Default,,0,0,0,,Where is the hole?
+Dialogue: 0,00:05:10.25,00:05:11.79,Default,,0,0,0,,Hiding in the cloud
+Dialogue: 0,00:05:11.81,00:05:12.81,Default,,0,0,0,,Escape, everyone
+Dialogue: 0,00:05:15.49,00:05:17.25,Default,,0,0,0,,It was locked before entering
+Dialogue: 0,00:05:17.97,00:05:20.25,Default,,0,0,0,,Hehe...you think I’m stupid
+Dialogue: 0,00:05:23.05,00:05:24.25,Default,,0,0,0,,Take his key!
+Dialogue: 0,00:05:32.29,00:05:33.45,Default,,0,0,0,,Shocked me
+Dialogue: 0,00:05:33.57,00:05:35.27,Default,,0,0,0,,Hahahahahahahahaha...
+Dialogue: 0,00:05:35.29,00:05:37.37,Default,,0,0,0,,You have no way to go out
+Dialogue: 0,00:05:37.81,00:05:39.97,Default,,0,0,0,,- You can’t get out by yourself?
+- Well…
+Dialogue: 0,00:05:40.49,00:05:42.25,Default,,0,0,0,,- You’re still stupid
+- Well…
+Dialogue: 0,00:05:42.97,00:05:46.61,Default,,0,0,0,,You have to keep it! Let me out quickly!
+Dialogue: 0,00:05:46.85,00:05:49.33,Default,,0,0,0,,If you want to go out, let the soldiers open the door
+Dialogue: 0,00:05:49.85,00:05:51.49,Default,,0,0,0,,I won’t be there
+Dialogue: 0,00:05:52.09,00:05:53.47,Default,,0,0,0,,Maybe aside from the key
+Dialogue: 0,00:05:53.49,00:05:55.57,Default,,0,0,0,,There are other ways to open this door
+Dialogue: 0,00:05:57.05,00:05:58.65,Default,,0,0,0,,What are you going to do...
+Dialogue: 0,00:06:02.93,00:06:06.61,Default,,0,0,0,,What are you going to do... Why do you touch my face...
+Dialogue: 0,00:06:08.85,00:06:11.63,Default,,0,0,0,,Help, come soon...
+Dialogue: 0,00:06:11.65,00:06:13.87,Default,,0,0,0,,It seems that I can’t face it
+Dialogue: 0,00:06:13.89,00:06:15.61,Default,,0,0,0,,How about trying finger marks
+Dialogue: 0,00:06:17.93,00:06:19.61,Default,,0,0,0,,Maybe it’s the toes
+Dialogue: 0,00:06:21.09,00:06:22.85,Default,,0,0,0,,Help Hahahahaha...
+Dialogue: 0,00:06:22.89,00:06:24.77,Default,,0,0,0,,Very terrible...
+Dialogue: 0,00:06:28.17,00:06:30.31,Default,,0,0,0,,Help Hahahaha...
+Dialogue: 0,00:06:30.33,00:06:31.31,Default,,0,0,0,,Come quickly
+Dialogue: 0,00:06:31.33,00:06:32.87,Default,,0,0,0,,- Tips for carving
+- Hahaha…
+Dialogue: 0,00:06:32.89,00:06:35.45,Default,,0,0,0,,It must be an illusion again. They’re too traitorous.
+Dialogue: 0,00:06:35.69,00:06:37.91,Default,,0,0,0,,I can’t help laughing. It’s so fake
+Dialogue: 0,00:06:37.93,00:06:39.93,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:06:40.21,00:06:42.37,Default,,0,0,0,,You’ve gotten too far
+Dialogue: 0,00:06:43.97,00:06:46.57,Default,,0,0,0,,It seems that he really has no other way out
+Dialogue: 0,00:06:52.45,00:06:55.01,Default,,0,0,0,,Get water for me, I want to take a shower
+Dialogue: 0,00:07:03.73,00:07:04.69,Default,,0,0,0,,Where is the water?
+Dialogue: 0,00:07:05.17,00:07:06.55,Default,,0,0,0,,What you told yourself
+Dialogue: 0,00:07:06.57,00:07:08.47,Default,,0,0,0,,Each person has a bottle of water and a puff
+Dialogue: 0,00:07:08.49,00:07:09.93,Default,,0,0,0,,All used up
+Dialogue: 0,00:07:11.49,00:07:13.29,Default,,0,0,0,,How to take a shower
+Dialogue: 0,00:07:16.69,00:07:19.41,Default,,0,0,0,,This is our only food, do you want it?
+Dialogue: 0,00:07:20.25,00:07:21.93,Default,,0,0,0,,I don’t eat white horns!
+Dialogue: 0,00:07:22.25,00:07:25.57,Default,,0,0,0,,I want to eat apple! I want to drink milk!
+Dialogue: 0,00:07:26.01,00:07:29.61,Default,,0,0,0,,Now only those two soldiers are allowed to help us open the door
+Dialogue: 0,00:07:30.05,00:07:32.73,Default,,0,0,0,,Or...we collaborate to leave here
+Dialogue: 0,00:07:35.57,00:07:37.77,Default,,0,0,0,,I’m definitely not a traitor with you
+Dialogue: 0,00:07:38.17,00:07:40.45,Default,,0,0,0,,Then you just stay here all the time
+Dialogue: 0,00:07:42.97,00:07:45.05,Default,,0,0,0,,And can’t take a bath
+Dialogue: 0,00:07:47.29,00:07:48.89,Default,,0,0,0,,No comfortable bed
+Dialogue: 0,00:07:50.57,00:07:53.17,Default,,0,0,0,,And there may be cockroaches here
+Dialogue: 0,00:07:56.29,00:07:58.45,Default,,0,0,0,,How? Cooperate?
+Dialogue: 0,00:08:04.17,00:08:05.83,Default,,0,0,0,,You bring me in
+Dialogue: 0,00:08:05.85,00:08:07.93,Default,,0,0,0,,I’m locked in a prison
+Dialogue: 0,00:08:08.65,00:08:09.45,Default,,0,0,0,,Hello…
+Dialogue: 0,00:08:10.85,00:08:13.77,Default,,0,0,0,,Her illusion lens is so terrifying
+Dialogue: 0,00:08:14.25,00:08:16.09,Default,,0,0,0,,Anyway, we won’t be
+Dialogue: 0,00:08:17.09,00:08:19.17,Default,,0,0,0,,Come in and save me!
+Dialogue: 0,00:08:25.49,00:08:26.05,Default,,0,0,0,,What’s up?
+Dialogue: 0,00:08:31.77,00:08:32.85,Default,,0,0,0,,They’re in
+Dialogue: 0,00:08:35.05,00:08:37.73,Default,,0,0,0,,Lord Sparky, why are you here too
+Dialogue: 0,00:08:37.85,00:08:39.81,Default,,0,0,0,,Help me open the door quickly
+Dialogue: 0,00:08:41.21,00:08:41.81,Default,,0,0,0,,yes
+Dialogue: 0,00:08:49.29,00:08:53.89,Default,,0,0,0,,Hahahaha...do you think I’ll be on again?
+Dialogue: 0,00:08:54.33,00:08:55.97,Default,,0,0,0,,It seems you’ve really grown
+Dialogue: 0,00:08:56.05,00:08:57.77,Default,,0,0,0,,That’s that’s that’s that’s that’s that’s that’s that’s it
+Dialogue: 0,00:09:01.85,00:09:03.33,Default,,0,0,0,,Successfully...
+Dialogue: 0,00:09:06.05,00:09:08.41,Default,,0,0,0,,No, catch them
+Dialogue: 0,00:09:08.69,00:09:11.05,Default,,0,0,0,,I don’t hear fake goods say it!
+Dialogue: 0,00:09:11.37,00:09:12.77,Default,,0,0,0,,Catch them all!
+Dialogue: 0,00:09:20.97,00:09:23.97,Default,,0,0,0,,Why is this fake Master Sparky?
+Dialogue: 0,00:09:24.37,00:09:25.77,Default,,0,0,0,,No matter what, grab it first!
+Dialogue: 0,00:09:32.25,00:09:34.93,Default,,0,0,0,,You’re in a illusion. Go and chase them...
+Dialogue: 0,00:09:35.45,00:09:37.65,Default,,0,0,0,,snort! We won’t be there!
+Dialogue: 0,00:09:39.89,00:09:41.41,Default,,0,0,0,,It’s really useless
+Dialogue: 0,00:09:41.57,00:09:42.69,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:09:45.61,00:09:48.53,Default,,0,0,0,,How come this trick looks like Lord Sparky
+Dialogue: 0,00:09:52.85,00:09:55.09,Default,,0,0,0,,The prisoner ran away. Go and chase him!
+Dialogue: 0,00:10:00.01,00:10:01.97,Default,,0,0,0,,stop! Flame Fist
+Dialogue: 0,00:10:02.53,00:10:04.37,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:04.77,00:10:07.57,Default,,0,0,0,,I made me sweat so much and let me stop!
+Dialogue: 0,00:10:09.09,00:10:09.89,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:10:22.81,00:10:23.57,Default,,0,0,0,,Look!
+Dialogue: 0,00:10:25.25,00:10:27.81,Default,,0,0,0,,not good! The Sparky  has fallen into the quicksand pit!
+Dialogue: 0,00:10:28.21,00:10:29.17,Default,,0,0,0,,Go back soon!
+Dialogue: 0,00:10:35.89,00:10:37.41,Default,,0,0,0,,Let your dirty hands open!
+Dialogue: 0,00:10:37.45,00:10:39.45,Default,,0,0,0,,ah! Don’t let go...
+Dialogue: 0,00:10:42.73,00:10:43.57,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:10:55.61,00:10:56.85,Default,,0,0,0,,Catched
+Dialogue: 0,00:11:02.57,00:11:03.77,Default,,0,0,0,,Catch them
+Dialogue: 0,00:11:05.97,00:11:06.89,Default,,0,0,0,,Don’t come
+Dialogue: 0,00:11:08.69,00:11:10.17,Default,,0,0,0,,Catch them quickly
+Dialogue: 0,00:11:10.65,00:11:11.29,Default,,0,0,0,,yes
+Dialogue: 0,00:11:14.29,00:11:15.41,Default,,0,0,0,,Stop and stop…
+Dialogue: 0,00:11:16.65,00:11:18.17,Default,,0,0,0,,Almost hit me
+Dialogue: 0,00:11:18.53,00:11:19.83,Default,,0,0,0,,Can you take a look at it?
+Dialogue: 0,00:11:19.85,00:11:20.25,Default,,0,0,0,,yes
+Dialogue: 0,00:11:23.29,00:11:25.01,Default,,0,0,0,,Not for you to aim at me...
+Dialogue: 0,00:11:27.89,00:11:29.95,Default,,0,0,0,,Run away, everyone
+Dialogue: 0,00:11:29.97,00:11:30.87,Default,,0,0,0,,Don’t chase after
+Dialogue: 0,00:11:30.89,00:11:31.95,Default,,0,0,0,,What you’re after
+Dialogue: 0,00:11:31.97,00:11:34.13,Default,,0,0,0,,I will be rude to your Sparky 
+Dialogue: 0,00:11:36.29,00:11:36.97,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:11:42.41,00:11:45.69,Default,,0,0,0,,What a shame! What are you doing
+Dialogue: 0,00:11:45.97,00:11:47.53,Default,,0,0,0,,Let me down quickly
+Dialogue: 0,00:11:49.13,00:11:52.23,Default,,0,0,0,,How can you let me expose myself under the sun
+Dialogue: 0,00:11:52.25,00:11:54.89,Default,,0,0,0,,Give me sun cream and sunscreen
+Dialogue: 0,00:11:57.73,00:11:59.49,Default,,0,0,0,,It seems you need food more
+Dialogue: 0,00:12:01.89,00:12:03.17,Default,,0,0,0,,I won’t eat
+Dialogue: 0,00:12:03.69,00:12:04.89,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:12:07.97,00:12:09.79,Default,,0,0,0,,I’m definitely not tired and tired
+Dialogue: 0,00:12:09.81,00:12:11.25,Default,,0,0,0,,Not surprisingly powerful
+Dialogue: 0,00:12:15.33,00:12:15.93,Default,,0,0,0,,Eat it
+Dialogue: 0,00:12:19.17,00:12:21.73,Default,,0,0,0,,I don’t eat it, don’t stuff it to me again...
+Dialogue: 0,00:12:22.85,00:12:23.93,Default,,0,0,0,,Said not to eat...
+Dialogue: 0,00:12:28.81,00:12:31.93,Default,,0,0,0,,I don’t eat... I don’t really eat... I really...

@@ -1,0 +1,158 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:23.42,00:00:25.18,Default,,0,0,0,,What happened to Tibbie
+Dialogue: 0,00:00:32.22,00:00:33.62,Default,,0,0,0,,What happened to the village chief
+Dialogue: 0,00:00:34.86,00:00:37.68,Default,,0,0,0,,I... am I old?
+Dialogue: 0,00:00:37.70,00:00:41.14,Default,,0,0,0,,Tibbie’s injury I actually...
+Dialogue: 0,00:00:43.62,00:00:45.58,Default,,0,0,0,,It’s hard to say that she is Tibbie...
+Dialogue: 0,00:00:47.98,00:00:51.00,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:00:51.02,00:00:54.62,Default,,0,0,0,,It took me so long to cure it...
+Dialogue: 0,00:00:59.34,00:01:03.42,Default,,0,0,0,,Village Chief, can you say all your words at once
+Dialogue: 0,00:01:05.26,00:01:07.30,Default,,0,0,0,,Why am I here...
+Dialogue: 0,00:01:08.14,00:01:09.62,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:01:12.18,00:01:15.54,Default,,0,0,0,,I’m fine, don’t worry so much
+Dialogue: 0,00:01:15.90,00:01:19.22,Default,,0,0,0,,Tibbie What happened yesterday
+Dialogue: 0,00:01:20.58,00:01:23.28,Default,,0,0,0,,Yesterday I walked along the underground passage
+Dialogue: 0,00:01:23.30,00:01:24.98,Default,,0,0,0,,Enter their base...
+Dialogue: 0,00:01:26.10,00:01:28.90,Default,,0,0,0,,Doctor Tie’s biological experience progress is very smooth
+Dialogue: 0,00:01:29.86,00:01:31.24,Default,,0,0,0,,All data changes
+Dialogue: 0,00:01:31.26,00:01:33.54,Default,,0,0,0,,All are in your calculations
+Dialogue: 0,00:01:34.34,00:01:35.54,Default,,0,0,0,,continue
+Dialogue: 0,00:01:36.18,00:01:36.90,Default,,0,0,0,,clear
+Dialogue: 0,00:01:41.98,00:01:45.02,Default,,0,0,0,,Knowing that Dr. Ti is still catching people to do biology experience
+Dialogue: 0,00:01:45.82,00:01:48.70,Default,,0,0,0,,I want to rescue him, but...
+Dialogue: 0,00:02:19.26,00:02:20.18,Default,,0,0,0,,That’s it
+Dialogue: 0,00:02:20.66,00:02:23.70,Default,,0,0,0,,I ran into you after I escaped from the base
+Dialogue: 0,00:02:29.18,00:02:32.10,Default,,0,0,0,,Too dangerous, luckily, you’re fine
+Dialogue: 0,00:02:32.82,00:02:34.90,Default,,0,0,0,,It turns out that the mysterious man’s subordinate is called Shadow
+Dialogue: 0,00:02:35.22,00:02:37.70,Default,,0,0,0,,And that mysterious person is Doctor Tie
+Dialogue: 0,00:02:38.50,00:02:41.66,Default,,0,0,0,,It’s hard to say Hantian and they are the test products of Dr. Tie
+Dialogue: 0,00:02:41.90,00:02:43.30,Default,,0,0,0,,It’s very possible
+Dialogue: 0,00:02:43.74,00:02:45.24,Default,,0,0,0,,Being so many robots
+Dialogue: 0,00:02:45.26,00:02:47.30,Default,,0,0,0,,Also collect debris energy
+Dialogue: 0,00:02:47.82,00:02:49.20,Default,,0,0,0,,What does he want to do him?
+Dialogue: 0,00:02:49.22,00:02:51.42,Default,,0,0,0,,It’s hard to tell that doctor
+Dialogue: 0,00:02:54.54,00:02:56.38,Default,,0,0,0,,Village Chief, you know him
+Dialogue: 0,00:02:57.74,00:03:00.00,Default,,0,0,0,,Just by my invention
+Dialogue: 0,00:03:00.02,00:03:02.34,Default,,0,0,0,,It can turn organic objects into machines
+Dialogue: 0,00:03:02.62,00:03:05.90,Default,,0,0,0,,Then you can machine the organic life body
+Dialogue: 0,00:03:11.74,00:03:14.74,Default,,0,0,0,,I’m afraid he’s doing something terrible
+Dialogue: 0,00:03:15.34,00:03:17.92,Default,,0,0,0,,But I saw Dr.
+Dialogue: 0,00:03:17.94,00:03:20.10,Default,,0,0,0,,Different from the Doctor on the screen
+Dialogue: 0,00:03:20.38,00:03:21.46,Default,,0,0,0,,what
+Dialogue: 0,00:03:22.62,00:03:24.34,Default,,0,0,0,,Whatever he is different
+Dialogue: 0,00:03:25.06,00:03:27.30,Default,,0,0,0,,Let’s go and rush into his base now
+Dialogue: 0,00:03:27.82,00:03:29.34,Default,,0,0,0,,Catch him and ask for an understanding
+Dialogue: 0,00:03:30.02,00:03:31.30,Default,,0,0,0,,Then I’ll take you the way
+Dialogue: 0,00:03:31.82,00:03:33.78,Default,,0,0,0,,No, you’re still hurt
+Dialogue: 0,00:03:34.66,00:03:36.82,Default,,0,0,0,,Yes, you need to cure the wound first
+Dialogue: 0,00:03:36.98,00:03:37.90,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:03:38.26,00:03:40.74,Default,,0,0,0,,If they don’t go back now, they might just leave
+Dialogue: 0,00:03:41.42,00:03:44.18,Default,,0,0,0,,Let’s go, you stay here to take care of it
+Dialogue: 0,00:03:44.42,00:03:45.60,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:03:45.62,00:03:48.02,Default,,0,0,0,,And I know the location of the base best
+Dialogue: 0,00:03:48.26,00:03:50.98,Default,,0,0,0,,Don’t forget that I’m also a guardian of the Goat Village
+Dialogue: 0,00:03:56.86,00:03:57.66,Default,,0,0,0,,Um
+Dialogue: 0,00:04:03.42,00:04:06.10,Default,,0,0,0,,When I came yesterday, I had a login
+Dialogue: 0,00:04:06.50,00:04:07.94,Default,,0,0,0,,Just follow it
+Dialogue: 0,00:04:29.38,00:04:30.06,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:36.58,00:04:37.26,Default,,0,0,0,,arrive
+Dialogue: 0,00:04:59.18,00:05:00.66,Default,,0,0,0,,What does it mean
+Dialogue: 0,00:05:01.62,00:05:03.34,Default,,0,0,0,,It’s been so tacit understanding for so many years
+Dialogue: 0,00:05:03.50,00:05:04.90,Default,,0,0,0,,You can’t understand this?
+Dialogue: 0,00:05:07.86,00:05:10.38,Default,,0,0,0,,I said I’ll go ahead and explore the road
+Dialogue: 0,00:05:10.90,00:05:13.50,Default,,0,0,0,,But Weslie said that their son is smaller
+Dialogue: 0,00:05:13.54,00:05:16.98,Default,,0,0,0,,Not easy to find out, so he said he went
+Dialogue: 0,00:05:31.18,00:05:33.14,Default,,0,0,0,,The experiment room is right in front
+Dialogue: 0,00:05:39.94,00:05:41.74,Default,,0,0,0,,Big Wolf, what’s wrong with you
+Dialogue: 0,00:05:42.70,00:05:43.46,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:05:47.58,00:05:48.68,Default,,0,0,0,,That’s it
+Dialogue: 0,00:05:48.70,00:05:52.06,Default,,0,0,0,,There are many nutritious tanks with robots in it
+Dialogue: 0,00:05:53.54,00:05:54.66,Default,,0,0,0,,Why is it empty...
+Dialogue: 0,00:05:56.34,00:05:58.24,Default,,0,0,0,,It seems they have withdrawn
+Dialogue: 0,00:05:58.26,00:06:00.62,Default,,0,0,0,,And it should have been moved for a long time
+Dialogue: 0,00:06:01.58,00:06:03.10,Default,,0,0,0,,Still one step late
+Dialogue: 0,00:06:03.62,00:06:05.76,Default,,0,0,0,,It’s hard to be so successful along the way
+Dialogue: 0,00:06:05.78,00:06:07.54,Default,,0,0,0,,There was no one at all
+Dialogue: 0,00:06:09.86,00:06:12.22,Default,,0,0,0,,No, it’s just too smooth
+Dialogue: 0,00:06:12.66,00:06:15.66,Default,,0,0,0,,I think...he predicted that we would come
+Dialogue: 0,00:06:16.62,00:06:18.30,Default,,0,0,0,,you mean…
+Dialogue: 0,00:06:18.78,00:06:20.30,Default,,0,0,0,,This is a trap
+Dialogue: 0,00:06:27.50,00:06:29.62,Default,,0,0,0,,Sure enough, everyone should be careful
+Dialogue: 0,00:06:33.90,00:06:34.46,Default,,0,0,0,,Thank you
+Dialogue: 0,00:06:50.94,00:06:53.34,Default,,0,0,0,,It’s so despicable. I know how to steal
+Dialogue: 0,00:06:58.86,00:07:00.58,Default,,0,0,0,,Fortunately, I will
+Dialogue: 0,00:07:01.66,00:07:03.38,Default,,0,0,0,,Let’s go with your partner
+Dialogue: 0,00:07:09.82,00:07:11.52,Default,,0,0,0,,These robots again
+Dialogue: 0,00:07:11.54,00:07:13.38,Default,,0,0,0,,I’m too underestimating us
+Dialogue: 0,00:07:33.34,00:07:34.14,Default,,0,0,0,,Escape quickly
+Dialogue: 0,00:07:40.90,00:07:41.74,Default,,0,0,0,,ah
+Dialogue: 0,00:07:44.74,00:07:46.18,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:07:52.82,00:07:53.66,Default,,0,0,0,,Not good
+Dialogue: 0,00:07:58.02,00:08:00.48,Default,,0,0,0,,I’ve arranged a new base
+Dialogue: 0,00:08:00.50,00:08:01.54,Default,,0,0,0,,good
+Dialogue: 0,00:08:19.58,00:08:20.80,Default,,0,0,0,,Really good
+Dialogue: 0,00:08:20.82,00:08:22.82,Default,,0,0,0,,Fortunately, Wolffy used his skills
+Dialogue: 0,00:08:28.42,00:08:30.42,Default,,0,0,0,,My hands...
+Dialogue: 0,00:08:31.38,00:08:32.22,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:08:34.98,00:08:36.46,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:37.70,00:08:39.78,Default,,0,0,0,,Shadow Blade Zoom
+Dialogue: 0,00:08:48.78,00:08:51.06,Default,,0,0,0,,Big Wolf Your arm is fine
+Dialogue: 0,00:08:52.02,00:08:55.14,Default,,0,0,0,,It’s okay. The stone hit the mechanical arm just now
+Dialogue: 0,00:08:55.90,00:08:58.10,Default,,0,0,0,,Sorry, it’s all my fault...
+Dialogue: 0,00:08:59.54,00:09:02.02,Default,,0,0,0,,This is just a trap designed by the doctor
+Dialogue: 0,00:09:02.30,00:09:03.62,Default,,0,0,0,,It doesn’t matter to you
+Dialogue: 0,00:09:06.26,00:09:07.72,Default,,0,0,0,,Exit on top
+Dialogue: 0,00:09:07.74,00:09:10.10,Default,,0,0,0,,As long as we smash a gap upwards
+Dialogue: 0,00:09:10.62,00:09:12.46,Default,,0,0,0,,You can climb to the ground
+Dialogue: 0,00:09:15.02,00:09:15.94,Default,,0,0,0,,No...
+Dialogue: 0,00:09:27.14,00:09:28.86,Default,,0,0,0,,A collapse happened here
+Dialogue: 0,00:09:29.06,00:09:30.50,Default,,0,0,0,,If there is another shock
+Dialogue: 0,00:09:30.82,00:09:33.50,Default,,0,0,0,,More stones will fall down at any time
+Dialogue: 0,00:09:34.42,00:09:35.50,Default,,0,0,0,,sorry
+Dialogue: 0,00:09:48.34,00:09:51.54,Default,,0,0,0,,Your hair is blown by the wind
+Dialogue: 0,00:09:52.66,00:09:53.78,Default,,0,0,0,,Weslie
+Dialogue: 0,00:09:53.94,00:09:56.62,Default,,0,0,0,,Don’t care about my hair at this time
+Dialogue: 0,00:09:57.62,00:09:59.82,Default,,0,0,0,,The point is not hair style, it’s style
+Dialogue: 0,00:10:06.86,00:10:08.30,Default,,0,0,0,,It’s blown from here
+Dialogue: 0,00:10:09.30,00:10:11.66,Default,,0,0,0,,Exits are generally available in places with wind
+Dialogue: 0,00:10:12.66,00:10:14.82,Default,,0,0,0,,The hall opposite did not completely collapse
+Dialogue: 0,00:10:15.70,00:10:17.82,Default,,0,0,0,,As long as we can get to the University
+Dialogue: 0,00:10:18.26,00:10:21.06,Default,,0,0,0,,You can go out from the sewer exit as the same way
+Dialogue: 0,00:10:21.54,00:10:23.62,Default,,0,0,0,,Then we’ll smash the wall and go over
+Dialogue: 0,00:10:24.58,00:10:25.54,Default,,0,0,0,,…
+Dialogue: 0,00:10:26.86,00:10:27.78,Default,,0,0,0,,What’s the meaning
+Dialogue: 0,00:10:28.58,00:10:30.46,Default,,0,0,0,,It’s been so tacit understanding for so many years
+Dialogue: 0,00:10:30.90,00:10:32.38,Default,,0,0,0,,You can’t understand this
+Dialogue: 0,00:10:33.18,00:10:35.10,Default,,0,0,0,,Weslie said let us say something
+Dialogue: 0,00:10:35.46,00:10:37.58,Default,,0,0,0,,Avoid a second collapse
+Dialogue: 0,00:10:38.10,00:10:40.10,Default,,0,0,0,,It’s best to dig it out
+Dialogue: 0,00:10:43.26,00:10:43.82,Default,,0,0,0,,Ah chi
+Dialogue: 0,00:10:49.70,00:10:50.86,Default,,0,0,0,,Excuse me
+Dialogue: 0,00:10:51.46,00:10:52.98,Default,,0,0,0,,Everyone should act quickly
+Dialogue: 0,00:10:53.74,00:10:54.38,Default,,0,0,0,,Um
+Dialogue: 0,00:11:05.70,00:11:06.90,Default,,0,0,0,,Going tight
+Dialogue: 0,00:11:10.46,00:11:12.14,Default,,0,0,0,,Why are you getting fat again
+Dialogue: 0,00:11:12.34,00:11:13.94,Default,,0,0,0,,I don’t want it either
+Dialogue: 0,00:11:21.02,00:11:23.66,Default,,0,0,0,,It’s too late to move, now I can only take a try
+Dialogue: 0,00:11:33.34,00:11:34.26,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:11:45.14,00:11:48.22,Default,,0,0,0,,Not good, the shock just now was too strong
+Dialogue: 0,00:11:48.54,00:11:51.70,Default,,0,0,0,,I can’t hold it here anymore. Run to the exit
+Dialogue: 0,00:11:58.42,00:12:00.30,Default,,0,0,0,,Let’s escape from there
+Dialogue: 0,00:12:11.26,00:12:12.78,Default,,0,0,0,,Hurry up everyone
+Dialogue: 0,00:12:28.10,00:12:30.24,Default,,0,0,0,,It’s really unexpected
+Dialogue: 0,00:12:30.26,00:12:32.70,Default,,0,0,0,,Then continue to look forward to the situation

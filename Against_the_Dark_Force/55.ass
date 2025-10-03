@@ -1,0 +1,163 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:23.37,00:00:26.17,Default,,0,0,0,,I’m sorry, let’s make it...
+Dialogue: 0,00:00:34.09,00:00:37.13,Default,,0,0,0,,Good, continue to fight
+Dialogue: 0,00:00:37.77,00:00:39.45,Default,,0,0,0,,Sorry, let it go
+Dialogue: 0,00:00:41.37,00:00:42.67,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:00:42.69,00:00:43.77,Default,,0,0,0,,The lone wolf...
+Dialogue: 0,00:00:47.25,00:00:48.97,Default,,0,0,0,,He didn’t catch up?
+Dialogue: 0,00:00:49.41,00:00:52.45,Default,,0,0,0,,No matter what, Weslie
+Dialogue: 0,00:00:53.29,00:00:54.61,Default,,0,0,0,,I’m here...
+Dialogue: 0,00:00:55.85,00:00:57.93,Default,,0,0,0,,Hum, what can I do when I come back
+Dialogue: 0,00:00:58.05,00:00:59.77,Default,,0,0,0,,Those people in the black cover...
+Dialogue: 0,00:01:01.09,00:01:03.73,Default,,0,0,0,,It should be almost finished
+Dialogue: 0,00:01:07.01,00:01:08.81,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:09.09,00:01:11.49,Default,,0,0,0,,I’m back with the goat
+Dialogue: 0,00:01:21.01,00:01:22.29,Default,,0,0,0,,Don’t eat me
+Dialogue: 0,00:01:29.93,00:01:31.05,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:01:31.53,00:01:33.05,Default,,0,0,0,,What’s this black?
+Dialogue: 0,00:01:33.81,00:01:35.77,Default,,0,0,0,,Palace? Where are you?
+Dialogue: 0,00:01:36.89,00:01:40.29,Default,,0,0,0,,Weslie, Sparky , are you there
+Dialogue: 0,00:01:40.65,00:01:45.41,Default,,0,0,0,,King of the Kingdom Levana you have heard...
+Dialogue: 0,00:01:47.21,00:01:48.45,Default,,0,0,0,,Let me smash it open
+Dialogue: 0,00:02:05.97,00:02:08.29,Default,,0,0,0,,Why can’t you break it...
+Dialogue: 0,00:02:16.49,00:02:18.57,Default,,0,0,0,,What’s there in the flash...
+Dialogue: 0,00:02:20.05,00:02:21.65,Default,,0,0,0,,Weslie
+Dialogue: 0,00:02:25.17,00:02:26.05,Default,,0,0,0,,This is...
+Dialogue: 0,00:02:27.33,00:02:29.65,Default,,0,0,0,,Everyone, there is a light here...
+Dialogue: 0,00:02:36.17,00:02:39.65,Default,,0,0,0,,Everyone’s power was almost sucked by the black cover
+Dialogue: 0,00:02:41.37,00:02:43.97,Default,,0,0,0,,Speaking of what is this spot?
+Dialogue: 0,00:02:46.33,00:02:47.45,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:02:51.57,00:02:52.49,Default,,0,0,0,,There is a reaction
+Dialogue: 0,00:02:52.61,00:02:54.65,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:03:05.77,00:03:07.37,Default,,0,0,0,,After the return of the goat
+Dialogue: 0,00:03:07.57,00:03:09.73,Default,,0,0,0,,I always have a bad feeling
+Dialogue: 0,00:03:10.21,00:03:11.01,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:03:13.65,00:03:14.61,Default,,0,0,0,,Become stronger
+Dialogue: 0,00:03:15.13,00:03:17.57,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:03:19.53,00:03:21.77,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:03:24.77,00:03:27.49,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:03:38.49,00:03:40.57,Default,,0,0,0,,Is it you? The Goat...
+Dialogue: 0,00:03:40.85,00:03:42.01,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:03:43.97,00:03:47.09,Default,,0,0,0,,I can’t see you, but I feel it
+Dialogue: 0,00:03:48.73,00:03:52.01,Default,,0,0,0,,I can also feel it. Everyone wake up...
+Dialogue: 0,00:03:53.73,00:03:54.85,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:03:55.97,00:03:58.25,Default,,0,0,0,,Goat...goat...
+Dialogue: 0,00:04:01.45,00:04:03.85,Default,,0,0,0,,Weslie, it must be Weslie
+Dialogue: 0,00:04:04.41,00:04:06.29,Default,,0,0,0,,But why is there no light?
+Dialogue: 0,00:04:07.13,00:04:09.17,Default,,0,0,0,,Weslie, you’re fine
+Dialogue: 0,00:04:14.57,00:04:15.41,Default,,0,0,0,,The lone wolf
+Dialogue: 0,00:04:16.17,00:04:17.37,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:18.01,00:04:21.29,Default,,0,0,0,,It’s you. You made this dark thing
+Dialogue: 0,00:04:22.17,00:04:24.57,Default,,0,0,0,,Do I need to answer you?
+Dialogue: 0,00:04:26.25,00:04:28.91,Default,,0,0,0,,I knew it was opened quickly
+Dialogue: 0,00:04:28.93,00:04:30.77,Default,,0,0,0,,I want to save my friend
+Dialogue: 0,00:04:32.17,00:04:36.05,Default,,0,0,0,,Ridiculous friends do you think they will be grateful to you?
+Dialogue: 0,00:04:45.25,00:04:46.53,Default,,0,0,0,,Don’t waste it
+Dialogue: 0,00:04:47.37,00:04:49.97,Default,,0,0,0,,Your companions are almost out of reach
+Dialogue: 0,00:04:50.53,00:04:53.65,Default,,0,0,0,,Nonsense, they just responded to me
+Dialogue: 0,00:04:54.49,00:04:56.37,Default,,0,0,0,,Hahahaha…response?
+Dialogue: 0,00:04:56.97,00:04:58.29,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:04:58.69,00:05:01.61,Default,,0,0,0,,Useless, you’re the only one left
+Dialogue: 0,00:05:02.37,00:05:04.61,Default,,0,0,0,,But you ask me for your words
+Dialogue: 0,00:05:04.77,00:05:07.45,Default,,0,0,0,,I can consider letting you go
+Dialogue: 0,00:05:08.17,00:05:09.33,Default,,0,0,0,,Me and my friends
+Dialogue: 0,00:05:09.65,00:05:11.65,Default,,0,0,0,,You won’t be easily beaten
+Dialogue: 0,00:05:11.85,00:05:15.41,Default,,0,0,0,,Friends... Friends do not exist
+Dialogue: 0,00:05:19.17,00:05:21.93,Default,,0,0,0,,Weslie Weslie...
+Dialogue: 0,00:05:30.57,00:05:32.09,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:05:33.41,00:05:39.69,Default,,0,0,0,,Everyone... Get up quickly... The goat are waiting for us...
+Dialogue: 0,00:05:40.97,00:05:43.13,Default,,0,0,0,,No...no more...
+Dialogue: 0,00:05:43.57,00:05:44.77,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:05:53.13,00:05:54.49,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:06:09.41,00:06:11.05,Default,,0,0,0,,You’re too weak
+Dialogue: 0,00:06:11.37,00:06:14.21,Default,,0,0,0,,It’s impossible to win me
+Dialogue: 0,00:06:15.57,00:06:17.85,Default,,0,0,0,,Happy... Weslie...
+Dialogue: 0,00:06:22.57,00:06:23.77,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:06:24.73,00:06:29.37,Default,,0,0,0,,I believe you are here and respond to me
+Dialogue: 0,00:06:30.05,00:06:33.97,Default,,0,0,0,,We are all here...
+Dialogue: 0,00:06:35.69,00:06:39.81,Default,,0,0,0,,Weslie I’m here...
+Dialogue: 0,00:06:40.77,00:06:41.89,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:06:48.05,00:06:49.65,Default,,0,0,0,,Paddi
+Dialogue: 0,00:06:50.77,00:06:52.75,Default,,0,0,0,,Weslie Weslie
+Dialogue: 0,00:06:52.77,00:06:54.93,Default,,0,0,0,,Goat
+Dialogue: 0,00:06:57.97,00:07:00.85,Default,,0,0,0,,This...what is going on
+Dialogue: 0,00:07:06.93,00:07:10.01,Default,,0,0,0,,What happened? How could there be such a reaction
+Dialogue: 0,00:07:10.29,00:07:12.31,Default,,0,0,0,,I’ll come if I have something to do
+Dialogue: 0,00:07:12.33,00:07:14.77,Default,,0,0,0,,Don’t hurt the goat
+Dialogue: 0,00:07:17.97,00:07:21.51,Default,,0,0,0,,He is fighting the lonely wolf himself
+Dialogue: 0,00:07:21.53,00:07:23.49,Default,,0,0,0,,We just lay here...
+Dialogue: 0,00:07:24.25,00:07:26.53,Default,,0,0,0,,Move, Big Grey Wolf...
+Dialogue: 0,00:07:26.77,00:07:29.05,Default,,0,0,0,,The goat...need us...
+Dialogue: 0,00:07:30.13,00:07:31.37,Default,,0,0,0,,I’ve said it
+Dialogue: 0,00:07:33.45,00:07:34.77,Default,,0,0,0,,How could it be...
+Dialogue: 0,00:07:35.37,00:07:39.53,Default,,0,0,0,,My friends and you can’t easily defeat me
+Dialogue: 0,00:07:41.57,00:07:45.21,Default,,0,0,0,,I...I’m very concerned about your current expression
+Dialogue: 0,00:07:52.09,00:07:53.53,Default,,0,0,0,,Everyone is still waiting for me
+Dialogue: 0,00:07:56.89,00:07:59.81,Default,,0,0,0,,What are you and what friends
+Dialogue: 0,00:08:00.37,00:08:03.77,Default,,0,0,0,,All are not true, so wake up
+Dialogue: 0,00:08:04.57,00:08:06.85,Default,,0,0,0,,Why are you so resistant to friends
+Dialogue: 0,00:08:07.01,00:08:07.55,Default,,0,0,0,,You can’t tell
+Dialogue: 0,00:08:07.57,00:08:10.07,Default,,0,0,0,,Don’t have a friend who can trust each other?
+Dialogue: 0,00:08:10.09,00:08:13.65,Default,,0,0,0,,Close mouth Close mouth…
+Dialogue: 0,00:08:14.13,00:08:16.87,Default,,0,0,0,,You’ve always believed in friendship
+Dialogue: 0,00:08:16.89,00:08:19.21,Default,,0,0,0,,That’s because you’re still living in dreams
+Dialogue: 0,00:08:20.05,00:08:23.45,Default,,0,0,0,,Dream...is the right
+Dialogue: 0,00:08:27.65,00:08:28.57,Default,,0,0,0,,You’re wrong
+Dialogue: 0,00:08:29.85,00:08:30.77,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:08:33.45,00:08:34.89,Default,,0,0,0,,Well…
+Dialogue: 0,00:08:35.17,00:08:36.81,Default,,0,0,0,,He is there...
+Dialogue: 0,00:08:37.37,00:08:39.13,Default,,0,0,0,,How can we lie down
+Dialogue: 0,00:08:41.09,00:08:42.85,Default,,0,0,0,,He will be fine if he is in trouble
+Dialogue: 0,00:08:43.69,00:08:45.39,Default,,0,0,0,,From the Qihua Town to this place
+Dialogue: 0,00:08:45.41,00:08:48.33,Default,,0,0,0,,He is no longer the same as before.
+Dialogue: 0,00:08:50.85,00:08:52.49,Default,,0,0,0,,He’ll be fine
+Dialogue: 0,00:08:54.53,00:08:57.13,Default,,0,0,0,,Because he must be waiting for us
+Dialogue: 0,00:09:02.49,00:09:03.25,Default,,0,0,0,,Of course
+Dialogue: 0,00:09:06.33,00:09:07.49,Default,,0,0,0,,Wake up
+Dialogue: 0,00:09:12.25,00:09:14.49,Default,,0,0,0,,Ah...I’m dead
+Dialogue: 0,00:09:16.37,00:09:17.57,Default,,0,0,0,,Why am I still dead
+Dialogue: 0,00:09:20.29,00:09:22.37,Default,,0,0,0,,Another trouble
+Dialogue: 0,00:09:24.93,00:09:27.17,Default,,0,0,0,,Miscellaneous Are you here to help me?
+Dialogue: 0,00:09:31.53,00:09:33.17,Default,,0,0,0,,Did you help me
+Dialogue: 0,00:09:34.45,00:09:35.17,Default,,0,0,0,,Strange
+Dialogue: 0,00:09:39.25,00:09:39.97,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:09:41.25,00:09:42.25,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:09:50.65,00:09:52.49,Default,,0,0,0,,Little mouse, don’t worry
+Dialogue: 0,00:10:24.69,00:10:26.65,Default,,0,0,0,,Don’t mess with the beast in the future
+Dialogue: 0,00:10:29.49,00:10:31.13,Default,,0,0,0,,It’s too difficult
+Dialogue: 0,00:10:38.29,00:10:40.05,Default,,0,0,0,,Come back to me
+Dialogue: 0,00:10:45.89,00:10:47.41,Default,,0,0,0,,Oops it hurts...
+Dialogue: 0,00:10:50.33,00:10:52.03,Default,,0,0,0,,Miracle After the matter is over
+Dialogue: 0,00:10:52.05,00:10:54.45,Default,,0,0,0,,I will definitely give you a bunch of husky
+Dialogue: 0,00:10:54.97,00:10:56.41,Default,,0,0,0,,Don’t bother me
+Dialogue: 0,00:11:07.65,00:11:08.29,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:11:19.45,00:11:20.97,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:22.85,00:11:25.77,Default,,0,0,0,,The goat...and...and waiting for us...
+Dialogue: 0,00:11:30.37,00:11:32.85,Default,,0,0,0,,Everyone...I’m here
+Dialogue: 0,00:11:39.17,00:11:40.05,Default,,0,0,0,,Feeling it
+Dialogue: 0,00:11:41.33,00:11:43.85,Default,,0,0,0,,Weslie, Tibbie, Sparky 
+Dialogue: 0,00:11:44.37,00:11:46.49,Default,,0,0,0,,This time I can see you
+Dialogue: 0,00:11:56.09,00:11:57.73,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:12:12.73,00:12:14.49,Default,,0,0,0,,The black cover... disappeared
+Dialogue: 0,00:12:15.49,00:12:16.73,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:12:17.25,00:12:18.25,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:12:19.01,00:12:20.69,Default,,0,0,0,,This time I have been using the Paddi
+Dialogue: 0,00:12:22.65,00:12:23.65,Default,,0,0,0,,Hehehehe...
+Dialogue: 0,00:12:23.89,00:12:27.17,Default,,0,0,0,,It must be the power of our friendship that made the black shield disappear
+Dialogue: 0,00:12:27.93,00:12:28.89,Default,,0,0,0,,Friendship…
+Dialogue: 0,00:12:29.89,00:12:32.33,Default,,0,0,0,,You’re really too annoying...

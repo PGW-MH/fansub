@@ -1,0 +1,270 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.01,00:00:21.67,Default,,0,0,0,,ah
+Dialogue: 0,00:00:21.69,00:00:22.65,Default,,0,0,0,,woke up
+Dialogue: 0,00:00:23.97,00:00:25.51,Default,,0,0,0,,Ah Robot
+Dialogue: 0,00:00:25.53,00:00:27.15,Default,,0,0,0,,What do you want to do
+Dialogue: 0,00:00:27.17,00:00:28.53,Default,,0,0,0,,Let go of the Wolf
+Dialogue: 0,00:00:29.33,00:00:31.39,Default,,0,0,0,,It’s hard to be with the mysterious
+Dialogue: 0,00:00:31.41,00:00:32.69,Default,,0,0,0,,What do you want to do
+Dialogue: 0,00:00:33.01,00:00:34.01,Default,,0,0,0,,Don’t miss it
+Dialogue: 0,00:00:34.85,00:00:37.07,Default,,0,0,0,,We found you were in a coma in the wild
+Dialogue: 0,00:00:37.09,00:00:38.99,Default,,0,0,0,,I’m going to take you to the hospital
+Dialogue: 0,00:00:39.01,00:00:40.25,Default,,0,0,0,,ah…
+Dialogue: 0,00:00:41.53,00:00:43.63,Default,,0,0,0,,How to untie the clothes
+Dialogue: 0,00:00:43.65,00:00:45.43,Default,,0,0,0,,It’s easy to lie on the ground
+Dialogue: 0,00:00:45.45,00:00:47.11,Default,,0,0,0,,So I put on your clothes
+Dialogue: 0,00:00:47.13,00:00:48.99,Default,,0,0,0,,Don’t think I’ll trust you easily
+Dialogue: 0,00:00:49.01,00:00:49.93,Default,,0,0,0,,Look at the trick
+Dialogue: 0,00:00:52.69,00:00:54.99,Default,,0,0,0,,What happened last night
+Dialogue: 0,00:00:55.01,00:00:56.61,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:00:57.09,00:00:59.03,Default,,0,0,0,,There’s that mysterious person
+Dialogue: 0,00:00:59.05,00:01:01.21,Default,,0,0,0,,Let’s go back and ask the village chief
+Dialogue: 0,00:01:01.49,00:01:03.25,Default,,0,0,0,,What’s here?
+Dialogue: 0,00:01:03.77,00:01:06.45,Default,,0,0,0,,It doesn’t feel like it’s back to Yang Village...
+Dialogue: 0,00:01:07.53,00:01:08.57,Default,,0,0,0,,Wow
+Dialogue: 0,00:01:11.93,00:01:13.97,Default,,0,0,0,,Very high-tech
+Dialogue: 0,00:01:14.85,00:01:16.93,Default,,0,0,0,,Why didn’t I know there was this place
+Dialogue: 0,00:01:17.61,00:01:19.81,Default,,0,0,0,,Is it difficult to...is it the next prairie?
+Dialogue: 0,00:01:20.93,00:01:24.25,Default,,0,0,0,,It’s much better than our green grassland
+Dialogue: 0,00:01:24.97,00:01:26.57,Default,,0,0,0,,All high-rise buildings
+Dialogue: 0,00:01:26.93,00:01:28.69,Default,,0,0,0,,There are so many robots
+Dialogue: 0,00:01:29.69,00:01:33.07,Default,,0,0,0,,Hello, please ask how to leave the Qingqing Grassland
+Dialogue: 0,00:01:33.09,00:01:35.46,Default,,0,0,0,,Green grassland? That’s it here
+Dialogue: 0,00:01:35.49,00:01:36.41,Default,,0,0,0,,ah
+Dialogue: 0,00:01:37.05,00:01:39.97,Default,,0,0,0,,What we are talking about is the green grassland in the Goat Village
+Dialogue: 0,00:01:40.21,00:01:42.75,Default,,0,0,0,,Goat Village, keep moving forward here
+Dialogue: 0,00:01:42.77,00:01:44.69,Default,,0,0,0,,Just pass another river
+Dialogue: 0,00:01:48.01,00:01:49.39,Default,,0,0,0,,This is the Goat Village
+Dialogue: 0,00:01:49.41,00:01:51.03,Default,,0,0,0,,The door is still the same as before
+Dialogue: 0,00:01:51.05,00:01:53.09,Default,,0,0,0,,Why is it different?
+Dialogue: 0,00:01:53.57,00:01:55.97,Default,,0,0,0,,What exactly happened here
+Dialogue: 0,00:01:59.69,00:02:01.65,Default,,0,0,0,,Who are they
+Dialogue: 0,00:02:03.13,00:02:05.45,Default,,0,0,0,,I can no longer walk
+Dialogue: 0,00:02:05.73,00:02:07.83,Default,,0,0,0,,Is it really a goat village here?
+Dialogue: 0,00:02:07.85,00:02:10.29,Default,,0,0,0,,Why did this king get lost?
+Dialogue: 0,00:02:11.21,00:02:12.97,Default,,0,0,0,,Let’s go there and ask the way
+Dialogue: 0,00:02:13.69,00:02:15.39,Default,,0,0,0,,Is it really a goat village here?
+Dialogue: 0,00:02:15.41,00:02:16.93,Default,,0,0,0,,I actually got to ask
+Dialogue: 0,00:02:18.69,00:02:20.11,Default,,0,0,0,,Hello, please...
+Dialogue: 0,00:02:20.13,00:02:22.01,Default,,0,0,0,,Come on Come on Come on Come on
+Dialogue: 0,00:02:22.21,00:02:24.31,Default,,0,0,0,,Watch my tiger hit
+Dialogue: 0,00:02:24.33,00:02:26.33,Default,,0,0,0,,Look at my leopard swallowing mountains
+Dialogue: 0,00:02:30.77,00:02:33.23,Default,,0,0,0,,- Finally I saw something familiar
+- Finally I saw something familiar
+Dialogue: 0,00:02:33.25,00:02:34.13,Default,,0,0,0,,Children
+Dialogue: 0,00:02:36.05,00:02:38.29,Default,,0,0,0,,You should be careful
+Dialogue: 0,00:02:38.77,00:02:40.19,Default,,0,0,0,,OK Village Chief
+Dialogue: 0,00:02:40.21,00:02:42.49,Default,,0,0,0,,It’s the village chief. It’s great
+Dialogue: 0,00:02:42.81,00:02:43.93,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:02:44.09,00:02:45.13,Default,,0,0,0,,What’s up
+Dialogue: 0,00:02:49.01,00:02:49.97,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:02:50.13,00:02:51.55,Default,,0,0,0,,What’s going on in the Goat Village
+Dialogue: 0,00:02:51.57,00:02:53.19,Default,,0,0,0,,No matter how different it is
+Dialogue: 0,00:02:53.21,00:02:55.07,Default,,0,0,0,,Happy...Weslie
+Dialogue: 0,00:02:55.09,00:02:57.21,Default,,0,0,0,,Yes... It’s Weslie
+Dialogue: 0,00:02:58.09,00:02:59.23,Default,,0,0,0,,Weslie is back
+Dialogue: 0,00:02:59.25,00:03:00.63,Default,,0,0,0,,Weslie is back
+Where to
+Dialogue: 0,00:03:00.65,00:03:01.31,Default,,0,0,0,,- Where is it
+- Where is it
+Dialogue: 0,00:03:01.33,00:03:02.23,Default,,0,0,0,,Where to
+Dialogue: 0,00:03:02.25,00:03:03.43,Default,,0,0,0,,It’s Weslie and Wolffy
+Dialogue: 0,00:03:03.45,00:03:05.03,Default,,0,0,0,,- Weslie is back
+- They’re back
+Dialogue: 0,00:03:05.05,00:03:06.53,Default,,0,0,0,,Uh…what’s the situation?
+Dialogue: 0,00:03:09.05,00:03:09.81,Default,,0,0,0,,oops
+Dialogue: 0,00:03:10.05,00:03:11.99,Default,,0,0,0,,Old Goat, are you doing
+Dialogue: 0,00:03:12.01,00:03:14.01,Default,,0,0,0,,Am I dreaming?
+Dialogue: 0,00:03:14.17,00:03:15.47,Default,,0,0,0,,What’s wrong
+Dialogue: 0,00:03:15.49,00:03:16.93,Default,,0,0,0,,Why are you crying
+Dialogue: 0,00:03:17.13,00:03:19.35,Default,,0,0,0,,Slowy You’re very abnormal
+Dialogue: 0,00:03:19.37,00:03:20.27,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:03:20.29,00:03:23.51,Default,,0,0,0,,Why did she get all night? Goat Village has changed
+Dialogue: 0,00:03:23.53,00:03:25.13,Default,,0,0,0,,Fifteen years
+Dialogue: 0,00:03:25.29,00:03:26.93,Default,,0,0,0,,- ah? Fifteen years?
+- ah? Fifteen years?
+Dialogue: 0,00:03:29.37,00:03:31.79,Default,,0,0,0,,what…
+Dialogue: 0,00:03:31.81,00:03:34.47,Default,,0,0,0,,We are fifteen years later?
+Dialogue: 0,00:03:34.49,00:03:36.35,Default,,0,0,0,,Based on your previous description
+Dialogue: 0,00:03:36.37,00:03:38.05,Default,,0,0,0,,Only this explanation
+Dialogue: 0,00:03:39.45,00:03:42.15,Default,,0,0,0,,So it was the night fifteen years ago
+Dialogue: 0,00:03:42.17,00:03:43.87,Default,,0,0,0,,We chase the mysterious
+Dialogue: 0,00:03:43.89,00:03:46.57,Default,,0,0,0,,I accidentally came to this time and space now
+Dialogue: 0,00:03:47.01,00:03:48.71,Default,,0,0,0,,Who is that mysterious person
+Dialogue: 0,00:03:48.73,00:03:50.01,Default,,0,0,0,,What exactly does he want to do
+Dialogue: 0,00:03:50.09,00:03:51.71,Default,,0,0,0,,Don’t worry about any mysterious person
+Dialogue: 0,00:03:51.73,00:03:53.11,Default,,0,0,0,,What should we do
+Dialogue: 0,00:03:53.13,00:03:55.19,Default,,0,0,0,,We went out for one night
+Dialogue: 0,00:03:55.21,00:03:56.27,Default,,0,0,0,,But for us
+Dialogue: 0,00:03:56.29,00:03:58.61,Default,,0,0,0,,You’ve been gone for fifteen years
+Dialogue: 0,00:03:59.05,00:04:01.49,Default,,0,0,0,,- We’ve disappeared for fifteen years
+- We’ve disappeared for fifteen years
+Dialogue: 0,00:04:01.69,00:04:03.59,Default,,0,0,0,,Then everyone will grow up
+Dialogue: 0,00:04:03.61,00:04:06.91,Default,,0,0,0,,Didn’t Wolnie and Wilie lose my love for fifteen years?
+Dialogue: 0,00:04:06.93,00:04:07.59,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:07.61,00:04:09.07,Default,,0,0,0,,Go back fifteen years ago
+Dialogue: 0,00:04:09.09,00:04:11.15,Default,,0,0,0,,We will not disappear in the future
+Dialogue: 0,00:04:11.17,00:04:11.75,Default,,0,0,0,,Uh-huh
+Dialogue: 0,00:04:11.77,00:04:14.03,Default,,0,0,0,,So what can I do to send us back
+Dialogue: 0,00:04:14.05,00:04:16.51,Default,,0,0,0,,I don’t know how Wolnie and Wilie are doing
+Dialogue: 0,00:04:16.53,00:04:19.19,Default,,0,0,0,,I have to think about how to open the time and space tunnel
+Dialogue: 0,00:04:19.21,00:04:20.61,Default,,0,0,0,,Have to wait for a while
+Dialogue: 0,00:04:21.05,00:04:21.59,Default,,0,0,0,,no
+Dialogue: 0,00:04:21.61,00:04:24.65,Default,,0,0,0,,I have to go back to the Wolf Castle to see the red and small gray grey
+Dialogue: 0,00:04:26.93,00:04:27.73,Default,,0,0,0,,Oh…
+Dialogue: 0,00:04:28.53,00:04:30.09,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:04:34.29,00:04:38.09,Default,,0,0,0,,The outside is so beautiful... so big
+Dialogue: 0,00:04:46.05,00:04:48.33,Default,,0,0,0,,I didn’t expect the plan to be so long
+Dialogue: 0,00:04:48.73,00:04:50.53,Default,,0,0,0,,It’s actually quite good
+Dialogue: 0,00:04:52.41,00:04:56.11,Default,,0,0,0,,But why did the Elephant Star Stone suddenly shatter
+Dialogue: 0,00:04:56.13,00:04:58.45,Default,,0,0,0,,I also want to know why
+Dialogue: 0,00:04:58.85,00:05:01.37,Default,,0,0,0,,Doctor, what should we do next
+Dialogue: 0,00:05:03.25,00:05:07.05,Default,,0,0,0,,Collect all the fragments of the star stone back
+Dialogue: 0,00:05:07.85,00:05:08.65,Default,,0,0,0,,yes
+Dialogue: 0,00:05:18.33,00:05:19.57,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:05:27.65,00:05:29.49,Default,,0,0,0,,Is that our gyroscope?
+Dialogue: 0,00:05:29.73,00:05:31.89,Default,,0,0,0,,Why did it suddenly become bigger
+Dialogue: 0,00:05:32.45,00:05:35.09,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:38.49,00:05:39.57,Default,,0,0,0,,Get out of here quickly
+Dialogue: 0,00:05:43.57,00:05:46.17,Default,,0,0,0,,Why did such a big gyro suddenly come out?
+Dialogue: 0,00:05:46.93,00:05:48.05,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:05:49.25,00:05:51.19,Default,,0,0,0,,Always move it to an empty place
+Dialogue: 0,00:05:51.21,00:05:53.89,Default,,0,0,0,,It’s empty...I understand
+Dialogue: 0,00:05:55.85,00:05:57.17,Default,,0,0,0,,Go to Xinqiao
+Dialogue: 0,00:05:57.85,00:05:59.31,Default,,0,0,0,,There is no connection in the middle of the bridge
+Dialogue: 0,00:05:59.33,00:06:01.51,Default,,0,0,0,,You can pull the top down to solve it
+Dialogue: 0,00:06:01.53,00:06:02.03,Default,,0,0,0,,good
+Dialogue: 0,00:06:02.05,00:06:03.85,Default,,0,0,0,,You will first evacuate nearby residents
+Dialogue: 0,00:06:04.41,00:06:06.93,Default,,0,0,0,,Leave the job of attracting tops to me
+Dialogue: 0,00:06:07.41,00:06:08.05,Default,,0,0,0,,good
+Dialogue: 0,00:06:13.61,00:06:16.09,Default,,0,0,0,,If this continues, it will harm residents
+Dialogue: 0,00:06:24.01,00:06:24.69,Default,,0,0,0,,careful
+Dialogue: 0,00:06:29.49,00:06:30.73,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:06:43.53,00:06:45.41,Default,,0,0,0,,It must first attract its attention
+Dialogue: 0,00:06:45.93,00:06:48.27,Default,,0,0,0,,attract? This king is the best
+Dialogue: 0,00:06:48.29,00:06:49.37,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:06:53.17,00:06:54.95,Default,,0,0,0,,Isn’t it just a small gyro
+Dialogue: 0,00:06:54.97,00:06:56.85,Default,,0,0,0,,I’m not afraid of you
+Dialogue: 0,00:06:58.37,00:07:00.35,Default,,0,0,0,,Little gyro, come and chase me
+Dialogue: 0,00:07:00.37,00:07:01.63,Default,,0,0,0,,Why did you stop?
+Dialogue: 0,00:07:01.65,00:07:03.35,Default,,0,0,0,,Are you tired? Are you sucked?
+Dialogue: 0,00:07:03.37,00:07:04.71,Default,,0,0,0,,Can’t turn around anymore
+Dialogue: 0,00:07:04.73,00:07:07.11,Default,,0,0,0,,Come and chase me Lalala
+Dialogue: 0,00:07:07.13,00:07:09.33,Default,,0,0,0,,Or you only have this ability
+Dialogue: 0,00:07:11.49,00:07:13.35,Default,,0,0,0,,What to do next
+Dialogue: 0,00:07:13.37,00:07:14.47,Default,,0,0,0,,It’s really you
+Dialogue: 0,00:07:14.49,00:07:15.41,Default,,0,0,0,,what?
+Dialogue: 0,00:07:15.85,00:07:16.65,Default,,0,0,0,,Nothing
+Dialogue: 0,00:07:18.73,00:07:19.61,Default,,0,0,0,,Go here
+Dialogue: 0,00:07:22.97,00:07:24.37,Default,,0,0,0,,This gyro is so big
+Dialogue: 0,00:07:24.81,00:07:27.59,Default,,0,0,0,,With our strength, we can’t stop it
+Dialogue: 0,00:07:27.61,00:07:29.39,Default,,0,0,0,,I’ll think about what’s the solution
+Dialogue: 0,00:07:29.41,00:07:31.49,Default,,0,0,0,,The road to Xinqiao has been arranged
+Dialogue: 0,00:07:31.65,00:07:32.47,Default,,0,0,0,,This sound...
+Dialogue: 0,00:07:32.49,00:07:34.31,Default,,0,0,0,,Take this route to avoid crowds
+Dialogue: 0,00:07:34.33,00:07:36.69,Default,,0,0,0,,We will support you on the road, too
+Dialogue: 0,00:07:37.93,00:07:38.69,Default,,0,0,0,,receive
+Dialogue: 0,00:07:39.49,00:07:40.29,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:07:41.89,00:07:42.53,Default,,0,0,0,,Right
+Dialogue: 0,00:07:43.73,00:07:45.37,Default,,0,0,0,,Turning so fast
+Dialogue: 0,00:07:45.93,00:07:48.49,Default,,0,0,0,,I’ll give you a lower temperature
+Dialogue: 0,00:07:51.01,00:07:52.29,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:07:58.69,00:08:00.71,Default,,0,0,0,,It’s getting more violent
+Dialogue: 0,00:08:00.73,00:08:02.17,Default,,0,0,0,,It’s just right
+Dialogue: 0,00:08:02.41,00:08:03.33,Default,,0,0,0,,Here
+Dialogue: 0,00:08:04.41,00:08:05.69,Default,,0,0,0,,Where is the bridge
+Dialogue: 0,00:08:06.05,00:08:06.97,Default,,0,0,0,,Front
+Dialogue: 0,00:08:08.85,00:08:10.57,Default,,0,0,0,,Are you planning to lead it down?
+Dialogue: 0,00:08:11.25,00:08:12.23,Default,,0,0,0,,That’s right
+Dialogue: 0,00:08:12.25,00:08:14.45,Default,,0,0,0,,But it won’t hear it like this
+Dialogue: 0,00:08:14.69,00:08:16.45,Default,,0,0,0,,That’s not to let it go
+Dialogue: 0,00:08:17.09,00:08:17.85,Default,,0,0,0,,Come
+Dialogue: 0,00:08:23.69,00:08:25.61,Default,,0,0,0,,Tibbie Preparation
+Dialogue: 0,00:08:26.05,00:08:26.81,Default,,0,0,0,,Um
+Dialogue: 0,00:08:35.09,00:08:35.97,Default,,0,0,0,,arrive
+Dialogue: 0,00:08:40.57,00:08:41.65,Default,,0,0,0,,Success
+Dialogue: 0,00:08:44.69,00:08:45.69,Default,,0,0,0,,Hide away quickly
+Dialogue: 0,00:08:59.65,00:09:00.89,Default,,0,0,0,,Have you done it?
+Dialogue: 0,00:09:01.97,00:09:02.89,Default,,0,0,0,,What’s up
+Dialogue: 0,00:09:03.69,00:09:05.53,Default,,0,0,0,,Hahahaha it’s done
+Dialogue: 0,00:09:06.05,00:09:08.55,Default,,0,0,0,,Ahem...this water fog is too heavy
+Dialogue: 0,00:09:08.57,00:09:10.10,Default,,0,0,0,,Such a big spiral
+Dialogue: 0,00:09:10.13,00:09:11.93,Default,,0,0,0,,It must be heavy if it falls
+Dialogue: 0,00:09:12.25,00:09:13.17,Default,,0,0,0,,Too
+Dialogue: 0,00:09:17.21,00:09:17.89,Default,,0,0,0,,ah?
+Dialogue: 0,00:09:19.09,00:09:21.61,Default,,0,0,0,,When did so many people come
+Dialogue: 0,00:09:29.73,00:09:32.05,Default,,0,0,0,,Welcome... Go home
+Dialogue: 0,00:09:32.65,00:09:34.47,Default,,0,0,0,,Ah...what is going on
+Dialogue: 0,00:09:34.49,00:09:36.43,Default,,0,0,0,,- Hahaha finally...
+- Sparky, don’t hug him
+Dialogue: 0,00:09:36.45,00:09:37.61,Default,,0,0,0,,It’s been forced to them
+Dialogue: 0,00:09:38.93,00:09:40.81,Default,,0,0,0,,- Are you...Baiyangyang?
+- Are you...Baiyangyang?
+Dialogue: 0,00:09:43.17,00:09:44.57,Default,,0,0,0,,And the sound just now
+Dialogue: 0,00:09:45.49,00:09:48.33,Default,,0,0,0,,You finally come back
+Dialogue: 0,00:09:48.73,00:09:50.97,Default,,0,0,0,,I’ve been looking for you for a long time
+Dialogue: 0,00:09:51.33,00:09:52.37,Default,,0,0,0,,Tibbie?
+Dialogue: 0,00:09:52.65,00:09:55.03,Default,,0,0,0,,I thought I would never see you again
+Dialogue: 0,00:09:55.05,00:09:56.63,Default,,0,0,0,,- How to beat
+- Goat?
+Dialogue: 0,00:09:56.65,00:09:58.63,Default,,0,0,0,,It’s fine if you’re fine
+Dialogue: 0,00:09:58.65,00:09:59.97,Default,,0,0,0,,You are...
+Dialogue: 0,00:10:00.93,00:10:03.27,Default,,0,0,0,,Warm...Jonie
+Dialogue: 0,00:10:03.29,00:10:06.01,Default,,0,0,0,,The changes have been too big in the past fifteen years
+Dialogue: 0,00:10:07.01,00:10:08.49,Default,,0,0,0,,Don’t cry, everyone
+Dialogue: 0,00:10:08.81,00:10:11.47,Default,,0,0,0,,Hahaha, what did the man cry?
+Dialogue: 0,00:10:11.49,00:10:13.85,Default,,0,0,0,,Haven’t you cried?
+Dialogue: 0,00:10:16.97,00:10:17.89,Default,,0,0,0,,Um?
+Dialogue: 0,00:10:19.21,00:10:20.25,Default,,0,0,0,,This is...
+Dialogue: 0,00:10:22.85,00:10:25.01,Default,,0,0,0,,Coming from fifteen years ago?
+Dialogue: 0,00:10:25.29,00:10:26.23,Default,,0,0,0,,That’s saying
+Dialogue: 0,00:10:26.25,00:10:28.43,Default,,0,0,0,,Fifteen years ago they didn’t miss it
+Dialogue: 0,00:10:28.45,00:10:29.57,Default,,0,0,0,,But...
+Dialogue: 0,00:10:30.09,00:10:31.25,Default,,0,0,0,,Coming to the present
+Dialogue: 0,00:10:32.69,00:10:35.13,Default,,0,0,0,,So it was still the same as a kid
+Dialogue: 0,00:10:50.25,00:10:53.41,Default,,0,0,0,,I didn’t expect that we really came fifteen years later
+Dialogue: 0,00:10:54.49,00:10:57.97,Default,,0,0,0,,I don’t know what happened to Wolnie and Wilie
+Dialogue: 0,00:10:58.89,00:11:01.17,Default,,0,0,0,,This is the fragment of the star stone
+Dialogue: 0,00:11:02.17,00:11:03.37,Default,,0,0,0,,Elephant Star Stone?
+Dialogue: 0,00:11:03.61,00:11:05.87,Default,,0,0,0,,The Elephant Star Stone was fifteen years ago
+Dialogue: 0,00:11:05.89,00:11:08.37,Default,,0,0,0,,The mysterious man’s energy stone
+Dialogue: 0,00:11:08.77,00:11:11.51,Default,,0,0,0,,I’ve been searching for information over the years
+Dialogue: 0,00:11:11.53,00:11:14.41,Default,,0,0,0,,I found out that the head of this stone is a star stone
+Dialogue: 0,00:11:14.61,00:11:18.13,Default,,0,0,0,,And this film should be fragments produced by the explosion at that time
+Dialogue: 0,00:11:18.85,00:11:21.07,Default,,0,0,0,,After this fragment is combined with the gyroscope
+Dialogue: 0,00:11:21.09,00:11:23.41,Default,,0,0,0,,The gyro turned into a monster
+Dialogue: 0,00:11:24.81,00:11:26.33,Default,,0,0,0,,It should be like this
+Dialogue: 0,00:11:26.73,00:11:29.31,Default,,0,0,0,,A piece of fragments is so powerful
+Dialogue: 0,00:11:29.33,00:11:31.31,Default,,0,0,0,,That complete star stone
+Dialogue: 0,00:11:31.33,00:11:33.41,Default,,0,0,0,,Its energy must be unestimated
+Dialogue: 0,00:11:34.33,00:11:35.65,Default,,0,0,0,,I feel
+Dialogue: 0,00:11:36.05,00:11:38.51,Default,,0,0,0,,Use the huge energy of this elephant star stone
+Dialogue: 0,00:11:38.53,00:11:41.41,Default,,0,0,0,,Maybe I can send you back fifteen years ago
+Dialogue: 0,00:11:42.09,00:11:43.37,Default,,0,0,0,,- Really
+- Really
+Dialogue: 0,00:11:43.53,00:11:44.83,Default,,0,0,0,,Just a guess
+Dialogue: 0,00:11:44.85,00:11:47.91,Default,,0,0,0,,So you have to retrieve all the fragments of the Elephant Star Stone
+Dialogue: 0,00:11:47.93,00:11:49.01,Default,,0,0,0,,good
+Dialogue: 0,00:11:49.33,00:11:52.67,Default,,0,0,0,,That mysterious person will definitely continue to snatch the elephant star stone
+Dialogue: 0,00:11:52.69,00:11:55.39,Default,,0,0,0,,If the complete elephant star stone falls into his hands
+Dialogue: 0,00:11:55.41,00:11:58.05,Default,,0,0,0,,He will definitely be unfavorable to the whole world
+Dialogue: 0,00:12:00.73,00:12:02.91,Default,,0,0,0,,No matter what the mysterious person’s purpose
+Dialogue: 0,00:12:02.93,00:12:04.93,Default,,0,0,0,,We won’t let him succeed
+Dialogue: 0,00:12:15.17,00:12:17.55,Default,,0,0,0,,Then let us guardians of Yang Village together
+Dialogue: 0,00:12:17.57,00:12:19.53,Default,,0,0,0,,Keep your home again
+Dialogue: 0,00:12:32.61,00:12:33.85,Default,,0,0,0,,Um

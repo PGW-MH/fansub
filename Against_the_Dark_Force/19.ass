@@ -1,0 +1,201 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:16.97,00:00:18.93,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:00:36.77,00:00:38.29,Default,,0,0,0,,Pull it hard
+Dialogue: 0,00:00:38.85,00:00:39.29,Default,,0,0,0,,Hey!
+Dialogue: 0,00:00:40.25,00:00:41.05,Default,,0,0,0,,Alas!
+Dialogue: 0,00:00:42.77,00:00:43.37,Default,,0,0,0,,ah…
+Dialogue: 0,00:00:44.21,00:00:46.97,Default,,0,0,0,,Be careful not to touch the lake
+Dialogue: 0,00:00:54.77,00:00:57.21,Default,,0,0,0,,Oh no, they’re here
+Dialogue: 0,00:01:00.25,00:01:01.65,Default,,0,0,0,,So you are here?
+Dialogue: 0,00:01:05.01,00:01:06.65,Default,,0,0,0,,What happened?
+Dialogue: 0,00:01:14.25,00:01:16.29,Default,,0,0,0,,Your scoundrel has fought with that helper
+Dialogue: 0,00:01:16.57,00:01:19.09,Default,,0,0,0,,And that helps people
+Dialogue: 0,00:01:19.37,00:01:21.57,Default,,0,0,0,,Another person fell into the ice lake
+Dialogue: 0,00:01:29.69,00:01:31.89,Default,,0,0,0,,Thank you for saving us just now
+Dialogue: 0,00:01:35.69,00:01:37.77,Default,,0,0,0,,Not good, they’re here
+Dialogue: 0,00:01:40.57,00:01:42.97,Default,,0,0,0,,Children, we’re here to save you
+Dialogue: 0,00:01:43.69,00:01:46.13,Default,,0,0,0,,It turns out that it is Coco’s father and mother
+Dialogue: 0,00:01:46.65,00:01:49.65,Default,,0,0,0,,If you hadn’t come, we might have been arrested
+Dialogue: 0,00:01:52.57,00:01:54.53,Default,,0,0,0,,Thank you so much
+Dialogue: 0,00:01:55.49,00:01:58.21,Default,,0,0,0,,You’re just for us
+Dialogue: 0,00:01:58.85,00:02:00.69,Default,,0,0,0,,This little busy is nothing
+Dialogue: 0,00:02:00.93,00:02:02.17,Default,,0,0,0,,Why is it so popular
+Dialogue: 0,00:02:02.25,00:02:06.05,Default,,0,0,0,,You, you... your face is melting
+Dialogue: 0,00:02:08.13,00:02:08.61,Default,,0,0,0,,what?
+Dialogue: 0,00:02:08.89,00:02:11.73,Default,,0,0,0,,Come quickly and let the bright moon warm up a little
+Dialogue: 0,00:02:12.85,00:02:14.37,Default,,0,0,0,,You can’t do that
+Dialogue: 0,00:02:15.57,00:02:16.91,Default,,0,0,0,,Save...Help...
+Dialogue: 0,00:02:16.93,00:02:18.33,Default,,0,0,0,,Snowman dad
+Dialogue: 0,00:02:20.45,00:02:21.37,Default,,0,0,0,,sorry
+Dialogue: 0,00:02:22.49,00:02:25.41,Default,,0,0,0,,It’s okay. You didn’t mean it
+Dialogue: 0,00:02:26.37,00:02:28.85,Default,,0,0,0,,Want to unravel the ice on Princess Luna
+Dialogue: 0,00:02:29.17,00:02:31.97,Default,,0,0,0,,You must go to the warm spring on the snow-capped mountains
+Dialogue: 0,00:02:32.49,00:02:34.01,Default,,0,0,0,,- Nuannuan Spring?
+- Nuannuan Spring?
+Dialogue: 0,00:02:34.69,00:02:35.47,Default,,0,0,0,,Yes
+Dialogue: 0,00:02:35.49,00:02:38.81,Default,,0,0,0,,The Nuannuan Spring is a spring water that can melt any ice block
+Dialogue: 0,00:02:39.37,00:02:43.05,Default,,0,0,0,,Just put it on Princess Luna
+Dialogue: 0,00:02:43.33,00:02:45.65,Default,,0,0,0,,Great, Princess Luna is saved
+Dialogue: 0,00:02:46.09,00:02:47.97,Default,,0,0,0,,Then let’s go up the mountain with all your might
+Dialogue: 0,00:02:50.25,00:02:51.45,Default,,0,0,0,,I’ll take you the way
+Dialogue: 0,00:02:52.21,00:02:53.09,Default,,0,0,0,,Huh?
+Dialogue: 0,00:02:53.37,00:02:55.01,Default,,0,0,0,,Why did you stand upside down?
+Dialogue: 0,00:02:55.29,00:02:57.85,Default,,0,0,0,,You’re too big
+Dialogue: 0,00:02:58.97,00:02:59.89,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:03:00.01,00:03:01.01,Default,,0,0,0,,- well…
+- well…
+Dialogue: 0,00:03:02.29,00:03:04.37,Default,,0,0,0,,I really don’t need to show you a way
+Dialogue: 0,00:03:05.05,00:03:06.97,Default,,0,0,0,,Last time it was because of helping us
+Dialogue: 0,00:03:07.17,00:03:09.29,Default,,0,0,0,,That’s why you were punished by Weslie
+Dialogue: 0,00:03:09.69,00:03:11.21,Default,,0,0,0,,We’ll just go by ourselves
+Dialogue: 0,00:03:17.33,00:03:18.89,Default,,0,0,0,,A smooth journey
+Dialogue: 0,00:03:24.77,00:03:27.33,Default,,0,0,0,,So tired, I can’t walk anymore
+Dialogue: 0,00:03:27.89,00:03:29.21,Default,,0,0,0,,Let’s take a break first
+Dialogue: 0,00:03:31.45,00:03:32.17,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:03:32.49,00:03:33.77,Default,,0,0,0,,Is it a Weslie?
+Dialogue: 0,00:03:36.17,00:03:36.69,Default,,0,0,0,,Meow…
+Dialogue: 0,00:03:37.65,00:03:38.89,Default,,0,0,0,,It’s cocoa
+Dialogue: 0,00:03:39.65,00:03:41.49,Default,,0,0,0,,Coco, why are you here again
+Dialogue: 0,00:03:41.89,00:03:43.09,Default,,0,0,0,,Go back soon
+Dialogue: 0,00:03:43.17,00:03:46.85,Default,,0,0,0,,Meow... Meow...
+Dialogue: 0,00:03:47.29,00:03:49.69,Default,,0,0,0,,It seems he wants to follow us up the mountain
+Dialogue: 0,00:03:50.45,00:03:52.27,Default,,0,0,0,,Now I’m sending cocoa back
+Dialogue: 0,00:03:52.29,00:03:53.95,Default,,0,0,0,,- Will be missed for a long time
+- Meow...
+Dialogue: 0,00:03:53.97,00:03:55.57,Default,,0,0,0,,Then bring him on
+Dialogue: 0,00:03:56.17,00:03:56.79,Default,,0,0,0,,Meow
+Dialogue: 0,00:03:56.81,00:03:58.33,Default,,0,0,0,,We’re going on the road with tight time
+Dialogue: 0,00:03:59.29,00:04:00.49,Default,,0,0,0,,Don’t be careless
+Dialogue: 0,00:04:00.73,00:04:02.69,Default,,0,0,0,,Beware of Weslie and Goat Flying Hits Hits Hits
+Dialogue: 0,00:04:02.85,00:04:03.49,Default,,0,0,0,,Um
+Dialogue: 0,00:04:13.09,00:04:16.57,Default,,0,0,0,,It’s your time. Put your right hand on a high point
+Dialogue: 0,00:04:23.05,00:04:25.97,Default,,0,0,0,,How do you hear this? Am I dreaming?
+Dialogue: 0,00:04:27.45,00:04:30.05,Default,,0,0,0,,Uh... show me your left hand
+Dialogue: 0,00:04:31.25,00:04:35.49,Default,,0,0,0,,Ah...I heard it
+Dialogue: 0,00:04:36.97,00:04:40.41,Default,,0,0,0,,Right hand Left foot Right foot
+Dialogue: 0,00:04:42.21,00:04:42.89,Default,,0,0,0,,head…
+Dialogue: 0,00:04:43.45,00:04:45.65,Default,,0,0,0,,Ah, it turns out that’s not
+Dialogue: 0,00:04:53.29,00:04:54.45,Default,,0,0,0,,Finally arrived
+Dialogue: 0,00:05:10.05,00:05:11.45,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:05:12.25,00:05:13.77,Default,,0,0,0,,No spring water
+Dialogue: 0,00:05:14.65,00:05:16.37,Default,,0,0,0,,What should Princess Luna do?
+Dialogue: 0,00:05:17.05,00:05:18.29,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:05:18.69,00:05:22.53,Default,,0,0,0,,It turned out that Princess Luna fell into the ice lake
+Dialogue: 0,00:05:23.77,00:05:25.93,Default,,0,0,0,,It’s hard not to meet you on the road
+Dialogue: 0,00:05:26.25,00:05:28.45,Default,,0,0,0,,Have you guessed that we will come up?
+Dialogue: 0,00:05:29.33,00:05:31.69,Default,,0,0,0,,But I didn’t guess you’d go so slowly
+Dialogue: 0,00:05:32.05,00:05:33.89,Default,,0,0,0,,Oh, I’m almost asleep
+Dialogue: 0,00:05:35.05,00:05:38.57,Default,,0,0,0,,snort! Did you do anything about Nuannuanquan?
+Dialogue: 0,00:05:39.41,00:05:41.25,Default,,0,0,0,,snort! Who knows?
+Dialogue: 0,00:05:42.25,00:05:44.49,Default,,0,0,0,,It seems we can only retreat first
+Dialogue: 0,00:05:44.69,00:05:47.53,Default,,0,0,0,,I’m responsible for leading him out, you go quickly
+Dialogue: 0,00:05:51.37,00:05:53.33,Default,,0,0,0,,There are also things you can’t guess
+Dialogue: 0,00:05:54.37,00:05:55.57,Default,,0,0,0,,ah? Ice fan?
+Dialogue: 0,00:06:00.09,00:06:03.05,Default,,0,0,0,,Big Wolf, I won’t show any mercy again this time
+Dialogue: 0,00:06:08.29,00:06:09.21,Default,,0,0,0,,Take the call
+Dialogue: 0,00:06:28.09,00:06:29.89,Default,,0,0,0,,If you don’t want to be a snowman, just walk away
+Dialogue: 0,00:06:30.77,00:06:31.89,Default,,0,0,0,,Stop installing
+Dialogue: 0,00:06:32.37,00:06:35.77,Default,,0,0,0,,Isn’t there another piece in Princess Luna’s hand?
+Dialogue: 0,00:06:39.37,00:06:40.57,Default,,0,0,0,,What should I do now
+Dialogue: 0,00:06:42.09,00:06:43.45,Default,,0,0,0,,You...what do you want to do?
+Dialogue: 0,00:06:45.29,00:06:47.25,Default,,0,0,0,,You’re willing to hand over the pieces
+Dialogue: 0,00:06:47.73,00:06:49.65,Default,,0,0,0,,I can consider letting you go
+Dialogue: 0,00:06:51.21,00:06:51.89,Default,,0,0,0,,Really
+Dialogue: 0,00:06:54.29,00:06:56.02,Default,,0,0,0,,You’re such a kid’s cheating
+Dialogue: 0,00:06:56.05,00:06:59.37,Default,,0,0,0,,I’m three years old and you go quickly
+Dialogue: 0,00:07:00.29,00:07:01.45,Default,,0,0,0,,You asked for it yourself
+Dialogue: 0,00:07:14.37,00:07:16.77,Default,,0,0,0,,Ah Help...
+Dialogue: 0,00:07:18.85,00:07:19.49,Default,,0,0,0,,ah
+Dialogue: 0,00:07:20.13,00:07:20.85,Default,,0,0,0,,Blessing
+Dialogue: 0,00:07:20.97,00:07:21.69,Default,,0,0,0,,ah…
+Dialogue: 0,00:07:25.17,00:07:26.29,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:07:36.45,00:07:38.09,Default,,0,0,0,,Coco Where are you going?
+Dialogue: 0,00:07:42.21,00:07:42.69,Default,,0,0,0,,Meow
+Dialogue: 0,00:07:44.13,00:07:45.81,Default,,0,0,0,,Coco What are you doing
+Dialogue: 0,00:07:48.49,00:07:49.25,Default,,0,0,0,,No?
+Dialogue: 0,00:07:50.41,00:07:51.25,Default,,0,0,0,,ah!
+Dialogue: 0,00:07:53.93,00:07:56.17,Default,,0,0,0,,Tibbie, eat me again
+Dialogue: 0,00:07:57.73,00:07:58.81,Default,,0,0,0,,No
+Dialogue: 0,00:08:07.33,00:08:09.41,Default,,0,0,0,,Hehehe...it’s a bit interesting
+Dialogue: 0,00:08:10.77,00:08:12.13,Default,,0,0,0,,Don’t let him use the food
+Dialogue: 0,00:08:12.65,00:08:14.77,Default,,0,0,0,,It depends on whether you have this ability
+Dialogue: 0,00:08:17.13,00:08:17.57,Default,,0,0,0,,oops
+Dialogue: 0,00:08:23.05,00:08:24.93,Default,,0,0,0,,Let’s fan the ice to him
+Dialogue: 0,00:08:25.09,00:08:26.45,Default,,0,0,0,,Not complete anyway
+Dialogue: 0,00:08:27.25,00:08:29.97,Default,,0,0,0,,Even if he gave it to him, he would still catch us
+Dialogue: 0,00:08:31.05,00:08:32.29,Default,,0,0,0,,So what should I do now
+Dialogue: 0,00:08:32.57,00:08:33.61,Default,,0,0,0,,Give me a snail
+Dialogue: 0,00:08:37.81,00:08:38.89,Default,,0,0,0,,What are your solutions
+Dialogue: 0,00:08:39.49,00:08:40.33,Default,,0,0,0,,I’ll drag him first
+Dialogue: 0,00:08:40.65,00:08:43.61,Default,,0,0,0,,You took the opportunity to take Tibbie and Luna and others away
+Dialogue: 0,00:08:44.69,00:08:44.95,Default,,0,0,0,,But…
+Dialogue: 0,00:08:44.97,00:08:46.89,Default,,0,0,0,,Weslie I’m here
+Dialogue: 0,00:08:55.85,00:08:57.69,Default,,0,0,0,,I’m going to help Wolffy
+Dialogue: 0,00:08:58.57,00:09:00.57,Default,,0,0,0,,Luna and Fulai will hand it over to you
+Dialogue: 0,00:09:01.25,00:09:02.93,Default,,0,0,0,,ah? But…
+Dialogue: 0,00:09:05.33,00:09:05.97,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:09:08.45,00:09:08.77,Default,,0,0,0,,ah!
+Dialogue: 0,00:09:14.61,00:09:16.73,Default,,0,0,0,,If only I could be stronger
+Dialogue: 0,00:09:17.13,00:09:18.29,Default,,0,0,0,,What should I do now
+Dialogue: 0,00:09:26.81,00:09:28.97,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:09:30.29,00:09:33.17,Default,,0,0,0,,Go back with me and see Queen Levana
+Dialogue: 0,00:09:36.61,00:09:40.17,Default,,0,0,0,,I can’t just hide, what should I do
+Dialogue: 0,00:09:41.53,00:09:42.53,Default,,0,0,0,,How to do it...
+Dialogue: 0,00:09:50.97,00:09:51.49,Default,,0,0,0,,ah?
+Dialogue: 0,00:09:53.25,00:09:54.97,Default,,0,0,0,,Spring water is spring water
+Dialogue: 0,00:09:57.09,00:09:57.97,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:09:59.05,00:09:59.89,Default,,0,0,0,,Very good
+Dialogue: 0,00:10:00.89,00:10:02.65,Default,,0,0,0,,Why did you suddenly feel water?
+Dialogue: 0,00:10:07.61,00:10:08.45,Default,,0,0,0,,cocoa
+Dialogue: 0,00:10:09.17,00:10:12.33,Default,,0,0,0,,It turned out that the spring mouth was blocked by these ice blocks
+Dialogue: 0,00:10:12.89,00:10:14.77,Default,,0,0,0,,But you found these ice blocks
+Dialogue: 0,00:10:15.53,00:10:17.77,Default,,0,0,0,,Have you taken them out yet?
+Dialogue: 0,00:10:19.45,00:10:20.05,Default,,0,0,0,,aim
+Dialogue: 0,00:10:21.49,00:10:23.29,Default,,0,0,0,,Weslie Hello
+Dialogue: 0,00:10:24.25,00:10:25.21,Default,,0,0,0,,You need to take care of it
+Dialogue: 0,00:10:25.85,00:10:26.77,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:10:33.93,00:10:34.69,Default,,0,0,0,,Success
+Dialogue: 0,00:10:37.97,00:10:39.53,Default,,0,0,0,,This spring is really useful
+Dialogue: 0,00:10:40.85,00:10:41.33,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:42.29,00:10:43.01,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:10:43.45,00:10:44.77,Default,,0,0,0,,Weslie, you’ve gotten too much
+Dialogue: 0,00:10:46.45,00:10:49.25,Default,,0,0,0,,Don’t think you won’t win if you saved Princess Luna
+Dialogue: 0,00:10:50.21,00:10:51.05,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:11:00.57,00:11:02.81,Default,,0,0,0,,Do you think you can throw me if you are a little older?
+Dialogue: 0,00:11:02.97,00:11:05.17,Default,,0,0,0,,I didn’t want to hurt you
+Dialogue: 0,00:11:08.77,00:11:10.37,Default,,0,0,0,,Don’t want to trap me
+Dialogue: 0,00:11:10.89,00:11:11.81,Default,,0,0,0,,Let’s run quickly
+Dialogue: 0,00:11:12.33,00:11:13.21,Default,,0,0,0,,Princess…
+Dialogue: 0,00:11:14.73,00:11:16.73,Default,,0,0,0,,Great, you’re fine
+Dialogue: 0,00:11:17.17,00:11:18.73,Default,,0,0,0,,Well, what happened?
+Dialogue: 0,00:11:19.49,00:11:21.21,Default,,0,0,0,,Put the ice fan together first
+Dialogue: 0,00:11:21.61,00:11:22.01,Default,,0,0,0,,Um
+Dialogue: 0,00:11:32.45,00:11:33.49,Default,,0,0,0,,Finished
+Dialogue: 0,00:11:35.57,00:11:36.17,Default,,0,0,0,,pain…
+Dialogue: 0,00:11:36.77,00:11:39.17,Default,,0,0,0,,- He seemed to ask us to follow him
+- Meow…
+Dialogue: 0,00:11:52.29,00:11:53.05,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:59.17,00:12:00.69,Default,,0,0,0,,Have a hole? Go in first
+Dialogue: 0,00:12:01.41,00:12:01.93,Default,,0,0,0,,Meow
+Dialogue: 0,00:12:08.73,00:12:13.87,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:12:13.89,00:12:16.49,Default,,0,0,0,,ah? We’ve already fallen on the mountain?
+Dialogue: 0,00:12:17.17,00:12:19.05,Default,,0,0,0,,It turns out there is such a secret passage
+Dialogue: 0,00:12:23.21,00:12:24.21,Default,,0,0,0,,Meow…
+Dialogue: 0,00:12:25.45,00:12:26.37,Default,,0,0,0,,Who are you?
+Dialogue: 0,00:12:26.77,00:12:30.93,Default,,0,0,0,,What are you talking about? I’m a Tibbie
+Dialogue: 0,00:12:31.65,00:12:33.05,Default,,0,0,0,,Tibbie?

@@ -1,0 +1,154 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:29.41,00:00:29.93,Default,,0,0,0,,Oli
+Dialogue: 0,00:00:30.17,00:00:31.49,Default,,0,0,0,,Why are you still here
+Dialogue: 0,00:00:32.97,00:00:34.09,Default,,0,0,0,,Go home soon...
+Dialogue: 0,00:00:36.29,00:00:39.19,Default,,0,0,0,,One day a horse fell into the river
+Dialogue: 0,00:00:39.21,00:00:40.77,Default,,0,0,0,,It became a Hema
+Dialogue: 0,00:00:41.13,00:00:42.85,Default,,0,0,0,,Haha Haha Haha
+Dialogue: 0,00:00:44.45,00:00:45.97,Default,,0,0,0,,What jokes are you talking about
+Dialogue: 0,00:00:46.61,00:00:47.89,Default,,0,0,0,,Your house is on fire
+Dialogue: 0,00:00:50.33,00:00:51.53,Default,,0,0,0,,Go back and have a look
+Dialogue: 0,00:01:00.41,00:01:02.05,Default,,0,0,0,,There are fragments nearby
+Dialogue: 0,00:01:02.25,00:01:04.13,Default,,0,0,0,,Oli You finally come back
+Dialogue: 0,00:01:04.33,00:01:07.17,Default,,0,0,0,,Don’t worry, the firefighters have already slammed the fire
+Dialogue: 0,00:01:19.89,00:01:22.45,Default,,0,0,0,,Not good Dr. Fu’s items
+Dialogue: 0,00:01:31.97,00:01:32.69,Default,,0,0,0,,who
+Dialogue: 0,00:01:37.33,00:01:38.05,Default,,0,0,0,,Come out
+Dialogue: 0,00:01:55.81,00:01:57.77,Default,,0,0,0,,Fu...Dr...
+Dialogue: 0,00:02:06.01,00:02:06.59,Default,,0,0,0,,very good
+Dialogue: 0,00:02:06.61,00:02:09.49,Default,,0,0,0,,Pay close attention to the situation around Oli
+Dialogue: 0,00:02:09.81,00:02:10.29,Default,,0,0,0,,OK
+Dialogue: 0,00:02:14.85,00:02:16.53,Default,,0,0,0,,It’s almost successful...
+Dialogue: 0,00:02:19.97,00:02:21.05,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:02:21.29,00:02:23.05,Default,,0,0,0,,You finally come back
+Dialogue: 0,00:02:23.25,00:02:26.09,Default,,0,0,0,,Where have you been there for so many years
+Dialogue: 0,00:02:26.21,00:02:27.65,Default,,0,0,0,,I miss you so much
+Dialogue: 0,00:02:29.33,00:02:31.69,Default,,0,0,0,,It’s about to crack
+Dialogue: 0,00:02:50.09,00:02:52.15,Default,,0,0,0,,Dr. Fu, you’re fine
+Dialogue: 0,00:02:52.17,00:02:54.05,Default,,0,0,0,,You look so weak
+Dialogue: 0,00:02:55.49,00:02:58.65,Default,,0,0,0,,No... nothing, just a little tired
+Dialogue: 0,00:03:09.33,00:03:13.49,Default,,0,0,0,,Dr. Fu, sit and rest, I’ll clean up
+Dialogue: 0,00:03:21.97,00:03:25.49,Default,,0,0,0,,This robot is so terrifying. I have to find a way to throw him away.
+Dialogue: 0,00:03:36.77,00:03:38.85,Default,,0,0,0,,You moved me to a wall
+Dialogue: 0,00:03:39.45,00:03:42.21,Default,,0,0,0,,Shred the middle piece clean
+Dialogue: 0,00:03:42.61,00:03:43.21,Default,,0,0,0,,yes
+Dialogue: 0,00:03:57.01,00:04:00.17,Default,,0,0,0,,Finally I have the opportunity to replenish some energy
+Dialogue: 0,00:04:04.09,00:04:05.61,Default,,0,0,0,,What sound
+Dialogue: 0,00:04:07.05,00:04:09.17,Default,,0,0,0,,Oh, it’s my stomach’s sound
+Dialogue: 0,00:04:09.69,00:04:13.21,Default,,0,0,0,,Dr. Fu, wait, I’ll cook for you
+Dialogue: 0,00:04:15.73,00:04:16.73,Default,,0,0,0,,Always leave
+Dialogue: 0,00:04:19.65,00:04:23.93,Default,,0,0,0,,Earth Energy My favorite Earth Energy
+Dialogue: 0,00:04:28.45,00:04:30.85,Default,,0,0,0,,Dr. Fu The noodles are ready
+Dialogue: 0,00:04:32.41,00:04:33.85,Default,,0,0,0,,Ah, so fast
+Dialogue: 0,00:04:34.41,00:04:38.27,Default,,0,0,0,,Dr. Fu, I made your favorite ingredient oil noodles
+Dialogue: 0,00:04:38.29,00:04:39.81,Default,,0,0,0,,Come and do it now
+Dialogue: 0,00:04:41.81,00:04:44.81,Default,,0,0,0,,Don’t eat it, don’t want to eat it, it’s too oily
+Dialogue: 0,00:04:46.77,00:04:48.25,Default,,0,0,0,,What do you want to eat
+Dialogue: 0,00:04:50.21,00:04:52.89,Default,,0,0,0,,I’m not hungry, I’ll go out
+Dialogue: 0,00:04:53.53,00:04:55.81,Default,,0,0,0,,Dr. Fu Where are you going
+Dialogue: 0,00:04:56.85,00:04:58.57,Default,,0,0,0,,I’ll go with you
+Dialogue: 0,00:05:05.73,00:05:08.57,Default,,0,0,0,,Alas, he still caught up with
+Dialogue: 0,00:05:08.85,00:05:10.77,Default,,0,0,0,,Have to find a way to leave
+Dialogue: 0,00:05:16.97,00:05:18.29,Default,,0,0,0,,Do you want to do
+Dialogue: 0,00:05:21.53,00:05:25.03,Default,,0,0,0,,Say one day the sewer is in a bad mood
+Dialogue: 0,00:05:25.05,00:05:28.69,Default,,0,0,0,,It said it couldn’t figure it out, so the sewer was blocked
+Dialogue: 0,00:05:33.57,00:05:34.49,Default,,0,0,0,,What’s up
+Dialogue: 0,00:05:35.13,00:05:36.33,Default,,0,0,0,,Is it funny
+Dialogue: 0,00:05:38.05,00:05:38.89,Default,,0,0,0,,Not funny
+Dialogue: 0,00:05:40.77,00:05:42.53,Default,,0,0,0,,I have other...
+Dialogue: 0,00:05:46.73,00:05:49.49,Default,,0,0,0,,I’ve read all this book "Joker Collection"
+Dialogue: 0,00:05:50.09,00:05:53.25,Default,,0,0,0,,Why don’t you buy a new joke book and listen to it to me
+Dialogue: 0,00:05:54.49,00:05:55.97,Default,,0,0,0,,OK Dr. Fu
+Dialogue: 0,00:05:56.21,00:05:58.81,Default,,0,0,0,,You wait, I’ll go back
+Dialogue: 0,00:06:11.13,00:06:12.69,Default,,0,0,0,,There are fragments of elephant star stones nearby
+Dialogue: 0,00:06:14.69,00:06:18.41,Default,,0,0,0,,Dr. Fu I bought "100,001 Jokes"
+Dialogue: 0,00:06:19.01,00:06:20.01,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:20.77,00:06:21.81,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:22.65,00:06:23.61,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:27.53,00:06:28.61,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:30.85,00:06:31.97,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:32.81,00:06:35.17,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:06:42.41,00:06:43.53,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:06:45.49,00:06:47.29,Default,,0,0,0,,Ah...Oh
+Dialogue: 0,00:06:50.33,00:06:53.17,Default,,0,0,0,,Dr. Fu, don’t leave me
+Dialogue: 0,00:06:54.45,00:06:57.05,Default,,0,0,0,,It’s going to crack...
+Dialogue: 0,00:06:57.13,00:07:00.29,Default,,0,0,0,,Dr. Fu, I won’t let go this time
+Dialogue: 0,00:07:00.93,00:07:03.17,Default,,0,0,0,,You can’t leave my video
+Dialogue: 0,00:07:03.33,00:07:06.09,Default,,0,0,0,,What, please let me go
+Dialogue: 0,00:07:10.53,00:07:12.17,Default,,0,0,0,,Let me go
+Dialogue: 0,00:07:12.97,00:07:13.81,Default,,0,0,0,,It’s Oli
+Dialogue: 0,00:07:14.37,00:07:16.73,Default,,0,0,0,,That person looks so familiar
+Dialogue: 0,00:07:16.93,00:07:19.05,Default,,0,0,0,,I seem to have seen it somewhere
+Dialogue: 0,00:07:25.85,00:07:27.97,Default,,0,0,0,,I remembered that he is Dr. Fu
+Dialogue: 0,00:07:28.25,00:07:28.73,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:28.89,00:07:31.53,Default,,0,0,0,,Didn’t the village chief say that Dr. Fu is no longer alive?
+Dialogue: 0,00:07:32.93,00:07:33.65,Default,,0,0,0,,Oli
+Dialogue: 0,00:07:34.65,00:07:35.49,Default,,0,0,0,,Oli
+Dialogue: 0,00:07:40.49,00:07:41.57,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:07:45.81,00:07:48.21,Default,,0,0,0,,what? You saw Lao Fu
+Dialogue: 0,00:07:48.97,00:07:51.21,Default,,0,0,0,,Yes, it’s on the street
+Dialogue: 0,00:07:51.61,00:07:53.93,Default,,0,0,0,,I saw Oli and Dr. Fu together
+Dialogue: 0,00:07:54.77,00:07:58.37,Default,,0,0,0,,This is impossible. The report must be correct
+Dialogue: 0,00:07:58.49,00:08:00.25,Default,,0,0,0,,Are you dazzled
+Dialogue: 0,00:08:05.89,00:08:07.73,Default,,0,0,0,,There are fragments of elephant star stones nearby
+Dialogue: 0,00:08:09.45,00:08:13.25,Default,,0,0,0,,It’s hard...it’s hard...that...that Dr. Fu is fake
+Dialogue: 0,00:08:15.13,00:08:16.89,Default,,0,0,0,,I’ll go to Dr. Fu’s house to see it right away
+Dialogue: 0,00:08:21.29,00:08:22.85,Default,,0,0,0,,I don’t know if they’re back
+Dialogue: 0,00:08:23.33,00:08:24.33,Default,,0,0,0,,The door is fine
+Dialogue: 0,00:08:38.53,00:08:40.45,Default,,0,0,0,,When did the hole be empty here
+Dialogue: 0,00:08:44.13,00:08:47.09,Default,,0,0,0,,How did it fall out? Only half of it is left
+Dialogue: 0,00:08:47.33,00:08:49.77,Default,,0,0,0,,If you don’t have to find them soon
+Dialogue: 0,00:08:58.97,00:09:01.53,Default,,0,0,0,,I’ve finally taken down that clingy robot
+Dialogue: 0,00:09:08.33,00:09:10.93,Default,,0,0,0,,Haven’t you bought a new joke book?
+Dialogue: 0,00:09:11.09,00:09:12.73,Default,,0,0,0,,Let me listen to it
+Dialogue: 0,00:09:15.09,00:09:19.41,Default,,0,0,0,,One day, I went swimming with beef balls and suddenly got cramps
+Dialogue: 0,00:09:19.61,00:09:21.53,Default,,0,0,0,,It turned into beef tendon pills
+Dialogue: 0,00:09:23.49,00:09:24.29,Default,,0,0,0,,Have heard
+Dialogue: 0,00:09:26.65,00:09:28.73,Default,,0,0,0,,One day I was walking on the road
+Dialogue: 0,00:09:28.89,00:09:31.05,Default,,0,0,0,,As I walked, I felt sour in my feet
+Dialogue: 0,00:09:31.29,00:09:35.61,Default,,0,0,0,,When I looked down, I found that I had stepped on a lemon
+Dialogue: 0,00:09:36.21,00:09:37.49,Default,,0,0,0,,I heard it too
+Dialogue: 0,00:09:53.69,00:09:56.21,Default,,0,0,0,,You go buy another new joke book
+Dialogue: 0,00:09:57.09,00:09:59.25,Default,,0,0,0,,I’m waiting for you here
+Dialogue: 0,00:10:00.53,00:10:01.45,Default,,0,0,0,,But…
+Dialogue: 0,00:10:01.81,00:10:04.53,Default,,0,0,0,,Don’t worry, I won’t go anywhere
+Dialogue: 0,00:10:18.57,00:10:21.13,Default,,0,0,0,,Dr. Fu, please wait for me here
+Dialogue: 0,00:10:25.69,00:10:28.57,Default,,0,0,0,,Don’t come out, I’ll come back soon
+Dialogue: 0,00:10:28.81,00:10:30.65,Default,,0,0,0,,OK I’ll wait for you
+Dialogue: 0,00:10:35.05,00:10:37.09,Default,,0,0,0,,Haha, that’s it
+Dialogue: 0,00:10:42.89,00:10:44.69,Default,,0,0,0,,There’s a little energy
+Dialogue: 0,00:10:45.41,00:10:47.35,Default,,0,0,0,,I’ll suck the entire building
+Dialogue: 0,00:10:47.37,00:10:49.61,Default,,0,0,0,,Don’t be afraid of that robot
+Dialogue: 0,00:10:50.57,00:10:52.17,Default,,0,0,0,,There are fragments of elephant star stones nearby
+Dialogue: 0,00:10:52.73,00:10:53.41,Default,,0,0,0,,Where to
+Dialogue: 0,00:10:57.89,00:10:59.57,Default,,0,0,0,,Fu…Dr.
+Dialogue: 0,00:11:03.61,00:11:05.77,Default,,0,0,0,,Is it really you?
+Dialogue: 0,00:11:08.73,00:11:10.01,Default,,0,0,0,,You’re indeed fake
+Dialogue: 0,00:11:10.65,00:11:12.57,Default,,0,0,0,,What exactly did you change
+Dialogue: 0,00:11:16.09,00:11:17.09,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:11:17.53,00:11:18.61,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:11:19.21,00:11:20.33,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:11:25.57,00:11:26.73,Default,,0,0,0,,Walk open
+Dialogue: 0,00:11:27.97,00:11:30.33,Default,,0,0,0,,Don’t hinder me from absorbing soil energy
+Dialogue: 0,00:11:30.81,00:11:32.49,Default,,0,0,0,,Gravity War
+Dialogue: 0,00:11:56.65,00:11:57.57,Default,,0,0,0,,soil?
+Dialogue: 0,00:12:00.21,00:12:02.49,Default,,0,0,0,,Eat me a stew
+Dialogue: 0,00:12:17.49,00:12:20.39,Default,,0,0,0,,Don’t come over, help
+Dialogue: 0,00:12:20.41,00:12:21.85,Default,,0,0,0,,Dr. Fu
+Dialogue: 0,00:12:24.61,00:12:26.97,Default,,0,0,0,,Oli, save me
+Dialogue: 0,00:12:29.85,00:12:30.93,Default,,0,0,0,,stop

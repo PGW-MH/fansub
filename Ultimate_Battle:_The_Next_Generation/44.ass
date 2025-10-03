@@ -1,0 +1,262 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.01,00:00:21.81,Default,,0,0,0,,Doctor Tie
+Dialogue: 0,00:00:22.01,00:00:24.05,Default,,0,0,0,,The museum’s transmitter has been installed
+Dialogue: 0,00:00:26.69,00:00:29.17,Default,,0,0,0,,Very good Annie, let’s continue the mission
+Dialogue: 0,00:00:29.77,00:00:30.33,Default,,0,0,0,,yes
+Dialogue: 0,00:00:35.37,00:00:37.29,Default,,0,0,0,,You’re not a robot
+Dialogue: 0,00:00:37.57,00:00:40.95,Default,,0,0,0,,You will be happy, angry, and hurt
+Dialogue: 0,00:00:40.97,00:00:42.67,Default,,0,0,0,,You are my Wolnie
+Dialogue: 0,00:00:42.69,00:00:44.65,Default,,0,0,0,,A lovely wolf
+Dialogue: 0,00:00:46.05,00:00:46.93,Default,,0,0,0,,Why…
+Dialogue: 0,00:00:48.65,00:00:50.73,Default,,0,0,0,,Why do you always feel this weird feeling
+Dialogue: 0,00:00:51.93,00:00:53.77,Default,,0,0,0,,Why do I always think of him
+Dialogue: 0,00:00:54.21,00:00:57.09,Default,,0,0,0,,Red, please ask someone to save us
+Dialogue: 0,00:01:01.89,00:01:02.81,Default,,0,0,0,,Don’t worry about them
+Dialogue: 0,00:01:03.09,00:01:04.45,Default,,0,0,0,,I just need to perform the mission
+Dialogue: 0,00:01:09.05,00:01:11.65,Default,,0,0,0,,Oops, the door can’t be opened
+Dialogue: 0,00:01:11.77,00:01:15.75,Default,,0,0,0,,Don’t worry, we will definitely be able to go out. Don’t worry...
+Dialogue: 0,00:01:15.77,00:01:18.35,Default,,0,0,0,,Sorry, I didn’t let you go out first
+Dialogue: 0,00:01:18.37,00:01:19.17,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:01:19.85,00:01:22.03,Default,,0,0,0,,If it’s my family
+Dialogue: 0,00:01:22.05,00:01:24.69,Default,,0,0,0,,I’ll want to let her out first, too.
+Dialogue: 0,00:01:26.89,00:01:30.69,Default,,0,0,0,,Let’s talk about Weslie…Today is your birthday
+Dialogue: 0,00:01:30.77,00:01:34.41,Default,,0,0,0,,Is it...the eyelids are so heavy...
+Dialogue: 0,00:01:34.89,00:01:37.93,Default,,0,0,0,,Weslie Don’t close your eyes
+Dialogue: 0,00:01:39.01,00:01:40.85,Default,,0,0,0,,I’m asleep and can’t wake up
+Dialogue: 0,00:01:41.09,00:01:42.37,Default,,0,0,0,,Weslie
+Dialogue: 0,00:01:43.25,00:01:43.81,Default,,0,0,0,,Um…
+Dialogue: 0,00:01:47.53,00:01:49.77,Default,,0,0,0,,I’ll open the door now
+Dialogue: 0,00:01:54.93,00:01:57.57,Default,,0,0,0,,Open the door Open the door
+Dialogue: 0,00:01:59.13,00:02:01.57,Default,,0,0,0,,Quick... Open the door...
+Dialogue: 0,00:02:02.81,00:02:03.85,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:02:06.53,00:02:08.69,Default,,0,0,0,,No, don’t close your eyes
+Dialogue: 0,00:02:09.09,00:02:10.77,Default,,0,0,0,,I’m so cool
+Dialogue: 0,00:02:11.45,00:02:14.33,Default,,0,0,0,,Weslie Weslie Weslie Weslie...
+Dialogue: 0,00:02:25.33,00:02:26.91,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:26.93,00:02:28.91,Default,,0,0,0,,It’s already morning...
+Dialogue: 0,00:02:28.93,00:02:31.09,Default,,0,0,0,,We actually waited until we fell asleep...
+Dialogue: 0,00:02:32.25,00:02:34.45,Default,,0,0,0,,Yes, you are the only one who can sleep
+Dialogue: 0,00:02:39.53,00:02:41.97,Default,,0,0,0,,Hehe, hehe, are they too rude
+Dialogue: 0,00:02:42.77,00:02:45.61,Default,,0,0,0,,Weslie never came back all night
+Dialogue: 0,00:02:46.05,00:02:47.75,Default,,0,0,0,,Didn’t call a single
+Dialogue: 0,00:02:47.77,00:02:49.49,Default,,0,0,0,,Nothing will happen
+Dialogue: 0,00:02:51.25,00:02:54.05,Default,,0,0,0,,It’s Weslie coming to the phone
+Dialogue: 0,00:02:54.57,00:02:56.05,Default,,0,0,0,,It’s a little gray
+Dialogue: 0,00:02:58.57,00:03:01.61,Default,,0,0,0,,Sister Tibbie is my dad there with you?
+Dialogue: 0,00:03:02.65,00:03:04.93,Default,,0,0,0,,No, he didn’t come here
+Dialogue: 0,00:03:05.17,00:03:08.05,Default,,0,0,0,,He has never come back since he went out yesterday
+Dialogue: 0,00:03:08.73,00:03:11.47,Default,,0,0,0,,Weslie is also true, is there something wrong with them?
+Dialogue: 0,00:03:11.49,00:03:15.01,Default,,0,0,0,,Their gloves don’t have a signal and can’t contact you
+Dialogue: 0,00:03:15.53,00:03:17.37,Default,,0,0,0,,Everyone, go outside and look for them
+Dialogue: 0,00:03:17.65,00:03:18.49,Default,,0,0,0,,good
+Dialogue: 0,00:03:19.45,00:03:20.61,Default,,0,0,0,,Let me help you together, too
+Dialogue: 0,00:03:21.25,00:03:21.85,Default,,0,0,0,,Um
+Dialogue: 0,00:03:22.73,00:03:24.63,Default,,0,0,0,,Village Chief, please try again
+Dialogue: 0,00:03:24.65,00:03:26.97,Default,,0,0,0,,Is there any way to contact them
+Dialogue: 0,00:03:27.93,00:03:29.87,Default,,0,0,0,,Notify us if there is any news
+Dialogue: 0,00:03:29.89,00:03:32.17,Default,,0,0,0,,I know, you’re careful
+Dialogue: 0,00:03:45.65,00:03:49.13,Default,,0,0,0,,Could you please see these two people in the photo?
+Dialogue: 0,00:03:51.85,00:03:52.45,Default,,0,0,0,,no
+Dialogue: 0,00:03:53.41,00:03:55.73,Default,,0,0,0,,Huh? Aren’t you the Jonie?
+Dialogue: 0,00:03:55.93,00:03:58.69,Default,,0,0,0,,I like yours very much. Can you help me sign a name?
+Dialogue: 0,00:04:00.21,00:04:01.95,Default,,0,0,0,,My phone number is below
+Dialogue: 0,00:04:01.97,00:04:04.45,Default,,0,0,0,,If you see those two people bother me to contact me
+Dialogue: 0,00:04:04.89,00:04:06.05,Default,,0,0,0,,OK Thank you
+Dialogue: 0,00:04:06.85,00:04:07.81,Default,,0,0,0,,Jonie
+Dialogue: 0,00:04:08.69,00:04:10.37,Default,,0,0,0,,How did you find it?
+Dialogue: 0,00:04:10.93,00:04:14.11,Default,,0,0,0,,No, I’m already in the city where I can play ads
+Dialogue: 0,00:04:14.13,00:04:15.81,Default,,0,0,0,,All have been put into personal trouble
+Dialogue: 0,00:04:17.77,00:04:20.57,Default,,0,0,0,,But no one has contacted me now
+Dialogue: 0,00:04:21.37,00:04:22.85,Default,,0,0,0,,Let’s look for it again
+Dialogue: 0,00:04:23.25,00:04:23.81,Default,,0,0,0,,Um
+Dialogue: 0,00:04:27.97,00:04:30.21,Default,,0,0,0,,Have you seen them?
+Dialogue: 0,00:04:30.37,00:04:31.13,Default,,0,0,0,,no
+Dialogue: 0,00:04:31.77,00:04:32.91,Default,,0,0,0,,Have you seen them?
+Dialogue: 0,00:04:32.93,00:04:33.77,Default,,0,0,0,,no
+Dialogue: 0,00:04:34.49,00:04:35.99,Default,,0,0,0,,Have you seen them?
+Dialogue: 0,00:04:36.01,00:04:37.49,Default,,0,0,0,,belch…
+Dialogue: 0,00:04:37.93,00:04:40.45,Default,,0,0,0,,Please ask if you have seen the goat and wolf in the photo
+Dialogue: 0,00:04:41.81,00:04:42.65,Default,,0,0,0,,no
+Dialogue: 0,00:04:46.29,00:04:48.13,Default,,0,0,0,,Are you not Master Yangyang?
+Dialogue: 0,00:04:48.57,00:04:49.85,Default,,0,0,0,,The Master of the Goat
+Dialogue: 0,00:04:50.37,00:04:51.11,Default,,0,0,0,,The Master of the Goat
+Dialogue: 0,00:04:51.13,00:04:53.38,Default,,0,0,0,,Please give us some new dishes
+Dialogue: 0,00:04:53.41,00:04:53.85,Default,,0,0,0,,no
+Dialogue: 0,00:04:54.77,00:04:56.41,Default,,0,0,0,,Wilie runs quickly...
+Dialogue: 0,00:04:57.89,00:04:59.13,Default,,0,0,0,,Master…
+Dialogue: 0,00:05:06.05,00:05:07.05,Default,,0,0,0,,You go out with me
+Dialogue: 0,00:05:09.37,00:05:11.69,Default,,0,0,0,,Please ask anyone in the photo
+Dialogue: 0,00:05:13.13,00:05:16.67,Default,,0,0,0,,I said that you can’t find someone in the museum...
+Dialogue: 0,00:05:16.69,00:05:19.29,Default,,0,0,0,,But we are really anxious to find them
+Dialogue: 0,00:05:20.09,00:05:22.53,Default,,0,0,0,,Don’t let it go, go
+Dialogue: 0,00:05:29.85,00:05:31.23,Default,,0,0,0,,Have been searching for a day
+Dialogue: 0,00:05:31.25,00:05:32.81,Default,,0,0,0,,Still nothing was found
+Dialogue: 0,00:05:33.21,00:05:34.09,Default,,0,0,0,,Sparky
+Dialogue: 0,00:05:34.41,00:05:37.17,Default,,0,0,0,,Ah, maybe they are looking for us there too
+Dialogue: 0,00:05:37.61,00:05:40.69,Default,,0,0,0,,Then maybe I’m tired and I’m tired
+Dialogue: 0,00:05:41.61,00:05:44.17,Default,,0,0,0,,Maybe...where to rest
+Dialogue: 0,00:05:47.45,00:05:50.87,Default,,0,0,0,,If...if they were like they were 15 years ago
+Dialogue: 0,00:05:50.89,00:05:52.45,Default,,0,0,0,,It disappeared suddenly again
+Dialogue: 0,00:05:58.13,00:05:58.89,Default,,0,0,0,,It won’t
+Dialogue: 0,00:05:59.73,00:06:02.17,Default,,0,0,0,,It’s not dark yet, we can’t give up
+Dialogue: 0,00:06:03.09,00:06:06.81,Default,,0,0,0,,That’s right, we must have found something missing
+Dialogue: 0,00:06:07.81,00:06:09.69,Default,,0,0,0,,Let’s look for it again
+Dialogue: 0,00:06:10.17,00:06:10.85,Default,,0,0,0,,good
+Dialogue: 0,00:06:14.41,00:06:16.05,Default,,0,0,0,,How to warm up
+Dialogue: 0,00:06:17.05,00:06:20.61,Default,,0,0,0,,My wolf wool plus your wool is the best cold protection
+Dialogue: 0,00:06:22.49,00:06:23.73,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:06:29.29,00:06:31.97,Default,,0,0,0,,Oh, I can’t run anymore
+Dialogue: 0,00:06:32.81,00:06:36.45,Default,,0,0,0,,Can we finally make popsicles here?
+Dialogue: 0,00:06:36.97,00:06:40.17,Default,,0,0,0,,Don’t worry, isn’t Wolnie going out?
+Dialogue: 0,00:06:40.53,00:06:42.85,Default,,0,0,0,,She’ll find someone to save us
+Dialogue: 0,00:06:44.17,00:06:47.53,Default,,0,0,0,,Do you think Red Red really asks someone to save us?
+Dialogue: 0,00:06:47.81,00:06:49.45,Default,,0,0,0,,I believe red is too wolf
+Dialogue: 0,00:06:49.97,00:06:53.45,Default,,0,0,0,,You have such deep feelings, you should believe her even more
+Dialogue: 0,00:06:54.09,00:06:55.17,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:06:56.41,00:06:57.73,Default,,0,0,0,,Now I’ll give it to you
+Dialogue: 0,00:06:58.65,00:06:59.53,Default,,0,0,0,,What to do
+Dialogue: 0,00:07:00.33,00:07:02.31,Default,,0,0,0,,Not every time we are together
+Dialogue: 0,00:07:02.33,00:07:04.45,Default,,0,0,0,,Do you want to bite me?
+Dialogue: 0,00:07:05.05,00:07:07.11,Default,,0,0,0,,How long ago has it been
+Dialogue: 0,00:07:07.13,00:07:08.93,Default,,0,0,0,,I’m vegetarian now
+Dialogue: 0,00:07:09.21,00:07:12.65,Default,,0,0,0,,But everything seems to be what happened yesterday
+Dialogue: 0,00:07:13.25,00:07:14.37,Default,,0,0,0,,Remember
+Dialogue: 0,00:07:14.45,00:07:16.47,Default,,0,0,0,,At that time, every time you came to catch us
+Dialogue: 0,00:07:16.49,00:07:18.77,Default,,0,0,0,,In the end, we ran away
+Dialogue: 0,00:07:19.25,00:07:22.05,Default,,0,0,0,,You’re always worried
+Dialogue: 0,00:07:22.93,00:07:23.89,Default,,0,0,0,,Live
+Dialogue: 0,00:07:24.53,00:07:29.69,Default,,0,0,0,,- Ha ha ha ha…
+- Ha ha ha ha…
+Dialogue: 0,00:07:42.49,00:07:45.77,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:07:46.81,00:07:49.01,Default,,0,0,0,,They are called Weslie and Wolffy
+Dialogue: 0,00:07:49.17,00:07:50.39,Default,,0,0,0,,Please ask if you have seen them...
+Dialogue: 0,00:07:50.41,00:07:50.79,Default,,0,0,0,,no
+Dialogue: 0,00:07:50.81,00:07:52.55,Default,,0,0,0,,They are called Weslie and Wolffy
+no
+Dialogue: 0,00:07:52.57,00:07:53.05,Default,,0,0,0,,Hello
+Dialogue: 0,00:07:53.65,00:07:55.85,Default,,0,0,0,,It’s hard to tell that they’re still in the insurance warehouse
+Dialogue: 0,00:07:56.69,00:07:59.53,Default,,0,0,0,,Red, please ask someone to save us
+Dialogue: 0,00:08:02.09,00:08:03.57,Default,,0,0,0,,Why did I remember him again
+Dialogue: 0,00:08:07.29,00:08:09.29,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:08:09.57,00:08:10.37,Default,,0,0,0,,no
+Dialogue: 0,00:08:12.33,00:08:14.53,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:08:14.77,00:08:15.41,Default,,0,0,0,,no
+Dialogue: 0,00:08:20.53,00:08:22.73,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:08:25.93,00:08:27.35,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:08:27.37,00:08:28.07,Default,,0,0,0,,no
+Dialogue: 0,00:08:28.09,00:08:29.31,Default,,0,0,0,,Please... Please...
+Dialogue: 0,00:08:29.33,00:08:31.37,Default,,0,0,0,,no
+Dialogue: 0,00:08:32.01,00:08:34.97,Default,,0,0,0,,Why...is it...
+Dialogue: 0,00:08:35.41,00:08:36.59,Default,,0,0,0,,Please ask if there is any...
+Dialogue: 0,00:08:36.61,00:08:37.49,Default,,0,0,0,,No, no
+Dialogue: 0,00:08:37.85,00:08:38.41,Default,,0,0,0,,no
+Dialogue: 0,00:08:41.25,00:08:41.87,Default,,0,0,0,,Hello...
+Dialogue: 0,00:08:41.89,00:08:42.65,Default,,0,0,0,,no
+Dialogue: 0,00:08:42.97,00:08:44.57,Default,,0,0,0,,Please ask if you have seen them
+Dialogue: 0,00:08:44.85,00:08:45.49,Default,,0,0,0,,no
+Dialogue: 0,00:08:47.33,00:08:47.75,Default,,0,0,0,,no
+Dialogue: 0,00:08:47.77,00:08:50.19,Default,,0,0,0,,- Please...have you seen them
+- Please...have you seen them
+Dialogue: 0,00:08:50.21,00:08:50.55,Default,,0,0,0,,no
+Dialogue: 0,00:08:50.57,00:08:51.65,Default,,0,0,0,,- Haven’t seen it
+- Never seen
+Dialogue: 0,00:08:51.89,00:08:52.41,Default,,0,0,0,,no
+Dialogue: 0,00:08:53.01,00:08:53.61,Default,,0,0,0,,no
+Dialogue: 0,00:08:53.97,00:08:55.25,Default,,0,0,0,,no
+Dialogue: 0,00:08:56.73,00:08:57.81,Default,,0,0,0,,dad…
+Dialogue: 0,00:08:58.41,00:09:00.33,Default,,0,0,0,,Can’t find them anywhere
+Dialogue: 0,00:09:00.69,00:09:02.69,Default,,0,0,0,,It won’t disappear like that
+Dialogue: 0,00:09:03.13,00:09:04.25,Default,,0,0,0,,What are you talking about nonsense
+Dialogue: 0,00:09:04.33,00:09:06.13,Default,,0,0,0,,If you can’t find it, please continue searching
+Dialogue: 0,00:09:06.41,00:09:07.77,Default,,0,0,0,,Let’s be calm first
+Dialogue: 0,00:09:10.17,00:09:13.09,Default,,0,0,0,,Weslie Where did you go
+Dialogue: 0,00:09:14.37,00:09:15.33,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:09:17.61,00:09:19.45,Default,,0,0,0,,We can’t give up yet
+Dialogue: 0,00:09:19.97,00:09:22.49,Default,,0,0,0,,It’s impossible for them to disappear
+Dialogue: 0,00:09:22.93,00:09:24.49,Default,,0,0,0,,We will definitely find them
+Dialogue: 0,00:09:24.73,00:09:26.89,Default,,0,0,0,,Whether it was 15 years ago or 15 years ago
+Dialogue: 0,00:09:31.53,00:09:32.41,Default,,0,0,0,,It’s a meteor...
+Dialogue: 0,00:09:35.09,00:09:38.81,Default,,0,0,0,,Please tell us where they are
+Dialogue: 0,00:09:41.61,00:09:44.29,Default,,0,0,0,,It seems that something is really flying here
+Dialogue: 0,00:09:45.13,00:09:47.81,Default,,0,0,0,,Yes, flow... meteor
+Dialogue: 0,00:09:49.77,00:09:51.17,Default,,0,0,0,,There seems to be words on it
+Dialogue: 0,00:09:57.29,00:09:58.09,Default,,0,0,0,,Very cold...
+Dialogue: 0,00:10:00.81,00:10:03.91,Default,,0,0,0,,My feet don’t seem to feel...
+Dialogue: 0,00:10:03.93,00:10:06.29,Default,,0,0,0,,Everyone has been worried for 15 years
+Dialogue: 0,00:10:06.53,00:10:09.37,Default,,0,0,0,,This time we want to make everyone feel sad again
+Dialogue: 0,00:10:10.17,00:10:11.93,Default,,0,0,0,,I miss them
+Dialogue: 0,00:10:16.13,00:10:18.85,Default,,0,0,0,,Weslie Weslie Weslie
+Dialogue: 0,00:10:19.01,00:10:19.69,Default,,0,0,0,,dad
+Dialogue: 0,00:10:20.89,00:10:21.59,Default,,0,0,0,,Little River
+Dialogue: 0,00:10:21.61,00:10:23.43,Default,,0,0,0,,- Come and open the door quickly
+- Why do I seem to hear it
+Dialogue: 0,00:10:23.45,00:10:25.07,Default,,0,0,0,,- Here is a low temperature warehouse
+- Everyone’s voice
+Dialogue: 0,00:10:25.09,00:10:26.63,Default,,0,0,0,,- Why would someone come in if it’s cold
+- Me too
+Dialogue: 0,00:10:26.65,00:10:28.71,Default,,0,0,0,,It seems that we have had phantoms
+Dialogue: 0,00:10:28.73,00:10:29.57,Default,,0,0,0,,It seems to be
+Dialogue: 0,00:10:30.13,00:10:31.77,Default,,0,0,0,,You’re quick to move
+Dialogue: 0,00:10:32.13,00:10:33.81,Default,,0,0,0,,Am I looking for a key
+Dialogue: 0,00:10:35.97,00:10:39.15,Default,,0,0,0,,There are all collections inside, why does it have...
+Dialogue: 0,00:10:39.17,00:10:40.21,Default,,0,0,0,,Someone...
+Dialogue: 0,00:10:43.49,00:10:43.91,Default,,0,0,0,,dad
+Dialogue: 0,00:10:43.93,00:10:44.85,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:46.45,00:10:47.89,Default,,0,0,0,,Finally found you
+Dialogue: 0,00:10:48.93,00:10:49.53,Default,,0,0,0,,dad
+Dialogue: 0,00:10:51.61,00:10:54.05,Default,,0,0,0,,It seems that all the illusions appear
+Dialogue: 0,00:10:54.25,00:10:56.13,Default,,0,0,0,,Dad cheer up, I’m here
+Dialogue: 0,00:10:56.97,00:10:57.53,Default,,0,0,0,,dad…
+Dialogue: 0,00:10:59.21,00:11:01.17,Default,,0,0,0,,Oh, move them out first
+Dialogue: 0,00:11:01.89,00:11:03.73,Default,,0,0,0,,one two three…
+Dialogue: 0,00:11:04.37,00:11:05.69,Default,,0,0,0,,Be careful
+Dialogue: 0,00:11:06.21,00:11:07.33,Default,,0,0,0,,Yes Yes
+Dialogue: 0,00:11:13.45,00:11:14.93,Default,,0,0,0,,Well...this is...
+Dialogue: 0,00:11:16.45,00:11:16.93,Default,,0,0,0,,dad
+Dialogue: 0,00:11:17.77,00:11:18.85,Default,,0,0,0,,You’re awake
+Dialogue: 0,00:11:19.53,00:11:21.37,Default,,0,0,0,,You...have found us...
+Dialogue: 0,00:11:22.13,00:11:25.05,Default,,0,0,0,,I thought I would be stuck in it all the time
+Dialogue: 0,00:11:25.21,00:11:29.13,Default,,0,0,0,,Big Wolf We’re fine
+Dialogue: 0,00:11:31.77,00:11:34.22,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:11:34.25,00:11:37.41,Default,,0,0,0,,By the way you...how did you find us
+Dialogue: 0,00:11:37.65,00:11:40.17,Default,,0,0,0,,Of course I found you
+Dialogue: 0,00:11:40.61,00:11:43.63,Default,,0,0,0,,Yes, it’s all up to him to knock down a meteor
+Dialogue: 0,00:11:43.65,00:11:44.81,Default,,0,0,0,,I just found out about yours
+Dialogue: 0,00:11:45.25,00:11:46.13,Default,,0,0,0,,meteor?
+Dialogue: 0,00:11:46.73,00:11:47.59,Default,,0,0,0,,yes
+Dialogue: 0,00:11:47.61,00:11:48.83,Default,,0,0,0,,The paper wrapped in the stone
+Dialogue: 0,00:11:48.85,00:11:50.61,Default,,0,0,0,,Writing you in the warehouse
+Dialogue: 0,00:11:51.17,00:11:52.21,Default,,0,0,0,,Must be...
+Dialogue: 0,00:11:52.57,00:11:53.53,Default,,0,0,0,,Red
+Dialogue: 0,00:11:55.05,00:11:56.43,Default,,0,0,0,,My stomach is getting hungry...
+Dialogue: 0,00:11:56.45,00:11:58.01,Default,,0,0,0,,Don’t say that there are so many
+Dialogue: 0,00:11:58.81,00:11:59.83,Default,,0,0,0,,Let’s go back and eat quickly
+Dialogue: 0,00:11:59.85,00:12:02.45,Default,,0,0,0,,The birthday cake prepared for Weslie yesterday
+Dialogue: 0,00:12:02.65,00:12:03.71,Default,,0,0,0,,Paddi
+Dialogue: 0,00:12:03.73,00:12:05.65,Default,,0,0,0,,How did you tell the secret?
+Dialogue: 0,00:12:06.29,00:12:08.77,Default,,0,0,0,,It turns out that you have a birthday cake
+Dialogue: 0,00:12:08.97,00:12:11.09,Default,,0,0,0,,It was originally a surprise to you
+Dialogue: 0,00:12:11.73,00:12:14.37,Default,,0,0,0,,Anyway, Weslie’s birthday is also over
+Dialogue: 0,00:12:15.45,00:12:17.29,Default,,0,0,0,,Yes, it’s gone
+Dialogue: 0,00:12:18.81,00:12:21.83,Default,,0,0,0,,It’s okay. Just pass it after your birthday
+Dialogue: 0,00:12:21.85,00:12:23.43,Default,,0,0,0,,I can still show up here
+Dialogue: 0,00:12:23.45,00:12:25.13,Default,,0,0,0,,I can see all of you
+Dialogue: 0,00:12:25.41,00:12:27.73,Default,,0,0,0,,I’m very content and happy
+Dialogue: 0,00:12:28.01,00:12:29.51,Default,,0,0,0,,Let’s go back to the base soon
+Dialogue: 0,00:12:29.53,00:12:31.43,Default,,0,0,0,,Give Weslie birthday
+Dialogue: 0,00:12:31.45,00:12:32.77,Default,,0,0,0,,good

@@ -1,0 +1,193 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.02,00:00:21.30,Default,,0,0,0,,Fragments...
+Dialogue: 0,00:00:21.92,00:00:24.36,Default,,0,0,0,,Where will the Elephant Star Stone fragments be...
+Dialogue: 0,00:00:25.68,00:00:26.48,Default,,0,0,0,,oops
+Dialogue: 0,00:00:28.35,00:00:30.23,Default,,0,0,0,,Tibbie, you’re fine
+Dialogue: 0,00:00:30.81,00:00:33.21,Default,,0,0,0,,Are you looking for fragments of Elephant Star Stone nearby?
+Dialogue: 0,00:00:33.24,00:00:34.08,Default,,0,0,0,,yes
+Dialogue: 0,00:00:35.44,00:00:36.24,Default,,0,0,0,,What about my pen
+Dialogue: 0,00:00:36.88,00:00:37.88,Default,,0,0,0,,It’s that one
+Dialogue: 0,00:00:38.44,00:00:39.72,Default,,0,0,0,,Ah Yes
+Dialogue: 0,00:00:42.64,00:00:44.16,Default,,0,0,0,,Um? What’s it?
+Dialogue: 0,00:00:45.04,00:00:46.40,Default,,0,0,0,,That’s my pen
+Dialogue: 0,00:00:47.04,00:00:50.08,Default,,0,0,0,,Sorry, I didn’t mean it
+Dialogue: 0,00:00:51.64,00:00:53.24,Default,,0,0,0,,It doesn’t matter…
+Dialogue: 0,00:00:55.40,00:00:56.84,Default,,0,0,0,,Fortunately, I didn’t step on it
+Dialogue: 0,00:00:57.16,00:00:59.92,Default,,0,0,0,,Tibbie This pen must be very important
+Dialogue: 0,00:01:01.24,00:01:03.28,Default,,0,0,0,,This pen is the time when I became a reporter
+Dialogue: 0,00:01:03.68,00:01:05.12,Default,,0,0,0,,Everyone gave it to me
+Dialogue: 0,00:01:06.12,00:01:08.68,Default,,0,0,0,,Tibbie Congratulations on becoming a reporter
+Dialogue: 0,00:01:09.20,00:01:11.56,Default,,0,0,0,,Look at the gifts everyone in the Goat Village gives you
+Dialogue: 0,00:01:12.71,00:01:14.60,Default,,0,0,0,,I’ve given two copies
+Dialogue: 0,00:01:14.60,00:01:15.68,Default,,0,0,0,,I’ll do three
+Dialogue: 0,00:01:15.68,00:01:16.80,Default,,0,0,0,,I’m four
+Dialogue: 0,00:01:22.80,00:01:24.80,Default,,0,0,0,,What a beautiful steel pen
+Dialogue: 0,00:01:25.32,00:01:29.24,Default,,0,0,0,,I kept bringing it around when I was a reporter
+Dialogue: 0,00:01:29.60,00:01:31.48,Default,,0,0,0,,No wonder you cherish it so much
+Dialogue: 0,00:01:34.43,00:01:36.12,Default,,0,0,0,,It has accompanied me a lot
+Dialogue: 0,00:01:36.20,00:01:37.56,Default,,0,0,0,,I love it very much
+Dialogue: 0,00:01:39.00,00:01:40.52,Default,,0,0,0,,There is a reaction of the elephant star stone nearby
+Dialogue: 0,00:01:41.40,00:01:42.52,Default,,0,0,0,,Where is it
+Dialogue: 0,00:01:48.56,00:01:50.08,Default,,0,0,0,,That uncle just now
+Dialogue: 0,00:01:50.60,00:01:51.60,Default,,0,0,0,,Weslie
+Dialogue: 0,00:02:05.80,00:02:06.64,Default,,0,0,0,,There
+Dialogue: 0,00:02:08.12,00:02:09.28,Default,,0,0,0,,What’s up
+Dialogue: 0,00:02:09.28,00:02:10.88,Default,,0,0,0,,Can’t turn red lights
+Dialogue: 0,00:02:11.32,00:02:13.52,Default,,0,0,0,,It’s dangerous for you to run like this.
+Dialogue: 0,00:02:19.59,00:02:20.51,Default,,0,0,0,,sorry…
+Dialogue: 0,00:02:20.53,00:02:21.45,Default,,0,0,0,,Weslie
+Dialogue: 0,00:02:21.92,00:02:23.00,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:02:23.72,00:02:25.24,Default,,0,0,0,,Look forward to your brother
+Dialogue: 0,00:02:26.20,00:02:28.04,Default,,0,0,0,,OK I’m sorry
+Dialogue: 0,00:02:29.32,00:02:31.64,Default,,0,0,0,,Sorry, I was too anxious
+Dialogue: 0,00:02:31.64,00:02:33.04,Default,,0,0,0,,By the way that uncle...
+Dialogue: 0,00:02:34.40,00:02:35.68,Default,,0,0,0,,Not good He’s on the car
+Dialogue: 0,00:02:36.56,00:02:38.24,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:02:38.24,00:02:40.24,Default,,0,0,0,,Don’t worry, I have a way
+Dialogue: 0,00:02:56.96,00:02:59.63,Default,,0,0,0,,I know where he went
+Dialogue: 0,00:03:05.52,00:03:06.56,Default,,0,0,0,,Come on together
+Dialogue: 0,00:03:06.56,00:03:07.76,Default,,0,0,0,,This is a shared skateboard
+Dialogue: 0,00:03:08.36,00:03:09.96,Default,,0,0,0,,Can’t I borrow one?
+Dialogue: 0,00:03:09.96,00:03:12.16,Default,,0,0,0,,Your identity has been registered and cannot be borrowed
+Dialogue: 0,00:03:17.96,00:03:20.24,Default,,0,0,0,,How do you know where he is going
+Dialogue: 0,00:03:21.36,00:03:22.48,Default,,0,0,0,,Details
+Dialogue: 0,00:03:23.00,00:03:25.32,Default,,0,0,0,,He is wearing a work clothes and holding a tool box
+Dialogue: 0,00:03:25.32,00:03:26.56,Default,,0,0,0,,There is oil on the clothes
+Dialogue: 0,00:03:27.84,00:03:30.76,Default,,0,0,0,,It should be related to maintenance work
+Dialogue: 0,00:03:30.76,00:03:33.07,Default,,0,0,0,,He has a company logo on his car
+Dialogue: 0,00:03:33.07,00:03:35.16,Default,,0,0,0,,And the repair company of this brand around
+Dialogue: 0,00:03:35.16,00:03:37.60,Default,,0,0,0,,There are 4 companies in total
+Dialogue: 0,00:03:38.68,00:03:40.96,Default,,0,0,0,,And when the car just left
+Dialogue: 0,00:03:40.96,00:03:42.40,Default,,0,0,0,,This little flower fell
+Dialogue: 0,00:03:44.04,00:03:46.36,Default,,0,0,0,,This is a unique variety in the suburbs of the northeast
+Dialogue: 0,00:03:47.88,00:03:50.44,Default,,0,0,0,,So only this place meets the conditions
+Dialogue: 0,00:03:51.16,00:03:53.48,Default,,0,0,0,,Tibbie, you’re so terrible
+Dialogue: 0,00:03:53.72,00:03:56.04,Default,,0,0,0,,After all, I have been such a long reporter here
+Dialogue: 0,00:03:56.04,00:03:58.28,Default,,0,0,0,,Of course I am more familiar with the surrounding environment
+Dialogue: 0,00:04:00.92,00:04:01.96,Default,,0,0,0,,Have it
+Dialogue: 0,00:04:05.04,00:04:05.96,Default,,0,0,0,,No one on the car
+Dialogue: 0,00:04:07.07,00:04:07.96,Default,,0,0,0,,He’s there
+Dialogue: 0,00:04:09.24,00:04:10.68,Default,,0,0,0,,Uncle, please wait a moment
+Dialogue: 0,00:04:12.36,00:04:13.88,Default,,0,0,0,,Your box is dangerous
+Dialogue: 0,00:04:14.73,00:04:15.97,Default,,0,0,0,,danger?
+Dialogue: 0,00:04:32.52,00:04:33.76,Default,,0,0,0,,-Flashlight...
+-Flashlight...
+Dialogue: 0,00:04:36.60,00:04:39.16,Default,,0,0,0,,Did you report that I just stepped on the pen?
+Dialogue: 0,00:04:41.48,00:04:43.63,Default,,0,0,0,,-Sorry, I’ll pack you up
+-Sorry, I’ll pack you up
+Dialogue: 0,00:04:43.80,00:04:45.00,Default,,0,0,0,,Forget it
+Dialogue: 0,00:04:49.88,00:04:50.72,Default,,0,0,0,,What’s up
+Dialogue: 0,00:04:51.60,00:04:52.56,Default,,0,0,0,,What about my pen
+Dialogue: 0,00:04:53.56,00:04:55.92,Default,,0,0,0,,Did you accidentally fall off on the way?
+Dialogue: 0,00:04:56.48,00:04:57.80,Default,,0,0,0,,Go back and look for it first
+Dialogue: 0,00:05:06.12,00:05:07.28,Default,,0,0,0,,Where is it
+Dialogue: 0,00:05:21.72,00:05:22.56,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:05:23.40,00:05:24.60,Default,,0,0,0,,What’s up
+Dialogue: 0,00:05:25.68,00:05:27.20,Default,,0,0,0,,Tibbie You’ve changed
+Dialogue: 0,00:05:27.20,00:05:28.24,Default,,0,0,0,,ah?
+Dialogue: 0,00:05:28.44,00:05:30.04,Default,,0,0,0,,You used to be afraid of dirty things
+Dialogue: 0,00:05:30.16,00:05:32.12,Default,,0,0,0,,When encountering problems, what is often said is
+Dialogue: 0,00:05:32.12,00:05:34.04,Default,,0,0,0,,What to do? Weslie
+Dialogue: 0,00:05:34.04,00:05:35.80,Default,,0,0,0,,But now it’s different
+Dialogue: 0,00:05:36.00,00:05:38.24,Default,,0,0,0,,You are brave and good at observing
+Dialogue: 0,00:05:38.24,00:05:40.12,Default,,0,0,0,,Become a very bad beauty
+Dialogue: 0,00:05:43.20,00:05:44.60,Default,,0,0,0,,Let’s continue to search
+Dialogue: 0,00:05:47.04,00:05:48.80,Default,,0,0,0,,Alas, it’s really
+Dialogue: 0,00:05:48.80,00:05:52.48,Default,,0,0,0,,Do children nowadays need not go to work? Do they go to school?
+Dialogue: 0,00:05:55.88,00:05:57.96,Default,,0,0,0,,Huh? This is not...
+Dialogue: 0,00:05:57.96,00:05:59.80,Default,,0,0,0,,You stepped on me again
+Dialogue: 0,00:06:01.88,00:06:03.60,Default,,0,0,0,,Ah Help
+Dialogue: 0,00:06:04.52,00:06:05.76,Default,,0,0,0,,What happened
+Dialogue: 0,00:06:07.44,00:06:08.76,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:06:08.76,00:06:10.08,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:06:11.60,00:06:13.28,Default,,0,0,0,,Then...what is that
+Dialogue: 0,00:06:17.84,00:06:19.48,Default,,0,0,0,,What kind of monster is this
+Dialogue: 0,00:06:20.40,00:06:23.20,Default,,0,0,0,,You dirty me You dirty me...
+Dialogue: 0,00:06:43.88,00:06:44.92,Default,,0,0,0,,ah
+Dialogue: 0,00:06:47.68,00:06:49.04,Default,,0,0,0,,Go away quickly
+Dialogue: 0,00:07:08.72,00:07:11.08,Default,,0,0,0,,Save me...
+Dialogue: 0,00:07:11.20,00:07:11.88,Default,,0,0,0,,what?
+Dialogue: 0,00:07:50.47,00:07:51.56,Default,,0,0,0,,What’s up
+Dialogue: 0,00:07:57.76,00:07:59.24,Default,,0,0,0,,You’re fine, Tibbie
+Dialogue: 0,00:07:59.60,00:08:00.60,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:08:02.16,00:08:04.84,Default,,0,0,0,,I was careless just now. Sorry...
+Dialogue: 0,00:08:05.92,00:08:08.08,Default,,0,0,0,,I’ll keep giving you trouble today
+Dialogue: 0,00:08:08.08,00:08:09.60,Default,,0,0,0,,Boosting spirits to Weslie
+Dialogue: 0,00:08:09.88,00:08:11.35,Default,,0,0,0,,We haven’t yet
+Dialogue: 0,00:08:14.00,00:08:15.16,Default,,0,0,0,,You’re right
+Dialogue: 0,00:08:15.47,00:08:16.12,Default,,0,0,0,,Right
+Dialogue: 0,00:08:16.12,00:08:19.20,Default,,0,0,0,,Why did that monster suddenly stop attacking?
+Dialogue: 0,00:08:19.92,00:08:21.32,Default,,0,0,0,,When talking to it
+Dialogue: 0,00:08:21.32,00:08:22.80,Default,,0,0,0,,I have a familiar feeling
+Dialogue: 0,00:08:23.28,00:08:26.00,Default,,0,0,0,,It...it should be the one I don’t see
+Dialogue: 0,00:08:26.72,00:08:27.76,Default,,0,0,0,,what?
+Dialogue: 0,00:08:28.44,00:08:30.08,Default,,0,0,0,,Let’s chase
+Dialogue: 0,00:08:35.40,00:08:37.04,Default,,0,0,0,,Dirty me
+Dialogue: 0,00:08:37.60,00:08:40.68,Default,,0,0,0,,-You’ve dirtyed me
+-I’m sorry
+Dialogue: 0,00:08:40.68,00:08:43.08,Default,,0,0,0,,I didn’t mean it
+Dialogue: 0,00:08:56.44,00:08:57.60,Default,,0,0,0,,Come here
+Dialogue: 0,00:09:25.92,00:09:27.88,Default,,0,0,0,,Uncle, go to a safe place
+Dialogue: 0,00:09:31.44,00:09:33.76,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:40.52,00:09:41.72,Default,,0,0,0,,Stop it quickly
+Dialogue: 0,00:09:54.08,00:09:55.32,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:09:55.32,00:09:56.68,Default,,0,0,0,,Let me come
+Dialogue: 0,00:09:59.68,00:10:01.92,Default,,0,0,0,,I’m Tibbie, do you still remember me?
+Dialogue: 0,00:10:09.60,00:10:12.16,Default,,0,0,0,,It’s okay, look clean
+Dialogue: 0,00:10:12.16,00:10:13.92,Default,,0,0,0,,You’ve been with me for so long
+Dialogue: 0,00:10:13.92,00:10:16.52,Default,,0,0,0,,Have a look with me to witness such a special thing
+Dialogue: 0,00:10:16.52,00:10:19.35,Default,,0,0,0,,You’re like my best friend
+Dialogue: 0,00:10:19.80,00:10:22.32,Default,,0,0,0,,I’m sorry, you’ve been wronged
+Dialogue: 0,00:10:24.40,00:10:26.16,Default,,0,0,0,,Regardless of what you become
+Dialogue: 0,00:10:26.16,00:10:28.47,Default,,0,0,0,,I will always guard you with my heart
+Dialogue: 0,00:10:30.16,00:10:32.40,Default,,0,0,0,,You’re still willing to stay with me
+Dialogue: 0,00:10:32.40,00:10:34.96,Default,,0,0,0,,Have you seen more important moments together?
+Dialogue: 0,00:10:38.88,00:10:41.00,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:10:42.20,00:10:44.96,Default,,0,0,0,,Do you want to change back and stay with me?
+Dialogue: 0,00:10:45.68,00:10:46.92,Default,,0,0,0,,Um
+Dialogue: 0,00:10:57.64,00:10:59.00,Default,,0,0,0,,Success
+Dialogue: 0,00:11:07.44,00:11:10.92,Default,,0,0,0,,Great, there is another card collected
+Dialogue: 0,00:11:10.92,00:11:13.16,Default,,0,0,0,,It seems that it will be gathering soon
+Dialogue: 0,00:11:13.84,00:11:17.20,Default,,0,0,0,,We should have a big treat
+Dialogue: 0,00:11:17.20,00:11:18.92,Default,,0,0,0,,You know how to eat...
+Dialogue: 0,00:11:19.44,00:11:21.52,Default,,0,0,0,,In fact, this time it’s all up to Tibbie
+Dialogue: 0,00:11:21.60,00:11:23.52,Default,,0,0,0,,Only so conveniently collected
+Dialogue: 0,00:11:24.28,00:11:25.40,Default,,0,0,0,,It’s weird
+Dialogue: 0,00:11:25.40,00:11:29.32,Default,,0,0,0,,There is no problem with our reporter Tibbie
+Dialogue: 0,00:11:29.64,00:11:32.76,Default,,0,0,0,,Yes, how did Tibbie become a reporter
+Dialogue: 0,00:11:32.76,00:11:34.56,Default,,0,0,0,,Don’t you want to be a gardener?
+Dialogue: 0,00:11:35.44,00:11:36.72,Default,,0,0,0,,Um…
+Dialogue: 0,00:11:37.52,00:11:39.47,Default,,0,0,0,,I don’t remember
+Dialogue: 0,00:11:41.68,00:11:43.96,Default,,0,0,0,,Frontline news reporters report for you
+Dialogue: 0,00:11:45.42,00:11:46.58,Default,,0,0,0,,OK, the shot is finished
+Dialogue: 0,00:11:47.88,00:11:49.44,Default,,0,0,0,,Thank you for accepting the interview
+Dialogue: 0,00:11:49.56,00:11:51.40,Default,,0,0,0,,Could you please see this person?
+Dialogue: 0,00:11:54.88,00:11:56.64,Default,,0,0,0,,Just be a reporter
+Dialogue: 0,00:11:56.75,00:11:58.63,Default,,0,0,0,,I can visit everywhere
+Dialogue: 0,00:11:59.13,00:12:02.25,Default,,0,0,0,,This way, it is easy to inquire about Weslie.
+Dialogue: 0,00:12:04.50,00:12:06.70,Default,,0,0,0,,Whether it’s a gardener or a reporter
+Dialogue: 0,00:12:06.72,00:12:08.04,Default,,0,0,0,,I want to be a good person
+Dialogue: 0,00:12:08.44,00:12:11.33,Default,,0,0,0,,Tibbie You must be a very bad reporter
+Dialogue: 0,00:12:11.63,00:12:12.47,Default,,0,0,0,,right
+Dialogue: 0,00:12:13.15,00:12:16.47,Default,,0,0,0,,Thank you for sending me a letter and encourage me to hold on
+Dialogue: 0,00:12:17.45,00:12:19.89,Default,,0,0,0,,Is this not what I gave it to you?
+Dialogue: 0,00:12:20.13,00:12:22.10,Default,,0,0,0,,I only send snacks
+Dialogue: 0,00:12:22.17,00:12:24.85,Default,,0,0,0,,I haven’t seen this pen, either
+Dialogue: 0,00:12:24.93,00:12:26.29,Default,,0,0,0,,Not me, not
+Dialogue: 0,00:12:26.97,00:12:28.09,Default,,0,0,0,,what…
+Dialogue: 0,00:12:30.88,00:12:33.05,Default,,0,0,0,,…Who gave it to me

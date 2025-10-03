@@ -1,0 +1,234 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.00,00:00:24.12,Default,,0,0,0,,Look at mine...
+Dialogue: 0,00:00:25.28,00:00:26.24,Default,,0,0,0,,Paddi
+Dialogue: 0,00:00:31.08,00:00:36.64,Default,,0,0,0,,Uh...you are so doing standing
+Dialogue: 0,00:00:36.92,00:00:38.04,Default,,0,0,0,,It won’t be...
+Dialogue: 0,00:00:39.28,00:00:40.16,Default,,0,0,0,,careful
+Dialogue: 0,00:00:43.36,00:00:44.76,Default,,0,0,0,,Weslie Thank you...
+Dialogue: 0,00:00:46.56,00:00:47.48,Default,,0,0,0,,Thank you...
+Dialogue: 0,00:00:54.20,00:00:55.88,Default,,0,0,0,,Are you in trouble with Weslie?
+Dialogue: 0,00:00:58.08,00:01:00.80,Default,,0,0,0,,I have a plan that leads to the bottom
+Dialogue: 0,00:01:01.84,00:01:03.96,Default,,0,0,0,,But you need to cooperate
+Dialogue: 0,00:01:04.96,00:01:07.84,Default,,0,0,0,,You are not suspicious of scrubbing
+Dialogue: 0,00:01:08.68,00:01:09.40,Default,,0,0,0,,I don’t listen
+Dialogue: 0,00:01:12.40,00:01:15.28,Default,,0,0,0,,I’ve definitely not done a way to prove that I’m not a good person
+Dialogue: 0,00:01:15.44,00:01:18.36,Default,,0,0,0,,And it’s more doubtful to come to you at this time
+Dialogue: 0,00:01:20.92,00:01:24.01,Default,,0,0,0,,But since I came to the future world, I met everyone
+Dialogue: 0,00:01:24.04,00:01:27.24,Default,,0,0,0,,I know that everyone has been worried because of my disappearance
+Dialogue: 0,00:01:27.28,00:01:29.65,Default,,0,0,0,,I’m also very sorry I didn’t grow up with everyone
+Dialogue: 0,00:01:29.68,00:01:30.61,Default,,0,0,0,,Work hard together
+Dialogue: 0,00:01:30.64,00:01:32.73,Default,,0,0,0,,So I don’t want to miss you anymore
+Dialogue: 0,00:01:32.76,00:01:35.33,Default,,0,0,0,,Now I want to find the Elephant Star Stone
+Dialogue: 0,00:01:35.36,00:01:36.28,Default,,0,0,0,,Back to the past
+Dialogue: 0,00:01:41.68,00:01:42.48,Default,,0,0,0,,I…
+Dialogue: 0,00:01:44.36,00:01:47.96,Default,,0,0,0,,Then...what do I need to do
+Dialogue: 0,00:01:49.00,00:01:50.04,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:01:52.52,00:01:54.04,Default,,0,0,0,,The plan is like this
+Dialogue: 0,00:01:54.08,00:01:56.64,Default,,0,0,0,,First we need to prepare a fake card
+Dialogue: 0,00:01:56.88,00:02:00.16,Default,,0,0,0,,Then deliberately reveal the location it hides to everyone
+Dialogue: 0,00:02:00.52,00:02:03.76,Default,,0,0,0,,Then the bottom of the body will definitely steal that fake card
+Dialogue: 0,00:02:04.76,00:02:07.84,Default,,0,0,0,,- Oh, then we’ll catch him on the spot
+- right
+Dialogue: 0,00:02:08.92,00:02:10.64,Default,,0,0,0,,What if the real card is done
+Dialogue: 0,00:02:12.96,00:02:14.44,Default,,0,0,0,,You’d better keep it
+Dialogue: 0,00:02:14.84,00:02:17.36,Default,,0,0,0,,Only on the body is the safest
+Dialogue: 0,00:02:20.44,00:02:22.36,Default,,0,0,0,,What if you hide in your butt pocket
+Dialogue: 0,00:02:22.48,00:02:25.24,Default,,0,0,0,,No, no, I can’t afford it if I get hurt
+Dialogue: 0,00:02:26.72,00:02:27.80,Default,,0,0,0,,Hidden here
+Dialogue: 0,00:02:29.28,00:02:31.12,Default,,0,0,0,,That hurts my hair
+Dialogue: 0,00:02:32.40,00:02:33.73,Default,,0,0,0,,No, no
+Dialogue: 0,00:02:33.76,00:02:35.76,Default,,0,0,0,,Here no, no, no, no...
+Dialogue: 0,00:02:40.60,00:02:41.96,Default,,0,0,0,,Good morning
+Dialogue: 0,00:02:42.88,00:02:45.16,Default,,0,0,0,,Why did you get up so late?
+Dialogue: 0,00:02:45.88,00:02:48.80,Default,,0,0,0,,Sorry, I didn’t sleep well last night
+Dialogue: 0,00:02:49.92,00:02:51.72,Default,,0,0,0,,Is it because I worry about the card?
+Dialogue: 0,00:02:52.84,00:02:55.17,Default,,0,0,0,,Of course, don’t worry
+Dialogue: 0,00:02:55.20,00:02:56.29,Default,,0,0,0,,I’ve hidden it in one
+Dialogue: 0,00:02:56.32,00:02:58.24,Default,,0,0,0,,Nowhere can be found
+Dialogue: 0,00:02:58.44,00:03:00.00,Default,,0,0,0,,Hidden?
+Dialogue: 0,00:03:00.84,00:03:02.84,Default,,0,0,0,,Are you sure the hidden place is safe?
+Dialogue: 0,00:03:03.36,00:03:05.60,Default,,0,0,0,,Don’t worry, it’s absolutely safe
+Dialogue: 0,00:03:06.12,00:03:08.49,Default,,0,0,0,,I feel so uncomfortable on the top of the card
+Dialogue: 0,00:03:08.52,00:03:10.16,Default,,0,0,0,,Haven’t had a good night’s sleep
+Dialogue: 0,00:03:10.40,00:03:12.56,Default,,0,0,0,,This...you won’t hide in...
+Dialogue: 0,00:03:13.32,00:03:16.08,Default,,0,0,0,,I think you’ll hide it if you change another place.
+Dialogue: 0,00:03:16.64,00:03:19.97,Default,,0,0,0,,You’re so concerned about the card, it’s hard to tell...you’re the bottom of the body
+Dialogue: 0,00:03:20.00,00:03:22.25,Default,,0,0,0,,The last hope is all here for you
+Dialogue: 0,00:03:22.28,00:03:23.96,Default,,0,0,0,,Isn’t it normal to care?
+Dialogue: 0,00:03:24.68,00:03:26.20,Default,,0,0,0,,Normal and normal...
+Dialogue: 0,00:03:26.64,00:03:27.16,Default,,0,0,0,,snort
+Dialogue: 0,00:03:33.96,00:03:36.48,Default,,0,0,0,,Could it be that my prompt is not obvious yet?
+Dialogue: 0,00:03:37.76,00:03:41.00,Default,,0,0,0,,It shouldn’t be true. Everyone is usually very smart
+Dialogue: 0,00:03:47.16,00:03:48.57,Default,,0,0,0,,Come on, come on the bottom
+Dialogue: 0,00:03:48.60,00:03:50.24,Default,,0,0,0,,Let me see who you are
+Dialogue: 0,00:03:53.76,00:03:57.16,Default,,0,0,0,,Sparky ... It turns out that you are the bottom of the body
+Dialogue: 0,00:03:58.92,00:04:01.36,Default,,0,0,0,,It’s all this time, where are you going
+Dialogue: 0,00:04:03.12,00:04:06.12,Default,,0,0,0,,Really, we’re looking for a bottom
+Dialogue: 0,00:04:07.76,00:04:09.16,Default,,0,0,0,,It’s really worrying
+Dialogue: 0,00:04:11.32,00:04:12.20,Default,,0,0,0,,Leave
+Dialogue: 0,00:04:12.84,00:04:13.88,Default,,0,0,0,,Not a Sparky
+Dialogue: 0,00:04:15.08,00:04:18.20,Default,,0,0,0,,Great, who would be
+Dialogue: 0,00:04:21.16,00:04:22.08,Default,,0,0,0,,Another...
+Dialogue: 0,00:04:23.12,00:04:24.84,Default,,0,0,0,,Are you there
+Dialogue: 0,00:04:25.80,00:04:26.89,Default,,0,0,0,,No
+Dialogue: 0,00:04:26.92,00:04:29.13,Default,,0,0,0,,The bottom of the neck is a gentle and kind class leader
+Dialogue: 0,00:04:29.16,00:04:31.20,Default,,0,0,0,,I can’t accept it
+Dialogue: 0,00:04:34.92,00:04:38.13,Default,,0,0,0,,Really, I don’t know where to go to play again
+Dialogue: 0,00:04:38.16,00:04:39.20,Default,,0,0,0,,No clothes are collected
+Dialogue: 0,00:04:44.36,00:04:45.76,Default,,0,0,0,,Not a class manager
+Dialogue: 0,00:04:46.36,00:04:48.88,Default,,0,0,0,,Who else is this?
+Dialogue: 0,00:04:52.04,00:04:52.88,Default,,0,0,0,,Who are you
+Dialogue: 0,00:04:55.16,00:04:55.92,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:04:57.32,00:04:58.44,Default,,0,0,0,,The bottom of the squid appears
+Dialogue: 0,00:05:04.88,00:05:06.61,Default,,0,0,0,,What happened to Tibbie
+Dialogue: 0,00:05:06.64,00:05:09.16,Default,,0,0,0,,I just saw a strange black shadow
+Dialogue: 0,00:05:09.76,00:05:11.64,Default,,0,0,0,,Then he suddenly disappeared
+Dialogue: 0,00:05:12.28,00:05:13.48,Default,,0,0,0,,Black shadow
+Dialogue: 0,00:05:19.80,00:05:21.36,Default,,0,0,0,,Bad card...
+Dialogue: 0,00:05:22.92,00:05:23.92,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:05:38.16,00:05:39.84,Default,,0,0,0,,Hu is still there...
+Dialogue: 0,00:05:47.68,00:05:49.40,Default,,0,0,0,,Fortunately, it’s still there
+Dialogue: 0,00:05:51.04,00:05:51.92,Default,,0,0,0,,What’s up
+Dialogue: 0,00:05:53.12,00:05:54.24,Default,,0,0,0,,Paddi
+Dialogue: 0,00:05:54.88,00:05:56.29,Default,,0,0,0,,This important thing
+Dialogue: 0,00:05:56.32,00:05:58.64,Default,,0,0,0,,You’re just hiding here
+Dialogue: 0,00:06:02.16,00:06:03.56,Default,,0,0,0,,This is too bad
+Dialogue: 0,00:06:03.60,00:06:04.80,Default,,0,0,0,,When having breakfast
+Dialogue: 0,00:06:04.88,00:06:07.16,Default,,0,0,0,,I guess you hid the card here
+Dialogue: 0,00:06:07.52,00:06:08.88,Default,,0,0,0,,What if it is stolen
+Dialogue: 0,00:06:10.60,00:06:12.32,Default,,0,0,0,,Don’t be motivated first
+Dialogue: 0,00:06:15.16,00:06:17.40,Default,,0,0,0,,You are so beautiful...
+Dialogue: 0,00:06:17.60,00:06:19.92,Default,,0,0,0,,Don’t worry, the card is fake
+Dialogue: 0,00:06:22.16,00:06:23.96,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:06:24.64,00:06:26.92,Default,,0,0,0,,Weslie, come and tell me
+Dialogue: 0,00:06:29.00,00:06:31.76,Default,,0,0,0,,This is the trap set by me and Yuyangyang
+Dialogue: 0,00:06:32.44,00:06:35.16,Default,,0,0,0,,Tell everyone that fake cards are hidden here
+Dialogue: 0,00:06:35.64,00:06:37.48,Default,,0,0,0,,I just hope to bring out the bottom
+Dialogue: 0,00:06:37.76,00:06:39.32,Default,,0,0,0,,Unfortunately, the bottom is not good
+Dialogue: 0,00:06:41.04,00:06:43.04,Default,,0,0,0,,You’re scared
+Dialogue: 0,00:06:43.60,00:06:45.16,Default,,0,0,0,,That’s a real card
+Dialogue: 0,00:06:45.96,00:06:48.28,Default,,0,0,0,,Don’t worry, I just checked it
+Dialogue: 0,00:06:48.76,00:06:51.25,Default,,0,0,0,,The card is also hidden in a safe place in the hall
+Dialogue: 0,00:06:51.28,00:06:52.76,Default,,0,0,0,,No one can find it
+Dialogue: 0,00:06:54.52,00:06:56.64,Default,,0,0,0,,What...you’re hiding
+Dialogue: 0,00:06:57.68,00:07:00.24,Default,,0,0,0,,Didn’t I let you carry it?
+Dialogue: 0,00:07:01.08,00:07:03.93,Default,,0,0,0,,Hahahaha I think it’s still what Tibbie said
+Dialogue: 0,00:07:03.96,00:07:05.96,Default,,0,0,0,,It’s easy to get rid of it on your body
+Dialogue: 0,00:07:06.72,00:07:08.48,Default,,0,0,0,,It’s best to hide it
+Dialogue: 0,00:07:09.36,00:07:10.72,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:07:11.72,00:07:13.12,Default,,0,0,0,,Who was shouting
+Dialogue: 0,00:07:13.16,00:07:14.24,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:07:16.32,00:07:17.56,Default,,0,0,0,,What about Tibbie
+Dialogue: 0,00:07:18.44,00:07:20.48,Default,,0,0,0,,It seems to be gone just now
+Dialogue: 0,00:07:21.32,00:07:22.56,Default,,0,0,0,,Not good, go and have a look
+Dialogue: 0,00:07:22.64,00:07:24.48,Default,,0,0,0,,I’ve just finished checking
+Dialogue: 0,00:07:27.80,00:07:29.52,Default,,0,0,0,,You go quickly
+Dialogue: 0,00:07:30.32,00:07:33.56,Default,,0,0,0,,Oh, don’t worry, it’s okay
+Dialogue: 0,00:07:34.80,00:07:37.96,Default,,0,0,0,,It’s just staying under the chair
+Dialogue: 0,00:07:40.60,00:07:43.28,Default,,0,0,0,,Miss it...
+Dialogue: 0,00:07:43.44,00:07:45.01,Default,,0,0,0,,I’ve just seen it...
+Dialogue: 0,00:07:45.04,00:07:49.28,Default,,0,0,0,,Why didn’t there be no more...
+Dialogue: 0,00:07:51.76,00:07:55.13,Default,,0,0,0,,If you look for something, are you remembering the wrong place?
+Dialogue: 0,00:07:55.16,00:07:56.08,Default,,0,0,0,,Keep the change, please
+Dialogue: 0,00:07:58.72,00:08:01.88,Default,,0,0,0,,The card was taken away by Tibbie
+Dialogue: 0,00:08:03.24,00:08:04.12,Default,,0,0,0,,Impossible
+Dialogue: 0,00:08:04.32,00:08:06.49,Default,,0,0,0,,Tibbie and us fought so long
+Dialogue: 0,00:08:06.52,00:08:09.28,Default,,0,0,0,,There is no sign of any problem with Tibbie
+Dialogue: 0,00:08:09.36,00:08:10.88,Default,,0,0,0,,She can’t be an undercover
+Dialogue: 0,00:08:11.52,00:08:12.64,Default,,0,0,0,,But that’s true
+Dialogue: 0,00:08:12.88,00:08:14.76,Default,,0,0,0,,Now the greatest possibility is her
+Dialogue: 0,00:08:15.12,00:08:16.97,Default,,0,0,0,,But I can’t figure it out
+Dialogue: 0,00:08:17.00,00:08:19.52,Default,,0,0,0,,How could she know I hid the card here
+Dialogue: 0,00:08:20.16,00:08:21.84,Default,,0,0,0,,You told her yourself
+Dialogue: 0,00:08:27.20,00:08:30.64,Default,,0,0,0,,At that time, only Tibbie was in the passage
+Dialogue: 0,00:08:31.00,00:08:33.44,Default,,0,0,0,,Then I heard her shouting "Don’t run."
+Dialogue: 0,00:08:33.76,00:08:35.48,Default,,0,0,0,,Didn’t you really see the black shadow
+Dialogue: 0,00:08:36.36,00:08:38.40,Default,,0,0,0,,Instead, I want to cause the worry of the slaughter of the slaughter.
+Dialogue: 0,00:08:39.48,00:08:41.69,Default,,0,0,0,,Everyone is anxious to go to the Goat House
+Dialogue: 0,00:08:41.72,00:08:43.36,Default,,0,0,0,,When looking at fake cards
+Dialogue: 0,00:08:43.44,00:08:45.37,Default,,0,0,0,,Goat who worry about the real card lost
+Dialogue: 0,00:08:45.40,00:08:46.40,Default,,0,0,0,,Didn’t go
+Dialogue: 0,00:08:47.44,00:08:48.53,Default,,0,0,0,,His first time
+Dialogue: 0,00:08:48.56,00:08:51.08,Default,,0,0,0,,I’ll definitely check the security of the real card first
+Dialogue: 0,00:08:52.44,00:08:54.68,Default,,0,0,0,,There was still no one who went there at this time
+Dialogue: 0,00:08:54.92,00:08:56.00,Default,,0,0,0,,That’s Tibbie
+Dialogue: 0,00:08:57.44,00:08:59.28,Default,,0,0,0,,Her goal is to goat
+Dialogue: 0,00:08:59.76,00:09:01.41,Default,,0,0,0,,So she watched from the side
+Dialogue: 0,00:09:01.44,00:09:03.80,Default,,0,0,0,,The entire process of checking cards by the Goat
+Dialogue: 0,00:09:04.20,00:09:05.85,Default,,0,0,0,,While the Paddi are leaving
+Dialogue: 0,00:09:05.88,00:09:07.24,Default,,0,0,0,,Just took the card
+Dialogue: 0,00:09:10.84,00:09:12.12,Default,,0,0,0,,It turned out to be like this...
+Dialogue: 0,00:09:13.04,00:09:14.93,Default,,0,0,0,,Why don’t you hear Weslie?
+Dialogue: 0,00:09:14.96,00:09:16.52,Default,,0,0,0,,Put the card on it
+Dialogue: 0,00:09:16.72,00:09:21.48,Default,,0,0,0,,In fact, Tibbie went to me before Weslie came...
+Dialogue: 0,00:09:27.44,00:09:28.40,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:09:29.52,00:09:30.97,Default,,0,0,0,,You hear me first
+Dialogue: 0,00:09:31.00,00:09:33.32,Default,,0,0,0,,Now anyone can be an undercover
+Dialogue: 0,00:09:33.72,00:09:35.85,Default,,0,0,0,,So no matter who comes to you next
+Dialogue: 0,00:09:35.88,00:09:37.76,Default,,0,0,0,,Don’t believe anything you say
+Dialogue: 0,00:09:38.20,00:09:39.48,Default,,0,0,0,,The safest way
+Dialogue: 0,00:09:39.56,00:09:41.97,Default,,0,0,0,,Just put this card in one beside you
+Dialogue: 0,00:09:42.00,00:09:43.48,Default,,0,0,0,,Something that no one knows
+Dialogue: 0,00:09:43.68,00:09:44.44,Default,,0,0,0,,Do you understand
+Dialogue: 0,00:09:47.40,00:09:49.84,Default,,0,0,0,,Why did Tibbie suddenly talk to me about these
+Dialogue: 0,00:09:50.56,00:09:53.56,Default,,0,0,0,,But she said it was quite right, I had to hide the card
+Dialogue: 0,00:09:54.88,00:09:56.04,Default,,0,0,0,,Uh...what is the person
+Dialogue: 0,00:09:57.88,00:09:59.36,Default,,0,0,0,,Forget it, don’t care
+Dialogue: 0,00:10:04.04,00:10:04.80,Default,,0,0,0,,Have it
+Dialogue: 0,00:10:06.44,00:10:07.40,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:10:10.80,00:10:12.16,Default,,0,0,0,,That’s it
+Dialogue: 0,00:10:12.68,00:10:15.84,Default,,0,0,0,,Unexpectedly, Tibbie actually calculated everything
+Dialogue: 0,00:10:17.32,00:10:22.20,Default,,0,0,0,,Tibbie, Body Bottom...Is it really you?
+Dialogue: 0,00:10:30.20,00:10:31.37,Default,,0,0,0,,I still don’t understand
+Dialogue: 0,00:10:31.40,00:10:33.60,Default,,0,0,0,,Why does Tibbie need to help Doctor Tie?
+Dialogue: 0,00:10:37.60,00:10:40.32,Default,,0,0,0,,All the cards on the Slowy have been obtained
+Dialogue: 0,00:10:41.04,00:10:43.29,Default,,0,0,0,,Will it be when fighting with the shadow
+Dialogue: 0,00:10:43.32,00:10:44.20,Default,,0,0,0,,Being controlled
+Dialogue: 0,00:10:44.88,00:10:47.17,Default,,0,0,0,,If the time of the single fight
+Dialogue: 0,00:10:47.20,00:10:49.32,Default,,0,0,0,,I don’t think it’s possible
+Dialogue: 0,00:10:51.12,00:10:52.73,Default,,0,0,0,,When Tibbie is looking for a card
+Dialogue: 0,00:10:52.76,00:10:54.17,Default,,0,0,0,,They are all with us
+Dialogue: 0,00:10:54.20,00:10:56.12,Default,,0,0,0,,And it’s been communicating
+Dialogue: 0,00:10:57.40,00:10:58.65,Default,,0,0,0,,She...why...
+Dialogue: 0,00:10:58.68,00:11:00.20,Default,,0,0,0,,It’s a surprise
+Dialogue: 0,00:11:00.64,00:11:02.88,Default,,0,0,0,,Tibbie has actually been controlled by me
+Dialogue: 0,00:11:03.28,00:11:05.56,Default,,0,0,0,,Become a secret chess step for me
+Dialogue: 0,00:11:07.96,00:11:09.52,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:11:10.28,00:11:14.88,Default,,0,0,0,,Go and bring your partners to bury them
+Dialogue: 0,00:11:16.92,00:11:18.08,Default,,0,0,0,,Escape quickly
+Dialogue: 0,00:11:19.60,00:11:20.64,Default,,0,0,0,,ah…
+Dialogue: 0,00:11:21.76,00:11:23.04,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:11:28.72,00:11:32.36,Default,,0,0,0,,It’s hard to say that Tibbie was already under control at that time
+Dialogue: 0,00:11:33.00,00:11:36.88,Default,,0,0,0,,With you two, my plan will be successful soon
+Dialogue: 0,00:11:37.68,00:11:40.13,Default,,0,0,0,,I hope you can cooperate happily in the future
+Dialogue: 0,00:11:40.16,00:11:41.68,Default,,0,0,0,,- Yes Doctor
+- Yes Doctor
+Dialogue: 0,00:11:43.08,00:11:45.16,Default,,0,0,0,,These are just our guesses
+Dialogue: 0,00:11:45.28,00:11:47.20,Default,,0,0,0,,You will know when you find Tibbie
+Dialogue: 0,00:11:48.36,00:11:50.64,Default,,0,0,0,,But we don’t know where she is
+Dialogue: 0,00:11:51.92,00:11:54.44,Default,,0,0,0,,Yes, I’ll know right away
+Dialogue: 0,00:11:57.20,00:11:58.40,Default,,0,0,0,,Waited for a long time
+Dialogue: 0,00:12:01.04,00:12:02.01,Default,,0,0,0,,Don’t forget
+Dialogue: 0,00:12:02.04,00:12:05.76,Default,,0,0,0,,Wolnie escaped from Dr. Ti’s base
+Dialogue: 0,00:12:06.80,00:12:09.08,Default,,0,0,0,,Let’s start the battle meeting soon
+Dialogue: 0,00:12:09.24,00:12:10.04,Default,,0,0,0,,good
+Dialogue: 0,00:12:11.04,00:12:11.96,Default,,0,0,0,,The base is here
+Dialogue: 0,00:12:13.72,00:12:14.84,Default,,0,0,0,,You’ll be here
+Dialogue: 0,00:12:23.56,00:12:26.72,Default,,0,0,0,,Dad, please wait and see
+Dialogue: 0,00:12:27.80,00:12:31.04,Default,,0,0,0,,We’ll be on the way tomorrow. Everyone is ready
+Dialogue: 0,00:12:32.12,00:12:32.84,Default,,0,0,0,,yes

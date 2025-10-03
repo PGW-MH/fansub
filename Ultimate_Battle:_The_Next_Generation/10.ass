@@ -1,0 +1,160 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.29,00:00:25.01,Default,,0,0,0,,Beware of that robot
+Dialogue: 0,00:00:25.45,00:00:28.23,Default,,0,0,0,,I had a mysterious force when I repaired it
+Dialogue: 0,00:00:28.25,00:00:30.39,Default,,0,0,0,,Take control of it away
+Dialogue: 0,00:00:30.41,00:00:33.97,Default,,0,0,0,,It’s too late it’s chasing me
+Dialogue: 0,00:00:35.17,00:00:36.97,Default,,0,0,0,,what? Where are you
+Dialogue: 0,00:00:42.41,00:00:43.99,Default,,0,0,0,,We have no grudges and no revenge
+Dialogue: 0,00:00:44.01,00:00:45.45,Default,,0,0,0,,Why did you hit me
+Dialogue: 0,00:00:49.97,00:00:51.33,Default,,0,0,0,,Floating cannon
+Dialogue: 0,00:01:00.61,00:01:01.69,Default,,0,0,0,,You’ll force me again
+Dialogue: 0,00:01:01.85,00:01:03.45,Default,,0,0,0,,Don’t blame me for being rude
+Dialogue: 0,00:01:04.01,00:01:05.53,Default,,0,0,0,,Come on
+Dialogue: 0,00:01:21.33,00:01:23.91,Default,,0,0,0,,Look at my fire ability card
+Dialogue: 0,00:01:23.93,00:01:25.46,Default,,0,0,0,,It’s your star
+Dialogue: 0,00:01:25.49,00:01:26.61,Default,,0,0,0,,fire…
+Dialogue: 0,00:01:27.21,00:01:28.73,Default,,0,0,0,,Ah, so cold
+Dialogue: 0,00:01:30.29,00:01:32.01,Default,,0,0,0,,How could you suddenly stumble
+Dialogue: 0,00:01:33.97,00:01:34.89,Default,,0,0,0,,You’re playing tricks
+Dialogue: 0,00:01:39.49,00:01:41.53,Default,,0,0,0,,Not good floating cannon
+Dialogue: 0,00:01:54.85,00:01:56.01,Default,,0,0,0,,Chasing the enemy
+Dialogue: 0,00:01:58.21,00:02:00.89,Default,,0,0,0,,Alas, I’m not doing anything again today
+Dialogue: 0,00:02:01.57,00:02:04.33,Default,,0,0,0,,Hey hey hey let it open
+Dialogue: 0,00:02:05.69,00:02:07.09,Default,,0,0,0,,Finally arrived
+Dialogue: 0,00:02:09.85,00:02:12.25,Default,,0,0,0,,Hello, do you want to buy insurance?
+Dialogue: 0,00:02:12.53,00:02:14.05,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:20.13,00:02:22.01,Default,,0,0,0,,Hello, do you want to buy insurance?
+Dialogue: 0,00:02:24.05,00:02:25.37,Default,,0,0,0,,Chasing the enemy
+Dialogue: 0,00:02:27.29,00:02:28.57,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:41.85,00:02:44.17,Default,,0,0,0,,You have to remove the card soon
+Dialogue: 0,00:02:44.37,00:02:46.69,Default,,0,0,0,,Well... so cold
+Dialogue: 0,00:02:49.17,00:02:50.61,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:55.29,00:02:56.25,Default,,0,0,0,,Here is...
+Dialogue: 0,00:03:05.69,00:03:06.97,Default,,0,0,0,,Paddi
+Dialogue: 0,00:03:10.37,00:03:11.87,Default,,0,0,0,,This cold sky is really hard
+Dialogue: 0,00:03:11.89,00:03:13.73,Default,,0,0,0,,Have to think about it
+Dialogue: 0,00:03:17.05,00:03:18.33,Default,,0,0,0,,You’re in ambush
+Dialogue: 0,00:03:40.97,00:03:41.69,Default,,0,0,0,,Have it
+Dialogue: 0,00:03:55.97,00:03:57.17,Default,,0,0,0,,The location is just good
+Dialogue: 0,00:03:57.45,00:03:59.37,Default,,0,0,0,,Floating cannon
+Dialogue: 0,00:04:09.49,00:04:11.29,Default,,0,0,0,,Solved
+Dialogue: 0,00:04:11.89,00:04:16.05,Default,,0,0,0,,You’re hiding outside
+Dialogue: 0,00:04:16.57,00:04:19.05,Default,,0,0,0,,Hand over the Elephant Star Stone Card
+Dialogue: 0,00:04:21.81,00:04:23.97,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:04:26.97,00:04:29.25,Default,,0,0,0,,You almost cheated
+Dialogue: 0,00:04:32.17,00:04:34.85,Default,,0,0,0,,Wow...
+Dialogue: 0,00:04:36.33,00:04:39.71,Default,,0,0,0,,Village Chief, I’ve been hurt by you
+Dialogue: 0,00:04:39.73,00:04:42.53,Default,,0,0,0,,Why did I call me at this time
+Dialogue: 0,00:04:49.25,00:04:50.29,Default,,0,0,0,,Oh
+Dialogue: 0,00:04:58.69,00:04:59.93,Default,,0,0,0,,This is a tragedy...
+Dialogue: 0,00:05:12.69,00:05:14.09,Default,,0,0,0,,Floating cannon
+Dialogue: 0,00:05:20.37,00:05:23.17,Default,,0,0,0,,Haha…Big Head See you again
+Dialogue: 0,00:05:25.29,00:05:26.01,Default,,0,0,0,,ah?
+Dialogue: 0,00:05:27.41,00:05:30.85,Default,,0,0,0,,Wow…let me...
+Dialogue: 0,00:05:31.09,00:05:32.61,Default,,0,0,0,,Help, Sparky 
+Dialogue: 0,00:05:33.57,00:05:35.09,Default,,0,0,0,,Give me the card
+Dialogue: 0,00:05:38.97,00:05:42.33,Default,,0,0,0,,Wow...my hands...
+Dialogue: 0,00:05:53.37,00:05:54.25,Default,,0,0,0,,My card...
+Dialogue: 0,00:05:54.57,00:05:55.49,Default,,0,0,0,,never mind
+Dialogue: 0,00:05:56.33,00:05:58.05,Default,,0,0,0,,Retreat first and then talk about it
+Dialogue: 0,00:06:00.37,00:06:01.85,Default,,0,0,0,,Chasing the enemy
+Dialogue: 0,00:06:10.21,00:06:11.93,Default,,0,0,0,,It’s coming soon
+Dialogue: 0,00:06:13.61,00:06:14.93,Default,,0,0,0,,I’ve fought with you
+Dialogue: 0,00:06:15.29,00:06:16.81,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:06:16.85,00:06:19.81,Default,,0,0,0,,Ahhhhhhhh
+Dialogue: 0,00:06:24.29,00:06:27.67,Default,,0,0,0,,It’s you...Sparky...
+Dialogue: 0,00:06:27.69,00:06:28.37,Default,,0,0,0,,You boy
+Dialogue: 0,00:06:29.17,00:06:30.49,Default,,0,0,0,,He actually won’t tell me
+Dialogue: 0,00:06:31.25,00:06:32.29,Default,,0,0,0,,Weslie
+Dialogue: 0,00:06:32.65,00:06:34.33,Default,,0,0,0,,How did you come
+Dialogue: 0,00:06:34.89,00:06:36.77,Default,,0,0,0,,The village chief asked us to help you
+Dialogue: 0,00:06:37.05,00:06:37.97,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:06:38.21,00:06:40.59,Default,,0,0,0,,How about it...Weslie
+Dialogue: 0,00:06:40.61,00:06:41.65,Default,,0,0,0,,It’s nothing
+Dialogue: 0,00:06:42.25,00:06:44.37,Default,,0,0,0,,You’re so big
+Dialogue: 0,00:06:44.61,00:06:46.53,Default,,0,0,0,,I also want Weslie to comfort you
+Dialogue: 0,00:06:55.05,00:06:56.29,Default,,0,0,0,,Too scary
+Dialogue: 0,00:06:58.17,00:07:01.05,Default,,0,0,0,,I was almost frozen into ice by that robot
+Dialogue: 0,00:07:02.49,00:07:05.01,Default,,0,0,0,,What happened to that robot
+Dialogue: 0,00:07:05.97,00:07:07.89,Default,,0,0,0,,I helped it repair it before
+Dialogue: 0,00:07:07.93,00:07:11.29,Default,,0,0,0,,A mysterious force snatched away its control
+Dialogue: 0,00:07:12.01,00:07:13.43,Default,,0,0,0,,I’ll recommend that
+Dialogue: 0,00:07:13.45,00:07:17.05,Default,,0,0,0,,The mysterious person who has been competing with us on the Elephant Star Stone
+Dialogue: 0,00:07:17.41,00:07:18.37,Default,,0,0,0,,It’s him
+Dialogue: 0,00:07:19.05,00:07:21.57,Default,,0,0,0,,It’s hard to blame for snatching my flame card
+Dialogue: 0,00:07:22.13,00:07:24.37,Default,,0,0,0,,You’ll remember it now
+Dialogue: 0,00:07:24.81,00:07:25.29,Default,,0,0,0,,Um
+Dialogue: 0,00:07:26.17,00:07:28.33,Default,,0,0,0,,Did they be stunned at that time
+Dialogue: 0,00:07:30.13,00:07:31.81,Default,,0,0,0,,We’ll get it back
+Dialogue: 0,00:07:33.09,00:07:34.81,Default,,0,0,0,,Thank you for your Weslie
+Dialogue: 0,00:07:35.05,00:07:37.61,Default,,0,0,0,,You’re so big
+Dialogue: 0,00:07:38.89,00:07:40.27,Default,,0,0,0,,Still rely on Weslie
+Dialogue: 0,00:07:40.29,00:07:41.89,Default,,0,0,0,,Just like when I was a kid
+Dialogue: 0,00:07:43.17,00:07:43.93,Default,,0,0,0,,That’s right
+Dialogue: 0,00:07:45.09,00:07:47.45,Default,,0,0,0,,I’m still the boy before
+Dialogue: 0,00:07:47.61,00:07:49.41,Default,,0,0,0,,No change in a single piece
+Dialogue: 0,00:07:51.05,00:07:52.89,Default,,0,0,0,,No change in a single piece
+Dialogue: 0,00:07:53.13,00:07:54.21,Default,,0,0,0,,You’re so kind
+Dialogue: 0,00:07:55.37,00:07:57.41,Default,,0,0,0,,I don’t need you to help this time
+Dialogue: 0,00:07:57.89,00:08:00.09,Default,,0,0,0,,I’ll get my card back.
+Dialogue: 0,00:08:19.29,00:08:21.21,Default,,0,0,0,,I only have the most basic weapons
+Dialogue: 0,00:08:21.41,00:08:22.65,Default,,0,0,0,,No card
+Dialogue: 0,00:08:23.41,00:08:24.85,Default,,0,0,0,,But the other...
+Dialogue: 0,00:08:31.57,00:08:33.25,Default,,0,0,0,,I definitely can’t beat it
+Dialogue: 0,00:08:37.33,00:08:40.37,Default,,0,0,0,,But that’s what I’m going back...
+Dialogue: 0,00:08:41.45,00:08:44.85,Default,,0,0,0,,I am not as good as Weslies and goats that are children
+Dialogue: 0,00:08:46.81,00:08:49.45,Default,,0,0,0,,Yes, I’ll go first
+Dialogue: 0,00:08:49.69,00:08:50.77,Default,,0,0,0,,Then go back
+Dialogue: 0,00:08:51.45,00:08:52.73,Default,,0,0,0,,Just said that it was not found
+Dialogue: 0,00:08:53.89,00:08:55.17,Default,,0,0,0,,I’m so lucky
+Dialogue: 0,00:08:55.33,00:08:57.53,Default,,0,0,0,,I definitely didn’t encounter it so by chance
+Dialogue: 0,00:09:00.61,00:09:02.41,Default,,0,0,0,,Ah...it’s it...
+Dialogue: 0,00:09:23.45,00:09:27.09,Default,,0,0,0,,Hehe...The super trap is finally done
+Dialogue: 0,00:09:28.25,00:09:30.83,Default,,0,0,0,,There was a reaction of the Elephant Star Stone fragments nearby
+Dialogue: 0,00:09:30.85,00:09:32.37,Default,,0,0,0,,It will definitely come
+Dialogue: 0,00:09:35.69,00:09:36.37,Default,,0,0,0,,It’s here
+Dialogue: 0,00:09:52.65,00:09:53.85,Default,,0,0,0,,Let’s see the trick
+Dialogue: 0,00:10:04.21,00:10:06.45,Default,,0,0,0,,Hand over the Elephant Star Stone card
+Dialogue: 0,00:10:09.45,00:10:10.57,Default,,0,0,0,,Paddi
+Dialogue: 0,00:10:11.29,00:10:14.22,Default,,0,0,0,,I’ll give you these few Elephant Star Stone cards
+Dialogue: 0,00:10:14.25,00:10:18.01,Default,,0,0,0,,Hahahaha...I know I’m so sad
+Dialogue: 0,00:10:20.41,00:10:21.61,Default,,0,0,0,,It turns out it was you
+Dialogue: 0,00:10:26.97,00:10:29.33,Default,,0,0,0,,You...you haven’t fallen into the trap
+Dialogue: 0,00:10:29.73,00:10:31.73,Default,,0,0,0,,I didn’t expect it to fly
+Dialogue: 0,00:10:34.33,00:10:38.45,Default,,0,0,0,,I obviously did... a lot of traps...
+Dialogue: 0,00:10:40.33,00:10:42.81,Default,,0,0,0,,I’ve made so many traps on the road
+Dialogue: 0,00:10:48.69,00:10:50.97,Default,,0,0,0,,Do you think this can deal with me?
+Dialogue: 0,00:10:52.37,00:10:52.77,Default,,0,0,0,,No…
+Dialogue: 0,00:10:57.85,00:10:59.17,Default,,0,0,0,,Don’t come over
+Dialogue: 0,00:11:08.65,00:11:10.61,Default,,0,0,0,,Ah Help...
+Dialogue: 0,00:11:18.37,00:11:19.57,Default,,0,0,0,,What is it doing
+Dialogue: 0,00:11:24.37,00:11:28.05,Default,,0,0,0,,I didn’t expect it to be a villain who loves flowers and plants
+Dialogue: 0,00:11:30.89,00:11:33.09,Default,,0,0,0,,Keep going now...
+Dialogue: 0,00:11:42.33,00:11:46.53,Default,,0,0,0,,Hehehe...it’s all up to that little flower to help me take off
+Dialogue: 0,00:11:48.97,00:11:50.97,Default,,0,0,0,,Do you think you can escape?
+Dialogue: 0,00:11:52.97,00:11:55.63,Default,,0,0,0,,You underestimate me too much
+Dialogue: 0,00:11:55.65,00:11:58.65,Default,,0,0,0,,Help, is it finished
+Dialogue: 0,00:12:00.69,00:12:02.49,Default,,0,0,0,,There is no way ahead...
+Dialogue: 0,00:12:04.29,00:12:05.61,Default,,0,0,0,,Death
+Dialogue: 0,00:12:06.01,00:12:07.17,Default,,0,0,0,,Don’t come over
+Dialogue: 0,00:12:09.53,00:12:10.89,Default,,0,0,0,,Find the fragments
+Dialogue: 0,00:12:20.29,00:12:21.69,Default,,0,0,0,,Small tricks of carving
+Dialogue: 0,00:12:22.61,00:12:23.89,Default,,0,0,0,,Ah, what’s going on
+Dialogue: 0,00:12:24.53,00:12:26.29,Default,,0,0,0,,My hands My feet...
+Dialogue: 0,00:12:26.97,00:12:28.93,Default,,0,0,0,,Why did you move on your own
+Dialogue: 0,00:12:30.57,00:12:31.77,Default,,0,0,0,,Hehehehehe...

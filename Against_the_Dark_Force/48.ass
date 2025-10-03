@@ -1,0 +1,198 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.92,00:00:24.52,Default,,0,0,0,,Luna, please put down the box
+Dialogue: 0,00:00:26.80,00:00:29.72,Default,,0,0,0,,Then we have to see if you have this ability
+Dialogue: 0,00:00:32.84,00:00:33.80,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:00:43.64,00:00:45.52,Default,,0,0,0,,The Goat is well done
+Dialogue: 0,00:00:45.76,00:00:48.24,Default,,0,0,0,,My cloud changes are not
+Dialogue: 0,00:00:53.92,00:00:54.64,Default,,0,0,0,,not good!
+Dialogue: 0,00:00:59.04,00:01:00.72,Default,,0,0,0,,- Flame Fist
+- Aqua Spirit
+Dialogue: 0,00:01:07.68,00:01:10.56,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:13.16,00:01:15.95,Default,,0,0,0,,You’re not my opponent at all
+Dialogue: 0,00:01:24.52,00:01:26.16,Default,,0,0,0,,Don’t have such a big mouth
+Dialogue: 0,00:01:26.28,00:01:28.40,Default,,0,0,0,,Look at my thunderbolt...
+Dialogue: 0,00:01:30.31,00:01:33.33,Default,,0,0,0,,Alas...Leifeng
+Dialogue: 0,00:01:33.36,00:01:36.84,Default,,0,0,0,,Ah... Alas...
+Dialogue: 0,00:01:37.52,00:01:38.97,Default,,0,0,0,,Don’t be idle
+Dialogue: 0,00:01:39.00,00:01:41.31,Default,,0,0,0,,Just let you not hold me
+Dialogue: 0,00:01:46.84,00:01:48.36,Default,,0,0,0,,Let’s catch up with her
+Dialogue: 0,00:01:48.92,00:01:50.20,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:02:15.16,00:02:18.20,Default,,0,0,0,,OK I’ll delay them, you go first
+Dialogue: 0,00:02:18.56,00:02:19.12,Default,,0,0,0,,Um
+Dialogue: 0,00:02:25.91,00:02:26.91,Default,,0,0,0,,Weslie?
+Dialogue: 0,00:02:30.84,00:02:33.40,Default,,0,0,0,,Weslie Why don’t you talk
+Dialogue: 0,00:02:46.16,00:02:50.72,Default,,0,0,0,,Ah... What’s going on with Weslie...
+Dialogue: 0,00:02:55.36,00:02:58.52,Default,,0,0,0,,Whether it is a body, memory or ability
+Dialogue: 0,00:02:58.68,00:03:00.16,Default,,0,0,0,,I can use it
+Dialogue: 0,00:03:01.08,00:03:04.63,Default,,0,0,0,,Weslie...is it controlled by the lonely wolf...
+Dialogue: 0,00:03:05.80,00:03:06.96,Default,,0,0,0,,what?
+Dialogue: 0,00:03:07.88,00:03:09.08,Default,,0,0,0,,He is a lonely wolf
+Dialogue: 0,00:03:25.68,00:03:28.08,Default,,0,0,0,,- What to do here
+- How to do it...
+Dialogue: 0,00:03:28.32,00:03:29.91,Default,,0,0,0,,Stop playing, leave
+Dialogue: 0,00:03:31.12,00:03:31.60,Default,,0,0,0,,snort!
+Dialogue: 0,00:03:42.32,00:03:43.84,Default,,0,0,0,,Weslie, you’re fine
+Dialogue: 0,00:03:44.32,00:03:46.20,Default,,0,0,0,,Weslie Weslie...
+Dialogue: 0,00:03:47.84,00:03:49.76,Default,,0,0,0,,This...what is going on?
+Dialogue: 0,00:03:50.52,00:03:52.48,Default,,0,0,0,,You’re just being controlled
+Dialogue: 0,00:03:52.88,00:03:54.56,Default,,0,0,0,,I’ve taken action against us
+Dialogue: 0,00:03:55.96,00:03:56.84,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:03.76,00:04:04.84,Default,,0,0,0,,It’s a lonely wolf!
+Dialogue: 0,00:04:05.12,00:04:07.04,Default,,0,0,0,,No! They ran away!
+Dialogue: 0,00:04:08.20,00:04:11.44,Default,,0,0,0,,Let’s go back and find the king to help you
+Dialogue: 0,00:04:18.04,00:04:20.68,Default,,0,0,0,,What are you going to run? Let me open the box
+Dialogue: 0,00:04:21.56,00:04:23.83,Default,,0,0,0,,Didn’t you say that you had taken the dark energy?
+Dialogue: 0,00:04:24.00,00:04:26.24,Default,,0,0,0,,Am I the strongest in the entire cat country?
+Dialogue: 0,00:04:27.32,00:04:28.76,Default,,0,0,0,,Can you tell me that you are cheating on me?
+Dialogue: 0,00:04:30.04,00:04:31.53,Default,,0,0,0,,You just want to be one
+Dialogue: 0,00:04:31.56,00:04:33.72,Default,,0,0,0,,Is the strongest in Little Cat Country?
+Dialogue: 0,00:04:35.83,00:04:36.72,Default,,0,0,0,,What’s the meaning
+Dialogue: 0,00:04:38.83,00:04:42.24,Default,,0,0,0,,I want to help you become...the best in the world
+Dialogue: 0,00:04:42.96,00:04:44.32,Default,,0,0,0,,The strongest in the world?
+Dialogue: 0,00:04:45.04,00:04:47.09,Default,,0,0,0,,You will know when you leave the cat country
+Dialogue: 0,00:04:47.12,00:04:48.24,Default,,0,0,0,,They’re here
+Dialogue: 0,00:04:49.80,00:04:51.04,Default,,0,0,0,,You hand over the box
+Dialogue: 0,00:04:51.72,00:04:54.44,Default,,0,0,0,,The king has sent all the soldiers to capture you
+Dialogue: 0,00:04:54.72,00:04:56.08,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:04:59.12,00:05:00.12,Default,,0,0,0,,Not overestimating one’s ability
+Dialogue: 0,00:05:15.96,00:05:16.88,Default,,0,0,0,,report
+Dialogue: 0,00:05:18.44,00:05:20.80,Default,,0,0,0,,Luna and the others kept running towards the boundary
+Dialogue: 0,00:05:22.52,00:05:24.08,Default,,0,0,0,,The soldiers were also injured a lot
+Dialogue: 0,00:05:25.16,00:05:27.44,Default,,0,0,0,,Take it back to our world...
+Dialogue: 0,00:05:29.24,00:05:32.27,Default,,0,0,0,,The lonely wolf wants to escape from the strange cat country with dark energy
+Dialogue: 0,00:05:32.76,00:05:35.53,Default,,0,0,0,,Yes, notify the soldiers of each village
+Dialogue: 0,00:05:35.56,00:05:38.52,Default,,0,0,0,,Start the highest level of boundary seal immediately
+Dialogue: 0,00:05:39.40,00:05:40.00,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:05:40.32,00:05:40.76,Default,,0,0,0,,yes
+Dialogue: 0,00:05:58.27,00:06:01.44,Default,,0,0,0,,Report All boundaries have been blocked
+Dialogue: 0,00:06:02.76,00:06:05.44,Default,,0,0,0,,OK, then they shouldn’t be able to get out
+Dialogue: 0,00:06:06.36,00:06:08.44,Default,,0,0,0,,But what about them opening the box?
+Dialogue: 0,00:06:08.56,00:06:10.92,Default,,0,0,0,,Is there no way to deal with dark energy?
+Dialogue: 0,00:06:13.64,00:06:15.64,Default,,0,0,0,,Book The last time
+Dialogue: 0,00:06:18.68,00:06:19.64,Default,,0,0,0,,What about here
+Dialogue: 0,00:06:21.52,00:06:22.48,Default,,0,0,0,,That year...
+Dialogue: 0,00:06:23.96,00:06:26.24,Default,,0,0,0,,Before the birth of the Cat
+Dialogue: 0,00:06:26.27,00:06:29.40,Default,,0,0,0,,A strange beast rages all over the world
+Dialogue: 0,00:06:31.27,00:06:35.27,Default,,0,0,0,,Dark energy will be emitted from this anomaly
+Dialogue: 0,00:06:35.83,00:06:39.40,Default,,0,0,0,,The infected villagers will face each other with swords
+Dialogue: 0,00:06:39.72,00:06:43.27,Default,,0,0,0,,And very ambitious
+Dialogue: 0,00:06:43.64,00:06:45.72,Default,,0,0,0,,Finally in this dangerous period
+Dialogue: 0,00:06:45.83,00:06:47.68,Default,,0,0,0,,A warrior stood up
+Dialogue: 0,00:06:48.20,00:06:49.96,Default,,0,0,0,,He used his powerful power
+Dialogue: 0,00:06:50.12,00:06:52.52,Default,,0,0,0,,Fighting against the alien for ten days
+Dialogue: 0,00:06:52.76,00:06:55.04,Default,,0,0,0,,Finally killed the anomaly
+Dialogue: 0,00:06:56.16,00:06:59.32,Default,,0,0,0,,Just when the villagers were excited
+Dialogue: 0,00:06:59.72,00:07:02.96,Default,,0,0,0,,The Warriors seem to be a little worried
+Dialogue: 0,00:07:04.08,00:07:08.24,Default,,0,0,0,,Because after the anomaly dies, the dark energy still cannot be eliminated
+Dialogue: 0,00:07:09.04,00:07:12.52,Default,,0,0,0,,Later, the Warriors decided to seal the dark energy
+Dialogue: 0,00:07:12.96,00:07:15.08,Default,,0,0,0,,And established a cat country
+Dialogue: 0,00:07:15.60,00:07:17.48,Default,,0,0,0,,Generations of towns are pressing on dark energy
+Dialogue: 0,00:07:17.76,00:07:18.61,Default,,0,0,0,,But then
+Dialogue: 0,00:07:18.64,00:07:21.81,Default,,0,0,0,,Another person with some intentions has taken dark energy
+Dialogue: 0,00:07:21.84,00:07:23.44,Default,,0,0,0,,And let it go
+Dialogue: 0,00:07:23.80,00:07:25.81,Default,,0,0,0,,Warriors who have become kings of the nation
+Dialogue: 0,00:07:25.84,00:07:28.72,Default,,0,0,0,,Fighting against dark energy for several days and nights
+Dialogue: 0,00:07:28.96,00:07:31.49,Default,,0,0,0,,In the end, the king of kings used a sword
+Dialogue: 0,00:07:31.52,00:07:34.68,Default,,0,0,0,,This eliminates the dark energy of the ejaculation
+Dialogue: 0,00:07:34.92,00:07:37.84,Default,,0,0,0,,But after the war, the Guangshe landed into the cliff
+Dialogue: 0,00:07:38.12,00:07:39.76,Default,,0,0,0,,No one has seen it again
+Dialogue: 0,00:07:41.88,00:07:42.76,Default,,0,0,0,,That’s it
+Dialogue: 0,00:07:42.88,00:07:47.04,Default,,0,0,0,,It turns out that there is also a handful of light sculpting energy to eliminate dark energy
+Dialogue: 0,00:07:47.12,00:07:48.72,Default,,0,0,0,,That’s what
+Dialogue: 0,00:07:49.12,00:07:51.04,Default,,0,0,0,,We found that silhouette
+Dialogue: 0,00:07:51.40,00:07:54.64,Default,,0,0,0,,Can you solve the dark energy?
+Dialogue: 0,00:07:56.84,00:07:57.56,Default,,0,0,0,,Huh?
+Dialogue: 0,00:07:58.76,00:08:00.01,Default,,0,0,0,,Every king of ours
+Dialogue: 0,00:08:00.04,00:08:02.52,Default,,0,0,0,,They have sent people to the bottom of the cliff to find them
+Dialogue: 0,00:08:04.04,00:08:06.49,Default,,0,0,0,,There are gold dramas, wooden dramas, stone dramas,
+Dialogue: 0,00:08:06.52,00:08:07.84,Default,,0,0,0,,Plastic Strip Strip
+Dialogue: 0,00:08:09.20,00:08:10.88,Default,,0,0,0,,There is also a carving boat to ask for a sword...
+Dialogue: 0,00:08:11.48,00:08:14.48,Default,,0,0,0,,Alas, but it’s not that silhouette
+Dialogue: 0,00:08:21.64,00:08:24.28,Default,,0,0,0,,This statement won’t be fake
+Dialogue: 0,00:08:24.80,00:08:25.88,Default,,0,0,0,,It’s true
+Dialogue: 0,00:08:26.24,00:08:28.84,Default,,0,0,0,,The book of the Cat Country will not cheat people
+Dialogue: 0,00:08:29.64,00:08:32.00,Default,,0,0,0,,One fake one pays ten real
+Dialogue: 0,00:08:35.44,00:08:36.85,Default,,0,0,0,,I haven’t found it
+Dialogue: 0,00:08:36.88,00:08:38.60,Default,,0,0,0,,Because I haven’t had any trouble for many years
+Dialogue: 0,00:08:38.88,00:08:40.40,Default,,0,0,0,,I didn’t send anyone to find it
+Dialogue: 0,00:08:40.64,00:08:43.12,Default,,0,0,0,,I didn’t expect that now...
+Dialogue: 0,00:08:44.92,00:08:46.96,Default,,0,0,0,,It’s not your own responsibility now
+Dialogue: 0,00:08:47.48,00:08:49.32,Default,,0,0,0,,Since no one found that piece
+Dialogue: 0,00:08:49.44,00:08:52.08,Default,,0,0,0,,It’s clear that the sword must be there
+Dialogue: 0,00:08:52.88,00:08:55.55,Default,,0,0,0,,Now only this method can stop them
+Dialogue: 0,00:08:56.12,00:08:57.96,Default,,0,0,0,,Where is that cliff
+Dialogue: 0,00:08:59.12,00:09:00.67,Default,,0,0,0,,Let me lead you
+Dialogue: 0,00:09:01.12,00:09:01.55,Default,,0,0,0,,Um
+Dialogue: 0,00:09:04.88,00:09:05.60,Default,,0,0,0,,tomorrow
+Dialogue: 0,00:09:07.76,00:09:10.24,Default,,0,0,0,,You just stay to protect others
+Dialogue: 0,00:09:10.84,00:09:12.96,Default,,0,0,0,,Now Luna and the others can’t get out of the strange cat country
+Dialogue: 0,00:09:13.48,00:09:15.76,Default,,0,0,0,,Maybe I’ll go back to the palace for trouble
+Dialogue: 0,00:09:16.40,00:09:16.60,Default,,0,0,0,,Um
+Dialogue: 0,00:09:20.72,00:09:24.76,Default,,0,0,0,,No, the boundaries are all covered
+Dialogue: 0,00:09:24.84,00:09:26.24,Default,,0,0,0,,We can’t get out
+Dialogue: 0,00:09:27.76,00:09:30.80,Default,,0,0,0,,They actually blocked the entire cat country
+Dialogue: 0,00:09:32.28,00:09:33.84,Default,,0,0,0,,Turn on the dark energy
+Dialogue: 0,00:09:34.55,00:09:36.16,Default,,0,0,0,,What are you waiting for
+Dialogue: 0,00:09:36.36,00:09:38.05,Default,,0,0,0,,Not the time now
+Dialogue: 0,00:09:38.08,00:09:38.72,Default,,0,0,0,,Arrived
+Dialogue: 0,00:09:40.16,00:09:42.44,Default,,0,0,0,,It’s time to arrive at the cliff in front
+Dialogue: 0,00:09:44.00,00:09:45.08,Default,,0,0,0,,It’s Weslie and the others
+Dialogue: 0,00:09:47.44,00:09:48.88,Default,,0,0,0,,未分类
+Dialogue: 0,00:09:48.96,00:09:50.72,Default,,0,0,0,,Let’s see what plans they have
+Dialogue: 0,00:09:53.12,00:09:55.16,Default,,0,0,0,,We went to that cliff
+Dialogue: 0,00:09:55.48,00:09:57.48,Default,,0,0,0,,We can definitely find the light slab
+Dialogue: 0,00:09:58.36,00:10:01.20,Default,,0,0,0,,Disinfect all dark energy
+Dialogue: 0,00:10:02.28,00:10:03.76,Default,,0,0,0,,I’ll send you here
+Dialogue: 0,00:10:04.04,00:10:04.96,Default,,0,0,0,,Wish you success
+Dialogue: 0,00:10:06.48,00:10:09.16,Default,,0,0,0,,Is there a way to eliminate dark energy by using light sculpting?
+Dialogue: 0,00:10:10.72,00:10:14.40,Default,,0,0,0,,The drama that dispels dark energy in the story
+Dialogue: 0,00:10:14.80,00:10:17.28,Default,,0,0,0,,But no one has found it
+Dialogue: 0,00:10:18.04,00:10:20.29,Default,,0,0,0,,If they found that light drama
+Dialogue: 0,00:10:20.32,00:10:22.24,Default,,0,0,0,,Then I’ll be able to do it
+Dialogue: 0,00:10:22.76,00:10:24.84,Default,,0,0,0,,Let’s stop them
+Dialogue: 0,00:10:26.00,00:10:26.60,Default,,0,0,0,,no
+Dialogue: 0,00:10:27.67,00:10:30.32,Default,,0,0,0,,It will be terrible when we are caught together
+Dialogue: 0,00:10:30.92,00:10:33.55,Default,,0,0,0,,Dark energy cannot return to their hands
+Dialogue: 0,00:10:34.24,00:10:36.40,Default,,0,0,0,,So what plan do you have
+Dialogue: 0,00:10:36.72,00:10:39.64,Default,,0,0,0,,Since we two can’t get out
+Dialogue: 0,00:10:39.72,00:10:41.44,Default,,0,0,0,,That’s all I can do
+Dialogue: 0,00:10:42.04,00:10:43.04,Default,,0,0,0,,We’re...
+Dialogue: 0,00:10:46.52,00:10:48.92,Default,,0,0,0,,Take this one and go back to capture the palace
+Dialogue: 0,00:10:50.08,00:10:53.28,Default,,0,0,0,,Don’t turn on this threat before clearing it
+Dialogue: 0,00:10:54.32,00:10:55.52,Default,,0,0,0,,What about you?
+Dialogue: 0,00:10:55.96,00:10:58.36,Default,,0,0,0,,I’ll be before they find that saurus
+Dialogue: 0,00:10:58.92,00:11:01.76,Default,,0,0,0,,Take one step ahead and destroy it!
+Dialogue: 0,00:11:08.24,00:11:10.00,Default,,0,0,0,,The light drama is below
+Dialogue: 0,00:11:10.28,00:11:11.20,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:11:13.55,00:11:14.24,Default,,0,0,0,,Snake
+Dialogue: 0,00:11:18.16,00:11:19.44,Default,,0,0,0,,Let’s go down
+Dialogue: 0,00:11:19.88,00:11:20.32,Default,,0,0,0,,Um
+Dialogue: 0,00:11:31.92,00:11:34.16,Default,,0,0,0,,Where will the sculpt fall?
+Dialogue: 0,00:11:42.24,00:11:46.55,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:11:50.44,00:11:52.48,Default,,0,0,0,,There is a treasure box here
+Dialogue: 0,00:11:53.24,00:11:55.32,Default,,0,0,0,,Is the Daoguang Sword right inside?
+Dialogue: 0,00:11:57.80,00:11:59.12,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:01.04,00:12:02.60,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:12:03.67,00:12:06.24,Default,,0,0,0,,After searching for so long, I still haven’t found anything
+Dialogue: 0,00:12:07.08,00:12:10.04,Default,,0,0,0,,They searched for it for so many years but haven’t found that piece of cake
+Dialogue: 0,00:12:10.32,00:12:12.72,Default,,0,0,0,,How can we find it so easy?
+Dialogue: 0,00:12:14.24,00:12:15.24,Default,,0,0,0,,That’s it
+Dialogue: 0,00:12:15.28,00:12:17.80,Default,,0,0,0,,It also caused my ass to be bitten by a snake
+Dialogue: 0,00:12:23.96,00:12:27.92,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:12:29.40,00:12:30.00,Default,,0,0,0,,Look!
+Dialogue: 0,00:12:32.16,00:12:33.36,Default,,0,0,0,,There is a sword there!

@@ -1,0 +1,225 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.62,00:00:22.38,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:22.62,00:00:25.10,Default,,0,0,0,,The crisis in Science and Technology City was finally lifted
+Dialogue: 0,00:00:25.86,00:00:28.22,Default,,0,0,0,,Now just find the remaining cards
+Dialogue: 0,00:00:28.30,00:00:30.46,Default,,0,0,0,,You can restore the star stone
+Dialogue: 0,00:00:31.10,00:00:33.86,Default,,0,0,0,,Then there is a chance to help Weslie and others go back
+Dialogue: 0,00:00:36.22,00:00:37.18,Default,,0,0,0,,- Very good
+- Very good
+Dialogue: 0,00:00:37.66,00:00:39.90,Default,,0,0,0,,After eating, let’s go play
+Dialogue: 0,00:00:40.14,00:00:41.30,Default,,0,0,0,,OK
+Dialogue: 0,00:00:44.54,00:00:46.22,Default,,0,0,0,,Uh, Wolffy
+Dialogue: 0,00:00:47.22,00:00:48.54,Default,,0,0,0,,He’s busy
+Dialogue: 0,00:00:51.02,00:00:53.10,Default,,0,0,0,,Come on for red
+Dialogue: 0,00:00:57.22,00:01:01.10,Default,,0,0,0,,Red We have defeated Dr. Tie
+Dialogue: 0,00:01:01.26,00:01:04.26,Default,,0,0,0,,Now I finally have time to have a good conversation
+Dialogue: 0,00:01:04.70,00:01:05.78,Default,,0,0,0,,No need
+Dialogue: 0,00:01:06.78,00:01:10.68,Default,,0,0,0,,It’s okay. You want to talk after you’ve recovered your memory
+Dialogue: 0,00:01:10.70,00:01:12.34,Default,,0,0,0,,Come and take a look at this first
+Dialogue: 0,00:01:14.38,00:01:16.22,Default,,0,0,0,,This is our family portrait
+Dialogue: 0,00:01:16.50,00:01:18.74,Default,,0,0,0,,You’re as beautiful as you were back then
+Dialogue: 0,00:01:19.06,00:01:21.54,Default,,0,0,0,,I’m the same as I did back then
+Dialogue: 0,00:01:22.30,00:01:24.78,Default,,0,0,0,,Dad, you were like that year
+Dialogue: 0,00:01:25.54,00:01:27.54,Default,,0,0,0,,Red Red Come here soon
+Dialogue: 0,00:01:30.10,00:01:32.26,Default,,0,0,0,,This is your favorite queen
+Dialogue: 0,00:01:33.02,00:01:34.82,Default,,0,0,0,,Do you still remember this banana peel?
+Dialogue: 0,00:01:35.18,00:01:37.20,Default,,0,0,0,,There is also the smell of the chair...
+Dialogue: 0,00:01:37.22,00:01:38.10,Default,,0,0,0,,mother
+Dialogue: 0,00:01:39.34,00:01:42.34,Default,,0,0,0,,Do you remember the package you bought online before?
+Dialogue: 0,00:01:45.38,00:01:48.46,Default,,0,0,0,,Red, you’re remembering our home now
+Dialogue: 0,00:01:49.14,00:01:49.94,Default,,0,0,0,,no
+Dialogue: 0,00:01:51.42,00:01:52.94,Default,,0,0,0,,It’s okay, I have it
+Dialogue: 0,00:02:00.70,00:02:02.62,Default,,0,0,0,,This is my big move
+Dialogue: 0,00:02:03.30,00:02:04.62,Default,,0,0,0,,What is this
+Dialogue: 0,00:02:07.42,00:02:07.86,Default,,0,0,0,,look
+Dialogue: 0,00:02:08.06,00:02:11.54,Default,,0,0,0,,This is your favorite stir-fry for me before
+Dialogue: 0,00:02:14.98,00:02:17.42,Default,,0,0,0,,You come and taste it and remember it
+Dialogue: 0,00:02:17.98,00:02:20.42,Default,,0,0,0,,Never seen such a bad stir-fry
+Dialogue: 0,00:02:22.38,00:02:24.46,Default,,0,0,0,,This trick doesn’t work either
+Dialogue: 0,00:02:26.30,00:02:28.98,Default,,0,0,0,,You don’t like this, I have other ones
+Dialogue: 0,00:02:29.58,00:02:31.06,Default,,0,0,0,,It won’t be this thing again
+Dialogue: 0,00:02:31.18,00:02:33.34,Default,,0,0,0,,Red Red You just believe me
+Dialogue: 0,00:02:42.46,00:02:45.74,Default,,0,0,0,,Red eat more, this is what you love the most
+Dialogue: 0,00:02:46.22,00:02:47.82,Default,,0,0,0,,This is also your favorite food
+Dialogue: 0,00:02:47.90,00:02:49.64,Default,,0,0,0,,And this and this...
+Dialogue: 0,00:02:49.66,00:02:52.22,Default,,0,0,0,,Oh, he accidentally got too much
+Dialogue: 0,00:02:52.38,00:02:53.56,Default,,0,0,0,,You’ve got it all for me
+Dialogue: 0,00:02:53.58,00:02:54.82,Default,,0,0,0,,What are you eating
+Dialogue: 0,00:02:55.62,00:02:56.98,Default,,0,0,0,,I...I...
+Dialogue: 0,00:02:59.22,00:03:02.22,Default,,0,0,0,,I’ll eat the coriander you don’t eat
+Dialogue: 0,00:03:08.34,00:03:11.46,Default,,0,0,0,,Red You haven’t eaten well in these fifteen years
+Dialogue: 0,00:03:11.78,00:03:15.30,Default,,0,0,0,,From now on, I will let you eat every one of them
+Dialogue: 0,00:03:17.38,00:03:20.74,Default,,0,0,0,,Red, you can see
+Dialogue: 0,00:03:21.66,00:03:23.26,Default,,0,0,0,,There is nothing special
+Dialogue: 0,00:03:25.46,00:03:26.26,Default,,0,0,0,,yes
+Dialogue: 0,00:03:26.62,00:03:29.86,Default,,0,0,0,,Because the most special thing is in front of me
+Dialogue: 0,00:03:37.82,00:03:38.30,Default,,0,0,0,,dad
+Dialogue: 0,00:03:42.54,00:03:44.78,Default,,0,0,0,,Dad, I didn’t see anything
+Dialogue: 0,00:03:45.10,00:03:45.88,Default,,0,0,0,,I originally wanted to
+Dialogue: 0,00:03:45.90,00:03:48.22,Default,,0,0,0,,Give you the tickets for these two games
+Dialogue: 0,00:03:50.18,00:03:51.06,Default,,0,0,0,,come on
+Dialogue: 0,00:03:54.42,00:03:57.62,Default,,0,0,0,,Red, let’s go to the park to play
+Dialogue: 0,00:03:57.74,00:03:58.28,Default,,0,0,0,,I…
+Dialogue: 0,00:03:58.30,00:03:59.34,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:04:01.06,00:04:04.30,Default,,0,0,0,,Have a great day at the park and red
+Dialogue: 0,00:04:08.30,00:04:11.76,Default,,0,0,0,,Ahhhhhh
+Dialogue: 0,00:04:11.78,00:04:13.90,Default,,0,0,0,,This is not good at all
+Dialogue: 0,00:04:14.74,00:04:15.54,Default,,0,0,0,,You’re afraid
+Dialogue: 0,00:04:17.78,00:04:21.26,Default,,0,0,0,,How is it possible that I, Big Wolf King, are afraid of
+Dialogue: 0,00:04:26.42,00:04:29.12,Default,,0,0,0,,Red, don’t be nervous, it’s only a few ten seconds
+Dialogue: 0,00:04:29.14,00:04:32.50,Default,,0,0,0,,Oh, I don’t want to play for a second
+Dialogue: 0,00:04:38.10,00:04:39.90,Default,,0,0,0,,Still have to take action
+Dialogue: 0,00:04:40.34,00:04:43.78,Default,,0,0,0,,Don’t worry, Father, I won’t hurt myself
+Dialogue: 0,00:05:02.26,00:05:03.50,Default,,0,0,0,,That’s just...
+Dialogue: 0,00:05:04.34,00:05:07.34,Default,,0,0,0,,The future of the game is terrible
+Dialogue: 0,00:05:07.74,00:05:10.02,Default,,0,0,0,,Red, let’s go and play other things
+Dialogue: 0,00:05:11.18,00:05:13.66,Default,,0,0,0,,Don’t play anymore No more...
+Dialogue: 0,00:05:15.90,00:05:17.56,Default,,0,0,0,,This is the game
+Dialogue: 0,00:05:17.58,00:05:18.46,Default,,0,0,0,,Fame
+Dialogue: 0,00:05:21.26,00:05:22.58,Default,,0,0,0,,There is a gift in the set
+Dialogue: 0,00:05:23.18,00:05:24.48,Default,,0,0,0,,Let’s play this
+Dialogue: 0,00:05:24.50,00:05:25.78,Default,,0,0,0,,This security
+Dialogue: 0,00:05:26.46,00:05:27.34,Default,,0,0,0,,Safety
+Dialogue: 0,00:05:27.74,00:05:28.26,Default,,0,0,0,,no
+Dialogue: 0,00:05:28.58,00:05:31.62,Default,,0,0,0,,I mean this game requires insight
+Dialogue: 0,00:05:32.02,00:05:35.26,Default,,0,0,0,,Quick judgment and decisive movement
+Dialogue: 0,00:05:35.94,00:05:38.92,Default,,0,0,0,,Dad, this circle game is too boring and won’t play
+Dialogue: 0,00:05:38.94,00:05:40.02,Default,,0,0,0,,kid
+Dialogue: 0,00:05:40.50,00:05:41.86,Default,,0,0,0,,Don’t play, boring
+Dialogue: 0,00:05:42.86,00:05:44.74,Default,,0,0,0,,All are here, let’s have fun
+Dialogue: 0,00:05:48.18,00:05:50.98,Default,,0,0,0,,Red, you’re afraid of being transferred to me
+Dialogue: 0,00:05:51.70,00:05:53.76,Default,,0,0,0,,I didn’t expect you to be very skilled
+Dialogue: 0,00:05:53.78,00:05:56.12,Default,,0,0,0,,I have no confidence in this little game
+Dialogue: 0,00:05:56.14,00:05:58.30,Default,,0,0,0,,Do you think I’ll get your motivation?
+Dialogue: 0,00:05:58.78,00:06:00.86,Default,,0,0,0,,I’m just a little bit leisurely
+Dialogue: 0,00:06:03.30,00:06:03.78,Default,,0,0,0,,Seen
+Dialogue: 0,00:06:04.70,00:06:05.26,Default,,0,0,0,,whee
+Dialogue: 0,00:06:06.74,00:06:07.82,Default,,0,0,0,,I haven’t finished yet
+Dialogue: 0,00:06:08.42,00:06:09.98,Default,,0,0,0,,whee...
+Dialogue: 0,00:06:12.38,00:06:14.62,Default,,0,0,0,,Finally got this doll
+Dialogue: 0,00:06:15.14,00:06:17.10,Default,,0,0,0,,It’s a boring game. Let’s go
+Dialogue: 0,00:06:17.42,00:06:18.78,Default,,0,0,0,,Red
+Dialogue: 0,00:06:19.02,00:06:19.50,Default,,0,0,0,,Do it
+Dialogue: 0,00:06:21.46,00:06:23.46,Default,,0,0,0,,This doll is given to you
+Dialogue: 0,00:06:23.82,00:06:24.30,Default,,0,0,0,,ah
+Dialogue: 0,00:06:25.18,00:06:25.78,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:06:27.10,00:06:30.16,Default,,0,0,0,,But I’m concocting this doll for you
+Dialogue: 0,00:06:30.18,00:06:30.66,Default,,0,0,0,,what
+Dialogue: 0,00:06:31.38,00:06:33.38,Default,,0,0,0,,I can’t remember who you are
+Dialogue: 0,00:06:35.02,00:06:36.74,Default,,0,0,0,,You don’t remember me before
+Dialogue: 0,00:06:36.82,00:06:39.64,Default,,0,0,0,,Then you can just re-recognize me now
+Dialogue: 0,00:06:39.66,00:06:41.72,Default,,0,0,0,,As long as we are together
+Dialogue: 0,00:06:41.74,00:06:43.58,Default,,0,0,0,,There is no need to recall
+Dialogue: 0,00:06:45.10,00:06:47.30,Default,,0,0,0,,Doll, are you right?
+Dialogue: 0,00:06:47.66,00:06:48.70,Default,,0,0,0,,Right
+Dialogue: 0,00:06:51.10,00:06:52.72,Default,,0,0,0,,Your performance just now is too stupid
+Dialogue: 0,00:06:52.74,00:06:53.50,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:06:53.86,00:06:55.70,Default,,0,0,0,,Ah, don’t do that
+Dialogue: 0,00:06:58.06,00:07:00.70,Default,,0,0,0,,Red, let’s go to the time corridor to play
+Dialogue: 0,00:07:02.62,00:07:04.66,Default,,0,0,0,,That’s a red spot on the internet
+Dialogue: 0,00:07:07.30,00:07:10.30,Default,,0,0,0,,Look, red, we are old
+Dialogue: 0,00:07:11.26,00:07:11.98,Default,,0,0,0,,That’s it...
+Dialogue: 0,00:07:20.74,00:07:23.06,Default,,0,0,0,,Red, you’re waiting for me here
+Dialogue: 0,00:07:25.26,00:07:26.94,Default,,0,0,0,,The feeling of discomfort that just started
+Dialogue: 0,00:07:27.70,00:07:28.82,Default,,0,0,0,,What exactly is...
+Dialogue: 0,00:07:29.90,00:07:31.82,Default,,0,0,0,,It’s hard to say it’s my fault
+Dialogue: 0,00:07:32.42,00:07:33.22,Default,,0,0,0,,Ani
+Dialogue: 0,00:07:37.58,00:07:38.50,Default,,0,0,0,,Not wrong
+Dialogue: 0,00:07:40.98,00:07:43.22,Default,,0,0,0,,Annie Annie…
+Dialogue: 0,00:07:45.10,00:07:46.62,Default,,0,0,0,,The person who can call out this name
+Dialogue: 0,00:07:47.54,00:07:48.74,Default,,0,0,0,,Only one
+Dialogue: 0,00:07:49.46,00:07:50.58,Default,,0,0,0,,But how
+Dialogue: 0,00:08:03.38,00:08:06.64,Default,,0,0,0,,Red I’ll give you a ball to surprise you
+Dialogue: 0,00:08:06.66,00:08:08.26,Default,,0,0,0,,I didn’t expect to scare you
+Dialogue: 0,00:08:08.78,00:08:10.38,Default,,0,0,0,,Yes...I’m sorry
+Dialogue: 0,00:08:11.62,00:08:14.06,Default,,0,0,0,,Why does red look so uneasy
+Dialogue: 0,00:08:14.70,00:08:17.18,Default,,0,0,0,,How can I eliminate the uneasiness of red
+Dialogue: 0,00:08:17.34,00:08:21.32,Default,,0,0,0,,Ah... You were just in amazement and protecting others
+Dialogue: 0,00:08:21.34,00:08:23.46,Default,,0,0,0,,They feel very secure
+Dialogue: 0,00:08:23.74,00:08:24.98,Default,,0,0,0,,There is a way
+Dialogue: 0,00:08:25.86,00:08:28.14,Default,,0,0,0,,If red is scared in the house
+Dialogue: 0,00:08:28.26,00:08:31.02,Default,,0,0,0,,I want to show my heroic side to protect her
+Dialogue: 0,00:08:33.26,00:08:35.50,Default,,0,0,0,,They feel very secure
+Dialogue: 0,00:08:37.42,00:08:38.20,Default,,0,0,0,,Nothing is wrong
+Dialogue: 0,00:08:38.22,00:08:40.18,Default,,0,0,0,,Red, let’s go to the surprise house
+Dialogue: 0,00:08:41.10,00:08:42.74,Default,,0,0,0,,Let’s go I’ll protect you
+Dialogue: 0,00:08:53.94,00:08:57.00,Default,,0,0,0,,Red, don’t be afraid, I’m right beside you
+Dialogue: 0,00:08:57.02,00:08:59.66,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:00.78,00:09:01.84,Default,,0,0,0,,Help
+Dialogue: 0,00:09:01.86,00:09:02.72,Default,,0,0,0,,So terrible
+Dialogue: 0,00:09:02.74,00:09:03.68,Default,,0,0,0,,Help
+Dialogue: 0,00:09:03.70,00:09:05.10,Default,,0,0,0,,Just a tourist
+Dialogue: 0,00:09:06.26,00:09:10.18,Default,,0,0,0,,Of course I know, just want to warm up the atmosphere
+Dialogue: 0,00:09:10.46,00:09:11.84,Default,,0,0,0,,How to beat
+Dialogue: 0,00:09:11.86,00:09:13.60,Default,,0,0,0,,Everything here is props
+Dialogue: 0,00:09:13.62,00:09:15.62,Default,,0,0,0,,It can also scare the child...
+Dialogue: 0,00:09:16.42,00:09:17.78,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:18.22,00:09:19.88,Default,,0,0,0,,Oh, red, I’m afraid
+Dialogue: 0,00:09:19.90,00:09:21.82,Default,,0,0,0,,You come and protect me
+Dialogue: 0,00:09:22.54,00:09:24.40,Default,,0,0,0,,As long as you can be with Red
+Dialogue: 0,00:09:24.42,00:09:26.14,Default,,0,0,0,,So what about changing the strategy
+Dialogue: 0,00:09:27.22,00:09:28.58,Default,,0,0,0,,Just a prop
+Dialogue: 0,00:09:29.42,00:09:30.78,Default,,0,0,0,,You’ll come down first
+Dialogue: 0,00:09:36.62,00:09:37.50,Default,,0,0,0,,Appeared
+Dialogue: 0,00:09:38.10,00:09:39.14,Default,,0,0,0,,Red Where are you going
+Dialogue: 0,00:09:39.98,00:09:41.74,Default,,0,0,0,,Oh, don’t go so fast
+Dialogue: 0,00:09:42.70,00:09:44.42,Default,,0,0,0,,Red, you wait for me
+Dialogue: 0,00:09:46.50,00:09:47.86,Default,,0,0,0,,Stop running...
+Dialogue: 0,00:09:48.38,00:09:50.16,Default,,0,0,0,,Red let me take a breath
+Dialogue: 0,00:09:50.18,00:09:52.62,Default,,0,0,0,,What kind of red do you want...
+Dialogue: 0,00:09:55.34,00:09:56.38,Default,,0,0,0,,Red...
+Dialogue: 0,00:09:56.66,00:09:58.50,Default,,0,0,0,,Oh, let’s go quickly...
+Dialogue: 0,00:10:04.02,00:10:07.30,Default,,0,0,0,,Holding red hands will make you feel much more at ease
+Dialogue: 0,00:10:08.02,00:10:10.50,Default,,0,0,0,,The surprise is not that scary
+Dialogue: 0,00:10:10.98,00:10:14.54,Default,,0,0,0,,I really hope this shocking house will never be as good as possible
+Dialogue: 0,00:10:16.14,00:10:17.46,Default,,0,0,0,,Finally came out
+Dialogue: 0,00:10:17.70,00:10:19.60,Default,,0,0,0,,Red Red What do you think
+Dialogue: 0,00:10:19.62,00:10:21.26,Default,,0,0,0,,Feeling bad
+Dialogue: 0,00:10:22.82,00:10:25.74,Default,,0,0,0,,Why do I have to pull me out? I still have to work
+Dialogue: 0,00:10:26.02,00:10:27.86,Default,,0,0,0,,You will pay after the salary is deducted
+Dialogue: 0,00:10:30.06,00:10:31.74,Default,,0,0,0,,It’s not the time to fall
+Dialogue: 0,00:10:32.06,00:10:33.82,Default,,0,0,0,,Red is still in the shocking house
+Dialogue: 0,00:10:38.10,00:10:39.46,Default,,0,0,0,,Who is he
+Dialogue: 0,00:10:55.42,00:10:56.14,Default,,0,0,0,,what
+Dialogue: 0,00:10:57.70,00:10:58.62,Default,,0,0,0,,ah
+Dialogue: 0,00:11:02.94,00:11:04.50,Default,,0,0,0,,You...who are you
+Dialogue: 0,00:11:10.74,00:11:14.50,Default,,0,0,0,,Red... Where are you
+Dialogue: 0,00:11:15.58,00:11:18.30,Default,,0,0,0,,Have you ever seen a female wolf like an agent
+Dialogue: 0,00:11:18.42,00:11:19.38,Default,,0,0,0,,no…
+Dialogue: 0,00:11:20.50,00:11:21.18,Default,,0,0,0,,And you
+Dialogue: 0,00:11:21.62,00:11:23.86,Default,,0,0,0,,Red... Red
+Dialogue: 0,00:11:24.38,00:11:25.10,Default,,0,0,0,,ah
+Dialogue: 0,00:11:26.18,00:11:29.02,Default,,0,0,0,,Is it you who just kept following me?
+Dialogue: 0,00:11:31.30,00:11:33.94,Default,,0,0,0,,I’m not there, you have fun
+Dialogue: 0,00:11:34.30,00:11:36.18,Default,,0,0,0,,But I’m not happy
+Dialogue: 0,00:11:36.46,00:11:38.34,Default,,0,0,0,,You betray me again and again
+Dialogue: 0,00:11:38.90,00:11:39.90,Default,,0,0,0,,Who are you
+Dialogue: 0,00:11:55.58,00:11:56.22,Default,,0,0,0,,Well
+Dialogue: 0,00:11:57.02,00:11:59.50,Default,,0,0,0,,How do you know...my moves
+Dialogue: 0,00:12:00.18,00:12:02.26,Default,,0,0,0,,Tell me who are you
+Dialogue: 0,00:12:02.74,00:12:03.70,Default,,0,0,0,,I said...
+Dialogue: 0,00:12:03.86,00:12:07.30,Default,,0,0,0,,Mission failed I will make you pay
+Dialogue: 0,00:12:07.50,00:12:08.54,Default,,0,0,0,,Ani
+Dialogue: 0,00:12:10.22,00:12:12.44,Default,,0,0,0,,It’s impossible that you are not already...
+Dialogue: 0,00:12:12.46,00:12:15.06,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:16.02,00:12:17.10,Default,,0,0,0,,card…
+Dialogue: 0,00:12:17.50,00:12:17.98,Default,,0,0,0,,snort
+Dialogue: 0,00:12:22.82,00:12:24.30,Default,,0,0,0,,Where are you
+Dialogue: 0,00:12:25.18,00:12:27.14,Default,,0,0,0,,Red Red What’s wrong with you?
+Dialogue: 0,00:12:27.66,00:12:28.86,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:12:29.26,00:12:32.26,Default,,0,0,0,,It’s me, red... red...

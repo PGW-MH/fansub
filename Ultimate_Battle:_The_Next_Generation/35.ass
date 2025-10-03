@@ -1,0 +1,162 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:42.33,00:00:45.53,Default,,0,0,0,,Fragment fusion is complete Next to eliminate the memory
+Dialogue: 0,00:00:52.61,00:00:54.13,Default,,0,0,0,,Wait until the memory is eliminated
+Dialogue: 0,00:00:54.65,00:00:57.41,Default,,0,0,0,,You can start card function testing
+Dialogue: 0,00:01:11.49,00:01:12.49,Default,,0,0,0,,Red
+Dialogue: 0,00:01:16.97,00:01:20.17,Default,,0,0,0,,Red is me, Big Grey Wolf
+Dialogue: 0,00:01:21.01,00:01:22.85,Default,,0,0,0,,Why do you ignore me
+Dialogue: 0,00:01:24.17,00:01:25.01,Default,,0,0,0,,oops
+Dialogue: 0,00:01:31.93,00:01:33.05,Default,,0,0,0,,Mechanization…
+Dialogue: 0,00:01:34.65,00:01:36.49,Default,,0,0,0,,Red and wait for me
+Dialogue: 0,00:01:41.73,00:01:43.29,Default,,0,0,0,,No...
+Dialogue: 0,00:01:52.17,00:01:53.17,Default,,0,0,0,,No
+Dialogue: 0,00:01:56.57,00:01:57.69,Default,,0,0,0,,- Don’t have anything
+- Don’t have anything
+Dialogue: 0,00:02:01.01,00:02:02.21,Default,,0,0,0,,It turns out to be a dream
+Dialogue: 0,00:02:04.05,00:02:06.93,Default,,0,0,0,,Sorry, I fell asleep
+Dialogue: 0,00:02:08.13,00:02:10.09,Default,,0,0,0,,I’m too tired to find cards recently
+Dialogue: 0,00:02:10.41,00:02:12.37,Default,,0,0,0,,Are you just having a nightmare dream?
+Dialogue: 0,00:02:16.65,00:02:18.13,Default,,0,0,0,,I’ve dreamed of red
+Dialogue: 0,00:02:20.09,00:02:22.97,Default,,0,0,0,,Probably because I haven’t been able to contact her recently
+Dialogue: 0,00:02:23.17,00:02:24.85,Default,,0,0,0,,I’m so worried
+Dialogue: 0,00:02:26.49,00:02:27.45,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:02:27.73,00:02:30.89,Default,,0,0,0,,You asked me to investigate the behavior of Wolnie before
+Dialogue: 0,00:02:31.41,00:02:32.65,Default,,0,0,0,,I found it
+Dialogue: 0,00:02:33.53,00:02:34.41,Default,,0,0,0,,real
+Dialogue: 0,00:02:40.05,00:02:41.45,Default,,0,0,0,,Where is the red red
+Dialogue: 0,00:02:42.13,00:02:44.05,Default,,0,0,0,,Through the monitoring of the Science and Technology City
+Dialogue: 0,00:02:44.25,00:02:47.53,Default,,0,0,0,,You can see that Wolnie has returned to the Science and Technology City
+Dialogue: 0,00:02:48.41,00:02:52.05,Default,,0,0,0,,Look, these are all her activities
+Dialogue: 0,00:02:53.45,00:02:56.49,Default,,0,0,0,,Where is the final event? When is it
+Dialogue: 0,00:02:57.49,00:03:01.53,Default,,0,0,0,,Seven days ago Wolnie had returned to the neighborhood of Wolf Castle
+Dialogue: 0,00:03:01.89,00:03:04.73,Default,,0,0,0,,But the activity tracks are closed nearby
+Dialogue: 0,00:03:05.69,00:03:07.69,Default,,0,0,0,,Red Red returns to the Wolf Castle
+Dialogue: 0,00:03:08.21,00:03:10.13,Default,,0,0,0,,Then why didn’t she go home?
+Dialogue: 0,00:03:11.69,00:03:13.33,Default,,0,0,0,,Have you encountered danger?
+Dialogue: 0,00:03:15.21,00:03:17.73,Default,,0,0,0,,No, I’m going to go out to find her
+Dialogue: 0,00:03:19.17,00:03:20.21,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:03:20.69,00:03:23.29,Default,,0,0,0,,Wilie Let’s go find red red together
+Dialogue: 0,00:03:24.49,00:03:25.05,Default,,0,0,0,,etc.
+Dialogue: 0,00:03:25.57,00:03:26.91,Default,,0,0,0,,We’ll go with you
+Dialogue: 0,00:03:26.93,00:03:28.95,Default,,0,0,0,,Yes, look for it separately
+Dialogue: 0,00:03:28.97,00:03:29.69,Default,,0,0,0,,Um
+Dialogue: 0,00:03:52.53,00:03:53.41,Default,,0,0,0,,Where is this
+Dialogue: 0,00:04:04.05,00:04:05.21,Default,,0,0,0,,Where is this
+Dialogue: 0,00:04:06.21,00:04:07.77,Default,,0,0,0,,I...who am I
+Dialogue: 0,00:04:10.81,00:04:13.45,Default,,0,0,0,,Doctor Her memory has not been completely eliminated
+Dialogue: 0,00:04:13.97,00:04:15.25,Default,,0,0,0,,Need a test
+Dialogue: 0,00:04:16.97,00:04:17.81,Default,,0,0,0,,Um
+Dialogue: 0,00:04:20.93,00:04:21.93,Default,,0,0,0,,Is anyone
+Dialogue: 0,00:04:23.09,00:04:24.21,Default,,0,0,0,,Answer me quickly
+Dialogue: 0,00:04:25.37,00:04:27.61,Default,,0,0,0,,Who is the responsible person here?
+Dialogue: 0,00:04:27.81,00:04:30.29,Default,,0,0,0,,Why did I suddenly keep me here
+Dialogue: 0,00:04:30.57,00:04:32.09,Default,,0,0,0,,Come out soon
+Dialogue: 0,00:04:38.49,00:04:39.65,Default,,0,0,0,,What is this
+Dialogue: 0,00:04:56.25,00:04:56.95,Default,,0,0,0,,ah
+Dialogue: 0,00:04:56.97,00:04:59.15,Default,,0,0,0,,What’s going on in this place
+Dialogue: 0,00:04:59.17,00:05:01.97,Default,,0,0,0,,Start attacking others without saying a word
+Dialogue: 0,00:05:02.93,00:05:06.77,Default,,0,0,0,,Response and agility marks Agent functions take effect
+Dialogue: 0,00:05:07.05,00:05:10.01,Default,,0,0,0,,Isn’t this someone? Let me out quickly
+Dialogue: 0,00:05:18.97,00:05:19.97,Default,,0,0,0,,Power level
+Dialogue: 0,00:05:30.25,00:05:31.57,Default,,0,0,0,,Dare to hit me
+Dialogue: 0,00:05:47.97,00:05:49.21,Default,,0,0,0,,Accuracy standards
+Dialogue: 0,00:05:50.21,00:05:51.89,Default,,0,0,0,,Agent function test passed
+Dialogue: 0,00:05:52.17,00:05:54.25,Default,,0,0,0,,Begin to conduct an intimate test
+Dialogue: 0,00:06:01.09,00:06:03.05,Default,,0,0,0,,What tricks do you want to play
+Dialogue: 0,00:06:03.25,00:06:09.89,Default,,0,0,0,,If I don’t let me out, I will call you...
+Dialogue: 0,00:06:10.25,00:06:11.21,Default,,0,0,0,,Who do I want to call...
+Dialogue: 0,00:06:17.05,00:06:18.93,Default,,0,0,0,,Who are they...
+Dialogue: 0,00:06:20.41,00:06:22.65,Default,,0,0,0,,Who is it? I can’t remember
+Dialogue: 0,00:06:23.33,00:06:24.53,Default,,0,0,0,,Red...
+Dialogue: 0,00:06:24.93,00:06:27.09,Default,,0,0,0,,mother…
+Who is it...
+Dialogue: 0,00:06:33.37,00:06:35.17,Default,,0,0,0,,Who is it...
+Dialogue: 0,00:06:39.53,00:06:41.17,Default,,0,0,0,,Not good, let her escape
+Dialogue: 0,00:06:42.37,00:06:44.31,Default,,0,0,0,,- Robots are chasing
+- Robots are chasing
+Dialogue: 0,00:06:44.33,00:06:45.09,Default,,0,0,0,,yes
+Dialogue: 0,00:06:51.57,00:06:53.21,Default,,0,0,0,,Test Continue
+Dialogue: 0,00:07:00.05,00:07:01.45,Default,,0,0,0,,Wait for me Hahaha
+Dialogue: 0,00:07:06.49,00:07:08.33,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:07:08.41,00:07:09.49,Default,,0,0,0,,Who am I
+Dialogue: 0,00:07:12.01,00:07:14.05,Default,,0,0,0,,Target person chase
+Dialogue: 0,00:07:14.17,00:07:15.45,Default,,0,0,0,,Why do you want to catch me
+Dialogue: 0,00:07:15.73,00:07:17.45,Default,,0,0,0,,Who can tell me...
+Dialogue: 0,00:07:26.97,00:07:28.17,Default,,0,0,0,,Another batch
+Dialogue: 0,00:07:43.97,00:07:45.45,Default,,0,0,0,,Why do you want to chase me
+Dialogue: 0,00:07:46.45,00:07:47.57,Default,,0,0,0,,Catch it back
+Dialogue: 0,00:07:51.81,00:07:53.21,Default,,0,0,0,,I actually jumped so high
+Dialogue: 0,00:08:00.09,00:08:02.89,Default,,0,0,0,,Wilie, have you found it there?
+Dialogue: 0,00:08:03.21,00:08:03.77,Default,,0,0,0,,no
+Dialogue: 0,00:08:04.13,00:08:05.93,Default,,0,0,0,,I haven’t found this direction yet
+Dialogue: 0,00:08:06.45,00:08:07.45,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:08:33.93,00:08:36.65,Default,,0,0,0,,Target disappears Continue search
+Dialogue: 0,00:08:40.41,00:08:43.41,Default,,0,0,0,,They... didn’t find me
+Dialogue: 0,00:08:46.45,00:08:48.65,Default,,0,0,0,,Ah I’m obsessed
+Dialogue: 0,00:09:02.85,00:09:04.21,Default,,0,0,0,,Passed by the Invisible Test
+Dialogue: 0,00:09:06.13,00:09:08.77,Default,,0,0,0,,This work is a bit interesting
+Dialogue: 0,00:09:09.73,00:09:11.01,Default,,0,0,0,,Recycle now
+Dialogue: 0,00:09:12.09,00:09:12.69,Default,,0,0,0,,yes
+Dialogue: 0,00:09:19.81,00:09:21.29,Default,,0,0,0,,Can’t find it here either
+Dialogue: 0,00:09:25.89,00:09:29.85,Default,,0,0,0,,Tianyan once again observed the activity traces of Wolnie
+Dialogue: 0,00:09:30.93,00:09:31.55,Default,,0,0,0,,real
+Dialogue: 0,00:09:31.57,00:09:32.85,Default,,0,0,0,,Where is it
+Dialogue: 0,00:09:34.73,00:09:36.33,Default,,0,0,0,,Right near you
+Dialogue: 0,00:09:38.41,00:09:39.77,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:09:40.01,00:09:40.57,Default,,0,0,0,,- Um
+- Um
+Dialogue: 0,00:09:53.65,00:09:55.85,Default,,0,0,0,,Where did this force come from
+Dialogue: 0,00:09:56.17,00:09:57.05,Default,,0,0,0,,I...
+Dialogue: 0,00:10:04.49,00:10:05.93,Default,,0,0,0,,Who am I...
+Dialogue: 0,00:10:19.53,00:10:20.97,Default,,0,0,0,,It seems to be around here
+Dialogue: 0,00:10:21.33,00:10:23.10,Default,,0,0,0,,- Red Red…
+- Wolnie...
+Dialogue: 0,00:10:23.13,00:10:24.05,Default,,0,0,0,,mother…
+Dialogue: 0,00:10:25.25,00:10:26.89,Default,,0,0,0,,Where are you
+Dialogue: 0,00:10:29.33,00:10:30.49,Default,,0,0,0,,Very familiar sound
+Dialogue: 0,00:10:30.85,00:10:32.73,Default,,0,0,0,,Red...who is it?
+Dialogue: 0,00:10:33.61,00:10:34.37,Default,,0,0,0,,The head hurts so much...
+Dialogue: 0,00:10:37.49,00:10:39.85,Default,,0,0,0,,Red I’m here
+Dialogue: 0,00:10:43.61,00:10:44.49,Default,,0,0,0,,Who is he
+Dialogue: 0,00:10:45.53,00:10:46.45,Default,,0,0,0,,Who are you
+Dialogue: 0,00:10:48.13,00:10:51.09,Default,,0,0,0,,Red...I heard the red sound
+Dialogue: 0,00:10:51.61,00:10:53.65,Default,,0,0,0,,Really, I heard it too
+Dialogue: 0,00:10:54.81,00:10:55.45,Default,,0,0,0,,Is there any
+Dialogue: 0,00:10:59.93,00:11:01.29,Default,,0,0,0,,Who is he
+Dialogue: 0,00:11:02.41,00:11:04.61,Default,,0,0,0,,Red Red Where are you
+Dialogue: 0,00:11:11.21,00:11:14.19,Default,,0,0,0,,Dad Mom, hurry up
+Dialogue: 0,00:11:14.21,00:11:15.65,Default,,0,0,0,,- Come son
+- Come
+Dialogue: 0,00:11:17.57,00:11:18.69,Default,,0,0,0,,Son...
+Dialogue: 0,00:11:27.45,00:11:28.37,Default,,0,0,0,,Red
+Dialogue: 0,00:11:31.25,00:11:32.13,Default,,0,0,0,,mother
+Dialogue: 0,00:11:36.77,00:11:39.25,Default,,0,0,0,,Little gray... Big gray wolf...
+Dialogue: 0,00:11:41.09,00:11:42.29,Default,,0,0,0,,I remembered...
+Dialogue: 0,00:11:43.41,00:11:45.73,Default,,0,0,0,,They are my husband and son
+Dialogue: 0,00:11:49.29,00:11:51.03,Default,,0,0,0,,Wolffy I’m here
+Dialogue: 0,00:11:51.05,00:11:51.93,Default,,0,0,0,,Red...
+Dialogue: 0,00:11:54.17,00:11:55.73,Default,,0,0,0,,It’s a red sound
+Dialogue: 0,00:11:57.09,00:11:58.85,Default,,0,0,0,,They’re still waiting for me to go home
+Dialogue: 0,00:12:01.69,00:12:03.53,Default,,0,0,0,,I want to go home
+Dialogue: 0,00:12:08.45,00:12:09.21,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:12:10.09,00:12:11.85,Default,,0,0,0,,Ah I’m sorry
+Dialogue: 0,00:12:14.89,00:12:15.97,Default,,0,0,0,,What about red
+Dialogue: 0,00:12:17.85,00:12:19.85,Default,,0,0,0,,Wolffy found it?
+Dialogue: 0,00:12:20.37,00:12:21.21,Default,,0,0,0,,not…
+Dialogue: 0,00:12:22.21,00:12:25.09,Default,,0,0,0,,Oh, my air ball has flew away
+Dialogue: 0,00:12:28.29,00:12:29.69,Default,,0,0,0,,Red...

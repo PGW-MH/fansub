@@ -1,0 +1,219 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.49,00:00:20.93,Default,,0,0,0,,Not overestimating one’s ability
+Dialogue: 0,00:00:27.17,00:00:28.29,Default,,0,0,0,,No matter what you say
+Dialogue: 0,00:00:28.57,00:00:30.09,Default,,0,0,0,,No fight to the end
+Dialogue: 0,00:00:31.13,00:00:33.37,Default,,0,0,0,,We won’t give up
+Dialogue: 0,00:00:33.93,00:00:38.29,Default,,0,0,0,,So, let’s start to eliminate it from you
+Dialogue: 0,00:00:45.45,00:00:46.49,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:52.05,00:00:53.61,Default,,0,0,0,,Weslie Are you OK
+Dialogue: 0,00:00:54.05,00:00:55.77,Default,,0,0,0,,Yes, thank you
+Dialogue: 0,00:00:56.41,00:00:57.61,Default,,0,0,0,,Be careful above
+Dialogue: 0,00:01:00.57,00:01:01.21,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:01:11.97,00:01:14.29,Default,,0,0,0,,We will be friends in the future. I’ll send it to you
+Dialogue: 0,00:01:20.09,00:01:21.49,Default,,0,0,0,,Weslie Your hand...
+Dialogue: 0,00:01:22.13,00:01:24.37,Default,,0,0,0,,It’s nothing, it’s just a minor injury
+Dialogue: 0,00:01:26.29,00:01:28.05,Default,,0,0,0,,It’s nothing, it’s just a minor injury
+Dialogue: 0,00:01:29.37,00:01:31.61,Default,,0,0,0,,Why...you want to save him
+Dialogue: 0,00:01:32.77,00:01:35.85,Default,,0,0,0,,Wouldn’t it be fine if he escaped by himself?
+Dialogue: 0,00:01:36.77,00:01:38.13,Default,,0,0,0,,Of course I’m going to save
+Dialogue: 0,00:01:38.29,00:01:39.49,Default,,0,0,0,,Between friends
+Dialogue: 0,00:01:39.73,00:01:41.73,Default,,0,0,0,,It was originally just support and rely on each other
+Dialogue: 0,00:01:42.45,00:01:43.81,Default,,0,0,0,,Support and rely on
+Dialogue: 0,00:01:44.29,00:01:46.41,Default,,0,0,0,,Do you still need these with strength?
+Dialogue: 0,00:01:46.69,00:01:48.49,Default,,0,0,0,,That’s you don’t understand
+Dialogue: 0,00:01:49.45,00:01:53.05,Default,,0,0,0,,Hum, let me tell you a story...
+Dialogue: 0,00:01:56.45,00:01:58.87,Default,,0,0,0,,How can I spend the winter with so little food
+Dialogue: 0,00:01:58.89,00:02:01.49,Default,,0,0,0,,Alas, tighten your waistband, let’s live
+Dialogue: 0,00:02:03.45,00:02:05.13,Default,,0,0,0,,What are we here to do
+Dialogue: 0,00:02:05.89,00:02:08.65,Default,,0,0,0,,Let’s have a meal today
+Dialogue: 0,00:02:09.41,00:02:11.33,Default,,0,0,0,,Wait, where is the key
+Dialogue: 0,00:02:11.97,00:02:13.21,Default,,0,0,0,,I took it secretly
+Dialogue: 0,00:02:14.77,00:02:16.85,Default,,0,0,0,,Wow…
+Dialogue: 0,00:02:18.37,00:02:21.29,Default,,0,0,0,,Xiaohao, come and eat, too
+Dialogue: 0,00:02:22.13,00:02:24.97,Default,,0,0,0,,This is not good. This is everyone’s food...
+Dialogue: 0,00:02:25.13,00:02:27.69,Default,,0,0,0,,So what if we eat a little
+Dialogue: 0,00:02:30.25,00:02:32.53,Default,,0,0,0,,I heard the thunder sound
+Dialogue: 0,00:02:34.69,00:02:37.51,Default,,0,0,0,,Look, it’s a fish can
+Dialogue: 0,00:02:37.53,00:02:39.41,Default,,0,0,0,,We have meat to eat
+Dialogue: 0,00:02:39.65,00:02:42.25,Default,,0,0,0,,Help me take the keys and I go up and get it
+Dialogue: 0,00:02:48.29,00:02:49.37,Default,,0,0,0,,Be careful
+Dialogue: 0,00:02:59.01,00:03:00.25,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:05.53,00:03:07.49,Default,,0,0,0,,Oops, what about Xiao Chao
+Dialogue: 0,00:03:12.05,00:03:16.17,Default,,0,0,0,,Xiao Chao...I’ll save you here
+Dialogue: 0,00:03:22.05,00:03:23.89,Default,,0,0,0,,Can’t pull it out...
+Dialogue: 0,00:03:25.21,00:03:26.69,Default,,0,0,0,,What’s going on? Such a silence
+Dialogue: 0,00:03:32.65,00:03:34.65,Default,,0,0,0,,Little... Xiaohao...
+Dialogue: 0,00:03:40.05,00:03:41.57,Default,,0,0,0,,Xiaohao...ah...
+Dialogue: 0,00:03:41.69,00:03:43.13,Default,,0,0,0,,-Oh, too selfish
+Too selfish, it’s him
+Dialogue: 0,00:03:43.25,00:03:45.37,Default,,0,0,0,,- It’s really him doing
+- It was him who destroyed the food...
+Dialogue: 0,00:03:45.57,00:03:47.11,Default,,0,0,0,,- So selfish...
+- What should we do in winter...
+Dialogue: 0,00:03:47.13,00:03:48.17,Default,,0,0,0,,What...what...
+Dialogue: 0,00:03:54.25,00:03:56.29,Default,,0,0,0,,No...not me
+Dialogue: 0,00:03:56.65,00:03:58.77,Default,,0,0,0,,When we came, you were the only one.
+Dialogue: 0,00:03:58.97,00:04:00.49,Default,,0,0,0,,The key is in your hands too
+Dialogue: 0,00:04:02.61,00:04:04.57,Default,,0,0,0,,Duo Ni Xiaohao told us you are there
+Dialogue: 0,00:04:05.17,00:04:07.45,Default,,0,0,0,,Yes, let’s catch you right
+Dialogue: 0,00:04:08.69,00:04:11.05,Default,,0,0,0,,Not me, you know
+Dialogue: 0,00:04:11.81,00:04:13.73,Default,,0,0,0,,You explain it to everyone
+Dialogue: 0,00:04:14.37,00:04:15.09,Default,,0,0,0,,I…
+Dialogue: 0,00:04:16.89,00:04:22.57,Default,,0,0,0,,I...I don’t know
+Dialogue: 0,00:04:26.37,00:04:28.85,Default,,0,0,0,,Thieves, I don’t want to hear you cunning anymore
+Dialogue: 0,00:04:29.17,00:04:30.85,Default,,0,0,0,,You hurt us all
+Dialogue: 0,00:04:31.49,00:04:34.01,Default,,0,0,0,,Mom, are we going to have a stomachache?
+Dialogue: 0,00:04:34.69,00:04:37.69,Default,,0,0,0,,It won’t be, my mother will find you something to eat
+Dialogue: 0,00:04:38.13,00:04:39.49,Default,,0,0,0,,Traitor of the Wolf Clan
+Dialogue: 0,00:04:40.01,00:04:40.79,Default,,0,0,0,,traitor
+Dialogue: 0,00:04:40.81,00:04:42.07,Default,,0,0,0,,- Traitor
+- Thief
+Dialogue: 0,00:04:42.09,00:04:44.01,Default,,0,0,0,,traitor…
+Dialogue: 0,00:04:45.01,00:04:46.73,Default,,0,0,0,,Insult
+Dialogue: 0,00:04:47.25,00:04:49.23,Default,,0,0,0,,The Wolf Clan’s Incest
+Dialogue: 0,00:04:49.25,00:04:52.37,Default,,0,0,0,,Why is this for me... Xiaohao...
+Dialogue: 0,00:05:00.97,00:05:02.33,Default,,0,0,0,,There’s even a face coming out
+Dialogue: 0,00:05:02.57,00:05:03.25,Default,,0,0,0,,snort…
+Dialogue: 0,00:05:03.85,00:05:05.41,Default,,0,0,0,,We didn’t have food to steal it for him
+Dialogue: 0,00:05:05.89,00:05:08.89,Default,,0,0,0,,Such a bad wolf should have left the village
+Dialogue: 0,00:05:10.13,00:05:13.05,Default,,0,0,0,,Leave here we can’t afford to eat wolves
+Dialogue: 0,00:05:13.33,00:05:14.37,Default,,0,0,0,,Leave here
+Dialogue: 0,00:05:14.45,00:05:15.99,Default,,0,0,0,,Leave here
+Dialogue: 0,00:05:16.01,00:05:16.97,Default,,0,0,0,,- Leave
+- Leave
+Dialogue: 0,00:05:18.37,00:05:19.17,Default,,0,0,0,,Xiao Chao
+Dialogue: 0,00:05:20.29,00:05:21.61,Default,,0,0,0,,You heard me explain...
+Dialogue: 0,00:05:22.49,00:05:23.45,Default,,0,0,0,,actually…
+Dialogue: 0,00:05:24.97,00:05:25.73,Default,,0,0,0,,etc…
+Dialogue: 0,00:05:26.69,00:05:27.53,Default,,0,0,0,,Don’t touch me
+Dialogue: 0,00:05:33.65,00:05:36.33,Default,,0,0,0,,So the friendship you talk about is the same
+Dialogue: 0,00:05:36.97,00:05:39.09,Default,,0,0,0,,It’s just something that’s dirty
+Dialogue: 0,00:05:39.65,00:05:42.77,Default,,0,0,0,,When facing the hope, I can give up at any time
+Dialogue: 0,00:05:43.37,00:05:45.25,Default,,0,0,0,,The story is that...
+Dialogue: 0,00:05:45.65,00:05:46.75,Default,,0,0,0,,This is different
+Dialogue: 0,00:05:46.77,00:05:48.69,Default,,0,0,0,,We won’t give up our friends
+Dialogue: 0,00:05:49.53,00:05:51.63,Default,,0,0,0,,oh? Yes?
+Dialogue: 0,00:05:51.65,00:05:53.17,Default,,0,0,0,,Then let’s take a look...
+Dialogue: 0,00:05:53.29,00:05:55.07,Default,,0,0,0,,Your friends
+Dialogue: 0,00:05:55.09,00:05:57.57,Default,,0,0,0,,Can you rely on it until the last moment
+Dialogue: 0,00:06:00.45,00:06:04.09,Default,,0,0,0,,ah…
+Dialogue: 0,00:06:04.33,00:06:05.61,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:06:07.89,00:06:08.83,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:06:08.85,00:06:09.97,Default,,0,0,0,,Where to look
+Dialogue: 0,00:06:11.89,00:06:13.61,Default,,0,0,0,,Be careful, Weslie
+Dialogue: 0,00:06:14.17,00:06:15.13,Default,,0,0,0,,And I’ll give you...
+Dialogue: 0,00:06:16.49,00:06:17.77,Default,,0,0,0,,That’s right
+Dialogue: 0,00:06:40.69,00:06:41.53,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:06:42.25,00:06:43.97,Default,,0,0,0,,Worry about yourself
+Dialogue: 0,00:06:48.21,00:06:49.37,Default,,0,0,0,,The lone wolf
+Dialogue: 0,00:06:57.89,00:06:59.49,Default,,0,0,0,,All will disappear to me
+Dialogue: 0,00:07:03.37,00:07:04.49,Default,,0,0,0,,In fact
+Dialogue: 0,00:07:04.65,00:07:07.73,Default,,0,0,0,,Your strength is only at this level
+Dialogue: 0,00:07:09.57,00:07:11.29,Default,,0,0,0,,This strange flow...
+Dialogue: 0,00:07:11.89,00:07:13.45,Default,,0,0,0,,It turns out to be like this...
+Dialogue: 0,00:07:14.61,00:07:16.25,Default,,0,0,0,,Small tricks of carving
+Dialogue: 0,00:07:20.09,00:07:21.05,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:07:22.21,00:07:25.41,Default,,0,0,0,,Just want to trap me even if I miss this illusion
+Dialogue: 0,00:07:27.05,00:07:28.25,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:28.77,00:07:30.79,Default,,0,0,0,,Not bad, a little bit different...
+Dialogue: 0,00:07:30.81,00:07:32.97,Default,,0,0,0,,Hahahaha... Interesting
+Dialogue: 0,00:07:33.69,00:07:36.65,Default,,0,0,0,,If you think this level can defeat me
+Dialogue: 0,00:07:37.29,00:07:39.21,Default,,0,0,0,,Then let’s try it
+Dialogue: 0,00:07:39.57,00:07:41.29,Default,,0,0,0,,He’s here, everyone be careful
+Dialogue: 0,00:07:41.69,00:07:44.17,Default,,0,0,0,,Delay a little longer, please feel free to everyone
+Dialogue: 0,00:07:45.45,00:07:47.69,Default,,0,0,0,,Leave it to us
+Dialogue: 0,00:07:51.49,00:07:52.77,Default,,0,0,0,,Aqua Spirit
+Dialogue: 0,00:07:53.41,00:07:55.37,Default,,0,0,0,,Don’t understand yet
+Dialogue: 0,00:07:56.33,00:07:59.19,Default,,0,0,0,,Your friendships are in the absolute power of
+Dialogue: 0,00:07:59.21,00:08:00.65,Default,,0,0,0,,It’s nothing at all
+Dialogue: 0,00:08:00.97,00:08:03.23,Default,,0,0,0,,Just take down others and run away
+Dialogue: 0,00:08:03.25,00:08:05.57,Default,,0,0,0,,Don’t you still have a chance to survive?
+Dialogue: 0,00:08:05.85,00:08:09.97,Default,,0,0,0,,Thunderbolt...
+Dialogue: 0,00:08:12.41,00:08:14.67,Default,,0,0,0,,Indecent slap
+Dialogue: 0,00:08:14.69,00:08:16.41,Default,,0,0,0,,It’s because we’re weak
+Dialogue: 0,00:08:16.77,00:08:18.93,Default,,0,0,0,,I need help from friends
+Dialogue: 0,00:08:20.05,00:08:22.05,Default,,0,0,0,,Just hold your friend’s hands tightly
+Dialogue: 0,00:08:22.37,00:08:24.57,Default,,0,0,0,,Even if you fall, you can stand up countless times
+Dialogue: 0,00:08:25.61,00:08:27.57,Default,,0,0,0,,Stupid
+Dialogue: 0,00:08:27.89,00:08:29.05,Default,,0,0,0,,Just now
+Dialogue: 0,00:08:29.69,00:08:30.77,Default,,0,0,0,,That’s right...
+Dialogue: 0,00:08:31.97,00:08:33.63,Default,,0,0,0,,Support each other...
+Dialogue: 0,00:08:33.65,00:08:35.65,Default,,0,0,0,,Unconditional trust...
+Dialogue: 0,00:08:36.45,00:08:38.89,Default,,0,0,0,,This...is...
+Dialogue: 0,00:08:39.13,00:08:41.09,Default,,0,0,0,,Our friends...
+Dialogue: 0,00:08:41.97,00:08:44.49,Default,,0,0,0,,Our strength...
+Dialogue: 0,00:08:55.21,00:08:58.57,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:08.45,00:09:10.33,Default,,0,0,0,,We...have we succeeded?
+Dialogue: 0,00:09:16.45,00:09:17.93,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:09:24.57,00:09:27.65,Default,,0,0,0,,I...we fell back to the green grassland
+Dialogue: 0,00:09:27.77,00:09:30.65,Default,,0,0,0,,Yes, I’ll beat the lonely wolf
+Dialogue: 0,00:09:31.21,00:09:34.13,Default,,0,0,0,,Everyone who turned evil must have recovered
+Dialogue: 0,00:09:34.33,00:09:35.09,Default,,0,0,0,,careful
+Dialogue: 0,00:09:36.77,00:09:37.79,Default,,0,0,0,,It’s red
+Dialogue: 0,00:09:37.81,00:09:38.81,Default,,0,0,0,,You see
+Dialogue: 0,00:09:41.17,00:09:43.67,Default,,0,0,0,,What you mean is that my bread is not delicious
+Dialogue: 0,00:09:43.69,00:09:45.49,Default,,0,0,0,,Can be a baseball bat, what do you think
+Dialogue: 0,00:09:45.97,00:09:47.29,Default,,0,0,0,,I’ll fight you
+Dialogue: 0,00:09:47.61,00:09:50.11,Default,,0,0,0,,I am the king of the grassland...
+Dialogue: 0,00:09:50.13,00:09:51.63,Default,,0,0,0,,What are the villagers on the grassland
+Dialogue: 0,00:09:51.65,00:09:53.45,Default,,0,0,0,,Haven’t recovered yet
+Dialogue: 0,00:09:53.57,00:09:54.49,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:09:55.13,00:10:00.13,Default,,0,0,0,,Hahahahahahahahaha...
+Dialogue: 0,00:10:01.37,00:10:03.59,Default,,0,0,0,,I really think you’re experiencing that little power
+Dialogue: 0,00:10:03.61,00:10:05.17,Default,,0,0,0,,You can knock me down
+Dialogue: 0,00:10:05.65,00:10:08.17,Default,,0,0,0,,Lonely...lonely hearted wolf...
+Dialogue: 0,00:10:09.13,00:10:10.95,Default,,0,0,0,,Since I’ve had such fun
+Dialogue: 0,00:10:10.97,00:10:12.89,Default,,0,0,0,,Then don’t let it stop
+Dialogue: 0,00:10:13.09,00:10:14.37,Default,,0,0,0,,What...what...
+Dialogue: 0,00:10:21.25,00:10:23.57,Default,,0,0,0,,The villagers here heard it to me
+Dialogue: 0,00:10:24.17,00:10:26.01,Default,,0,0,0,,Who catches this goat first
+Dialogue: 0,00:10:26.29,00:10:28.45,Default,,0,0,0,,I’ll divide the dark energy to him
+Dialogue: 0,00:10:28.85,00:10:31.15,Default,,0,0,0,,Give him no power
+Dialogue: 0,00:10:31.17,00:10:32.01,Default,,0,0,0,,what
+Dialogue: 0,00:10:32.21,00:10:33.99,Default,,0,0,0,,Is there no power?
+Dialogue: 0,00:10:34.01,00:10:35.17,Default,,0,0,0,,I’m here
+Dialogue: 0,00:10:35.69,00:10:37.05,Default,,0,0,0,,That’s mine
+Dialogue: 0,00:10:37.77,00:10:39.73,Default,,0,0,0,,That’s the problem...
+Dialogue: 0,00:10:39.89,00:10:40.57,Default,,0,0,0,,ah
+Dialogue: 0,00:10:40.65,00:10:43.89,Default,,0,0,0,,Can you protect him as exhausted?
+Dialogue: 0,00:10:47.25,00:10:48.07,Default,,0,0,0,,How to do it
+Dialogue: 0,00:10:48.09,00:10:50.05,Default,,0,0,0,,Our Magic power has not recovered yet
+Dialogue: 0,00:10:51.05,00:10:53.81,Default,,0,0,0,,Don’t be afraid, there are brothers and sisters here
+Dialogue: 0,00:10:54.05,00:10:55.49,Default,,0,0,0,,Run into the forest
+Dialogue: 0,00:10:55.57,00:10:57.01,Default,,0,0,0,,Hide, don’t come out
+Dialogue: 0,00:11:01.49,00:11:03.11,Default,,0,0,0,,Even if you have the last breath
+Dialogue: 0,00:11:03.13,00:11:04.81,Default,,0,0,0,,I can’t let them pass
+Dialogue: 0,00:11:09.33,00:11:11.57,Default,,0,0,0,,I won’t let you pass
+Dialogue: 0,00:11:11.69,00:11:13.69,Default,,0,0,0,,Everyone, be a little sober
+Dialogue: 0,00:11:14.49,00:11:16.29,Default,,0,0,0,,Can drag for one second, one second
+Dialogue: 0,00:11:26.29,00:11:29.93,Default,,0,0,0,,Hahahaha... I can’t hold it back
+Dialogue: 0,00:11:30.77,00:11:32.42,Default,,0,0,0,,It won’t take long for the blackened villagers to
+Dialogue: 0,00:11:32.45,00:11:34.25,Default,,0,0,0,,You can catch up with that lamb
+Dialogue: 0,00:11:34.81,00:11:37.13,Default,,0,0,0,,You can’t save a lamb
+Dialogue: 0,00:11:37.37,00:11:39.25,Default,,0,0,0,,What is the power of friendship?
+Dialogue: 0,00:11:41.57,00:11:44.17,Default,,0,0,0,,It’s really a bit unhappy
+Dialogue: 0,00:11:46.49,00:11:48.97,Default,,0,0,0,,But it’s gone too...
+Dialogue: 0,00:11:58.37,00:11:59.13,Default,,0,0,0,,Um?
+Dialogue: 0,00:11:59.93,00:12:02.17,Default,,0,0,0,,It’s you... the lonely wolf
+Dialogue: 0,00:12:03.69,00:12:04.65,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:12:05.05,00:12:08.05,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:12:12.01,00:12:14.89,Default,,0,0,0,,It’s been a long time since I saw it, lambs...
+Dialogue: 0,00:12:16.57,00:12:19.61,Default,,0,0,0,,oh? Rare guest...
+Dialogue: 0,00:12:20.25,00:12:22.89,Default,,0,0,0,,What wind blows you up
+Dialogue: 0,00:12:24.13,00:12:25.65,Default,,0,0,0,,This sound is...
+Dialogue: 0,00:12:28.61,00:12:29.97,Default,,0,0,0,,The wolf will fight!

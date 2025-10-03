@@ -1,0 +1,185 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:25.77,00:00:29.29,Default,,0,0,0,,I washed 108 pieces of clothes in these days
+Dialogue: 0,00:00:30.05,00:00:31.11,Default,,0,0,0,,I’m more hard
+Dialogue: 0,00:00:31.13,00:00:33.61,Default,,0,0,0,,I washed 173 plates
+Dialogue: 0,00:00:35.05,00:00:37.21,Default,,0,0,0,,I’ve swept 173 plates
+Dialogue: 0,00:00:37.77,00:00:39.89,Default,,0,0,0,,Shredding? Why?
+Dialogue: 0,00:00:40.77,00:00:43.53,Default,,0,0,0,,Because the slags break the plate every time
+Dialogue: 0,00:00:45.65,00:00:47.37,Default,,0,0,0,,I didn’t mean it
+Dialogue: 0,00:00:48.25,00:00:48.93,Default,,0,0,0,,actually
+Dialogue: 0,00:00:49.29,00:00:52.45,Default,,0,0,0,,In the past, the class manager took care of us this way every day.
+Dialogue: 0,00:00:59.09,00:01:00.73,Default,,0,0,0,,It turns out that she is so hard
+Dialogue: 0,00:01:01.17,00:01:02.05,Default,,0,0,0,,Um
+Dialogue: 0,00:01:02.45,00:01:04.45,Default,,0,0,0,,How long do we have to stay here?
+Dialogue: 0,00:01:05.05,00:01:07.77,Default,,0,0,0,,I really want red and little Huihui
+Dialogue: 0,00:01:08.49,00:01:10.13,Default,,0,0,0,,I want to silence the sun
+Dialogue: 0,00:01:11.37,00:01:13.45,Default,,0,0,0,,I really want to go back to the green grassland...
+Dialogue: 0,00:01:30.13,00:01:33.57,Default,,0,0,0,,You reminded me of the days I used to fight
+Dialogue: 0,00:01:34.05,00:01:35.27,Default,,0,0,0,,Although it’s very hard
+Dialogue: 0,00:01:35.29,00:01:36.97,Default,,0,0,0,,But I am very happy every day
+Dialogue: 0,00:01:37.29,00:01:37.85,Default,,0,0,0,,Right
+Dialogue: 0,00:01:38.49,00:01:41.49,Default,,0,0,0,,I used to catch a fish as big as mine
+Dialogue: 0,00:01:42.17,00:01:44.53,Default,,0,0,0,,Really? Very terrible
+Dialogue: 0,00:01:45.49,00:01:47.13,Default,,0,0,0,,I’ll catch that bigger
+Dialogue: 0,00:01:48.73,00:01:51.73,Default,,0,0,0,,There are three fish that are as big as me
+Dialogue: 0,00:01:52.65,00:01:53.77,Default,,0,0,0,,Wow…
+Dialogue: 0,00:01:57.97,00:01:59.89,Default,,0,0,0,,I also posted the paper at that time
+Dialogue: 0,00:02:01.41,00:02:01.89,Default,,0,0,0,,look
+Dialogue: 0,00:02:02.05,00:02:05.77,Default,,0,0,0,,My ancient coppery skin was what I got at that time
+Dialogue: 0,00:02:06.29,00:02:07.05,Default,,0,0,0,,At that time
+Dialogue: 0,00:02:07.13,00:02:09.97,Default,,0,0,0,,People still thought you were a resident of Quicksand Town
+Dialogue: 0,00:02:10.69,00:02:12.05,Default,,0,0,0,,What do you know
+Dialogue: 0,00:02:12.29,00:02:14.33,Default,,0,0,0,,That’s the standard for bodybuilders
+Dialogue: 0,00:02:16.09,00:02:18.41,Default,,0,0,0,,Yes, I understand
+Dialogue: 0,00:02:21.09,00:02:23.61,Default,,0,0,0,,I also want to have an ancient coppery skin
+Dialogue: 0,00:02:23.73,00:02:25.49,Default,,0,0,0,,But now there is no way
+Dialogue: 0,00:02:26.81,00:02:28.77,Default,,0,0,0,,It was pretty good before
+Dialogue: 0,00:02:44.37,00:02:45.29,Default,,0,0,0,,well…
+Dialogue: 0,00:02:46.77,00:02:48.49,Default,,0,0,0,,Why do I talk to you so much
+Dialogue: 0,00:02:48.69,00:02:50.05,Default,,0,0,0,,I’m not familiar with you
+Dialogue: 0,00:02:58.97,00:02:59.97,Default,,0,0,0,,Break the oxygen hood
+Dialogue: 0,00:03:00.13,00:03:02.05,Default,,0,0,0,,Is it still not enough to release poison-drafting fish?
+Dialogue: 0,00:03:02.09,00:03:04.01,Default,,0,0,0,,It’s going to destroy our plants
+Dialogue: 0,00:03:04.65,00:03:06.29,Default,,0,0,0,,No, no, I didn’t...
+Dialogue: 0,00:03:06.73,00:03:08.01,Default,,0,0,0,,The goat is so weak
+Dialogue: 0,00:03:08.17,00:03:09.85,Default,,0,0,0,,How could you blow down a tree?
+Dialogue: 0,00:03:10.45,00:03:13.21,Default,,0,0,0,,And how could a tree fall down after sneezing?
+Dialogue: 0,00:03:13.37,00:03:15.81,Default,,0,0,0,,Where am I weak? Why is it impossible?
+Dialogue: 0,00:03:16.05,00:03:17.93,Default,,0,0,0,,Wait for a moment where do you see
+Dialogue: 0,00:03:27.69,00:03:29.45,Default,,0,0,0,,There are also problems with these trees
+Dialogue: 0,00:03:33.77,00:03:34.85,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:03:39.37,00:03:41.05,Default,,0,0,0,,The Aqua Spirit town sinks under the sea
+Dialogue: 0,00:03:41.49,00:03:42.57,Default,,0,0,0,,Lack of light
+Dialogue: 0,00:03:43.25,00:03:45.37,Default,,0,0,0,,If this continues, it’s not just plants
+Dialogue: 0,00:03:45.53,00:03:47.37,Default,,0,0,0,,Even people can’t stand it
+Dialogue: 0,00:03:48.25,00:03:51.49,Default,,0,0,0,,Speaking of which, I haven’t felt very comfortable lately...
+Dialogue: 0,00:03:52.01,00:03:53.53,Default,,0,0,0,,This will not work
+Dialogue: 0,00:03:53.69,00:03:55.53,Default,,0,0,0,,We must go up there
+Dialogue: 0,00:03:56.57,00:03:58.17,Default,,0,0,0,,I don’t believe you
+Dialogue: 0,00:03:58.25,00:04:00.25,Default,,0,0,0,,I’m going to ask her Lord Jonie
+Dialogue: 0,00:04:13.89,00:04:16.41,Default,,0,0,0,,Nothing is going to be done, just replenish
+Dialogue: 0,00:04:25.29,00:04:28.85,Default,,0,0,0,,What a big guy to visit. It’s so precious
+Dialogue: 0,00:04:30.69,00:04:33.05,Default,,0,0,0,,Lord Jonie, you are so good
+Dialogue: 0,00:04:35.13,00:04:38.25,Default,,0,0,0,,As for other questions you just said
+Dialogue: 0,00:04:38.29,00:04:39.61,Default,,0,0,0,,It’s easy to solve, too
+Dialogue: 0,00:05:02.81,00:05:04.97,Default,,0,0,0,,This is not a solution to the problem at all
+Dialogue: 0,00:05:05.25,00:05:07.37,Default,,0,0,0,,To solve the problem, you must go up
+Dialogue: 0,00:05:07.77,00:05:09.57,Default,,0,0,0,,Not good, not good
+Dialogue: 0,00:05:12.81,00:05:14.33,Default,,0,0,0,,A water disaster occurred above
+Dialogue: 0,00:05:15.05,00:05:17.09,Default,,0,0,0,,The entire land was buried
+Dialogue: 0,00:05:17.89,00:05:21.77,Default,,0,0,0,,My bubble was also broken and almost couldn’t come back
+Dialogue: 0,00:05:21.81,00:05:23.85,Default,,0,0,0,,It’s too dangerous
+Dialogue: 0,00:05:24.33,00:05:25.77,Default,,0,0,0,,Fortunately we are here
+Dialogue: 0,00:05:34.45,00:05:35.17,Default,,0,0,0,,he…
+Dialogue: 0,00:05:35.49,00:05:36.13,Default,,0,0,0,,Go back
+Dialogue: 0,00:05:37.21,00:05:37.61,Default,,0,0,0,,Um
+Dialogue: 0,00:05:41.13,00:05:42.33,Default,,0,0,0,,Let’s go back, too
+Dialogue: 0,00:05:46.49,00:05:48.37,Default,,0,0,0,,That soldier just had a problem
+Dialogue: 0,00:05:48.77,00:05:49.45,Default,,0,0,0,,I’ll go and see
+Dialogue: 0,00:05:50.85,00:05:52.33,Default,,0,0,0,,Wait for me, I’ll go too
+Dialogue: 0,00:05:57.45,00:06:00.33,Default,,0,0,0,,Princess Luna, you stay here to take care of the villagers
+Dialogue: 0,00:06:00.65,00:06:02.09,Default,,0,0,0,,We’ll be back soon
+Dialogue: 0,00:06:23.37,00:06:24.81,Default,,0,0,0,,Fortunately, they didn’t find it
+Dialogue: 0,00:06:39.93,00:06:41.93,Default,,0,0,0,,I didn’t expect that everything was fake...
+Dialogue: 0,00:06:43.01,00:06:45.49,Default,,0,0,0,,Has Lord Jonie been cheating on us?
+Dialogue: 0,00:06:46.21,00:06:47.77,Default,,0,0,0,,I want to ask her clearly
+Dialogue: 0,00:06:48.77,00:06:49.57,Default,,0,0,0,,Uncle Cat
+Dialogue: 0,00:06:50.57,00:06:53.53,Default,,0,0,0,,I’ll protect him. You go and notify the villagers.
+Dialogue: 0,00:06:55.93,00:06:56.89,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:06:58.17,00:07:00.89,Default,,0,0,0,,You go first I will go back and get along with you
+Dialogue: 0,00:07:09.09,00:07:10.13,Default,,0,0,0,,Hot Goat
+Dialogue: 0,00:07:10.37,00:07:12.77,Default,,0,0,0,,The villagers’ sentiment has calmed down
+Dialogue: 0,00:07:13.97,00:07:14.37,Default,,0,0,0,,Um
+Dialogue: 0,00:07:14.89,00:07:16.09,Default,,0,0,0,,Uncle Cat, etc.
+Dialogue: 0,00:07:16.17,00:07:17.03,Default,,0,0,0,,Can’t mess with the palace
+Dialogue: 0,00:07:17.05,00:07:17.77,Default,,0,0,0,,You go
+Dialogue: 0,00:07:18.97,00:07:19.69,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:21.57,00:07:23.25,Default,,0,0,0,,It’s okay, let them come in
+Dialogue: 0,00:07:26.57,00:07:27.53,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:07:28.37,00:07:31.25,Default,,0,0,0,,Lord Jonie, have you cheated us?
+Dialogue: 0,00:07:31.61,00:07:34.09,Default,,0,0,0,,The soldier’s injuries were fake
+Dialogue: 0,00:07:34.85,00:07:36.97,Default,,0,0,0,,I don’t understand what you’re talking about
+Dialogue: 0,00:07:38.57,00:07:39.93,Default,,0,0,0,,You don’t need to install it anymore
+Dialogue: 0,00:07:40.49,00:07:42.41,Default,,0,0,0,,We’ve found these props
+Dialogue: 0,00:07:49.45,00:07:52.81,Default,,0,0,0,,Alas, Forrest Gump can’t do such a small thing well
+Dialogue: 0,00:07:53.21,00:07:56.25,Default,,0,0,0,,Isn’t it true that nothing happened?
+Dialogue: 0,00:07:56.89,00:07:58.75,Default,,0,0,0,,We’re going to the villagers now
+Dialogue: 0,00:07:58.77,00:08:00.21,Default,,0,0,0,,Expose your true face
+Dialogue: 0,00:08:00.65,00:08:01.89,Default,,0,0,0,,Uncle Cat, let’s go
+Dialogue: 0,00:08:04.45,00:08:06.05,Default,,0,0,0,,Is it that easy?
+Dialogue: 0,00:08:10.09,00:08:12.05,Default,,0,0,0,,careful…
+Dialogue: 0,00:08:20.41,00:08:22.77,Default,,0,0,0,,You only keep it for a while if you eat these
+Dialogue: 0,00:08:23.45,00:08:25.09,Default,,0,0,0,,Not very useful
+Dialogue: 0,00:08:25.85,00:08:26.73,Default,,0,0,0,,How is it possible...
+Dialogue: 0,00:08:29.85,00:08:31.29,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:08:36.53,00:08:37.81,Default,,0,0,0,,What happened to them?
+Dialogue: 0,00:08:41.49,00:08:43.45,Default,,0,0,0,,Their situation is worse
+Dialogue: 0,00:08:45.69,00:08:48.77,Default,,0,0,0,,We have found the certificate of the licensing of the Jonie
+Dialogue: 0,00:08:54.65,00:08:55.81,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:09:02.93,00:09:04.37,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:09:05.53,00:09:06.97,Default,,0,0,0,,Princess Luna has limited abilities
+Dialogue: 0,00:09:07.05,00:09:08.81,Default,,0,0,0,,Can’t help so many people
+Dialogue: 0,00:09:09.77,00:09:13.05,Default,,0,0,0,,We obviously ate it, why did we still do this?
+Dialogue: 0,00:09:14.09,00:09:16.09,Default,,0,0,0,,These are all cures but not root causes
+Dialogue: 0,00:09:16.45,00:09:18.65,Default,,0,0,0,,Everyone has to go up and go to the sun
+Dialogue: 0,00:09:18.85,00:09:20.45,Default,,0,0,0,,Only then can you get better
+Dialogue: 0,00:09:21.21,00:09:22.17,Default,,0,0,0,,Go up?
+Dialogue: 0,00:09:22.81,00:09:24.61,Default,,0,0,0,,But the above is so dangerous
+Dialogue: 0,00:09:25.69,00:09:27.65,Default,,0,0,0,,It’s all the Jonie who cheats you
+Dialogue: 0,00:09:27.85,00:09:29.53,Default,,0,0,0,,We have found the certificate
+Dialogue: 0,00:09:30.25,00:09:31.09,Default,,0,0,0,,Certificate?
+Dialogue: 0,00:09:31.97,00:09:34.45,Default,,0,0,0,,Let’s go find the Hot Goat with us
+Dialogue: 0,00:09:38.81,00:09:41.61,Default,,0,0,0,,OK, we just trust you once
+Dialogue: 0,00:09:51.89,00:09:54.53,Default,,0,0,0,,Everyone will know your true face soon
+Dialogue: 0,00:09:55.93,00:09:59.09,Default,,0,0,0,,You won’t know if you close it
+Dialogue: 0,00:09:59.81,00:10:00.41,Default,,0,0,0,,stop
+Dialogue: 0,00:10:02.17,00:10:03.17,Default,,0,0,0,,Let them go
+Dialogue: 0,00:10:04.01,00:10:04.89,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:10:09.49,00:10:11.61,Default,,0,0,0,,Jonie, what do you want to do
+Dialogue: 0,00:10:11.69,00:10:13.29,Default,,0,0,0,,What do you want to do to them
+Dialogue: 0,00:10:14.61,00:10:16.85,Default,,0,0,0,,Lord Jonie, please tell me
+Dialogue: 0,00:10:18.37,00:10:20.29,Default,,0,0,0,,It was their first move...
+Dialogue: 0,00:10:22.01,00:10:23.49,Default,,0,0,0,,We found the certificate
+Dialogue: 0,00:10:23.61,00:10:25.05,Default,,0,0,0,,She wants to grab us
+Dialogue: 0,00:10:25.85,00:10:27.37,Default,,0,0,0,,Don’t believe her
+Dialogue: 0,00:10:27.93,00:10:31.09,Default,,0,0,0,,Those are the props she made soldiers feel sick
+Dialogue: 0,00:10:36.45,00:10:39.17,Default,,0,0,0,,But aren’t these things available for purchase?
+Dialogue: 0,00:10:39.69,00:10:40.73,Default,,0,0,0,,yes
+Dialogue: 0,00:10:41.37,00:10:42.63,Default,,0,0,0,,You can’t just stop like this
+Dialogue: 0,00:10:42.65,00:10:44.29,Default,,0,0,0,,Lord Jonie cheated us
+Dialogue: 0,00:10:45.89,00:10:46.65,Default,,0,0,0,,This…
+Dialogue: 0,00:10:47.65,00:10:50.45,Default,,0,0,0,,What should I do? What other evidence do we have?
+Dialogue: 0,00:10:52.45,00:10:53.45,Default,,0,0,0,,The certificate is here
+Dialogue: 0,00:10:59.01,00:11:01.17,Default,,0,0,0,,Isn’t that the soldier this morning?
+Dialogue: 0,00:11:03.13,00:11:04.21,Default,,0,0,0,,He’s the proof
+Dialogue: 0,00:11:07.97,00:11:10.21,Default,,0,0,0,,Scar...is fake
+Dialogue: 0,00:11:15.45,00:11:17.29,Default,,0,0,0,,Don’t tear it, your hair is real
+Dialogue: 0,00:11:19.25,00:11:21.45,Default,,0,0,0,,So the above disasters are all fake
+Dialogue: 0,00:11:23.73,00:11:26.85,Default,,0,0,0,,Lord Jonie, is there really nothing above?
+Dialogue: 0,00:11:29.17,00:11:30.81,Default,,0,0,0,,Lord Jonie...
+Dialogue: 0,00:11:39.81,00:11:42.37,Default,,0,0,0,,If you don’t go up, everyone will get sick
+Dialogue: 0,00:11:43.77,00:11:46.25,Default,,0,0,0,,Lord Jonie, please take us up quickly
+Dialogue: 0,00:11:46.69,00:11:49.25,Default,,0,0,0,,Lord Jonie begs you...
+Dialogue: 0,00:11:49.33,00:11:50.89,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:11:55.73,00:11:58.65,Default,,0,0,0,,She is no longer the kind Jonie goat goat goat goat goat goat goat goat goat goat goat goat goat goat goat goat goat she used to be
+Dialogue: 0,00:11:58.93,00:12:00.33,Default,,0,0,0,,What’s the use of her?
+Dialogue: 0,00:12:00.73,00:12:02.77,Default,,0,0,0,,No more installed
+Dialogue: 0,00:12:05.09,00:12:08.21,Default,,0,0,0,,Alas, catch them in a row
+Dialogue: 0,00:12:08.37,00:12:08.93,Default,,0,0,0,,yes!
+Dialogue: 0,00:12:23.69,00:12:25.25,Default,,0,0,0,,Ah... Magic Cloud...
+Dialogue: 0,00:12:25.77,00:12:28.25,Default,,0,0,0,,You’re always stuck here

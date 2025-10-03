@@ -1,0 +1,197 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.48,00:00:21.68,Default,,0,0,0,,The military officer has changed and he will search for me
+Dialogue: 0,00:00:28.04,00:00:29.84,Default,,0,0,0,,Let’s go while you’re now
+Dialogue: 0,00:00:40.04,00:00:43.93,Default,,0,0,0,,We finally got together
+Dialogue: 0,00:00:43.96,00:00:45.32,Default,,0,0,0,,Now it’s separated
+Dialogue: 0,00:00:45.88,00:00:48.80,Default,,0,0,0,,OK OK OK Be careful on the way
+Dialogue: 0,00:00:49.96,00:00:52.15,Default,,0,0,0,,We will wait for you to come back safely
+Dialogue: 0,00:00:52.96,00:00:54.84,Default,,0,0,0,,I’ll be back soon
+Dialogue: 0,00:00:55.15,00:00:57.32,Default,,0,0,0,,I know where to hide
+Dialogue: 0,00:00:59.68,00:01:01.44,Default,,0,0,0,,You can go with confidence
+Dialogue: 0,00:01:07.56,00:01:10.84,Default,,0,0,0,,OK, we can come out
+Dialogue: 0,00:01:11.04,00:01:11.60,Default,,0,0,0,,etc.
+Dialogue: 0,00:01:16.12,00:01:17.31,Default,,0,0,0,,This is...
+Dialogue: 0,00:01:17.56,00:01:20.36,Default,,0,0,0,,Thank you very much for sending me and Fulai here
+Dialogue: 0,00:01:20.64,00:01:22.16,Default,,0,0,0,,I have no answer
+Dialogue: 0,00:01:22.52,00:01:25.16,Default,,0,0,0,,This is the unique cat claw flower of our strange cat country
+Dialogue: 0,00:01:26.00,00:01:28.44,Default,,0,0,0,,Just be the courageous stamp for you
+Dialogue: 0,00:01:28.64,00:01:30.92,Default,,0,0,0,,But now is not the time to answer
+Dialogue: 0,00:01:31.24,00:01:33.44,Default,,0,0,0,,We still have to go on the palace
+Dialogue: 0,00:01:33.68,00:01:36.64,Default,,0,0,0,,No, it’s time now
+Dialogue: 0,00:01:37.28,00:01:38.88,Default,,0,0,0,,What does this mean
+Dialogue: 0,00:01:39.36,00:01:42.44,Default,,0,0,0,,Let me go on the next path
+Dialogue: 0,00:01:43.24,00:01:44.16,Default,,0,0,0,,Why
+Dialogue: 0,00:01:44.72,00:01:47.36,Default,,0,0,0,,It’s really a shame to get you all in
+Dialogue: 0,00:01:47.84,00:01:50.12,Default,,0,0,0,,Now you have made a promise
+Dialogue: 0,00:01:50.24,00:01:51.44,Default,,0,0,0,,Send me back
+Dialogue: 0,00:01:51.64,00:01:53.56,Default,,0,0,0,,Let’s hand it over to me next
+Dialogue: 0,00:01:53.95,00:01:55.56,Default,,0,0,0,,Thank you really
+Dialogue: 0,00:01:58.52,00:01:59.56,Default,,0,0,0,,But the princess...
+Dialogue: 0,00:02:03.32,00:02:06.01,Default,,0,0,0,,Weslie Are We Really Going Back Now
+Dialogue: 0,00:02:06.04,00:02:06.84,Default,,0,0,0,,What do you think
+Dialogue: 0,00:02:07.36,00:02:10.64,Default,,0,0,0,,I, Big Wolf, have never given up
+Dialogue: 0,00:02:11.16,00:02:12.45,Default,,0,0,0,,We followed us secretly
+Dialogue: 0,00:02:12.48,00:02:13.88,Default,,0,0,0,,See if you need help
+Dialogue: 0,00:02:13.92,00:02:16.16,Default,,0,0,0,,Yes, come out
+Dialogue: 0,00:02:23.76,00:02:24.48,Default,,0,0,0,,Quick
+Dialogue: 0,00:02:24.91,00:02:26.36,Default,,0,0,0,,I want to catch up with Princess Luna and others
+Dialogue: 0,00:02:28.52,00:02:29.76,Default,,0,0,0,,What happened
+Dialogue: 0,00:02:33.12,00:02:33.91,Default,,0,0,0,,Help
+Dialogue: 0,00:02:35.36,00:02:37.32,Default,,0,0,0,,Be careful, goat
+Dialogue: 0,00:02:39.96,00:02:40.88,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:02:41.60,00:02:43.88,Default,,0,0,0,,No, everyone, run away
+Dialogue: 0,00:02:51.84,00:02:54.12,Default,,0,0,0,,Everyone, hurry up and it will be safe to run up there
+Dialogue: 0,00:02:56.24,00:03:00.08,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:01.91,00:03:04.80,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:07.84,00:03:08.76,Default,,0,0,0,,call…
+Dialogue: 0,00:03:09.12,00:03:09.93,Default,,0,0,0,,ah
+Dialogue: 0,00:03:09.96,00:03:11.24,Default,,0,0,0,,It’s Princess Luna
+Dialogue: 0,00:03:12.04,00:03:13.12,Default,,0,0,0,,We’ll go up
+Dialogue: 0,00:03:13.96,00:03:16.96,Default,,0,0,0,,The slept with clouds to cover the stone above
+Dialogue: 0,00:03:18.20,00:03:20.16,Default,,0,0,0,,Yes, Magic Cloud
+Dialogue: 0,00:03:23.52,00:03:25.21,Default,,0,0,0,,OK, everyone climb up
+Dialogue: 0,00:03:25.24,00:03:26.12,Default,,0,0,0,,good
+Dialogue: 0,00:03:28.91,00:03:30.28,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:03:31.48,00:03:33.36,Default,,0,0,0,,I’ll save you
+Dialogue: 0,00:03:37.04,00:03:37.91,Default,,0,0,0,,no…
+Dialogue: 0,00:03:38.28,00:03:40.09,Default,,0,0,0,,Princess, don’t give up
+Dialogue: 0,00:03:40.12,00:03:41.63,Default,,0,0,0,,Princess Luna
+Dialogue: 0,00:03:42.16,00:03:42.96,Default,,0,0,0,,It’s you...
+Dialogue: 0,00:03:43.36,00:03:45.16,Default,,0,0,0,,We’re here to help you right away
+Dialogue: 0,00:03:45.44,00:03:47.48,Default,,0,0,0,,Don’t come over...
+Dialogue: 0,00:03:52.96,00:03:54.68,Default,,0,0,0,,I’ve fought with you
+Dialogue: 0,00:03:58.00,00:03:59.76,Default,,0,0,0,,Thunder Bird Flash…
+Dialogue: 0,00:04:06.28,00:04:07.16,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:04:07.32,00:04:09.12,Default,,0,0,0,,You can control your own power
+Dialogue: 0,00:04:09.28,00:04:10.85,Default,,0,0,0,,Since I saved the red red
+Dialogue: 0,00:04:10.88,00:04:13.04,Default,,0,0,0,,I feel like I’m refreshed
+Dialogue: 0,00:04:13.32,00:04:14.97,Default,,0,0,0,,Get over now
+Dialogue: 0,00:04:15.00,00:04:15.56,Default,,0,0,0,,good
+Dialogue: 0,00:04:28.60,00:04:31.56,Default,,0,0,0,,Why it obviously has nothing to do with you
+Dialogue: 0,00:04:32.12,00:04:33.76,Default,,0,0,0,,Knowing that there is danger...
+Dialogue: 0,00:04:34.48,00:04:36.52,Default,,0,0,0,,Why do you still have to follow
+Dialogue: 0,00:04:38.12,00:04:41.81,Default,,0,0,0,,You go quickly, why did you take risks to save me
+Dialogue: 0,00:04:41.83,00:04:42.52,Default,,0,0,0,,Because…
+Dialogue: 0,00:04:45.12,00:04:46.68,Default,,0,0,0,,We are friends
+Dialogue: 0,00:04:48.48,00:04:50.83,Default,,0,0,0,,If you have difficulties, you will face each other together
+Dialogue: 0,00:04:51.72,00:04:53.56,Default,,0,0,0,,Thank you...
+Dialogue: 0,00:04:53.96,00:04:56.12,Default,,0,0,0,,Hurry, let’s leave here tightly
+Dialogue: 0,00:05:18.32,00:05:19.72,Default,,0,0,0,,It seems...stopped?
+Dialogue: 0,00:05:20.20,00:05:21.60,Default,,0,0,0,,Look, everyone
+Dialogue: 0,00:05:21.76,00:05:22.56,Default,,0,0,0,,It’s the palace
+Dialogue: 0,00:05:24.20,00:05:25.56,Default,,0,0,0,,Let’s go in quickly
+Dialogue: 0,00:05:25.83,00:05:28.68,Default,,0,0,0,,Do you know how dangerous it is
+Dialogue: 0,00:05:28.80,00:05:31.12,Default,,0,0,0,,If you are not careful, you may lose your life
+Dialogue: 0,00:05:31.56,00:05:32.88,Default,,0,0,0,,Luna…
+Dialogue: 0,00:05:39.72,00:05:42.04,Default,,0,0,0,,Thank you, my friends
+Dialogue: 0,00:05:42.64,00:05:44.16,Default,,0,0,0,,Princess Luna…
+Dialogue: 0,00:05:44.92,00:05:47.04,Default,,0,0,0,,OK, let’s go to the palace
+Dialogue: 0,00:05:56.52,00:05:59.20,Default,,0,0,0,,My sister should now turn on the guardrail
+Dialogue: 0,00:05:59.56,00:06:02.12,Default,,0,0,0,,Everyone must be careful, just follow me
+Dialogue: 0,00:06:03.24,00:06:03.81,Default,,0,0,0,,ah
+Dialogue: 0,00:06:03.84,00:06:05.05,Default,,0,0,0,,what?
+Dialogue: 0,00:06:05.08,00:06:06.32,Default,,0,0,0,,Blessing...
+Dialogue: 0,00:06:07.20,00:06:08.56,Default,,0,0,0,,The anti-warming switch has been changed?
+Dialogue: 0,00:06:08.72,00:06:12.97,Default,,0,0,0,,Ah...Save me quickly
+Dialogue: 0,00:06:13.00,00:06:14.20,Default,,0,0,0,,- Paddi
+- Paddi
+Dialogue: 0,00:06:16.48,00:06:17.32,Default,,0,0,0,,who?
+Dialogue: 0,00:06:23.40,00:06:25.05,Default,,0,0,0,,Don’t be hit by the cannon
+Dialogue: 0,00:06:25.08,00:06:26.12,Default,,0,0,0,,Will be blocked
+Dialogue: 0,00:06:28.83,00:06:32.32,Default,,0,0,0,,This ground…it wants to push us into the trap
+Dialogue: 0,00:06:42.24,00:06:43.32,Default,,0,0,0,,careful!
+Dialogue: 0,00:06:46.76,00:06:48.27,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:06:48.60,00:06:49.60,Default,,0,0,0,,no problem
+Dialogue: 0,00:06:54.76,00:06:56.12,Default,,0,0,0,,No…
+Dialogue: 0,00:06:56.52,00:06:58.08,Default,,0,0,0,,Look at me smashed the stone
+Dialogue: 0,00:07:05.24,00:07:06.36,Default,,0,0,0,,It’s useless?
+Dialogue: 0,00:07:08.36,00:07:09.48,Default,,0,0,0,,careful…
+Dialogue: 0,00:07:09.56,00:07:10.24,Default,,0,0,0,,ah…
+Dialogue: 0,00:07:10.48,00:07:10.96,Default,,0,0,0,,what?
+Dialogue: 0,00:07:11.08,00:07:12.20,Default,,0,0,0,,- ah
+- Sparky 
+Dialogue: 0,00:07:18.12,00:07:19.69,Default,,0,0,0,,No…
+Dialogue: 0,00:07:19.72,00:07:21.52,Default,,0,0,0,,Sparky  Wolffy...
+Dialogue: 0,00:07:25.72,00:07:26.68,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:07:28.04,00:07:29.20,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:07:31.56,00:07:33.32,Default,,0,0,0,,This time I’ll protect you
+Dialogue: 0,00:07:36.36,00:07:37.44,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:07:37.52,00:07:38.60,Default,,0,0,0,,Not good
+Dialogue: 0,00:07:41.56,00:07:42.56,Default,,0,0,0,,No
+Dialogue: 0,00:07:43.32,00:07:44.72,Default,,0,0,0,,I’ve fought with you
+Dialogue: 0,00:07:52.64,00:07:54.20,Default,,0,0,0,,I’m the only one left...
+Dialogue: 0,00:07:55.24,00:07:56.96,Default,,0,0,0,,What do I do? How about it...
+Dialogue: 0,00:07:57.08,00:07:58.04,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:08:01.44,00:08:03.52,Default,,0,0,0,,Great, you’re fine
+Dialogue: 0,00:08:03.60,00:08:06.16,Default,,0,0,0,,Put the clouds and I’ll tell you to come
+Dialogue: 0,00:08:06.80,00:08:07.36,Default,,0,0,0,,good
+Dialogue: 0,00:08:10.36,00:08:11.84,Default,,0,0,0,,Now everyone has fallen
+Dialogue: 0,00:08:12.44,00:08:13.92,Default,,0,0,0,,Is there any way to save them?
+Dialogue: 0,00:08:20.64,00:08:21.72,Default,,0,0,0,,Find sister
+Dialogue: 0,00:08:21.76,00:08:23.92,Default,,0,0,0,,You can know where to save everyone
+Dialogue: 0,00:08:24.88,00:08:26.12,Default,,0,0,0,,It’s so dark here
+Dialogue: 0,00:08:33.64,00:08:35.36,Default,,0,0,0,,Why is it different here?
+Dialogue: 0,00:08:39.04,00:08:39.92,Default,,0,0,0,,What’s up?
+Dialogue: 0,00:08:40.32,00:08:41.72,Default,,0,0,0,,The mysterious cat has started
+Dialogue: 0,00:08:42.16,00:08:43.04,Default,,0,0,0,,Mysterious cat?
+Dialogue: 0,00:08:43.36,00:08:45.16,Default,,0,0,0,,They can offset all the power
+Dialogue: 0,00:08:45.36,00:08:47.67,Default,,0,0,0,,We must enter at the fastest speed
+Dialogue: 0,00:08:48.92,00:08:50.84,Default,,0,0,0,,I must find my sister
+Dialogue: 0,00:08:51.64,00:08:52.84,Default,,0,0,0,,Run quickly...
+Dialogue: 0,00:09:07.32,00:09:08.64,Default,,0,0,0,,Magic power really disappeared
+Dialogue: 0,00:09:09.36,00:09:11.96,Default,,0,0,0,,The Paddi, and I...
+Dialogue: 0,00:09:17.55,00:09:18.64,Default,,0,0,0,,Run quickly...
+Dialogue: 0,00:09:20.08,00:09:22.21,Default,,0,0,0,,Magic power is invalid We can’t beat
+Dialogue: 0,00:09:22.24,00:09:23.60,Default,,0,0,0,,So what?
+Dialogue: 0,00:09:23.88,00:09:25.72,Default,,0,0,0,,But they are just two cats
+Dialogue: 0,00:09:26.00,00:09:27.72,Default,,0,0,0,,What’s there to be afraid of
+Dialogue: 0,00:09:28.52,00:09:30.73,Default,,0,0,0,,Even if Magic power is invalid...
+Dialogue: 0,00:09:30.76,00:09:32.21,Default,,0,0,0,,But don’t forget that we are...
+Dialogue: 0,00:09:32.24,00:09:33.60,Default,,0,0,0,,- Goat Village Guardian!
+- Goat Village Guardian!
+Dialogue: 0,00:09:34.36,00:09:37.12,Default,,0,0,0,,Luna, go first. Leave here to us
+Dialogue: 0,00:09:38.32,00:09:39.32,Default,,0,0,0,,I see
+Dialogue: 0,00:09:39.92,00:09:42.60,Default,,0,0,0,,Everyone is because of me...can’t give up
+Dialogue: 0,00:09:43.80,00:09:47.40,Default,,0,0,0,,If you want to catch Luna, you have to pass us first
+Dialogue: 0,00:10:05.64,00:10:06.55,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:12.92,00:10:13.96,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:10:19.12,00:10:19.55,Default,,0,0,0,,drink!
+Dialogue: 0,00:10:22.16,00:10:23.72,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:24.16,00:10:24.96,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:10:26.48,00:10:27.55,Default,,0,0,0,,Paddi
+Dialogue: 0,00:10:36.52,00:10:38.32,Default,,0,0,0,,You’re okay, are you?
+Dialogue: 0,00:10:39.16,00:10:41.12,Default,,0,0,0,,No! He was poisoned!
+Dialogue: 0,00:10:44.04,00:10:44.84,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:10:46.76,00:10:47.36,Default,,0,0,0,,I’ll carry you
+Dialogue: 0,00:10:48.36,00:10:49.36,Default,,0,0,0,,Luna leaves quickly
+Dialogue: 0,00:10:50.12,00:10:52.32,Default,,0,0,0,,But the goat have been poisoned
+Dialogue: 0,00:10:55.28,00:10:57.04,Default,,0,0,0,,Don’t worry about me, please leave
+Dialogue: 0,00:11:07.84,00:11:08.60,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:11:11.16,00:11:12.20,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:11:31.76,00:11:32.55,Default,,0,0,0,,Success!
+Dialogue: 0,00:11:32.80,00:11:34.76,Default,,0,0,0,,We’re going out to find a way to help you detoxify
+Dialogue: 0,00:11:45.84,00:11:47.52,Default,,0,0,0,,No, isn’t it finished yet?
+Dialogue: 0,00:11:53.12,00:11:54.52,Default,,0,0,0,,- Luna…
+- Luna…
+Dialogue: 0,00:12:00.72,00:12:02.72,Default,,0,0,0,,Weslie Goat...
+Dialogue: 0,00:12:11.16,00:12:14.12,Default,,0,0,0,,don’t want…
+Dialogue: 0,00:12:14.76,00:12:17.40,Default,,0,0,0,,ah…
+Dialogue: 0,00:12:19.12,00:12:19.55,Default,,0,0,0,,Humph
+Dialogue: 0,00:12:19.76,00:12:22.12,Default,,0,0,0,,I haven’t seen my good sister for a long time
+Dialogue: 0,00:12:24.76,00:12:25.44,Default,,0,0,0,,elder sister?
+Dialogue: 0,00:12:28.48,00:12:30.92,Default,,0,0,0,,elder sister…

@@ -1,0 +1,177 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:23.33,00:00:24.49,Default,,0,0,0,,Oh, Haitaro
+Dialogue: 0,00:00:25.45,00:00:29.25,Default,,0,0,0,,Wolffy Big Wolffy Wolffy...
+Dialogue: 0,00:00:30.37,00:00:31.49,Default,,0,0,0,,What sound is it
+Dialogue: 0,00:00:35.85,00:00:36.85,Default,,0,0,0,,Someone has come
+Dialogue: 0,00:00:41.29,00:00:42.57,Default,,0,0,0,,What arguing
+Dialogue: 0,00:00:48.05,00:00:51.73,Default,,0,0,0,,Master Sparky What’s wrong with you
+Dialogue: 0,00:00:53.17,00:00:55.77,Default,,0,0,0,,Lord Sparky, wake up
+Dialogue: 0,00:00:58.93,00:01:01.53,Default,,0,0,0,,Who am I, where am I? Am I doing
+Dialogue: 0,00:01:03.77,00:01:04.77,Default,,0,0,0,,Paddi
+Dialogue: 0,00:01:05.13,00:01:07.09,Default,,0,0,0,,Ah, I remembered
+Dialogue: 0,00:01:07.37,00:01:08.65,Default,,0,0,0,,Sparky 
+Dialogue: 0,00:01:09.25,00:01:13.13,Default,,0,0,0,,Cough, right, Tibbie asked me to come and mention someone
+Dialogue: 0,00:01:13.57,00:01:15.49,Default,,0,0,0,,They have discovered it here
+Dialogue: 0,00:01:15.61,00:01:16.61,Default,,0,0,0,,Not safe
+Dialogue: 0,00:01:17.49,00:01:19.85,Default,,0,0,0,,Then please show the certificate of Lord Tibbie
+Dialogue: 0,00:01:20.21,00:01:21.09,Default,,0,0,0,,Prove
+Dialogue: 0,00:01:21.45,00:01:24.41,Default,,0,0,0,,You must have a certificate to release someone according to the rules
+Dialogue: 0,00:01:25.13,00:01:28.05,Default,,0,0,0,,That’s how I’ll look for...
+Dialogue: 0,00:01:30.97,00:01:32.83,Default,,0,0,0,,Tibbie You’re here
+Dialogue: 0,00:01:32.85,00:01:33.37,Default,,0,0,0,,grown ups…
+Dialogue: 0,00:01:38.49,00:01:39.85,Default,,0,0,0,,- Success
+- Success
+Dialogue: 0,00:01:48.73,00:01:50.25,Default,,0,0,0,,Why would I lie here?
+Dialogue: 0,00:01:51.53,00:01:53.05,Default,,0,0,0,,Oh, my face hurts so much
+Dialogue: 0,00:01:55.81,00:01:59.25,Default,,0,0,0,,Ah…my face…
+Dialogue: 0,00:01:59.45,00:02:02.13,Default,,0,0,0,,How did my face turn out like this
+Dialogue: 0,00:02:02.29,00:02:03.87,Default,,0,0,0,,Oh my God, what should I do
+Dialogue: 0,00:02:03.89,00:02:07.41,Default,,0,0,0,,It’s you again, why haven’t you left yet
+Dialogue: 0,00:02:08.65,00:02:09.37,Default,,0,0,0,,this…
+Dialogue: 0,00:02:11.25,00:02:12.49,Default,,0,0,0,,What’s wrong with your face
+Dialogue: 0,00:02:13.37,00:02:15.17,Default,,0,0,0,,Face Face…
+Dialogue: 0,00:02:15.29,00:02:16.63,Default,,0,0,0,,By the way, Big Gray Wolf
+Dialogue: 0,00:02:16.65,00:02:17.73,Default,,0,0,0,,Wolffy is here
+Dialogue: 0,00:02:18.45,00:02:20.21,Default,,0,0,0,,Wolffy? Where is he
+Dialogue: 0,00:02:20.89,00:02:22.09,Default,,0,0,0,,he…
+Dialogue: 0,00:02:25.65,00:02:27.77,Default,,0,0,0,,This matter cannot be told to Tibbie
+Dialogue: 0,00:02:28.49,00:02:31.29,Default,,0,0,0,,Of course he...he was beaten away by me
+Dialogue: 0,00:02:32.45,00:02:33.37,Default,,0,0,0,,Killed away
+Dialogue: 0,00:02:33.85,00:02:34.95,Default,,0,0,0,,Of course
+Dialogue: 0,00:02:34.97,00:02:37.51,Default,,0,0,0,,But he might be going to prison to save people
+Dialogue: 0,00:02:37.53,00:02:38.77,Default,,0,0,0,,You need to pay attention
+Dialogue: 0,00:02:39.77,00:02:40.65,Default,,0,0,0,,Save people?
+Dialogue: 0,00:02:41.85,00:02:45.05,Default,,0,0,0,,How can he save someone if the key is in my hand?
+Dialogue: 0,00:02:45.77,00:02:48.43,Default,,0,0,0,,- Ha ha ha ha…
+- For the same thing, you’re the most
+Dialogue: 0,00:02:48.45,00:02:51.01,Default,,0,0,0,,- Ha ha ha ha…
+- I can go home and take a shower
+Dialogue: 0,00:02:52.29,00:02:52.77,Default,,0,0,0,,Go quickly!
+Dialogue: 0,00:02:53.21,00:02:54.05,Default,,0,0,0,,Meow
+Dialogue: 0,00:03:08.45,00:03:11.05,Default,,0,0,0,,What’s going on? He doesn’t have a key?
+Dialogue: 0,00:03:13.89,00:03:16.73,Default,,0,0,0,,Don’t worry, I’ll dig the tunnel to save you from
+Dialogue: 0,00:03:18.65,00:03:19.65,Default,,0,0,0,,Don’t...
+Dialogue: 0,00:03:21.13,00:03:21.91,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:21.93,00:03:24.17,Default,,0,0,0,,- ah…
+- This underground car is a golden stone
+Dialogue: 0,00:03:24.53,00:03:26.65,Default,,0,0,0,,We’ve tried all the methods
+Dialogue: 0,00:03:26.89,00:03:28.61,Default,,0,0,0,,Only use keys to open the door
+Dialogue: 0,00:03:29.09,00:03:30.65,Default,,0,0,0,,Oh...my claws...
+Dialogue: 0,00:03:34.41,00:03:35.93,Default,,0,0,0,,Someone is coming again
+Dialogue: 0,00:03:38.77,00:03:39.85,Default,,0,0,0,,Tibbie!
+Dialogue: 0,00:03:40.57,00:03:43.45,Default,,0,0,0,,By the way, she might have a key
+Dialogue: 0,00:03:57.45,00:03:58.25,Default,,0,0,0,,What about the soldiers
+Dialogue: 0,00:03:58.69,00:03:59.49,Default,,0,0,0,,I’m here
+Dialogue: 0,00:04:04.01,00:04:05.49,Default,,0,0,0,,Did Wolffy come here?
+Dialogue: 0,00:04:07.01,00:04:08.45,Default,,0,0,0,,No...no
+Dialogue: 0,00:04:08.69,00:04:10.69,Default,,0,0,0,,It’s Lord Sparky
+Dialogue: 0,00:04:11.25,00:04:14.89,Default,,0,0,0,,After drinking a cup of tea here, he said he wanted to go back
+Dialogue: 0,00:04:15.45,00:04:16.21,Default,,0,0,0,,go back?
+Dialogue: 0,00:04:17.49,00:04:19.45,Default,,0,0,0,,I just met him in the makeup
+Dialogue: 0,00:04:29.09,00:04:32.61,Default,,0,0,0,,not good! Could it be that he just pretended to be Big Gray Wolf?
+Dialogue: 0,00:04:36.09,00:04:36.61,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:04:37.65,00:04:39.49,Default,,0,0,0,,Have been discovered
+Dialogue: 0,00:04:41.77,00:04:43.89,Default,,0,0,0,,Save me Save me
+Dialogue: 0,00:04:48.81,00:04:50.17,Default,,0,0,0,,Look at my ultimate
+Dialogue: 0,00:04:52.01,00:04:53.65,Default,,0,0,0,,Be careful, Mr. Tibbie
+Dialogue: 0,00:04:57.37,00:04:59.89,Default,,0,0,0,,What are you doing…
+Dialogue: 0,00:05:00.65,00:05:02.45,Default,,0,0,0,,He wants to steal you with a stolen slap
+Dialogue: 0,00:05:03.49,00:05:05.37,Default,,0,0,0,,I want to protect you
+Dialogue: 0,00:05:07.61,00:05:09.73,Default,,0,0,0,,You give me some peace
+Dialogue: 0,00:05:12.49,00:05:14.49,Default,,0,0,0,,you! Watch them well!
+Dialogue: 0,00:05:14.69,00:05:15.29,Default,,0,0,0,,yes
+Dialogue: 0,00:05:15.73,00:05:17.29,Default,,0,0,0,,I have to go outside and take a look
+Dialogue: 0,00:05:25.29,00:05:28.65,Default,,0,0,0,,Call everyone and search for me here
+Dialogue: 0,00:05:28.97,00:05:30.37,Default,,0,0,0,,Must find out the gray wolf
+Dialogue: 0,00:05:31.25,00:05:31.77,Default,,0,0,0,,yes
+Dialogue: 0,00:05:32.77,00:05:33.69,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:05:35.93,00:05:37.93,Default,,0,0,0,,If Wolffy has already mixed in
+Dialogue: 0,00:05:38.17,00:05:39.89,Default,,0,0,0,,I’ll definitely go to the prison to save people
+Dialogue: 0,00:05:41.69,00:05:44.09,Default,,0,0,0,,Should I transfer the princesses and the others?
+Dialogue: 0,00:05:45.65,00:05:46.33,Default,,0,0,0,,Makes sense
+Dialogue: 0,00:05:49.89,00:05:50.29,Default,,0,0,0,,What about the key
+Dialogue: 0,00:05:56.21,00:05:56.77,Default,,0,0,0,,not good!
+Dialogue: 0,00:06:09.17,00:06:10.77,Default,,0,0,0,,Run!
+Dialogue: 0,00:06:21.89,00:06:23.29,Default,,0,0,0,,Surrounded, what should I do
+Dialogue: 0,00:06:24.37,00:06:26.29,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:06:30.05,00:06:32.63,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:06:32.65,00:06:34.53,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:06:41.69,00:06:42.77,Default,,0,0,0,,Catch them
+Dialogue: 0,00:06:43.77,00:06:44.73,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:06:47.01,00:06:48.89,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:06:59.45,00:07:00.17,Default,,0,0,0,,Seven-colored flowers?
+Dialogue: 0,00:07:00.89,00:07:03.53,Default,,0,0,0,,That may be the only hope of awakening Tibbie
+Dialogue: 0,00:07:07.73,00:07:09.17,Default,,0,0,0,,Oh, hurry up
+Dialogue: 0,00:07:11.33,00:07:12.57,Default,,0,0,0,,Don’t try to escape
+Dialogue: 0,00:07:15.21,00:07:16.41,Default,,0,0,0,,It’s a Tibbie
+Dialogue: 0,00:07:17.05,00:07:18.49,Default,,0,0,0,,Stop watching, run
+Dialogue: 0,00:07:21.33,00:07:23.37,Default,,0,0,0,,Ah, the door was closed
+Dialogue: 0,00:07:27.69,00:07:29.17,Default,,0,0,0,,Oops, it’s been surrounded
+Dialogue: 0,00:07:54.25,00:07:56.89,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:08:00.45,00:08:01.09,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:08:12.77,00:08:14.21,Default,,0,0,0,,Didn’t he even get back?
+Dialogue: 0,00:08:18.97,00:08:21.97,Default,,0,0,0,,How could I do anything to Tibbie?
+Dialogue: 0,00:08:23.37,00:08:23.97,Default,,0,0,0,,what?
+Dialogue: 0,00:08:24.93,00:08:25.49,Default,,0,0,0,,careful
+Dialogue: 0,00:08:47.45,00:08:49.21,Default,,0,0,0,,For...why should I save me?
+Dialogue: 0,00:08:51.33,00:08:52.89,Default,,0,0,0,,What are you talking about
+Dialogue: 0,00:08:54.53,00:08:56.37,Default,,0,0,0,,When a good friend encounters danger
+Dialogue: 0,00:08:56.57,00:08:58.81,Default,,0,0,0,,Even if you change it, you will do it
+Dialogue: 0,00:08:59.61,00:09:00.53,Default,,0,0,0,,good friend…
+Dialogue: 0,00:09:02.85,00:09:04.09,Default,,0,0,0,,Remember it quickly
+Dialogue: 0,00:09:05.89,00:09:07.93,Default,,0,0,0,,The kind and gentle thing in the past
+Dialogue: 0,00:09:08.17,00:09:10.65,Default,,0,0,0,,Tibbie who has been taking care of and helping everyone
+Dialogue: 0,00:09:10.89,00:09:12.73,Default,,0,0,0,,Please remember it quickly
+Dialogue: 0,00:09:14.45,00:09:16.37,Default,,0,0,0,,We’ve always been good friends
+Dialogue: 0,00:09:21.69,00:09:22.97,Default,,0,0,0,,Paddi
+Dialogue: 0,00:09:33.21,00:09:34.85,Default,,0,0,0,,I...I remembered
+Dialogue: 0,00:09:37.89,00:09:39.65,Default,,0,0,0,,I remembered it all
+Dialogue: 0,00:09:41.01,00:09:41.77,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:09:44.65,00:09:46.37,Default,,0,0,0,,You finally remembered
+Dialogue: 0,00:09:47.65,00:09:50.09,Default,,0,0,0,,Yes, the goat, I miss you too much
+Dialogue: 0,00:09:51.37,00:09:53.73,Default,,0,0,0,,So hard that you tried so hard to wake me up
+Dialogue: 0,00:09:56.01,00:09:57.29,Default,,0,0,0,,But it’s a pity
+Dialogue: 0,00:09:58.97,00:10:02.29,Default,,0,0,0,,Everything that just happened was a illusion
+Dialogue: 0,00:10:07.49,00:10:08.89,Default,,0,0,0,,Catch him up
+Dialogue: 0,00:10:23.05,00:10:23.85,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:24.09,00:10:25.75,Default,,0,0,0,,Chase me quickly...
+Dialogue: 0,00:10:25.77,00:10:28.53,Default,,0,0,0,,You wake up quickly, wake up quickly
+Dialogue: 0,00:10:32.57,00:10:33.29,Default,,0,0,0,,This is...
+Dialogue: 0,00:10:33.49,00:10:35.81,Default,,0,0,0,,You just got the power of Tibbie
+Dialogue: 0,00:10:36.29,00:10:37.05,Default,,0,0,0,,Qili?
+Dialogue: 0,00:10:38.05,00:10:39.25,Default,,0,0,0,,You’re here soon
+Dialogue: 0,00:10:44.93,00:10:46.25,Default,,0,0,0,,I won’t explain it to you now
+Dialogue: 0,00:10:46.53,00:10:47.89,Default,,0,0,0,,Let’s go and help us
+Dialogue: 0,00:10:52.65,00:10:54.69,Default,,0,0,0,,Quickly don’t let them run away
+Dialogue: 0,00:11:03.37,00:11:05.69,Default,,0,0,0,,Successful, everyone run away
+Dialogue: 0,00:11:06.13,00:11:07.45,Default,,0,0,0,,Too bad
+Dialogue: 0,00:11:13.85,00:11:14.33,Default,,0,0,0,,superior!
+Dialogue: 0,00:11:20.57,00:11:22.01,Default,,0,0,0,,Protect the Princess’ Retreat
+Dialogue: 0,00:11:25.29,00:11:29.45,Default,,0,0,0,,You go first, let’s hand it over to us here
+Dialogue: 0,00:11:30.69,00:11:31.37,Default,,0,0,0,,you…
+Dialogue: 0,00:11:37.01,00:11:41.37,Default,,0,0,0,,Please help me bring it to my family to protect the curious flower house
+Dialogue: 0,00:11:47.69,00:11:51.17,Default,,0,0,0,,Don’t worry, I’ll definitely come back and take you out
+Dialogue: 0,00:11:58.53,00:11:59.77,Default,,0,0,0,,Go and have a look there
+Dialogue: 0,00:12:02.69,00:12:04.65,Default,,0,0,0,,Oh no, they’re catching up
+Dialogue: 0,00:12:05.73,00:12:07.37,Default,,0,0,0,,What to do
+Dialogue: 0,00:12:07.85,00:12:08.69,Default,,0,0,0,,Here
+Dialogue: 0,00:12:15.77,00:12:17.45,Default,,0,0,0,,Searching me from house to house
+Dialogue: 0,00:12:17.85,00:12:18.41,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:12:30.25,00:12:32.77,Default,,0,0,0,,Open door Open door

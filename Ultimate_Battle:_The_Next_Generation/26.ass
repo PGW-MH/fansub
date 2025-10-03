@@ -1,0 +1,155 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.74,00:00:27.30,Default,,0,0,0,,Xiao Xin...you...
+Dialogue: 0,00:00:43.54,00:00:44.90,Default,,0,0,0,,Ah he woke up...
+Dialogue: 0,00:00:46.42,00:00:47.86,Default,,0,0,0,,What a big cake
+Dialogue: 0,00:00:49.98,00:00:51.10,Default,,0,0,0,,It turns out to be a
+Dialogue: 0,00:00:55.54,00:00:56.88,Default,,0,0,0,,I want to eat
+Dialogue: 0,00:00:56.90,00:00:58.54,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:09.38,00:01:10.34,Default,,0,0,0,,It’s up to you
+Dialogue: 0,00:01:14.14,00:01:15.58,Default,,0,0,0,,Another dreamer
+Dialogue: 0,00:01:16.90,00:01:18.82,Default,,0,0,0,,Why is it so difficult
+Dialogue: 0,00:01:21.50,00:01:23.70,Default,,0,0,0,,I knew you weren’t a good person
+Dialogue: 0,00:01:24.18,00:01:25.30,Default,,0,0,0,,Why haven’t you been
+Dialogue: 0,00:01:26.58,00:01:28.90,Default,,0,0,0,,Because I didn’t eat your food at all
+Dialogue: 0,00:01:34.70,00:01:38.18,Default,,0,0,0,,I’m pretending to expose your true face
+Dialogue: 0,00:01:38.30,00:01:40.18,Default,,0,0,0,,Hand over all the cards
+Dialogue: 0,00:01:40.42,00:01:44.08,Default,,0,0,0,,Hum, you have been blocking my plan since the beginning
+Dialogue: 0,00:01:44.10,00:01:47.10,Default,,0,0,0,,At the beginning, you should have dealt with it first.
+Dialogue: 0,00:01:53.82,00:01:54.54,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:01:58.94,00:02:00.02,Default,,0,0,0,,Return the card back
+Dialogue: 0,00:02:04.58,00:02:06.10,Default,,0,0,0,,Gravity War
+Dialogue: 0,00:02:34.06,00:02:35.46,Default,,0,0,0,,Slide card
+Dialogue: 0,00:02:43.06,00:02:45.66,Default,,0,0,0,,Hum, your lens card is useless to me
+Dialogue: 0,00:02:48.26,00:02:49.14,Default,,0,0,0,,Run
+Dialogue: 0,00:03:05.10,00:03:07.74,Default,,0,0,0,,Hum, the other cards will work for you
+Dialogue: 0,00:03:17.34,00:03:19.22,Default,,0,0,0,,I’ll say it again last
+Dialogue: 0,00:03:19.54,00:03:21.46,Default,,0,0,0,,Return the card
+Dialogue: 0,00:03:29.54,00:03:31.18,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:33.06,00:03:34.38,Default,,0,0,0,,Just surrender
+Dialogue: 0,00:03:41.38,00:03:43.66,Default,,0,0,0,,I have to find a safe and simple part-time job
+Dialogue: 0,00:03:45.62,00:03:47.42,Default,,0,0,0,,A photo administrator in the museum
+Dialogue: 0,00:03:54.38,00:03:55.74,Default,,0,0,0,,How about it...
+Dialogue: 0,00:03:57.02,00:03:59.18,Default,,0,0,0,,The young man was thrown into the trash can
+Dialogue: 0,00:04:00.42,00:04:01.48,Default,,0,0,0,,Behind all this
+Dialogue: 0,00:04:01.50,00:04:03.98,Default,,0,0,0,,What kind of sad separation has happened
+Dialogue: 0,00:04:04.30,00:04:07.02,Default,,0,0,0,,Who is so disrespectful to the elderly and has no public morality?
+Dialogue: 0,00:04:11.58,00:04:13.86,Default,,0,0,0,,Based on the on-site search analysis…
+Dialogue: 0,00:04:14.10,00:04:15.32,Default,,0,0,0,,Help me relax
+Dialogue: 0,00:04:15.34,00:04:17.58,Default,,0,0,0,,I’ll tell you the truth?
+Dialogue: 0,00:04:18.90,00:04:21.22,Default,,0,0,0,,Old man, tell me the truth now
+Dialogue: 0,00:04:23.18,00:04:26.62,Default,,0,0,0,,I will remember your life-saving grace in my heart.
+Dialogue: 0,00:04:26.82,00:04:28.82,Default,,0,0,0,,But I’m really in the middle of the day
+Dialogue: 0,00:04:28.90,00:04:30.28,Default,,0,0,0,,There is also a chance to meet
+Dialogue: 0,00:04:30.30,00:04:32.32,Default,,0,0,0,,I’ll tell you slowly
+Dialogue: 0,00:04:32.34,00:04:35.62,Default,,0,0,0,,Wait for a moment to learn about personal accident insurance
+Dialogue: 0,00:04:38.18,00:04:41.42,Default,,0,0,0,,I didn’t expect that the old man would take such a ruthless move.
+Dialogue: 0,00:04:46.74,00:04:49.06,Default,,0,0,0,,Slowy How do you be here
+Dialogue: 0,00:04:50.22,00:04:53.90,Default,,0,0,0,,Stop Bu Lei I know what you are doing
+Dialogue: 0,00:04:54.70,00:04:57.42,Default,,0,0,0,,Ah, you discovered it
+Dialogue: 0,00:04:57.46,00:05:00.32,Default,,0,0,0,,I made these amazing cakes by hand
+Dialogue: 0,00:05:00.34,00:05:02.34,Default,,0,0,0,,Don’t tell everyone
+Dialogue: 0,00:05:02.50,00:05:04.62,Default,,0,0,0,,I won’t let them eat it
+Dialogue: 0,00:05:06.94,00:05:10.02,Default,,0,0,0,,You have been denying Xiaoxin’s identity on the surface
+Dialogue: 0,00:05:10.38,00:05:11.88,Default,,0,0,0,,But you don’t know...
+Dialogue: 0,00:05:11.90,00:05:14.44,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:05:14.46,00:05:16.18,Default,,0,0,0,,Actually you...
+Dialogue: 0,00:05:19.30,00:05:20.72,Default,,0,0,0,,Oh, it’s a pity
+Dialogue: 0,00:05:20.74,00:05:23.12,Default,,0,0,0,,You have no luck with eating the cake I made
+Dialogue: 0,00:05:23.14,00:05:25.88,Default,,0,0,0,,Let the lambs eat more for you
+Dialogue: 0,00:05:25.90,00:05:26.90,Default,,0,0,0,,Bu Lei…
+Dialogue: 0,00:05:33.58,00:05:36.74,Default,,0,0,0,,Huh...How come the old man runs so fast
+Dialogue: 0,00:05:38.30,00:05:39.66,Default,,0,0,0,,Children
+Dialogue: 0,00:05:44.50,00:05:47.02,Default,,0,0,0,,It’s okay, wake up
+Dialogue: 0,00:05:48.22,00:05:50.88,Default,,0,0,0,,Well…Mura Chief…
+Dialogue: 0,00:05:50.90,00:05:52.50,Default,,0,0,0,,You’re cheated by Bu Lei
+Dialogue: 0,00:05:52.86,00:05:55.70,Default,,0,0,0,,She stole all the cards while you were
+Dialogue: 0,00:05:56.34,00:05:57.54,Default,,0,0,0,,Xiao Xin…
+Dialogue: 0,00:06:01.22,00:06:04.18,Default,,0,0,0,,I thought she had already remembered our friends
+Dialogue: 0,00:06:07.42,00:06:08.60,Default,,0,0,0,,I’ll chase Xiaoxin
+Dialogue: 0,00:06:08.62,00:06:11.22,Default,,0,0,0,,I want to ask clearly and take the card back
+Dialogue: 0,00:06:45.94,00:06:48.70,Default,,0,0,0,,Don’t blame me for being rude if I don’t surrender
+Dialogue: 0,00:06:51.30,00:06:53.18,Default,,0,0,0,,Don’t be civil, come here
+Dialogue: 0,00:07:12.46,00:07:14.94,Default,,0,0,0,,This...this is the ability of the Goat Card
+Dialogue: 0,00:07:59.50,00:08:00.58,Default,,0,0,0,,what?
+Dialogue: 0,00:08:02.22,00:08:03.34,Default,,0,0,0,,Soil and whirlwind?
+Dialogue: 0,00:08:03.50,00:08:05.18,Default,,0,0,0,,Did she use two cards at the same time?
+Dialogue: 0,00:08:05.42,00:08:06.72,Default,,0,0,0,,How is this possible...
+Dialogue: 0,00:08:06.74,00:08:08.18,Default,,0,0,0,,Of course it’s possible
+Dialogue: 0,00:08:12.02,00:08:14.02,Default,,0,0,0,,My attack card
+Dialogue: 0,00:08:14.70,00:08:17.70,Default,,0,0,0,,Haha…it’s mine now
+Dialogue: 0,00:08:19.34,00:08:21.20,Default,,0,0,0,,Come back and don’t leave
+Dialogue: 0,00:08:21.22,00:08:23.70,Default,,0,0,0,,Give me the card
+Dialogue: 0,00:08:28.94,00:08:30.54,Default,,0,0,0,,Sparky , you’re fine
+Dialogue: 0,00:08:30.86,00:08:31.70,Default,,0,0,0,,Jonie
+Dialogue: 0,00:08:32.86,00:08:35.32,Default,,0,0,0,,Don’t worry, I’ll save you...
+Dialogue: 0,00:08:35.34,00:08:36.44,Default,,0,0,0,,How can I not be in a hurry
+Dialogue: 0,00:08:36.46,00:08:38.92,Default,,0,0,0,,Bu Lei snatched our card and walked there
+Dialogue: 0,00:08:38.94,00:08:41.32,Default,,0,0,0,,You go chase me now, I can come out
+Dialogue: 0,00:08:41.34,00:08:43.54,Default,,0,0,0,,You go first I’ll chase you soon
+Dialogue: 0,00:08:44.90,00:08:45.46,Default,,0,0,0,,look
+Dialogue: 0,00:08:47.02,00:08:48.74,Default,,0,0,0,,OK I’ll go chase her first
+Dialogue: 0,00:08:50.98,00:08:55.54,Default,,0,0,0,,- Ah... monster...
+- Monsters...
+Dialogue: 0,00:09:06.34,00:09:09.02,Default,,0,0,0,,Village Chief, what’s wrong
+Dialogue: 0,00:09:09.34,00:09:12.86,Default,,0,0,0,,You’re hit by Bu Lei and there’s something wrong with the cake
+Dialogue: 0,00:09:13.74,00:09:16.50,Default,,0,0,0,,So...Why did she do this
+Dialogue: 0,00:09:17.34,00:09:20.30,Default,,0,0,0,,She is trying to steal all your cards
+Dialogue: 0,00:09:20.78,00:09:21.98,Default,,0,0,0,,what?
+Dialogue: 0,00:09:22.90,00:09:25.26,Default,,0,0,0,,It’s all our fault that we trust her too easily
+Dialogue: 0,00:09:25.62,00:09:28.34,Default,,0,0,0,,Sparky  and Jonie have already chased
+Dialogue: 0,00:09:28.42,00:09:30.10,Default,,0,0,0,,Hope they can get on
+Dialogue: 0,00:09:31.18,00:09:33.76,Default,,0,0,0,,Sparky had clearly reminded us before
+Dialogue: 0,00:09:33.78,00:09:34.96,Default,,0,0,0,,There is a problem with Bu Lei
+Dialogue: 0,00:09:34.98,00:09:36.14,Default,,0,0,0,,Be careless
+Dialogue: 0,00:09:39.30,00:09:41.26,Default,,0,0,0,,Sparky  What’s going on with you
+Dialogue: 0,00:09:42.06,00:09:43.44,Default,,0,0,0,,Are everyone awake?
+Dialogue: 0,00:09:43.46,00:09:45.66,Default,,0,0,0,,Come here in the forest, the thunder ran away
+Dialogue: 0,00:09:46.82,00:09:47.64,Default,,0,0,0,,Sparky
+Dialogue: 0,00:09:47.66,00:09:50.38,Default,,0,0,0,,Why do you want to talk to us from this angle?
+Dialogue: 0,00:09:50.86,00:09:53.34,Default,,0,0,0,,Don’t care about these details
+Dialogue: 0,00:09:53.74,00:09:55.46,Default,,0,0,0,,Anyway, you come and support it
+Dialogue: 0,00:09:56.30,00:09:58.30,Default,,0,0,0,,You hold on, we’ll be there right away
+Dialogue: 0,00:10:02.14,00:10:03.38,Default,,0,0,0,,Wake up, everyone
+Dialogue: 0,00:10:13.38,00:10:15.50,Default,,0,0,0,,Xiao Xin…
+Dialogue: 0,00:10:15.86,00:10:19.10,Default,,0,0,0,,Hum, why is there another one
+Dialogue: 0,00:10:20.46,00:10:22.82,Default,,0,0,0,,Xiaoxin Why do you do this
+Dialogue: 0,00:10:24.82,00:10:27.42,Default,,0,0,0,,Do you...have any hardships
+Dialogue: 0,00:10:27.54,00:10:28.52,Default,,0,0,0,,You tell me
+Dialogue: 0,00:10:28.54,00:10:30.86,Default,,0,0,0,,I will definitely help you Xiaoxin
+Dialogue: 0,00:10:32.14,00:10:34.14,Default,,0,0,0,,Hum, don’t think you’re right
+Dialogue: 0,00:10:35.26,00:10:37.46,Default,,0,0,0,,First I have no worries
+Dialogue: 0,00:10:37.58,00:10:40.86,Default,,0,0,0,,Second, I am not Xiaoxin, my name is Bu Lei
+Dialogue: 0,00:10:41.18,00:10:42.86,Default,,0,0,0,,Isn’t Bu Lei Xiao Xin?
+Dialogue: 0,00:10:44.42,00:10:46.74,Default,,0,0,0,,That’s all my packaging
+Dialogue: 0,00:10:48.14,00:10:49.30,Default,,0,0,0,,what…
+Dialogue: 0,00:10:50.34,00:10:55.38,Default,,0,0,0,,I said...I’ve cheated on you
+Dialogue: 0,00:10:57.94,00:10:59.94,Default,,0,0,0,,All are cheating on you...
+Dialogue: 0,00:11:00.30,00:11:02.30,Default,,0,0,0,,All are cheating on you...
+Dialogue: 0,00:11:05.02,00:11:07.70,Default,,0,0,0,,You...really not Xiao Xin
+Dialogue: 0,00:11:09.90,00:11:11.28,Default,,0,0,0,,How many times have you said
+Dialogue: 0,00:11:11.30,00:11:13.18,Default,,0,0,0,,No, no, no...
+Dialogue: 0,00:11:14.42,00:11:20.10,Default,,0,0,0,,At the beginning, I pretended to be a fan and planned to approach you slowly
+Dialogue: 0,00:11:20.22,00:11:24.10,Default,,0,0,0,,I accidentally heard what you said about Xiaoxin
+Dialogue: 0,00:11:25.70,00:11:28.58,Default,,0,0,0,,I specially collected all the information about her
+Dialogue: 0,00:11:30.46,00:11:32.82,Default,,0,0,0,,Specially decorated as Xiaoxin to approach you
+Dialogue: 0,00:11:36.34,00:11:38.44,Default,,0,0,0,,I didn’t expect you to be so terrible
+Dialogue: 0,00:11:38.46,00:11:41.10,Default,,0,0,0,,Weiyi believed that I was Xiaoxin
+Dialogue: 0,00:11:41.98,00:11:42.90,Default,,0,0,0,,But…
+Dialogue: 0,00:11:44.14,00:11:45.22,Default,,0,0,0,,Stop following me
+Dialogue: 0,00:11:56.66,00:11:59.66,Default,,0,0,0,,The card sent to the door... I collected you
+Dialogue: 0,00:12:21.50,00:12:23.70,Default,,0,0,0,,It’s time to do nothing

@@ -1,0 +1,188 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.77,00:00:19.53,Default,,0,0,0,,No, don’t want it
+Dialogue: 0,00:00:21.05,00:00:22.89,Default,,0,0,0,,Or it’s apart
+Dialogue: 0,00:00:22.97,00:00:26.41,Default,,0,0,0,,I always think it’s not great to live back to Wolf Castle like this
+Dialogue: 0,00:00:27.53,00:00:28.57,Default,,0,0,0,,Why
+Dialogue: 0,00:00:29.01,00:00:30.85,Default,,0,0,0,,Wolf Castle is your home
+Dialogue: 0,00:00:32.77,00:00:33.71,Default,,0,0,0,,that is
+Dialogue: 0,00:00:33.73,00:00:36.33,Default,,0,0,0,,And you are still Wilie’s father
+Dialogue: 0,00:00:38.45,00:00:41.35,Default,,0,0,0,,Finally there is a chance for you to stay together
+Dialogue: 0,00:00:41.37,00:00:43.17,Default,,0,0,0,,Don’t hesitate
+Dialogue: 0,00:00:47.17,00:00:48.46,Default,,0,0,0,,Let it go
+Dialogue: 0,00:00:48.49,00:00:50.49,Default,,0,0,0,,I’m not hurting
+Dialogue: 0,00:00:56.41,00:00:58.65,Default,,0,0,0,,Hello Wilie
+Dialogue: 0,00:00:59.81,00:01:01.09,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:01:01.33,00:01:02.17,Default,,0,0,0,,You’re...
+Dialogue: 0,00:01:03.61,00:01:05.49,Default,,0,0,0,,Your dad’s injury relapsed...
+Dialogue: 0,00:01:05.69,00:01:08.97,Default,,0,0,0,,Very serious, someone must take care of it
+Dialogue: 0,00:01:12.29,00:01:15.18,Default,,0,0,0,,Oh, it hurts...
+Dialogue: 0,00:01:15.21,00:01:16.63,Default,,0,0,0,,This is nutritional
+Dialogue: 0,00:01:16.65,00:01:17.65,Default,,0,0,0,,These are medicines
+Dialogue: 0,00:01:18.69,00:01:20.13,Default,,0,0,0,,Remember to change every day
+Dialogue: 0,00:01:20.49,00:01:23.09,Default,,0,0,0,,Then Wolffy will hand it over to you. Little Big Big White
+Dialogue: 0,00:01:23.81,00:01:25.01,Default,,0,0,0,,goodbye
+Dialogue: 0,00:01:25.89,00:01:26.93,Default,,0,0,0,,Alas, it hurts...
+Dialogue: 0,00:01:27.65,00:01:28.49,Default,,0,0,0,,Come in quickly
+Dialogue: 0,00:01:31.69,00:01:33.61,Default,,0,0,0,,Son, you’re tired
+Dialogue: 0,00:01:34.13,00:01:34.65,Default,,0,0,0,,Not enough
+Dialogue: 0,00:01:36.17,00:01:39.09,Default,,0,0,0,,Dad will give you your favorite egg scrambled meal
+Dialogue: 0,00:01:48.93,00:01:49.73,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:01:50.45,00:01:51.17,Default,,0,0,0,,Ahem...
+Dialogue: 0,00:01:51.65,00:01:53.29,Default,,0,0,0,,I’m ready
+Dialogue: 0,00:01:56.41,00:01:57.89,Default,,0,0,0,,Haven’t you been injured?
+Dialogue: 0,00:01:59.89,00:02:01.95,Default,,0,0,0,,Oh my feet hurt so much
+Dialogue: 0,00:02:01.97,00:02:02.61,Default,,0,0,0,,Alas
+Dialogue: 0,00:02:11.61,00:02:13.53,Default,,0,0,0,,Wilie, you are so awesome
+Dialogue: 0,00:02:17.53,00:02:20.17,Default,,0,0,0,,Do you want to watch the TV? I’ll accompany you
+Dialogue: 0,00:02:21.53,00:02:24.07,Default,,0,0,0,,Son Your egg scrambled rice looks delicious
+Dialogue: 0,00:02:24.09,00:02:25.57,Default,,0,0,0,,How to do it
+Dialogue: 0,00:02:26.01,00:02:27.69,Default,,0,0,0,,Will you meet when you grow up?
+Dialogue: 0,00:02:30.49,00:02:32.37,Default,,0,0,0,,Yes, it’s good to grow up
+Dialogue: 0,00:02:35.85,00:02:37.01,Default,,0,0,0,,You’ve lost
+Dialogue: 0,00:02:39.37,00:02:39.95,Default,,0,0,0,,Son
+Dialogue: 0,00:02:39.97,00:02:43.09,Default,,0,0,0,,Do you remember we used to play with water guns together?
+Dialogue: 0,00:02:44.97,00:02:46.17,Default,,0,0,0,,Not coming out yet
+Dialogue: 0,00:02:46.41,00:02:48.61,Default,,0,0,0,,You actually discovered it
+Dialogue: 0,00:02:50.93,00:02:52.05,Default,,0,0,0,,Stop slapping
+Dialogue: 0,00:02:53.97,00:02:56.05,Default,,0,0,0,,Son is now
+Dialogue: 0,00:02:56.73,00:02:58.05,Default,,0,0,0,,We’ve won
+Dialogue: 0,00:03:03.37,00:03:05.11,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:03:05.13,00:03:06.85,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:03:10.81,00:03:13.13,Default,,0,0,0,,Son, you are most afraid of thunder
+Dialogue: 0,00:03:13.29,00:03:15.25,Default,,0,0,0,,Let’s sleep together tonight
+Dialogue: 0,00:03:17.77,00:03:19.61,Default,,0,0,0,,Son, wait for me
+Dialogue: 0,00:03:20.21,00:03:23.49,Default,,0,0,0,,Son, don’t be afraid, dad will accompany you
+Dialogue: 0,00:03:27.13,00:03:28.17,Default,,0,0,0,,All right
+Dialogue: 0,00:03:30.33,00:03:34.73,Default,,0,0,0,,Alas, how can I get along well with my son?
+Dialogue: 0,00:03:47.69,00:03:50.41,Default,,0,0,0,,These are Wilie’s toys when she was a child
+Dialogue: 0,00:03:52.45,00:03:54.17,Default,,0,0,0,,This light can still open
+Dialogue: 0,00:04:02.73,00:04:04.81,Default,,0,0,0,,It’s really memorable
+Dialogue: 0,00:04:05.73,00:04:08.81,Default,,0,0,0,,But I always feel that it’s a bit unfavorable
+Dialogue: 0,00:04:09.97,00:04:11.81,Default,,0,0,0,,Maybe I’m thinking too much
+Dialogue: 0,00:04:18.29,00:04:21.33,Default,,0,0,0,,Why did Wilie ignore me?
+Dialogue: 0,00:04:22.01,00:04:24.81,Default,,0,0,0,,He’s just not tempted now
+Dialogue: 0,00:04:25.57,00:04:26.73,Default,,0,0,0,,He’s so kind
+Dialogue: 0,00:04:26.93,00:04:28.89,Default,,0,0,0,,I’ll accept yours very early
+Dialogue: 0,00:04:30.13,00:04:31.45,Default,,0,0,0,,Nothing else
+Dialogue: 0,00:04:31.73,00:04:33.63,Default,,0,0,0,,Wilie passed on me
+Dialogue: 0,00:04:33.65,00:04:36.15,Default,,0,0,0,,The kind and kind tradition
+Dialogue: 0,00:04:36.17,00:04:39.87,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:04:39.89,00:04:43.09,Default,,0,0,0,,Hey, have you seen him?
+Dialogue: 0,00:04:46.25,00:04:47.33,Default,,0,0,0,,Little Huihui?
+Dialogue: 0,00:04:48.13,00:04:50.13,Default,,0,0,0,,He...what’s wrong with him
+Dialogue: 0,00:04:51.41,00:04:52.79,Default,,0,0,0,,He moved my stuff
+Dialogue: 0,00:04:52.81,00:04:53.85,Default,,0,0,0,,I’m looking for him
+Dialogue: 0,00:04:54.17,00:04:56.97,Default,,0,0,0,,Move...your...things?
+Dialogue: 0,00:04:58.33,00:05:01.29,Default,,0,0,0,,Oh, why is this happening
+Dialogue: 0,00:05:02.05,00:05:04.97,Default,,0,0,0,,The son does not teach the father
+Dialogue: 0,00:05:06.21,00:05:10.27,Default,,0,0,0,,I’ll definitely take him to find you to commit crimes
+Dialogue: 0,00:05:10.29,00:05:13.21,Default,,0,0,0,,Wolffy Your wheel chair...
+Dialogue: 0,00:05:14.61,00:05:16.29,Default,,0,0,0,,Let me go, I’m still in trouble
+Dialogue: 0,00:05:16.93,00:05:18.89,Default,,0,0,0,,Let’s take you to apologize
+Dialogue: 0,00:05:19.09,00:05:20.13,Default,,0,0,0,,What are you talking about
+Dialogue: 0,00:05:22.17,00:05:23.25,Default,,0,0,0,,Is anyone
+Dialogue: 0,00:05:24.77,00:05:26.77,Default,,0,0,0,,He...Brother Hema
+Dialogue: 0,00:05:26.97,00:05:28.11,Default,,0,0,0,,Children do something wrong
+Dialogue: 0,00:05:28.13,00:05:30.05,Default,,0,0,0,,Apologize definitely
+Dialogue: 0,00:05:31.89,00:05:33.41,Default,,0,0,0,,All of these are blamed on me
+Dialogue: 0,00:05:33.89,00:05:37.13,Default,,0,0,0,,I have not been with my child for the years
+Dialogue: 0,00:05:41.69,00:05:44.33,Default,,0,0,0,,He will make mistakes, it’s mine.
+Dialogue: 0,00:05:46.17,00:05:47.75,Default,,0,0,0,,What are you talking about
+Dialogue: 0,00:05:47.77,00:05:49.71,Default,,0,0,0,,I’m here to thank him
+Dialogue: 0,00:05:49.73,00:05:50.69,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:51.77,00:05:53.09,Default,,0,0,0,,I feel uncomfortable in the morning
+Dialogue: 0,00:05:53.57,00:05:55.65,Default,,0,0,0,,He helped me carry the goods
+Dialogue: 0,00:05:56.73,00:05:58.85,Default,,0,0,0,,I want to give him some candy as a reply
+Dialogue: 0,00:05:58.93,00:05:59.63,Default,,0,0,0,,He doesn’t want it
+Dialogue: 0,00:05:59.65,00:06:01.05,Default,,0,0,0,,Thank you only if you visit the door
+Dialogue: 0,00:06:01.89,00:06:03.69,Default,,0,0,0,,That’s what it means
+Dialogue: 0,00:06:04.05,00:06:05.61,Default,,0,0,0,,Sorry, son
+Dialogue: 0,00:06:05.93,00:06:08.09,Default,,0,0,0,,It turns out that I was wronged you
+Dialogue: 0,00:06:08.81,00:06:09.67,Default,,0,0,0,,sorry
+Dialogue: 0,00:06:09.69,00:06:10.49,Default,,0,0,0,,thank you
+Dialogue: 0,00:06:10.77,00:06:11.31,Default,,0,0,0,,sorry
+Dialogue: 0,00:06:11.33,00:06:12.09,Default,,0,0,0,,thank you
+Dialogue: 0,00:06:12.49,00:06:13.49,Default,,0,0,0,,- sorry
+- thank you
+Dialogue: 0,00:06:14.21,00:06:15.45,Default,,0,0,0,,- sorry
+- thank you
+Dialogue: 0,00:06:15.97,00:06:17.73,Default,,0,0,0,,You’re almost the same
+Dialogue: 0,00:06:19.73,00:06:21.05,Default,,0,0,0,,It’s going to rain
+Dialogue: 0,00:06:21.49,00:06:22.83,Default,,0,0,0,,I’m going back to collect my clothes
+Dialogue: 0,00:06:22.85,00:06:24.53,Default,,0,0,0,,It’s time to leave, too
+Dialogue: 0,00:06:28.53,00:06:29.95,Default,,0,0,0,,I’ll just say it
+Dialogue: 0,00:06:29.97,00:06:31.15,Default,,0,0,0,,My son has passed it
+Dialogue: 0,00:06:31.17,00:06:33.93,Default,,0,0,0,,My righteous and kind tradition
+Dialogue: 0,00:06:34.29,00:06:37.05,Default,,0,0,0,,Son, I’m tired of it, Dad gives you...
+Dialogue: 0,00:06:37.61,00:06:39.01,Default,,0,0,0,,Why did the lights suddenly go out
+Dialogue: 0,00:06:42.69,00:06:44.13,Default,,0,0,0,,What happened
+Dialogue: 0,00:07:04.05,00:07:06.03,Default,,0,0,0,,It should be a star-like monster
+Dialogue: 0,00:07:06.05,00:07:07.19,Default,,0,0,0,,You leave quickly
+Dialogue: 0,00:07:07.21,00:07:08.89,Default,,0,0,0,,Leave it to me here
+Dialogue: 0,00:07:09.93,00:07:11.53,Default,,0,0,0,,But aren’t you injured?
+Dialogue: 0,00:07:12.45,00:07:13.35,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:07:13.37,00:07:14.81,Default,,0,0,0,,I also have gloves
+Dialogue: 0,00:07:17.45,00:07:19.31,Default,,0,0,0,,Hand...set...
+Dialogue: 0,00:07:19.33,00:07:22.33,Default,,0,0,0,,Oops I don’t know where to put the gloves
+Dialogue: 0,00:07:33.25,00:07:34.33,Default,,0,0,0,,Ahem...
+Dialogue: 0,00:07:35.01,00:07:38.33,Default,,0,0,0,,It’s so dark, Wilie, where are you
+Dialogue: 0,00:07:38.85,00:07:42.39,Default,,0,0,0,,Wilie Wilie Wilie Wilie...
+Dialogue: 0,00:07:42.41,00:07:43.69,Default,,0,0,0,,Small gray
+Dialogue: 0,00:07:48.69,00:07:49.77,Default,,0,0,0,,Son...
+Dialogue: 0,00:07:51.73,00:07:53.77,Default,,0,0,0,,This...what monster is this
+Dialogue: 0,00:08:08.29,00:08:09.43,Default,,0,0,0,,Don’t worry, son
+Dialogue: 0,00:08:09.45,00:08:11.85,Default,,0,0,0,,Dad will protect you
+Dialogue: 0,00:08:12.69,00:08:13.89,Default,,0,0,0,,Have you injured your feet?
+Dialogue: 0,00:08:35.61,00:08:37.13,Default,,0,0,0,,Light It’s afraid of light
+Dialogue: 0,00:08:37.45,00:08:40.05,Default,,0,0,0,,We can use strong light to eliminate it
+Dialogue: 0,00:08:41.05,00:08:42.67,Default,,0,0,0,,The second floor storefront
+Dialogue: 0,00:08:42.69,00:08:45.37,Default,,0,0,0,,There was a stage light from the last time Jonie started her concert
+Dialogue: 0,00:08:50.85,00:08:52.13,Default,,0,0,0,,You go up first
+Dialogue: 0,00:08:53.85,00:08:55.89,Default,,0,0,0,,Why are you still doing me? Go quickly
+Dialogue: 0,00:09:01.09,00:09:02.69,Default,,0,0,0,,Help me hold him up
+Dialogue: 0,00:09:05.69,00:09:07.29,Default,,0,0,0,,Come on, Xiao Kei
+Dialogue: 0,00:09:07.45,00:09:10.09,Default,,0,0,0,,Let this king accompany you to have a good time
+Dialogue: 0,00:09:18.65,00:09:20.25,Default,,0,0,0,,ah
+Dialogue: 0,00:09:23.29,00:09:24.49,Default,,0,0,0,,Oh…
+Dialogue: 0,00:09:24.73,00:09:26.05,Default,,0,0,0,,Out... out
+Dialogue: 0,00:09:26.69,00:09:28.21,Default,,0,0,0,,Where have you been hiding again
+Dialogue: 0,00:09:32.49,00:09:35.17,Default,,0,0,0,,Why do I always think there is no match for the enemy?
+Dialogue: 0,00:09:35.85,00:09:38.01,Default,,0,0,0,,My shadow is gone
+Dialogue: 0,00:09:38.49,00:09:40.81,Default,,0,0,0,,This monster turns out to be my shadow
+Dialogue: 0,00:09:47.93,00:09:49.93,Default,,0,0,0,,He actually sneaked into me
+Dialogue: 0,00:09:50.73,00:09:52.61,Default,,0,0,0,,You are such a monster...
+Dialogue: 0,00:09:52.89,00:09:54.43,Default,,0,0,0,,Want to steal me again
+Dialogue: 0,00:09:54.45,00:09:55.89,Default,,0,0,0,,Not that easy
+Dialogue: 0,00:09:58.49,00:10:00.85,Default,,0,0,0,,You know that this king’s wickedness is a disaster
+Dialogue: 0,00:10:03.57,00:10:05.21,Default,,0,0,0,,My flashlight...
+Dialogue: 0,00:10:06.93,00:10:09.81,Default,,0,0,0,,Don’t worry, Wilie
+Dialogue: 0,00:10:16.33,00:10:18.69,Default,,0,0,0,,I’ll help you hold it
+Dialogue: 0,00:10:29.77,00:10:31.57,Default,,0,0,0,,Little Gray Gray…
+Dialogue: 0,00:10:32.05,00:10:33.53,Default,,0,0,0,,alright
+Dialogue: 0,00:10:33.73,00:10:36.21,Default,,0,0,0,,Finally wait for you to say this
+Dialogue: 0,00:11:03.33,00:11:05.81,Default,,0,0,0,,Son is now
+Dialogue: 0,00:11:06.53,00:11:07.05,Default,,0,0,0,,good
+Dialogue: 0,00:11:34.97,00:11:36.37,Default,,0,0,0,,So you remember
+Dialogue: 0,00:11:37.41,00:11:39.17,Default,,0,0,0,,Say...your legs...
+Dialogue: 0,00:11:42.05,00:11:44.35,Default,,0,0,0,,This leg... OK
+Dialogue: 0,00:11:44.37,00:11:46.05,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:11:50.69,00:11:52.91,Default,,0,0,0,,Son, I’m done here
+Dialogue: 0,00:11:52.93,00:11:53.89,Default,,0,0,0,,Son
+Dialogue: 0,00:11:58.01,00:11:59.53,Default,,0,0,0,,I was tired of playing when I was a kid
+Dialogue: 0,00:11:59.77,00:12:03.05,Default,,0,0,0,,Wilie also lies on the sofa and sleeps like this
+Dialogue: 0,00:12:12.29,00:12:14.85,Default,,0,0,0,,It’s time to move

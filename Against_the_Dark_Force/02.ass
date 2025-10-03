@@ -1,0 +1,205 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.72,00:00:20.37,Default,,0,0,0,,Paddi
+Dialogue: 0,00:00:20.40,00:00:22.48,Default,,0,0,0,,See if you can use amazing power
+Dialogue: 0,00:00:22.72,00:00:23.32,Default,,0,0,0,,good
+Dialogue: 0,00:00:28.12,00:00:29.23,Default,,0,0,0,,Nothing to feel
+Dialogue: 0,00:00:32.07,00:00:32.85,Default,,0,0,0,,Help
+Dialogue: 0,00:00:32.88,00:00:33.84,Default,,0,0,0,,Paddi
+Dialogue: 0,00:00:38.84,00:00:39.80,Default,,0,0,0,,Stopped
+Dialogue: 0,00:00:40.32,00:00:41.60,Default,,0,0,0,,Give me a
+Dialogue: 0,00:00:44.40,00:00:45.56,Default,,0,0,0,,We’re here to help, too
+Dialogue: 0,00:01:05.76,00:01:08.52,Default,,0,0,0,,We can’t hold on
+Dialogue: 0,00:01:08.68,00:01:11.52,Default,,0,0,0,,Quickly concentrate and use amazing force
+Dialogue: 0,00:01:15.36,00:01:16.64,Default,,0,0,0,,- Weslie
+- Wolffy
+Dialogue: 0,00:01:17.95,00:01:19.24,Default,,0,0,0,,It’s about to be shut down
+Dialogue: 0,00:01:19.28,00:01:20.84,Default,,0,0,0,,Everyone, hold on
+Dialogue: 0,00:01:20.88,00:01:22.24,Default,,0,0,0,,Focus quickly
+Dialogue: 0,00:01:22.28,00:01:22.97,Default,,0,0,0,,Concentration Concentration
+Dialogue: 0,00:01:23.00,00:01:25.04,Default,,0,0,0,,Oh, why can’t I get it out?
+Dialogue: 0,00:01:26.60,00:01:29.04,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:32.80,00:01:33.95,Default,,0,0,0,,Everyone…
+Dialogue: 0,00:01:42.95,00:01:45.44,Default,,0,0,0,,- Run quickly with the goat
+- Run quickly with the goat
+Dialogue: 0,00:01:47.95,00:01:49.28,Default,,0,0,0,,Don’t remember
+Dialogue: 0,00:01:52.72,00:01:54.31,Default,,0,0,0,,Let’s go and help
+Dialogue: 0,00:02:05.92,00:02:06.84,Default,,0,0,0,,ah
+Dialogue: 0,00:02:08.48,00:02:09.48,Default,,0,0,0,,Luna
+Dialogue: 0,00:02:19.28,00:02:20.68,Default,,0,0,0,,The ground is about to collapse
+Dialogue: 0,00:02:21.32,00:02:22.60,Default,,0,0,0,,Stop your mouth quickly
+Dialogue: 0,00:02:24.08,00:02:25.28,Default,,0,0,0,,Come here
+Dialogue: 0,00:02:36.88,00:02:39.32,Default,,0,0,0,,The Paddi, wake up the strange clouds
+Dialogue: 0,00:02:39.44,00:02:41.60,Default,,0,0,0,,I can’t make it
+Dialogue: 0,00:02:46.36,00:02:47.36,Default,,0,0,0,,Do you want to do
+Dialogue: 0,00:02:54.52,00:02:56.72,Default,,0,0,0,,I don’t want to... let everyone suffer
+Dialogue: 0,00:03:04.63,00:03:05.72,Default,,0,0,0,,Give me a gift!
+Dialogue: 0,00:03:08.00,00:03:10.28,Default,,0,0,0,,You may harm my friend
+Dialogue: 0,00:03:10.32,00:03:11.72,Default,,0,0,0,,Paddi
+Dialogue: 0,00:03:12.12,00:03:13.28,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:03:23.16,00:03:24.91,Default,,0,0,0,,It’s time to me
+Dialogue: 0,00:03:36.24,00:03:37.52,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:03:37.76,00:03:39.84,Default,,0,0,0,,Come on
+Dialogue: 0,00:03:46.96,00:03:47.68,Default,,0,0,0,,Um
+Dialogue: 0,00:03:48.44,00:03:49.92,Default,,0,0,0,,Win
+Dialogue: 0,00:03:51.36,00:03:53.96,Default,,0,0,0,,You’re just stunned
+Dialogue: 0,00:03:55.36,00:03:56.88,Default,,0,0,0,,Fear and tired
+Dialogue: 0,00:04:00.32,00:04:01.40,Default,,0,0,0,,Thank you
+Dialogue: 0,00:04:01.52,00:04:02.92,Default,,0,0,0,,No thanks, old man
+Dialogue: 0,00:04:03.32,00:04:05.08,Default,,0,0,0,,Everyone’s injuries have been cured
+Dialogue: 0,00:04:05.80,00:04:08.64,Default,,0,0,0,,Does everyone in the Cat Country have Qili?
+Dialogue: 0,00:04:08.92,00:04:10.32,Default,,0,0,0,,There was originally
+Dialogue: 0,00:04:10.44,00:04:13.44,Default,,0,0,0,,But my sister prevented the villagers from helping me
+Dialogue: 0,00:04:14.44,00:04:16.32,Default,,0,0,0,,Use only the remaining seal powder
+Dialogue: 0,00:04:16.36,00:04:18.52,Default,,0,0,0,,Eliminate everyone’s power
+Dialogue: 0,00:04:29.44,00:04:30.72,Default,,0,0,0,,So scary...
+Dialogue: 0,00:04:31.16,00:04:34.68,Default,,0,0,0,,Sorry, I’ll take you to such a dangerous place
+Dialogue: 0,00:04:34.92,00:04:35.64,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:04:37.68,00:04:40.88,Default,,0,0,0,,We will definitely help you protect the cat country
+Dialogue: 0,00:04:40.92,00:04:41.44,Default,,0,0,0,,you…
+Dialogue: 0,00:04:42.60,00:04:43.80,Default,,0,0,0,,Let’s go out quickly
+Dialogue: 0,00:04:43.92,00:04:44.44,Default,,0,0,0,,Um
+Dialogue: 0,00:04:56.52,00:04:58.40,Default,,0,0,0,,Wow
+Dialogue: 0,00:05:03.36,00:05:05.48,Default,,0,0,0,,This is the Catland
+Dialogue: 0,00:05:09.12,00:05:11.27,Default,,0,0,0,,Where should we go?
+Dialogue: 0,00:05:11.92,00:05:12.96,Default,,0,0,0,,above
+Dialogue: 0,00:05:14.36,00:05:16.80,Default,,0,0,0,,So high, how do we get up?
+Dialogue: 0,00:05:18.68,00:05:21.44,Default,,0,0,0,,We can get there by taking the train
+Dialogue: 0,00:05:28.16,00:05:29.24,Default,,0,0,0,,You follow me
+Dialogue: 0,00:05:29.32,00:05:30.60,Default,,0,0,0,,I’ll take you to the station
+Dialogue: 0,00:05:35.72,00:05:36.80,Default,,0,0,0,,Enemy invasion
+Dialogue: 0,00:05:36.92,00:05:38.20,Default,,0,0,0,,I’ll sue the Queen immediately
+Dialogue: 0,00:05:40.83,00:05:43.16,Default,,0,0,0,,Wow, it’s so beautiful here
+Dialogue: 0,00:05:50.92,00:05:52.04,Default,,0,0,0,,Hello
+Dialogue: 0,00:05:53.12,00:05:53.81,Default,,0,0,0,,strangeness
+Dialogue: 0,00:05:53.84,00:05:55.69,Default,,0,0,0,,Do you feel the residents here
+Dialogue: 0,00:05:55.72,00:05:57.08,Default,,0,0,0,,Very scared
+Dialogue: 0,00:06:03.20,00:06:04.64,Default,,0,0,0,,That’s my ball
+Dialogue: 0,00:06:05.64,00:06:06.60,Default,,0,0,0,,Give it to you
+Dialogue: 0,00:06:07.08,00:06:08.16,Default,,0,0,0,,thank you
+Dialogue: 0,00:06:08.48,00:06:10.52,Default,,0,0,0,,What’s your name?
+Dialogue: 0,00:06:10.96,00:06:13.04,Default,,0,0,0,,I have lollipops for you
+Dialogue: 0,00:06:14.52,00:06:15.76,Default,,0,0,0,,My name is...
+Dialogue: 0,00:06:20.64,00:06:22.12,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:06:23.32,00:06:25.83,Default,,0,0,0,,Since my sister became the queen
+Dialogue: 0,00:06:26.04,00:06:28.72,Default,,0,0,0,,No one dares to talk to people anymore
+Dialogue: 0,00:06:29.00,00:06:31.00,Default,,0,0,0,,It turns out to be like this
+Dialogue: 0,00:06:32.08,00:06:34.12,Default,,0,0,0,,But as long as we turn our sister back
+Dialogue: 0,00:06:37.08,00:06:40.32,Default,,0,0,0,,Everyone can live happily like before
+Dialogue: 0,00:06:40.72,00:06:41.56,Default,,0,0,0,,Um
+Dialogue: 0,00:06:47.68,00:06:49.04,Default,,0,0,0,,It’s almost time to arrive at the station
+Dialogue: 0,00:06:51.27,00:06:52.64,Default,,0,0,0,,Everyone, get down
+Dialogue: 0,00:06:56.20,00:06:58.20,Default,,0,0,0,,It’s a soldier, be careful
+Dialogue: 0,00:06:58.76,00:06:59.83,Default,,0,0,0,,Catch them
+Dialogue: 0,00:07:00.20,00:07:01.57,Default,,0,0,0,,So many soldiers
+Dialogue: 0,00:07:01.60,00:07:04.76,Default,,0,0,0,,With our ability, we can’t deal with them
+Dialogue: 0,00:07:06.00,00:07:07.45,Default,,0,0,0,,Only use the big move
+Dialogue: 0,00:07:07.48,00:07:09.20,Default,,0,0,0,,You shouldn’t be...
+Dialogue: 0,00:07:13.92,00:07:16.08,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:07:17.96,00:07:19.44,Default,,0,0,0,,Everyone, let’s go
+Dialogue: 0,00:07:23.88,00:07:24.76,Default,,0,0,0,,What about the Slowy
+Dialogue: 0,00:07:25.60,00:07:26.32,Default,,0,0,0,,Oops
+Dialogue: 0,00:07:30.56,00:07:32.48,Default,,0,0,0,,Stop and don’t run
+Dialogue: 0,00:07:33.36,00:07:34.20,Default,,0,0,0,,Here
+Dialogue: 0,00:07:40.88,00:07:42.44,Default,,0,0,0,,It seems to be taking them off
+Dialogue: 0,00:07:43.60,00:07:45.44,Default,,0,0,0,,Let’s take a break first
+Dialogue: 0,00:07:45.56,00:07:46.72,Default,,0,0,0,,OK
+Dialogue: 0,00:07:49.08,00:07:55.52,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:07:55.64,00:07:57.12,Default,,0,0,0,,Be careful
+Dialogue: 0,00:07:59.64,00:08:00.89,Default,,0,0,0,,How could this be...
+Dialogue: 0,00:08:00.92,00:08:02.16,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:08:02.92,00:08:04.64,Default,,0,0,0,,The wolf fell off the cliff
+Dialogue: 0,00:08:05.32,00:08:05.92,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:08:06.52,00:08:09.24,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:08:12.60,00:08:14.32,Default,,0,0,0,,Don’t run and stop
+Dialogue: 0,00:08:14.92,00:08:15.64,Default,,0,0,0,,stop
+Dialogue: 0,00:08:17.04,00:08:18.80,Default,,0,0,0,,Stop and don’t run
+Dialogue: 0,00:08:18.92,00:08:20.53,Default,,0,0,0,,They’re about to catch up
+Dialogue: 0,00:08:20.56,00:08:21.21,Default,,0,0,0,,stop
+Dialogue: 0,00:08:21.24,00:08:21.92,Default,,0,0,0,,Here
+Dialogue: 0,00:08:23.96,00:08:24.96,Default,,0,0,0,,- Don’t run
+- Here
+Dialogue: 0,00:08:29.92,00:08:31.56,Default,,0,0,0,,Why did you stop suddenly
+Dialogue: 0,00:08:34.72,00:08:36.61,Default,,0,0,0,,Let’s run
+Dialogue: 0,00:08:36.64,00:08:39.20,Default,,0,0,0,,Will be discovered here
+Dialogue: 0,00:08:39.84,00:08:41.72,Default,,0,0,0,,Hey, what are you going to do
+Dialogue: 0,00:08:41.96,00:08:43.04,Default,,0,0,0,,-Catched
+Dialogue: 0,00:08:46.80,00:08:47.40,Default,,0,0,0,,Where is the person?
+Dialogue: 0,00:08:47.64,00:08:48.36,Default,,0,0,0,,Where have you gone?
+Dialogue: 0,00:08:48.60,00:08:49.88,Default,,0,0,0,,I just saw that I was still here
+Dialogue: 0,00:08:58.76,00:09:00.28,Default,,0,0,0,,Let’s find it separately
+Dialogue: 0,00:09:00.64,00:09:01.12,Default,,0,0,0,,good
+Dialogue: 0,00:09:03.48,00:09:06.08,Default,,0,0,0,,call! Here is...
+Dialogue: 0,00:09:07.40,00:09:09.76,Default,,0,0,0,,This is our secret base
+Dialogue: 0,00:09:11.67,00:09:12.29,Default,,0,0,0,,before
+Dialogue: 0,00:09:12.32,00:09:14.96,Default,,0,0,0,,My sister and I always like to come here to play secretly
+Dialogue: 0,00:09:25.08,00:09:26.08,Default,,0,0,0,,ah
+Dialogue: 0,00:09:34.16,00:09:35.65,Default,,0,0,0,,Do you want to eat fruit?
+Dialogue: 0,00:09:35.67,00:09:37.60,Default,,0,0,0,,There are a lot of them here.
+Dialogue: 0,00:09:40.55,00:09:42.60,Default,,0,0,0,,We also met Fulai here
+Dialogue: 0,00:09:42.72,00:09:44.48,Default,,0,0,0,,Playing together often
+Dialogue: 0,00:09:46.24,00:09:49.88,Default,,0,0,0,,Xiao Mingri will be the eternal good sister with Xiao Luna
+Dialogue: 0,00:09:50.20,00:09:50.84,Default,,0,0,0,,good
+Dialogue: 0,00:09:51.48,00:09:52.80,Default,,0,0,0,,Levana Luna
+Dialogue: 0,00:09:53.40,00:09:54.72,Default,,0,0,0,,I’m a little tired
+Dialogue: 0,00:09:55.00,00:09:57.04,Default,,0,0,0,,Let’s go out to pick the fruit and eat it
+Dialogue: 0,00:09:57.92,00:09:59.84,Default,,0,0,0,,You know how to eat
+Dialogue: 0,00:10:00.20,00:10:02.36,Default,,0,0,0,,Sister, let’s pick the fruits
+Dialogue: 0,00:10:02.40,00:10:04.20,Default,,0,0,0,,Xiao Luna said she was tired too
+Dialogue: 0,00:10:04.76,00:10:06.04,Default,,0,0,0,,Oh well
+Dialogue: 0,00:10:10.96,00:10:13.84,Default,,0,0,0,,But my sister is now like this
+Dialogue: 0,00:10:15.76,00:10:17.60,Default,,0,0,0,,Luna who doesn’t have to worry about
+Dialogue: 0,00:10:17.76,00:10:21.00,Default,,0,0,0,,Weslie must have a way to turn her back to what she used to be
+Dialogue: 0,00:10:22.52,00:10:24.00,Default,,0,0,0,,Just trust us
+Dialogue: 0,00:10:24.48,00:10:24.92,Default,,0,0,0,,Um
+Dialogue: 0,00:10:25.88,00:10:27.28,Default,,0,0,0,,Are you looking for it there?
+Dialogue: 0,00:10:28.36,00:10:29.00,Default,,0,0,0,,No
+Dialogue: 0,00:10:29.76,00:10:31.55,Default,,0,0,0,,But I received a notice from the team leader
+Dialogue: 0,00:10:31.60,00:10:33.12,Default,,0,0,0,,Say goat were caught there
+Dialogue: 0,00:10:33.55,00:10:35.40,Default,,0,0,0,,Then let’s go quickly
+Dialogue: 0,00:10:39.16,00:10:41.44,Default,,0,0,0,,Catch the goat
+Dialogue: 0,00:10:44.67,00:10:45.52,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:46.40,00:10:47.28,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:47.44,00:10:48.72,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:10:48.76,00:10:50.17,Default,,0,0,0,,Let’s go look for it separately
+Dialogue: 0,00:10:50.20,00:10:50.60,Default,,0,0,0,,good
+Dialogue: 0,00:10:51.00,00:10:53.20,Default,,0,0,0,,Weslie Hot Hot Hot
+Dialogue: 0,00:10:54.80,00:10:56.96,Default,,0,0,0,,Slowy Tibbie
+Dialogue: 0,00:10:58.12,00:11:00.48,Default,,0,0,0,,Village Chief Big Wolf
+Dialogue: 0,00:11:01.00,00:11:03.60,Default,,0,0,0,,Help...
+Dialogue: 0,00:11:04.00,00:11:06.04,Default,,0,0,0,,I just heard Wolffy’s voice
+Dialogue: 0,00:11:06.12,00:11:07.55,Default,,0,0,0,,Let’s go ahead and take a look
+Dialogue: 0,00:11:08.67,00:11:13.37,Default,,0,0,0,,Help... Help
+Dialogue: 0,00:11:13.40,00:11:15.00,Default,,0,0,0,,I’m here
+Dialogue: 0,00:11:15.55,00:11:17.77,Default,,0,0,0,,Big Wolf, why are you there
+Dialogue: 0,00:11:17.80,00:11:18.97,Default,,0,0,0,,Say it
+Dialogue: 0,00:11:19.00,00:11:22.80,Default,,0,0,0,,Save me up, it’s so scary here
+Dialogue: 0,00:11:26.40,00:11:29.12,Default,,0,0,0,,Save me up, the branches are almost broken
+Dialogue: 0,00:11:29.16,00:11:30.32,Default,,0,0,0,,I’ll help you
+Dialogue: 0,00:11:34.40,00:11:36.16,Default,,0,0,0,,Big Wolf Are you okay
+Dialogue: 0,00:11:36.28,00:11:37.41,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:11:37.44,00:11:38.53,Default,,0,0,0,,Right, what about the village chief?
+Dialogue: 0,00:11:38.55,00:11:40.16,Default,,0,0,0,,Isn’t he with you?
+Dialogue: 0,00:11:41.92,00:11:43.20,Default,,0,0,0,,Why don’t you say anything?
+Dialogue: 0,00:11:44.92,00:11:48.13,Default,,0,0,0,,Slowy he... was captured
+Dialogue: 0,00:11:48.16,00:11:49.40,Default,,0,0,0,,what!
+Dialogue: 0,00:12:02.80,00:12:03.76,Default,,0,0,0,,No way out!
+Dialogue: 0,00:12:08.67,00:12:10.52,Default,,0,0,0,,I can’t run anymore...
+Dialogue: 0,00:12:13.04,00:12:15.76,Default,,0,0,0,,It’s so far away, it should be fine, right?
+Dialogue: 0,00:12:16.36,00:12:19.12,Default,,0,0,0,,I don’t know where the 海官网网站s and others have gone
+Dialogue: 0,00:12:19.88,00:12:21.92,Default,,0,0,0,,Let’s go find them again soon
+Dialogue: 0,00:12:22.16,00:12:23.28,Default,,0,0,0,,Who are you looking for?

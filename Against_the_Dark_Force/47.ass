@@ -1,0 +1,214 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.16,00:00:22.12,Default,,0,0,0,,That’s...
+Dialogue: 0,00:00:24.88,00:00:27.40,Default,,0,0,0,,Huh? Why am I here?
+Dialogue: 0,00:00:28.20,00:00:31.36,Default,,0,0,0,,It’s a blessing, catch him...
+Dialogue: 0,00:00:34.12,00:00:36.92,Default,,0,0,0,,Let me tell you where did you bring Princess Luna
+Dialogue: 0,00:00:37.64,00:00:39.24,Default,,0,0,0,,Who are you
+Dialogue: 0,00:00:40.08,00:00:41.15,Default,,0,0,0,,Stop installing
+Dialogue: 0,00:00:41.56,00:00:43.08,Default,,0,0,0,,I didn’t have it
+Dialogue: 0,00:00:43.60,00:00:46.08,Default,,0,0,0,,You took Princess Luna away
+Dialogue: 0,00:00:46.52,00:00:50.32,Default,,0,0,0,,How about it...what are you talking about
+Dialogue: 0,00:00:51.96,00:00:55.12,Default,,0,0,0,,King of the Kingdom will save me quickly. There is an assassin
+Dialogue: 0,00:00:58.40,00:01:01.16,Default,,0,0,0,,Tell me where did you take my daughter
+Dialogue: 0,00:01:02.36,00:01:05.33,Default,,0,0,0,,I really don’t know where Princess Luna is
+Dialogue: 0,00:01:05.36,00:01:07.64,Default,,0,0,0,,What happened
+Dialogue: 0,00:01:07.88,00:01:09.84,Default,,0,0,0,,Don’t be stupid for me...
+Dialogue: 0,00:01:11.28,00:01:12.68,Default,,0,0,0,,What happened
+Dialogue: 0,00:01:13.28,00:01:15.20,Default,,0,0,0,,It seems that I can only use torture!
+Dialogue: 0,00:01:15.76,00:01:17.16,Default,,0,0,0,,Use...
+Dialogue: 0,00:01:22.16,00:01:24.13,Default,,0,0,0,,Ah...No
+Dialogue: 0,00:01:24.16,00:01:26.29,Default,,0,0,0,,I really can’t stand it anymore
+Dialogue: 0,00:01:26.31,00:01:29.24,Default,,0,0,0,,Humph, I can only continue to torture
+Dialogue: 0,00:01:30.24,00:01:30.93,Default,,0,0,0,,Say it
+Dialogue: 0,00:01:30.96,00:01:32.09,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:01:32.12,00:01:35.33,Default,,0,0,0,,I really don’t know, hahaha...
+Dialogue: 0,00:01:35.36,00:01:38.52,Default,,0,0,0,,Let you not say it, let you not say it...
+Dialogue: 0,00:01:39.04,00:01:41.00,Default,,0,0,0,,Sparky , I’m here too
+Dialogue: 0,00:01:41.76,00:01:46.88,Default,,0,0,0,,Hahahaha...stop...hahahaha...
+Dialogue: 0,00:01:47.60,00:01:49.04,Default,,0,0,0,,Too violent...
+Dialogue: 0,00:01:51.20,00:01:52.08,Default,,0,0,0,,No!
+Dialogue: 0,00:01:55.24,00:01:57.08,Default,,0,0,0,,What’s up? What happened?
+Dialogue: 0,00:01:59.76,00:02:03.36,Default,,0,0,0,,Crystal box...Crystal box is opened
+Dialogue: 0,00:02:04.64,00:02:06.33,Default,,0,0,0,,It’s over, the wolf ran away
+Dialogue: 0,00:02:06.36,00:02:08.28,Default,,0,0,0,,Dark energy is not safe...
+Dialogue: 0,00:02:08.52,00:02:11.56,Default,,0,0,0,,Did the wolf who wanted to steal dark energy at the beginning be here?
+Dialogue: 0,00:02:12.24,00:02:14.52,Default,,0,0,0,,But why was it opened
+Dialogue: 0,00:02:14.80,00:02:15.36,Default,,0,0,0,,yes
+Dialogue: 0,00:02:15.52,00:02:18.63,Default,,0,0,0,,Without the power of our royal family, it cannot be opened.
+Dialogue: 0,00:02:23.80,00:02:26.20,Default,,0,0,0,,Will it have anything to do with Princess Luna?
+Dialogue: 0,00:02:26.48,00:02:28.60,Default,,0,0,0,,Then let’s go and find Princess Luna
+Dialogue: 0,00:02:29.16,00:02:29.68,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:31.63,00:02:32.56,Default,,0,0,0,,Who is there?
+Dialogue: 0,00:02:33.28,00:02:34.63,Default,,0,0,0,,-Follow up and take a look -Follow up and take a look
+Dialogue: 0,00:02:35.24,00:02:36.24,Default,,0,0,0,,Don’t want to run
+Dialogue: 0,00:02:38.76,00:02:39.52,Default,,0,0,0,,Sparky ...
+Dialogue: 0,00:02:43.40,00:02:44.63,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:02:49.36,00:02:52.12,Default,,0,0,0,,Who are you? Sneaky here
+Dialogue: 0,00:02:53.56,00:02:55.52,Default,,0,0,0,,Just let you down, you want to live with me
+Dialogue: 0,00:02:56.04,00:02:57.96,Default,,0,0,0,,It’s you? Hurry him
+Dialogue: 0,00:02:58.88,00:03:01.09,Default,,0,0,0,,He was the one who ejaculated his dark energy that year
+Dialogue: 0,00:03:01.12,00:03:02.63,Default,,0,0,0,,The wolf is kept in here
+Dialogue: 0,00:03:04.16,00:03:04.88,Default,,0,0,0,,what?
+Dialogue: 0,00:03:05.60,00:03:07.12,Default,,0,0,0,,Hum overestimate one’s ability!
+Dialogue: 0,00:03:10.96,00:03:12.00,Default,,0,0,0,,-Princess Luna? -Princess Luna?
+Dialogue: 0,00:03:13.20,00:03:14.88,Default,,0,0,0,,Princess, why are you here?
+Dialogue: 0,00:03:20.44,00:03:22.63,Default,,0,0,0,,No one is allowed to approach here
+Dialogue: 0,00:03:23.52,00:03:24.24,Default,,0,0,0,,Let it open
+Dialogue: 0,00:03:25.24,00:03:26.88,Default,,0,0,0,,If the dark energy is revealed
+Dialogue: 0,00:03:27.00,00:03:28.91,Default,,0,0,0,,It will cause disaster in the cat country
+Dialogue: 0,00:03:29.32,00:03:31.13,Default,,0,0,0,,Please understand Princess Luna
+Dialogue: 0,00:03:31.16,00:03:32.36,Default,,0,0,0,,Don’t make it difficult for us
+Dialogue: 0,00:03:33.36,00:03:34.12,Default,,0,0,0,,Leave aside!
+Dialogue: 0,00:03:35.16,00:03:35.88,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:53.36,00:03:54.84,Default,,0,0,0,,Who are you
+Dialogue: 0,00:03:56.48,00:03:58.25,Default,,0,0,0,,Since you have caught
+Dialogue: 0,00:03:58.28,00:04:00.16,Default,,0,0,0,,Then I’ll tell you
+Dialogue: 0,00:04:00.40,00:04:02.28,Default,,0,0,0,,My name is Lonely Wolf
+Dialogue: 0,00:04:02.76,00:04:04.24,Default,,0,0,0,,The lone wolf...
+Dialogue: 0,00:04:05.44,00:04:06.53,Default,,0,0,0,,This thing
+Dialogue: 0,00:04:06.56,00:04:09.12,Default,,0,0,0,,Let me start with my dark energy...
+Dialogue: 0,00:04:10.44,00:04:11.96,Default,,0,0,0,,I was a little bit short of
+Dialogue: 0,00:04:12.00,00:04:14.12,Default,,0,0,0,,You can successfully obtain dark energy
+Dialogue: 0,00:04:14.24,00:04:17.40,Default,,0,0,0,,I didn’t expect to be caught by two princesses
+Dialogue: 0,00:04:17.84,00:04:19.25,Default,,0,0,0,,The result was shocked by the king
+Dialogue: 0,00:04:19.28,00:04:20.84,Default,,0,0,0,,He sent soldiers to capture me
+Dialogue: 0,00:04:21.08,00:04:23.76,Default,,0,0,0,,It was at this time that I just met Fulai...
+Dialogue: 0,00:04:24.72,00:04:26.72,Default,,0,0,0,,So you’ve been lucky?
+Dialogue: 0,00:04:27.32,00:04:30.36,Default,,0,0,0,,Half right, but I’m not
+Dialogue: 0,00:04:30.76,00:04:33.64,Default,,0,0,0,,Instead... occupied his body
+Dialogue: 0,00:04:33.88,00:04:36.20,Default,,0,0,0,,what?
+Dialogue: 0,00:04:41.36,00:04:44.33,Default,,0,0,0,,So I kept my body here at a moment
+Dialogue: 0,00:04:44.36,00:04:45.92,Default,,0,0,0,,Use blessing to escape
+Dialogue: 0,00:04:46.44,00:04:48.65,Default,,0,0,0,,Whether it is a body, memory or ability
+Dialogue: 0,00:04:48.68,00:04:49.96,Default,,0,0,0,,I can take up all
+Dialogue: 0,00:04:50.48,00:04:53.96,Default,,0,0,0,,I don’t blame me for not remembering anything after hitting him
+Dialogue: 0,00:04:54.44,00:04:55.76,Default,,0,0,0,,What about later?
+Dialogue: 0,00:04:57.72,00:05:00.20,Default,,0,0,0,,Watching his body be sealed
+Dialogue: 0,00:05:01.04,00:05:03.88,Default,,0,0,0,,I can only continue to use my blessings
+Dialogue: 0,00:05:04.40,00:05:07.13,Default,,0,0,0,,Strange you can occupy the body of the king
+Dialogue: 0,00:05:07.16,00:05:09.12,Default,,0,0,0,,This is more convenient to move
+Dialogue: 0,00:05:10.04,00:05:12.24,Default,,0,0,0,,Humph, I’ve tried it early
+Dialogue: 0,00:05:12.96,00:05:15.01,Default,,0,0,0,,But the king has a strong and powerful bodyguard
+Dialogue: 0,00:05:15.04,00:05:16.24,Default,,0,0,0,,I have no way to do it, either
+Dialogue: 0,00:05:16.44,00:05:20.08,Default,,0,0,0,,That’s right, our family is so bad
+Dialogue: 0,00:05:20.48,00:05:22.56,Default,,0,0,0,,At that time, I still wanted to defect to tomorrow
+Dialogue: 0,00:05:23.96,00:05:26.44,Default,,0,0,0,,This makes it more likely to get dark energy
+Dialogue: 0,00:05:26.72,00:05:29.17,Default,,0,0,0,,But I didn’t expect that she thought I was Luna’s companion
+Dialogue: 0,00:05:29.20,00:05:30.56,Default,,0,0,0,,I won’t let it go
+Dialogue: 0,00:05:31.76,00:05:33.96,Default,,0,0,0,,Want to go back to the palace to get dark energy
+Dialogue: 0,00:05:35.00,00:05:37.68,Default,,0,0,0,,I am just a long time and I
+Dialogue: 0,00:05:37.88,00:05:40.56,Default,,0,0,0,,I didn’t expect you to appear at this time...
+Dialogue: 0,00:05:44.52,00:05:46.00,Default,,0,0,0,,Let’s help you
+Dialogue: 0,00:05:49.16,00:05:50.12,Default,,0,0,0,,Thank you
+Dialogue: 0,00:05:51.60,00:05:53.73,Default,,0,0,0,,After three words, I answered to help us
+Dialogue: 0,00:05:53.76,00:05:55.13,Default,,0,0,0,,It’s too simple and pure
+Dialogue: 0,00:05:55.16,00:05:55.81,Default,,0,0,0,,hey-hey…
+Dialogue: 0,00:05:55.84,00:05:58.64,Default,,0,0,0,,Our goat village is full of simple and lovely goat
+Dialogue: 0,00:05:59.60,00:06:01.29,Default,,0,0,0,,People are saying you’re stupid
+Dialogue: 0,00:06:01.32,00:06:02.96,Default,,0,0,0,,Don’t get us even if you don’t hear it
+Dialogue: 0,00:06:11.44,00:06:13.76,Default,,0,0,0,,Hum, it’s just hidden here
+Dialogue: 0,00:06:24.92,00:06:26.27,Default,,0,0,0,,Just this seal...
+Dialogue: 0,00:06:47.36,00:06:49.96,Default,,0,0,0,,I didn’t expect it to be so simple
+Dialogue: 0,00:06:50.32,00:06:51.12,Default,,0,0,0,,Stop...
+Dialogue: 0,00:06:54.12,00:06:56.80,Default,,0,0,0,,Sister, don’t take out dark energy
+Dialogue: 0,00:07:03.04,00:07:06.12,Default,,0,0,0,,Then you try to stop me
+Dialogue: 0,00:07:07.04,00:07:07.96,Default,,0,0,0,,Take the call
+Dialogue: 0,00:07:10.16,00:07:11.36,Default,,0,0,0,,You wake up
+Dialogue: 0,00:07:12.36,00:07:14.09,Default,,0,0,0,,Once dark energy is revealed
+Dialogue: 0,00:07:14.12,00:07:16.16,Default,,0,0,0,,The whole cat country will suffer
+Dialogue: 0,00:07:19.76,00:07:21.40,Default,,0,0,0,,Don’t point fingers at me
+Dialogue: 0,00:07:22.16,00:07:23.40,Default,,0,0,0,,ah
+Dialogue: 0,00:07:27.04,00:07:27.92,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:07:28.08,00:07:30.96,Default,,0,0,0,,Will you just come and go like a mouse?
+Dialogue: 0,00:07:31.36,00:07:32.48,Default,,0,0,0,,Sorry...
+Dialogue: 0,00:07:37.60,00:07:38.44,Default,,0,0,0,,Very bad!
+Dialogue: 0,00:07:45.20,00:07:47.12,Default,,0,0,0,,Let me go...
+Dialogue: 0,00:07:48.44,00:07:51.04,Default,,0,0,0,,I can’t let you release dark energy
+Dialogue: 0,00:07:55.64,00:07:56.36,Default,,0,0,0,,not good...
+Dialogue: 0,00:08:03.92,00:08:05.40,Default,,0,0,0,,Luna, you’re fine
+Dialogue: 0,00:08:05.76,00:08:07.68,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:08.68,00:08:11.68,Default,,0,0,0,,You’re still worried about yourself
+Dialogue: 0,00:08:12.04,00:08:13.92,Default,,0,0,0,,don’t want…
+Dialogue: 0,00:08:18.04,00:08:20.36,Default,,0,0,0,,No one can stop me
+Dialogue: 0,00:08:25.68,00:08:28.61,Default,,0,0,0,,I’m not blaming you for always hurriedly saying to leave quickly
+Dialogue: 0,00:08:28.64,00:08:31.24,Default,,0,0,0,,It turns out that your purpose is dark energy
+Dialogue: 0,00:08:31.88,00:08:34.24,Default,,0,0,0,,It turns out that you have been using us all the time
+Dialogue: 0,00:08:34.64,00:08:36.85,Default,,0,0,0,,Hum, for your friendship
+Dialogue: 0,00:08:36.88,00:08:38.64,Default,,0,0,0,,I’ve wasted a lot of time
+Dialogue: 0,00:08:39.44,00:08:42.00,Default,,0,0,0,,Ice and Snow Town stopped because of the snow
+Dialogue: 0,00:08:43.64,00:08:45.53,Default,,0,0,0,,In the quicksand town, to save the Sparky
+Dialogue: 0,00:08:45.55,00:08:47.36,Default,,0,0,0,,You actually stayed
+Dialogue: 0,00:08:50.28,00:08:51.45,Default,,0,0,0,,Arrive at the Shuiling Town
+Dialogue: 0,00:08:51.48,00:08:54.08,Default,,0,0,0,,For those villagers, I went to find the floating beads
+Dialogue: 0,00:08:58.44,00:09:00.96,Default,,0,0,0,,After you fight with the Slowy in Soldier Village
+Dialogue: 0,00:09:01.16,00:09:04.24,Default,,0,0,0,,I was worried about his injuries and went back...
+Dialogue: 0,00:09:07.52,00:09:08.84,Default,,0,0,0,,Sorry...
+Dialogue: 0,00:09:09.55,00:09:11.52,Default,,0,0,0,,No, why do I apologize
+Dialogue: 0,00:09:12.16,00:09:12.52,Default,,0,0,0,,snort!
+Dialogue: 0,00:09:13.32,00:09:14.08,Default,,0,0,0,,continue
+Dialogue: 0,00:09:14.60,00:09:18.25,Default,,0,0,0,,You’ve been in the palace so you’ll be familiar with it
+Dialogue: 0,00:09:18.28,00:09:20.76,Default,,0,0,0,,So you deliberately dropped the team when the machine is in contact?
+Dialogue: 0,00:09:21.55,00:09:22.84,Default,,0,0,0,,Hum, it’s OK
+Dialogue: 0,00:09:39.52,00:09:42.36,Default,,0,0,0,,I’ve prepared the keys long ago and I can leave just by opening the door
+Dialogue: 0,00:09:42.64,00:09:43.72,Default,,0,0,0,,Unexpectedly...
+Dialogue: 0,00:09:45.44,00:09:47.21,Default,,0,0,0,,You actually fell down too
+Dialogue: 0,00:09:47.24,00:09:48.52,Default,,0,0,0,,I also made a fuss about my plan
+Dialogue: 0,00:09:49.92,00:09:52.76,Default,,0,0,0,,It was an excuse for you to go out to explore the way?
+Dialogue: 0,00:09:52.92,00:09:53.44,Default,,0,0,0,,right
+Dialogue: 0,00:09:56.55,00:09:58.12,Default,,0,0,0,,I hid the soldiers in the patrol
+Dialogue: 0,00:09:58.72,00:10:00.52,Default,,0,0,0,,Arrived in the bookroom smoothly
+Dialogue: 0,00:10:04.40,00:10:06.92,Default,,0,0,0,,Finally, we come to the secret room with dark energy
+Dialogue: 0,00:10:09.55,00:10:12.12,Default,,0,0,0,,It turns out that the bookstore is so awkward, it is also because of you
+Dialogue: 0,00:10:12.55,00:10:14.45,Default,,0,0,0,,Even if you find a secret room
+Dialogue: 0,00:10:14.48,00:10:16.67,Default,,0,0,0,,You can’t get dark energy at all
+Dialogue: 0,00:10:16.88,00:10:18.96,Default,,0,0,0,,Yes I can’t get it
+Dialogue: 0,00:10:27.60,00:10:29.61,Default,,0,0,0,,Later you deliberately went in front of the king
+Dialogue: 0,00:10:29.64,00:10:31.48,Default,,0,0,0,,File a security question in the secret room
+Dialogue: 0,00:10:35.88,00:10:37.81,Default,,0,0,0,,That’s right. I missed him more
+Dialogue: 0,00:10:37.84,00:10:39.81,Default,,0,0,0,,I know only people from their family
+Dialogue: 0,00:10:39.84,00:10:41.44,Default,,0,0,0,,Can remove barriers
+Dialogue: 0,00:10:41.84,00:10:44.08,Default,,0,0,0,,This is really not a good thing
+Dialogue: 0,00:10:45.32,00:10:48.28,Default,,0,0,0,,From the beginning you’re counting all of us
+Dialogue: 0,00:10:49.16,00:10:50.21,Default,,0,0,0,,Too much
+Dialogue: 0,00:10:50.24,00:10:53.44,Default,,0,0,0,,For the sake of dark energy, use everyone’s feelings
+Dialogue: 0,00:10:53.60,00:10:56.88,Default,,0,0,0,,Hum, to me, people are divided into two types
+Dialogue: 0,00:10:57.24,00:10:59.67,Default,,0,0,0,,What works for me and what doesn’t work for me
+Dialogue: 0,00:11:00.64,00:11:02.44,Default,,0,0,0,,That’s all
+Dialogue: 0,00:11:02.76,00:11:05.24,Default,,0,0,0,,There are so many people you hurt along the way
+Dialogue: 0,00:11:05.36,00:11:07.80,Default,,0,0,0,,Can’t you feel a little guilty?
+Dialogue: 0,00:11:08.72,00:11:09.55,Default,,0,0,0,,ridiculous
+Dialogue: 0,00:11:09.96,00:11:11.72,Default,,0,0,0,,As long as my plan succeeds
+Dialogue: 0,00:11:11.84,00:11:13.76,Default,,0,0,0,,What’s wrong with me?
+Dialogue: 0,00:11:15.52,00:11:18.24,Default,,0,0,0,,What exactly do you want to use dark energy?
+Dialogue: 0,00:11:18.44,00:11:20.64,Default,,0,0,0,,Take back our world
+Dialogue: 0,00:11:21.12,00:11:23.04,Default,,0,0,0,,What…our world?
+Dialogue: 0,00:11:23.88,00:11:25.32,Default,,0,0,0,,Green...grassland?
+Dialogue: 0,00:11:28.60,00:11:30.67,Default,,0,0,0,,Why do you tell us so much?
+Dialogue: 0,00:11:39.60,00:11:41.67,Default,,0,0,0,,You were caught by us on purpose
+Dialogue: 0,00:11:42.32,00:11:44.48,Default,,0,0,0,,Just to delay time for Luna…
+Dialogue: 0,00:11:45.32,00:11:47.40,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:11:48.76,00:11:50.55,Default,,0,0,0,,You actually discovered it
+Dialogue: 0,00:11:50.72,00:11:52.84,Default,,0,0,0,,Luna should be in the secret room
+Dialogue: 0,00:11:53.52,00:11:54.89,Default,,0,0,0,,Hahaha...come
+Dialogue: 0,00:11:54.92,00:11:57.60,Default,,0,0,0,,Let me tell you about my plan with Luna again
+Dialogue: 0,00:11:58.36,00:12:00.60,Default,,0,0,0,,Let’s go to the secret room to find Luna
+Dialogue: 0,00:12:05.36,00:12:06.04,Default,,0,0,0,,Alas
+Dialogue: 0,00:12:16.32,00:12:17.36,Default,,0,0,0,,Levana’s Princess
+Dialogue: 0,00:12:19.76,00:12:21.84,Default,,0,0,0,,Princess Levana, you’re fine
+Dialogue: 0,00:12:22.55,00:12:24.36,Default,,0,0,0,,Quick...Stop her...
+Dialogue: 0,00:12:24.76,00:12:29.72,Default,,0,0,0,,Hahahaha…Dark energy is mine!

@@ -1,0 +1,188 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.01,00:00:23.83,Default,,0,0,0,,The Hantian system has been updated
+Dialogue: 0,00:00:23.85,00:00:25.17,Default,,0,0,0,,Can go out anytime
+Dialogue: 0,00:00:26.37,00:00:27.25,Default,,0,0,0,,very good
+Dialogue: 0,00:00:29.77,00:00:31.43,Default,,0,0,0,,Your mission from now on
+Dialogue: 0,00:00:31.45,00:00:33.85,Default,,0,0,0,,It is to collect pictogram fragments
+Dialogue: 0,00:00:40.09,00:00:43.73,Default,,0,0,0,,If you encounter a person who is blocking the collection of pictogram fragments
+Dialogue: 0,00:00:46.65,00:00:48.37,Default,,0,0,0,,Just call it online
+Dialogue: 0,00:00:48.73,00:00:52.25,Default,,0,0,0,,Strictly all the pictogram pieces on their bodies
+Dialogue: 0,00:00:52.97,00:00:54.45,Default,,0,0,0,,Yes Doctor
+Dialogue: 0,00:00:58.57,00:01:01.35,Default,,0,0,0,,Hahahahahahahaha
+Dialogue: 0,00:01:01.37,00:01:04.07,Default,,0,0,0,,My Rocket Model
+Dialogue: 0,00:01:04.09,00:01:06.33,Default,,0,0,0,,How did you fly away
+Dialogue: 0,00:01:06.97,00:01:10.65,Default,,0,0,0,,Hahahahahahahaha
+Dialogue: 0,00:01:11.05,00:01:13.53,Default,,0,0,0,,I’m going to destroy everything
+Dialogue: 0,00:01:15.17,00:01:19.01,Default,,0,0,0,,Wow
+Dialogue: 0,00:01:21.13,00:01:22.33,Default,,0,0,0,,ah
+Dialogue: 0,00:01:29.33,00:01:30.33,Default,,0,0,0,,Well
+Dialogue: 0,00:01:34.13,00:01:34.99,Default,,0,0,0,,Hehehehehehehe...
+Dialogue: 0,00:01:35.01,00:01:36.49,Default,,0,0,0,,Ah...Wow...
+Dialogue: 0,00:01:37.69,00:01:39.75,Default,,0,0,0,,Hahahahaha
+Dialogue: 0,00:01:39.77,00:01:42.29,Default,,0,0,0,,Huh... Huh?
+Dialogue: 0,00:01:42.73,00:01:45.29,Default,,0,0,0,,Are you a toy model too?
+Dialogue: 0,00:01:46.97,00:01:48.57,Default,,0,0,0,,Discover the target
+Dialogue: 0,00:01:49.01,00:01:51.37,Default,,0,0,0,,Come and play with me
+Dialogue: 0,00:02:00.65,00:02:02.01,Default,,0,0,0,,Huh? what?
+Dialogue: 0,00:02:06.61,00:02:08.41,Default,,0,0,0,,Hum Come again
+Dialogue: 0,00:02:10.41,00:02:12.41,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:14.73,00:02:16.45,Default,,0,0,0,,Begin recycling
+Dialogue: 0,00:02:18.01,00:02:19.11,Default,,0,0,0,,Alas, wait a moment
+Dialogue: 0,00:02:19.13,00:02:21.05,Default,,0,0,0,,I won’t play...
+Dialogue: 0,00:02:25.09,00:02:27.69,Default,,0,0,0,,Oh no...
+Dialogue: 0,00:02:31.21,00:02:33.45,Default,,0,0,0,,Quick engine
+Dialogue: 0,00:02:43.25,00:02:45.97,Default,,0,0,0,,Target exceeds range
+Dialogue: 0,00:02:47.69,00:02:49.41,Default,,0,0,0,,Run now
+Dialogue: 0,00:02:53.13,00:02:54.69,Default,,0,0,0,,Correct distance
+Dialogue: 0,00:02:55.25,00:02:56.61,Default,,0,0,0,,Lock the target
+Dialogue: 0,00:02:59.05,00:03:00.85,Default,,0,0,0,,Start chasing
+Dialogue: 0,00:03:13.25,00:03:15.01,Default,,0,0,0,,No...no...
+Dialogue: 0,00:03:18.13,00:03:19.61,Default,,0,0,0,,The signal is nearby
+Dialogue: 0,00:03:23.37,00:03:25.47,Default,,0,0,0,,What...what’s going on
+Dialogue: 0,00:03:25.49,00:03:26.33,Default,,0,0,0,,It’s hard to say...
+Dialogue: 0,00:03:40.05,00:03:41.93,Default,,0,0,0,,Wow, it’s so cold here
+Dialogue: 0,00:03:43.85,00:03:45.45,Default,,0,0,0,,How did the signal disappear
+Dialogue: 0,00:03:45.77,00:03:47.21,Default,,0,0,0,,Is this hand malfunctioning?
+Dialogue: 0,00:03:50.81,00:03:53.81,Default,,0,0,0,,ah…
+Dialogue: 0,00:04:08.01,00:04:09.09,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:04:09.77,00:04:11.33,Default,,0,0,0,,Thank you for saving me
+Dialogue: 0,00:04:12.97,00:04:14.33,Default,,0,0,0,,Target appears
+Dialogue: 0,00:04:16.25,00:04:17.73,Default,,0,0,0,,You’re all in a bad state
+Dialogue: 0,00:04:18.25,00:04:19.51,Default,,0,0,0,,If you don’t mind
+Dialogue: 0,00:04:19.53,00:04:21.77,Default,,0,0,0,,I’ll take you back to Yang Village to help you with treatment
+Dialogue: 0,00:04:22.09,00:04:23.95,Default,,0,0,0,,Start cleaning the target
+Dialogue: 0,00:04:23.97,00:04:24.65,Default,,0,0,0,,slow
+Dialogue: 0,00:04:25.25,00:04:27.31,Default,,0,0,0,,Follow him to the lamb’s base first
+Dialogue: 0,00:04:27.33,00:04:29.13,Default,,0,0,0,,Let them hit them all over again
+Dialogue: 0,00:04:30.41,00:04:31.41,Default,,0,0,0,,yes
+Dialogue: 0,00:04:33.17,00:04:33.93,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:04:40.57,00:04:41.57,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:42.09,00:04:43.37,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:44.41,00:04:45.67,Default,,0,0,0,,This is...
+Dialogue: 0,00:04:45.69,00:04:46.35,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:46.37,00:04:48.49,Default,,0,0,0,,It just suffered to save me
+Dialogue: 0,00:04:52.37,00:04:54.57,Default,,0,0,0,,It’s another goal
+Dialogue: 0,00:04:55.49,00:04:57.79,Default,,0,0,0,,Which robot is it
+Dialogue: 0,00:04:57.81,00:04:59.31,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:04:59.33,00:05:01.81,Default,,0,0,0,,I’ll help it check the damage
+Dialogue: 0,00:05:06.01,00:05:08.09,Default,,0,0,0,,The shell is not severely damaged
+Dialogue: 0,00:05:08.49,00:05:10.07,Default,,0,0,0,,It will be repaired soon
+Dialogue: 0,00:05:10.09,00:05:11.07,Default,,0,0,0,,Wait for the base
+Dialogue: 0,00:05:11.09,00:05:12.59,Default,,0,0,0,,Just report their position
+Dialogue: 0,00:05:12.61,00:05:13.33,Default,,0,0,0,,yes
+Dialogue: 0,00:05:14.45,00:05:16.75,Default,,0,0,0,,But it may also be an internal failure
+Dialogue: 0,00:05:16.77,00:05:18.37,Default,,0,0,0,,Don’t be careless
+Dialogue: 0,00:05:18.73,00:05:21.37,Default,,0,0,0,,Humph, let them take me back
+Dialogue: 0,00:05:25.09,00:05:26.73,Default,,0,0,0,,Village Chief What’s wrong with it
+Dialogue: 0,00:05:27.01,00:05:27.95,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:05:27.97,00:05:29.55,Default,,0,0,0,,I just connect to its host
+Dialogue: 0,00:05:29.57,00:05:31.49,Default,,0,0,0,,Just enter the maintenance procedure
+Dialogue: 0,00:05:34.17,00:05:36.85,Default,,0,0,0,,This robot structure is really complicated
+Dialogue: 0,00:05:37.61,00:05:38.75,Default,,0,0,0,,Or bring back to the base
+Dialogue: 0,00:05:38.77,00:05:41.13,Default,,0,0,0,,Use my super computer to check it
+Dialogue: 0,00:05:41.37,00:05:42.07,Default,,0,0,0,,good
+Dialogue: 0,00:05:42.09,00:05:44.69,Default,,0,0,0,,what? Has the cold sky lost its response?
+Dialogue: 0,00:05:45.65,00:05:48.13,Default,,0,0,0,,Doctor: Someone invaded the host of cold sky
+Dialogue: 0,00:05:48.89,00:05:51.27,Default,,0,0,0,,Immediately regain Hantian’s control
+Dialogue: 0,00:05:51.29,00:05:51.89,Default,,0,0,0,,yes
+Dialogue: 0,00:05:53.13,00:05:55.23,Default,,0,0,0,,The host that can actually get into the cold sky
+Dialogue: 0,00:05:55.25,00:05:56.71,Default,,0,0,0,,A little capable
+Dialogue: 0,00:05:56.73,00:05:59.03,Default,,0,0,0,,Haha, the structure is really complicated
+Dialogue: 0,00:05:59.05,00:06:01.21,Default,,0,0,0,,Not like an ordinary robot at all
+Dialogue: 0,00:06:01.65,00:06:03.71,Default,,0,0,0,,Hahaha, I’m so curious
+Dialogue: 0,00:06:03.73,00:06:05.25,Default,,0,0,0,,Who designed it
+Dialogue: 0,00:06:05.73,00:06:08.81,Default,,0,0,0,,Village President, it’s not the time to be curious now
+Dialogue: 0,00:06:12.25,00:06:13.67,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:06:13.69,00:06:15.77,Default,,0,0,0,,The repair procedure is working
+Dialogue: 0,00:06:17.13,00:06:18.85,Default,,0,0,0,,Has returned to cold weather control
+Dialogue: 0,00:06:21.41,00:06:22.91,Default,,0,0,0,,Huh? Where am I?
+Dialogue: 0,00:06:22.93,00:06:24.05,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:06:24.81,00:06:26.69,Default,,0,0,0,,How to close the repair system
+Dialogue: 0,00:06:27.77,00:06:28.69,Default,,0,0,0,,base…
+Dialogue: 0,00:06:29.61,00:06:31.45,Default,,0,0,0,,Hum Start positioning
+Dialogue: 0,00:06:32.69,00:06:33.53,Default,,0,0,0,,alright
+Dialogue: 0,00:06:39.01,00:06:39.61,Default,,0,0,0,,Well?
+Dialogue: 0,00:06:40.45,00:06:41.87,Default,,0,0,0,,What happened just now
+Dialogue: 0,00:06:41.89,00:06:44.89,Default,,0,0,0,,Oh, is someone shaking something
+Dialogue: 0,00:06:45.69,00:06:46.61,Default,,0,0,0,,Come again...
+Dialogue: 0,00:06:55.65,00:06:57.67,Default,,0,0,0,,Village Chief, why don’t you take a break?
+Dialogue: 0,00:06:57.69,00:06:59.21,Default,,0,0,0,,I can
+Dialogue: 0,00:06:59.81,00:07:02.23,Default,,0,0,0,,Uh... I might as well take it out for a break
+Dialogue: 0,00:07:02.25,00:07:04.21,Default,,0,0,0,,See if anyone knows it
+Dialogue: 0,00:07:04.73,00:07:07.65,Default,,0,0,0,,OK I’ll find a solution
+Dialogue: 0,00:07:10.13,00:07:11.45,Default,,0,0,0,,Stop it
+Dialogue: 0,00:07:12.25,00:07:14.53,Default,,0,0,0,,Could anyone know this robot?
+Dialogue: 0,00:07:15.13,00:07:17.29,Default,,0,0,0,,Is anyone else going to kill robots
+Dialogue: 0,00:07:20.49,00:07:21.53,Default,,0,0,0,,Stop
+Dialogue: 0,00:07:24.69,00:07:26.09,Default,,0,0,0,,Robot...
+Dialogue: 0,00:07:26.41,00:07:29.69,Default,,0,0,0,,I can’t tell that this old lady is the owner of the robot
+Dialogue: 0,00:07:30.29,00:07:32.37,Default,,0,0,0,,Grandma Do you know it
+Dialogue: 0,00:07:33.77,00:07:36.41,Default,,0,0,0,,Your robot hooked up my clothes
+Dialogue: 0,00:07:39.01,00:07:42.45,Default,,0,0,0,,Sorry Sorry Sorry Sorry…
+Dialogue: 0,00:07:44.81,00:07:46.25,Default,,0,0,0,,System startup
+Dialogue: 0,00:07:47.49,00:07:49.41,Default,,0,0,0,,Location information is unknown
+Dialogue: 0,00:07:50.49,00:07:52.33,Default,,0,0,0,,Preferred solution to goals
+Dialogue: 0,00:07:59.05,00:08:00.95,Default,,0,0,0,,The lower body can’t move
+Dialogue: 0,00:08:00.97,00:08:02.57,Default,,0,0,0,,Successfully retrieved some systems
+Dialogue: 0,00:08:03.17,00:08:04.89,Default,,0,0,0,,Hantian restores upper body function
+Dialogue: 0,00:08:06.57,00:08:09.45,Default,,0,0,0,,After searching for it for most of the day, I didn’t have any traces
+Dialogue: 0,00:08:11.93,00:08:13.29,Default,,0,0,0,,This taste is...
+Dialogue: 0,00:08:15.41,00:08:17.10,Default,,0,0,0,,Don’t walk here
+Dialogue: 0,00:08:17.13,00:08:19.05,Default,,0,0,0,,I’ll pick some apples
+Dialogue: 0,00:08:24.45,00:08:25.65,Default,,0,0,0,,Don’t try to escape
+Dialogue: 0,00:08:30.05,00:08:31.65,Default,,0,0,0,,That’s so high I can’t pick it
+Dialogue: 0,00:08:35.45,00:08:37.21,Default,,0,0,0,,Why did it suddenly become so big
+Dialogue: 0,00:08:40.09,00:08:42.10,Default,,0,0,0,,Huh? It’s you
+Dialogue: 0,00:08:42.13,00:08:43.93,Default,,0,0,0,,Have you come to help me pick apples?
+Dialogue: 0,00:08:44.65,00:08:47.17,Default,,0,0,0,,Very good Thank you
+Dialogue: 0,00:08:52.25,00:08:53.45,Default,,0,0,0,,Really fulfilled
+Dialogue: 0,00:09:01.09,00:09:03.33,Default,,0,0,0,,Someone actually came here
+Dialogue: 0,00:09:03.49,00:09:05.25,Default,,0,0,0,,Fast consumer goods project target
+Dialogue: 0,00:09:21.37,00:09:23.09,Default,,0,0,0,,Enter the maintenance program
+Dialogue: 0,00:09:29.29,00:09:32.33,Default,,0,0,0,,Ahhhhh…why can’t you stop…
+Dialogue: 0,00:09:40.45,00:09:41.93,Default,,0,0,0,,Oh, you’re fine
+Dialogue: 0,00:09:42.49,00:09:44.69,Default,,0,0,0,,Why did you protect me again
+Dialogue: 0,00:09:52.13,00:09:53.93,Default,,0,0,0,,Oops ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:09:55.93,00:09:59.21,Default,,0,0,0,,Humph, I don’t believe that I can’t fight you
+Dialogue: 0,00:10:15.61,00:10:17.37,Default,,0,0,0,,Look at me pull you out
+Dialogue: 0,00:10:24.65,00:10:25.45,Default,,0,0,0,,snort
+Dialogue: 0,00:10:34.45,00:10:38.89,Default,,0,0,0,,Alas, old
+Dialogue: 0,00:10:39.17,00:10:42.77,Default,,0,0,0,,If I had been younger for fifteen years, I would never have gone
+Dialogue: 0,00:10:43.37,00:10:45.61,Default,,0,0,0,,Successfully returned to Hantian Control
+Dialogue: 0,00:10:45.85,00:10:48.03,Default,,0,0,0,,OK Don’t waste time
+Dialogue: 0,00:10:48.05,00:10:49.99,Default,,0,0,0,,Let Hantian continue to execute the command
+Dialogue: 0,00:10:50.01,00:10:50.57,Default,,0,0,0,,yes
+Dialogue: 0,00:10:51.57,00:10:53.53,Default,,0,0,0,,The system has been reopened
+Dialogue: 0,00:11:02.17,00:11:03.31,Default,,0,0,0,,Confirm the goal
+Dialogue: 0,00:11:03.33,00:11:03.89,Default,,0,0,0,,Come
+Dialogue: 0,00:11:07.89,00:11:09.45,Default,,0,0,0,,Execute the doctoral order
+Dialogue: 0,00:11:12.49,00:11:14.87,Default,,0,0,0,,Oh, you can move, right?
+Dialogue: 0,00:11:14.89,00:11:15.89,Default,,0,0,0,,Very good
+Dialogue: 0,00:11:17.41,00:11:20.33,Default,,0,0,0,,Hehe, I should have a glass of juice and wish you a happy wish
+Dialogue: 0,00:11:24.37,00:11:25.57,Default,,0,0,0,,This...this is...
+Dialogue: 0,00:11:31.37,00:11:32.85,Default,,0,0,0,,Elephant Star Stone Card
+Dialogue: 0,00:11:33.33,00:11:34.53,Default,,0,0,0,,Why do you have...
+Dialogue: 0,00:11:46.53,00:11:47.29,Default,,0,0,0,,Is it iced?
+Dialogue: 0,00:11:47.89,00:11:50.77,Default,,0,0,0,,How do you know I want to drink iced juice more
+Dialogue: 0,00:11:51.25,00:11:53.81,Default,,0,0,0,,What a good brother who is thinking about me
+Dialogue: 0,00:11:55.05,00:11:57.57,Default,,0,0,0,,Good brother, please drink iced juice
+Dialogue: 0,00:12:03.17,00:12:06.45,Default,,0,0,0,,What happened? What happened...
+Dialogue: 0,00:12:14.97,00:12:15.97,Default,,0,0,0,,This is...
+Dialogue: 0,00:12:24.85,00:12:26.61,Default,,0,0,0,,You...what are you
+Dialogue: 0,00:12:28.69,00:12:29.75,Default,,0,0,0,,Eliminate targets
+Dialogue: 0,00:12:29.77,00:12:31.81,Default,,0,0,0,,Scratch of Elephant Star Stone

@@ -1,0 +1,211 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.23,00:00:27.00,Default,,0,0,0,,It’s not a way for us to hide all the time
+Dialogue: 0,00:00:27.96,00:00:29.85,Default,,0,0,0,,We can’t watch the villagers turn like this
+Dialogue: 0,00:00:29.88,00:00:31.04,Default,,0,0,0,,Can’t do anything
+Dialogue: 0,00:00:32.72,00:00:34.73,Default,,0,0,0,,We’re going to get the ice fan back
+Dialogue: 0,00:00:34.76,00:00:36.72,Default,,0,0,0,,Let everyone recover
+Dialogue: 0,00:00:37.20,00:00:38.96,Default,,0,0,0,,But they are many
+Dialogue: 0,00:00:39.28,00:00:42.20,Default,,0,0,0,,We didn’t have any calculations for head-on fight
+Dialogue: 0,00:00:43.15,00:00:43.56,Default,,0,0,0,,Well…
+Dialogue: 0,00:00:49.40,00:00:52.76,Default,,0,0,0,,Then what if...we’re stealing
+Dialogue: 0,00:00:53.28,00:00:54.32,Default,,0,0,0,,Stealing?
+Dialogue: 0,00:00:56.72,00:00:58.56,Default,,0,0,0,,Do you know where the ice fan is?
+Dialogue: 0,00:00:59.72,00:01:02.16,Default,,0,0,0,,Uh... After Weslie comes
+Dialogue: 0,00:01:02.40,00:01:04.96,Default,,0,0,0,,Take over the entire game park
+Dialogue: 0,00:01:05.72,00:01:07.76,Default,,0,0,0,,I think...it should be there
+Dialogue: 0,00:01:09.60,00:01:11.68,Default,,0,0,0,,OK, everyone will listen to me
+Dialogue: 0,00:01:12.36,00:01:14.64,Default,,0,0,0,,It’s not like food to attract
+Dialogue: 0,00:01:15.64,00:01:16.64,Default,,0,0,0,,Of course not
+Dialogue: 0,00:01:17.52,00:01:18.28,Default,,0,0,0,,Come here
+Dialogue: 0,00:01:26.24,00:01:26.92,Default,,0,0,0,,Paddi
+Dialogue: 0,00:01:27.04,00:01:29.21,Default,,0,0,0,,Use your strange cloud to pretend to be a snowman
+Dialogue: 0,00:01:29.24,00:01:30.24,Default,,0,0,0,,This is a good way
+Dialogue: 0,00:01:30.76,00:01:32.64,Default,,0,0,0,,Even I admire myself
+Dialogue: 0,00:01:33.64,00:01:37.12,Default,,0,0,0,,So isn’t it your plan if you don’t have a nose?
+Dialogue: 0,00:01:39.31,00:01:40.36,Default,,0,0,0,,Um?
+Dialogue: 0,00:01:41.08,00:01:42.16,Default,,0,0,0,,That husu
+Dialogue: 0,00:01:42.72,00:01:43.93,Default,,0,0,0,,Didn’t it be given to us?
+Dialogue: 0,00:01:43.95,00:01:45.12,Default,,0,0,0,,You know how to eat
+Dialogue: 0,00:01:45.44,00:01:46.69,Default,,0,0,0,,That’s the snowman’s nose
+Dialogue: 0,00:01:46.72,00:01:48.24,Default,,0,0,0,,What should I do once I was discovered...
+Dialogue: 0,00:01:48.31,00:01:49.00,Default,,0,0,0,,How many of you...
+Dialogue: 0,00:01:54.64,00:01:56.44,Default,,0,0,0,,You’re a little suspicious
+Dialogue: 0,00:01:57.96,00:02:00.20,Default,,0,0,0,,You are discovered
+Dialogue: 0,00:02:00.68,00:02:01.92,Default,,0,0,0,,Then what should I do
+Dialogue: 0,00:02:04.20,00:02:04.80,Default,,0,0,0,,you…
+Dialogue: 0,00:02:04.96,00:02:05.73,Default,,0,0,0,,sorry
+Dialogue: 0,00:02:05.76,00:02:08.53,Default,,0,0,0,,I will never eat my nose next time I go out
+Dialogue: 0,00:02:08.56,00:02:09.20,Default,,0,0,0,,Not talking about you
+Dialogue: 0,00:02:09.64,00:02:10.36,Default,,0,0,0,,It’s you
+Dialogue: 0,00:02:11.80,00:02:13.16,Default,,0,0,0,,What’s going on with your tail?
+Dialogue: 0,00:02:13.56,00:02:15.20,Default,,0,0,0,,How can a snowman have a tail?
+Dialogue: 0,00:02:15.84,00:02:16.63,Default,,0,0,0,,Tail?
+Dialogue: 0,00:02:18.56,00:02:20.56,Default,,0,0,0,,oops! When did the tail be exposed?
+Dialogue: 0,00:02:20.72,00:02:21.91,Default,,0,0,0,,It turns out it was you
+Dialogue: 0,00:02:22.68,00:02:24.44,Default,,0,0,0,,This...this is...
+Dialogue: 0,00:02:24.91,00:02:27.32,Default,,0,0,0,,This is the popular ending of the ball
+Dialogue: 0,00:02:28.44,00:02:30.24,Default,,0,0,0,,oh? Is that true?
+Dialogue: 0,00:02:32.44,00:02:33.40,Default,,0,0,0,,Show me
+Dialogue: 0,00:02:33.84,00:02:34.40,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:35.40,00:02:37.36,Default,,0,0,0,,I said let me see your tail
+Dialogue: 0,00:02:38.52,00:02:40.63,Default,,0,0,0,,This...this is not very good
+Dialogue: 0,00:02:41.24,00:02:42.72,Default,,0,0,0,,Let me see!
+Dialogue: 0,00:02:43.36,00:02:45.57,Default,,0,0,0,,Big Wolf, let him see
+Dialogue: 0,00:02:45.60,00:02:47.16,Default,,0,0,0,,Otherwise we’ll wear it
+Dialogue: 0,00:02:51.36,00:02:52.40,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:53.68,00:02:55.72,Default,,0,0,0,,Oh...it feels so good
+Dialogue: 0,00:02:57.52,00:03:00.41,Default,,0,0,0,,There is only one soldier or...
+Dialogue: 0,00:03:00.44,00:03:01.04,Default,,0,0,0,,Team leader
+Dialogue: 0,00:03:04.24,00:03:06.24,Default,,0,0,0,,Team leader, are you doing
+Dialogue: 0,00:03:09.32,00:03:11.52,Default,,0,0,0,,I’m playing the latest popular tail
+Dialogue: 0,00:03:11.91,00:03:12.60,Default,,0,0,0,,- New
+- New
+Dialogue: 0,00:03:12.91,00:03:13.76,Default,,0,0,0,,- I want to play, too
+- I want to play, too
+Dialogue: 0,00:03:14.20,00:03:14.68,Default,,0,0,0,,I want to do it, too
+Dialogue: 0,00:03:15.00,00:03:15.68,Default,,0,0,0,,I want to do it, too
+Dialogue: 0,00:03:15.84,00:03:17.24,Default,,0,0,0,,I want it too, I want it too...
+Dialogue: 0,00:03:18.44,00:03:21.08,Default,,0,0,0,,Wow, so soft
+Dialogue: 0,00:03:23.84,00:03:26.63,Default,,0,0,0,,Working overtime every day to find someone, it won’t let us live
+Dialogue: 0,00:03:30.08,00:03:31.73,Default,,0,0,0,,Meow…
+Dialogue: 0,00:03:31.76,00:03:32.52,Default,,0,0,0,,ah
+Dialogue: 0,00:03:34.76,00:03:36.20,Default,,0,0,0,,Do you have a tail, too?
+Dialogue: 0,00:03:39.60,00:03:41.16,Default,,0,0,0,,oops…
+Dialogue: 0,00:03:41.56,00:03:42.60,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:03:43.36,00:03:44.96,Default,,0,0,0,,I’m going to pull it out and study it
+Dialogue: 0,00:03:45.24,00:03:46.56,Default,,0,0,0,,Pull it out...
+Dialogue: 0,00:03:47.32,00:03:50.16,Default,,0,0,0,,This tail is really hard to pull off, just like the real one
+Dialogue: 0,00:03:50.72,00:03:53.48,Default,,0,0,0,,Maybe...because...is stuck...
+Dialogue: 0,00:03:53.92,00:03:57.08,Default,,0,0,0,,oh? Why is it stuck?
+Dialogue: 0,00:03:57.96,00:04:00.04,Default,,0,0,0,,Cat Two Come to help me
+Dialogue: 0,00:04:00.52,00:04:01.12,Default,,0,0,0,,- yes
+- yes
+Dialogue: 0,00:04:04.92,00:04:06.45,Default,,0,0,0,,Team leader, don’t pull it off
+Dialogue: 0,00:04:06.48,00:04:07.68,Default,,0,0,0,,We still have a job!
+Dialogue: 0,00:04:14.12,00:04:16.28,Default,,0,0,0,,It’s better to cut it
+Dialogue: 0,00:04:20.00,00:04:22.20,Default,,0,0,0,,Let’s find a way to save Big Wolf
+Dialogue: 0,00:04:23.48,00:04:26.76,Default,,0,0,0,,You can just watch it without pulling it
+Dialogue: 0,00:04:27.32,00:04:29.76,Default,,0,0,0,,No need for politeness, we will help you to unveil it
+Dialogue: 0,00:04:30.20,00:04:33.04,Default,,0,0,0,,Don’t say this with a positive face
+Dialogue: 0,00:04:35.52,00:04:37.32,Default,,0,0,0,,Wait... Wait...
+Dialogue: 0,00:04:39.27,00:04:40.64,Default,,0,0,0,,It’s Princess Luna
+Dialogue: 0,00:04:41.83,00:04:44.52,Default,,0,0,0,,I just saw her running there
+Dialogue: 0,00:04:45.92,00:04:48.92,Default,,0,0,0,,The opportunity to make meritorious service is here. Come and chase me
+Dialogue: 0,00:04:52.83,00:04:54.64,Default,,0,0,0,,You didn’t say earlier...
+Dialogue: 0,00:04:56.27,00:04:58.80,Default,,0,0,0,,There is a shortcut here, let’s go quickly
+Dialogue: 0,00:04:59.68,00:05:00.08,Default,,0,0,0,,Um
+Dialogue: 0,00:05:06.96,00:05:08.56,Default,,0,0,0,,The game park is ahead
+Dialogue: 0,00:05:14.83,00:05:16.32,Default,,0,0,0,,Let’s go to another door
+Dialogue: 0,00:05:16.56,00:05:19.48,Default,,0,0,0,,Coco’s father said there are several doors in the game park
+Dialogue: 0,00:05:28.64,00:05:31.36,Default,,0,0,0,,That’s great. There’s only one soldier here to guard it.
+Dialogue: 0,00:05:32.16,00:05:33.64,Default,,0,0,0,,I’ll go out and lead him out
+Dialogue: 0,00:05:34.64,00:05:36.44,Default,,0,0,0,,You take this opportunity to go in
+Dialogue: 0,00:05:45.32,00:05:47.32,Default,,0,0,0,,Fulai can still run so quickly!
+Dialogue: 0,00:05:53.16,00:05:54.24,Default,,0,0,0,,Run too fast
+Dialogue: 0,00:06:12.48,00:06:14.00,Default,,0,0,0,,There are invaders!
+Dialogue: 0,00:06:14.52,00:06:15.64,Default,,0,0,0,,Invader?
+Dialogue: 0,00:06:16.32,00:06:16.96,Default,,0,0,0,,Go out and have a look
+Dialogue: 0,00:06:23.56,00:06:25.12,Default,,0,0,0,,There will be nothing wrong with blessings, right?
+Dialogue: 0,00:06:25.44,00:06:26.80,Default,,0,0,0,,It’s okay, go away
+Dialogue: 0,00:06:32.12,00:06:33.48,Default,,0,0,0,,This game park is so big
+Dialogue: 0,00:06:34.08,00:06:35.92,Default,,0,0,0,,I don’t know where the ice fan is hidden
+Dialogue: 0,00:06:36.76,00:06:38.36,Default,,0,0,0,,Only one can find one
+Dialogue: 0,00:06:38.72,00:06:40.00,Default,,0,0,0,,Then let’s get the time
+Dialogue: 0,00:06:45.16,00:06:46.20,Default,,0,0,0,,It’s so dark here
+Dialogue: 0,00:06:50.76,00:06:53.24,Default,,0,0,0,,I think we shouldn’t go forward first
+Dialogue: 0,00:06:54.24,00:06:57.56,Default,,0,0,0,,I think it’s too dark, there’s a trap in front of you
+Dialogue: 0,00:06:58.12,00:07:02.36,Default,,0,0,0,,No, no... It turns out that the girl’s strength is still smaller
+Dialogue: 0,00:07:02.52,00:07:04.80,Default,,0,0,0,,Let’s hand it to us at this time
+Dialogue: 0,00:07:05.08,00:07:07.52,Default,,0,0,0,,Let you see what a man is called
+Dialogue: 0,00:07:07.83,00:07:08.29,Default,,0,0,0,,That’s right
+Dialogue: 0,00:07:08.32,00:07:09.21,Default,,0,0,0,,- Ah...
+- Ah...
+Dialogue: 0,00:07:09.24,00:07:10.01,Default,,0,0,0,,Ahhhh
+Dialogue: 0,00:07:10.04,00:07:11.17,Default,,0,0,0,,Everyone said don’t go
+Dialogue: 0,00:07:11.20,00:07:12.49,Default,,0,0,0,,It’s indeed a trap
+Dialogue: 0,00:07:12.52,00:07:14.09,Default,,0,0,0,,- Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+- Hahaha…
+Dialogue: 0,00:07:14.12,00:07:15.20,Default,,0,0,0,,Very fun
+Dialogue: 0,00:07:15.40,00:07:18.32,Default,,0,0,0,,Tibbie, Luna, you are about to get off
+Dialogue: 0,00:07:18.56,00:07:20.36,Default,,0,0,0,,There is a large slide here
+Dialogue: 0,00:07:24.36,00:07:25.92,Default,,0,0,0,,- Wow…
+- Wow…
+Dialogue: 0,00:07:26.28,00:07:28.32,Default,,0,0,0,,- Hahaha…
+- Hahaha…
+Dialogue: 0,00:07:32.80,00:07:35.28,Default,,0,0,0,,Wow...I want to play too...
+Dialogue: 0,00:08:04.12,00:08:04.72,Default,,0,0,0,,yeah!
+Dialogue: 0,00:08:06.76,00:08:08.08,Default,,0,0,0,,It’s so fun here
+Dialogue: 0,00:08:08.20,00:08:10.09,Default,,0,0,0,,It’s hard to blame Weslie for its own
+Dialogue: 0,00:08:10.12,00:08:11.12,Default,,0,0,0,,Yes
+Dialogue: 0,00:08:11.96,00:08:13.64,Default,,0,0,0,,What did we do in the beginning?
+Dialogue: 0,00:08:19.08,00:08:19.84,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:08:20.16,00:08:21.84,Default,,0,0,0,,Is my park fun?
+Dialogue: 0,00:08:22.96,00:08:24.12,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:24.92,00:08:26.16,Default,,0,0,0,,Self-submission network
+Dialogue: 0,00:08:26.80,00:08:29.44,Default,,0,0,0,,Oops, run away...
+Dialogue: 0,00:08:32.64,00:08:33.64,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:44.16,00:08:47.04,Default,,0,0,0,,It’s the ice fan. Get up quickly
+Dialogue: 0,00:08:52.16,00:08:54.72,Default,,0,0,0,,Turn into a snowman...
+Dialogue: 0,00:08:56.84,00:08:57.72,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:03.16,00:09:03.92,Default,,0,0,0,,cocoa?
+Dialogue: 0,00:09:12.28,00:09:14.08,Default,,0,0,0,,Thank you for saving us
+Dialogue: 0,00:09:15.00,00:09:16.36,Default,,0,0,0,,Run now
+Dialogue: 0,00:09:21.67,00:09:22.64,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:09:28.04,00:09:29.12,Default,,0,0,0,,Don’t want to run away!
+Dialogue: 0,00:09:35.32,00:09:36.84,Default,,0,0,0,,Alas! What a steep slope!
+Dialogue: 0,00:09:38.76,00:09:39.32,Default,,0,0,0,,stop!
+Dialogue: 0,00:09:40.32,00:09:41.96,Default,,0,0,0,,Alas, no choice...
+Dialogue: 0,00:09:42.55,00:09:42.96,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:09:44.84,00:09:46.92,Default,,0,0,0,,Ahhhhh…
+Dialogue: 0,00:10:00.12,00:10:01.67,Default,,0,0,0,,Skiing is so fun
+Dialogue: 0,00:10:03.96,00:10:06.36,Default,,0,0,0,,No one can save you this time
+Dialogue: 0,00:10:07.16,00:10:09.84,Default,,0,0,0,,Look down on me less
+Dialogue: 0,00:10:10.52,00:10:12.16,Default,,0,0,0,,Lightning Strike...
+Dialogue: 0,00:10:17.20,00:10:19.61,Default,,0,0,0,,If I have half a word, it will be struck by lightning
+Dialogue: 0,00:10:19.64,00:10:20.36,Default,,0,0,0,,oops…
+Dialogue: 0,00:10:25.64,00:10:29.96,Default,,0,0,0,,Hehehe...you can’t control the thunderbolt
+Dialogue: 0,00:10:34.04,00:10:35.04,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:35.84,00:10:36.64,Default,,0,0,0,,careful
+Dialogue: 0,00:10:37.24,00:10:38.04,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:49.72,00:10:51.44,Default,,0,0,0,,Weslie, wake up
+Dialogue: 0,00:10:51.96,00:10:53.28,Default,,0,0,0,,We are good friends
+Dialogue: 0,00:10:53.44,00:10:55.93,Default,,0,0,0,,We used to play football together...
+Dialogue: 0,00:10:55.96,00:10:56.92,Default,,0,0,0,,Leave aside!
+Dialogue: 0,00:11:01.55,00:11:04.28,Default,,0,0,0,,Lightning Strike Lightning Strike…
+Dialogue: 0,00:11:06.28,00:11:08.76,Default,,0,0,0,,Don’t think that you can cheat me by writing two entries
+Dialogue: 0,00:11:09.84,00:11:10.32,Default,,0,0,0,,I only know
+Dialogue: 0,00:11:10.72,00:11:12.92,Default,,0,0,0,,You are the prisoner who will be arrested by the Queen tomorrow
+Dialogue: 0,00:11:13.16,00:11:14.64,Default,,0,0,0,,Thunder Bird Flash…
+Dialogue: 0,00:11:34.44,00:11:35.67,Default,,0,0,0,,Ice fan?
+Dialogue: 0,00:11:42.20,00:11:44.24,Default,,0,0,0,,Isn’t that...Ice Fan?
+Dialogue: 0,00:11:45.20,00:11:47.72,Default,,0,0,0,,Stop quickly Stop quickly...
+Dialogue: 0,00:12:05.44,00:12:07.72,Default,,0,0,0,,The ice fan...broken
+Dialogue: 0,00:12:08.16,00:12:08.72,Default,,0,0,0,,what?
+Dialogue: 0,00:12:10.28,00:12:11.92,Default,,0,0,0,,That Coco dad and the others...
+Dialogue: 0,00:12:13.12,00:12:14.05,Default,,0,0,0,,Go quickly...
+Dialogue: 0,00:12:14.08,00:12:14.57,Default,,0,0,0,,Blessing
+Dialogue: 0,00:12:14.60,00:12:16.88,Default,,0,0,0,,The soldiers of Weslie should be nearby
+Dialogue: 0,00:12:17.08,00:12:17.96,Default,,0,0,0,,Quick...
+Dialogue: 0,00:12:22.20,00:12:23.52,Default,,0,0,0,,Don’t run...
+Dialogue: 0,00:12:24.44,00:12:25.12,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:12:25.48,00:12:26.65,Default,,0,0,0,,He actually fanned the ice
+Dialogue: 0,00:12:26.67,00:12:28.81,Default,,0,0,0,,- Broken to me
+- I will definitely restore you
+Dialogue: 0,00:12:28.84,00:12:30.36,Default,,0,0,0,,- I will not let you go
+- wait for me
+Dialogue: 0,00:12:31.28,00:12:33.88,Default,,0,0,0,,Get me to catch them...

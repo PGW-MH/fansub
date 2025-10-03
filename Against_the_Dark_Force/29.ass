@@ -1,0 +1,236 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.37,00:00:21.97,Default,,0,0,0,,The Aqua Spirit town is here
+Dialogue: 0,00:00:33.01,00:00:34.45,Default,,0,0,0,,There is only one lake
+Dialogue: 0,00:00:35.45,00:00:37.73,Default,,0,0,0,,Strange Where is the Aqua Spirit Town
+Dialogue: 0,00:00:38.53,00:00:39.79,Default,,0,0,0,,Everyone should be careful
+Dialogue: 0,00:00:39.81,00:00:40.73,Default,,0,0,0,,Wow
+Dialogue: 0,00:00:41.05,00:00:43.27,Default,,0,0,0,,This lake is so clear
+Dialogue: 0,00:00:43.29,00:00:44.85,Default,,0,0,0,,The air is fresh
+Dialogue: 0,00:00:45.33,00:00:47.39,Default,,0,0,0,,But is this the Aqua Spirit Town?
+Dialogue: 0,00:00:47.41,00:00:49.57,Default,,0,0,0,,I haven’t come before
+Dialogue: 0,00:00:49.89,00:00:51.21,Default,,0,0,0,,- Me too
+- Me too
+Dialogue: 0,00:00:52.49,00:00:52.85,Default,,0,0,0,,ah?
+Dialogue: 0,00:00:58.89,00:01:02.25,Default,,0,0,0,,Is this... Princess Luna’s?
+Dialogue: 0,00:01:03.09,00:01:06.37,Default,,0,0,0,,It’s hard to tell that Princess Luna and the others have not arrived at the palace
+Dialogue: 0,00:01:06.93,00:01:08.89,Default,,0,0,0,,But come here too?
+Dialogue: 0,00:01:13.69,00:01:15.81,Default,,0,0,0,,Beware that there is something in the water
+Dialogue: 0,00:01:17.97,00:01:18.81,Default,,0,0,0,,This is...
+Dialogue: 0,00:01:21.57,00:01:23.05,Default,,0,0,0,,I’ll hold him
+Dialogue: 0,00:01:23.69,00:01:25.25,Default,,0,0,0,,Welcome Welcome
+Dialogue: 0,00:01:25.85,00:01:28.13,Default,,0,0,0,,Lord Jonie has been waiting for you for a long time
+Dialogue: 0,00:01:28.89,00:01:31.57,Default,,0,0,0,,The Shuiling Town is just below the bottom of the lake!
+Dialogue: 0,00:01:33.21,00:01:35.33,Default,,0,0,0,,Please come with me
+Dialogue: 0,00:01:36.69,00:01:37.69,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:01:38.65,00:01:40.29,Default,,0,0,0,,I feel sorry
+Dialogue: 0,00:01:40.93,00:01:42.77,Default,,0,0,0,,Then do we have to follow us?
+Dialogue: 0,00:01:43.61,00:01:45.61,Default,,0,0,0,,Princess Luna may be in their hands
+Dialogue: 0,00:01:46.37,00:01:47.65,Default,,0,0,0,,I can only go with them
+Dialogue: 0,00:01:57.29,00:01:59.17,Default,,0,0,0,,OK, we’re out
+Dialogue: 0,00:02:08.37,00:02:10.31,Default,,0,0,0,,Don’t cats fear water?
+Dialogue: 0,00:02:10.33,00:02:13.29,Default,,0,0,0,,Although I am afraid of water, it is protected by an aerobic shield
+Dialogue: 0,00:02:14.69,00:02:16.57,Default,,0,0,0,,Did you see that it is the Aqua Spirit Town
+Dialogue: 0,00:02:17.33,00:02:19.01,Default,,0,0,0,,We’re here
+Dialogue: 0,00:02:26.77,00:02:29.05,Default,,0,0,0,,What a special Aqua Spirit town
+Dialogue: 0,00:02:34.73,00:02:35.61,Default,,0,0,0,,You see
+Dialogue: 0,00:02:38.81,00:02:40.07,Default,,0,0,0,,It seems this product
+Dialogue: 0,00:02:40.09,00:02:42.05,Default,,0,0,0,,It may not be that Princess Luna fell out
+Dialogue: 0,00:02:43.25,00:02:44.55,Default,,0,0,0,,Princess Luna and the others
+Dialogue: 0,00:02:44.57,00:02:46.95,Default,,0,0,0,,Maybe I’ll be waiting for us in the palace long ago
+Dialogue: 0,00:02:46.97,00:02:48.59,Default,,0,0,0,,They’re not here
+Dialogue: 0,00:02:48.61,00:02:50.25,Default,,0,0,0,,Should we leave?
+Dialogue: 0,00:02:50.65,00:02:52.41,Default,,0,0,0,,What should I do with the Jonie?
+Dialogue: 0,00:02:54.25,00:02:55.49,Default,,0,0,0,,Jonie
+Dialogue: 0,00:03:02.33,00:03:04.17,Default,,0,0,0,,Thank you, Lord Jonie
+Dialogue: 0,00:03:05.69,00:03:06.77,Default,,0,0,0,,Hello
+Dialogue: 0,00:03:07.17,00:03:09.73,Default,,0,0,0,,I just thought you were going to attack us
+Dialogue: 0,00:03:10.37,00:03:11.93,Default,,0,0,0,,It’s fine if you’re fine
+Dialogue: 0,00:03:12.77,00:03:14.65,Default,,0,0,0,,Isn’t the Jonie blackened?
+Dialogue: 0,00:03:15.49,00:03:17.77,Default,,0,0,0,,You might think it’s strange if you say it
+Dialogue: 0,00:03:18.05,00:03:19.25,Default,,0,0,0,,Don’t know why
+Dialogue: 0,00:03:19.57,00:03:22.29,Default,,0,0,0,,It feels very sensible when you see you
+Dialogue: 0,00:03:22.73,00:03:23.57,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:03:24.01,00:03:25.79,Default,,0,0,0,,I saw you before
+Dialogue: 0,00:03:25.81,00:03:29.01,Default,,0,0,0,,I felt very familiar and slowly recovered my memory
+Dialogue: 0,00:03:30.25,00:03:33.09,Default,,0,0,0,,Maybe we can wake up the Jonie
+Dialogue: 0,00:03:33.41,00:03:35.05,Default,,0,0,0,,Be careful
+Dialogue: 0,00:03:36.53,00:03:37.27,Default,,0,0,0,,Jonie
+Dialogue: 0,00:03:37.29,00:03:39.65,Default,,0,0,0,,Tell you about us
+Dialogue: 0,00:03:39.93,00:03:42.29,Default,,0,0,0,,OK, go to where I live
+Dialogue: 0,00:03:45.81,00:03:49.85,Default,,0,0,0,,Wow I haven’t seen such a rich meal in a long time
+Dialogue: 0,00:03:50.49,00:03:52.77,Default,,0,0,0,,Can we really eat it?
+Dialogue: 0,00:03:53.37,00:03:54.53,Default,,0,0,0,,Of course
+Dialogue: 0,00:03:55.29,00:03:56.65,Default,,0,0,0,,No need for guest
+Dialogue: 0,00:03:57.05,00:03:59.01,Default,,0,0,0,,Can be added if not
+Dialogue: 0,00:03:59.25,00:04:00.93,Default,,0,0,0,,I can’t help it anymore
+Dialogue: 0,00:04:01.77,00:04:03.85,Default,,0,0,0,,This Jonie is black
+Dialogue: 0,00:04:04.37,00:04:05.97,Default,,0,0,0,,Beware of problems with food
+Dialogue: 0,00:04:06.37,00:04:07.49,Default,,0,0,0,,Any questions?
+Dialogue: 0,00:04:08.33,00:04:10.17,Default,,0,0,0,,The most painful thing in the world
+Dialogue: 0,00:04:10.49,00:04:12.87,Default,,0,0,0,,That’s how many delicious food is in front of me
+Dialogue: 0,00:04:12.89,00:04:14.13,Default,,0,0,0,,I can’t eat it
+Dialogue: 0,00:04:18.49,00:04:23.17,Default,,0,0,0,,What’s wrong with you? Isn’t it unpleasant?
+Dialogue: 0,00:04:24.01,00:04:25.67,Default,,0,0,0,,It seems that there should be no problem
+Dialogue: 0,00:04:25.69,00:04:26.83,Default,,0,0,0,,You’re eating too
+Dialogue: 0,00:04:26.85,00:04:28.53,Default,,0,0,0,,If you don’t eat it, you won’t be able to eat it
+Dialogue: 0,00:04:29.29,00:04:31.97,Default,,0,0,0,,Leave me some...
+Dialogue: 0,00:04:34.45,00:04:36.25,Default,,0,0,0,,Chief, do you still remember
+Dialogue: 0,00:04:36.49,00:04:38.93,Default,,0,0,0,,Once we went to the mountain to pick apples together
+Dialogue: 0,00:04:39.09,00:04:40.21,Default,,0,0,0,,So interesting
+Dialogue: 0,00:04:40.89,00:04:43.05,Default,,0,0,0,,Sparky said he could handle it alone
+Dialogue: 0,00:04:43.85,00:04:46.05,Default,,0,0,0,,But I can’t pick any apples
+Dialogue: 0,00:04:47.13,00:04:48.95,Default,,0,0,0,,Finally, the class leader
+Dialogue: 0,00:04:48.97,00:04:50.45,Default,,0,0,0,,Pick the apples to us
+Dialogue: 0,00:04:51.93,00:04:54.83,Default,,0,0,0,,It sounds like we were so happy before
+Dialogue: 0,00:04:54.85,00:04:57.53,Default,,0,0,0,,I could really pick it up alone that time
+Dialogue: 0,00:04:58.09,00:05:00.37,Default,,0,0,0,,Hahahahahahaha...
+Dialogue: 0,00:05:00.77,00:05:02.77,Default,,0,0,0,,What’s her harp?
+Dialogue: 0,00:05:03.49,00:05:07.29,Default,,0,0,0,,And we used to sing together
+Dialogue: 0,00:05:07.57,00:05:09.77,Default,,0,0,0,,You’re so happy to sing
+Dialogue: 0,00:05:09.97,00:05:12.45,Default,,0,0,0,,Your favorite song is...
+Dialogue: 0,00:05:22.65,00:05:24.29,Default,,0,0,0,,Chief, you’re here
+Dialogue: 0,00:05:25.29,00:05:26.05,Default,,0,0,0,,Thank you
+Dialogue: 0,00:05:27.05,00:05:28.49,Default,,0,0,0,,Huh? Did your hand slip?
+Dialogue: 0,00:05:29.81,00:05:30.49,Default,,0,0,0,,Class leader?
+Dialogue: 0,00:05:33.97,00:05:35.89,Default,,0,0,0,,No, class manager
+Dialogue: 0,00:05:36.49,00:05:37.85,Default,,0,0,0,,No...
+Dialogue: 0,00:05:38.17,00:05:39.45,Default,,0,0,0,,Hello, wake up
+Dialogue: 0,00:05:40.17,00:05:42.45,Default,,0,0,0,,You wake up quickly
+Dialogue: 0,00:05:43.57,00:05:45.37,Default,,0,0,0,,What is actually a
+Dialogue: 0,00:05:45.85,00:05:48.69,Default,,0,0,0,,Big Wolf, you do
+Dialogue: 0,00:05:51.81,00:05:53.41,Default,,0,0,0,,You wake up quickly
+Dialogue: 0,00:05:53.85,00:05:55.33,Default,,0,0,0,,The Jonie is missing
+Dialogue: 0,00:05:56.53,00:05:57.81,Default,,0,0,0,,Are we asleep?
+Dialogue: 0,00:05:58.13,00:06:00.45,Default,,0,0,0,,She must have wanted to sleep while we were asleep
+Dialogue: 0,00:06:00.73,00:06:02.53,Default,,0,0,0,,What to do to us
+Dialogue: 0,00:06:04.61,00:06:08.01,Default,,0,0,0,,Are you awake? That’s just right
+Dialogue: 0,00:06:08.25,00:06:10.21,Default,,0,0,0,,Look, what I said is right
+Dialogue: 0,00:06:11.97,00:06:15.37,Default,,0,0,0,,I’ve prepared breakfast, let’s have it together
+Dialogue: 0,00:06:16.85,00:06:18.81,Default,,0,0,0,,Wow
+Dialogue: 0,00:06:19.09,00:06:21.57,Default,,0,0,0,,Eat slowly, there are many more
+Dialogue: 0,00:06:21.97,00:06:23.79,Default,,0,0,0,,This is a good thing
+Dialogue: 0,00:06:23.81,00:06:24.29,Default,,0,0,0,,Ha ha…
+Dialogue: 0,00:06:25.61,00:06:28.27,Default,,0,0,0,,Jonie, let’s go with us
+Dialogue: 0,00:06:28.29,00:06:29.29,Default,,0,0,0,,Hot Goat
+Dialogue: 0,00:06:29.65,00:06:33.13,Default,,0,0,0,,You plan to help residents with fishing yards today
+Dialogue: 0,00:06:33.45,00:06:36.45,Default,,0,0,0,,Sorry, I have no way to accompany you
+Dialogue: 0,00:06:36.61,00:06:38.45,Default,,0,0,0,,You can go for a walk first
+Dialogue: 0,00:06:42.69,00:06:43.65,Default,,0,0,0,,It’s so good here
+Dialogue: 0,00:06:43.77,00:06:45.69,Default,,0,0,0,,Want to stay here forever
+Dialogue: 0,00:06:45.85,00:06:47.97,Default,,0,0,0,,Then let’s go out and have a look
+Dialogue: 0,00:06:56.25,00:06:56.81,Default,,0,0,0,,Huh?
+Dialogue: 0,00:06:59.33,00:07:00.97,Default,,0,0,0,,What are they doing
+Dialogue: 0,00:07:01.65,00:07:03.27,Default,,0,0,0,,Maybe it’s fitness
+Dialogue: 0,00:07:03.29,00:07:04.01,Default,,0,0,0,,No
+Dialogue: 0,00:07:05.37,00:07:07.69,Default,,0,0,0,,You are my friends of Lord Jonie
+Dialogue: 0,00:07:07.97,00:07:08.45,Default,,0,0,0,,Um
+Dialogue: 0,00:07:09.09,00:07:10.93,Default,,0,0,0,,Because the oxygen at the bottom of the sea is not small
+Dialogue: 0,00:07:11.49,00:07:15.21,Default,,0,0,0,,So everyone must take the air in the wheel to provide oxygen
+Dialogue: 0,00:07:16.97,00:07:19.41,Default,,0,0,0,,Why do you live under the sea?
+Dialogue: 0,00:07:20.05,00:07:21.17,Default,,0,0,0,,It’s like this
+Dialogue: 0,00:07:21.65,00:07:24.29,Default,,0,0,0,,Because our water town encountered a big flood
+Dialogue: 0,00:07:26.05,00:07:27.97,Default,,0,0,0,,Fortunately, Lord Jonie appeared
+Dialogue: 0,00:07:28.41,00:07:31.49,Default,,0,0,0,,Protect the entire water town and move it to the bottom of the water
+Dialogue: 0,00:07:31.89,00:07:33.93,Default,,0,0,0,,Keep us safe from natural disasters
+Dialogue: 0,00:07:35.01,00:07:37.25,Default,,0,0,0,,The class leader is still so good
+Dialogue: 0,00:07:37.33,00:07:39.41,Default,,0,0,0,,I won’t say it, I’ll hand over the shift
+Dialogue: 0,00:07:44.69,00:07:45.97,Default,,0,0,0,,Anyway, I have to wait
+Dialogue: 0,00:07:46.93,00:07:48.77,Default,,0,0,0,,Or let’s fish
+Dialogue: 0,00:07:49.69,00:07:51.85,Default,,0,0,0,,This fishing tool is quite special
+Dialogue: 0,00:07:52.45,00:07:54.05,Default,,0,0,0,,Are you going to get on the hook so soon?
+Dialogue: 0,00:07:54.69,00:07:55.75,Default,,0,0,0,,- So am I
+- So am I
+Dialogue: 0,00:07:55.77,00:07:56.65,Default,,0,0,0,,Me too
+Dialogue: 0,00:07:57.93,00:07:59.37,Default,,0,0,0,,It’s a fishbaby
+Dialogue: 0,00:08:00.45,00:08:01.57,Default,,0,0,0,,Apple
+Dialogue: 0,00:08:01.89,00:08:03.17,Default,,0,0,0,,It’s a torn shoe
+Dialogue: 0,00:08:03.69,00:08:04.69,Default,,0,0,0,,Broken Axe...
+Dialogue: 0,00:08:05.61,00:08:07.25,Default,,0,0,0,,What about you, Yangyang
+Dialogue: 0,00:08:11.85,00:08:14.09,Default,,0,0,0,,The Goat, wake up and get on the hook
+Dialogue: 0,00:08:15.33,00:08:16.49,Default,,0,0,0,,We’re here to help
+Dialogue: 0,00:08:17.73,00:08:18.37,Default,,0,0,0,,You see
+Dialogue: 0,00:08:19.01,00:08:20.69,Default,,0,0,0,,It seems to be a big fish
+Dialogue: 0,00:08:24.21,00:08:26.65,Default,,0,0,0,,Shark
+Dialogue: 0,00:08:28.57,00:08:29.97,Default,,0,0,0,,Let go
+Dialogue: 0,00:08:30.81,00:08:33.49,Default,,0,0,0,,Wow…
+Dialogue: 0,00:08:37.77,00:08:38.97,Default,,0,0,0,,- Paddi
+- Paddi
+Dialogue: 0,00:08:41.65,00:08:42.93,Default,,0,0,0,,- Blade Blade
+- Flame Fist
+Dialogue: 0,00:08:50.05,00:08:51.41,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:08:51.57,00:08:52.25,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:08:52.41,00:08:54.29,Default,,0,0,0,,Wait, it’s not finished yet
+Dialogue: 0,00:09:06.69,00:09:08.33,Default,,0,0,0,,This is bad
+Dialogue: 0,00:09:11.65,00:09:13.69,Default,,0,0,0,,How did the oxygen mask break
+Dialogue: 0,00:09:14.17,00:09:15.69,Default,,0,0,0,,Wow, what’s going on
+Dialogue: 0,00:09:16.49,00:09:17.83,Default,,0,0,0,,Water...
+Dialogue: 0,00:09:17.85,00:09:18.67,Default,,0,0,0,,The water is coming in...
+Dialogue: 0,00:09:18.69,00:09:20.59,Default,,0,0,0,,I’m most afraid of water...
+Dialogue: 0,00:09:20.61,00:09:22.33,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:09:25.29,00:09:26.87,Default,,0,0,0,,I’ll plug the gap
+Dialogue: 0,00:09:26.89,00:09:29.41,Default,,0,0,0,,You will take the residents to a safe place first
+Dialogue: 0,00:09:29.69,00:09:30.33,Default,,0,0,0,,good
+Dialogue: 0,00:09:31.85,00:09:34.17,Default,,0,0,0,,Everyone, get up there
+Dialogue: 0,00:09:42.81,00:09:44.83,Default,,0,0,0,,Residents were evacuated to high places
+Dialogue: 0,00:09:44.85,00:09:45.45,Default,,0,0,0,,good
+Dialogue: 0,00:09:46.17,00:09:47.69,Default,,0,0,0,,Feed the goat
+Dialogue: 0,00:09:48.25,00:09:50.37,Default,,0,0,0,,You’re here soon, too
+Dialogue: 0,00:09:51.09,00:09:52.41,Default,,0,0,0,,OK Come now
+Dialogue: 0,00:09:57.97,00:09:59.83,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:09:59.85,00:10:02.09,Default,,0,0,0,,Wow…
+Dialogue: 0,00:10:04.49,00:10:07.53,Default,,0,0,0,,What to do? The Paddi were wiped away
+Dialogue: 0,00:10:07.85,00:10:09.09,Default,,0,0,0,,You have to block the hole first
+Dialogue: 0,00:10:11.37,00:10:12.29,Default,,0,0,0,,It’s all your fault
+Dialogue: 0,00:10:12.97,00:10:15.17,Default,,0,0,0,,You’re wearing the oxygen shield
+Dialogue: 0,00:10:16.57,00:10:19.29,Default,,0,0,0,,Sorry, we’ll find a way
+Dialogue: 0,00:10:19.73,00:10:23.21,Default,,0,0,0,,Want a way? What else can I do if I do this
+Dialogue: 0,00:10:24.57,00:10:26.33,Default,,0,0,0,,Alas, my home
+Dialogue: 0,00:10:26.77,00:10:27.87,Default,,0,0,0,,My flowers...
+Dialogue: 0,00:10:27.89,00:10:29.49,Default,,0,0,0,,My doll...
+Dialogue: 0,00:10:29.81,00:10:31.37,Default,,0,0,0,,Nothing left...
+Dialogue: 0,00:11:02.53,00:11:03.57,Default,,0,0,0,,The water faded
+Dialogue: 0,00:11:04.61,00:11:06.85,Default,,0,0,0,,The adults have already controlled the flood
+Dialogue: 0,00:11:07.21,00:11:08.73,Default,,0,0,0,,Brothers, come on
+Dialogue: 0,00:11:13.93,00:11:15.25,Default,,0,0,0,,OK, nothing is wrong
+Dialogue: 0,00:11:15.77,00:11:18.57,Default,,0,0,0,,Great, fortunately, there is a man named Hunyang
+Dialogue: 0,00:11:19.25,00:11:22.81,Default,,0,0,0,,I’m really sorry that my friend didn’t mean it
+Dialogue: 0,00:11:25.01,00:11:26.77,Default,,0,0,0,,Please advise them
+Dialogue: 0,00:11:27.49,00:11:29.45,Default,,0,0,0,,Since it’s Lord Jonie, please plead
+Dialogue: 0,00:11:29.65,00:11:30.65,Default,,0,0,0,,Then forget it
+Dialogue: 0,00:11:31.53,00:11:32.37,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:11:35.69,00:11:37.33,Default,,0,0,0,,Fortunately, you took action
+Dialogue: 0,00:11:37.49,00:11:40.73,Default,,0,0,0,,I’m so sorry I doubted you before
+Dialogue: 0,00:11:40.77,00:11:41.85,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:11:42.13,00:11:43.91,Default,,0,0,0,,Oh no, look for the goat
+Dialogue: 0,00:11:43.93,00:11:45.17,Default,,0,0,0,,Ah, then
+Dialogue: 0,00:11:47.05,00:11:49.37,Default,,0,0,0,,Feed Weslie
+Dialogue: 0,00:11:49.49,00:11:50.67,Default,,0,0,0,,Paddi
+Dialogue: 0,00:11:50.69,00:11:51.57,Default,,0,0,0,,and…
+Dialogue: 0,00:11:53.45,00:11:55.21,Default,,0,0,0,,Princess Luna Fulai
+Dialogue: 0,00:11:55.65,00:11:56.93,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:11:57.57,00:11:59.89,Default,,0,0,0,,When I was just blown away by water
+Dialogue: 0,00:12:02.45,00:12:03.77,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:12:05.97,00:12:08.09,Default,,0,0,0,,Not much help either
+Dialogue: 0,00:12:10.57,00:12:11.89,Default,,0,0,0,,A goat?
+Dialogue: 0,00:12:13.93,00:12:15.85,Default,,0,0,0,,Huh? How are you here?
+Dialogue: 0,00:12:16.45,00:12:19.21,Default,,0,0,0,,She asked someone to close us up
+Dialogue: 0,00:12:20.93,00:12:22.89,Default,,0,0,0,,Are we not good friends?
+Dialogue: 0,00:12:23.33,00:12:25.01,Default,,0,0,0,,Why do this
+Dialogue: 0,00:12:25.93,00:12:27.65,Default,,0,0,0,,Because I am a good friend
+Dialogue: 0,00:12:28.01,00:12:30.09,Default,,0,0,0,,I don’t want you to leave
+Dialogue: 0,00:12:30.65,00:12:33.33,Default,,0,0,0,,Queen Levana doesn’t want you to leave

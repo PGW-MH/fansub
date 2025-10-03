@@ -1,0 +1,166 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.57,00:00:26.09,Default,,0,0,0,,We believe in you so much
+Dialogue: 0,00:00:26.37,00:00:28.01,Default,,0,0,0,,Why do you want to cheat us
+Dialogue: 0,00:00:28.25,00:00:29.57,Default,,0,0,0,,Let us go up
+Dialogue: 0,00:00:30.45,00:00:32.29,Default,,0,0,0,,I knew you would be so ill
+Dialogue: 0,00:00:32.81,00:00:35.49,Default,,0,0,0,,That’s why I’ve got you stuck here
+Dialogue: 0,00:00:37.69,00:00:40.41,Default,,0,0,0,,Hear the Queen will send someone to deal with us tomorrow
+Dialogue: 0,00:00:40.93,00:00:42.45,Default,,0,0,0,,snort! I’m not afraid!
+Dialogue: 0,00:00:58.97,00:01:00.09,Default,,0,0,0,,You’re fine, right?
+Dialogue: 0,00:01:00.81,00:01:01.65,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:01:02.37,00:01:03.45,Default,,0,0,0,,That’s good
+Dialogue: 0,00:01:08.37,00:01:11.09,Default,,0,0,0,,To put it, you are really simple!
+Dialogue: 0,00:01:11.57,00:01:14.55,Default,,0,0,0,,It turns out that you really want to trap us here
+Dialogue: 0,00:01:14.57,00:01:16.49,Default,,0,0,0,,We will never surrender.
+Dialogue: 0,00:01:17.05,00:01:17.97,Default,,0,0,0,,That’s right
+Dialogue: 0,00:01:18.37,00:01:18.73,Default,,0,0,0,,oops…
+Dialogue: 0,00:01:19.93,00:01:21.69,Default,,0,0,0,,Didn’t you say you would never surrender?
+Dialogue: 0,00:01:22.09,00:01:22.61,Default,,0,0,0,,No
+Dialogue: 0,00:01:24.05,00:01:25.57,Default,,0,0,0,,Their bodies are weak
+Dialogue: 0,00:01:25.93,00:01:28.45,Default,,0,0,0,,If this continues, everyone will become more and more serious
+Dialogue: 0,00:01:28.65,00:01:31.25,Default,,0,0,0,,It must be tightened to let the Aqua Spirit town rise up
+Dialogue: 0,00:01:31.85,00:01:34.29,Default,,0,0,0,,Jonie, let everyone go up
+Dialogue: 0,00:01:36.37,00:01:39.29,Default,,0,0,0,,I’m going to sleep, grab them
+Dialogue: 0,00:01:41.85,00:01:43.93,Default,,0,0,0,,Now many villagers are sick
+Dialogue: 0,00:01:44.85,00:01:46.25,Default,,0,0,0,,Have to take them away first
+Dialogue: 0,00:01:46.57,00:01:46.97,Default,,0,0,0,,good
+Dialogue: 0,00:01:50.05,00:01:51.05,Default,,0,0,0,,You go quickly!
+Dialogue: 0,00:01:54.57,00:01:55.81,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:01:57.57,00:01:58.65,Default,,0,0,0,,Everyone, go quickly
+Dialogue: 0,00:02:04.17,00:02:04.75,Default,,0,0,0,,What to do?
+Dialogue: 0,00:02:04.77,00:02:07.53,Default,,0,0,0,,Do we really can’t get up in the future?
+Dialogue: 0,00:02:07.73,00:02:09.65,Default,,0,0,0,,I don’t want to stay here all the time
+Dialogue: 0,00:02:09.77,00:02:10.81,Default,,0,0,0,,Since that’s the case...
+Dialogue: 0,00:02:11.49,00:02:12.77,Default,,0,0,0,,Let’s cooperate
+Dialogue: 0,00:02:13.09,00:02:13.81,Default,,0,0,0,,There
+Dialogue: 0,00:02:25.17,00:02:26.65,Default,,0,0,0,,I misunderstood you before
+Dialogue: 0,00:02:27.09,00:02:28.29,Default,,0,0,0,,Too sorry
+Dialogue: 0,00:02:28.69,00:02:30.25,Default,,0,0,0,,Too sorry...
+Dialogue: 0,00:02:32.09,00:02:33.93,Default,,0,0,0,,No need to apologize No need to apologize
+Dialogue: 0,00:02:34.17,00:02:37.17,Default,,0,0,0,,It was true that we were not good before. We were tired.
+Dialogue: 0,00:02:38.49,00:02:40.77,Default,,0,0,0,,Let’s think of a way to go up together
+Dialogue: 0,00:02:41.89,00:02:44.37,Default,,0,0,0,,But where will that bead be?
+Dialogue: 0,00:02:45.13,00:02:46.77,Default,,0,0,0,,Are you talking about floating beads?
+Dialogue: 0,00:02:47.77,00:02:50.53,Default,,0,0,0,,Yes, we heard the cat uncle say
+Dialogue: 0,00:02:50.77,00:02:53.29,Default,,0,0,0,,It’s the floating beads that make the whole town come down
+Dialogue: 0,00:02:53.49,00:02:57.05,Default,,0,0,0,,So I believe that if you find it, you can go up there
+Dialogue: 0,00:02:57.37,00:03:00.29,Default,,0,0,0,,Then do you still remember what the floating beads are?
+Dialogue: 0,00:03:01.13,00:03:02.37,Default,,0,0,0,,At that time...
+Dialogue: 0,00:03:07.13,00:03:10.09,Default,,0,0,0,,The light was too bright at that time, we couldn’t see clearly
+Dialogue: 0,00:03:10.57,00:03:12.05,Default,,0,0,0,,Yes, it’s too bright
+Dialogue: 0,00:03:12.97,00:03:13.77,Default,,0,0,0,,But...
+Dialogue: 0,00:03:15.97,00:03:19.17,Default,,0,0,0,,Since it is called floating beads, it must be round beads
+Dialogue: 0,00:03:20.89,00:03:22.09,Default,,0,0,0,,Let’s move separately
+Dialogue: 0,00:03:22.29,00:03:23.37,Default,,0,0,0,,Find the floating beads
+Dialogue: 0,00:03:23.85,00:03:24.41,Default,,0,0,0,,Um
+Dialogue: 0,00:03:24.49,00:03:25.17,Default,,0,0,0,,good
+Dialogue: 0,00:03:33.97,00:03:36.75,Default,,0,0,0,,Uncle, the food in the trash can is not eaten
+Dialogue: 0,00:03:36.77,00:03:38.09,Default,,0,0,0,,Eat my scent
+Dialogue: 0,00:03:46.13,00:03:48.33,Default,,0,0,0,,This may be a floating bead
+Dialogue: 0,00:03:54.25,00:03:56.57,Default,,0,0,0,,I searched all over the town, but nothing
+Dialogue: 0,00:03:57.29,00:04:00.05,Default,,0,0,0,,There is no area outside, either
+Dialogue: 0,00:04:00.77,00:04:02.37,Default,,0,0,0,,Where is it hidden
+Dialogue: 0,00:04:02.89,00:04:05.09,Default,,0,0,0,,Only the Jonie knows the answer
+Dialogue: 0,00:04:06.33,00:04:07.77,Default,,0,0,0,,You want to...
+Dialogue: 0,00:04:07.97,00:04:08.33,Default,,0,0,0,,Um
+Dialogue: 0,00:04:08.85,00:04:10.17,Default,,0,0,0,,Do you want to eat?
+Dialogue: 0,00:04:11.61,00:04:14.01,Default,,0,0,0,,I’m tired, I want to eat too
+Dialogue: 0,00:04:16.81,00:04:17.97,Default,,0,0,0,,Wait for me
+Dialogue: 0,00:04:23.45,00:04:25.21,Default,,0,0,0,,The Jonie will come out at any time
+Dialogue: 0,00:04:26.09,00:04:27.85,Default,,0,0,0,,Wait for the Jonie to come out
+Dialogue: 0,00:04:28.05,00:04:29.89,Default,,0,0,0,,We just came forward with Tibbie
+Dialogue: 0,00:04:30.17,00:04:32.25,Default,,0,0,0,,Give her a chance to use the illusion lens
+Dialogue: 0,00:04:32.37,00:04:32.93,Default,,0,0,0,,good
+Dialogue: 0,00:04:38.33,00:04:39.21,Default,,0,0,0,,That’s now!
+Dialogue: 0,00:04:49.17,00:04:51.65,Default,,0,0,0,,Tips for carving and sucking!
+Dialogue: 0,00:04:58.05,00:04:59.09,Default,,0,0,0,,Humph...
+Dialogue: 0,00:05:01.17,00:05:02.05,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:05:05.49,00:05:06.49,Default,,0,0,0,,Can’t be troublesome
+Dialogue: 0,00:05:07.09,00:05:08.49,Default,,0,0,0,,Ink fish flying preparation
+Dialogue: 0,00:05:10.89,00:05:11.77,Default,,0,0,0,,What’s it?
+Dialogue: 0,00:05:12.89,00:05:13.49,Default,,0,0,0,,Launch
+Dialogue: 0,00:05:18.93,00:05:20.57,Default,,0,0,0,,Tibbie, what happened to you?
+Dialogue: 0,00:05:21.49,00:05:23.69,Default,,0,0,0,,I’m fine, I can hold on
+Dialogue: 0,00:05:25.33,00:05:27.57,Default,,0,0,0,,That’s now, the counterattack
+Dialogue: 0,00:05:30.49,00:05:31.81,Default,,0,0,0,,What is this time?
+Dialogue: 0,00:05:32.69,00:05:33.65,Default,,0,0,0,,Flashing
+Dialogue: 0,00:05:36.05,00:05:37.77,Default,,0,0,0,,Ah, so dazzling
+Dialogue: 0,00:05:40.05,00:05:41.01,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:05:41.93,00:05:43.57,Default,,0,0,0,,My eyes hurt so much
+Dialogue: 0,00:05:43.77,00:05:44.77,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:05:44.85,00:05:47.85,Default,,0,0,0,,No, it seems we should retreat first
+Dialogue: 0,00:05:58.49,00:06:00.69,Default,,0,0,0,,Tibbie, what’s wrong with your eyes
+Dialogue: 0,00:06:01.29,00:06:02.17,Default,,0,0,0,,Let me come
+Dialogue: 0,00:06:05.37,00:06:06.89,Default,,0,0,0,,I’ve learned eye exercises
+Dialogue: 0,00:06:08.25,00:06:09.49,Default,,0,0,0,,Let me come
+Dialogue: 0,00:06:15.97,00:06:17.09,Default,,0,0,0,,Much better
+Dialogue: 0,00:06:17.65,00:06:19.73,Default,,0,0,0,,I didn’t expect that Jonie was ready
+Dialogue: 0,00:06:20.09,00:06:21.93,Default,,0,0,0,,The plan below failed
+Dialogue: 0,00:06:22.49,00:06:23.53,Default,,0,0,0,,This may not be
+Dialogue: 0,00:06:24.05,00:06:24.57,Default,,0,0,0,,report!
+Dialogue: 0,00:06:28.93,00:06:30.45,Default,,0,0,0,,He found us
+Dialogue: 0,00:06:31.85,00:06:34.13,Default,,0,0,0,,Lord Jonie, do you have anything to do with me?
+Dialogue: 0,00:06:34.41,00:06:35.73,Default,,0,0,0,,What did he just say?
+Dialogue: 0,00:06:37.37,00:06:38.17,Default,,0,0,0,,…
+Dialogue: 0,00:06:38.37,00:06:40.25,Default,,0,0,0,,Actually, we have succeeded
+Dialogue: 0,00:06:41.73,00:06:44.45,Default,,0,0,0,,Actually, Tibbie and I discussed it secretly
+Dialogue: 0,00:06:44.89,00:06:45.77,Default,,0,0,0,,Flashing
+Dialogue: 0,00:06:45.97,00:06:47.85,Default,,0,0,0,,Turn the target into a soldier
+Dialogue: 0,00:06:52.85,00:06:53.89,Default,,0,0,0,,Smart!
+Dialogue: 0,00:06:56.29,00:06:57.17,Default,,0,0,0,,Soldier
+Dialogue: 0,00:06:57.85,00:07:00.61,Default,,0,0,0,,Do you still remember where my floating beads are placed?
+Dialogue: 0,00:07:01.77,00:07:02.97,Default,,0,0,0,,Hot Goat
+Dialogue: 0,00:07:03.85,00:07:06.73,Default,,0,0,0,,Haven’t you kept hiding the floating beads in the room?
+Dialogue: 0,00:07:08.57,00:07:10.69,Default,,0,0,0,,I know, of course I know
+Dialogue: 0,00:07:11.29,00:07:13.25,Default,,0,0,0,,Do you know where I put it?
+Dialogue: 0,00:07:15.97,00:07:16.85,Default,,0,0,0,,Don’t know
+Dialogue: 0,00:07:17.13,00:07:18.49,Default,,0,0,0,,What happened to Lord Jonie?
+Dialogue: 0,00:07:19.53,00:07:20.75,Default,,0,0,0,,Uh hahahahaha...
+Dialogue: 0,00:07:20.77,00:07:22.53,Default,,0,0,0,,I’m just testing your memory
+Dialogue: 0,00:07:22.93,00:07:25.05,Default,,0,0,0,,It seems good, you go down
+Dialogue: 0,00:07:25.89,00:07:26.45,Default,,0,0,0,,yes
+Dialogue: 0,00:07:34.25,00:07:35.89,Default,,0,0,0,,The room of the Jonie Goat?
+Dialogue: 0,00:07:36.29,00:07:39.29,Default,,0,0,0,,But we looked for it last time, no
+Dialogue: 0,00:07:40.25,00:07:42.21,Default,,0,0,0,,Something must have been missing
+Dialogue: 0,00:07:42.53,00:07:44.61,Default,,0,0,0,,It seems I can only go back and search again
+Dialogue: 0,00:07:45.73,00:07:46.65,Default,,0,0,0,,Um
+Dialogue: 0,00:08:51.65,00:08:52.61,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:09:17.89,00:09:19.45,Default,,0,0,0,,This may be the floating bead
+Dialogue: 0,00:09:20.09,00:09:22.29,Default,,0,0,0,,But which one is there?
+Dialogue: 0,00:09:22.65,00:09:23.61,Default,,0,0,0,,Take it all
+Dialogue: 0,00:09:41.65,00:09:43.25,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:09:44.69,00:09:46.30,Default,,0,0,0,,No, Jonie woke up...
+Dialogue: 0,00:09:46.33,00:09:47.85,Default,,0,0,0,,Quick move...
+Dialogue: 0,00:09:55.97,00:09:57.33,Default,,0,0,0,,Get the floating beads
+Dialogue: 0,00:10:10.09,00:10:11.05,Default,,0,0,0,,Aqua Spirit
+Dialogue: 0,00:10:12.13,00:10:13.01,Default,,0,0,0,,Magic Cloud
+Dialogue: 0,00:10:22.49,00:10:24.09,Default,,0,0,0,,Hand over the floating beads
+Dialogue: 0,00:10:36.01,00:10:36.81,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:10:50.05,00:10:51.09,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:11:10.73,00:11:11.81,Default,,0,0,0,,Aqua Spirit
+Dialogue: 0,00:11:29.33,00:11:30.21,Default,,0,0,0,,Success
+Dialogue: 0,00:11:32.89,00:11:35.09,Default,,0,0,0,,Hahaha... See you again
+Dialogue: 0,00:11:37.45,00:11:38.49,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:11:42.05,00:11:43.73,Default,,0,0,0,,Oops! We’ve guessed wrong
+Dialogue: 0,00:11:44.29,00:11:45.81,Default,,0,0,0,,The floating bead is its nose
+Dialogue: 0,00:11:46.69,00:11:47.49,Default,,0,0,0,,snort!
+Dialogue: 0,00:11:48.41,00:11:49.45,Default,,0,0,0,,And me
+Dialogue: 0,00:11:55.61,00:11:57.85,Default,,0,0,0,,Get it, everyone, go
+Dialogue: 0,00:11:59.21,00:11:59.97,Default,,0,0,0,,Don’t think about it!
+Dialogue: 0,00:12:20.53,00:12:21.65,Default,,0,0,0,,Ha ha ha ha…
+Dialogue: 0,00:12:29.29,00:12:31.77,Default,,0,0,0,,They... were eaten!

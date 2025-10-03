@@ -1,0 +1,144 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.21,00:00:23.13,Default,,0,0,0,,- oops
+- oops
+Dialogue: 0,00:00:24.21,00:00:25.01,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:00:25.25,00:00:26.41,Default,,0,0,0,,- You’re fine
+- I’m fine
+Dialogue: 0,00:00:27.81,00:00:28.63,Default,,0,0,0,,Excuse me
+Dialogue: 0,00:00:28.65,00:00:31.29,Default,,0,0,0,,Why do I always hit you in the corner?
+Dialogue: 0,00:00:32.05,00:00:34.61,Default,,0,0,0,,Do you want to find the Elephant Star Stone fragments together?
+Dialogue: 0,00:00:35.45,00:00:36.29,Default,,0,0,0,,OK
+Dialogue: 0,00:00:45.29,00:00:46.09,Default,,0,0,0,,careful
+Dialogue: 0,00:00:52.61,00:00:54.25,Default,,0,0,0,,- We’re here to help you
+- We’re here to help you
+Dialogue: 0,00:00:56.85,00:00:57.61,Default,,0,0,0,,- alright
+- alright
+Dialogue: 0,00:00:58.25,00:01:01.29,Default,,0,0,0,,- Thank you brother and sister
+- Thank you brother and sister
+Dialogue: 0,00:01:01.53,00:01:03.21,Default,,0,0,0,,Weslie, look
+Dialogue: 0,00:01:03.37,00:01:05.37,Default,,0,0,0,,There are frogs in the bird’s trunk
+Dialogue: 0,00:01:05.89,00:01:08.59,Default,,0,0,0,,The people in the Science and Technology City are really interesting
+Dialogue: 0,00:01:08.61,00:01:11.05,Default,,0,0,0,,Have been walking, don’t miss it
+Dialogue: 0,00:01:12.01,00:01:14.29,Default,,0,0,0,,New goods are on the market. Take a look
+Dialogue: 0,00:01:14.61,00:01:16.25,Default,,0,0,0,,No thanks
+Dialogue: 0,00:01:18.73,00:01:19.73,Default,,0,0,0,,Let’s see
+Dialogue: 0,00:01:20.09,00:01:23.13,Default,,0,0,0,,That’s our company’s new mobile phone
+Dialogue: 0,00:01:23.61,00:01:26.57,Default,,0,0,0,,Very thin and can blow up
+Dialogue: 0,00:01:29.21,00:01:30.67,Default,,0,0,0,,Really flying away...
+Dialogue: 0,00:01:30.69,00:01:32.81,Default,,0,0,0,,Ah my phone...
+Dialogue: 0,00:01:33.57,00:01:35.29,Default,,0,0,0,,It’s really thin
+Dialogue: 0,00:01:36.77,00:01:39.01,Default,,0,0,0,,What a leisurely and peaceful day
+Dialogue: 0,00:01:39.25,00:01:41.37,Default,,0,0,0,,If only this continues
+Dialogue: 0,00:02:03.29,00:02:04.93,Default,,0,0,0,,No, it’s going to run away
+Dialogue: 0,00:02:51.37,00:02:52.01,Default,,0,0,0,,ah…
+Dialogue: 0,00:02:56.53,00:02:58.25,Default,,0,0,0,,It turns out to be a
+Dialogue: 0,00:03:09.93,00:03:10.73,Default,,0,0,0,,-oops
+-oops
+Dialogue: 0,00:03:11.13,00:03:11.83,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:11.85,00:03:12.91,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:12.93,00:03:13.85,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:03:19.21,00:03:22.37,Default,,0,0,0,,Let’s go find the Elephant Star Stone Fragments together
+Dialogue: 0,00:03:23.41,00:03:24.29,Default,,0,0,0,,OK
+Dialogue: 0,00:03:32.69,00:03:33.73,Default,,0,0,0,,careful
+Dialogue: 0,00:03:38.29,00:03:40.09,Default,,0,0,0,,Raising frogs in bird’s trunk
+Dialogue: 0,00:03:43.33,00:03:45.81,Default,,0,0,0,,Have been walking, don’t miss it
+Dialogue: 0,00:03:46.33,00:03:48.81,Default,,0,0,0,,New goods are on the market. Take a look
+Dialogue: 0,00:03:48.89,00:03:50.53,Default,,0,0,0,,No thanks
+Dialogue: 0,00:03:53.37,00:03:54.47,Default,,0,0,0,,Let’s see
+Dialogue: 0,00:03:54.49,00:03:57.75,Default,,0,0,0,,That’s our company’s latest mobile phone
+Dialogue: 0,00:03:57.77,00:04:00.77,Default,,0,0,0,,Very thin and can blow up
+Dialogue: 0,00:04:03.37,00:04:04.75,Default,,0,0,0,,Really flying away
+Dialogue: 0,00:04:04.77,00:04:06.41,Default,,0,0,0,,Ah my phone...
+Dialogue: 0,00:04:07.21,00:04:08.21,Default,,0,0,0,,Weslie
+Dialogue: 0,00:04:08.41,00:04:11.05,Default,,0,0,0,,Do you have a very familiar feeling?
+Dialogue: 0,00:04:11.81,00:04:13.41,Default,,0,0,0,,You feel this way, too
+Dialogue: 0,00:04:32.97,00:04:34.81,Default,,0,0,0,,No, it’s going to run away
+Dialogue: 0,00:04:44.21,00:04:46.69,Default,,0,0,0,,It’s exactly the same as the dream
+Dialogue: 0,00:04:57.37,00:04:59.69,Default,,0,0,0,,If I guess right...
+Dialogue: 0,00:05:09.57,00:05:11.45,Default,,0,0,0,,We were trapped on the same day
+Dialogue: 0,00:05:12.25,00:05:15.17,Default,,0,0,0,,Sure enough, I thought it was my fault
+Dialogue: 0,00:05:16.61,00:05:18.89,Default,,0,0,0,,It seems to be about to find the real monster
+Dialogue: 0,00:05:19.05,00:05:20.93,Default,,0,0,0,,Only by breaking this cycle
+Dialogue: 0,00:05:21.37,00:05:24.49,Default,,0,0,0,,Or try to change this world
+Dialogue: 0,00:05:24.61,00:05:25.21,Default,,0,0,0,,good
+Dialogue: 0,00:05:34.49,00:05:36.93,Default,,0,0,0,,Have been walking past Don’t miss it...
+Dialogue: 0,00:05:38.21,00:05:40.73,Default,,0,0,0,,It’s windy. Your phone is about to fly away
+Dialogue: 0,00:05:46.69,00:05:48.69,Default,,0,0,0,,This is not a real monster
+Dialogue: 0,00:05:51.97,00:05:54.09,Default,,0,0,0,,It seems that you have already noticed it
+Dialogue: 0,00:05:54.81,00:05:57.01,Default,,0,0,0,,We’re trapped in the same day now
+Dialogue: 0,00:05:57.81,00:06:00.37,Default,,0,0,0,,If you can’t find the monsters you’re sucking in secret
+Dialogue: 0,00:06:00.81,00:06:02.05,Default,,0,0,0,,We will never go out
+Dialogue: 0,00:06:03.37,00:06:06.41,Default,,0,0,0,,We need to find monsters that will replicate time and space
+Dialogue: 0,00:06:07.05,00:06:07.81,Default,,0,0,0,,Defeat it
+Dialogue: 0,00:06:09.41,00:06:10.09,Default,,0,0,0,,cooperate
+Dialogue: 0,00:06:16.65,00:06:19.01,Default,,0,0,0,,Where is the monster hidden?
+Dialogue: 0,00:06:21.01,00:06:22.57,Default,,0,0,0,,I want to kick off the ball
+Dialogue: 0,00:06:27.05,00:06:28.53,Default,,0,0,0,,What’s Weslie
+Dialogue: 0,00:06:28.85,00:06:30.21,Default,,0,0,0,,Do you feel
+Dialogue: 0,00:06:30.33,00:06:33.21,Default,,0,0,0,,The little boy there was a bit strange sound
+Dialogue: 0,00:06:37.61,00:06:38.89,Default,,0,0,0,,Any questions?
+Dialogue: 0,00:06:39.33,00:06:42.57,Default,,0,0,0,,I always feel like I don’t want to be with the gangster... where is it...
+Dialogue: 0,00:06:44.77,00:06:45.81,Default,,0,0,0,,careful
+Dialogue: 0,00:06:50.21,00:06:51.01,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:06:52.89,00:06:53.97,Default,,0,0,0,,careful
+Dialogue: 0,00:06:57.21,00:06:58.65,Default,,0,0,0,,Yes, that’s it
+Dialogue: 0,00:06:59.41,00:07:01.01,Default,,0,0,0,,On my first day
+Dialogue: 0,00:07:01.45,00:07:04.09,Default,,0,0,0,,It’s a middle-aged man who plays baseball by himself
+Dialogue: 0,00:07:04.61,00:07:07.53,Default,,0,0,0,,But these two times were two children
+Dialogue: 0,00:07:08.13,00:07:09.77,Default,,0,0,0,,It’s hard to tell... they...
+Dialogue: 0,00:07:11.69,00:07:12.41,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:16.45,00:07:17.97,Default,,0,0,0,,Hum The modeling style...
+Dialogue: 0,00:07:20.65,00:07:23.41,Default,,0,0,0,,No…
+Dialogue: 0,00:07:24.61,00:07:27.89,Default,,0,0,0,,Why…Why…
+Dialogue: 0,00:07:28.53,00:07:32.15,Default,,0,0,0,,Why stop us from playing
+Dialogue: 0,00:07:32.17,00:07:33.29,Default,,0,0,0,,It’s indeed it
+Dialogue: 0,00:07:57.17,00:07:58.29,Default,,0,0,0,,stop
+Dialogue: 0,00:08:33.85,00:08:35.09,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:09:04.13,00:09:06.73,Default,,0,0,0,,Hello, do you want to play with me?
+Dialogue: 0,00:09:08.65,00:09:10.53,Default,,0,0,0,,I’m a newly moved neighborhood
+Dialogue: 0,00:09:10.69,00:09:12.45,Default,,0,0,0,,Can we play together?
+Dialogue: 0,00:09:17.77,00:09:18.45,Default,,0,0,0,,good
+Dialogue: 0,00:09:22.77,00:09:23.69,Default,,0,0,0,,This is for you
+Dialogue: 0,00:09:25.69,00:09:29.25,Default,,0,0,0,,I’ll play with you every afternoon at 4:00
+Dialogue: 0,00:09:29.69,00:09:31.13,Default,,0,0,0,,Remember to adjust the time
+Dialogue: 0,00:09:32.21,00:09:32.73,Default,,0,0,0,,Um
+Dialogue: 0,00:09:44.69,00:09:46.29,Default,,0,0,0,,Hey, let’s go play
+Dialogue: 0,00:09:46.49,00:09:47.53,Default,,0,0,0,,good
+Dialogue: 0,00:10:03.41,00:10:07.45,Default,,0,0,0,,So after moving, I can’t play with you
+Dialogue: 0,00:10:31.85,00:10:35.59,Default,,0,0,0,,That’s it, everyone left
+Dialogue: 0,00:10:35.61,00:10:38.53,Default,,0,0,0,,I’m the only place left
+Dialogue: 0,00:10:42.97,00:10:45.21,Default,,0,0,0,,Don’t waste your time and tighten the card...
+Dialogue: 0,00:10:46.97,00:10:48.33,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:10:50.41,00:10:54.05,Default,,0,0,0,,Sorry, I can’t walk with you anymore
+Dialogue: 0,00:10:57.05,00:10:59.05,Default,,0,0,0,,Time recovery…
+Dialogue: 0,00:11:06.97,00:11:07.97,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:11:10.21,00:11:11.33,Default,,0,0,0,,Here is...
+Dialogue: 0,00:11:12.21,00:11:14.61,Default,,0,0,0,,This is the first time I’ve met a monster
+Dialogue: 0,00:11:15.05,00:11:16.85,Default,,0,0,0,,It seems that time has recovered
+Dialogue: 0,00:11:17.33,00:11:19.09,Default,,0,0,0,,Oops Card...
+Dialogue: 0,00:11:19.61,00:11:20.69,Default,,0,0,0,,The shadow is not there either
+Dialogue: 0,00:11:21.33,00:11:23.85,Default,,0,0,0,,It seems that the card has been taken away by her
+Dialogue: 0,00:11:25.89,00:11:28.05,Default,,0,0,0,,Weslie What do you want to do
+Dialogue: 0,00:11:39.01,00:11:42.09,Default,,0,0,0,,Finally caught up. Thank you
+Dialogue: 0,00:11:44.05,00:11:45.89,Default,,0,0,0,,It seems that time has recovered
+Dialogue: 0,00:11:52.49,00:11:53.37,Default,,0,0,0,,Uncle is there
+Dialogue: 0,00:12:02.77,00:12:03.93,Default,,0,0,0,,This sound...
+Dialogue: 0,00:12:17.89,00:12:19.05,Default,,0,0,0,,Long time no see
+Dialogue: 0,00:12:21.57,00:12:23.13,Default,,0,0,0,,Long time no see
+Dialogue: 0,00:12:23.81,00:12:25.05,Default,,0,0,0,,Why are you here
+Dialogue: 0,00:12:25.81,00:12:27.89,Default,,0,0,0,,We haven’t played baseball together for a long time

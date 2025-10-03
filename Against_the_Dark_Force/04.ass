@@ -1,0 +1,199 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.32,00:00:22.16,Default,,0,0,0,,Everyone is controlled
+Dialogue: 0,00:00:22.48,00:00:24.52,Default,,0,0,0,,Nowadays, the same is true for the goat
+Dialogue: 0,00:00:26.64,00:00:27.09,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:00:27.12,00:00:28.84,Default,,0,0,0,,If you catch up with us, you will win
+Dialogue: 0,00:00:29.20,00:00:30.12,Default,,0,0,0,,Ha ha ha ha
+Dialogue: 0,00:00:31.16,00:00:32.00,Default,,0,0,0,,This simple
+Dialogue: 0,00:00:39.32,00:00:41.21,Default,,0,0,0,,You’re running too fast, too
+Dialogue: 0,00:00:41.24,00:00:43.08,Default,,0,0,0,,You’re too slow, too bad
+Dialogue: 0,00:00:44.36,00:00:46.12,Default,,0,0,0,,Really can’t catch up at all
+Dialogue: 0,00:00:46.72,00:00:47.36,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:00:48.32,00:00:50.00,Default,,0,0,0,,You no longer need to chase us
+Dialogue: 0,00:00:50.88,00:00:53.76,Default,,0,0,0,,Because we will always be by your side
+Dialogue: 0,00:00:54.20,00:00:55.08,Default,,0,0,0,,Um…
+Dialogue: 0,00:00:57.88,00:00:59.15,Default,,0,0,0,,What to do now
+Dialogue: 0,00:01:01.28,00:01:01.96,Default,,0,0,0,,actually…
+Dialogue: 0,00:01:03.04,00:01:05.36,Default,,0,0,0,,There is a way to save the goat
+Dialogue: 0,00:01:06.24,00:01:07.20,Default,,0,0,0,,What method
+Dialogue: 0,00:01:08.04,00:01:09.76,Default,,0,0,0,,On the nearby Thunder Valley
+Dialogue: 0,00:01:09.96,00:01:12.12,Default,,0,0,0,,There is a kind of saccharine that can cure all diseases
+Dialogue: 0,00:01:12.72,00:01:14.52,Default,,0,0,0,,A thousand years can produce a piece
+Dialogue: 0,00:01:15.31,00:01:17.52,Default,,0,0,0,,Maybe it can be used to save goat
+Dialogue: 0,00:01:17.92,00:01:20.36,Default,,0,0,0,,Very good I’ll go up right away
+Dialogue: 0,00:01:22.04,00:01:22.80,Default,,0,0,0,,- etc
+- etc
+Dialogue: 0,00:01:24.20,00:01:26.92,Default,,0,0,0,,But the Thunder Valley will keep falling thunder
+Dialogue: 0,00:01:27.31,00:01:29.92,Default,,0,0,0,,No one has ever been able to come out safely after entering
+Dialogue: 0,00:01:30.76,00:01:32.80,Default,,0,0,0,,My sister and I haven’t been there
+Dialogue: 0,00:01:33.84,00:01:35.52,Default,,0,0,0,,Very... very dangerous
+Dialogue: 0,00:01:36.08,00:01:37.80,Default,,0,0,0,,Such a dangerous
+Dialogue: 0,00:01:39.44,00:01:41.92,Default,,0,0,0,,We’ll be around you all the time
+Dialogue: 0,00:01:44.76,00:01:45.95,Default,,0,0,0,,I must go
+Dialogue: 0,00:01:46.76,00:01:48.60,Default,,0,0,0,,But you have no ability
+Dialogue: 0,00:01:48.64,00:01:50.08,Default,,0,0,0,,Not familiar with the environment
+Dialogue: 0,00:01:52.00,00:01:53.16,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:01:53.28,00:01:55.00,Default,,0,0,0,,I have strong body
+Dialogue: 0,00:02:03.84,00:02:05.84,Default,,0,0,0,,I also have agile skills
+Dialogue: 0,00:02:07.24,00:02:08.72,Default,,0,0,0,,Or I’ll go
+Dialogue: 0,00:02:09.44,00:02:11.92,Default,,0,0,0,,No, someone must take care of the goat
+Dialogue: 0,00:02:12.00,00:02:14.48,Default,,0,0,0,,Let me do this dangerous thing
+Dialogue: 0,00:02:15.12,00:02:15.80,Default,,0,0,0,,All right
+Dialogue: 0,00:02:16.24,00:02:17.84,Default,,0,0,0,,But you must be careful
+Dialogue: 0,00:02:19.84,00:02:21.72,Default,,0,0,0,,Don’t worry, hand it to me
+Dialogue: 0,00:02:22.84,00:02:24.28,Default,,0,0,0,,Can he really do it?
+Dialogue: 0,00:02:25.04,00:02:27.08,Default,,0,0,0,,I felt a strength in him
+Dialogue: 0,00:02:27.56,00:02:29.32,Default,,0,0,0,,He might be able to do it
+Dialogue: 0,00:02:30.88,00:02:33.63,Default,,0,0,0,,By the way, how to get to Leihu Valley?
+Dialogue: 0,00:02:42.12,00:02:44.12,Default,,0,0,0,,You’re all over the city
+Dialogue: 0,00:02:44.52,00:02:46.63,Default,,0,0,0,,You must catch Luna and the others as soon as possible
+Dialogue: 0,00:02:47.16,00:02:48.32,Default,,0,0,0,,Lord Queen
+Dialogue: 0,00:02:48.72,00:02:52.68,Default,,0,0,0,,I’ve always wanted to ask...Why do I need to catch Princess Luna?
+Dialogue: 0,00:02:52.91,00:02:54.60,Default,,0,0,0,,Isn’t she your sister?
+Dialogue: 0,00:02:56.63,00:02:57.80,Default,,0,0,0,,ah…
+Dialogue: 0,00:03:02.28,00:03:04.00,Default,,0,0,0,,Does anyone else have any questions?
+Dialogue: 0,00:03:04.48,00:03:05.60,Default,,0,0,0,,no!
+Dialogue: 0,00:03:12.24,00:03:13.24,Default,,0,0,0,,You don’t have to go
+Dialogue: 0,00:03:14.20,00:03:16.44,Default,,0,0,0,,Any more instructions? Queen Levana
+Dialogue: 0,00:03:17.56,00:03:19.48,Default,,0,0,0,,I have other tasks to arrange for you
+Dialogue: 0,00:03:19.88,00:03:21.32,Default,,0,0,0,,Other tasks?
+Dialogue: 0,00:03:23.52,00:03:26.00,Default,,0,0,0,,I want you to help me guard every city
+Dialogue: 0,00:03:26.48,00:03:28.91,Default,,0,0,0,,Help me look at the dissatisfied residents
+Dialogue: 0,00:03:30.32,00:03:32.16,Default,,0,0,0,,Once Luna and others are discovered in the middle of the way
+Dialogue: 0,00:03:32.48,00:03:34.16,Default,,0,0,0,,Just catch them for me
+Dialogue: 0,00:03:34.63,00:03:35.32,Default,,0,0,0,,yes!
+Dialogue: 0,00:03:36.32,00:03:38.96,Default,,0,0,0,,In order to give you enough ability to deal with them
+Dialogue: 0,00:03:39.56,00:03:42.44,Default,,0,0,0,,I want to give you these kiwi stones
+Dialogue: 0,00:03:42.52,00:03:44.52,Default,,0,0,0,,Wow…
+Dialogue: 0,00:03:47.08,00:03:48.80,Default,,0,0,0,,Don’t disappoint me
+Dialogue: 0,00:03:49.48,00:03:49.96,Default,,0,0,0,,yes!
+Dialogue: 0,00:03:53.16,00:03:55.32,Default,,0,0,0,,How do you look at this map?
+Dialogue: 0,00:03:57.72,00:03:58.44,Default,,0,0,0,,Look at this
+Dialogue: 0,00:03:58.84,00:03:59.72,Default,,0,0,0,,Look...
+Dialogue: 0,00:03:59.96,00:04:00.49,Default,,0,0,0,,Look at this
+Dialogue: 0,00:04:00.52,00:04:01.72,Default,,0,0,0,,What are they looking at?
+Dialogue: 0,00:04:04.72,00:04:05.80,Default,,0,0,0,,Tongzhi!
+Dialogue: 0,00:04:10.04,00:04:14.40,Default,,0,0,0,,you! Not like the residents of this town
+Dialogue: 0,00:04:14.92,00:04:16.44,Default,,0,0,0,,Yes...yes
+Dialogue: 0,00:04:16.56,00:04:18.16,Default,,0,0,0,,I’m traveling
+Dialogue: 0,00:04:18.56,00:04:21.88,Default,,0,0,0,,Please... Please ask how to leave the Thunder Valley?
+Dialogue: 0,00:04:23.83,00:04:25.56,Default,,0,0,0,,There is the Thunder Valley
+Dialogue: 0,00:04:26.24,00:04:27.64,Default,,0,0,0,,Thank you
+Dialogue: 0,00:04:28.96,00:04:29.76,Default,,0,0,0,,etc.
+Dialogue: 0,00:04:30.16,00:04:32.44,Default,,0,0,0,,No! Can’t you see through?
+Dialogue: 0,00:04:34.64,00:04:36.32,Default,,0,0,0,,Thunder Valley is very dangerous
+Dialogue: 0,00:04:36.48,00:04:37.52,Default,,0,0,0,,You have to be careful
+Dialogue: 0,00:04:37.83,00:04:38.72,Default,,0,0,0,,good
+Dialogue: 0,00:04:45.92,00:04:47.52,Default,,0,0,0,,Fortunately, I was not discovered
+Dialogue: 0,00:04:50.24,00:04:52.04,Default,,0,0,0,,It’s a criminal, catch him
+Dialogue: 0,00:04:55.44,00:04:57.72,Default,,0,0,0,,Why am I so unlucky
+Dialogue: 0,00:05:14.56,00:05:16.52,Default,,0,0,0,,I won’t give up!
+Dialogue: 0,00:05:20.64,00:05:22.32,Default,,0,0,0,,Is this the Thunder Valley?
+Dialogue: 0,00:05:33.00,00:05:33.76,Default,,0,0,0,,Can’t run!
+Dialogue: 0,00:05:34.16,00:05:35.88,Default,,0,0,0,,The slept with the goat is waiting for me!
+Dialogue: 0,00:05:41.44,00:05:42.20,Default,,0,0,0,,stop
+Dialogue: 0,00:05:53.92,00:05:56.72,Default,,0,0,0,,It seems that the Thunder Valley is not that scary either
+Dialogue: 0,00:05:58.04,00:06:00.44,Default,,0,0,0,,Why does it smell like barbecue?
+Dialogue: 0,00:06:07.32,00:06:09.12,Default,,0,0,0,,This is a violation
+Dialogue: 0,00:06:10.52,00:06:13.52,Default,,0,0,0,,He ran into the Thunder Valley, are we still chasing?
+Dialogue: 0,00:06:14.12,00:06:15.49,Default,,0,0,0,,But if the queen knows
+Dialogue: 0,00:06:15.52,00:06:17.24,Default,,0,0,0,,We let the criminal run away...
+Dialogue: 0,00:06:23.56,00:06:25.29,Default,,0,0,0,,Our Cat Country’s Maintenance Unit
+Dialogue: 0,00:06:25.32,00:06:27.27,Default,,0,0,0,,Not a person who is afraid of death
+Dialogue: 0,00:06:27.36,00:06:27.92,Default,,0,0,0,,superior!
+Dialogue: 0,00:06:29.00,00:06:30.52,Default,,0,0,0,,ah…
+Dialogue: 0,00:06:42.68,00:06:45.12,Default,,0,0,0,,That’s...living grass!
+Dialogue: 0,00:06:45.92,00:06:47.72,Default,,0,0,0,,Finally found you
+Dialogue: 0,00:06:52.52,00:06:55.04,Default,,0,0,0,,Why are there so many thunders here?
+Dialogue: 0,00:06:59.56,00:07:01.08,Default,,0,0,0,,Can this pass?
+Dialogue: 0,00:07:01.44,00:07:03.12,Default,,0,0,0,,You’re going with us
+Dialogue: 0,00:07:07.24,00:07:08.37,Default,,0,0,0,,You go with us
+Dialogue: 0,00:07:08.40,00:07:09.64,Default,,0,0,0,,Maybe I can survive
+Dialogue: 0,00:07:09.68,00:07:12.27,Default,,0,0,0,,But you step into that heavy mine area
+Dialogue: 0,00:07:13.24,00:07:15.52,Default,,0,0,0,,It can only turn into a piece of ashes
+Dialogue: 0,00:07:16.12,00:07:18.24,Default,,0,0,0,,Why...you’re catching up with me so soon?
+Dialogue: 0,00:07:27.56,00:07:28.80,Default,,0,0,0,,All are here
+Dialogue: 0,00:07:29.56,00:07:30.72,Default,,0,0,0,,I must go
+Dialogue: 0,00:07:31.96,00:07:32.72,Default,,0,0,0,,what
+Dialogue: 0,00:07:46.24,00:07:47.84,Default,,0,0,0,,Running in?
+Dialogue: 0,00:07:47.92,00:07:49.40,Default,,0,0,0,,Does he want to die?
+Dialogue: 0,00:07:51.64,00:07:54.88,Default,,0,0,0,,I will definitely not let you have any trouble
+Dialogue: 0,00:08:02.72,00:08:04.20,Default,,0,0,0,,Get it!
+Dialogue: 0,00:08:04.76,00:08:09.04,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:14.00,00:08:15.84,Default,,0,0,0,,Wolffy Help me...
+Dialogue: 0,00:08:17.76,00:08:19.84,Default,,0,0,0,,By the way, Wolffy hasn’t come back yet
+Dialogue: 0,00:08:22.92,00:08:23.44,Default,,0,0,0,,mother
+Dialogue: 0,00:08:23.64,00:08:25.60,Default,,0,0,0,,When will dad and the others come back
+Dialogue: 0,00:08:26.36,00:08:27.36,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:08:27.84,00:08:29.88,Default,,0,0,0,,But Dad and the others will definitely come back
+Dialogue: 0,00:08:30.40,00:08:30.92,Default,,0,0,0,,Um
+Dialogue: 0,00:08:34.12,00:08:36.48,Default,,0,0,0,,I’ll ask what happened to Wolffy
+Dialogue: 0,00:08:38.72,00:08:41.16,Default,,0,0,0,,The number you are calling is not in the service area
+Dialogue: 0,00:08:45.20,00:08:46.67,Default,,0,0,0,,But don’t worry
+Dialogue: 0,00:08:50.76,00:08:52.20,Default,,0,0,0,,The flash seems to have stopped
+Dialogue: 0,00:08:54.16,00:08:55.16,Default,,0,0,0,,Go and catch him
+Dialogue: 0,00:08:58.76,00:09:01.44,Default,,0,0,0,,Isn’t this the most common herb that can cure all diseases?
+Dialogue: 0,00:09:01.72,00:09:03.96,Default,,0,0,0,,We can give it to Queen Levana
+Dialogue: 0,00:09:08.16,00:09:09.48,Default,,0,0,0,,It’s obviously all down
+Dialogue: 0,00:09:09.60,00:09:11.24,Default,,0,0,0,,How could it be so powerful
+Dialogue: 0,00:09:17.48,00:09:18.16,Default,,0,0,0,,Don’t think about it!
+Dialogue: 0,00:09:19.24,00:09:20.60,Default,,0,0,0,,Still alive?
+Dialogue: 0,00:09:21.04,00:09:21.88,Default,,0,0,0,,Brothers!
+Dialogue: 0,00:09:38.16,00:09:41.16,Default,,0,0,0,,That’s right! Someone is waiting for me to go back!
+Dialogue: 0,00:09:43.32,00:09:45.16,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:45.40,00:09:48.24,Default,,0,0,0,,I have never heard of him having such a powerful power
+Dialogue: 0,00:09:51.76,00:09:53.12,Default,,0,0,0,,Is this Qili?
+Dialogue: 0,00:10:00.76,00:10:03.16,Default,,0,0,0,,I just chased me like a wolf
+Dialogue: 0,00:10:06.24,00:10:07.76,Default,,0,0,0,,Can you please give me my qi
+Dialogue: 0,00:10:08.36,00:10:10.20,Default,,0,0,0,,Power of electricity!
+Dialogue: 0,00:10:14.24,00:10:16.92,Default,,0,0,0,,Could it be that I’m wrong with my name?
+Dialogue: 0,00:10:17.24,00:10:18.72,Default,,0,0,0,,Lightning Strike!
+Dialogue: 0,00:10:22.92,00:10:24.28,Default,,0,0,0,,Lightning Strike!
+Dialogue: 0,00:10:31.04,00:10:33.28,Default,,0,0,0,,Lightning Strike Lightning Strike Lightning Strike…
+Dialogue: 0,00:10:34.92,00:10:37.20,Default,,0,0,0,,It turns out that you can’t control your own power
+Dialogue: 0,00:10:37.96,00:10:38.72,Default,,0,0,0,,what
+Dialogue: 0,00:10:41.76,00:10:45.36,Default,,0,0,0,,That’s the herb used to save Paddis.
+Dialogue: 0,00:10:46.16,00:10:47.24,Default,,0,0,0,,don’t want
+Dialogue: 0,00:10:47.40,00:10:49.20,Default,,0,0,0,,Hahahahahahaha...
+Dialogue: 0,00:10:49.60,00:10:52.72,Default,,0,0,0,,Think about it quickly, that’s the only surviving grass
+Dialogue: 0,00:10:54.04,00:10:56.08,Default,,0,0,0,,This is a violation
+Dialogue: 0,00:10:58.72,00:11:01.40,Default,,0,0,0,,If a thunder is not hit, then...
+Dialogue: 0,00:11:01.60,00:11:04.16,Default,,0,0,0,,What are you muttering about?
+Dialogue: 0,00:11:04.84,00:11:06.60,Default,,0,0,0,,Just hit until the hit
+Dialogue: 0,00:11:06.64,00:11:08.92,Default,,0,0,0,,Lightning Strike Lightning Strike Lightning Strike…
+Dialogue: 0,00:11:09.12,00:11:09.96,Default,,0,0,0,,Have you been crazy?
+Dialogue: 0,00:11:10.12,00:11:11.72,Default,,0,0,0,,You’ll be struck
+Dialogue: 0,00:11:12.36,00:11:15.00,Default,,0,0,0,,Some things are more important than life
+Dialogue: 0,00:11:16.92,00:11:18.52,Default,,0,0,0,,This guy is crazy. Run...
+Dialogue: 0,00:11:21.80,00:11:24.52,Default,,0,0,0,,You must be fine
+Dialogue: 0,00:11:28.16,00:11:29.04,Default,,0,0,0,,Find details
+Dialogue: 0,00:11:34.24,00:11:36.92,Default,,0,0,0,,If this continues, you may find us!
+Dialogue: 0,00:11:39.96,00:11:42.72,Default,,0,0,0,,The texture of this big tree is more detailed than others
+Dialogue: 0,00:11:53.96,00:11:54.80,Default,,0,0,0,,What’s going on then?
+Dialogue: 0,00:11:55.84,00:11:57.67,Default,,0,0,0,,Thunder is coming. Is it raining?
+Dialogue: 0,00:11:58.52,00:12:00.04,Default,,0,0,0,,Have you found it here?
+Dialogue: 0,00:12:01.04,00:12:03.48,Default,,0,0,0,,No, let’s finish work and go home to collect clothes
+Dialogue: 0,00:12:04.12,00:12:04.88,Default,,0,0,0,,good
+Dialogue: 0,00:12:11.76,00:12:12.96,Default,,0,0,0,,Wolffy is back
+Dialogue: 0,00:12:14.76,00:12:15.72,Default,,0,0,0,,Have you been injured?
+Dialogue: 0,00:12:16.60,00:12:19.32,Default,,0,0,0,,I’m fine. Please save Xiaoyangyang.
+Dialogue: 0,00:12:20.92,00:12:22.32,Default,,0,0,0,,Living grass?
+Dialogue: 0,00:12:22.80,00:12:24.64,Default,,0,0,0,,I didn’t expect you to succeed
+Dialogue: 0,00:12:25.08,00:12:25.92,Default,,0,0,0,,I’ll make a pill
+Dialogue: 0,00:12:26.36,00:12:26.76,Default,,0,0,0,,Um
+Dialogue: 0,00:12:29.28,00:12:31.55,Default,,0,0,0,,Have a good rest, he’ll be fine

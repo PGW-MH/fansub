@@ -1,0 +1,163 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:26.61,00:00:27.57,Default,,0,0,0,,Where is this
+Dialogue: 0,00:00:33.13,00:00:35.13,Default,,0,0,0,,You finally wake up
+Dialogue: 0,00:00:35.53,00:00:36.45,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:00:36.77,00:00:38.13,Default,,0,0,0,,Have you forgotten
+Dialogue: 0,00:00:38.37,00:00:41.33,Default,,0,0,0,,It seems that the memory is caused by encountering a fright
+Dialogue: 0,00:00:42.29,00:00:43.21,Default,,0,0,0,,Encounter with a siege...
+Dialogue: 0,00:00:44.77,00:00:47.45,Default,,0,0,0,,The head hurts so much...what is this...
+Dialogue: 0,00:00:48.29,00:00:51.17,Default,,0,0,0,,It’s okay, the headache is just temporary
+Dialogue: 0,00:00:51.33,00:00:52.89,Default,,0,0,0,,I’ll help you repair it
+Dialogue: 0,00:00:54.81,00:00:58.45,Default,,0,0,0,,You’ve been beaten up during a mission
+Dialogue: 0,00:01:00.17,00:01:01.01,Default,,0,0,0,,Ani
+Dialogue: 0,00:01:01.61,00:01:04.53,Default,,0,0,0,,You are the robot I made by hand
+Dialogue: 0,00:01:04.69,00:01:06.53,Default,,0,0,0,,You’ll be fine, Ani
+Dialogue: 0,00:01:08.01,00:01:09.17,Default,,0,0,0,,Made me out...
+Dialogue: 0,00:01:10.05,00:01:12.49,Default,,0,0,0,,I’m a robot...
+Dialogue: 0,00:01:13.53,00:01:16.57,Default,,0,0,0,,And you are the one who made me the doctorate
+Dialogue: 0,00:01:16.85,00:01:17.57,Default,,0,0,0,,That’s right
+Dialogue: 0,00:01:17.93,00:01:19.89,Default,,0,0,0,,The damaged part has been fixed
+Dialogue: 0,00:01:19.97,00:01:21.77,Default,,0,0,0,,Next, you can continue the mission
+Dialogue: 0,00:01:21.97,00:01:22.81,Default,,0,0,0,,… Mission…
+Dialogue: 0,00:01:23.17,00:01:25.49,Default,,0,0,0,,Install the transmitter in this place
+Dialogue: 0,00:01:27.77,00:01:30.93,Default,,0,0,0,,Ani, have you seen those robots?
+Dialogue: 0,00:01:32.25,00:01:34.55,Default,,0,0,0,,If we can’t complete the mission
+Dialogue: 0,00:01:34.57,00:01:36.29,Default,,0,0,0,,It will become that way
+Dialogue: 0,00:01:46.49,00:01:47.09,Default,,0,0,0,,yes
+Dialogue: 0,00:01:52.05,00:01:53.69,Default,,0,0,0,,I won’t disappoint you
+Dialogue: 0,00:01:57.41,00:02:00.15,Default,,0,0,0,,Doctor It seems that she believed the implanted memory
+Dialogue: 0,00:02:00.17,00:02:02.71,Default,,0,0,0,,Yes, continue your mission
+Dialogue: 0,00:02:02.73,00:02:03.37,Default,,0,0,0,,yes
+Dialogue: 0,00:02:06.05,00:02:08.17,Default,,0,0,0,,Everyone has already gone to find Wolnie
+Dialogue: 0,00:02:08.37,00:02:09.25,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:02:10.49,00:02:12.17,Default,,0,0,0,,Thank you Weslie
+Dialogue: 0,00:02:12.65,00:02:14.57,Default,,0,0,0,,I’ll get along with you right away
+Dialogue: 0,00:02:18.65,00:02:20.73,Default,,0,0,0,,Ah, this is...
+Dialogue: 0,00:02:21.57,00:02:22.89,Default,,0,0,0,,Red crown
+Dialogue: 0,00:02:38.77,00:02:41.05,Default,,0,0,0,,Could you see this wolf?
+Dialogue: 0,00:02:42.13,00:02:44.41,Default,,0,0,0,,Could anyone see this wolf?
+Dialogue: 0,00:02:49.41,00:02:50.37,Default,,0,0,0,,Stop it
+Dialogue: 0,00:02:51.29,00:02:53.41,Default,,0,0,0,,Could you see this wolf?
+Dialogue: 0,00:02:56.33,00:02:59.05,Default,,0,0,0,,Ah my eyes...
+Dialogue: 0,00:02:59.13,00:03:00.37,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:01.73,00:03:02.61,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:03:08.41,00:03:09.45,Default,,0,0,0,,Gloves have reaction
+Dialogue: 0,00:03:11.41,00:03:13.77,Default,,0,0,0,,- Double Butterfly Sword
+- Comet
+Dialogue: 0,00:03:19.41,00:03:22.31,Default,,0,0,0,,If this continues, your eyes will be damaged
+Dialogue: 0,00:03:22.33,00:03:24.17,Default,,0,0,0,,Look at mine
+Dialogue: 0,00:03:24.49,00:03:26.33,Default,,0,0,0,,Thunder card
+Dialogue: 0,00:03:28.53,00:03:29.33,Default,,0,0,0,,Didn’t hit
+Dialogue: 0,00:03:29.65,00:03:31.15,Default,,0,0,0,,The light is too dazzling
+Dialogue: 0,00:03:31.17,00:03:33.09,Default,,0,0,0,,Let’s notify Sparky and others first
+Dialogue: 0,00:03:34.01,00:03:35.38,Default,,0,0,0,,Sparky 
+Dialogue: 0,00:03:35.41,00:03:37.13,Default,,0,0,0,,We were hit by monsters
+Dialogue: 0,00:03:37.37,00:03:39.45,Default,,0,0,0,,Ah, we also encountered monsters
+Dialogue: 0,00:03:39.77,00:03:40.61,Default,,0,0,0,,what
+Dialogue: 0,00:03:50.77,00:03:54.07,Default,,0,0,0,,Ahhh, what’s the smell? It smells so smelly
+Dialogue: 0,00:03:54.09,00:03:56.75,Default,,0,0,0,,What’s going on with the sudden durian smell
+Dialogue: 0,00:03:56.77,00:03:57.77,Default,,0,0,0,,Durite flavor
+Dialogue: 0,00:03:58.57,00:03:59.27,Default,,0,0,0,,stop
+Dialogue: 0,00:03:59.29,00:04:00.61,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:04:04.01,00:04:06.67,Default,,0,0,0,,Don’t destroy the city anymore... the city...
+Dialogue: 0,00:04:06.69,00:04:09.81,Default,,0,0,0,,I can’t stand it anymore
+Dialogue: 0,00:04:10.37,00:04:12.53,Default,,0,0,0,,And you, why didn’t it affect
+Dialogue: 0,00:04:14.65,00:04:16.17,Default,,0,0,0,,This sweet smell
+Dialogue: 0,00:04:16.41,00:04:19.21,Default,,0,0,0,,It must be a good dune before it becomes a monster
+Dialogue: 0,00:04:35.89,00:04:37.21,Default,,0,0,0,,Just now
+Dialogue: 0,00:04:43.01,00:04:44.25,Default,,0,0,0,,Control card
+Dialogue: 0,00:04:53.29,00:04:54.25,Default,,0,0,0,,The old point
+Dialogue: 0,00:04:54.97,00:04:56.41,Default,,0,0,0,,We won’t hurt you
+Dialogue: 0,00:05:03.97,00:05:04.91,Default,,0,0,0,,ah…
+Dialogue: 0,00:05:04.93,00:05:05.81,Default,,0,0,0,,Paddi
+Dialogue: 0,00:05:38.85,00:05:40.41,Default,,0,0,0,,It’s finished, it’s finished
+Dialogue: 0,00:05:40.81,00:05:43.21,Default,,0,0,0,,Wait, isn’t it better to just open the snail?
+Dialogue: 0,00:05:48.01,00:05:49.47,Default,,0,0,0,,Huh, it’s safe
+Dialogue: 0,00:05:49.49,00:05:58.49,Default,,0,0,0,,Wow...
+Dialogue: 0,00:06:06.69,00:06:07.17,Default,,0,0,0,,who
+Dialogue: 0,00:06:10.25,00:06:11.77,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:06:15.33,00:06:19.33,Default,,0,0,0,,Why ignore me...
+Dialogue: 0,00:06:20.49,00:06:24.25,Default,,0,0,0,,Don’t...not to ignore my existence
+Dialogue: 0,00:06:31.17,00:06:34.61,Default,,0,0,0,,Humph, you’ve seen me now
+Dialogue: 0,00:06:35.01,00:06:36.01,Default,,0,0,0,,what…
+Dialogue: 0,00:06:36.25,00:06:37.17,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:06:48.93,00:06:49.97,Default,,0,0,0,,Do you still need to continue?
+Dialogue: 0,00:06:56.49,00:06:57.71,Default,,0,0,0,,You, you, don’t be proud
+Dialogue: 0,00:06:57.73,00:07:00.89,Default,,0,0,0,,I sent a signal and there were other monsters coming to help
+Dialogue: 0,00:07:08.93,00:07:09.93,Default,,0,0,0,,There is the monster
+Dialogue: 0,00:07:12.85,00:07:14.09,Default,,0,0,0,,What’s going on with it
+Dialogue: 0,00:07:16.97,00:07:18.09,Default,,0,0,0,,Finally recognized
+Dialogue: 0,00:07:18.37,00:07:20.17,Default,,0,0,0,,Huh, too tired
+Dialogue: 0,00:07:21.05,00:07:22.27,Default,,0,0,0,,Wow
+Dialogue: 0,00:07:22.29,00:07:23.61,Default,,0,0,0,,Run again...
+Dialogue: 0,00:07:26.01,00:07:26.65,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:31.61,00:07:34.79,Default,,0,0,0,,Weslie I found the red crown
+Dialogue: 0,00:07:34.81,00:07:36.37,Default,,0,0,0,,She must have been back
+Dialogue: 0,00:07:36.53,00:07:38.49,Default,,0,0,0,,Maybe it’s nearby
+Dialogue: 0,00:07:39.05,00:07:42.21,Default,,0,0,0,,Don’t worry, you will definitely find Wolnie
+Dialogue: 0,00:07:45.69,00:07:47.13,Default,,0,0,0,,Uh, something happened
+Dialogue: 0,00:07:48.09,00:07:49.05,Default,,0,0,0,,Wolffy, look
+Dialogue: 0,00:07:50.37,00:07:51.05,Default,,0,0,0,,There are monsters
+Dialogue: 0,00:07:52.17,00:07:53.43,Default,,0,0,0,,Let’s go and have a look
+Dialogue: 0,00:07:53.45,00:07:53.73,Default,,0,0,0,,Um
+Dialogue: 0,00:08:04.81,00:08:05.69,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:07.45,00:08:09.89,Default,,0,0,0,,Tibbie, Jonie, What’s the matter with you
+Dialogue: 0,00:08:10.29,00:08:11.33,Default,,0,0,0,,And we
+Dialogue: 0,00:08:15.49,00:08:17.53,Default,,0,0,0,,The monster we encountered ran up
+Dialogue: 0,00:08:17.89,00:08:18.97,Default,,0,0,0,,So are we
+Dialogue: 0,00:08:19.41,00:08:21.41,Default,,0,0,0,,It seems that there is more than one tower
+Dialogue: 0,00:08:22.41,00:08:23.53,Default,,0,0,0,,Let’s go up and take a look
+Dialogue: 0,00:08:23.97,00:08:25.29,Default,,0,0,0,,good
+Dialogue: 0,00:08:26.33,00:08:27.81,Default,,0,0,0,,Flying card Flying
+Dialogue: 0,00:08:30.29,00:08:30.85,Default,,0,0,0,,whee
+Dialogue: 0,00:08:32.41,00:08:33.65,Default,,0,0,0,,Let’s go quickly, too
+Dialogue: 0,00:08:34.01,00:08:35.33,Default,,0,0,0,,Very...shen
+Dialogue: 0,00:08:35.61,00:08:37.63,Default,,0,0,0,,Don’t be upset
+Dialogue: 0,00:08:37.65,00:08:40.53,Default,,0,0,0,,Slow...slow, so high
+Dialogue: 0,00:08:51.05,00:08:52.89,Default,,0,0,0,,Very high, very high...
+Dialogue: 0,00:08:53.01,00:08:53.81,Default,,0,0,0,,Look, everyone
+Dialogue: 0,00:08:55.41,00:08:56.13,Default,,0,0,0,,That’s...
+Dialogue: 0,00:08:58.33,00:09:00.21,Default,,0,0,0,,Let’s go together
+Dialogue: 0,00:09:23.81,00:09:26.65,Default,,0,0,0,,One to three, that’s too bad
+Dialogue: 0,00:09:27.25,00:09:29.09,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:09:37.85,00:09:39.29,Default,,0,0,0,,What a dazzling light...
+Dialogue: 0,00:09:40.01,00:09:41.77,Default,,0,0,0,,Don’t open your eyes
+Dialogue: 0,00:09:46.69,00:09:49.25,Default,,0,0,0,,You’ll be left with no way
+Dialogue: 0,00:09:50.57,00:09:51.55,Default,,0,0,0,,We’re here
+Dialogue: 0,00:09:51.57,00:09:54.53,Default,,0,0,0,,You owe me I want you to give me double
+Dialogue: 0,00:10:31.05,00:10:31.97,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:10:32.81,00:10:34.85,Default,,0,0,0,,Why take these cards
+Dialogue: 0,00:10:35.05,00:10:36.81,Default,,0,0,0,,Are you a doctorate?
+Dialogue: 0,00:10:37.65,00:10:38.65,Default,,0,0,0,,What’s up to you
+Dialogue: 0,00:10:40.29,00:10:41.29,Default,,0,0,0,,This sound...
+Dialogue: 0,00:10:42.09,00:10:43.05,Default,,0,0,0,,Hello, wait
+Dialogue: 0,00:10:49.57,00:10:50.49,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:53.65,00:10:56.53,Default,,0,0,0,,Don’t think I’m bullying
+Dialogue: 0,00:11:05.09,00:11:06.57,Default,,0,0,0,,Red... Red
+Dialogue: 0,00:11:06.93,00:11:08.21,Default,,0,0,0,,Wolnie...
+Dialogue: 0,00:11:11.73,00:11:12.69,Default,,0,0,0,,My cloak
+Dialogue: 0,00:11:16.45,00:11:17.85,Default,,0,0,0,,Unforgivable
+Dialogue: 0,00:12:02.17,00:12:04.17,Default,,0,0,0,,Too much...
+Dialogue: 0,00:12:05.01,00:12:05.89,Default,,0,0,0,,Red
+Dialogue: 0,00:12:06.69,00:12:08.25,Default,,0,0,0,,Finally found you
+Dialogue: 0,00:12:09.41,00:12:10.85,Default,,0,0,0,,Where have you been
+Dialogue: 0,00:12:11.01,00:12:13.37,Default,,0,0,0,,Wilie and I are looking for you
+Dialogue: 0,00:12:15.65,00:12:16.53,Default,,0,0,0,,Red
+Dialogue: 0,00:12:19.33,00:12:20.85,Default,,0,0,0,,Where are you going
+Dialogue: 0,00:12:21.45,00:12:23.17,Default,,0,0,0,,Red and so on
+Dialogue: 0,00:12:30.29,00:12:33.41,Default,,0,0,0,,Red...

@@ -1,0 +1,198 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.89,00:00:24.43,Default,,0,0,0,,How do we know this
+Dialogue: 0,00:00:24.45,00:00:26.29,Default,,0,0,0,,Is Wolnie here or not
+Dialogue: 0,00:00:26.89,00:00:27.53,Default,,0,0,0,,I’m here
+Dialogue: 0,00:00:29.09,00:00:33.07,Default,,0,0,0,,Wolnie...Little Huihui...
+Dialogue: 0,00:00:33.09,00:00:35.69,Default,,0,0,0,,Are you here or not...
+Dialogue: 0,00:00:36.77,00:00:39.09,Default,,0,0,0,,What arguing? No more arguing
+Dialogue: 0,00:00:41.21,00:00:43.21,Default,,0,0,0,,We have to find a way to get out here
+Dialogue: 0,00:00:43.45,00:00:46.05,Default,,0,0,0,,Help Wolffy look for Wolffy in the prison guard
+Dialogue: 0,00:00:46.57,00:00:47.61,Default,,0,0,0,,I’ll try
+Dialogue: 0,00:00:50.85,00:00:53.69,Default,,0,0,0,,Brother Soldier I want to find you if you have something to do
+Dialogue: 0,00:00:57.05,00:00:57.69,Default,,0,0,0,,Just now...
+Dialogue: 0,00:00:58.77,00:00:59.73,Default,,0,0,0,,Vague lens
+Dialogue: 0,00:01:00.45,00:01:01.29,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:01:01.77,00:01:04.09,Default,,0,0,0,,I actually wear an eye mask...
+Dialogue: 0,00:01:05.05,00:01:06.55,Default,,0,0,0,,I’ll try to use my mind
+Dialogue: 0,00:01:06.57,00:01:09.05,Default,,0,0,0,,Take the keys on the soldier
+Dialogue: 0,00:01:19.89,00:01:21.33,Default,,0,0,0,,What are these...
+Dialogue: 0,00:01:22.65,00:01:24.13,Default,,0,0,0,,Why don’t there be keys
+Dialogue: 0,00:01:25.53,00:01:26.53,Default,,0,0,0,,Leave it to us
+Dialogue: 0,00:01:31.93,00:01:33.45,Default,,0,0,0,,- Blade Blade
+- Flame Fist
+Dialogue: 0,00:01:35.17,00:01:37.89,Default,,0,0,0,,ah…
+Dialogue: 0,00:01:46.77,00:01:50.77,Default,,0,0,0,,Ah...I don’t know if they found the red one
+Dialogue: 0,00:01:51.45,00:01:54.29,Default,,0,0,0,,They don’t have to worry about it...
+Dialogue: 0,00:01:57.57,00:02:00.27,Default,,0,0,0,,Captured Princess Luna and the Goat
+Dialogue: 0,00:02:00.29,00:02:02.73,Default,,0,0,0,,Her Majesty the Queen will definitely show me
+Dialogue: 0,00:02:03.25,00:02:04.57,Default,,0,0,0,,Go to the palace quickly
+Dialogue: 0,00:02:06.85,00:02:09.89,Default,,0,0,0,,Wait, Wolffy hasn’t caught it yet
+Dialogue: 0,00:02:10.09,00:02:13.73,Default,,0,0,0,,Wolffy? He has no use, no need to worry about him
+Dialogue: 0,00:02:14.29,00:02:15.49,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,00:02:15.57,00:02:18.37,Default,,0,0,0,,Wolffy is the king of inventories in the green grassland
+Dialogue: 0,00:02:18.49,00:02:20.51,Default,,0,0,0,,Young, handsome, smart, capable
+Dialogue: 0,00:02:20.53,00:02:21.97,Default,,0,0,0,,Why is it useless?
+Dialogue: 0,00:02:22.37,00:02:24.97,Default,,0,0,0,,Huh? How do you understand this?
+Dialogue: 0,00:02:26.25,00:02:28.87,Default,,0,0,0,,I...I heard what other soldiers said
+Dialogue: 0,00:02:28.89,00:02:31.09,Default,,0,0,0,,I think we’ll go to the jail time
+Dialogue: 0,00:02:31.29,00:02:33.05,Default,,0,0,0,,Please ask the whereabouts of Wolffy
+Dialogue: 0,00:02:34.29,00:02:37.17,Default,,0,0,0,,No, I’ve asked the soldiers to look for them
+Dialogue: 0,00:02:37.81,00:02:39.85,Default,,0,0,0,,But you are wise and wise, military officer
+Dialogue: 0,00:02:40.17,00:02:42.09,Default,,0,0,0,,The lambs will definitely be afraid of you
+Dialogue: 0,00:02:42.29,00:02:45.41,Default,,0,0,0,,By then they will tell the whereabouts of Wolffy
+Dialogue: 0,00:02:45.85,00:02:47.77,Default,,0,0,0,,Wouldn’t this be twice the result with half the effort?
+Dialogue: 0,00:02:48.09,00:02:49.09,Default,,0,0,0,,It makes sense too
+Dialogue: 0,00:02:49.41,00:02:52.01,Default,,0,0,0,,The four words you just used are really good
+Dialogue: 0,00:02:52.29,00:02:53.77,Default,,0,0,0,,Is it twice the result with half the effort?
+Dialogue: 0,00:02:54.01,00:02:55.69,Default,,0,0,0,,Not wise and magical
+Dialogue: 0,00:02:56.49,00:02:57.17,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:03:11.97,00:03:15.57,Default,,0,0,0,,This monitor is the strongest monitor in the entire cat country
+Dialogue: 0,00:03:16.25,00:03:19.55,Default,,0,0,0,,- Whether it is a security facility or a safety facility within the prison
+- Red Red are you here
+Dialogue: 0,00:03:19.57,00:03:20.57,Default,,0,0,0,,All-in-one
+Dialogue: 0,00:03:21.45,00:03:25.61,Default,,0,0,0,,Only through the handprints of my military officer can I open the door
+- This is not red, not here...
+Dialogue: 0,00:03:26.25,00:03:28.33,Default,,0,0,0,,Do you know why this is
+Dialogue: 0,00:03:33.29,00:03:34.53,Default,,0,0,0,,Don’t know...
+Dialogue: 0,00:03:34.89,00:03:37.83,Default,,0,0,0,,It is because I am deeply trusted by the Queen
+Dialogue: 0,00:03:37.85,00:03:39.85,Default,,0,0,0,,That’s why this is the right
+Dialogue: 0,00:03:40.89,00:03:42.83,Default,,0,0,0,,When I became a military officer on the first day
+Dialogue: 0,00:03:42.85,00:03:46.41,Default,,0,0,0,,I am determined to bow and exhaust myself to Her Majesty the Queen...
+Dialogue: 0,00:03:47.49,00:03:49.05,Default,,0,0,0,,Where is the red red...
+Dialogue: 0,00:04:03.25,00:04:04.61,Default,,0,0,0,,Red...
+Dialogue: 0,00:04:05.93,00:04:06.65,Default,,0,0,0,,Who calls me
+Dialogue: 0,00:04:08.13,00:04:11.21,Default,,0,0,0,,Red is so good, I finally found you
+Dialogue: 0,00:04:12.69,00:04:13.33,Default,,0,0,0,,Who are you
+Dialogue: 0,00:04:13.97,00:04:16.89,Default,,0,0,0,,Red is me, Big Gray Wolf
+Dialogue: 0,00:04:18.81,00:04:21.05,Default,,0,0,0,,Wolffy? Are you here to deliver the meal?
+Dialogue: 0,00:04:25.85,00:04:26.97,Default,,0,0,0,,Don’t bother me
+Dialogue: 0,00:04:27.21,00:04:29.13,Default,,0,0,0,,Why is Wolffy you?
+Dialogue: 0,00:04:34.37,00:04:36.37,Default,,0,0,0,,There is no soldier either
+Dialogue: 0,00:04:37.29,00:04:38.57,Default,,0,0,0,,So what?
+Dialogue: 0,00:04:40.45,00:04:42.49,Default,,0,0,0,,Come on...
+Dialogue: 0,00:04:43.53,00:04:45.05,Default,,0,0,0,,Wolffy, is it you?
+Dialogue: 0,00:04:47.37,00:04:48.97,Default,,0,0,0,,We’re here
+Dialogue: 0,00:04:50.85,00:04:53.69,Default,,0,0,0,,You can wait a moment, I will open the door
+Dialogue: 0,00:05:00.89,00:05:01.75,Default,,0,0,0,,Don’t run!
+Dialogue: 0,00:05:01.77,00:05:02.73,Default,,0,0,0,,What sound
+Dialogue: 0,00:05:03.33,00:05:05.29,Default,,0,0,0,,Oops! I’m going to be discovered!
+Dialogue: 0,00:05:15.65,00:05:17.47,Default,,0,0,0,,When I looked for red before
+Dialogue: 0,00:05:17.49,00:05:19.05,Default,,0,0,0,,I found that it’s more broken here
+Dialogue: 0,00:05:19.17,00:05:20.37,Default,,0,0,0,,No one came
+Dialogue: 0,00:05:22.21,00:05:25.37,Default,,0,0,0,,Slowy tell me where the red is
+Dialogue: 0,00:05:25.49,00:05:26.57,Default,,0,0,0,,What red
+Dialogue: 0,00:05:27.81,00:05:29.37,Default,,0,0,0,,This is the crown of Wolnie
+Dialogue: 0,00:05:29.53,00:05:31.53,Default,,0,0,0,,I found it in the Soldiers Village
+Dialogue: 0,00:05:31.85,00:05:32.89,Default,,0,0,0,,Where is she
+Dialogue: 0,00:05:33.57,00:05:35.09,Default,,0,0,0,,I don’t tell you if I know
+Dialogue: 0,00:05:35.85,00:05:38.17,Default,,0,0,0,,If you don’t tell me again, I will eat you!
+Dialogue: 0,00:05:44.17,00:05:44.93,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:05:49.81,00:05:52.29,Default,,0,0,0,,Sorry, my job is sick
+Dialogue: 0,00:05:52.65,00:05:54.09,Default,,0,0,0,,I’m too anxious
+Dialogue: 0,00:05:54.65,00:05:56.13,Default,,0,0,0,,Let me ask
+Dialogue: 0,00:06:02.49,00:06:04.93,Default,,0,0,0,,I won’t be in your illusion lens
+Dialogue: 0,00:06:05.01,00:06:06.69,Default,,0,0,0,,Depend on what tricks do you have
+Dialogue: 0,00:06:07.05,00:06:08.83,Default,,0,0,0,,Let me open me and let me open me...
+Dialogue: 0,00:06:08.85,00:06:10.69,Default,,0,0,0,,You’re cold and tranquil, too big wolf
+Dialogue: 0,00:06:11.29,00:06:13.29,Default,,0,0,0,,Wolffy, you’re a little cold
+Dialogue: 0,00:06:13.41,00:06:16.05,Default,,0,0,0,,We know the village chief he won’t say
+Dialogue: 0,00:06:16.61,00:06:19.65,Default,,0,0,0,,Then what if I do? There is no room in the cell...
+Dialogue: 0,00:06:22.13,00:06:24.65,Default,,0,0,0,,Don’t give up, I’ll look for it with you
+Dialogue: 0,00:06:27.73,00:06:28.21,Default,,0,0,0,,good
+Dialogue: 0,00:06:29.13,00:06:31.73,Default,,0,0,0,,Others are responsible for guarding the village chief here
+Dialogue: 0,00:06:32.33,00:06:32.85,Default,,0,0,0,,good
+Dialogue: 0,00:06:39.89,00:06:41.85,Default,,0,0,0,,Have to find a way to leave
+Dialogue: 0,00:07:02.65,00:07:05.09,Default,,0,0,0,,Before you tell us about the crown
+Dialogue: 0,00:07:05.45,00:07:07.65,Default,,0,0,0,,We won’t let you go
+Dialogue: 0,00:07:08.25,00:07:11.31,Default,,0,0,0,,Who is the village chief? Come with me for this trick. Hum!
+Dialogue: 0,00:07:11.33,00:07:14.05,Default,,0,0,0,,Her Majesty the Queen can’t leave me in everything
+Dialogue: 0,00:07:15.01,00:07:17.45,Default,,0,0,0,,She will soon find out that I’ve lost it
+Dialogue: 0,00:07:17.61,00:07:19.81,Default,,0,0,0,,You can’t escape by then
+Dialogue: 0,00:07:23.29,00:07:24.65,Default,,0,0,0,,We’re looking for this
+Dialogue: 0,00:07:25.01,00:07:27.17,Default,,0,0,0,,Actually, I discovered the crown yesterday
+Dialogue: 0,00:07:27.29,00:07:29.97,Default,,0,0,0,,I’ve looked for most of the places here
+Dialogue: 0,00:07:30.13,00:07:31.25,Default,,0,0,0,,It’s different today
+Dialogue: 0,00:07:31.29,00:07:31.61,Default,,0,0,0,,ah?
+Dialogue: 0,00:07:32.53,00:07:34.25,Default,,0,0,0,,I have two eyes today
+Dialogue: 0,00:07:35.73,00:07:36.29,Default,,0,0,0,,Come on
+Dialogue: 0,00:07:53.57,00:07:55.97,Default,,0,0,0,,That’s really a shame... let’s continue to search
+Dialogue: 0,00:07:56.29,00:07:56.77,Default,,0,0,0,,Um
+Dialogue: 0,00:08:22.09,00:08:23.01,Default,,0,0,0,,It’s dark...
+Dialogue: 0,00:08:23.29,00:08:25.05,Default,,0,0,0,,I’ll find you tomorrow
+Dialogue: 0,00:08:25.65,00:08:26.77,Default,,0,0,0,,thank you
+Dialogue: 0,00:08:36.21,00:08:37.41,Default,,0,0,0,,Impossible
+Dialogue: 0,00:08:37.65,00:08:39.21,Default,,0,0,0,,I haven’t appeared for so long
+Dialogue: 0,00:08:39.29,00:08:41.69,Default,,0,0,0,,Why doesn’t the Queen send someone to me?
+Dialogue: 0,00:08:41.85,00:08:43.89,Default,,0,0,0,,Big Wolf, you’re back
+Dialogue: 0,00:08:44.97,00:08:48.05,Default,,0,0,0,,How did you find Wolnie?
+Dialogue: 0,00:08:51.45,00:08:52.37,Default,,0,0,0,,no
+Dialogue: 0,00:08:53.05,00:08:55.57,Default,,0,0,0,,I still have to think of a way out of the Slowy
+Dialogue: 0,00:08:56.57,00:08:59.09,Default,,0,0,0,,I’ll let you let me go quickly
+Dialogue: 0,00:08:59.33,00:09:01.37,Default,,0,0,0,,Otherwise, when Her Majesty the Queen arrives
+Dialogue: 0,00:09:01.45,00:09:03.45,Default,,0,0,0,,I can’t talk about your love
+Dialogue: 0,00:09:04.29,00:09:04.97,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:09:05.69,00:09:07.45,Default,,0,0,0,,Wolffy, you’re a little cold
+Dialogue: 0,00:09:07.73,00:09:10.05,Default,,0,0,0,,What do you want to do? Don’t come over...
+Dialogue: 0,00:09:13.05,00:09:14.57,Default,,0,0,0,,Help...
+Dialogue: 0,00:09:16.25,00:09:17.65,Default,,0,0,0,,Oh…
+Dialogue: 0,00:09:20.33,00:09:22.57,Default,,0,0,0,,Master, Is this force suitable?
+Dialogue: 0,00:09:23.25,00:09:25.61,Default,,0,0,0,,Ah, increase the amount of force...
+Dialogue: 0,00:09:26.33,00:09:28.01,Default,,0,0,0,,Where else is it uncomfortable
+Dialogue: 0,00:09:28.65,00:09:31.77,Default,,0,0,0,,My old waist and my old cold legs...
+Dialogue: 0,00:09:32.29,00:09:33.01,Default,,0,0,0,,oops!
+Dialogue: 0,00:09:38.09,00:09:39.93,Default,,0,0,0,,Military officer, I’m here to save you
+Dialogue: 0,00:09:40.57,00:09:43.25,Default,,0,0,0,,Queen tomorrow, you finally come
+Dialogue: 0,00:09:43.37,00:09:46.77,Default,,0,0,0,,I knew you would come to save me...
+Dialogue: 0,00:09:46.85,00:09:49.05,Default,,0,0,0,,Military officer Have you seen this crown
+Dialogue: 0,00:09:49.69,00:09:51.73,Default,,0,0,0,,What...what? I’ll take a look...
+Dialogue: 0,00:09:52.17,00:09:53.37,Default,,0,0,0,,Oh, see
+Dialogue: 0,00:09:53.65,00:09:56.61,Default,,0,0,0,,I remember falling from the miracle
+Dialogue: 0,00:09:57.13,00:09:59.29,Default,,0,0,0,,Why is it in the Miracle
+Dialogue: 0,00:09:59.65,00:10:00.77,Default,,0,0,0,,Who knows
+Dialogue: 0,00:10:01.57,00:10:03.97,Default,,0,0,0,,Maybe something left?
+Dialogue: 0,00:10:04.17,00:10:07.17,Default,,0,0,0,,He always eats something while I’m not paying attention
+Dialogue: 0,00:10:07.45,00:10:09.85,Default,,0,0,0,,Yes, what are you asking about this?
+Dialogue: 0,00:10:12.81,00:10:14.65,Default,,0,0,0,,You...what do you say...
+Dialogue: 0,00:10:16.25,00:10:19.57,Default,,0,0,0,,Red... was eaten by a miracle?
+Dialogue: 0,00:10:20.61,00:10:21.89,Default,,0,0,0,,Wolffy...
+Dialogue: 0,00:10:22.41,00:10:24.42,Default,,0,0,0,,Village Chief, isn’t this true?
+Dialogue: 0,00:10:24.45,00:10:26.13,Default,,0,0,0,,It must be fake, right?
+Dialogue: 0,00:10:26.97,00:10:29.53,Default,,0,0,0,,This is what you need to know
+Dialogue: 0,00:10:34.21,00:10:38.77,Default,,0,0,0,,No...this is not true. There will be no problem with red
+Dialogue: 0,00:10:39.37,00:10:41.37,Default,,0,0,0,,Wolffy Go and be a family
+Dialogue: 0,00:10:41.65,00:10:42.73,Default,,0,0,0,,Yes Yes Yes Yes...
+Dialogue: 0,00:10:46.97,00:10:48.75,Default,,0,0,0,,Dad, I’m flying...
+Dialogue: 0,00:10:48.77,00:10:50.65,Default,,0,0,0,,Wilie is the most harmful
+Dialogue: 0,00:10:56.93,00:10:59.09,Default,,0,0,0,,So dirty, go take a shower
+Dialogue: 0,00:11:06.29,00:11:06.85,Default,,0,0,0,,you…
+Dialogue: 0,00:11:08.45,00:11:10.41,Default,,0,0,0,,What happened to the red
+Dialogue: 0,00:11:14.37,00:11:17.21,Default,,0,0,0,,Give me the red...
+Dialogue: 0,00:11:27.37,00:11:29.49,Default,,0,0,0,,Don’t think this is fine
+Dialogue: 0,00:11:30.01,00:11:31.13,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:11:41.13,00:11:42.37,Default,,0,0,0,,I’m back...
+Dialogue: 0,00:11:42.97,00:11:44.61,Default,,0,0,0,,Why is it hurt again
+Dialogue: 0,00:11:45.29,00:11:46.45,Default,,0,0,0,,Come here quickly
+Dialogue: 0,00:11:50.09,00:11:52.65,Default,,0,0,0,,Sorry, I won’t meet next time
+Dialogue: 0,00:11:53.05,00:11:56.05,Default,,0,0,0,,Next time, you won’t go home
+Dialogue: 0,00:11:56.45,00:11:57.61,Default,,0,0,0,,A mother who is fine
+Dialogue: 0,00:11:58.25,00:11:59.29,Default,,0,0,0,,Dad was injured
+Dialogue: 0,00:11:59.57,00:12:01.81,Default,,0,0,0,,I will use little magic to help my father heal
+Dialogue: 0,00:12:07.77,00:12:10.73,Default,,0,0,0,,It really doesn’t hurt anymore Wilie...
+Dialogue: 0,00:12:11.97,00:12:15.29,Default,,0,0,0,,I won’t fall until I’m found the red
+Dialogue: 0,00:12:17.69,00:12:21.37,Default,,0,0,0,,Give them... to me...
+Dialogue: 0,00:12:31.65,00:12:33.85,Default,,0,0,0,,Red...

@@ -1,0 +1,196 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.93,00:00:20.33,Default,,0,0,0,,The 56th experiment...
+Dialogue: 0,00:00:21.05,00:00:22.07,Default,,0,0,0,,Hello Oli
+Dialogue: 0,00:00:22.09,00:00:23.89,Default,,0,0,0,,Can you hear me say
+Dialogue: 0,00:00:24.61,00:00:27.43,Default,,0,0,0,,Unusual function, successful startup
+Dialogue: 0,00:00:27.45,00:00:28.31,Default,,0,0,0,,Hello
+Dialogue: 0,00:00:28.33,00:00:29.83,Default,,0,0,0,,…Is it successful?
+Dialogue: 0,00:00:29.85,00:00:31.59,Default,,0,0,0,,Yeah
+Dialogue: 0,00:00:31.61,00:00:35.63,Default,,0,0,0,,Successful, success hahahahahaha
+Dialogue: 0,00:00:35.65,00:00:37.59,Default,,0,0,0,,My name is Dr. Fu
+Dialogue: 0,00:00:37.61,00:00:39.89,Default,,0,0,0,,A scientist living in the Science and Technology City
+Dialogue: 0,00:00:41.41,00:00:42.97,Default,,0,0,0,,DiDi Dr. Fu
+Dialogue: 0,00:00:47.17,00:00:50.37,Default,,0,0,0,,You are the smart robot I have developed by myself.
+Dialogue: 0,00:00:52.21,00:00:54.17,Default,,0,0,0,,Beep I’m Oli
+Dialogue: 0,00:00:56.37,00:00:59.37,Default,,0,0,0,,That’s right. From now on, we’ll be a family
+Dialogue: 0,00:00:59.61,00:01:00.61,Default,,0,0,0,,Family
+Dialogue: 0,00:01:04.65,00:01:07.31,Default,,0,0,0,,Oli I’ll take you there
+Dialogue: 0,00:01:07.33,00:01:19.35,Default,,0,0,0,,How about it? How about it? How about it? How about it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it
+Dialogue: 0,00:01:19.37,00:01:22.45,Default,,0,0,0,,Doctor How is his eyes dripping
+Dialogue: 0,00:01:22.73,00:01:23.89,Default,,0,0,0,,This is called crying
+Dialogue: 0,00:01:24.25,00:01:27.53,Default,,0,0,0,,When people feel sad or moved
+Dialogue: 0,00:01:27.65,00:01:30.41,Default,,0,0,0,,The eyes will flow down the water like this
+Dialogue: 0,00:01:32.17,00:01:34.29,Default,,0,0,0,,Crying... shui...
+Dialogue: 0,00:01:35.41,00:01:38.83,Default,,0,0,0,,Children, duck and crab want to eat cake
+Dialogue: 0,00:01:38.85,00:01:42.61,Default,,0,0,0,,They decided to win the game, who would win, guess who won
+Dialogue: 0,00:01:42.97,00:01:46.57,Default,,0,0,0,,Well...I don’t know
+Dialogue: 0,00:01:47.65,00:01:49.21,Default,,0,0,0,,The answer is crab
+Dialogue: 0,00:01:49.49,00:01:50.77,Default,,0,0,0,,Why
+Dialogue: 0,00:01:51.25,00:01:53.35,Default,,0,0,0,,Because crabs can only produce scissors
+Dialogue: 0,00:01:53.37,00:01:55.29,Default,,0,0,0,,The duck can only produce cloth
+Dialogue: 0,00:01:56.41,00:01:58.91,Default,,0,0,0,,Oh hahahahahahaha...
+Dialogue: 0,00:01:58.93,00:02:02.05,Default,,0,0,0,,Haha See you again
+Dialogue: 0,00:02:02.13,00:02:04.45,Default,,0,0,0,,Doctor, why didn’t he cry
+Dialogue: 0,00:02:05.13,00:02:07.57,Default,,0,0,0,,Because jokes make people happy
+Dialogue: 0,00:02:08.29,00:02:10.81,Default,,0,0,0,,Happiness will make people smile
+Dialogue: 0,00:02:10.97,00:02:13.97,Default,,0,0,0,,Then I will give you a joke every day
+Dialogue: 0,00:02:14.25,00:02:15.37,Default,,0,0,0,,How about Oli
+Dialogue: 0,00:02:15.53,00:02:17.81,Default,,0,0,0,,Have you felt the wonder of nature?
+Dialogue: 0,00:02:18.41,00:02:20.81,Default,,0,0,0,,Detected many life reactions
+Dialogue: 0,00:02:21.65,00:02:23.09,Default,,0,0,0,,Remove dirt
+Dialogue: 0,00:02:23.41,00:02:24.97,Default,,0,0,0,,Wait...wait for a while
+Dialogue: 0,00:02:26.29,00:02:28.71,Default,,0,0,0,,Oli, every life is precious
+Dialogue: 0,00:02:28.73,00:02:30.37,Default,,0,0,0,,Don’t harm it
+Dialogue: 0,00:02:31.21,00:02:33.49,Default,,0,0,0,,They are all trying to survive
+Dialogue: 0,00:02:34.33,00:02:36.93,Default,,0,0,0,,Even if they are small and fragile
+Dialogue: 0,00:02:37.33,00:02:39.29,Default,,0,0,0,,Have the right to survive
+Dialogue: 0,00:02:42.33,00:02:44.49,Default,,0,0,0,,The view is great Oli
+Dialogue: 0,00:02:44.89,00:02:46.89,Default,,0,0,0,,On the stars in this sky
+Dialogue: 0,00:02:47.05,00:02:50.13,Default,,0,0,0,,Su contains many unknown materials and energy
+Dialogue: 0,00:02:50.65,00:02:53.09,Default,,0,0,0,,I really want to study them
+Dialogue: 0,00:02:57.89,00:03:00.49,Default,,0,0,0,,Oli I’m going on a business trip
+Dialogue: 0,00:03:00.97,00:03:03.57,Default,,0,0,0,,Oli must wait for me to come back
+Dialogue: 0,00:03:04.65,00:03:05.81,Default,,0,0,0,,knew
+Dialogue: 0,00:03:14.77,00:03:16.19,Default,,0,0,0,,Finally came back
+Dialogue: 0,00:03:16.21,00:03:20.03,Default,,0,0,0,,Go home and see Oli... Yes
+Dialogue: 0,00:03:20.05,00:03:21.15,Default,,0,0,0,,What is this...
+Dialogue: 0,00:03:21.17,00:03:23.13,Default,,0,0,0,,Welcome back Doctor
+Dialogue: 0,00:03:24.45,00:03:25.31,Default,,0,0,0,,O’er...O’er
+Dialogue: 0,00:03:25.33,00:03:27.85,Default,,0,0,0,,Have you not opened here?
+Dialogue: 0,00:03:29.45,00:03:32.19,Default,,0,0,0,,Oh, silly kid...yes
+Dialogue: 0,00:03:32.21,00:03:35.89,Default,,0,0,0,,Haha Oli Your gift
+Dialogue: 0,00:03:38.41,00:03:40.85,Default,,0,0,0,,Oli I’ll teach you how to make oil noodles
+Dialogue: 0,00:03:41.73,00:03:43.21,Default,,0,0,0,,Pay attention to maintaining balance
+Dialogue: 0,00:03:44.81,00:03:46.33,Default,,0,0,0,,Try new parts
+Dialogue: 0,00:03:50.93,00:03:52.53,Default,,0,0,0,,Oli is about to come out
+Dialogue: 0,00:03:53.73,00:03:54.65,Default,,0,0,0,,knew
+Dialogue: 0,00:04:10.89,00:04:12.71,Default,,0,0,0,,Oh...
+Dialogue: 0,00:04:12.73,00:04:14.41,Default,,0,0,0,,Just pass this device
+Dialogue: 0,00:04:14.65,00:04:17.21,Default,,0,0,0,,It can mechanicalize organic life bodies
+Dialogue: 0,00:04:18.21,00:04:21.65,Default,,0,0,0,,It actually turned life into cold machinery...
+Dialogue: 0,00:04:22.17,00:04:23.09,Default,,0,0,0,,Please ask the doctor
+Dialogue: 0,00:04:25.37,00:04:26.75,Default,,0,0,0,,Mechanize life
+Dialogue: 0,00:04:26.77,00:04:28.77,Default,,0,0,0,,What does this behavior mean?
+Dialogue: 0,00:04:30.17,00:04:31.87,Default,,0,0,0,,Life is too fragile
+Dialogue: 0,00:04:31.89,00:04:33.53,Default,,0,0,0,,But as long as it is mechanical
+Dialogue: 0,00:04:34.29,00:04:38.93,Default,,0,0,0,,It will be able to eternally eliminate disease and death
+Dialogue: 0,00:04:39.25,00:04:41.23,Default,,0,0,0,,And mechanization can also make us suck
+Dialogue: 0,00:04:41.25,00:04:43.57,Default,,0,0,0,,Emotion is something that cannot be mastered
+Dialogue: 0,00:04:44.97,00:04:47.93,Default,,0,0,0,,Let us use rationality to make the best choice
+Dialogue: 0,00:04:48.13,00:04:50.49,Default,,0,0,0,,Complete further improvement
+Dialogue: 0,00:04:53.85,00:04:55.61,Default,,0,0,0,,Thank you for your speech
+Dialogue: 0,00:04:55.73,00:04:57.93,Default,,0,0,0,,Next, please...
+Dialogue: 0,00:05:01.01,00:05:02.82,Default,,0,0,0,,With the advancement of technology
+Dialogue: 0,00:05:02.85,00:05:04.89,Default,,0,0,0,,Our Science and Technology City is growing rapidly
+Dialogue: 0,00:05:05.17,00:05:07.41,Default,,0,0,0,,It greatly improved our lives
+Dialogue: 0,00:05:07.69,00:05:11.41,Default,,0,0,0,,But... I’ve encountered a big bottle now
+Dialogue: 0,00:05:12.33,00:05:15.49,Default,,0,0,0,,The energy available on our planet is limited
+Dialogue: 0,00:05:15.69,00:05:18.69,Default,,0,0,0,,Now we need to find new energy
+Dialogue: 0,00:05:19.53,00:05:22.75,Default,,0,0,0,,From this I imagined the method of science
+Dialogue: 0,00:05:22.77,00:05:26.43,Default,,0,0,0,,Induce energy-rich aurora to cities
+Dialogue: 0,00:05:26.45,00:05:29.21,Default,,0,0,0,,This way, you can use the energy of stone
+Dialogue: 0,00:05:30.37,00:05:33.85,Default,,0,0,0,,Please ask whether this solution has been verified through
+Dialogue: 0,00:05:35.17,00:05:38.11,Default,,0,0,0,,The referenced device is almost completed
+Dialogue: 0,00:05:38.13,00:05:40.21,Default,,0,0,0,,We will soon enter the experiment
+Dialogue: 0,00:05:45.89,00:05:47.33,Default,,0,0,0,,Very wonderful speech
+Dialogue: 0,00:05:47.45,00:05:48.77,Default,,0,0,0,,I wish you a successful experience
+Dialogue: 0,00:05:49.17,00:05:50.13,Default,,0,0,0,,Thank you
+Dialogue: 0,00:05:50.69,00:05:52.41,Default,,0,0,0,,Your research is interesting
+Dialogue: 0,00:05:55.33,00:05:56.33,Default,,0,0,0,,Thank you
+Dialogue: 0,00:05:58.69,00:06:00.65,Default,,0,0,0,,Is this robot your assistant?
+Dialogue: 0,00:06:01.37,00:06:04.53,Default,,0,0,0,,Maybe you can understand me Dr. Fu
+Dialogue: 0,00:06:05.57,00:06:07.23,Default,,0,0,0,,I hope to use your research
+Dialogue: 0,00:06:07.25,00:06:09.89,Default,,0,0,0,,Get energy that mechanizes the entire planet
+Dialogue: 0,00:06:10.57,00:06:11.43,Default,,0,0,0,,This goes together
+Dialogue: 0,00:06:11.45,00:06:15.05,Default,,0,0,0,,All living things on the planet will receive eternal life
+Dialogue: 0,00:06:15.81,00:06:18.57,Default,,0,0,0,,Although life is fleeting...
+Dialogue: 0,00:06:19.09,00:06:21.61,Default,,0,0,0,,But because it will disappear
+Dialogue: 0,00:06:21.77,00:06:23.89,Default,,0,0,0,,Only beautiful and affordable
+Dialogue: 0,00:06:24.73,00:06:26.55,Default,,0,0,0,,Your research is pretty good
+Dialogue: 0,00:06:26.57,00:06:29.29,Default,,0,0,0,,But it should be used in more valuable places
+Dialogue: 0,00:06:29.53,00:06:31.27,Default,,0,0,0,,In fact, it is constructed
+Dialogue: 0,00:06:31.29,00:06:34.33,Default,,0,0,0,,Life is just a machine made of flesh and blood
+Dialogue: 0,00:06:35.05,00:06:37.51,Default,,0,0,0,,Leave unnecessary emotional tragedies
+Dialogue: 0,00:06:37.53,00:06:40.59,Default,,0,0,0,,Make the most correct choice with rationality
+Dialogue: 0,00:06:40.61,00:06:41.93,Default,,0,0,0,,Isn’t it better?
+Dialogue: 0,00:06:45.89,00:06:48.17,Default,,0,0,0,,If you are interested, you can come to me anytime
+Dialogue: 0,00:06:57.01,00:06:58.91,Default,,0,0,0,,Dr. Fu’s experiment failed
+Dialogue: 0,00:06:58.93,00:07:01.19,Default,,0,0,0,,The lime deviates from the pre-determined spiral
+Dialogue: 0,00:07:01.21,00:07:03.59,Default,,0,0,0,,It hit the park in the city center
+Dialogue: 0,00:07:03.61,00:07:05.19,Default,,0,0,0,,The park is hit by a huge impact
+Dialogue: 0,00:07:05.21,00:07:06.93,Default,,0,0,0,,Have become completely different
+Dialogue: 0,00:07:09.53,00:07:11.55,Default,,0,0,0,,Countering the crisis experience
+Dialogue: 0,00:07:11.57,00:07:13.85,Default,,0,0,0,,And I’m safe in my home
+Dialogue: 0,00:07:14.01,00:07:24.07,Default,,0,0,0,,- Anti-crisis experiments, and I’m safe in my home
+- Anti-crisis experiments, and I’m safe in my home
+Dialogue: 0,00:07:24.09,00:07:26.93,Default,,0,0,0,,How can you do such a dangerous experience in the city
+Dialogue: 0,00:07:27.25,00:07:28.41,Default,,0,0,0,,That’s it
+Dialogue: 0,00:07:29.41,00:07:30.37,Default,,0,0,0,,sorry
+Dialogue: 0,00:07:30.53,00:07:33.33,Default,,0,0,0,,I’ll be responsible for this accident
+Dialogue: 0,00:07:34.21,00:07:36.17,Default,,0,0,0,,Responsible for what you want to be
+Dialogue: 0,00:07:36.77,00:07:39.31,Default,,0,0,0,,Fortunately, I just hit the open space this time
+Dialogue: 0,00:07:39.33,00:07:42.37,Default,,0,0,0,,Who knows what the consequences will be if it hits the crowd
+Dialogue: 0,00:07:42.61,00:07:44.15,Default,,0,0,0,,- Can you afford it?
+- oops
+Dialogue: 0,00:07:44.17,00:07:47.25,Default,,0,0,0,,Dr. Fu, you’re fine
+Dialogue: 0,00:07:48.33,00:07:51.13,Default,,0,0,0,,Hum, you crazy scientist, leave here
+Dialogue: 0,00:07:52.57,00:07:54.73,Default,,0,0,0,,Doctor Violent
+Dialogue: 0,00:07:55.37,00:07:57.89,Default,,0,0,0,,Demonstration clearance immediately
+Dialogue: 0,00:08:00.05,00:08:04.85,Default,,0,0,0,,Oli No...No harm to them
+Dialogue: 0,00:08:05.89,00:08:06.73,Default,,0,0,0,,But…
+Dialogue: 0,00:08:09.85,00:08:15.91,Default,,0,0,0,,Oli You are a listening child, you must be a kind robot
+Dialogue: 0,00:08:15.93,00:08:16.45,Default,,0,0,0,,Um
+Dialogue: 0,00:08:25.93,00:08:29.37,Default,,0,0,0,,Sorry, I can’t take you with me this experiment
+Dialogue: 0,00:08:29.69,00:08:31.89,Default,,0,0,0,,Dr. Fu Your luggage
+Dialogue: 0,00:08:32.57,00:08:36.41,Default,,0,0,0,,Thank you Oli, I’ll leave first
+Dialogue: 0,00:08:46.57,00:08:47.73,Default,,0,0,0,,Dr. Fu…
+Dialogue: 0,00:08:48.89,00:08:49.93,Default,,0,0,0,,What’s up
+Dialogue: 0,00:08:57.33,00:08:59.21,Default,,0,0,0,,Pay attention to safety on the road
+Dialogue: 0,00:09:02.25,00:09:06.35,Default,,0,0,0,,Yes, although this experiment will be far away from the Science and Technology City
+Dialogue: 0,00:09:06.37,00:09:08.09,Default,,0,0,0,,But you don’t have to worry about it.
+Dialogue: 0,00:09:08.81,00:09:10.77,Default,,0,0,0,,I’ll be back soon
+Dialogue: 0,00:09:10.85,00:09:13.17,Default,,0,0,0,,You will be presented with a gift at that time
+Dialogue: 0,00:09:18.61,00:09:21.29,Default,,0,0,0,,Oli will wait for the doctor to come back
+Dialogue: 0,00:10:33.09,00:10:36.13,Default,,0,0,0,,The system... is severely damaged
+Dialogue: 0,00:10:36.21,00:10:38.49,Default,,0,0,0,,It’s about to... stop running
+Dialogue: 0,00:10:38.89,00:10:40.41,Default,,0,0,0,,Keep going like this
+Dialogue: 0,00:10:40.73,00:10:44.49,Default,,0,0,0,,I... can’t wait...Dr. Fu comes back...
+Dialogue: 0,00:10:51.09,00:10:53.37,Default,,0,0,0,,You want me to help you with repair
+Dialogue: 0,00:10:54.17,00:10:56.33,Default,,0,0,0,,With my skills, I can do it
+Dialogue: 0,00:10:57.21,00:10:59.73,Default,,0,0,0,,Since that’s the case... I’ll ask you...
+Dialogue: 0,00:11:00.01,00:11:01.57,Default,,0,0,0,,But I have a condition
+Dialogue: 0,00:11:02.05,00:11:03.09,Default,,0,0,0,,condition
+Dialogue: 0,00:11:04.25,00:11:06.53,Default,,0,0,0,,You have to help me with your work
+Dialogue: 0,00:11:06.89,00:11:10.61,Default,,0,0,0,,But I... have to wait for Dr. Fu...
+Dialogue: 0,00:11:11.21,00:11:12.73,Default,,0,0,0,,You think it through yourself
+Dialogue: 0,00:11:12.81,00:11:14.29,Default,,0,0,0,,This slowly decays
+Dialogue: 0,00:11:14.61,00:11:16.65,Default,,0,0,0,,You can’t wait for Dr. Fu to come back
+Dialogue: 0,00:11:17.01,00:11:18.53,Default,,0,0,0,,Dr. Fu…
+Dialogue: 0,00:11:20.17,00:11:26.85,Default,,0,0,0,,Oli…Oli…Oli…Oli…
+Dialogue: 0,00:11:31.85,00:11:34.13,Default,,0,0,0,,OK I’ll promise you...
+Dialogue: 0,00:11:36.97,00:11:42.13,Default,,0,0,0,,This time... I won’t separate it with Dr. Fu again...
+Dialogue: 0,00:11:53.49,00:11:54.71,Default,,0,0,0,,Oli…
+Dialogue: 0,00:11:54.73,00:11:57.29,Default,,0,0,0,,You may not be able to attack Dr. Fu
+Dialogue: 0,00:12:02.97,00:12:03.73,Default,,0,0,0,,ah
+Dialogue: 0,00:12:04.17,00:12:04.75,Default,,0,0,0,,Oli
+Dialogue: 0,00:12:04.77,00:12:05.93,Default,,0,0,0,,A little cold
+Dialogue: 0,00:12:08.65,00:12:10.73,Default,,0,0,0,,This doctor is just a fake
+Dialogue: 0,00:12:12.49,00:12:14.77,Default,,0,0,0,,He is the monster that the card depends on
+Dialogue: 0,00:12:15.05,00:12:17.53,Default,,0,0,0,,The real Dr. Fu is no longer here
+Dialogue: 0,00:12:21.29,00:12:27.33,Default,,0,0,0,,You’re nonsense... You’re nonsense... You’re nonsense... You’re nonsense
+Dialogue: 0,00:12:29.73,00:12:34.09,Default,,0,0,0,,I won’t... let you hurt Dr. Fu

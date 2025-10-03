@@ -1,0 +1,220 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.65,00:00:20.65,Default,,0,0,0,,Who are you…
+Dialogue: 0,00:00:21.97,00:00:23.65,Default,,0,0,0,,Queen, come and see
+Dialogue: 0,00:00:23.81,00:00:26.85,Default,,0,0,0,,A wolf and three goat fell from it
+Dialogue: 0,00:00:27.77,00:00:29.29,Default,,0,0,0,,Really
+Dialogue: 0,00:00:30.37,00:00:32.37,Default,,0,0,0,,I can’t tell you are...
+Dialogue: 0,00:00:32.89,00:00:35.21,Default,,0,0,0,,The king and queen of the strange cat country?
+Dialogue: 0,00:00:36.13,00:00:37.05,Default,,0,0,0,,what?
+Dialogue: 0,00:00:37.41,00:00:39.27,Default,,0,0,0,,Haha It looks like my reputation
+Dialogue: 0,00:00:39.29,00:00:41.33,Default,,0,0,0,,Has been transmitted to another ethnic group
+Dialogue: 0,00:00:41.69,00:00:42.41,Default,,0,0,0,,Well…
+Dialogue: 0,00:00:43.01,00:00:45.13,Default,,0,0,0,,We heard you were caught
+Dialogue: 0,00:00:48.53,00:00:52.09,Default,,0,0,0,,That’s right I’m the king of the cat country
+Dialogue: 0,00:00:52.97,00:00:54.89,Default,,0,0,0,,This is my queen
+Dialogue: 0,00:00:56.25,00:00:58.77,Default,,0,0,0,,So you are Luna’s parents?
+Dialogue: 0,00:00:59.37,00:01:01.57,Default,,0,0,0,,what? Do you know my daughter?
+Dialogue: 0,00:01:02.05,00:01:06.13,Default,,0,0,0,,Well, we came to save you with Princess Luna
+Dialogue: 0,00:01:06.73,00:01:10.57,Default,,0,0,0,,Now the whole cat country is going to be a mess tomorrow
+Dialogue: 0,00:01:10.97,00:01:15.05,Default,,0,0,0,,Alas... In fact, tomorrow will be affected by dark energy
+Dialogue: 0,00:01:15.37,00:01:16.69,Default,,0,0,0,,You are the king
+Dialogue: 0,00:01:16.77,00:01:18.61,Default,,0,0,0,,Can’t you stop it?
+Dialogue: 0,00:01:32.69,00:01:35.85,Default,,0,0,0,,At that time, I sealed the dark energy
+Dialogue: 0,00:01:36.17,00:01:38.61,Default,,0,0,0,,Almost all the Magic power 
+Dialogue: 0,00:01:38.81,00:01:40.73,Default,,0,0,0,,Our strength is weak now
+Dialogue: 0,00:01:41.05,00:01:42.77,Default,,0,0,0,,Even I can’t escape here
+Dialogue: 0,00:01:43.85,00:01:45.25,Default,,0,0,0,,What’s more, it’s...
+Dialogue: 0,00:01:45.85,00:01:49.13,Default,,0,0,0,,In this case, let us take you out
+Dialogue: 0,00:01:51.65,00:01:52.89,Default,,0,0,0,,what…
+Dialogue: 0,00:01:53.25,00:01:54.97,Default,,0,0,0,,Wearing...has been worn?
+Dialogue: 0,00:01:56.65,00:01:58.01,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:01:58.57,00:02:02.29,Default,,0,0,0,,Here is a boundary forbidden us
+Dialogue: 0,00:02:03.05,00:02:04.93,Default,,0,0,0,,You can’t touch us
+Dialogue: 0,00:02:05.25,00:02:06.05,Default,,0,0,0,,End of boundaries?
+Dialogue: 0,00:02:10.05,00:02:12.89,Default,,0,0,0,,We tried it with Qili, and it may be possible to crack it
+Dialogue: 0,00:02:13.69,00:02:14.33,Default,,0,0,0,,good
+Dialogue: 0,00:02:15.53,00:02:16.37,Default,,0,0,0,,Open the door quickly
+Dialogue: 0,00:02:18.41,00:02:20.57,Default,,0,0,0,,This will not last long
+Dialogue: 0,00:02:20.97,00:02:22.49,Default,,0,0,0,,You’re here soon
+Dialogue: 0,00:02:24.33,00:02:25.17,Default,,0,0,0,,This is...
+Dialogue: 0,00:02:26.13,00:02:28.37,Default,,0,0,0,,This secret passage leads to my sister’s room
+Dialogue: 0,00:02:29.57,00:02:31.33,Default,,0,0,0,,We used to be unable to sleep in the middle of the night
+Dialogue: 0,00:02:31.37,00:02:34.25,Default,,0,0,0,,Just sneaked over this secret passage to find the other party
+Dialogue: 0,00:02:36.17,00:02:36.97,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:02:39.73,00:02:41.17,Default,,0,0,0,,Fast Goat
+Dialogue: 0,00:02:42.85,00:02:43.41,Default,,0,0,0,,Um
+Dialogue: 0,00:02:48.09,00:02:50.29,Default,,0,0,0,,They chase me there!
+Dialogue: 0,00:02:50.77,00:02:51.57,Default,,0,0,0,,yes
+Dialogue: 0,00:02:52.17,00:02:53.61,Default,,0,0,0,,Be careful
+Dialogue: 0,00:02:57.05,00:02:59.29,Default,,0,0,0,,Ah Help...
+Dialogue: 0,00:03:01.65,00:03:02.49,Default,,0,0,0,,stop
+Dialogue: 0,00:03:05.69,00:03:07.57,Default,,0,0,0,,oops…
+Dialogue: 0,00:03:10.05,00:03:12.33,Default,,0,0,0,,My Lightning Strike cannot be broken
+Dialogue: 0,00:03:12.77,00:03:16.25,Default,,0,0,0,,Look at my...Flame Fist
+Dialogue: 0,00:03:17.17,00:03:18.33,Default,,0,0,0,,Success
+Dialogue: 0,00:03:20.45,00:03:21.85,Default,,0,0,0,,I can’t break it, either
+Dialogue: 0,00:03:24.65,00:03:27.45,Default,,0,0,0,,I didn’t expect that they were powerful
+Dialogue: 0,00:03:27.97,00:03:30.89,Default,,0,0,0,,It seems that Luna handed over the magic stone to them
+Dialogue: 0,00:03:31.21,00:03:35.29,Default,,0,0,0,,Alas, I still can’t break the boundary with Qili
+Dialogue: 0,00:03:35.37,00:03:37.21,Default,,0,0,0,,Is it really impossible to do it?
+Dialogue: 0,00:03:38.45,00:03:42.61,Default,,0,0,0,,You...It’s too early to give up now
+Dialogue: 0,00:03:43.33,00:03:44.25,Default,,0,0,0,,It’s right to say
+Dialogue: 0,00:03:45.37,00:03:45.85,Default,,0,0,0,,Um
+Dialogue: 0,00:03:46.77,00:03:48.29,Default,,0,0,0,,oops…
+Dialogue: 0,00:03:48.57,00:03:50.49,Default,,0,0,0,,It’s so touching
+Dialogue: 0,00:03:51.05,00:03:54.49,Default,,0,0,0,,I want to remember this sentence that makes people full of strength
+Dialogue: 0,00:03:54.61,00:03:57.13,Default,,0,0,0,,Right, let me tell you next time
+Dialogue: 0,00:04:00.45,00:04:01.13,Default,,0,0,0,,Come on
+Dialogue: 0,00:04:01.85,00:04:03.09,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:04:03.85,00:04:05.17,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:04:12.05,00:04:12.65,Default,,0,0,0,,oh
+Dialogue: 0,00:04:13.21,00:04:14.05,Default,,0,0,0,,Come again
+Dialogue: 0,00:04:19.69,00:04:20.17,Default,,0,0,0,,ah
+Dialogue: 0,00:04:22.53,00:04:23.37,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:04:24.77,00:04:26.77,Default,,0,0,0,,Every time you attack
+Dialogue: 0,00:04:26.81,00:04:29.73,Default,,0,0,0,,There is a little glowing in the center of the top of the boundary
+Dialogue: 0,00:04:29.93,00:04:33.37,Default,,0,0,0,,It’s hard to tell...that’s the key point of breaking through the boundaries?
+Dialogue: 0,00:04:34.05,00:04:35.09,Default,,0,0,0,,I’ll try it
+Dialogue: 0,00:04:38.97,00:04:40.69,Default,,0,0,0,,There is really a Sparky...
+Dialogue: 0,00:04:40.89,00:04:41.49,Default,,0,0,0,,good
+Dialogue: 0,00:04:42.37,00:04:44.45,Default,,0,0,0,,-Flame Fist - Thunderbolt Pin
+Dialogue: 0,00:04:52.21,00:04:53.49,Default,,0,0,0,,Success
+Dialogue: 0,00:04:54.65,00:04:57.57,Default,,0,0,0,,Thank you, you are such a good boy
+Dialogue: 0,00:04:59.41,00:05:00.77,Default,,0,0,0,,Then let’s go quickly
+Dialogue: 0,00:05:00.97,00:05:02.21,Default,,0,0,0,,good
+Dialogue: 0,00:05:04.93,00:05:05.65,Default,,0,0,0,,Right
+Dialogue: 0,00:05:05.73,00:05:08.15,Default,,0,0,0,,I just saw a crystal box in the dungeon
+Dialogue: 0,00:05:08.17,00:05:09.45,Default,,0,0,0,,What’s inside
+Dialogue: 0,00:05:10.85,00:05:14.17,Default,,0,0,0,,There are people who were about to take away the dark energy that year
+Dialogue: 0,00:05:14.97,00:05:18.73,Default,,0,0,0,,He is like you
+Dialogue: 0,00:05:19.13,00:05:19.81,Default,,0,0,0,,what?
+Dialogue: 0,00:05:20.41,00:05:22.05,Default,,0,0,0,,I remember that year...
+Dialogue: 0,00:05:23.37,00:05:25.77,Default,,0,0,0,,Stop Stop…
+Dialogue: 0,00:05:28.13,00:05:29.89,Default,,0,0,0,,Stop you can’t escape
+Dialogue: 0,00:05:31.25,00:05:33.89,Default,,0,0,0,,What’s going on? Why did he fall suddenly?
+Dialogue: 0,00:05:34.85,00:05:35.93,Default,,0,0,0,,Take a look carefully
+Dialogue: 0,00:05:36.53,00:05:39.01,Default,,0,0,0,,Keep him in the dungeon
+Dialogue: 0,00:05:40.41,00:05:44.01,Default,,0,0,0,,The wolf still hasn’t woken up yet
+Dialogue: 0,00:05:44.25,00:05:47.01,Default,,0,0,0,,Maybe he was also attacked by the dark energy
+Dialogue: 0,00:05:47.69,00:05:48.89,Default,,0,0,0,,Just in case of
+Dialogue: 0,00:05:48.93,00:05:49.93,Default,,0,0,0,,We just kept him in touch
+Dialogue: 0,00:05:50.17,00:05:52.85,Default,,0,0,0,,In the crystal box that only our family can open
+Dialogue: 0,00:05:54.73,00:05:57.53,Default,,0,0,0,,The most important thing now is the problem of tomorrow’s princess
+Dialogue: 0,00:05:57.89,00:05:59.57,Default,,0,0,0,,Let’s talk about the others later
+Dialogue: 0,00:05:59.85,00:06:00.33,Default,,0,0,0,,Um
+Dialogue: 0,00:06:03.65,00:06:05.45,Default,,0,0,0,,Almost caught
+Dialogue: 0,00:06:06.49,00:06:09.21,Default,,0,0,0,,I knew you would escape from the secret passage to this place
+Dialogue: 0,00:06:11.57,00:06:12.33,Default,,0,0,0,,elder sister…
+Dialogue: 0,00:06:14.65,00:06:15.21,Default,,0,0,0,,No!
+Dialogue: 0,00:06:17.05,00:06:18.05,Default,,0,0,0,,Too slow
+Dialogue: 0,00:06:19.13,00:06:21.89,Default,,0,0,0,,ah…
+Dialogue: 0,00:06:22.09,00:06:22.81,Default,,0,0,0,,elder sister…
+Dialogue: 0,00:06:23.29,00:06:24.69,Default,,0,0,0,,Take the blame...
+Dialogue: 0,00:06:26.77,00:06:28.77,Default,,0,0,0,,Qi... Magic Cloud...
+Dialogue: 0,00:06:31.65,00:06:33.21,Default,,0,0,0,,It can still move?
+Dialogue: 0,00:06:34.85,00:06:36.81,Default,,0,0,0,,Only by defeating her will she have the chance to escape
+Dialogue: 0,00:06:36.89,00:06:37.97,Default,,0,0,0,,Come together
+Dialogue: 0,00:06:38.69,00:06:39.25,Default,,0,0,0,,good
+Dialogue: 0,00:06:42.45,00:06:43.21,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:06:53.37,00:06:54.65,Default,,0,0,0,,Small tricks of carving
+Dialogue: 0,00:06:57.85,00:06:59.33,Default,,0,0,0,,It’s over
+Dialogue: 0,00:07:00.33,00:07:01.25,Default,,0,0,0,,Look at my big move
+Dialogue: 0,00:07:01.85,00:07:03.51,Default,,0,0,0,,-Ah... -Ah...
+Dialogue: 0,00:07:03.53,00:07:04.05,Default,,0,0,0,,what?
+Dialogue: 0,00:07:07.25,00:07:09.01,Default,,0,0,0,,Dare to steal me
+Dialogue: 0,00:07:09.77,00:07:10.69,Default,,0,0,0,,Ahhh!
+Dialogue: 0,00:07:12.65,00:07:13.25,Default,,0,0,0,,Where is the person?
+Dialogue: 0,00:07:14.85,00:07:16.65,Default,,0,0,0,,Don’t try to escape from my palm
+Dialogue: 0,00:07:22.89,00:07:25.89,Default,,0,0,0,,Finally breathing free air
+Dialogue: 0,00:07:27.01,00:07:28.45,Default,,0,0,0,,Levana and Luna
+Dialogue: 0,00:07:29.09,00:07:29.93,Default,,0,0,0,,Alas
+Dialogue: 0,00:07:31.69,00:07:32.45,Default,,0,0,0,,Blessing
+Dialogue: 0,00:07:35.25,00:07:37.65,Default,,0,0,0,,King, Queen, Why are you here
+Dialogue: 0,00:07:39.21,00:07:40.69,Default,,0,0,0,,Everyone, hide
+Dialogue: 0,00:07:50.69,00:07:51.61,Default,,0,0,0,,Luna
+Dialogue: 0,00:07:54.45,00:07:56.09,Default,,0,0,0,,Dad Mom
+Dialogue: 0,00:07:57.41,00:07:59.29,Default,,0,0,0,,You finally come back
+Dialogue: 0,00:08:00.49,00:08:01.89,Default,,0,0,0,,We miss you so much
+Dialogue: 0,00:08:02.25,00:08:04.25,Default,,0,0,0,,Come and let your mother take a good look at you
+Dialogue: 0,00:08:05.13,00:08:08.53,Default,,0,0,0,,Hahahaha... It’s really touching
+Dialogue: 0,00:08:10.97,00:08:12.93,Default,,0,0,0,,Then you will disappear together
+Dialogue: 0,00:08:13.89,00:08:15.05,Default,,0,0,0,,Be careful
+Dialogue: 0,00:08:15.93,00:08:17.05,Default,,0,0,0,,This is...
+Dialogue: 0,00:08:17.53,00:08:19.67,Default,,0,0,0,,ah…
+Dialogue: 0,00:08:19.69,00:08:20.57,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:08:22.97,00:08:24.45,Default,,0,0,0,,Thank you for taking goat
+Dialogue: 0,00:08:26.25,00:08:28.45,Default,,0,0,0,,Then try this trick again
+Dialogue: 0,00:08:31.89,00:08:33.05,Default,,0,0,0,,Let’s go together
+Dialogue: 0,00:08:33.65,00:08:34.81,Default,,0,0,0,,Flame Fist
+Dialogue: 0,00:08:35.05,00:08:36.21,Default,,0,0,0,,Thunderbolt
+Dialogue: 0,00:08:36.57,00:08:37.65,Default,,0,0,0,,Hurricane Blade
+Dialogue: 0,00:08:44.33,00:08:45.49,Default,,0,0,0,,Very heavy...
+Dialogue: 0,00:08:48.21,00:08:49.69,Default,,0,0,0,,I can’t hold back anymore...
+Dialogue: 0,00:08:50.65,00:08:52.33,Default,,0,0,0,,Sister, stop!
+Dialogue: 0,00:09:04.37,00:09:06.13,Default,,0,0,0,,Stop tomorrow!
+Dialogue: 0,00:09:08.97,00:09:10.01,Default,,0,0,0,,King, you...
+Dialogue: 0,00:09:15.21,00:09:17.29,Default,,0,0,0,,Wake up tomorrow
+Dialogue: 0,00:09:17.49,00:09:18.89,Default,,0,0,0,,We are a family
+Dialogue: 0,00:09:19.21,00:09:20.85,Default,,0,0,0,,Don’t you remember dad?
+Dialogue: 0,00:09:22.81,00:09:24.85,Default,,0,0,0,,Levana I’m a mother
+Dialogue: 0,00:09:27.29,00:09:31.01,Default,,0,0,0,,Say, say, say, say...
+Dialogue: 0,00:09:32.61,00:09:35.49,Default,,0,0,0,,Stop talking...
+Dialogue: 0,00:09:35.73,00:09:38.65,Default,,0,0,0,,ah…
+Dialogue: 0,00:09:44.21,00:09:46.85,Default,,0,0,0,,If this continues, this belt will be destroyed
+Dialogue: 0,00:09:48.57,00:09:51.57,Default,,0,0,0,,Sister, that’s...
+Dialogue: 0,00:10:01.29,00:10:06.19,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:06.21,00:10:07.57,Default,,0,0,0,,Children...
+Dialogue: 0,00:10:08.93,00:10:11.67,Default,,0,0,0,,ah…
+Dialogue: 0,00:10:11.69,00:10:12.69,Default,,0,0,0,,elder sister…
+Dialogue: 0,00:10:19.09,00:10:20.81,Default,,0,0,0,,Wake up soon
+Dialogue: 0,00:10:22.37,00:10:24.01,Default,,0,0,0,,Hao... Luna...
+Dialogue: 0,00:10:38.09,00:10:38.65,Default,,0,0,0,,ah?
+Dialogue: 0,00:10:39.65,00:10:41.61,Default,,0,0,0,,Luna Levana
+Dialogue: 0,00:10:46.65,00:10:48.77,Default,,0,0,0,,Levana you will finally wake up
+Dialogue: 0,00:10:49.65,00:10:53.01,Default,,0,0,0,,Dad Mom... Here is...
+Dialogue: 0,00:10:53.85,00:10:55.61,Default,,0,0,0,,It’s great that you’re fine
+Dialogue: 0,00:11:01.49,00:11:02.29,Default,,0,0,0,,Where is the bright moon
+Dialogue: 0,00:11:02.33,00:11:04.41,Default,,0,0,0,,Why is she not hurt?
+Dialogue: 0,00:11:06.69,00:11:08.69,Default,,0,0,0,,What’s wrong with Luna? You talk
+Dialogue: 0,00:11:15.49,00:11:20.81,Default,,0,0,0,,Luna… Luna…
+Dialogue: 0,00:11:22.53,00:11:24.33,Default,,0,0,0,,Sorry Sorry...
+Dialogue: 0,00:11:26.01,00:11:27.57,Default,,0,0,0,,Don’t be too difficult
+Dialogue: 0,00:11:28.85,00:11:30.17,Default,,0,0,0,,Luna
+Dialogue: 0,00:11:30.57,00:11:33.17,Default,,0,0,0,,Don’t be too difficult for the princess tomorrow
+Dialogue: 0,00:11:33.33,00:11:35.42,Default,,0,0,0,,All blame me, all blame me
+Dialogue: 0,00:11:35.45,00:11:38.27,Default,,0,0,0,,How about it...it’s all my fault that I can’t control the violence in my body
+Dialogue: 0,00:11:38.29,00:11:40.53,Default,,0,0,0,,Have done a lot of things that hurt everyone
+Dialogue: 0,00:11:41.25,00:11:45.21,Default,,0,0,0,,It also hurts Luna... Luna...
+Dialogue: 0,00:11:46.65,00:11:48.13,Default,,0,0,0,,It’s my sister, I’m sorry for you
+Dialogue: 0,00:11:49.49,00:11:51.57,Default,,0,0,0,,Please wake up
+Dialogue: 0,00:11:53.45,00:11:54.57,Default,,0,0,0,,Don’t be responsible
+Dialogue: 0,00:11:54.77,00:11:56.69,Default,,0,0,0,,Dark energy is so terrible
+Dialogue: 0,00:11:56.85,00:11:58.85,Default,,0,0,0,,That’s why it’s been sealing it
+Dialogue: 0,00:11:59.45,00:12:00.85,Default,,0,0,0,,Dad said it’s OK
+Dialogue: 0,00:12:02.49,00:12:04.25,Default,,0,0,0,,Dark energy is so dangerous
+Dialogue: 0,00:12:04.41,00:12:07.49,Default,,0,0,0,,The place where it is sealed is not strictly secure
+Dialogue: 0,00:12:08.09,00:12:09.73,Default,,0,0,0,,Please rest assured
+Dialogue: 0,00:12:10.17,00:12:12.03,Default,,0,0,0,,Where to seal it now
+Dialogue: 0,00:12:12.05,00:12:13.77,Default,,0,0,0,,- Very safe - Report No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+Dialogue: 0,00:12:14.57,00:12:15.37,Default,,0,0,0,,The king of kings
+Dialogue: 0,00:12:15.77,00:12:18.65,Default,,0,0,0,,Bookroom... Bookroom is a little uneven
+Dialogue: 0,00:12:18.81,00:12:19.53,Default,,0,0,0,,what?
+Dialogue: 0,00:12:22.25,00:12:23.77,Default,,0,0,0,,Let’s go and have a look, too
+Dialogue: 0,00:12:26.45,00:12:28.37,Default,,0,0,0,,Let Luna take care of us
+Dialogue: 0,00:12:28.65,00:12:29.21,Default,,0,0,0,,Um
+Dialogue: 0,00:12:32.57,00:12:34.13,Default,,0,0,0,,But I wish I didn’t have any more trouble...

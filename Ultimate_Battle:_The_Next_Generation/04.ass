@@ -1,0 +1,216 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.00,00:00:25.76,Default,,0,0,0,,What’s wrong? Big Grey Wolf
+Dialogue: 0,00:00:26.08,00:00:28.60,Default,,0,0,0,,Wilie still ignores me
+Dialogue: 0,00:00:29.32,00:00:31.44,Default,,0,0,0,,And I’ll go to his room to find him
+Dialogue: 0,00:00:31.64,00:00:33.60,Default,,0,0,0,,He also locked the door
+Dialogue: 0,00:00:38.00,00:00:40.60,Default,,0,0,0,,He liked me so much when he was a kid
+Dialogue: 0,00:00:41.52,00:00:43.28,Default,,0,0,0,,dad…
+Dialogue: 0,00:00:46.16,00:00:48.04,Default,,0,0,0,,Dad, let’s go there
+Dialogue: 0,00:00:50.56,00:00:53.84,Default,,0,0,0,,Is it hard to tell me if Wilie wants to talk to me?
+Dialogue: 0,00:00:55.92,00:00:57.13,Default,,0,0,0,,The Wolf I know
+Dialogue: 0,00:00:57.16,00:00:59.32,Default,,0,0,0,,Is this easy to give up?
+Dialogue: 0,00:01:00.92,00:01:02.53,Default,,0,0,0,,Even if he’s talking to you now
+Dialogue: 0,00:01:02.56,00:01:03.73,Default,,0,0,0,,I believe you have a way, too
+Dialogue: 0,00:01:03.76,00:01:05.68,Default,,0,0,0,,Reconciled with Wilie
+Dialogue: 0,00:01:07.96,00:01:10.52,Default,,0,0,0,,Don’t forget that you are the King of Wolffy
+Dialogue: 0,00:01:12.43,00:01:13.80,Default,,0,0,0,,Holy, right
+Dialogue: 0,00:01:15.04,00:01:17.21,Default,,0,0,0,,I’m Wolffy King
+Dialogue: 0,00:01:17.24,00:01:20.60,Default,,0,0,0,,I... won’t give up
+Dialogue: 0,00:01:22.32,00:01:23.37,Default,,0,0,0,,One day
+Dialogue: 0,00:01:23.40,00:01:25.52,Default,,0,0,0,,Wilie will understand your intentions
+Dialogue: 0,00:01:26.04,00:01:28.48,Default,,0,0,0,,Just like you and the Black Wolf
+Dialogue: 0,00:01:31.00,00:01:33.08,Default,,0,0,0,,I have to cheer up
+Dialogue: 0,00:01:33.80,00:01:36.68,Default,,0,0,0,,Let’s go find the cards
+Dialogue: 0,00:01:36.96,00:01:37.48,Default,,0,0,0,,Um
+Dialogue: 0,00:01:41.92,00:01:43.04,Default,,0,0,0,,Weslie
+Dialogue: 0,00:01:43.56,00:01:45.71,Default,,0,0,0,,You are my best friend
+Dialogue: 0,00:01:53.43,00:01:55.36,Default,,0,0,0,,Mom He’s back
+Dialogue: 0,00:02:08.76,00:02:10.56,Default,,0,0,0,,Where to find a card
+Dialogue: 0,00:02:12.48,00:02:13.96,Default,,0,0,0,,No
+Dialogue: 0,00:02:14.76,00:02:17.93,Default,,0,0,0,,Ah...I can’t eat it anymore...
+Dialogue: 0,00:02:17.96,00:02:18.97,Default,,0,0,0,,Paddi
+Dialogue: 0,00:02:19.00,00:02:20.48,Default,,0,0,0,,Blue Blue Sniper
+Dialogue: 0,00:02:23.12,00:02:24.77,Default,,0,0,0,,Weslie, don’t move
+Dialogue: 0,00:02:24.80,00:02:26.56,Default,,0,0,0,,They are just hotel chefs
+Dialogue: 0,00:02:27.00,00:02:27.76,Default,,0,0,0,,ah?
+Dialogue: 0,00:02:33.12,00:02:35.32,Default,,0,0,0,,Thank you for saving us
+Dialogue: 0,00:02:35.56,00:02:37.44,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:02:42.48,00:02:45.56,Default,,0,0,0,,Master Qingyangyang, we have improved the formula again
+Dialogue: 0,00:02:46.60,00:02:49.04,Default,,0,0,0,,The dishes have been greatly upgraded
+Dialogue: 0,00:02:49.72,00:02:52.25,Default,,0,0,0,,But I’ve already eaten the seventh day today
+Dialogue: 0,00:02:52.28,00:02:54.00,Default,,0,0,0,,Really can’t eat it
+Dialogue: 0,00:02:55.72,00:02:59.00,Default,,0,0,0,,How about...
+Dialogue: 0,00:03:02.80,00:03:06.76,Default,,0,0,0,,Cough... I probably just moved and my stomach became hungry again
+Dialogue: 0,00:03:06.96,00:03:11.07,Default,,0,0,0,,Master, please come, please
+Dialogue: 0,00:03:14.12,00:03:16.12,Default,,0,0,0,,OK OK OK I’ll go I’ll go
+Dialogue: 0,00:03:17.07,00:03:18.96,Default,,0,0,0,,Let’s come together
+Dialogue: 0,00:03:19.56,00:03:20.84,Default,,0,0,0,,good…
+Dialogue: 0,00:03:23.36,00:03:27.44,Default,,0,0,0,,Wow…Is the restaurants in the future so fashionable?
+Dialogue: 0,00:03:28.16,00:03:29.32,Default,,0,0,0,,Please enter
+Dialogue: 0,00:03:33.24,00:03:37.16,Default,,0,0,0,,Welcome to the bottom of the grass
+Dialogue: 0,00:03:41.07,00:03:43.52,Default,,0,0,0,,Wow, it’s so popular inside
+Dialogue: 0,00:03:53.63,00:03:55.44,Default,,0,0,0,,Serve the dishes
+Dialogue: 0,00:03:56.24,00:03:58.04,Default,,0,0,0,,Rising
+Dialogue: 0,00:04:00.48,00:04:03.45,Default,,0,0,0,,There are thirty dishes in total, and there are...
+Dialogue: 0,00:04:03.48,00:04:04.76,Default,,0,0,0,,and?
+Dialogue: 0,00:04:09.20,00:04:10.89,Default,,0,0,0,,Hello everyone, my name is Lao Zi
+Dialogue: 0,00:04:10.92,00:04:13.52,Default,,0,0,0,,I will perform the grassland horse for everyone
+Well…
+Dialogue: 0,00:04:28.12,00:04:29.13,Default,,0,0,0,,Master
+Dialogue: 0,00:04:29.16,00:04:31.81,Default,,0,0,0,,These dishes are newly developed by our restaurant
+Dialogue: 0,00:04:31.84,00:04:33.63,Default,,0,0,0,,What do you think of
+Dialogue: 0,00:04:35.00,00:04:37.00,Default,,0,0,0,,Vegetables fresh and refreshing
+Dialogue: 0,00:04:38.44,00:04:41.53,Default,,0,0,0,,The soup is just right, no oil or fat
+Dialogue: 0,00:04:41.56,00:04:42.72,Default,,0,0,0,,Really good
+Dialogue: 0,00:04:44.20,00:04:47.49,Default,,0,0,0,,only…
+Dialogue: 0,00:04:47.52,00:04:48.81,Default,,0,0,0,,Remember what the master said
+Dialogue: 0,00:04:48.84,00:04:49.89,Default,,0,0,0,,yes
+Dialogue: 0,00:04:49.92,00:04:51.80,Default,,0,0,0,,This salad is so sautéed
+Dialogue: 0,00:04:52.04,00:04:54.73,Default,,0,0,0,,There is no deserving level for this group of bombers
+Dialogue: 0,00:04:54.76,00:04:56.53,Default,,0,0,0,,The dessert is actually in front of you
+Dialogue: 0,00:04:56.56,00:04:58.05,Default,,0,0,0,,The main dish is next to it
+Dialogue: 0,00:04:58.07,00:04:59.93,Default,,0,0,0,,There are also problems with the dish being served
+Dialogue: 0,00:04:59.96,00:05:01.80,Default,,0,0,0,,These errors are too low
+Dialogue: 0,00:05:01.96,00:05:03.92,Default,,0,0,0,,And the tea cup mouth actually cracked
+Dialogue: 0,00:05:04.76,00:05:08.05,Default,,0,0,0,,But I still like Laozi’s performance
+Dialogue: 0,00:05:08.07,00:05:09.40,Default,,0,0,0,,Let’s see in a comprehensive way...
+Dialogue: 0,00:05:09.76,00:05:10.96,Default,,0,0,0,,Four Stars
+Dialogue: 0,00:05:13.04,00:05:15.88,Default,,0,0,0,,The Goat has become a professional gourmet
+Dialogue: 0,00:05:16.16,00:05:17.52,Default,,0,0,0,,Very terrible
+Dialogue: 0,00:05:19.44,00:05:22.28,Default,,0,0,0,,Looking forward to Master Qingyangyang to be proud of his resignation
+Dialogue: 0,00:05:22.76,00:05:24.60,Default,,0,0,0,,Weslie, have you eaten it?
+Dialogue: 0,00:05:24.84,00:05:25.80,Default,,0,0,0,,Uh-huh
+Dialogue: 0,00:05:26.32,00:05:28.09,Default,,0,0,0,,Let’s take you to a good place
+Dialogue: 0,00:05:28.12,00:05:29.76,Default,,0,0,0,,Do what we used to do
+Dialogue: 0,00:05:34.32,00:05:36.01,Default,,0,0,0,,Things you said you haven’t done for a long time
+Dialogue: 0,00:05:36.04,00:05:37.76,Default,,0,0,0,,Just lying on the grass
+Dialogue: 0,00:05:38.20,00:05:40.13,Default,,0,0,0,,Hee Hee, everyone is growing up
+Dialogue: 0,00:05:40.16,00:05:43.04,Default,,0,0,0,,I rarely enjoy this leisure hahaha
+Dialogue: 0,00:05:43.32,00:05:46.40,Default,,0,0,0,,In the past, you always said you had to eat 700 meals a day
+Dialogue: 0,00:05:46.76,00:05:48.37,Default,,0,0,0,,It’s over the mark now
+Dialogue: 0,00:05:48.40,00:05:50.08,Default,,0,0,0,,I can eat some more
+Dialogue: 0,00:05:51.20,00:05:52.89,Default,,0,0,0,,But I saw you really do
+Dialogue: 0,00:05:52.92,00:05:54.88,Default,,0,0,0,,It really surprised me
+Dialogue: 0,00:05:55.68,00:05:58.52,Default,,0,0,0,,Our Paddi have become so bad too
+Dialogue: 0,00:05:58.72,00:06:01.45,Default,,0,0,0,,It’s so good that your ideal has come true
+Dialogue: 0,00:06:01.48,00:06:03.28,Default,,0,0,0,,Can eat a lot of delicious food
+Dialogue: 0,00:06:04.40,00:06:05.76,Default,,0,0,0,,Delicious is delicious
+Dialogue: 0,00:06:06.28,00:06:10.84,Default,,0,0,0,,But fresh ingredients plus serious ingredients
+Dialogue: 0,00:06:11.88,00:06:14.04,Default,,0,0,0,,Baking, steaming and cooking are just right
+Dialogue: 0,00:06:14.24,00:06:16.48,Default,,0,0,0,,Nothing missed
+Dialogue: 0,00:06:17.04,00:06:18.69,Default,,0,0,0,,Isn’t that good?
+Dialogue: 0,00:06:18.72,00:06:19.84,Default,,0,0,0,,It’s very good
+Dialogue: 0,00:06:20.28,00:06:22.20,Default,,0,0,0,,But it’s so perfect
+Dialogue: 0,00:06:22.64,00:06:26.28,Default,,0,0,0,,I still miss the imperfect taste before.
+Dialogue: 0,00:06:26.52,00:06:29.72,Default,,0,0,0,,Imperfect taste...
+Dialogue: 0,00:06:32.72,00:06:34.40,Default,,0,0,0,,Let’s go bake sweet potatoes
+Dialogue: 0,00:06:36.28,00:06:37.44,Default,,0,0,0,,OK OK OK
+Dialogue: 0,00:06:44.68,00:06:47.16,Default,,0,0,0,,I haven’t eaten roasted sweet potatoes like this for a long time
+Dialogue: 0,00:06:48.64,00:06:50.20,Default,,0,0,0,,Ah, this is...
+Dialogue: 0,00:06:50.56,00:06:52.36,Default,,0,0,0,,It’s the future firearm
+Dialogue: 0,00:06:53.16,00:06:54.44,Default,,0,0,0,,Click here to fire
+Dialogue: 0,00:06:56.16,00:06:57.53,Default,,0,0,0,,I bought this firearm
+Dialogue: 0,00:06:57.56,00:06:58.88,Default,,0,0,0,,Why can’t I beat it
+Dialogue: 0,00:07:04.28,00:07:07.48,Default,,0,0,0,,Ah...I can’t eat roasted sweet potatoes...
+Dialogue: 0,00:07:08.64,00:07:09.88,Default,,0,0,0,,Let me come
+Dialogue: 0,00:07:12.84,00:07:14.80,Default,,0,0,0,,It turned out to be diamond wood to make fire
+Dialogue: 0,00:07:14.96,00:07:17.53,Default,,0,0,0,,It seems that I can’t even eat roasted sweet potatoes in this dish
+Dialogue: 0,00:07:17.56,00:07:18.47,Default,,0,0,0,,alright
+Dialogue: 0,00:07:19.12,00:07:20.04,Default,,0,0,0,,Very fast
+Dialogue: 0,00:07:23.88,00:07:26.08,Default,,0,0,0,,Weslie is still so darn
+Dialogue: 0,00:07:27.56,00:07:30.53,Default,,0,0,0,,Yes, it smells so good
+Dialogue: 0,00:07:30.56,00:07:31.40,Default,,0,0,0,,Yes
+Dialogue: 0,00:07:31.80,00:07:33.84,Default,,0,0,0,,Wow I haven’t eaten roasted sweet potatoes for a long time
+Dialogue: 0,00:07:34.28,00:07:36.47,Default,,0,0,0,,Can robots eat?
+Dialogue: 0,00:07:36.72,00:07:37.89,Default,,0,0,0,,I’m not a robot
+Dialogue: 0,00:07:37.92,00:07:39.47,Default,,0,0,0,,I’m just a robot lover
+Dialogue: 0,00:07:40.08,00:07:41.37,Default,,0,0,0,,I’m the robot
+Dialogue: 0,00:07:41.40,00:07:42.92,Default,,0,0,0,,I really can’t eat anything
+Dialogue: 0,00:07:44.96,00:07:46.28,Default,,0,0,0,,It smells so good
+Dialogue: 0,00:07:47.08,00:07:48.16,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:07:49.35,00:07:51.73,Default,,0,0,0,,Very fragrant...
+Dialogue: 0,00:07:51.76,00:07:53.56,Default,,0,0,0,,Ah, roasted sweet potatoes...
+Dialogue: 0,00:07:54.40,00:07:57.16,Default,,0,0,0,,I didn’t expect that roasted sweet potatoes would be so popular
+Dialogue: 0,00:07:58.28,00:07:59.92,Default,,0,0,0,,Don’t swear, everyone
+Dialogue: 0,00:08:02.47,00:08:04.32,Default,,0,0,0,,Haha, the sweet potatoes are ready
+Dialogue: 0,00:08:04.68,00:08:06.47,Default,,0,0,0,,Let’s eat together
+Dialogue: 0,00:08:07.08,00:08:08.76,Default,,0,0,0,,OK
+Dialogue: 0,00:08:12.68,00:08:14.21,Default,,0,0,0,,Thank you for your sweet potatoes
+Dialogue: 0,00:08:14.24,00:08:15.65,Default,,0,0,0,,- Thank you
+- goodbye
+Dialogue: 0,00:08:15.68,00:08:17.28,Default,,0,0,0,,All sweet potatoes are divided
+Dialogue: 0,00:08:17.60,00:08:19.69,Default,,0,0,0,,Then let’s bake a little more
+Dialogue: 0,00:08:19.72,00:08:20.08,Default,,0,0,0,,Um
+Dialogue: 0,00:08:24.20,00:08:25.84,Default,,0,0,0,,What kind of fire device
+Dialogue: 0,00:08:27.68,00:08:29.28,Default,,0,0,0,,Always bad
+Dialogue: 0,00:08:30.00,00:08:31.00,Default,,0,0,0,,Really useless
+Dialogue: 0,00:08:36.76,00:08:37.81,Default,,0,0,0,,There are cards nearby
+Dialogue: 0,00:08:37.84,00:08:38.72,Default,,0,0,0,,Ah Where is it
+Dialogue: 0,00:08:40.60,00:08:43.88,Default,,0,0,0,,Click... click the firearm... turn into a monster
+Dialogue: 0,00:08:48.47,00:08:50.16,Default,,0,0,0,,It’s going to be hot, right?
+Dialogue: 0,00:08:51.04,00:08:55.08,Default,,0,0,0,,Give you a fire...ahhhhh
+Dialogue: 0,00:08:56.08,00:08:56.64,Default,,0,0,0,,ah
+Dialogue: 0,00:08:57.47,00:08:59.47,Default,,0,0,0,,A fire occurs urgently
+yes
+Dialogue: 0,00:09:02.72,00:09:05.20,Default,,0,0,0,,I’m so useless
+Dialogue: 0,00:09:11.76,00:09:13.12,Default,,0,0,0,,Floating cannon
+Dialogue: 0,00:09:31.08,00:09:33.47,Default,,0,0,0,,The floating cannon is ineffective for it
+Dialogue: 0,00:09:33.80,00:09:35.45,Default,,0,0,0,,It has a flame shield
+Dialogue: 0,00:09:35.47,00:09:38.13,Default,,0,0,0,,Can’t hit it without extinguishing the flame
+Dialogue: 0,00:09:38.16,00:09:42.24,Default,,0,0,0,,fire? Yes, use water to deal with it
+Dialogue: 0,00:09:44.35,00:09:44.96,Default,,0,0,0,,Um
+Dialogue: 0,00:09:45.47,00:09:47.05,Default,,0,0,0,,I’ll lead it to the river
+Dialogue: 0,00:09:47.08,00:09:48.41,Default,,0,0,0,,You go to ambush first
+Dialogue: 0,00:09:48.44,00:09:49.97,Default,,0,0,0,,Then use water to suck it
+Dialogue: 0,00:09:50.00,00:09:50.64,Default,,0,0,0,,good
+Dialogue: 0,00:09:54.00,00:09:55.73,Default,,0,0,0,,A fire pointer that cannot be fired
+Dialogue: 0,00:09:55.76,00:09:57.05,Default,,0,0,0,,Not catching fire, slightly...
+Dialogue: 0,00:09:57.08,00:09:59.89,Default,,0,0,0,,Who do you say doesn’t catch fire
+Dialogue: 0,00:09:59.92,00:10:03.56,Default,,0,0,0,,Wow...you’re so dangerous that it’s going to be fire
+Dialogue: 0,00:10:05.47,00:10:06.52,Default,,0,0,0,,That’s it
+Dialogue: 0,00:10:08.40,00:10:09.84,Default,,0,0,0,,Let me extinguish it
+Dialogue: 0,00:10:14.12,00:10:15.05,Default,,0,0,0,,Sparky
+Dialogue: 0,00:10:15.08,00:10:17.60,Default,,0,0,0,,I’m on fire here. Come and put out the fire soon
+Dialogue: 0,00:10:18.60,00:10:19.64,Default,,0,0,0,,I’m here right now
+Dialogue: 0,00:10:29.52,00:10:30.37,Default,,0,0,0,,Arrive at the river
+Dialogue: 0,00:10:30.40,00:10:32.47,Default,,0,0,0,,Why is Weslie not out yet
+Dialogue: 0,00:10:33.24,00:10:34.68,Default,,0,0,0,,Quick, Weslie
+Dialogue: 0,00:10:35.08,00:10:38.73,Default,,0,0,0,,Hehehe...I’m super useful
+Dialogue: 0,00:10:38.76,00:10:39.40,Default,,0,0,0,,Monsters
+Dialogue: 0,00:10:49.08,00:10:50.08,Default,,0,0,0,,Look here
+Dialogue: 0,00:11:12.60,00:11:14.57,Default,,0,0,0,,Ah, the flame shield disappeared
+Dialogue: 0,00:11:14.60,00:11:16.64,Default,,0,0,0,,Take advantage of the current floating cannon
+Dialogue: 0,00:11:26.00,00:11:27.68,Default,,0,0,0,,- Success
+- Success
+Dialogue: 0,00:11:28.72,00:11:30.56,Default,,0,0,0,,The fire on the road is gone
+Dialogue: 0,00:11:33.84,00:11:35.40,Default,,0,0,0,,Go back and repair it
+Dialogue: 0,00:11:36.32,00:11:38.24,Default,,0,0,0,,Sweet potatoes are ready
+Dialogue: 0,00:11:44.52,00:11:46.04,Default,,0,0,0,,Dried potatoes
+Dialogue: 0,00:11:49.76,00:11:51.53,Default,,0,0,0,,Alas, it’s a little burnt
+Dialogue: 0,00:11:51.56,00:11:53.12,Default,,0,0,0,,Difficult
+Dialogue: 0,00:11:56.20,00:11:57.72,Default,,0,0,0,,Have eaten sweet potatoes
+Dialogue: 0,00:12:08.35,00:12:09.97,Default,,0,0,0,,How can I eat the slept now
+Dialogue: 0,00:12:10.00,00:12:12.12,Default,,0,0,0,,Do you think it’s so bitter and not delicious
+Dialogue: 0,00:12:13.20,00:12:15.05,Default,,0,0,0,,You see, he’s about to cry
+Dialogue: 0,00:12:15.08,00:12:17.73,Default,,0,0,0,,Delicious, but you haven’t changed Weslie at all
+Dialogue: 0,00:12:17.76,00:12:19.57,Default,,0,0,0,,The technique of roasting sweet potatoes is still so poor
+Dialogue: 0,00:12:19.60,00:12:20.21,Default,,0,0,0,,whee
+Dialogue: 0,00:12:20.24,00:12:22.76,Default,,0,0,0,,Ah, I didn’t change at all
+Dialogue: 0,00:12:22.88,00:12:24.13,Default,,0,0,0,,You’re not going to eat
+Dialogue: 0,00:12:24.16,00:12:25.56,Default,,0,0,0,,I’m going to finish eating sweet potatoes
+Dialogue: 0,00:12:27.28,00:12:29.32,Default,,0,0,0,,Ah, leave it to me...

@@ -1,0 +1,213 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.81,00:00:26.65,Default,,0,0,0,,It seems that the wall is getting slower
+Dialogue: 0,00:00:32.49,00:00:34.25,Default,,0,0,0,,Come and see everyone
+Dialogue: 0,00:00:45.61,00:00:46.73,Default,,0,0,0,,Children
+Dialogue: 0,00:00:47.33,00:00:48.29,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:00:48.65,00:00:49.57,Default,,0,0,0,,This is...
+Dialogue: 0,00:00:55.17,00:00:56.41,Default,,0,0,0,,Slow down...
+Dialogue: 0,00:00:58.29,00:01:00.13,Default,,0,0,0,,Everyone hold on
+Dialogue: 0,00:01:00.61,00:01:02.77,Default,,0,0,0,,We can stop him
+Dialogue: 0,00:01:02.93,00:01:03.85,Default,,0,0,0,,good
+Dialogue: 0,00:01:12.25,00:01:14.77,Default,,0,0,0,,The light column...is being invaded by dark energy
+Dialogue: 0,00:01:29.65,00:01:31.57,Default,,0,0,0,,I’m almost out of reach...
+Dialogue: 0,00:01:35.45,00:01:37.29,Default,,0,0,0,,Oops, the light has become weak
+Dialogue: 0,00:01:37.41,00:01:38.13,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:01:38.37,00:01:40.29,Default,,0,0,0,,Just a few of you want to stop me
+Dialogue: 0,00:01:40.45,00:01:42.73,Default,,0,0,0,,It’s just a waste of energy
+Dialogue: 0,00:01:42.93,00:01:43.81,Default,,0,0,0,,Big bad egg
+Dialogue: 0,00:01:45.89,00:01:48.53,Default,,0,0,0,,You may not hurt your brothers and sisters
+Dialogue: 0,00:01:51.45,00:01:54.89,Default,,0,0,0,,He is...the lamb who was rescued by the wolf just now...
+Dialogue: 0,00:01:55.29,00:01:56.59,Default,,0,0,0,,Why do you want to come back
+Dialogue: 0,00:01:56.61,00:01:58.05,Default,,0,0,0,,Are you not afraid of me?
+Dialogue: 0,00:01:58.61,00:02:01.17,Default,,0,0,0,,You are not allowed to destroy the green grassland
+Dialogue: 0,00:02:01.97,00:02:04.57,Default,,0,0,0,,Just because you are a little bit too want to disturb me
+Dialogue: 0,00:02:05.65,00:02:06.25,Default,,0,0,0,,No!
+Dialogue: 0,00:02:09.73,00:02:11.21,Default,,0,0,0,,It’s tomorrow, Luna
+Dialogue: 0,00:02:12.05,00:02:14.05,Default,,0,0,0,,You’re so childish
+Dialogue: 0,00:02:14.25,00:02:16.23,Default,,0,0,0,,Why do you have to go back and forth
+Dialogue: 0,00:02:16.25,00:02:18.33,Default,,0,0,0,,Do this kind of thing that lets you down
+Dialogue: 0,00:02:19.09,00:02:21.05,Default,,0,0,0,,Do you think this is amazing?
+Dialogue: 0,00:02:21.85,00:02:22.77,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:02:23.17,00:02:23.69,Default,,0,0,0,,Um
+Dialogue: 0,00:02:24.69,00:02:25.97,Default,,0,0,0,,Not naive
+Dialogue: 0,00:02:26.29,00:02:27.97,Default,,0,0,0,,Not because it’s so great
+Dialogue: 0,00:02:28.73,00:02:31.45,Default,,0,0,0,,But because we all want to protect this
+Dialogue: 0,00:02:33.69,00:02:35.49,Default,,0,0,0,,I want to protect this too
+Dialogue: 0,00:02:36.17,00:02:37.55,Default,,0,0,0,,Hahaha…
+Dialogue: 0,00:02:37.57,00:02:39.97,Default,,0,0,0,,You don’t have this little devil
+Dialogue: 0,00:02:40.85,00:02:42.29,Default,,0,0,0,,What can you do
+Dialogue: 0,00:02:42.69,00:02:45.17,Default,,0,0,0,,We won’t lose
+Dialogue: 0,00:02:51.05,00:02:53.05,Default,,0,0,0,,Does this lamb have Qili?
+Dialogue: 0,00:02:55.09,00:02:56.81,Default,,0,0,0,,This...this is...
+Dialogue: 0,00:02:59.09,00:03:01.55,Default,,0,0,0,,This is hard to tell everyone’s heart
+Dialogue: 0,00:03:01.57,00:03:03.97,Default,,0,0,0,,Is there any power of light?
+Dialogue: 0,00:03:11.65,00:03:13.93,Default,,0,0,0,,There are only three more people
+Dialogue: 0,00:03:14.17,00:03:16.13,Default,,0,0,0,,This is how proud
+Dialogue: 0,00:03:18.53,00:03:21.53,Default,,0,0,0,,It’s over... The end of the green grassland has arrived...
+Dialogue: 0,00:03:23.45,00:03:24.85,Default,,0,0,0,,Is there no hope?
+Dialogue: 0,00:03:26.57,00:03:29.17,Default,,0,0,0,,It’s not the time to give up now
+Dialogue: 0,00:03:31.25,00:03:33.09,Default,,0,0,0,,This is the voice of the king of the king
+Dialogue: 0,00:03:33.37,00:03:35.05,Default,,0,0,0,,Everyone hears me
+Dialogue: 0,00:03:35.77,00:03:38.03,Default,,0,0,0,,There are nine warriors on the grassland now
+Dialogue: 0,00:03:38.05,00:03:39.93,Default,,0,0,0,,Working hard for everyone
+Dialogue: 0,00:03:40.09,00:03:42.85,Default,,0,0,0,,They are brave and kind, not afraid of darkness
+Dialogue: 0,00:03:43.01,00:03:45.89,Default,,0,0,0,,I hope everyone can do their best to do their part.
+Dialogue: 0,00:03:46.25,00:03:48.85,Default,,0,0,0,,Although we all have very little power
+Dialogue: 0,00:03:49.17,00:03:52.23,Default,,0,0,0,,But with thousands of meager power
+Dialogue: 0,00:03:52.25,00:03:54.05,Default,,0,0,0,,When gathering together
+Dialogue: 0,00:03:54.17,00:03:56.85,Default,,0,0,0,,Can fight against the dark
+Dialogue: 0,00:03:56.89,00:03:59.25,Default,,0,0,0,,Everyone...please hold your hands
+Dialogue: 0,00:03:59.29,00:04:02.05,Default,,0,0,0,,Borrow your power of light to the Warriors
+Dialogue: 0,00:04:02.25,00:04:04.85,Default,,0,0,0,,This time we came to protect them
+Dialogue: 0,00:04:05.29,00:04:06.37,Default,,0,0,0,,yes
+Dialogue: 0,00:04:10.65,00:04:13.45,Default,,0,0,0,,This...this is our power of light
+Dialogue: 0,00:04:28.57,00:04:30.57,Default,,0,0,0,,This is... everyone’s power
+Dialogue: 0,00:04:30.85,00:04:33.17,Default,,0,0,0,,What a warm power
+Dialogue: 0,00:04:34.29,00:04:35.37,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:04:35.77,00:04:37.61,Default,,0,0,0,,Why is there so much power
+Dialogue: 0,00:05:00.05,00:05:01.41,Default,,0,0,0,,What a huge drama...
+Dialogue: 0,00:05:01.45,00:05:04.55,Default,,0,0,0,,The dark energy surrounding the Catland...eliminates...
+Dialogue: 0,00:05:04.57,00:05:05.69,Default,,0,0,0,,Sure enough, it’s OK
+Dialogue: 0,00:05:05.97,00:05:07.15,Default,,0,0,0,,Real light drama
+Dialogue: 0,00:05:07.17,00:05:10.17,Default,,0,0,0,,It requires everyone’s strength to summon it
+Dialogue: 0,00:05:11.41,00:05:12.53,Default,,0,0,0,,The king of that year
+Dialogue: 0,00:05:12.65,00:05:15.65,Default,,0,0,0,,It must be to report the people who have helped them
+Dialogue: 0,00:05:15.89,00:05:18.81,Default,,0,0,0,,So seal the dark energy in the cat country
+Dialogue: 0,00:05:18.93,00:05:20.71,Default,,0,0,0,,It’s just not to let dark energy
+Dialogue: 0,00:05:20.73,00:05:22.45,Default,,0,0,0,,Influenced elsewhere
+Dialogue: 0,00:05:23.33,00:05:25.65,Default,,0,0,0,,It’s obviously a group of people
+Dialogue: 0,00:05:26.37,00:05:28.49,Default,,0,0,0,,Why can this be done
+Dialogue: 0,00:05:28.77,00:05:31.49,Default,,0,0,0,,Dark energy can no longer stop us
+Dialogue: 0,00:05:31.97,00:05:34.01,Default,,0,0,0,,Stop it
+Dialogue: 0,00:05:34.49,00:05:36.53,Default,,0,0,0,,I can’t look back
+Dialogue: 0,00:05:44.25,00:05:45.67,Default,,0,0,0,,It turned myself into
+Dialogue: 0,00:05:45.69,00:05:47.49,Default,,0,0,0,,Complete dark energy
+Dialogue: 0,00:06:00.09,00:06:01.57,Default,,0,0,0,,Quickly use optical drama
+Dialogue: 0,00:06:03.01,00:06:05.89,Default,,0,0,0,,- Just hand it over to us to end all this
+- Just hand it over to us to end all this
+Dialogue: 0,00:06:22.57,00:06:24.09,Default,,0,0,0,,come on!
+Dialogue: 0,00:06:24.21,00:06:25.95,Default,,0,0,0,,Hold on!
+Dialogue: 0,00:06:25.97,00:06:27.45,Default,,0,0,0,,It can be done!
+Dialogue: 0,00:06:27.49,00:06:30.01,Default,,0,0,0,,We will definitely fight for the darkness!
+Dialogue: 0,00:06:31.13,00:06:33.97,Default,,0,0,0,,This is the power of trust!
+Dialogue: 0,00:06:49.69,00:06:51.85,Default,,0,0,0,,Is this the power of trust?
+Dialogue: 0,00:06:52.69,00:06:55.93,Default,,0,0,0,,There is a little difference from the world I have always known
+Dialogue: 0,00:07:01.89,00:07:04.01,Default,,0,0,0,,So warm...
+Dialogue: 0,00:07:24.45,00:07:26.57,Default,,0,0,0,,Isn’t this the lone wolf’s sacred story
+Dialogue: 0,00:07:27.33,00:07:28.33,Default,,0,0,0,,Let me see
+Dialogue: 0,00:07:30.81,00:07:31.85,Default,,0,0,0,,Can’t open...
+Dialogue: 0,00:07:42.69,00:07:45.75,Default,,0,0,0,,Please let me represent all residents of Cat Country
+Dialogue: 0,00:07:45.77,00:07:47.49,Default,,0,0,0,,Zheng Zhong said thank you to you
+Dialogue: 0,00:07:47.53,00:07:50.61,Default,,0,0,0,,Thank you for saving us and our home
+Dialogue: 0,00:07:50.97,00:07:51.77,Default,,0,0,0,,That’s right
+Dialogue: 0,00:07:52.25,00:07:53.79,Default,,0,0,0,,Fortunately, you started
+Dialogue: 0,00:07:53.81,00:07:55.69,Default,,0,0,0,,Just be willing to believe me and help me
+Dialogue: 0,00:07:56.65,00:07:58.89,Default,,0,0,0,,Only the strange cat country can get out of the darkness
+Dialogue: 0,00:08:00.41,00:08:02.25,Default,,0,0,0,,There is power for everyone
+Dialogue: 0,00:08:02.61,00:08:04.69,Default,,0,0,0,,Only then can we fight this difficulty
+Dialogue: 0,00:08:05.97,00:08:08.25,Default,,0,0,0,,I will never forget everyone
+Dialogue: 0,00:08:09.69,00:08:11.57,Default,,0,0,0,,Wait until the cat country recovers
+Dialogue: 0,00:08:11.65,00:08:13.61,Default,,0,0,0,,Welcome to come and play
+Dialogue: 0,00:08:13.73,00:08:14.81,Default,,0,0,0,,OK
+Dialogue: 0,00:08:14.85,00:08:16.57,Default,,0,0,0,,Hello, let me go
+Dialogue: 0,00:08:16.77,00:08:18.75,Default,,0,0,0,,A Xin, don’t get hurt again
+Dialogue: 0,00:08:18.77,00:08:20.17,Default,,0,0,0,,It’s been a year...
+Dialogue: 0,00:08:21.33,00:08:22.73,Default,,0,0,0,,Have a little bit of it...
+Dialogue: 0,00:08:24.85,00:08:29.07,Default,,0,0,0,,Open it for me quickly. Alas...
+Dialogue: 0,00:08:29.09,00:08:30.09,Default,,0,0,0,,That’s it
+Dialogue: 0,00:08:30.61,00:08:34.69,Default,,0,0,0,,Finally, with the joint efforts of all residents of the Cat Country
+Dialogue: 0,00:08:35.17,00:08:39.83,Default,,0,0,0,,The Cat Country also returned to its original place with them
+Dialogue: 0,00:08:39.85,00:08:41.95,Default,,0,0,0,,- See you again
+- Everyone should take care of themselves
+Dialogue: 0,00:08:41.97,00:08:44.55,Default,,0,0,0,,- Everyone should take care of themselves
+- Because everyone’s heart
+Dialogue: 0,00:08:44.57,00:08:47.69,Default,,0,0,0,,Everyone is looking forward to the light and trust each other
+Dialogue: 0,00:08:47.93,00:08:51.49,Default,,0,0,0,,We have protected this world together
+Dialogue: 0,00:08:51.97,00:08:55.85,Default,,0,0,0,,This adventure finally welcomed the final chapter
+Dialogue: 0,00:08:59.45,00:09:01.69,Default,,0,0,0,,The sunlight here is so good
+Dialogue: 0,00:09:01.81,00:09:03.97,Default,,0,0,0,,I hope the lone wolf will like this
+Dialogue: 0,00:09:08.45,00:09:10.13,Default,,0,0,0,,Ah, finally came up...
+Dialogue: 0,00:09:11.73,00:09:13.61,Default,,0,0,0,,Why are there wolves there...
+Dialogue: 0,00:09:14.93,00:09:16.05,Default,,0,0,0,,Hello
+Dialogue: 0,00:09:17.33,00:09:19.65,Default,,0,0,0,,Hello, my name is Weslie
+Dialogue: 0,00:09:20.17,00:09:21.77,Default,,0,0,0,,Please ask you are...
+Dialogue: 0,00:09:22.49,00:09:23.81,Default,,0,0,0,,My name is Ahao
+Dialogue: 0,00:09:24.09,00:09:27.77,Default,,0,0,0,,It’s Xiaochao...a friend of once
+Dialogue: 0,00:09:28.29,00:09:30.65,Default,,0,0,0,,Xiao Chao? Does it mean a lonely wolf?
+Dialogue: 0,00:09:32.05,00:09:33.57,Default,,0,0,0,,Thank you very much
+Dialogue: 0,00:09:34.33,00:09:37.09,Default,,0,0,0,,Find a beautiful place for him
+Dialogue: 0,00:09:37.49,00:09:40.07,Default,,0,0,0,,The villagers must be very opposed
+Dialogue: 0,00:09:40.09,00:09:41.51,Default,,0,0,0,,ah? Then you are that one
+Dialogue: 0,00:09:41.53,00:09:43.97,Default,,0,0,0,,Is the little hero who caused the lone-hearted wolf to be misled by the clan members?
+Dialogue: 0,00:09:44.05,00:09:46.09,Default,,0,0,0,,Will you say anything, 李六国
+Dialogue: 0,00:09:46.69,00:09:51.01,Default,,0,0,0,,That’s right. I...I’m that evil wolf...
+Dialogue: 0,00:09:54.41,00:09:55.93,Default,,0,0,0,,We used to be...
+Dialogue: 0,00:09:56.49,00:09:57.89,Default,,0,0,0,,Happy birthday to Xiaochao
+Dialogue: 0,00:09:58.49,00:10:00.55,Default,,0,0,0,,Wow! Watch! So beautiful!
+Dialogue: 0,00:10:00.57,00:10:02.37,Default,,0,0,0,,This is what I did by hand
+Dialogue: 0,00:10:03.09,00:10:05.53,Default,,0,0,0,,It needs to be opened in a special way
+Dialogue: 0,00:10:06.25,00:10:08.41,Default,,0,0,0,,Turn left and right
+Dialogue: 0,00:10:08.57,00:10:10.05,Default,,0,0,0,,Wow...
+Dialogue: 0,00:10:10.25,00:10:12.17,Default,,0,0,0,,Huh? Why don’t the fingers move?
+Dialogue: 0,00:10:12.41,00:10:14.77,Default,,0,0,0,,Hey... this... I won’t do it...
+Dialogue: 0,00:10:16.69,00:10:17.63,Default,,0,0,0,,thank you!
+Dialogue: 0,00:10:17.65,00:10:19.93,Default,,0,0,0,,This is the best gift I received!
+Dialogue: 0,00:10:22.45,00:10:24.49,Default,,0,0,0,,When things happened...
+Dialogue: 0,00:10:26.37,00:10:30.05,Default,,0,0,0,,I want to go out to find the villagers and help me rescue Xiaochao
+Dialogue: 0,00:10:30.85,00:10:32.17,Default,,0,0,0,,But I didn’t expect
+Dialogue: 0,00:10:32.41,00:10:35.87,Default,,0,0,0,,The villagers burst into thunder when they see a group of trash in the village
+Dialogue: 0,00:10:35.89,00:10:36.77,Default,,0,0,0,,Scratched
+Dialogue: 0,00:10:37.09,00:10:39.69,Default,,0,0,0,,And I chose to escape because I was afraid
+Dialogue: 0,00:10:40.09,00:10:42.81,Default,,0,0,0,,I want to explain it to Xiaochao, but...
+Dialogue: 0,00:10:43.65,00:10:45.41,Default,,0,0,0,,It’s already too bad
+Dialogue: 0,00:10:45.85,00:10:47.29,Default,,0,0,0,,In order to get his original meaning
+Dialogue: 0,00:10:48.01,00:10:50.57,Default,,0,0,0,,I embarked on a journey to find him alone
+Dialogue: 0,00:10:51.09,00:10:52.93,Default,,0,0,0,,But how many years have passed
+Dialogue: 0,00:10:53.05,00:10:54.57,Default,,0,0,0,,He can’t find his image
+Dialogue: 0,00:10:55.77,00:10:57.29,Default,,0,0,0,,Until everyone is in
+Dialogue: 0,00:10:57.61,00:11:00.57,Default,,0,0,0,,A foul wolf carrying a belt was wiped out
+Dialogue: 0,00:11:00.69,00:11:01.73,Default,,0,0,0,,I just found this
+Dialogue: 0,00:11:02.69,00:11:04.89,Default,,0,0,0,,He must hate me very much
+Dialogue: 0,00:11:07.21,00:11:09.25,Default,,0,0,0,,I think he will instruct you
+Dialogue: 0,00:11:10.01,00:11:11.81,Default,,0,0,0,,Just like the lonely wolf said
+Dialogue: 0,00:11:12.13,00:11:14.61,Default,,0,0,0,,Everyone has shortcomings
+Dialogue: 0,00:11:14.97,00:11:17.05,Default,,0,0,0,,But as long as we find it
+Dialogue: 0,00:11:17.13,00:11:18.65,Default,,0,0,0,,Face it Change it
+Dialogue: 0,00:11:19.41,00:11:22.05,Default,,0,0,0,,Then won’t we be better?
+Dialogue: 0,00:11:22.69,00:11:24.65,Default,,0,0,0,,And you already know you’re wrong
+Dialogue: 0,00:11:24.85,00:11:26.17,Default,,0,0,0,,Confess the truth
+Dialogue: 0,00:11:26.45,00:11:29.79,Default,,0,0,0,,The reason why he represents your friendship is the symbol of
+Dialogue: 0,00:11:29.81,00:11:31.21,Default,,0,0,0,,Keep it on your body
+Dialogue: 0,00:11:31.65,00:11:34.19,Default,,0,0,0,,I must also hope you can let go
+Dialogue: 0,00:11:34.21,00:11:35.45,Default,,0,0,0,,Start over
+Dialogue: 0,00:11:37.09,00:11:40.13,Default,,0,0,0,,Let go of the past and start again...
+Dialogue: 0,00:11:42.93,00:11:45.65,Default,,0,0,0,,Is this really the case? Xiao Chao...
+Dialogue: 0,00:11:50.77,00:11:53.21,Default,,0,0,0,,Uncle Hao, let’s go back first
+Dialogue: 0,00:11:56.61,00:11:58.85,Default,,0,0,0,,Is it really okay for us to leave like this?
+Dialogue: 0,00:11:59.57,00:12:01.41,Default,,0,0,0,,Just let him stay for a while
+Dialogue: 0,00:12:07.41,00:12:08.53,Default,,0,0,0,,This is for you
+Dialogue: 0,00:12:08.69,00:12:11.55,Default,,0,0,0,,Wow! It’s a watch! So beautiful!
+Dialogue: 0,00:12:11.57,00:12:13.85,Default,,0,0,0,,Haha, this is something I did by hand
+Dialogue: 0,00:12:14.01,00:12:16.17,Default,,0,0,0,,It needs to be opened in a special way
+Dialogue: 0,00:12:16.89,00:12:19.09,Default,,0,0,0,,Turn left and right
+Dialogue: 0,00:12:21.13,00:12:22.61,Default,,0,0,0,,Why don’t the fingers move?
+Dialogue: 0,00:12:23.13,00:12:25.77,Default,,0,0,0,,Hey... this... I won’t do it...
+Dialogue: 0,00:12:25.93,00:12:26.77,Default,,0,0,0,,thank you!
+Dialogue: 0,00:12:26.89,00:12:29.25,Default,,0,0,0,,This is the best gift I received!
+Dialogue: 0,00:12:30.05,00:12:30.89,Default,,0,0,0,,Xiao Chao…
+Dialogue: 0,00:12:32.09,00:12:34.17,Default,,0,0,0,,sorry…

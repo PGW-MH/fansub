@@ -1,0 +1,209 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.49,00:00:27.97,Default,,0,0,0,,Doctor Black Diamond System Has Crashed
+Dialogue: 0,00:00:29.57,00:00:31.73,Default,,0,0,0,,Very heavy
+Dialogue: 0,00:00:32.61,00:00:33.77,Default,,0,0,0,,Bu Lei
+Dialogue: 0,00:00:34.49,00:00:35.53,Default,,0,0,0,,In PhD
+Dialogue: 0,00:00:38.97,00:00:41.21,Default,,0,0,0,,Let’s see yours next
+Dialogue: 0,00:00:42.13,00:00:43.13,Default,,0,0,0,,yes
+Dialogue: 0,00:00:47.61,00:00:49.15,Default,,0,0,0,,Run quickly...
+Dialogue: 0,00:00:49.17,00:00:51.53,Default,,0,0,0,,Ah...Run quickly, it’s a monster
+Dialogue: 0,00:01:00.37,00:01:01.27,Default,,0,0,0,,Help
+Dialogue: 0,00:01:01.29,00:01:07.09,Default,,0,0,0,,Help, help, help...
+Dialogue: 0,00:01:30.13,00:01:31.13,Default,,0,0,0,,It’s nothing anymore
+Dialogue: 0,00:01:33.01,00:01:34.25,Default,,0,0,0,,You leave here quickly
+Dialogue: 0,00:01:34.77,00:01:36.13,Default,,0,0,0,,Thank you brother
+Dialogue: 0,00:01:38.97,00:01:41.41,Default,,0,0,0,,Are you the firefighter Sparky?
+Dialogue: 0,00:01:42.37,00:01:43.49,Default,,0,0,0,,Do you know me?
+Dialogue: 0,00:01:43.73,00:01:46.33,Default,,0,0,0,,Of course you are my idol
+Dialogue: 0,00:01:48.17,00:01:50.09,Default,,0,0,0,,Can I ask for your signature?
+Dialogue: 0,00:01:51.69,00:01:52.49,Default,,0,0,0,,sign?
+Dialogue: 0,00:01:54.33,00:01:55.97,Default,,0,0,0,,It’s not the time to say this
+Dialogue: 0,00:01:56.41,00:01:58.77,Default,,0,0,0,,It’s very dangerous here. You can leave here quickly
+Dialogue: 0,00:01:59.69,00:02:00.73,Default,,0,0,0,,- Sparky 
+- Sparky 
+Dialogue: 0,00:02:02.69,00:02:03.93,Default,,0,0,0,,The monster is indeed here
+Dialogue: 0,00:02:04.93,00:02:06.33,Default,,0,0,0,,Let’s deal with it together
+Dialogue: 0,00:02:06.81,00:02:07.29,Default,,0,0,0,,good
+Dialogue: 0,00:02:07.49,00:02:10.41,Default,,0,0,0,,Come on, the great hero of Sparky 
+Dialogue: 0,00:02:11.21,00:02:13.65,Default,,0,0,0,,Why are you still here? Didn’t I tell you to leave?
+Dialogue: 0,00:02:14.53,00:02:17.49,Default,,0,0,0,,I just want to see more idols, do you meet again?
+Dialogue: 0,00:02:17.77,00:02:20.13,Default,,0,0,0,,Are you a fan of Sparky?
+Dialogue: 0,00:02:20.45,00:02:21.89,Default,,0,0,0,,You go and hide first
+Dialogue: 0,00:02:21.97,00:02:24.01,Default,,0,0,0,,Let’s come to you again soon
+Dialogue: 0,00:02:32.73,00:02:33.53,Default,,0,0,0,,Go quickly
+Dialogue: 0,00:02:39.33,00:02:40.45,Default,,0,0,0,,Thousand paper robe
+Dialogue: 0,00:02:45.73,00:02:47.49,Default,,0,0,0,,Oops, it’s going to run away
+Dialogue: 0,00:02:48.05,00:02:49.41,Default,,0,0,0,,Gravity War
+Dialogue: 0,00:03:03.93,00:03:04.65,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:05.01,00:03:05.49,Default,,0,0,0,,Um
+Dialogue: 0,00:03:18.57,00:03:21.65,Default,,0,0,0,,You bring me down
+Dialogue: 0,00:03:41.89,00:03:43.29,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:03:54.73,00:03:57.53,Default,,0,0,0,,Very good We have another card
+Dialogue: 0,00:03:57.89,00:04:00.41,Default,,0,0,0,,It seems we are one step closer to the truth
+Dialogue: 0,00:04:00.89,00:04:04.15,Default,,0,0,0,,Wow, you’re so terrible
+Dialogue: 0,00:04:04.17,00:04:06.29,Default,,0,0,0,,Eliminate the monsters that hurt us
+Dialogue: 0,00:04:06.61,00:04:08.09,Default,,0,0,0,,Why are you still here
+Dialogue: 0,00:04:09.13,00:04:09.87,Default,,0,0,0,,Yes
+Dialogue: 0,00:04:09.89,00:04:12.15,Default,,0,0,0,,It just exploded here, very dangerous
+Dialogue: 0,00:04:12.17,00:04:13.65,Default,,0,0,0,,You shouldn’t follow us
+Dialogue: 0,00:04:14.09,00:04:16.97,Default,,0,0,0,,Because I’ve seen an idol for the first time
+Dialogue: 0,00:04:17.81,00:04:20.73,Default,,0,0,0,,Jonie, I am also your fan
+Dialogue: 0,00:04:21.09,00:04:22.73,Default,,0,0,0,,Can I ask for your signature?
+Dialogue: 0,00:04:23.37,00:04:24.85,Default,,0,0,0,,Also my fan?
+Dialogue: 0,00:04:25.69,00:04:26.37,Default,,0,0,0,,All right
+Dialogue: 0,00:04:28.01,00:04:28.45,Default,,0,0,0,,give
+Dialogue: 0,00:04:30.05,00:04:31.85,Default,,0,0,0,,I’m saying how strange this person is
+Dialogue: 0,00:04:32.13,00:04:33.41,Default,,0,0,0,,Always sign
+Dialogue: 0,00:04:34.41,00:04:36.15,Default,,0,0,0,,I’m so lucky
+Dialogue: 0,00:04:36.17,00:04:38.55,Default,,0,0,0,,Saved by idols and got a signature
+Dialogue: 0,00:04:38.57,00:04:39.89,Default,,0,0,0,,Thank you
+Dialogue: 0,00:04:42.37,00:04:44.41,Default,,0,0,0,,What a strange girl
+Dialogue: 0,00:04:45.21,00:04:47.57,Default,,0,0,0,,Let’s go find the next card
+Dialogue: 0,00:04:48.25,00:04:50.97,Default,,0,0,0,,Weslie in the West Region Weslie in the East Region
+Dialogue: 0,00:04:51.17,00:04:52.82,Default,,0,0,0,,Let’s move in a different way too
+Dialogue: 0,00:04:52.85,00:04:53.45,Default,,0,0,0,,- good
+- good
+Dialogue: 0,00:05:20.97,00:05:22.57,Default,,0,0,0,,What’s wrong? Jonie
+Dialogue: 0,00:05:23.45,00:05:25.09,Default,,0,0,0,,I’ve been followed
+Dialogue: 0,00:05:25.85,00:05:28.49,Default,,0,0,0,,what? Could it be that the mystery was sent from?
+Dialogue: 0,00:05:28.69,00:05:30.71,Default,,0,0,0,,Then there should be an alley ahead of you
+Dialogue: 0,00:05:30.73,00:05:31.51,Default,,0,0,0,,Go in
+Dialogue: 0,00:05:31.53,00:05:33.85,Default,,0,0,0,,We will cooperate with you to catch the carp in an actin
+Dialogue: 0,00:05:35.61,00:05:36.05,Default,,0,0,0,,good
+Dialogue: 0,00:05:43.45,00:05:45.09,Default,,0,0,0,,Huh? Where have you gone?
+Dialogue: 0,00:05:50.01,00:05:51.33,Default,,0,0,0,,Eat me a stew
+Dialogue: 0,00:05:51.57,00:05:52.41,Default,,0,0,0,,etc.
+Dialogue: 0,00:05:53.73,00:05:54.41,Default,,0,0,0,,How
+Dialogue: 0,00:05:54.69,00:05:55.73,Default,,0,0,0,,See clearly
+Dialogue: 0,00:05:58.57,00:05:59.13,Default,,0,0,0,,ah?
+Dialogue: 0,00:06:02.33,00:06:03.65,Default,,0,0,0,,Why are you again
+Dialogue: 0,00:06:06.09,00:06:07.89,Default,,0,0,0,,Why are you following me
+Dialogue: 0,00:06:13.45,00:06:18.93,Default,,0,0,0,,I just...want to take some photos of my idols back
+Dialogue: 0,00:06:19.73,00:06:21.27,Default,,0,0,0,,I know this is not good
+Dialogue: 0,00:06:21.29,00:06:23.57,Default,,0,0,0,,But I really like you
+Dialogue: 0,00:06:24.01,00:06:26.59,Default,,0,0,0,,I’m really sorry for bringing you trouble
+Dialogue: 0,00:06:26.61,00:06:28.53,Default,,0,0,0,,I’ve deleted the photo now
+Dialogue: 0,00:06:30.41,00:06:31.77,Default,,0,0,0,,That’s because of this?
+Dialogue: 0,00:06:33.85,00:06:36.17,Default,,0,0,0,,Forget it, it’s not a big deal
+Dialogue: 0,00:06:36.69,00:06:38.61,Default,,0,0,0,,Let me tell you next time
+Dialogue: 0,00:06:39.25,00:06:41.37,Default,,0,0,0,,Are you really not angry?
+Dialogue: 0,00:06:42.17,00:06:43.33,Default,,0,0,0,,No anxiety
+Dialogue: 0,00:06:44.05,00:06:46.01,Default,,0,0,0,,You’re so good
+Dialogue: 0,00:06:47.41,00:06:49.65,Default,,0,0,0,,OK, we’re going to do the mission
+Dialogue: 0,00:06:53.77,00:06:54.81,Default,,0,0,0,,goodbye
+Dialogue: 0,00:06:57.65,00:06:59.45,Default,,0,0,0,,I always think there is no match for you
+Dialogue: 0,00:07:00.81,00:07:02.45,Default,,0,0,0,,Tibbie, what do you think
+Dialogue: 0,00:07:03.97,00:07:04.93,Default,,0,0,0,,suspicious
+Dialogue: 0,00:07:06.17,00:07:06.93,Default,,0,0,0,,Take a look
+Dialogue: 0,00:07:07.97,00:07:08.33,Default,,0,0,0,,Um
+Dialogue: 0,00:07:25.97,00:07:27.41,Default,,0,0,0,,- Sure enough, there is a problem
+- Sure enough, there is a problem
+Dialogue: 0,00:07:27.93,00:07:29.65,Default,,0,0,0,,Why do we follow her?
+Dialogue: 0,00:07:30.37,00:07:32.17,Default,,0,0,0,,I think this person is a bit weird
+Dialogue: 0,00:07:33.49,00:07:35.95,Default,,0,0,0,,At first I showed a very admiration for me
+Dialogue: 0,00:07:35.97,00:07:37.10,Default,,0,0,0,,I don’t care much about it
+Dialogue: 0,00:07:37.13,00:07:39.85,Default,,0,0,0,,I immediately showed admiration for the Jonie
+Dialogue: 0,00:07:40.13,00:07:41.81,Default,,0,0,0,,This is intentionally approaching us
+Dialogue: 0,00:07:41.97,00:07:43.05,Default,,0,0,0,,It’s definitely not against you
+Dialogue: 0,00:07:44.37,00:07:46.13,Default,,0,0,0,,You’re thinking too much
+Dialogue: 0,00:07:46.81,00:07:48.10,Default,,0,0,0,,Maybe
+Dialogue: 0,00:07:48.13,00:07:49.79,Default,,0,0,0,,But her performance just now
+Dialogue: 0,00:07:49.81,00:07:51.69,Default,,0,0,0,,I think it’s a bit suspicious, too
+Dialogue: 0,00:07:52.61,00:07:54.25,Default,,0,0,0,,Yes, Tibbie said it right
+Dialogue: 0,00:07:54.49,00:07:56.25,Default,,0,0,0,,All are related to mysterious people
+Dialogue: 0,00:07:56.89,00:07:58.61,Default,,0,0,0,,She snatched up
+Dialogue: 0,00:08:33.17,00:08:33.97,Default,,0,0,0,,I’m here
+Dialogue: 0,00:08:37.17,00:08:37.81,Default,,0,0,0,,Go in
+Dialogue: 0,00:08:41.33,00:08:42.45,Default,,0,0,0,,There is indeed a cat
+Dialogue: 0,00:08:42.69,00:08:43.41,Default,,0,0,0,,Go and have a look
+Dialogue: 0,00:08:50.97,00:08:52.01,Default,,0,0,0,,Nothing comes
+Dialogue: 0,00:08:53.61,00:08:55.45,Default,,0,0,0,,Hand in hand... Delivery...
+Dialogue: 0,00:08:57.57,00:08:59.01,Default,,0,0,0,,Hehehe, the Jonie...
+Dialogue: 0,00:09:00.09,00:09:00.97,Default,,0,0,0,,card…
+Dialogue: 0,00:09:03.29,00:09:04.09,Default,,0,0,0,,…weakness…
+Dialogue: 0,00:09:06.45,00:09:08.05,Default,,0,0,0,,It must be the mysterious subordinate
+Dialogue: 0,00:09:09.21,00:09:10.09,Default,,0,0,0,,Go in and take a look
+Dialogue: 0,00:09:14.93,00:09:16.21,Default,,0,0,0,,Nothing allowed
+Dialogue: 0,00:09:16.89,00:09:18.47,Default,,0,0,0,,You’re already enclosed
+Dialogue: 0,00:09:18.49,00:09:20.33,Default,,0,0,0,,Old point, put down your hand...
+Dialogue: 0,00:09:34.77,00:09:35.81,Default,,0,0,0,,This is...
+Dialogue: 0,00:09:37.57,00:09:38.71,Default,,0,0,0,,How about it...
+Dialogue: 0,00:09:38.73,00:09:41.35,Default,,0,0,0,,Now Fan Exchange Exchange Exchange Exchange Exchange Photos
+Dialogue: 0,00:09:41.37,00:09:44.63,Default,,0,0,0,,Is that serious?
+Dialogue: 0,00:09:44.65,00:09:47.25,Default,,0,0,0,,It seems to be... a mistake...
+Dialogue: 0,00:09:50.73,00:09:53.09,Default,,0,0,0,,Uh, she seems to be a Jonie
+Dialogue: 0,00:09:53.93,00:09:55.65,Default,,0,0,0,,Yes, it seems
+Dialogue: 0,00:09:56.57,00:09:58.67,Default,,0,0,0,,She is the Hot Goat...
+Dialogue: 0,00:09:58.69,00:10:00.63,Default,,0,0,0,,Jonie Jonie...
+Dialogue: 0,00:10:00.65,00:10:01.83,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:10:01.85,00:10:03.45,Default,,0,0,0,,What the hell is going on
+Dialogue: 0,00:10:03.85,00:10:06.27,Default,,0,0,0,,We are all members of the support of the Hot Goat
+Dialogue: 0,00:10:06.29,00:10:07.43,Default,,0,0,0,,It’s underway today
+Dialogue: 0,00:10:07.45,00:10:09.85,Default,,0,0,0,,The exchange meeting between the warm Paddi
+Dialogue: 0,00:10:10.77,00:10:11.49,Default,,0,0,0,,Surrounded?
+Dialogue: 0,00:10:11.93,00:10:12.97,Default,,0,0,0,,comminicate?
+Dialogue: 0,00:10:13.41,00:10:14.13,Default,,0,0,0,,No, no, no
+Dialogue: 0,00:10:14.69,00:10:18.19,Default,,0,0,0,,Then you just said it was a little weaker. What’s the card?
+Dialogue: 0,00:10:18.21,00:10:19.05,Default,,0,0,0,,What does it mean
+Dialogue: 0,00:10:19.33,00:10:19.81,Default,,0,0,0,,ah?
+Dialogue: 0,00:10:19.97,00:10:20.43,Default,,0,0,0,,oh
+Dialogue: 0,00:10:20.45,00:10:22.91,Default,,0,0,0,,I mean, the card of this Jonie was a little weak
+Dialogue: 0,00:10:22.93,00:10:24.31,Default,,0,0,0,,No big legs revealed
+Dialogue: 0,00:10:24.33,00:10:25.49,Default,,0,0,0,,ah
+Dialogue: 0,00:10:25.77,00:10:27.53,Default,,0,0,0,,So you...
+Dialogue: 0,00:10:28.25,00:10:29.87,Default,,0,0,0,,As a fan of the Hot Goat
+Dialogue: 0,00:10:29.89,00:10:31.15,Default,,0,0,0,,I’ve always wanted one
+Dialogue: 0,00:10:31.17,00:10:33.25,Default,,0,0,0,,Nuanyang Goat Limited Doll
+Dialogue: 0,00:10:33.57,00:10:35.15,Default,,0,0,0,,Then why are you all the way
+Dialogue: 0,00:10:35.17,00:10:37.49,Default,,0,0,0,,Always sneaking around
+Dialogue: 0,00:10:39.57,00:10:40.51,Default,,0,0,0,,No, no
+Dialogue: 0,00:10:40.53,00:10:42.43,Default,,0,0,0,,I just can’t find the way
+Dialogue: 0,00:10:42.45,00:10:45.21,Default,,0,0,0,,I almost missed the activity time
+Dialogue: 0,00:10:45.49,00:10:48.05,Default,,0,0,0,,Fans’ First Article: Not allowed to arrive
+Dialogue: 0,00:10:48.93,00:10:50.81,Default,,0,0,0,,It turns out...it’s like this...
+Dialogue: 0,00:10:56.09,00:10:57.51,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 0,00:10:57.53,00:11:00.59,Default,,0,0,0,,-I got the signature of the Nuanyang Goat Clothing
+Dialogue: 0,00:11:00.61,00:11:03.09,Default,,0,0,0,,I must let my family pass on for generations...
+Dialogue: 0,00:11:03.61,00:11:06.69,Default,,0,0,0,,We love you, Jonie, forever
+Dialogue: 0,00:11:08.05,00:11:09.65,Default,,0,0,0,,Thank you idol
+Dialogue: 0,00:11:10.37,00:11:11.31,Default,,0,0,0,,No thanks
+Dialogue: 0,00:11:11.33,00:11:13.59,Default,,0,0,0,,It’s our exchange meeting that will swear to everyone
+Dialogue: 0,00:11:13.61,00:11:15.89,Default,,0,0,0,,This is a supplement to everyone
+Dialogue: 0,00:11:18.05,00:11:20.83,Default,,0,0,0,,I also have the limited edition doll you want
+Dialogue: 0,00:11:20.85,00:11:22.01,Default,,0,0,0,,I’ll give it to you
+Dialogue: 0,00:11:22.93,00:11:24.13,Default,,0,0,0,,Really
+Dialogue: 0,00:11:24.69,00:11:25.49,Default,,0,0,0,,Of course
+Dialogue: 0,00:11:25.77,00:11:28.73,Default,,0,0,0,,But you need to go home with me to get it
+Dialogue: 0,00:11:29.25,00:11:32.85,Default,,0,0,0,,go home? Still don’t want it
+Dialogue: 0,00:11:34.33,00:11:35.71,Default,,0,0,0,,Compared to you sending me
+Dialogue: 0,00:11:35.73,00:11:38.49,Default,,0,0,0,,I want to get it through my own efforts
+Dialogue: 0,00:11:39.97,00:11:42.22,Default,,0,0,0,,Have brought you so much trouble
+Dialogue: 0,00:11:42.25,00:11:44.05,Default,,0,0,0,,Can’t beat you anymore
+Dialogue: 0,00:11:44.65,00:11:46.13,Default,,0,0,0,,Idol Goodbye
+Dialogue: 0,00:11:48.17,00:11:50.81,Default,,0,0,0,,OK See you again
+Dialogue: 0,00:11:52.53,00:11:54.57,Default,,0,0,0,,I always think she is not in a relationship
+Dialogue: 0,00:11:55.29,00:11:57.61,Default,,0,0,0,,What’s up? Still doubting
+Dialogue: 0,00:11:58.29,00:12:00.81,Default,,0,0,0,,My straightforward tells me that there is absolutely something wrong
+Dialogue: 0,00:12:07.61,00:12:09.03,Default,,0,0,0,,Bu Lei also wants one
+Dialogue: 0,00:12:09.05,00:12:11.49,Default,,0,0,0,,Nuanyang Goat Limited Edition Doll
+Dialogue: 0,00:12:13.69,00:12:17.43,Default,,0,0,0,,- Look at the stars and look at the moon...
+- How is Bu Lei
+Dialogue: 0,00:12:17.45,00:12:19.89,Default,,0,0,0,,Everything is under control
+Dialogue: 0,00:12:20.73,00:12:23.77,Default,,0,0,0,,Very good Don’t let me down
+Dialogue: 0,00:12:25.21,00:12:26.97,Default,,0,0,0,,Guaranteed completion of the mission
+Dialogue: 0,00:12:27.89,00:12:35.65,Default,,0,0,0,,The moon represents my heart. Dreams are sweet...
