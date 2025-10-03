@@ -67,7 +67,7 @@ Dialogue: 0,0:01:46.58,0:01:50.00,Default,,0,0,0,,I wonder if Weslie will accept
 Dialogue: 0,0:01:50.33,0:01:51.75,Default,,0,0,0,,I hope he will,
 Dialogue: 0,0:01:52.75,0:01:53.75,Default,,0,0,0,,but—
 Dialogue: 0,0:01:55.00,0:01:56.00,Default,,0,0,0,,Don’t worry,
-Dialogue: 0,0:01:56.00,0:01:58.50,Default,,0,0,0,,we’ve gotten the Bacteria King under control.
+Dialogue: 0,0:01:56.00,0:01:58.50,Default,,0,0,0,,we’ve gotten King Bacteria under control.
 Dialogue: 0,0:01:59.00,0:02:01.00,Default,,0,0,0,,Once we send him to some other galaxy,
 Dialogue: 0,0:02:01.00,0:02:03.83,Default,,0,0,0,,we’ll be able to go home and see Weslie.
 Dialogue: 0,0:02:06.00,0:02:07.83,Default,,0,0,0,,The refrigeration process is almost finished.
@@ -75,7 +75,7 @@ Dialogue: 0,0:02:09.75,0:02:11.50,Default,,0,0,0,,What’s this, Daddy?
 Dialogue: 0,0:02:12.50,0:02:15.58,Default,,0,0,0,,Mommy, Daddy, let’s play hide-and-seek!
 Dialogue: 0,0:02:16.25,0:02:18.66,Default,,0,0,0,,Turn around and start counting!
 Dialogue: 0,0:02:19.75,0:02:22.08,Default,,0,0,0,,Don’t run around. Some places are dangerous!
-Dialogue: 0,0:02:22.08,0:02:25.00,Default,,0,0,0,,The Bacteria King has entered hibernation.
+Dialogue: 0,0:02:22.08,0:02:25.00,Default,,0,0,0,,King Bacteria has entered hibernation.
 Dialogue: 0,0:02:26.00,0:02:28.25,Default,,0,0,0,,Let’s {\u1}head for the Sealing L{\s1\u0}seal away the l{\s0}obby.
 Dialogue: 0,0:02:42.91,0:02:45.50,Default,,0,0,0,,They’ll never find me in here!
 Dialogue: 0,0:03:00.66,0:03:01.91,Default,,0,0,0,,Let’s begin.
@@ -89,7 +89,7 @@ Dialogue: 0,0:03:49.00,0:03:51.91,Default,,0,0,0,,How naïve of you to think I�
 Dialogue: 0,0:03:53.00,0:03:54.58,Default,,0,0,0,,when it’s hardly cold in here!
 Dialogue: 0,0:03:54.83,0:03:57.58,Default,,0,0,0,,I’ve been w{\u1}aiting for you to come in{\u0\s1} ide awake{\s0} this whole time!
 Dialogue: 0,0:04:03.08,0:04:04.41,Default,,0,0,0,,Huh?
-Dialogue: 0,0:04:13.16,0:04:14.50,Default,,0,0,0,,Icy?
+Dialogue: 0,0:04:13.16,0:04:14.50,Default,,0,0,0,,BB Goat?
 Dialogue: 0,0:04:18.00,0:04:18.50,Default,,0,0,0,,What…
 Dialogue: 0,0:04:20.83,0:04:21.58,Default,,0,0,0,,What…
 Dialogue: 0,0:04:23.58,0:04:25.25,Default,,0,0,0,,What…
@@ -97,12 +97,12 @@ Dialogue: 0,0:04:27.50,0:04:30.33,Default,,0,0,0,,Undo it right now!
 Dialogue: 0,0:04:35.00,0:04:36.66,Default,,0,0,0,,What’s that, Daddy?
 Dialogue: 0,0:04:36.66,0:04:37.50,Default,,0,0,0,,He’s so cute!
 Dialogue: 0,0:04:37.50,0:04:38.00,Default,,0,0,0,,Oh no,
-Dialogue: 0,0:04:38.75,0:04:41.58,Default,,0,0,0,,the seal has captured Icy’s fingerprint!
+Dialogue: 0,0:04:38.75,0:04:41.58,Default,,0,0,0,,the seal has captured BB Goat’s fingerprint!
 Dialogue: 0,0:04:42.08,0:04:42.91,Default,,0,0,0,,What?
 Dialogue: 0,0:04:43.25,0:04:44.25,Default,,0,0,0,,Come out of there first.
 Dialogue: 0,0:04:44.50,0:04:44.83,Default,,0,0,0,,Okay.
 Dialogue: 0,0:04:47.08,0:04:48.08,Default,,0,0,0,,Where’d he go?
-Dialogue: 0,0:04:52.00,0:04:53.91,Default,,0,0,0,,The Bacteria King escaped.
+Dialogue: 0,0:04:52.00,0:04:53.91,Default,,0,0,0,,King Bacteria escaped.
 Dialogue: 0,0:04:53.91,0:04:56.41,Default,,0,0,0,,I can’t believe you guys sealed away my powers!
 Dialogue: 0,0:04:56.41,0:04:59.25,Default,,0,0,0,,I won’t let this slide!
 Dialogue: 0,0:05:01.83,0:05:03.16,Default,,0,0,0,,Follow us, okay?
@@ -110,7 +110,7 @@ Dialogue: 0,0:05:03.16,0:05:04.33,Default,,0,0,0,,Where do you think you’re go
 Dialogue: 0,0:05:05.25,0:05:08.66,Default,,0,0,0,,{\i1}She{\i0} must have been the one who sealed away my powers, right?
 Dialogue: 0,0:05:09.25,0:05:10.66,Default,,0,0,0,,{\u1}If you h{\u0\s1}H{\s0}and that little one over{\u1},{\u0\s1}!{\s0}
 Dialogue: 0,0:05:10.66,0:05:13.41,Default,,0,0,0,,{\s1}If you {\s0\u1}and{\u0} undo the seal for me, I’ll let you go.
-Dialogue: 0,0:05:15.75,0:05:17.91,Default,,0,0,0,,Take Icy to the escape hatch.
+Dialogue: 0,0:05:15.75,0:05:17.91,Default,,0,0,0,,Take BB Goat to the escape hatch.
 Dialogue: 0,0:05:17.91,0:05:19.75,Default,,0,0,0,,I’m going to get the Super Cube.
 Dialogue: 0,0:05:20.08,0:05:21.33,Default,,0,0,0,,Just you?
 Dialogue: 0,0:05:21.33,0:05:24.25,Default,,0,0,0,,There’s no time. Trust me.
@@ -120,7 +120,7 @@ Dialogue: 0,0:05:38.75,0:05:42.16,Default,,0,0,0,,At this point, I can’t even 
 Dialogue: 0,0:05:42.16,0:05:44.16,Default,,0,0,0,,But even then, he must be stopped.
 Dialogue: 0,0:05:44.16,0:05:45.41,Default,,0,0,0,,{\u1}Senseless/Pointless resistance{\u0\s1}Just give up already{\s0}!
 Dialogue: 0,0:05:53.25,0:05:54.91,Default,,0,0,0,,Mommy, where’s Daddy?
-Dialogue: 0,0:05:56.83,0:05:57.83,Default,,0,0,0,,Icy, sweetie,
+Dialogue: 0,0:05:56.83,0:05:57.83,Default,,0,0,0,,BB Goat, sweetie,
 Dialogue: 0,0:05:57.83,0:05:59.50,Default,,0,0,0,,I’m going to find Daddy right now.
 Dialogue: 0,0:05:59.50,0:06:02.16,Default,,0,0,0,,Later, we’ll all play games together.
 Dialogue: 0,0:06:02.16,0:06:04.00,Default,,0,0,0,,Stay here and don’t leave,
@@ -134,14 +134,14 @@ Dialogue: 0,0:06:20.41,0:06:21.25,Default,,0,0,0,,Look out!
 Dialogue: 0,0:06:21.58,0:06:22.75,Default,,0,0,0,,Lily!
 Dialogue: 0,0:06:23.25,0:06:24.08,Default,,0,0,0,,I’m fine.
 Dialogue: 0,0:06:26.33,0:06:28.75,Default,,0,0,0,,We’ve been frozen. I guess we’re not escaping.
-Dialogue: 0,0:06:31.33,0:06:33.83,Default,,0,0,0,,Icy and the Cube are our last hope.
+Dialogue: 0,0:06:31.33,0:06:33.83,Default,,0,0,0,,BB Goat and the Cube are our last hope.
 Dialogue: 0,0:06:37.16,0:06:38.16,Default,,0,0,0,,We’re back.
 Dialogue: 0,0:06:38.83,0:06:40.16,Default,,0,0,0,,Mommy, Daddy,
 Dialogue: 0,0:06:40.58,0:06:42.33,Default,,0,0,0,,why aren’t you getting in?
 Dialogue: 0,0:06:42.58,0:06:43.50,Default,,0,0,0,,Listen closely.
 Dialogue: 0,0:06:43.75,0:06:45.75,Default,,0,0,0,,Let’s play a new game.
 Dialogue: 0,0:06:45.72,0:06:46.52,Default,,0,0,0,,Okay!
-Dialogue: 0,0:06:46.52,0:06:49.66,Default,,0,0,0,,Keep this Cube safe, Icy.
+Dialogue: 0,0:06:46.52,0:06:49.66,Default,,0,0,0,,Keep this Cube safe, BB Goat.
 Dialogue: 0,0:06:51.58,0:06:54.16,Default,,0,0,0,,Go to Green Green Grassland and give it to your big brother.
 Dialogue: 0,0:06:54.58,0:06:55.25,Default,,0,0,0,,Got it?
 Dialogue: 0,0:06:55.75,0:06:56.83,Default,,0,0,0,,Got it!
@@ -153,7 +153,7 @@ Dialogue: 0,0:07:04.58,0:07:06.16,Default,,0,0,0,,His name is Weslie.
 Dialogue: 0,0:07:06.33,0:07:07.41,Default,,0,0,0,,Huh?
 Dialogue: 0,0:07:07.41,0:07:08.25,Default,,0,0,0,,What?
 Dialogue: 0,0:07:12.58,0:07:14.66,Default,,0,0,0,,We trust you, Weslie.
-Dialogue: 0,0:07:15.83,0:07:18.00,Default,,0,0,0,,Icy is all yours now.
+Dialogue: 0,0:07:15.83,0:07:18.00,Default,,0,0,0,,BB Goat is all yours now.
 Dialogue: 0,0:07:19.66,0:07:21.50,Default,,0,0,0,,I can’t believe she got away!
 Dialogue: 0,0:07:29.93,0:07:30.77,onscreen,,0,0,0,,{\pos(986,704)}Present
 Dialogue: 0,0:07:31.91,0:07:34.91,Default,,0,0,0,,Mom, Dad, when are you coming home?
@@ -169,9 +169,9 @@ Dialogue: 0,0:08:07.00,0:08:09.91,Default,,0,0,0,,I’ll be sure to solve the ri
 Dialogue: 0,0:08:10.08,0:08:12.25,Default,,0,0,0,,Come help me move them, guys.
 Dialogue: 0,0:08:13.16,0:08:14.33,Default,,0,0,0,,Just wait for a bit.
 Dialogue: 0,0:08:14.33,0:08:15.75,Default,,0,0,0,,I’ll take you later,
-Dialogue: 0,0:08:15.75,0:08:16.66,Default,,0,0,0,,Icy.
+Dialogue: 0,0:08:15.75,0:08:16.66,Default,,0,0,0,,BB Goat.
 Dialogue: 0,0:08:24.50,0:08:25.50,Default,,0,0,0,,All done.
-Dialogue: 0,0:08:30.00,0:08:31.08,Default,,0,0,0,,Where’s Icy?
+Dialogue: 0,0:08:30.00,0:08:31.08,Default,,0,0,0,,Where’s BB Goat?
 Dialogue: 0,0:08:37.08,0:08:40.00,Default,,0,0,0,,That’s how powerful my Super Stink Spray is!
 Dialogue: 0,0:08:41.75,0:08:42.33,Default,,0,0,0,,Who’s there?
 Dialogue: 0,0:08:45.91,0:08:46.91,Default,,0,0,0,,Look out!
@@ -257,7 +257,7 @@ Dialogue: 0,0:13:23.58,0:13:24.83,Default,,0,0,0,,Just you wait!
 Dialogue: 0,0:13:25.08,0:13:27.91,Default,,0,0,0,,One of these days, I’ll get that little one
 Dialogue: 0,0:13:27.91,0:13:29.41,Default,,0,0,0,,and unseal my powers!
 Dialogue: 0,0:13:29.50,0:13:31.66,Default,,0,0,0,,When that happens, you’ll all be meeting your doom!
-Dialogue: 0,0:13:32.33,0:13:34.83,Default,,0,0,0,,He was going after Icy to unseal his powers, I see.
+Dialogue: 0,0:13:32.33,0:13:34.83,Default,,0,0,0,,He was going after BB Goat to unseal his powers, I see.
 Dialogue: 0,0:13:35.41,0:13:36.58,Default,,0,0,0,,What “powers”?
 Dialogue: 0,0:13:37.16,0:13:37.91,Default,,0,0,0,,I don’t know,
 Dialogue: 0,0:13:37.91,0:13:39.58,Default,,0,0,0,,but either way, we can’t let him succeed.
