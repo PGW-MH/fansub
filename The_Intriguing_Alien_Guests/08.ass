@@ -61,7 +61,7 @@ Dialogue: 0,0:01:30.89,0:01:35.39,Default,,0,0,0,,{\i1}Mighty Little Defenders 2
 Dialogue: 0,0:01:37.10,0:01:39.77,Title,,0,0,0,,Paddi’s Great Cleaning
 Dialogue: 0,0:13:58.64,0:13:59.98,end,,0,0,0,,End
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:01:40.50,0:01:43.08,Default,,0,0,0,,Go ahead and search for Icy’s big brother.
+Dialogue: 0,0:01:40.50,0:01:43.08,Default,,0,0,0,,Go ahead and search for BB Goat’s big brother.
 Dialogue: 0,0:01:43.08,0:01:45.16,Default,,0,0,0,,I’ll take care of her!
 Dialogue: 0,0:01:49.58,0:01:50.33,Default,,0,0,0,,A stamp?
 Dialogue: 0,0:01:50.50,0:01:52.25,Default,,0,0,0,,I’ve gotten quite a few lately.
@@ -89,7 +89,7 @@ Dialogue: 0,0:02:45.50,0:02:46.33,Default,,0,0,0,,Sure.
 Dialogue: 0,0:02:46.33,0:02:47.66,Default,,0,0,0,,It’s very important for me!
 Dialogue: 0,0:02:48.41,0:02:50.25,Default,,0,0,0,,Remember to leave a positive review!
 Dialogue: 0,0:02:53.25,0:02:55.50,Default,,0,0,0,,The easy-to-deal-with Paddi is all alone.
-Dialogue: 0,0:02:55.66,0:02:57.91,Default,,0,0,0,,Here I come, Icy!
+Dialogue: 0,0:02:55.66,0:02:57.91,Default,,0,0,0,,Here I come, BB Goat!
 Dialogue: 0,0:03:01.08,0:03:02.16,Default,,0,0,0,,Stamps… Stamps…
 Dialogue: 0,0:03:06.08,0:03:08.00,Default,,0,0,0,,I’m about to get—
 Dialogue: 0,0:03:11.00,0:03:13.75,Default,,0,0,0,,I’m about to get the handprint!
@@ -103,8 +103,8 @@ Dialogue: 0,0:03:43.75,0:03:45.00,Default,,0,0,0,,Eww!
 Dialogue: 0,0:03:45.00,0:03:47.00,Default,,0,0,0,,I’m a hygienic bacterium, you know!
 Dialogue: 0,0:03:47.41,0:03:50.41,Default,,0,0,0,,I’ll come back to deal with you once I’ve gotten clean!
 Dialogue: 0,0:03:50.41,0:03:51.58,Default,,0,0,0,,Come back!
-Dialogue: 0,0:03:51.66,0:03:54.16,Default,,0,0,0,,Too loud! Be quiet, Icy!
-Dialogue: 0,0:03:56.41,0:03:58.50,Default,,0,0,0,,You can’t run off, Icy.
+Dialogue: 0,0:03:51.66,0:03:54.16,Default,,0,0,0,,Too loud! Be quiet, BB Goat!
+Dialogue: 0,0:03:56.41,0:03:58.50,Default,,0,0,0,,You can’t run off, BB Goat.
 Dialogue: 0,0:03:58.75,0:04:00.33,Default,,0,0,0,,Brother Paddi!
 Dialogue: 0,0:04:00.33,0:04:01.75,Default,,0,0,0,,Eww!
 Dialogue: 0,0:04:01.75,0:04:02.93,Default,,0,0,0,,Go wash your hands!
@@ -121,7 +121,7 @@ Dialogue: 0,0:04:26.00,0:04:28.33,Default,,0,0,0,,How am I supposed to clean up 
 Dialogue: 0,0:04:30.83,0:04:32.66,Default,,0,0,0,,Let’s clean, Paddi!
 Dialogue: 0,0:04:34.50,0:04:35.91,Default,,0,0,0,,Stop sweeping!
 Dialogue: 0,0:04:41.41,0:04:43.83,Default,,0,0,0,,How did it get longer?
-Dialogue: 0,0:04:52.83,0:04:53.75,Default,,0,0,0,,Icy,
+Dialogue: 0,0:04:52.83,0:04:53.75,Default,,0,0,0,,BB Goat,
 Dialogue: 0,0:04:54.33,0:04:56.08,Default,,0,0,0,,go take a bath.
 Dialogue: 0,0:04:59.16,0:05:00.91,Default,,0,0,0,,I’m back!
 Dialogue: 0,0:05:04.83,0:05:06.83,Default,,0,0,0,,How did it get even dirtier?
@@ -168,29 +168,29 @@ Dialogue: 0,0:07:58.50,0:07:59.58,Default,,0,0,0,,No, I didn’t.
 Dialogue: 0,0:07:59.83,0:08:01.58,Default,,0,0,0,,Enough excuses!
 Dialogue: 0,0:08:05.75,0:08:07.66,Default,,0,0,0,,Why do I always fail?
 Dialogue: 0,0:08:08.66,0:08:10.25,Default,,0,0,0,,Spider!
-Dialogue: 0,0:08:13.16,0:08:14.00,Default,,0,0,0,,Icy,
+Dialogue: 0,0:08:13.16,0:08:14.00,Default,,0,0,0,,BB Goat,
 Dialogue: 0,0:08:14.58,0:08:17.08,Default,,0,0,0,,you have nowhere to run!
 Dialogue: 0,0:08:26.83,0:08:27.83,Default,,0,0,0,,Paddi—
 Dialogue: 0,0:08:29.00,0:08:30.41,Default,,0,0,0,,I have to clean again.
 Dialogue: 0,0:08:30.41,0:08:31.50,Default,,0,0,0,,Paddi!
 Dialogue: 0,0:08:32.75,0:08:34.00,Default,,0,0,0,,What now?
-Dialogue: 0,0:08:35.91,0:08:36.75,Default,,0,0,0,,Icy!
-Dialogue: 0,0:08:39.25,0:08:41.16,Default,,0,0,0,,Let go of Icy!
+Dialogue: 0,0:08:35.91,0:08:36.75,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:08:39.25,0:08:41.16,Default,,0,0,0,,Let go of BB Goat!
 Dialogue: 0,0:08:44.50,0:08:47.91,Default,,0,0,0,,Are my inventions actually completely useless?
 Dialogue: 0,0:08:48.50,0:08:49.58,Default,,0,0,0,,Out of my way!
 Dialogue: 0,0:08:49.91,0:08:50.91,Default,,0,0,0,,Huh?
 Dialogue: 0,0:08:52.50,0:08:53.91,Default,,0,0,0,,It’s you again!
-Dialogue: 0,0:08:53.91,0:08:56.00,Default,,0,0,0,,Icy’s been captured!
-Dialogue: 0,0:08:58.16,0:08:59.41,Default,,0,0,0,,Icy!
-Dialogue: 0,0:09:01.08,0:09:02.91,Default,,0,0,0,,Let go of Icy!
-Dialogue: 0,0:09:09.33,0:09:11.08,Default,,0,0,0,,Are you okay, Icy?
+Dialogue: 0,0:08:53.91,0:08:56.00,Default,,0,0,0,,BB Goat’s been captured!
+Dialogue: 0,0:08:58.16,0:08:59.41,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:09:01.08,0:09:02.91,Default,,0,0,0,,Let go of BB Goat!
+Dialogue: 0,0:09:09.33,0:09:11.08,Default,,0,0,0,,Are you okay, BB Goat?
 Dialogue: 0,0:09:19.83,0:09:21.33,Default,,0,0,0,,What’s going on?
 Dialogue: 0,0:09:21.66,0:09:23.00,Default,,0,0,0,,The flower!
-Dialogue: 0,0:09:24.91,0:09:26.00,Default,,0,0,0,,Icy,
+Dialogue: 0,0:09:24.91,0:09:26.00,Default,,0,0,0,,BB Goat,
 Dialogue: 0,0:09:26.00,0:09:27.33,Default,,0,0,0,,get back here!
 Dialogue: 0,0:09:27.33,0:09:28.75,Default,,0,0,0,,I’ll help!
 Dialogue: 0,0:09:35.00,0:09:37.25,Default,,0,0,0,,Use the soap to scrub the spider clean
-Dialogue: 0,0:09:37.25,0:09:39.25,Default,,0,0,0,,so the Bacteria King can’t possess it anymore!
+Dialogue: 0,0:09:37.25,0:09:39.25,Default,,0,0,0,,so King Bacteria can’t possess it anymore!
 Dialogue: 0,0:09:39.25,0:09:39.91,Default,,0,0,0,,Okay!
 Dialogue: 0,0:09:53.00,0:09:54.33,Default,,0,0,0,,I can’t get hit again!
 Dialogue: 0,0:09:54.50,0:09:55.83,Default,,0,0,0,,Watch this!
@@ -201,17 +201,17 @@ Dialogue: 0,0:10:07.33,0:10:09.75,Default,,0,0,0,,I’ll use the broom to get yo
 Dialogue: 0,0:10:15.00,0:10:18.08,Default,,0,0,0,,Go, Paddi!
 Dialogue: 0,0:10:23.16,0:10:26.75,Default,,0,0,0,,You said you’d use the broom, not make me fly!
 Dialogue: 0,0:10:30.08,0:10:31.50,Default,,0,0,0,,Another one?
-Dialogue: 0,0:10:33.50,0:10:36.08,Default,,0,0,0,,Icy, why aren’t you letting go of the spider?
+Dialogue: 0,0:10:33.50,0:10:36.08,Default,,0,0,0,,BB Goat, why aren’t you letting go of the spider?
 Dialogue: 0,0:10:36.16,0:10:37.50,Default,,0,0,0,,Let go!
 Dialogue: 0,0:10:43.50,0:10:44.66,Default,,0,0,0,,Got it!
-Dialogue: 0,0:10:48.00,0:10:50.16,Default,,0,0,0,,Icy!
-Dialogue: 0,0:10:55.00,0:10:56.33,Default,,0,0,0,,Icy!
-Dialogue: 0,0:10:58.25,0:11:01.58,Default,,0,0,0,,Icy!
+Dialogue: 0,0:10:48.00,0:10:50.16,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:10:55.00,0:10:56.33,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:10:58.25,0:11:01.58,Default,,0,0,0,,BB Goat!
 Dialogue: 0,0:11:09.08,0:11:09.83,Default,,0,0,0,,Will I…
 Dialogue: 0,0:11:10.58,0:11:14.16,Default,,0,0,0,,Will I be stuck like this forever?
 Dialogue: 0,0:11:32.16,0:11:33.58,Default,,0,0,0,,I have a gadget now, too?
-Dialogue: 0,0:11:34.33,0:11:35.66,Default,,0,0,0,,Icy!
-Dialogue: 0,0:11:36.16,0:11:37.33,Default,,0,0,0,,Icy!
+Dialogue: 0,0:11:34.33,0:11:35.66,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:11:36.16,0:11:37.33,Default,,0,0,0,,BB Goat!
 Dialogue: 0,0:11:44.66,0:11:45.58,Default,,0,0,0,,Are you okay?
 Dialogue: 0,0:11:46.16,0:11:48.16,Default,,0,0,0,,My power is suction?
 Dialogue: 0,0:11:48.83,0:11:52.08,Default,,0,0,0,,Hand that little one over!
@@ -219,7 +219,7 @@ Dialogue: 0,0:12:10.91,0:12:14.66,Default,,0,0,0,,I’ll be back!
 Dialogue: 0,0:12:16.66,0:12:18.00,Default,,0,0,0,,Brother Paddi,
 Dialogue: 0,0:12:18.25,0:12:20.00,Default,,0,0,0,,the flower!
 Dialogue: 0,0:12:23.25,0:12:24.16,Default,,0,0,0,,Silly,
-Dialogue: 0,0:12:24.16,0:12:27.08,Default,,0,0,0,,did you not let go of the Bacteria King just to help me get a stamp?
+Dialogue: 0,0:12:24.16,0:12:27.08,Default,,0,0,0,,did you not let go of King Bacteria just to help me get a stamp?
 Dialogue: 0,0:12:27.75,0:12:29.33,Default,,0,0,0,,It’s your flower!
 Dialogue: 0,0:12:32.00,0:12:33.41,Default,,0,0,0,,Thanks.
 Dialogue: 0,0:12:34.16,0:12:36.83,Default,,0,0,0,,I’ve come to rescue you, Paddi!
@@ -230,14 +230,14 @@ Dialogue: 0,0:12:52.83,0:12:55.00,Default,,0,0,0,,so there’s no way I’m trad
 Dialogue: 0,0:12:56.16,0:12:58.25,Default,,0,0,0,,Just eat what I’ve made.
 Dialogue: 0,0:13:02.08,0:13:02.83,Default,,0,0,0,,By the way,
 Dialogue: 0,0:13:03.33,0:13:05.16,Default,,0,0,0,,thank you, Wolffy.
-Dialogue: 0,0:13:05.16,0:13:08.75,Default,,0,0,0,,Your cleaning kit really did help in saving Icy.
+Dialogue: 0,0:13:05.16,0:13:08.75,Default,,0,0,0,,Your cleaning kit really did help in saving BB Goat.
 Dialogue: 0,0:13:08.75,0:13:11.58,Default,,0,0,0,,My cleaning kit is very useful, isn’t it?
 Dialogue: 0,0:13:12.33,0:13:14.08,Default,,0,0,0,,Don’t get stuck in your head, okay?
 Dialogue: 0,0:13:16.58,0:13:17.25,Default,,0,0,0,,Just you wait.
 Dialogue: 0,0:13:17.25,0:13:19.75,Default,,0,0,0,,Next time, I’ll invent something even more useful.
 Dialogue: 0,0:13:19.75,0:13:21.25,Default,,0,0,0,,I look forward to it.
 Dialogue: 0,0:13:23.33,0:13:24.83,Default,,0,0,0,,We’re back.
-Dialogue: 0,0:13:25.25,0:13:28.16,Default,,0,0,0,,Weslie, have you guys found Icy’s brother?
+Dialogue: 0,0:13:25.25,0:13:28.16,Default,,0,0,0,,Weslie, have you guys found BB Goat’s brother?
 Dialogue: 0,0:13:28.50,0:13:29.58,Default,,0,0,0,,No.
 Dialogue: 0,0:13:31.75,0:13:34.58,Default,,0,0,0,,Let’s keep searching tomorrow, then!
 Dialogue: 0,0:13:36.41,0:13:38.75,Default,,0,0,0,,What are those on your arms, Paddi?

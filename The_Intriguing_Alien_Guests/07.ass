@@ -61,11 +61,11 @@ Dialogue: 0,0:01:30.89,0:01:35.39,Default,,0,0,0,,{\i1}Mighty Little Defenders 2
 Dialogue: 0,0:01:37.10,0:01:39.77,Title,,0,0,0,,The Insect Princess
 Dialogue: 0,0:13:57.85,0:13:59.98,end,,0,0,0,,End
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:01:40.75,0:01:43.33,Default,,0,0,0,,We still haven’t found any leads on Icy’s brother.
+Dialogue: 0,0:01:40.75,0:01:43.33,Default,,0,0,0,,We still haven’t found any leads on BB Goat’s brother.
 Dialogue: 0,0:01:44.58,0:01:45.83,Default,,0,0,0,,Is that Mr. Slowy?
 Dialogue: 0,0:01:47.00,0:01:47.66,Default,,0,0,0,,Mr. Slowy,
 Dialogue: 0,0:01:48.75,0:01:50.41,Default,,0,0,0,,I thought you were in the laboratory
-Dialogue: 0,0:01:50.41,0:01:52.25,Default,,0,0,0,,looking for leads of Icy’s brother?
+Dialogue: 0,0:01:50.41,0:01:52.25,Default,,0,0,0,,looking for leads of BB Goat’s brother?
 Dialogue: 0,0:01:53.16,0:01:56.00,Default,,0,0,0,,I wanted to bring some everyday items to the laboratory
 Dialogue: 0,0:01:56.00,0:01:58.33,Default,,0,0,0,,so I wouldn’t need to run back and forth.
 Dialogue: 0,0:02:00.41,0:02:01.58,Default,,0,0,0,,Oh, my back!
@@ -76,13 +76,13 @@ Dialogue: 0,0:02:19.58,0:02:23.16,Default,,0,0,0,,Could you guys also move all o
 Dialogue: 0,0:02:23.58,0:02:25.41,Default,,0,0,0,,All of that?
 Dialogue: 0,0:02:27.66,0:02:31.16,Default,,0,0,0,,Leave such heavy tasks to us boys!
 Dialogue: 0,0:02:31.58,0:02:33.58,Default,,0,0,0,,Thank you, Sparky.
-Dialogue: 0,0:02:42.83,0:02:45.25,Default,,0,0,0,,Don’t run off, Icy.
+Dialogue: 0,0:02:42.83,0:02:45.25,Default,,0,0,0,,Don’t run off, BB Goat.
 Dialogue: 0,0:02:46.33,0:02:47.91,Default,,0,0,0,,Let me help, too.
 Dialogue: 0,0:02:49.41,0:02:51.58,Default,,0,0,0,,Leave the carrying to us, Tibbie.
-Dialogue: 0,0:02:52.08,0:02:54.66,Default,,0,0,0,,You can watch over Icy.
+Dialogue: 0,0:02:52.08,0:02:54.66,Default,,0,0,0,,You can watch over BB Goat.
 Dialogue: 0,0:02:54.66,0:02:56.16,Default,,0,0,0,,Okay!
-Dialogue: 0,0:02:57.83,0:02:58.83,Default,,0,0,0,,Where’s Icy?
-Dialogue: 0,0:03:02.25,0:03:04.08,Default,,0,0,0,,Come back, Icy!
+Dialogue: 0,0:02:57.83,0:02:58.83,Default,,0,0,0,,Where’s BB Goat?
+Dialogue: 0,0:03:02.25,0:03:04.08,Default,,0,0,0,,Come back, BB Goat!
 Dialogue: 0,0:03:05.16,0:03:07.00,Default,,0,0,0,,Come here, buggy!
 Dialogue: 0,0:03:07.00,0:03:08.83,Default,,0,0,0,,You’re the one who needs to come here!
 Dialogue: 0,0:03:10.91,0:03:13.25,Default,,0,0,0,,I failed because I was too high-profile before.
@@ -102,7 +102,7 @@ Dialogue: 0,0:03:44.83,0:03:47.00,Default,,0,0,0,,I’m a hygienic bacterium, yo
 Dialogue: 0,0:03:47.00,0:03:48.91,Default,,0,0,0,,Whatever!
 Dialogue: 0,0:03:49.00,0:03:51.33,Default,,0,0,0,,No one will suspect me this time!
 Dialogue: 0,0:03:52.00,0:03:53.41,Default,,0,0,0,,Wait for me!
-Dialogue: 0,0:03:58.83,0:04:00.66,Default,,0,0,0,,Icy, wait for me!
+Dialogue: 0,0:03:58.83,0:04:00.66,Default,,0,0,0,,BB Goat, wait for me!
 Dialogue: 0,0:04:01.91,0:04:02.91,Default,,0,0,0,,Sister Tibbie,
 Dialogue: 0,0:04:03.16,0:04:03.83,Default,,0,0,0,,look!
 Dialogue: 0,0:04:06.83,0:04:07.91,Default,,0,0,0,,Don’t do that!
@@ -110,38 +110,38 @@ Dialogue: 0,0:04:08.08,0:04:10.00,Default,,0,0,0,,You’ll suffocate it!
 Dialogue: 0,0:04:17.91,0:04:19.16,Default,,0,0,0,,It won’t suffocate
 Dialogue: 0,0:04:19.16,0:04:20.83,Default,,0,0,0,,if I hold it like this!
 Dialogue: 0,0:04:24.75,0:04:26.16,Default,,0,0,0,,It flew away, too.
-Dialogue: 0,0:04:26.50,0:04:30.00,Default,,0,0,0,,Holding it like that will hurt it, Icy.
+Dialogue: 0,0:04:26.50,0:04:30.00,Default,,0,0,0,,Holding it like that will hurt it, BB Goat.
 Dialogue: 0,0:04:33.41,0:04:34.50,Default,,0,0,0,,It’s a bug!
 Dialogue: 0,0:04:34.83,0:04:36.91,Default,,0,0,0,,If you don’t stop running off, I’ll get mad!
 Dialogue: 0,0:04:37.75,0:04:40.25,Default,,0,0,0,,Look, Tibbie! It’s a bug!
 Dialogue: 0,0:04:40.41,0:04:41.25,Default,,0,0,0,,Look! Look!
-Dialogue: 0,0:04:43.00,0:04:44.33,Default,,0,0,0,,Icy!
+Dialogue: 0,0:04:43.00,0:04:44.33,Default,,0,0,0,,BB Goat!
 Dialogue: 0,0:04:47.08,0:04:49.75,Default,,0,0,0,,Don’t move! I’ll pull you up!
 Dialogue: 0,0:05:00.66,0:05:01.91,Default,,0,0,0,,I’m so tired.
 Dialogue: 0,0:05:08.16,0:05:10.00,Default,,0,0,0,,If I can get this guy,
-Dialogue: 0,0:05:10.00,0:05:12.91,Default,,0,0,0,,I’ll be able to force him to tell me where Icy is!
+Dialogue: 0,0:05:10.00,0:05:12.91,Default,,0,0,0,,I’ll be able to force him to tell me where BB Goat is!
 Dialogue: 0,0:05:16.08,0:05:17.41,Default,,0,0,0,,It’s so heavy.
 Dialogue: 0,0:05:19.58,0:05:21.16,Default,,0,0,0,,I’ll warm up a bit first.
 Dialogue: 0,0:05:23.83,0:05:26.25,Default,,0,0,0,,Am I some sick cat to you or what?
 Dialogue: 0,0:05:30.83,0:05:31.83,Default,,0,0,0,,Got you.
 Dialogue: 0,0:05:32.75,0:05:33.91,Default,,0,0,0,,Got who?
 Dialogue: 0,0:05:34.58,0:05:35.91,Default,,0,0,0,,Well, of course it’s—
-Dialogue: 0,0:05:38.75,0:05:41.16,Default,,0,0,0,,Are you helping me carry the chair, Brother Tai?
+Dialogue: 0,0:05:38.75,0:05:41.16,Default,,0,0,0,,Are you helping me carry the chair, Tyger?
 Dialogue: 0,0:05:43.25,0:05:44.75,Default,,0,0,0,,Carrying chairs?
-Dialogue: 0,0:05:46.16,0:05:46.75,Default,,0,0,0,,Brother Tai?
+Dialogue: 0,0:05:46.16,0:05:46.75,Default,,0,0,0,,Tyger?
 Dialogue: 0,0:05:49.00,0:05:51.25,Default,,0,0,0,,Doesn’t this guy not stand out?
 Dialogue: 0,0:05:51.50,0:05:53.33,Default,,0,0,0,,Why do the goats all know him?
 Dialogue: 0,0:05:54.58,0:05:57.25,Default,,0,0,0,,Let me help you guys out with this.
-Dialogue: 0,0:06:00.08,0:06:01.33,Default,,0,0,0,,Thank you, Brother Tai.
-Dialogue: 0,0:06:02.91,0:06:04.16,Default,,0,0,0,,You’re so kind, Brother Tai!
+Dialogue: 0,0:06:00.08,0:06:01.33,Default,,0,0,0,,Thank you, Tyger.
+Dialogue: 0,0:06:02.91,0:06:04.16,Default,,0,0,0,,You’re so kind, Tyger!
 Dialogue: 0,0:06:05.83,0:06:07.91,Default,,0,0,0,,Sorry that there’s so much stuff.
 Dialogue: 0,0:06:09.41,0:06:11.75,Default,,0,0,0,,Are you actually sorry?
 Dialogue: 0,0:06:13.00,0:06:14.00,Default,,0,0,0,,It’s fine.
 Dialogue: 0,0:06:14.00,0:06:16.25,Default,,0,0,0,,I’ll just finish this first.
 Dialogue: 0,0:06:17.58,0:06:19.08,Default,,0,0,0,,All done!
 Dialogue: 0,0:06:19.33,0:06:20.50,Default,,0,0,0,,I’m so tired.
-Dialogue: 0,0:06:21.08,0:06:23.50,Default,,0,0,0,,We only finished so quickly because of Brother Tai!
-Dialogue: 0,0:06:24.50,0:06:26.00,Default,,0,0,0,,Thank you, Brother Tai!
+Dialogue: 0,0:06:21.08,0:06:23.50,Default,,0,0,0,,We only finished so quickly because of Tyger!
+Dialogue: 0,0:06:24.50,0:06:26.00,Default,,0,0,0,,Thank you, Tyger!
 Dialogue: 0,0:06:26.41,0:06:27.83,Default,,0,0,0,,You’re welcome.
 Dialogue: 0,0:06:34.41,0:06:35.66,Default,,0,0,0,,Mr. Slowy!
 Dialogue: 0,0:06:36.08,0:06:38.08,Default,,0,0,0,,There’s less room than I thought.
@@ -149,7 +149,7 @@ Dialogue: 0,0:06:38.41,0:06:40.25,Default,,0,0,0,,I’ll just keep this.
 Dialogue: 0,0:06:40.25,0:06:42.58,Default,,0,0,0,,Could you guys move the rest of this back for me?
 Dialogue: 0,0:06:42.58,0:06:44.00,Default,,0,0,0,,I’m really sorry.
 Dialogue: 0,0:06:44.00,0:06:45.33,Default,,0,0,0,,What?
-Dialogue: 0,0:06:52.58,0:06:54.25,Default,,0,0,0,,Icy, are you okay?
+Dialogue: 0,0:06:52.58,0:06:54.25,Default,,0,0,0,,BB Goat, are you okay?
 Dialogue: 0,0:06:54.66,0:06:55.91,Default,,0,0,0,,This place is so scary.
 Dialogue: 0,0:06:56.50,0:06:57.16,Default,,0,0,0,,Don’t worry,
 Dialogue: 0,0:06:57.16,0:06:58.83,Default,,0,0,0,,we’re just in a cave.
@@ -171,7 +171,7 @@ Dialogue: 0,0:08:05.75,0:08:07.66,Default,,0,0,0,,Bugs are so cool!
 Dialogue: 0,0:08:08.41,0:08:09.33,Default,,0,0,0,,Yes,
 Dialogue: 0,0:08:09.58,0:08:12.00,Default,,0,0,0,,but at the same time, they’re very fragile.
 Dialogue: 0,0:08:12.16,0:08:14.25,Default,,0,0,0,,We have to make sure not to hurt them.
-Dialogue: 0,0:08:24.25,0:08:26.00,Default,,0,0,0,,Brother Tai’s done a lot for us today.
+Dialogue: 0,0:08:24.25,0:08:26.00,Default,,0,0,0,,Tyger’s done a lot for us today.
 Dialogue: 0,0:08:26.91,0:08:29.25,Default,,0,0,0,,By the way, what have you come to Goats’ Village for?
 Dialogue: 0,0:08:29.66,0:08:32.25,Default,,0,0,0,,I heard that there’s a new kid in the village,
 Dialogue: 0,0:08:32.25,0:08:34.25,Default,,0,0,0,,so I wanted to see if she’d be interested in joining
@@ -181,25 +181,25 @@ Dialogue: 0,0:08:38.91,0:08:39.66,Default,,0,0,0,,What?
 Dialogue: 0,0:08:40.00,0:08:42.00,Default,,0,0,0,,Why didn’t you guys say so?
 Dialogue: 0,0:08:42.41,0:08:44.50,Default,,0,0,0,,You made me do so much work for so long!
 Dialogue: 0,0:08:45.00,0:08:45.91,Default,,0,0,0,,Paddi!
-Dialogue: 0,0:08:47.91,0:08:49.41,Default,,0,0,0,,What’s wrong with you, Brother Tai?
-Dialogue: 0,0:08:50.16,0:08:52.00,Default,,0,0,0,,Has he been possessed by the Bacteria King?
+Dialogue: 0,0:08:47.91,0:08:49.41,Default,,0,0,0,,What’s wrong with you, Tyger?
+Dialogue: 0,0:08:50.16,0:08:52.00,Default,,0,0,0,,Has he been possessed by King Bacteria?
 Dialogue: 0,0:08:52.66,0:08:56.00,Default,,0,0,0,,Since you’ve found out, I’ll destroy you all!
 Dialogue: 0,0:08:56.41,0:08:57.16,Default,,0,0,0,,Let’s go!
 Dialogue: 0,0:09:00.83,0:09:02.58,Default,,0,0,0,,Bring it on, Bacteria King!
 Dialogue: 0,0:09:02.58,0:09:05.25,Default,,0,0,0,,Weslie and Sparky are still better than you!
 Dialogue: 0,0:09:06.58,0:09:07.83,Default,,0,0,0,,What?
-Dialogue: 0,0:09:08.25,0:09:10.00,Default,,0,0,0,,Brother Tai is really strong.
-Dialogue: 0,0:09:10.41,0:09:12.16,Default,,0,0,0,,Good thing Icy isn’t here.
+Dialogue: 0,0:09:08.25,0:09:10.00,Default,,0,0,0,,Tyger is really strong.
+Dialogue: 0,0:09:10.41,0:09:12.16,Default,,0,0,0,,Good thing BB Goat isn’t here.
 Dialogue: 0,0:09:12.41,0:09:13.75,Default,,0,0,0,,We’re back!
 Dialogue: 0,0:09:15.91,0:09:17.16,Default,,0,0,0,,Tibbie!
 Dialogue: 0,0:09:18.66,0:09:19.91,Default,,0,0,0,,Are you guys done?
 Dialogue: 0,0:09:20.58,0:09:22.58,Default,,0,0,0,,Behind you!
 Dialogue: 0,0:09:25.50,0:09:26.66,Default,,0,0,0,,Tibbie!
-Dialogue: 0,0:09:26.91,0:09:27.75,Default,,0,0,0,,Icy!
+Dialogue: 0,0:09:26.91,0:09:27.75,Default,,0,0,0,,BB Goat!
 Dialogue: 0,0:09:28.58,0:09:30.50,Default,,0,0,0,,I’ve caught you at last!
-Dialogue: 0,0:09:32.16,0:09:33.97,Default,,0,0,0,,Icy!
-Dialogue: 0,0:09:33.97,0:09:36.00,Default,,0,0,0,,Where in the world has the Bacteria King taken Icy?
-Dialogue: 0,0:09:40.25,0:09:43.08,Default,,0,0,0,,It’s all my fault for not protecting Icy.
+Dialogue: 0,0:09:32.16,0:09:33.97,Default,,0,0,0,,BB Goat!
+Dialogue: 0,0:09:33.97,0:09:36.00,Default,,0,0,0,,Where in the world has King Bacteria taken BB Goat?
+Dialogue: 0,0:09:40.25,0:09:43.08,Default,,0,0,0,,It’s all my fault for not protecting BB Goat.
 Dialogue: 0,0:09:43.58,0:09:45.00,Default,,0,0,0,,No, Tibbie!
 Dialogue: 0,0:09:45.00,0:09:46.33,Default,,0,0,0,,This isn’t your fault!
 Dialogue: 0,0:09:46.33,0:09:47.50,Default,,0,0,0,,It’s all because of that—
@@ -211,19 +211,19 @@ Dialogue: 0,0:10:00.83,0:10:02.00,Default,,0,0,0,,It’s not just that butterfly
 Dialogue: 0,0:10:02.00,0:10:04.00,Default,,0,0,0,,All of the insects in this forest are glowing.
 Dialogue: 0,0:10:06.75,0:10:08.50,Default,,0,0,0,,It’s that light again!
 Dialogue: 0,0:10:27.58,0:10:28.83,Default,,0,0,0,,What the…?
-Dialogue: 0,0:10:30.66,0:10:33.16,Default,,0,0,0,,Follow me. Icy is this way.
-Dialogue: 0,0:10:35.33,0:10:38.16,Default,,0,0,0,,Follow me, guys! Icy is this way!
+Dialogue: 0,0:10:30.66,0:10:33.16,Default,,0,0,0,,Follow me. BB Goat is this way.
+Dialogue: 0,0:10:35.33,0:10:38.16,Default,,0,0,0,,Follow me, guys! BB Goat is this way!
 Dialogue: 0,0:10:41.00,0:10:41.91,Default,,0,0,0,,Tibbie,
-Dialogue: 0,0:10:41.91,0:10:44.08,Default,,0,0,0,,how did you know where Icy is?
+Dialogue: 0,0:10:41.91,0:10:44.08,Default,,0,0,0,,how did you know where BB Goat is?
 Dialogue: 0,0:10:44.66,0:10:46.08,Default,,0,0,0,,The butterfly told me.
 Dialogue: 0,0:10:48.91,0:10:51.08,Default,,0,0,0,,I’m not lying!
 Dialogue: 0,0:10:53.83,0:10:56.00,Default,,0,0,0,,Let’s cut to the chase.
 Dialogue: 0,0:10:56.00,0:10:58.00,Default,,0,0,0,,Hurry up and undo the seal for me!
 Dialogue: 0,0:10:58.00,0:10:59.08,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:10:59.75,0:11:01.16,Default,,0,0,0,,Let Icy go right now!
+Dialogue: 0,0:10:59.75,0:11:01.16,Default,,0,0,0,,Let BB Goat go right now!
 Dialogue: 0,0:11:02.08,0:11:04.16,Default,,0,0,0,,You really think you can stop
 Dialogue: 0,0:11:04.16,0:11:07.25,Default,,0,0,0,,these speedy, strong muscles of mine?
-Dialogue: 0,0:11:07.75,0:11:09.75,Default,,0,0,0,,Brother Tai is, in fact, very strong.
+Dialogue: 0,0:11:07.75,0:11:09.75,Default,,0,0,0,,Tyger is, in fact, very strong.
 Dialogue: 0,0:11:10.00,0:11:12.00,Default,,0,0,0,,That was just a one-time thing.
 Dialogue: 0,0:11:12.08,0:11:13.66,Default,,0,0,0,,We won’t lose this time!
 Dialogue: 0,0:11:13.91,0:11:14.91,Default,,0,0,0,,Let’s go!
