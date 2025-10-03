@@ -1,0 +1,181 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.65,00:00:24.29,Default,,0,0,0,,Is this the next link?
+Dialogue: 0,00:00:31.57,00:00:32.77,Default,,0,0,0,,So dark
+Dialogue: 0,00:00:36.53,00:00:38.49,Default,,0,0,0,,Why are there so many tools
+Dialogue: 0,00:00:50.13,00:00:52.41,Default,,0,0,0,,The book will fly
+Dialogue: 0,00:01:02.25,00:01:03.33,Default,,0,0,0,,Why is this happening
+Dialogue: 0,00:01:03.41,00:01:04.53,Default,,0,0,0,,Be careful, everyone!
+Dialogue: 0,00:01:07.85,00:01:10.37,Default,,0,0,0,,Mushrooms and digital viruses are useless
+Dialogue: 0,00:01:10.97,00:01:13.25,Default,,0,0,0,,It actually allowed them to break through the first two
+Dialogue: 0,00:01:14.09,00:01:15.93,Default,,0,0,0,,Fortunately, I’m ready
+Dialogue: 0,00:01:17.25,00:01:19.21,Default,,0,0,0,,These alien monsters
+Dialogue: 0,00:01:19.41,00:01:20.49,Default,,0,0,0,,They will attack everything
+Dialogue: 0,00:01:20.53,00:01:21.89,Default,,0,0,0,,Not their homogeneity
+Dialogue: 0,00:01:22.77,00:01:25.17,Default,,0,0,0,,As long as I keep putting it in a vase
+Dialogue: 0,00:01:25.21,00:01:27.01,Default,,0,0,0,,No need for me to do it
+Dialogue: 0,00:01:27.05,00:01:28.97,Default,,0,0,0,,You’re done
+Dialogue: 0,00:01:35.69,00:01:37.97,Default,,0,0,0,,In fact, he hid in the extreme
+Dialogue: 0,00:01:38.81,00:01:40.41,Default,,0,0,0,,It’s so stupid
+Dialogue: 0,00:01:48.05,00:01:49.29,Default,,0,0,0,,Why is one missing
+Dialogue: 0,00:01:55.21,00:01:56.41,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:01:58.49,00:01:59.29,Default,,0,0,0,,Little Huihui!
+Dialogue: 0,00:01:59.33,00:02:00.93,Default,,0,0,0,,Protect BB Goat!
+Dialogue: 0,00:02:02.01,00:02:02.69,Default,,0,0,0,,Let go!
+Dialogue: 0,00:02:10.21,00:02:11.29,Default,,0,0,0,,See you again
+Dialogue: 0,00:02:14.97,00:02:17.29,Default,,0,0,0,,You just stay in here
+Dialogue: 0,00:02:19.85,00:02:21.17,Default,,0,0,0,,No more gray wolf
+Dialogue: 0,00:02:21.17,00:02:22.69,Default,,0,0,0,,How long can you hide
+Dialogue: 0,00:02:45.45,00:02:47.81,Default,,0,0,0,,Why are there more and more enemies?
+Dialogue: 0,00:02:48.37,00:02:49.97,Default,,0,0,0,,Not finished
+Dialogue: 0,00:02:50.73,00:02:51.53,Default,,0,0,0,,Keep going like this
+Dialogue: 0,00:02:51.57,00:02:53.17,Default,,0,0,0,,It only delays our time
+Dialogue: 0,00:02:53.29,00:02:55.01,Default,,0,0,0,,I’ll find a way out soon
+Dialogue: 0,00:03:03.69,00:03:04.89,Default,,0,0,0,,Help
+Dialogue: 0,00:03:05.17,00:03:05.89,Default,,0,0,0,,Go
+Dialogue: 0,00:03:12.53,00:03:13.73,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:15.49,00:03:16.57,Default,,0,0,0,,Everyone is fine
+Dialogue: 0,00:03:18.41,00:03:19.85,Default,,0,0,0,,What’s going on with mushroom mushrooms
+Dialogue: 0,00:03:23.21,00:03:24.89,Default,,0,0,0,,Thank you Mushroom
+Dialogue: 0,00:03:25.93,00:03:27.53,Default,,0,0,0,,I thank you for yours
+Dialogue: 0,00:03:29.53,00:03:32.45,Default,,0,0,0,,She said she had an important thing to do
+Dialogue: 0,00:03:33.49,00:03:34.37,Default,,0,0,0,,That’s good
+Dialogue: 0,00:03:34.45,00:03:37.01,Default,,0,0,0,,You can use Kunzi to help you find an exit
+Dialogue: 0,00:03:42.13,00:03:43.77,Default,,0,0,0,,Want to find an exit
+Dialogue: 0,00:03:43.93,00:03:46.45,Default,,0,0,0,,My IQ is in the bacteria
+Dialogue: 0,00:03:46.73,00:03:47.73,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:03:47.77,00:03:49.57,Default,,0,0,0,,My design of the card
+Dialogue: 0,00:03:49.61,00:03:50.37,Default,,0,0,0,,Found
+Dialogue: 0,00:03:52.21,00:03:53.21,Default,,0,0,0,,Here
+Dialogue: 0,00:03:54.57,00:03:56.21,Default,,0,0,0,,what
+Dialogue: 0,00:03:56.65,00:03:57.97,Default,,0,0,0,,Very good
+Dialogue: 0,00:04:00.53,00:04:01.33,Default,,0,0,0,,Oops
+Dialogue: 0,00:04:01.33,00:04:02.17,Default,,0,0,0,,Want to run
+Dialogue: 0,00:04:03.13,00:04:04.53,Default,,0,0,0,,You guys chase me!
+Dialogue: 0,00:04:04.65,00:04:06.17,Default,,0,0,0,,Don’t let them run away
+Dialogue: 0,00:04:15.09,00:04:15.93,Default,,0,0,0,,Finished
+Dialogue: 0,00:04:15.93,00:04:17.13,Default,,0,0,0,,It seems to be discovered
+Dialogue: 0,00:04:22.25,00:04:23.41,Default,,0,0,0,,Not the same
+Dialogue: 0,00:04:23.61,00:04:24.77,Default,,0,0,0,,Not the same
+Dialogue: 0,00:04:25.89,00:04:27.37,Default,,0,0,0,,Help
+Dialogue: 0,00:04:27.41,00:04:30.25,Default,,0,0,0,,Help
+Dialogue: 0,00:04:30.41,00:04:31.61,Default,,0,0,0,,Amoetic bacteria?
+Dialogue: 0,00:04:35.73,00:04:37.93,Default,,0,0,0,,Why are you only chasing me?
+Dialogue: 0,00:04:38.05,00:04:38.53,Default,,0,0,0,,I’m going
+Dialogue: 0,00:04:56.37,00:04:57.45,Default,,0,0,0,,Jonie
+Dialogue: 0,00:04:57.65,00:04:58.69,Default,,0,0,0,,You go first
+Dialogue: 0,00:04:58.81,00:05:00.09,Default,,0,0,0,,I want to go back to help him
+Dialogue: 0,00:05:00.45,00:05:00.97,Default,,0,0,0,,But
+Dialogue: 0,00:05:01.65,00:05:02.89,Default,,0,0,0,,BB Goat is still waiting
+Dialogue: 0,00:05:02.93,00:05:04.33,Default,,0,0,0,,You go quickly
+Dialogue: 0,00:05:05.01,00:05:05.93,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:05:05.97,00:05:07.97,Default,,0,0,0,,I rescued him and came back soon
+Dialogue: 0,00:05:09.85,00:05:10.45,Default,,0,0,0,,I understand
+Dialogue: 0,00:05:10.57,00:05:11.69,Default,,0,0,0,,You can keep up quickly
+Dialogue: 0,00:05:11.73,00:05:12.69,Default,,0,0,0,,Jonie
+Dialogue: 0,00:05:24.13,00:05:25.77,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:05:26.45,00:05:27.49,Default,,0,0,0,,Are you here to do you!
+Dialogue: 0,00:05:42.73,00:05:43.57,Default,,0,0,0,,Run!
+Dialogue: 0,00:05:44.97,00:05:46.33,Default,,0,0,0,,You need to take care of it
+Dialogue: 0,00:05:48.57,00:05:50.37,Default,,0,0,0,,We are enemies!
+Dialogue: 0,00:06:16.13,00:06:17.29,Default,,0,0,0,,Amoetic bacteria?
+Dialogue: 0,00:06:18.05,00:06:19.21,Default,,0,0,0,,Don’t miss it
+Dialogue: 0,00:06:19.29,00:06:20.77,Default,,0,0,0,,I’m just revenge
+Dialogue: 0,00:06:21.89,00:06:22.85,Default,,0,0,0,,We work together
+Dialogue: 0,00:06:22.89,00:06:24.01,Default,,0,0,0,,Escape
+Dialogue: 0,00:06:24.85,00:06:25.77,Default,,0,0,0,,cooperate
+Dialogue: 0,00:06:26.41,00:06:27.97,Default,,0,0,0,,This is not a solution
+Dialogue: 0,00:06:29.85,00:06:31.41,Default,,0,0,0,,Don’t be tired of me!
+Dialogue: 0,00:06:45.57,00:06:46.97,Default,,0,0,0,,Kids
+Dialogue: 0,00:06:47.01,00:06:47.93,Default,,0,0,0,,Don’t hide
+Dialogue: 0,00:06:47.97,00:06:49.97,Default,,0,0,0,,Uncle knows you’re here
+Dialogue: 0,00:06:56.17,00:06:57.53,Default,,0,0,0,,Catch you
+Dialogue: 0,00:07:01.45,00:07:02.45,Default,,0,0,0,,Not here
+Dialogue: 0,00:07:05.65,00:07:06.81,Default,,0,0,0,,Where did you go?
+Dialogue: 0,00:07:08.81,00:07:10.41,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:07:14.81,00:07:15.53,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:07:15.57,00:07:17.33,Default,,0,0,0,,I promised that dad would protect you
+Dialogue: 0,00:07:18.45,00:07:19.53,Default,,0,0,0,,Then take you well
+Dialogue: 0,00:07:19.57,00:07:21.45,Default,,0,0,0,,Sent to Brother Weslie
+Dialogue: 0,00:07:22.25,00:07:23.89,Default,,0,0,0,,I’m afraid it’s not possible
+Dialogue: 0,00:07:39.53,00:07:41.21,Default,,0,0,0,,Run now
+Dialogue: 0,00:07:42.77,00:07:43.93,Default,,0,0,0,,Don’t run
+Dialogue: 0,00:07:46.53,00:07:47.49,Default,,0,0,0,,The door is open
+Dialogue: 0,00:07:48.57,00:07:49.13,Default,,0,0,0,,No matter
+Dialogue: 0,00:07:49.13,00:07:50.41,Default,,0,0,0,,Go find a son first
+Dialogue: 0,00:07:58.97,00:07:59.57,Default,,0,0,0,,They’re here
+Dialogue: 0,00:07:59.57,00:08:00.17,Default,,0,0,0,,We’re here
+Dialogue: 0,00:08:00.29,00:08:01.05,Default,,0,0,0,,I know
+Dialogue: 0,00:08:01.09,00:08:01.97,Default,,0,0,0,,Order me less
+Dialogue: 0,00:08:52.93,00:08:55.45,Default,,0,0,0,,I didn’t expect that I was so darn
+Dialogue: 0,00:08:55.49,00:08:55.93,Default,,0,0,0,,yes
+Dialogue: 0,00:08:56.37,00:08:57.93,Default,,0,0,0,,You can defeat them
+Dialogue: 0,00:09:00.25,00:09:01.01,Default,,0,0,0,,That’s right
+Dialogue: 0,00:09:01.33,00:09:02.05,Default,,0,0,0,,I’ve already
+Dialogue: 0,00:09:02.09,00:09:03.21,Default,,0,0,0,,Can’t clone
+Dialogue: 0,00:09:03.49,00:09:04.89,Default,,0,0,0,,Or leave here quickly
+Dialogue: 0,00:09:05.09,00:09:05.61,Default,,0,0,0,,etc.
+Dialogue: 0,00:09:06.73,00:09:08.45,Default,,0,0,0,,There is also a computer monster here
+Dialogue: 0,00:09:10.33,00:09:11.93,Default,,0,0,0,,Are you that powerful?
+Dialogue: 0,00:09:12.57,00:09:13.21,Default,,0,0,0,,It seems
+Dialogue: 0,00:09:13.25,00:09:15.65,Default,,0,0,0,,You don’t have much ability except for the large number of
+Dialogue: 0,00:09:15.69,00:09:17.21,Default,,0,0,0,,I’ll let you know
+Dialogue: 0,00:09:23.85,00:09:24.53,Default,,0,0,0,,careful!
+Dialogue: 0,00:09:30.73,00:09:32.17,Default,,0,0,0,,How dare you steal me
+Dialogue: 0,00:09:32.17,00:09:32.81,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:09:33.01,00:09:35.41,Default,,0,0,0,,It seems to be different from other tools
+Dialogue: 0,00:09:36.33,00:09:37.61,Default,,0,0,0,,If you want to run, you run by yourself
+Dialogue: 0,00:09:37.81,00:09:39.49,Default,,0,0,0,,I can defeat it alone
+Dialogue: 0,00:09:43.45,00:09:44.73,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:09:49.33,00:09:50.77,Default,,0,0,0,,Jonie!
+Dialogue: 0,00:09:51.81,00:09:54.13,Default,,0,0,0,,Isn’t it just a computer breaker?
+Dialogue: 0,00:09:54.69,00:09:56.33,Default,,0,0,0,,Look at me to flatten you
+Dialogue: 0,00:09:59.53,00:10:00.49,Default,,0,0,0,,-what
+Dialogue: 0,00:10:07.89,00:10:11.81,Default,,0,0,0,,It’s over It’s over It’s over
+Dialogue: 0,00:10:29.13,00:10:30.33,Default,,0,0,0,,Jonie
+Dialogue: 0,00:10:33.65,00:10:33.97,Default,,0,0,0,,quick…
+Dialogue: 0,00:10:34.57,00:10:35.05,Default,,0,0,0,,run
+Dialogue: 0,00:10:38.17,00:10:39.37,Default,,0,0,0,,I see!
+Dialogue: 0,00:10:42.37,00:10:43.97,Default,,0,0,0,,She was in charge of things herself
+Dialogue: 0,00:10:44.09,00:10:45.41,Default,,0,0,0,,I didn’t ask her to help
+Dialogue: 0,00:10:51.21,00:10:52.69,Default,,0,0,0,,Don’t worry about her
+Dialogue: 0,00:10:52.73,00:10:53.97,Default,,0,0,0,,She was my enemy
+Dialogue: 0,00:10:54.37,00:10:55.85,Default,,0,0,0,,This is what she suffered
+Dialogue: 0,00:10:56.81,00:10:58.73,Default,,0,0,0,,I just need to do nothing
+Dialogue: 0,00:10:59.89,00:11:00.41,Default,,0,0,0,,Don’t worry about her
+Dialogue: 0,00:11:00.85,00:11:01.41,Default,,0,0,0,,Don’t worry about her
+Dialogue: 0,00:11:03.69,00:11:05.17,Default,,0,0,0,,I don’t care!
+Dialogue: 0,00:11:13.57,00:11:15.85,Default,,0,0,0,,If you have the ability, take me one more trick
+Dialogue: 0,00:11:30.65,00:11:32.77,Default,,0,0,0,,I’ve fought with you
+Dialogue: 0,00:11:58.01,00:11:58.77,Default,,0,0,0,,Jonie
+Dialogue: 0,00:11:58.97,00:11:59.77,Default,,0,0,0,,Jonie
+Dialogue: 0,00:11:59.97,00:12:01.37,Default,,0,0,0,,You wake up quickly
+Dialogue: 0,00:12:04.29,00:12:05.25,Default,,0,0,0,,Deformed rod bacteria
+Dialogue: 0,00:12:05.37,00:12:06.37,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:12:06.97,00:12:07.77,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:12:07.81,00:12:09.85,Default,,0,0,0,,But it’s going to be a problem
+Dialogue: 0,00:12:10.45,00:12:11.53,Default,,0,0,0,,You’re so terrible
+Dialogue: 0,00:12:11.53,00:12:12.45,Default,,0,0,0,,Of course
+Dialogue: 0,00:12:13.09,00:12:14.73,Default,,0,0,0,,You go with us
+Dialogue: 0,00:12:15.57,00:12:16.53,Default,,0,0,0,,don’t want!
+Dialogue: 0,00:12:17.05,00:12:18.89,Default,,0,0,0,,I’m the subordinate of King Bacteria
+Dialogue: 0,00:12:19.57,00:12:20.65,Default,,0,0,0,,While I haven’t regretted it yet
+Dialogue: 0,00:12:20.69,00:12:21.61,Default,,0,0,0,,You go quickly
+Dialogue: 0,00:12:22.25,00:12:23.45,Default,,0,0,0,,Otherwise I’ll catch you
+Dialogue: 0,00:12:23.49,00:12:24.33,Default,,0,0,0,,Give it to the king
+Dialogue: 0,00:12:24.37,00:12:25.09,Default,,0,0,0,,All right
+Dialogue: 0,00:12:25.81,00:12:27.13,Default,,0,0,0,,Thank you for saving me

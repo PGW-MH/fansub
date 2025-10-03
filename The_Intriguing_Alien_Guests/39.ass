@@ -1,0 +1,281 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.37,00:00:23.25,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:23.29,00:00:24.93,Default,,0,0,0,,Finally made the cake
+Dialogue: 0,00:00:24.97,00:00:27.09,Default,,0,0,0,,Just add a little more sugar!
+Dialogue: 0,00:00:27.25,00:00:29.09,Default,,0,0,0,,How do you know it’s not sweet
+Dialogue: 0,00:00:30.57,00:00:32.37,Default,,0,0,0,,My cake
+Dialogue: 0,00:00:32.41,00:00:33.21,Default,,0,0,0,,So delicious
+Dialogue: 0,00:00:33.29,00:00:35.17,Default,,0,0,0,,Can’t help but taste
+Dialogue: 0,00:00:36.17,00:00:37.21,Default,,0,0,0,,Paddi
+Dialogue: 0,00:00:37.21,00:00:39.57,Default,,0,0,0,,This is the gift I want to give to someone
+Dialogue: 0,00:00:39.61,00:00:40.65,Default,,0,0,0,,sorry
+Dialogue: 0,00:00:45.21,00:00:46.29,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:46.73,00:00:47.69,Default,,0,0,0,,Sunny
+Dialogue: 0,00:00:51.77,00:00:52.45,Default,,0,0,0,,careful! !
+Dialogue: 0,00:00:54.57,00:00:55.45,Default,,0,0,0,,It’s okay!
+Dialogue: 0,00:00:55.53,00:00:56.53,Default,,0,0,0,,apple!
+Dialogue: 0,00:00:58.21,00:01:00.05,Default,,0,0,0,,Shouldn’t you catch me first?
+Dialogue: 0,00:01:02.01,00:01:03.09,Default,,0,0,0,,sorry
+Dialogue: 0,00:01:08.53,00:01:09.17,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:09.29,00:01:10.73,Default,,0,0,0,,Are you doing a new invention?
+Dialogue: 0,00:01:11.13,00:01:11.77,Default,,0,0,0,,right
+Dialogue: 0,00:01:11.77,00:01:12.53,Default,,0,0,0,,Just right
+Dialogue: 0,00:01:12.53,00:01:14.01,Default,,0,0,0,,I’m going to the bathroom
+Dialogue: 0,00:01:14.05,00:01:15.89,Default,,0,0,0,,Please help me see this machine
+Dialogue: 0,00:01:15.93,00:01:17.45,Default,,0,0,0,,Don’t make people irritated
+Dialogue: 0,00:01:17.65,00:01:18.09,Default,,0,0,0,,good
+Dialogue: 0,00:01:25.49,00:01:27.01,Default,,0,0,0,,Why haven’t you come back yet
+Dialogue: 0,00:01:29.61,00:01:30.49,Default,,0,0,0,,OK
+Dialogue: 0,00:01:30.53,00:01:31.53,Default,,0,0,0,,thank you
+Dialogue: 0,00:01:33.65,00:01:34.77,Default,,0,0,0,,This is
+Dialogue: 0,00:01:35.73,00:01:36.69,Default,,0,0,0,,corn
+Dialogue: 0,00:01:44.13,00:01:45.37,Default,,0,0,0,,sorry!
+Dialogue: 0,00:01:46.21,00:01:48.85,Default,,0,0,0,,You’re so ate
+Dialogue: 0,00:01:53.93,00:01:55.05,Default,,0,0,0,,I don’t know how to use the little green
+Dialogue: 0,00:01:55.05,00:01:57.09,Default,,0,0,0,,Can you find the weakness of the lamb?
+Dialogue: 0,00:01:57.33,00:01:58.37,Default,,0,0,0,,Don’t worry, king
+Dialogue: 0,00:01:58.49,00:02:00.41,Default,,0,0,0,,Even if he can’t do it, I’ll be there
+Dialogue: 0,00:02:00.89,00:02:01.49,Default,,0,0,0,,The King
+Dialogue: 0,00:02:01.53,00:02:02.57,Default,,0,0,0,,I’m back!
+Dialogue: 0,00:02:02.65,00:02:05.73,Default,,0,0,0,,The following are the daily routines of lambs I have seen
+Dialogue: 0,00:02:12.61,00:02:14.25,Default,,0,0,0,,They’re very fulfilling
+Dialogue: 0,00:02:14.25,00:02:15.65,Default,,0,0,0,,So what’s the weak
+Dialogue: 0,00:02:16.01,00:02:16.77,Default,,0,0,0,,The King
+Dialogue: 0,00:02:16.77,00:02:18.01,Default,,0,0,0,,The lunch is ready
+Dialogue: 0,00:02:18.21,00:02:19.89,Default,,0,0,0,,Haven’t you seen the king busy?
+Dialogue: 0,00:02:20.45,00:02:21.93,Default,,0,0,0,,Are you the king a goat?
+Dialogue: 0,00:02:22.01,00:02:23.73,Default,,0,0,0,,Just eat all day!
+Dialogue: 0,00:02:25.17,00:02:25.93,Default,,0,0,0,,That’s right
+Dialogue: 0,00:02:25.93,00:02:26.89,Default,,0,0,0,,Just eat! ! !
+Dialogue: 0,00:02:27.01,00:02:28.61,Default,,0,0,0,,Your lunch
+Dialogue: 0,00:02:29.41,00:02:31.41,Default,,0,0,0,,I’m talking about letting the lamb eat
+Dialogue: 0,00:02:31.81,00:02:32.81,Default,,0,0,0,,Just put the lamb
+Dialogue: 0,00:02:32.85,00:02:34.69,Default,,0,0,0,,When you only eat
+Dialogue: 0,00:02:35.17,00:02:37.53,Default,,0,0,0,,Then they will have no time to see BB Goat
+Dialogue: 0,00:02:38.01,00:02:40.45,Default,,0,0,0,,But it seems that only Paddi are eaten
+Dialogue: 0,00:02:40.77,00:02:43.37,Default,,0,0,0,,Then why did others eat too?
+Dialogue: 0,00:02:44.45,00:02:46.05,Default,,0,0,0,,Look at this king!
+Dialogue: 0,00:02:47.69,00:02:48.25,Default,,0,0,0,,Wolffy! !
+Dialogue: 0,00:02:48.33,00:02:50.13,Default,,0,0,0,,- I’ll lend you something to you! !
+-You dare to come again
+Dialogue: 0,00:02:53.89,00:02:54.53,Default,,0,0,0,,The King
+Dialogue: 0,00:02:54.61,00:02:55.69,Default,,0,0,0,,What are you?
+Dialogue: 0,00:02:57.45,00:02:59.53,Default,,0,0,0,,I’ll introduce it to you all
+Dialogue: 0,00:02:59.93,00:03:01.53,Default,,0,0,0,,Eat and eat
+Dialogue: 0,00:03:01.57,00:03:02.93,Default,,0,0,0,,Streaming type bullet!
+Dialogue: 0,00:03:03.69,00:03:04.41,Default,,0,0,0,,Big mouth
+Dialogue: 0,00:03:04.41,00:03:05.61,Default,,0,0,0,,Hidden spray mouth!
+Dialogue: 0,00:03:05.77,00:03:07.45,Default,,0,0,0,,and the most important inside
+Dialogue: 0,00:03:07.49,00:03:08.69,Default,,0,0,0,,Have a gas! !
+Dialogue: 0,00:03:09.29,00:03:11.05,Default,,0,0,0,,Just absorb for a period of time
+Dialogue: 0,00:03:11.09,00:03:12.93,Default,,0,0,0,,Everyone will be eating
+Dialogue: 0,00:03:13.25,00:03:15.61,Default,,0,0,0,,No more mind to take care of things
+Dialogue: 0,00:03:15.61,00:03:18.29,Default,,0,0,0,,The king is so bad, so bad! ! !
+Dialogue: 0,00:03:18.77,00:03:20.61,Default,,0,0,0,,Will that affect us?
+Dialogue: 0,00:03:20.81,00:03:22.61,Default,,0,0,0,,I don’t want to be ate...
+Dialogue: 0,00:03:23.09,00:03:24.69,Default,,0,0,0,,I’ve been ready for a long time
+Dialogue: 0,00:03:27.17,00:03:28.09,Default,,0,0,0,,Look through this light
+Dialogue: 0,00:03:28.13,00:03:29.65,Default,,0,0,0,,We won’t be affected
+Dialogue: 0,00:03:31.29,00:03:31.93,Default,,0,0,0,,now!
+Dialogue: 0,00:03:31.93,00:03:32.81,Default,,0,0,0,,Have fun! !
+Dialogue: 0,00:03:32.81,00:03:33.73,Default,,0,0,0,,Depart! ! !
+Dialogue: 0,00:03:43.93,00:03:45.37,Default,,0,0,0,,That fish is so long?
+Dialogue: 0,00:03:45.65,00:03:46.33,Default,,0,0,0,,Yes Yes!
+Dialogue: 0,00:03:46.41,00:03:48.57,Default,,0,0,0,,The goat is really too ate
+Dialogue: 0,00:03:56.37,00:03:58.77,Default,,0,0,0,,I’ve had this cake for a while
+Dialogue: 0,00:04:03.05,00:04:04.05,Default,,0,0,0,,strangeness
+Dialogue: 0,00:04:05.05,00:04:06.57,Default,,0,0,0,,Where is my cake! ?
+Dialogue: 0,00:04:07.69,00:04:09.85,Default,,0,0,0,,At least leave some for me
+Dialogue: 0,00:04:10.01,00:04:10.85,Default,,0,0,0,,sorry
+Dialogue: 0,00:04:10.97,00:04:12.65,Default,,0,0,0,,Suddenly I couldn’t help but want to eat
+Dialogue: 0,00:04:12.69,00:04:13.77,Default,,0,0,0,,That’s right!
+Dialogue: 0,00:04:18.69,00:04:20.01,Default,,0,0,0,,Very hungry...
+Dialogue: 0,00:04:22.49,00:04:23.89,Default,,0,0,0,,There is Apple there!
+Dialogue: 0,00:04:26.53,00:04:27.49,Default,,0,0,0,,Paddi
+Dialogue: 0,00:04:27.49,00:04:28.69,Default,,0,0,0,,Let’s help you
+Dialogue: 0,00:04:28.73,00:04:29.57,Default,,0,0,0,,No need No need
+Dialogue: 0,00:04:29.57,00:04:30.93,Default,,0,0,0,,I can do it alone
+Dialogue: 0,00:04:32.69,00:04:34.17,Default,,0,0,0,,Be careful! !
+Dialogue: 0,00:04:36.05,00:04:37.53,Default,,0,0,0,,Nothing bad! apple!
+Dialogue: 0,00:04:38.53,00:04:41.25,Default,,0,0,0,,Shouldn’t you catch me first?
+Dialogue: 0,00:04:41.41,00:04:43.17,Default,,0,0,0,,This sounds so familiar
+Dialogue: 0,00:04:43.41,00:04:45.21,Default,,0,0,0,,There’s only Apple in my eyes
+Dialogue: 0,00:04:45.25,00:04:45.89,Default,,0,0,0,,sorry…
+Dialogue: 0,00:04:46.09,00:04:46.85,Default,,0,0,0,,yes
+Dialogue: 0,00:04:47.05,00:04:48.45,Default,,0,0,0,,I’ve always seen food lately
+Dialogue: 0,00:04:48.45,00:04:50.25,Default,,0,0,0,,I couldn’t help but want to eat
+Dialogue: 0,00:04:50.33,00:04:51.57,Default,,0,0,0,,Can’t control it at all
+Dialogue: 0,00:04:52.25,00:04:54.17,Default,,0,0,0,,You’re too swearing
+Dialogue: 0,00:04:54.41,00:04:55.77,Default,,0,0,0,,This is not the case in normal times
+Dialogue: 0,00:04:55.81,00:04:56.57,Default,,0,0,0,,Don’t know
+Dialogue: 0,00:04:57.53,00:04:58.65,Default,,0,0,0,,That’s good too
+Dialogue: 0,00:04:59.13,00:05:00.37,Default,,0,0,0,,Everyone eats the same
+Dialogue: 0,00:05:00.41,00:05:01.69,Default,,0,0,0,,No one said to me
+Dialogue: 0,00:05:05.57,00:05:07.37,Default,,0,0,0,,I can finally get my treasured snacks
+Dialogue: 0,00:05:07.37,00:05:09.25,Default,,0,0,0,,Take it out and eat it with all your heart!
+Dialogue: 0,00:05:13.25,00:05:15.61,Default,,0,0,0,,Where is my snacks! ?
+Dialogue: 0,00:05:21.13,00:05:22.57,Default,,0,0,0,,Sorry, goat
+Dialogue: 0,00:05:22.61,00:05:24.05,Default,,0,0,0,,We finished our snacks
+Dialogue: 0,00:05:24.17,00:05:25.21,Default,,0,0,0,,So I want to borrow some
+Dialogue: 0,00:05:25.25,00:05:26.45,Default,,0,0,0,,You have your snacks!
+Dialogue: 0,00:05:27.09,00:05:27.97,Default,,0,0,0,,you
+Dialogue: 0,00:05:28.13,00:05:29.77,Default,,0,0,0,,Too much
+Dialogue: 0,00:05:35.53,00:05:37.13,Default,,0,0,0,,These days have passed
+Dialogue: 0,00:05:37.25,00:05:38.53,Default,,0,0,0,,The lambs should all be
+Dialogue: 0,00:05:38.53,00:05:40.05,Default,,0,0,0,,It’s a natural thing to eat!
+Dialogue: 0,00:05:40.09,00:05:41.01,Default,,0,0,0,,But the king
+Dialogue: 0,00:05:41.29,00:05:42.93,Default,,0,0,0,,Why do we have to put our own food
+Dialogue: 0,00:05:42.93,00:05:44.25,Default,,0,0,0,,What about bringing those lambs?
+Dialogue: 0,00:05:45.81,00:05:48.73,Default,,0,0,0,,These are the food compliments we have experienced
+Dialogue: 0,00:05:52.21,00:05:53.13,Default,,0,0,0,,gourmet food
+Dialogue: 0,00:05:56.81,00:05:57.65,Default,,0,0,0,,Delicious food
+Dialogue: 0,00:05:57.69,00:05:59.61,Default,,0,0,0,,Want everyone to share
+Dialogue: 0,00:05:59.69,00:06:00.21,Default,,0,0,0,,what…?
+Dialogue: 0,00:06:01.85,00:06:02.53,Default,,0,0,0,,condition?
+Dialogue: 0,00:06:04.33,00:06:06.29,Default,,0,0,0,,...It seems to be coming to eat food
+Dialogue: 0,00:06:07.65,00:06:09.05,Default,,0,0,0,,It seems that the effect of eating and breathing
+Dialogue: 0,00:06:09.05,00:06:11.33,Default,,0,0,0,,It has spread to the entire grassland
+Dialogue: 0,00:06:11.77,00:06:12.45,Default,,0,0,0,,yes
+Dialogue: 0,00:06:12.49,00:06:14.41,Default,,0,0,0,,See how happy they eat
+Dialogue: 0,00:06:14.61,00:06:15.65,Default,,0,0,0,,See also
+Dialogue: 0,00:06:15.69,00:06:17.69,Default,,0,0,0,,Go and pick it up quickly
+Dialogue: 0,00:06:18.41,00:06:19.73,Default,,0,0,0,,It’s the king
+Dialogue: 0,00:06:20.05,00:06:21.09,Default,,0,0,0,,Give us the same
+Dialogue: 0,00:06:21.25,00:06:22.57,Default,,0,0,0,,Not allowed to eat
+Dialogue: 0,00:06:22.61,00:06:23.45,Default,,0,0,0,,Give us the same
+Dialogue: 0,00:06:28.93,00:06:29.69,Default,,0,0,0,,Bagba?
+Dialogue: 0,00:06:30.77,00:06:31.65,Default,,0,0,0,,Bag!
+Dialogue: 0,00:06:31.69,00:06:33.09,Default,,0,0,0,,Someone snatched our food to eat!
+Dialogue: 0,00:06:33.13,00:06:34.41,Default,,0,0,0,,You should take care of it!
+Dialogue: 0,00:06:36.57,00:06:37.61,Default,,0,0,0,,That’s it
+Dialogue: 0,00:06:37.85,00:06:39.53,Default,,0,0,0,,Then I’ll give it to you...
+Dialogue: 0,00:06:49.17,00:06:49.97,Default,,0,0,0,,Forget it, forget it
+Dialogue: 0,00:06:50.01,00:06:51.25,Default,,0,0,0,,It’s still for you to eat!
+Dialogue: 0,00:06:51.85,00:06:53.01,Default,,0,0,0,,Very sorry
+Dialogue: 0,00:06:53.37,00:06:55.69,Default,,0,0,0,,I didn’t eat like this before...
+Dialogue: 0,00:06:58.89,00:07:00.01,Default,,0,0,0,,How can they
+Dialogue: 0,00:07:00.05,00:07:01.97,Default,,0,0,0,,I ate all my snacks...
+Dialogue: 0,00:07:02.37,00:07:03.49,Default,,0,0,0,,Paddi
+Dialogue: 0,00:07:04.01,00:07:05.53,Default,,0,0,0,,Where are you going here?
+Dialogue: 0,00:07:05.93,00:07:06.97,Default,,0,0,0,,Weslie and the others
+Dialogue: 0,00:07:07.01,00:07:08.77,Default,,0,0,0,,Have finished all my snacks
+Dialogue: 0,00:07:08.77,00:07:10.37,Default,,0,0,0,,So I’ll buy snacks
+Dialogue: 0,00:07:11.61,00:07:13.29,Default,,0,0,0,,Go and see everyone
+Dialogue: 0,00:07:13.29,00:07:14.73,Default,,0,0,0,,They changed
+Dialogue: 0,00:07:15.29,00:07:16.73,Default,,0,0,0,,What happened?
+Dialogue: 0,00:07:17.33,00:07:18.21,Default,,0,0,0,,Come with me
+Dialogue: 0,00:07:23.41,00:07:24.09,Default,,0,0,0,,You see
+Dialogue: 0,00:07:24.85,00:07:26.61,Default,,0,0,0,,Everyone is very edible!
+Dialogue: 0,00:07:27.13,00:07:28.97,Default,,0,0,0,,Eat all my snacks
+Dialogue: 0,00:07:29.01,00:07:30.33,Default,,0,0,0,,You come and review!
+Dialogue: 0,00:07:32.49,00:07:33.49,Default,,0,0,0,,Your snacks
+Dialogue: 0,00:07:33.49,00:07:35.41,Default,,0,0,0,,Did you mean these?
+Dialogue: 0,00:07:35.89,00:07:37.41,Default,,0,0,0,,These are mine, too
+Dialogue: 0,00:07:37.41,00:07:38.01,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:07:38.05,00:07:39.69,Default,,0,0,0,,Why do you do the same!
+Dialogue: 0,00:07:40.33,00:07:41.57,Default,,0,0,0,,Don’t know why
+Dialogue: 0,00:07:42.49,00:07:44.37,Default,,0,0,0,,I want to eat too
+Dialogue: 0,00:07:45.21,00:07:47.01,Default,,0,0,0,,I’m almost finished eating
+Dialogue: 0,00:07:47.53,00:07:49.65,Default,,0,0,0,,Why not order popcorn
+Dialogue: 0,00:07:51.33,00:07:51.85,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:07:52.05,00:07:52.61,Default,,0,0,0,,You’re not saying
+Dialogue: 0,00:07:52.65,00:07:54.33,Default,,0,0,0,,Is this your new invention?
+Dialogue: 0,00:07:55.73,00:07:56.85,Default,,0,0,0,,I see you use this
+Dialogue: 0,00:07:56.89,00:07:58.89,Default,,0,0,0,,The popcorn is pretty good
+Dialogue: 0,00:08:00.01,00:08:00.65,Default,,0,0,0,,don’t want
+Dialogue: 0,00:08:00.73,00:08:01.89,Default,,0,0,0,,This is such a dangerous situation!
+Dialogue: 0,00:08:04.21,00:08:06.33,Default,,0,0,0,,Everyone has popcorn
+Dialogue: 0,00:08:09.17,00:08:10.73,Default,,0,0,0,,What’s wrong with everyone
+Dialogue: 0,00:08:10.93,00:08:12.41,Default,,0,0,0,,Brother Yangyang
+Dialogue: 0,00:08:13.17,00:08:15.13,Default,,0,0,0,,Do you want to have snacks together?
+Dialogue: 0,00:08:16.05,00:08:17.93,Default,,0,0,0,,Why did you become like this?
+Dialogue: 0,00:08:20.37,00:08:22.17,Default,,0,0,0,,What’s going on with everyone?
+Dialogue: 0,00:08:26.69,00:08:28.73,Default,,0,0,0,,The lambs have become very edible, too
+Dialogue: 0,00:08:29.57,00:08:30.41,Default,,0,0,0,,we
+Dialogue: 0,00:08:30.65,00:08:31.81,Default,,0,0,0,,superior! !
+Dialogue: 0,00:08:31.85,00:08:33.33,Default,,0,0,0,,Hand over BB Goat!
+Dialogue: 0,00:08:33.89,00:08:35.09,Default,,0,0,0,,King Bacteria is here
+Dialogue: 0,00:08:36.73,00:08:37.97,Default,,0,0,0,,Be careful
+Dialogue: 0,00:08:40.05,00:08:42.21,Default,,0,0,0,,Look at my special flying bullet!
+Dialogue: 0,00:08:50.49,00:08:52.01,Default,,0,0,0,,BB Goat Don’t snatch
+Dialogue: 0,00:08:52.01,00:08:53.93,Default,,0,0,0,,I have a lot of delicious food here for you
+Dialogue: 0,00:08:56.81,00:08:57.81,Default,,0,0,0,,Success!
+Dialogue: 0,00:09:05.53,00:09:07.25,Default,,0,0,0,,I won’t let you succeed
+Dialogue: 0,00:09:09.29,00:09:10.81,Default,,0,0,0,,Where do you want to go?
+Dialogue: 0,00:09:11.21,00:09:13.05,Default,,0,0,0,,Hand over BB Goat!
+Dialogue: 0,00:09:14.17,00:09:15.17,Default,,0,0,0,,don’t want!
+Dialogue: 0,00:09:15.49,00:09:17.77,Default,,0,0,0,,Then don’t blame me for being rude!
+Dialogue: 0,00:09:17.85,00:09:18.57,Default,,0,0,0,,Look at the trick!
+Dialogue: 0,00:09:21.73,00:09:22.61,Default,,0,0,0,,banana?
+Dialogue: 0,00:09:24.33,00:09:25.81,Default,,0,0,0,,Don’t like eating bananas?
+Dialogue: 0,00:09:27.37,00:09:29.65,Default,,0,0,0,,I also have apple pear
+Dialogue: 0,00:09:29.65,00:09:31.41,Default,,0,0,0,,Orange Candy
+Dialogue: 0,00:09:35.37,00:09:36.05,Default,,0,0,0,,Why?
+Dialogue: 0,00:09:36.25,00:09:38.81,Default,,0,0,0,,Did my food and gas have no effect on him?
+Dialogue: 0,00:09:44.25,00:09:46.93,Default,,0,0,0,,Because the goat are very edible
+Dialogue: 0,00:09:47.01,00:09:49.01,Default,,0,0,0,,So eating and gas will not work for him
+Dialogue: 0,00:09:49.05,00:09:50.29,Default,,0,0,0,,It turns out that everyone is eating
+Dialogue: 0,00:09:50.33,00:09:51.69,Default,,0,0,0,,It’s all your fault! !
+Dialogue: 0,00:09:52.13,00:09:53.81,Default,,0,0,0,,Want to help the slept with goat
+Dialogue: 0,00:09:53.85,00:09:55.97,Default,,0,0,0,,But I just can’t control myself and want to eat
+Dialogue: 0,00:09:57.13,00:09:58.81,Default,,0,0,0,,Let’s go help the siege goat!
+Dialogue: 0,00:10:00.29,00:10:02.41,Default,,0,0,0,,You can’t let the Yangyang goat face it alone!
+Dialogue: 0,00:10:02.69,00:10:04.61,Default,,0,0,0,,Let’s go help the goat together
+Dialogue: 0,00:10:05.69,00:10:06.37,Default,,0,0,0,,Everyone
+Dialogue: 0,00:10:09.85,00:10:12.09,Default,,0,0,0,,We’ll help you after eating
+Dialogue: 0,00:10:12.89,00:10:13.97,Default,,0,0,0,,Paddi
+Dialogue: 0,00:10:16.21,00:10:17.65,Default,,0,0,0,,Don’t want to run away! ! !
+Dialogue: 0,00:10:26.77,00:10:27.65,Default,,0,0,0,,It hurts so much
+Dialogue: 0,00:10:32.61,00:10:33.69,Default,,0,0,0,,What is that?
+Dialogue: 0,00:10:38.01,00:10:38.89,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:10:40.77,00:10:41.37,Default,,0,0,0,,Why
+Dialogue: 0,00:10:41.41,00:10:42.41,Default,,0,0,0,,My food and gas
+Dialogue: 0,00:10:42.45,00:10:44.25,Default,,0,0,0,,Didn’t it affect him?
+Dialogue: 0,00:10:45.73,00:10:46.45,Default,,0,0,0,,It seems
+Dialogue: 0,00:10:46.49,00:10:48.37,Default,,0,0,0,,That’s the thing that happened!
+Dialogue: 0,00:10:48.77,00:10:49.81,Default,,0,0,0,,Destroy him
+Dialogue: 0,00:10:50.05,00:10:52.09,Default,,0,0,0,,Everyone should be able to return to normal!
+Dialogue: 0,00:10:53.29,00:10:53.97,Default,,0,0,0,,BB Goat Benefit
+Dialogue: 0,00:10:54.05,00:10:56.21,Default,,0,0,0,,Hidden here and don’t be discovered by the sterilized kings
+Dialogue: 0,00:10:57.57,00:10:59.69,Default,,0,0,0,,I’m so useless!
+Dialogue: 0,00:11:02.61,00:11:04.65,Default,,0,0,0,,You have to quickly destroy the device in the sky!
+Dialogue: 0,00:11:06.85,00:11:07.61,Default,,0,0,0,,No!
+Dialogue: 0,00:11:08.09,00:11:09.29,Default,,0,0,0,,I’m catching up soon!
+Dialogue: 0,00:11:09.53,00:11:10.21,Default,,0,0,0,,What to do?
+Dialogue: 0,00:11:12.09,00:11:13.81,Default,,0,0,0,,See where you run
+Dialogue: 0,00:11:18.21,00:11:19.13,Default,,0,0,0,,There is a way!
+Dialogue: 0,00:11:19.41,00:11:21.37,Default,,0,0,0,,Hand over BB Goat! !
+Dialogue: 0,00:11:22.45,00:11:24.01,Default,,0,0,0,,You can catch me before you say it!
+Dialogue: 0,00:11:29.73,00:11:30.57,Default,,0,0,0,,The opportunity is here!
+Dialogue: 0,00:11:30.81,00:11:32.61,Default,,0,0,0,,look! I! of!
+Dialogue: 0,00:11:40.21,00:11:40.73,Default,,0,0,0,,you!
+Dialogue: 0,00:11:40.93,00:11:42.05,Default,,0,0,0,,We’re on!
+Dialogue: 0,00:11:56.57,00:11:57.41,Default,,0,0,0,,Very tired
+Dialogue: 0,00:11:59.25,00:12:01.13,Default,,0,0,0,,Paddi! ! !
+Dialogue: 0,00:12:03.25,00:12:05.13,Default,,0,0,0,,Brother Qingyangyang, you are awesome!
+Dialogue: 0,00:12:05.85,00:12:08.41,Default,,0,0,0,,The Goat, I’ve missed you so much this time!
+Dialogue: 0,00:12:08.89,00:12:09.77,Default,,0,0,0,,Paddi
+Dialogue: 0,00:12:09.77,00:12:12.25,Default,,0,0,0,,That was really amazing
+Dialogue: 0,00:12:15.57,00:12:16.57,Default,,0,0,0,,Very hungry
+Dialogue: 0,00:12:17.61,00:12:19.41,Default,,0,0,0,,Let’s go eat!
+Dialogue: 0,00:12:19.65,00:12:20.25,Default,,0,0,0,,good!
+Dialogue: 0,00:12:20.29,00:12:23.05,Default,,0,0,0,,Wait for me to reward everyone!
+Dialogue: 0,00:12:23.81,00:12:25.29,Default,,0,0,0,,All the food is fine
+Dialogue: 0,00:12:25.53,00:12:26.81,Default,,0,0,0,,Let’s start eating~
+Dialogue: 0,00:12:27.45,00:12:29.13,Default,,0,0,0,,It’s so prosperous!
+Dialogue: 0,00:12:29.17,00:12:31.77,Default,,0,0,0,,So happy! ! !

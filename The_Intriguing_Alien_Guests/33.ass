@@ -1,0 +1,222 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.81,00:00:21.17,Default,,0,0,0,,Come and chase me!
+Dialogue: 0,00:00:21.81,00:00:23.57,Default,,0,0,0,,You can’t escape!
+Dialogue: 0,00:00:31.65,00:00:33.01,Default,,0,0,0,,Let me go!
+Dialogue: 0,00:00:35.21,00:00:37.01,Default,,0,0,0,,BB Goat...!
+Dialogue: 0,00:00:38.29,00:00:40.45,Default,,0,0,0,,I want to unseal! !
+Dialogue: 0,00:00:40.65,00:00:41.49,Default,,0,0,0,,No!
+Dialogue: 0,00:00:44.17,00:00:45.37,Default,,0,0,0,,It turns out to be a dream!
+Dialogue: 0,00:00:51.77,00:00:53.33,Default,,0,0,0,,Xiao Huang, I have insomnia
+Dialogue: 0,00:00:53.61,00:00:54.21,Default,,0,0,0,,oh
+Dialogue: 0,00:00:57.17,00:00:59.73,Default,,0,0,0,,Why don’t I tell the king a bedtime story
+Dialogue: 0,00:00:59.77,00:01:01.01,Default,,0,0,0,,Help you fall asleep
+Dialogue: 0,00:01:02.37,00:01:05.25,Default,,0,0,0,,From now on, the goat pen has been disrepaired...
+Dialogue: 0,00:01:05.25,00:01:07.57,Default,,0,0,0,,Can you say that you have feelings?
+Dialogue: 0,00:01:09.69,00:01:10.73,Default,,0,0,0,,From now on
+Dialogue: 0,00:01:11.49,00:01:13.81,Default,,0,0,0,,The goat pen has been disrepaired over time
+Dialogue: 0,00:01:14.05,00:01:16.37,Default,,0,0,0,,The farmer has not gone to refill
+Dialogue: 0,00:01:16.61,00:01:19.17,Default,,0,0,0,,Until a wolf caught the goat
+Dialogue: 0,00:01:19.41,00:01:21.41,Default,,0,0,0,,Only farmers go to fix the goat pen...
+Dialogue: 0,00:01:21.45,00:01:24.17,Default,,0,0,0,,There are loopholes! Why don’t the wolf run away when the goat come?
+Dialogue: 0,00:01:25.05,00:01:26.33,Default,,0,0,0,,How did I know!
+Dialogue: 0,00:01:26.41,00:01:28.09,Default,,0,0,0,,Go and ask Xiao Lü
+Dialogue: 0,00:01:28.17,00:01:29.25,Default,,0,0,0,,He can check anything!
+Dialogue: 0,00:01:31.53,00:01:32.57,Default,,0,0,0,,It says on the encyclopedia
+Dialogue: 0,00:01:33.21,00:01:36.09,Default,,0,0,0,,Goat can’t see clearly in a light-free environment
+Dialogue: 0,00:01:36.53,00:01:39.89,Default,,0,0,0,,The wolf has the ability to watch the night, so he can easily catch the goat
+Dialogue: 0,00:01:41.81,00:01:42.97,Default,,0,0,0,,It turns out that this is...
+Dialogue: 0,00:01:43.33,00:01:44.33,Default,,0,0,0,,Red
+Dialogue: 0,00:01:44.57,00:01:46.21,Default,,0,0,0,,Red Red Is it OK?
+Dialogue: 0,00:01:47.81,00:01:48.97,Default,,0,0,0,,Wait a little longer...
+Dialogue: 0,00:01:49.45,00:01:51.89,Default,,0,0,0,,You have to dress up beautifully when you go to see the lunar eclipse
+Dialogue: 0,00:01:53.25,00:01:54.29,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:01:54.73,00:01:57.05,Default,,0,0,0,,What do you think of my night pearl chain?
+Dialogue: 0,00:01:58.73,00:02:00.17,Default,,0,0,0,,Good looking Good looking...
+Dialogue: 0,00:02:01.05,00:02:04.73,Default,,0,0,0,,Let’s go up the mountain quickly. The lambs are all waiting in a hurry.
+Dialogue: 0,00:02:05.53,00:02:06.13,Default,,0,0,0,,Yes!
+Dialogue: 0,00:02:07.29,00:02:09.57,Default,,0,0,0,,Yes! Then let’s go!
+Dialogue: 0,00:02:10.53,00:02:13.05,Default,,0,0,0,,There are many mosquitoes on the mountain. I’ll get anti-mosquito liquid.
+Dialogue: 0,00:02:22.17,00:02:24.49,Default,,0,0,0,,It turns out that they are going to see the lunar eclipse with the goat!
+Dialogue: 0,00:02:25.41,00:02:27.89,Default,,0,0,0,,I thought of a way to catch BB Goat
+Dialogue: 0,00:02:28.57,00:02:29.77,Default,,0,0,0,,Come with me!
+Dialogue: 0,00:02:31.69,00:02:34.01,Default,,0,0,0,,What are you doing sneakily
+Dialogue: 0,00:02:34.17,00:02:35.69,Default,,0,0,0,,Oops, I’ve been discovered
+Dialogue: 0,00:02:36.25,00:02:39.05,Default,,0,0,0,,Run!
+Dialogue: 0,00:02:42.13,00:02:45.37,Default,,0,0,0,,There must be something wrong with you. You have to remind the goat to go!
+Dialogue: 0,00:02:48.93,00:02:49.77,Default,,0,0,0,,Wolffy?
+Dialogue: 0,00:02:51.97,00:02:55.09,Default,,0,0,0,,Wolffy! Why not bring me!
+Dialogue: 0,00:03:01.33,00:03:02.13,Default,,0,0,0,,The goat...
+Dialogue: 0,00:03:02.85,00:03:03.89,Default,,0,0,0,,What’s going on...
+Dialogue: 0,00:03:04.37,00:03:06.33,Default,,0,0,0,,Come and play together...
+Dialogue: 0,00:03:10.69,00:03:11.69,Default,,0,0,0,,A strength
+Dialogue: 0,00:03:11.81,00:03:13.33,Default,,0,0,0,,Why do you want to scare me
+Dialogue: 0,00:03:13.37,00:03:14.21,Default,,0,0,0,,Stop being rude
+Dialogue: 0,00:03:14.25,00:03:15.89,Default,,0,0,0,,The flashlight has no power
+Dialogue: 0,00:03:15.89,00:03:18.77,Default,,0,0,0,,We can’t see clearly during the lunar eclipse!
+Dialogue: 0,00:03:19.49,00:03:20.57,Default,,0,0,0,,sorry
+Dialogue: 0,00:03:21.45,00:03:23.33,Default,,0,0,0,,Look, the lunar eclipse has begun!
+Dialogue: 0,00:03:29.09,00:03:30.77,Default,,0,0,0,,The moon has no light
+Dialogue: 0,00:03:31.89,00:03:33.85,Default,,0,0,0,,The grassland is no longer clear
+Dialogue: 0,00:03:38.13,00:03:39.77,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:03:40.41,00:03:42.37,Default,,0,0,0,,It’s okay, there’s a flashlight!
+Dialogue: 0,00:03:50.97,00:03:53.49,Default,,0,0,0,,King! The lights nearby have been completely drained
+Dialogue: 0,00:03:53.89,00:03:56.61,Default,,0,0,0,,You can’t see such lambs
+Dialogue: 0,00:03:57.85,00:03:59.13,Default,,0,0,0,,Is it King Bacteria?
+Dialogue: 0,00:03:59.81,00:04:00.97,Default,,0,0,0,,Be careful, everyone!
+Dialogue: 0,00:04:07.09,00:04:08.57,Default,,0,0,0,,Enter the darkness
+Dialogue: 0,00:04:10.21,00:04:11.49,Default,,0,0,0,,Everyone, run away!
+Dialogue: 0,00:04:17.81,00:04:19.53,Default,,0,0,0,,Go and catch the goat
+Dialogue: 0,00:04:28.17,00:04:29.61,Default,,0,0,0,,BB Goat Catch me
+Dialogue: 0,00:04:36.85,00:04:38.65,Default,,0,0,0,,I’ll save you! ! !
+Dialogue: 0,00:04:40.13,00:04:41.37,Default,,0,0,0,,Sparky?
+Dialogue: 0,00:04:41.65,00:04:42.57,Default,,0,0,0,,A goat?
+Dialogue: 0,00:04:43.37,00:04:44.13,Default,,0,0,0,,Jonie?
+Dialogue: 0,00:04:45.25,00:04:47.17,Default,,0,0,0,,Tibbie! Sparky!
+Dialogue: 0,00:04:49.73,00:04:53.09,Default,,0,0,0,,Weslie Brother I’m really scared
+Dialogue: 0,00:04:53.57,00:04:54.89,Default,,0,0,0,,Don’t be afraid that I’m here
+Dialogue: 0,00:05:25.05,00:05:26.33,Default,,0,0,0,,Let’s go quickly!
+Dialogue: 0,00:05:32.29,00:05:33.77,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:05:38.37,00:05:40.21,Default,,0,0,0,,You just stay here
+Dialogue: 0,00:05:41.89,00:05:43.69,Default,,0,0,0,,It’s your turn!
+Dialogue: 0,00:05:44.01,00:05:45.49,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:05:48.65,00:05:50.89,Default,,0,0,0,,You know you’ll be out and chaotic
+Dialogue: 0,00:05:51.73,00:05:52.85,Default,,0,0,0,,Wolffy? !
+Dialogue: 0,00:05:55.93,00:05:57.45,Default,,0,0,0,,Strategic retreat!
+Dialogue: 0,00:05:58.65,00:05:59.53,Default,,0,0,0,,Don’t run! ! !
+Dialogue: 0,00:06:02.73,00:06:05.89,Default,,0,0,0,,Uncle Gray Wolf, please save your brothers and sisters.
+Dialogue: 0,00:06:07.13,00:06:09.29,Default,,0,0,0,,I can’t get their three bacteria
+Dialogue: 0,00:06:09.41,00:06:11.05,Default,,0,0,0,,That’s so black
+Dialogue: 0,00:06:11.13,00:06:12.45,Default,,0,0,0,,We can’t see it either
+Dialogue: 0,00:06:13.33,00:06:14.17,Default,,0,0,0,,Can’t see it?
+Dialogue: 0,00:06:15.05,00:06:17.97,Default,,0,0,0,,Then let’s go back to Wolf Castle to get lighting tools first
+Dialogue: 0,00:06:20.49,00:06:23.29,Default,,0,0,0,,They’re walking here and tell the king quickly
+Dialogue: 0,00:06:23.69,00:06:24.85,Default,,0,0,0,,I see
+Dialogue: 0,00:06:26.49,00:06:28.09,Default,,0,0,0,,Let’s catch up with you
+Dialogue: 0,00:06:28.93,00:06:30.21,Default,,0,0,0,,You stayed and looked at the goat
+Dialogue: 0,00:06:30.29,00:06:32.29,Default,,0,0,0,,I’ll just go and catch BB Goat
+Dialogue: 0,00:06:32.65,00:06:34.05,Default,,0,0,0,,All right
+Dialogue: 0,00:06:36.33,00:06:38.05,Default,,0,0,0,,Looks delicious
+Dialogue: 0,00:06:41.97,00:06:43.49,Default,,0,0,0,,Jonie, what’s wrong with you?
+Dialogue: 0,00:06:44.09,00:06:46.57,Default,,0,0,0,,Too dark, I fell down if I couldn’t see the road clearly
+Dialogue: 0,00:06:46.97,00:06:49.01,Default,,0,0,0,,Yes, I can’t see anything...
+Dialogue: 0,00:06:50.45,00:06:54.53,Default,,0,0,0,,I’ll try to heat the wooden head to see if I can make a torch, right?
+Dialogue: 0,00:07:01.45,00:07:02.69,Default,,0,0,0,,Sorry Sorry
+Dialogue: 0,00:07:03.21,00:07:05.09,Default,,0,0,0,,I went to call the fireflies to come
+Dialogue: 0,00:07:09.13,00:07:10.41,Default,,0,0,0,,Why didn’t you react?
+Dialogue: 0,00:07:11.45,00:07:12.45,Default,,0,0,0,,Useless
+Dialogue: 0,00:07:12.81,00:07:15.77,Default,,0,0,0,,All the firecrackers nearby were captured by us
+Dialogue: 0,00:07:15.97,00:07:18.81,Default,,0,0,0,,Just put Wolffy’s automatic trap
+Dialogue: 0,00:07:19.01,00:07:20.97,Default,,0,0,0,,Captured all the nearby firecrackers
+Dialogue: 0,00:07:21.17,00:07:24.09,Default,,0,0,0,,We can catch the goat with peace of mind!
+Dialogue: 0,00:07:25.69,00:07:27.81,Default,,0,0,0,,I’ll stop slapping
+Dialogue: 0,00:07:28.85,00:07:30.13,Default,,0,0,0,,Don’t be too proud
+Dialogue: 0,00:07:30.89,00:07:32.09,Default,,0,0,0,,Have to care about you
+Dialogue: 0,00:07:32.33,00:07:34.73,Default,,0,0,0,,I’ll continue watching my food program
+Dialogue: 0,00:07:35.65,00:07:37.13,Default,,0,0,0,,Food program?
+Dialogue: 0,00:07:39.09,00:07:41.65,Default,,0,0,0,,Forget it, let’s eat something first
+Dialogue: 0,00:07:42.65,00:07:44.61,Default,,0,0,0,,What about those strawberry bags?
+Dialogue: 0,00:07:46.61,00:07:47.21,Default,,0,0,0,,In this
+Dialogue: 0,00:07:48.21,00:07:48.97,Default,,0,0,0,,Strawberry bag?
+Dialogue: 0,00:07:49.57,00:07:50.73,Default,,0,0,0,,One person, one
+Dialogue: 0,00:07:51.45,00:07:53.17,Default,,0,0,0,,It seems delicious
+Dialogue: 0,00:07:54.57,00:07:55.65,Default,,0,0,0,,It smells so good
+Dialogue: 0,00:07:56.81,00:07:58.01,Default,,0,0,0,,Don’t watch No watch
+Dialogue: 0,00:07:59.29,00:08:01.25,Default,,0,0,0,,Do you want to come one too?
+Dialogue: 0,00:08:01.93,00:08:03.53,Default,,0,0,0,,Very delicious
+Dialogue: 0,00:08:06.21,00:08:09.05,Default,,0,0,0,,Strawberry bread call
+Dialogue: 0,00:08:19.45,00:08:21.33,Default,,0,0,0,,BB Goat! You’re fine!
+Dialogue: 0,00:08:21.77,00:08:22.61,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:08:24.41,00:08:25.57,Default,,0,0,0,,What is this?
+Dialogue: 0,00:08:26.97,00:08:29.01,Default,,0,0,0,,Isn’t this my catcher?
+Dialogue: 0,00:08:29.25,00:08:31.29,Default,,0,0,0,,No...we can’t be so procrastinating!
+Dialogue: 0,00:08:35.25,00:08:38.05,Default,,0,0,0,,Ballrooms Does anyone want Ballrooms?
+Dialogue: 0,00:08:39.05,00:08:39.85,Default,,0,0,0,,bright!
+Dialogue: 0,00:08:42.29,00:08:44.01,Default,,0,0,0,,Do you want to buy a basin?
+Dialogue: 0,00:08:44.69,00:08:47.13,Default,,0,0,0,,Uncle Big Wolf has a balls sold there
+Dialogue: 0,00:08:47.17,00:08:47.77,Default,,0,0,0,,careful
+Dialogue: 0,00:08:48.21,00:08:49.89,Default,,0,0,0,,Maybe it’s a trap
+Dialogue: 0,00:08:51.73,00:08:53.05,Default,,0,0,0,,So alert
+Dialogue: 0,00:08:53.17,00:08:54.85,Default,,0,0,0,,It seems that I can only be serious
+Dialogue: 0,00:08:55.49,00:08:57.41,Default,,0,0,0,,Buy one get one get one today
+Dialogue: 0,00:08:57.53,00:08:58.49,Default,,0,0,0,,There are ballasts!
+Dialogue: 0,00:08:58.61,00:09:02.17,Default,,0,0,0,,I want to buy a basin! I want to buy it! …
+Dialogue: 0,00:09:02.21,00:09:04.13,Default,,0,0,0,,It’s a trap... Let’s go quickly
+Dialogue: 0,00:09:08.65,00:09:10.45,Default,,0,0,0,,It depends on where you run!
+Dialogue: 0,00:09:13.09,00:09:14.37,Default,,0,0,0,,Still want to run away?
+Dialogue: 0,00:09:18.21,00:09:19.21,Default,,0,0,0,,stop! ! !
+Dialogue: 0,00:09:26.77,00:09:27.49,Default,,0,0,0,,stop!
+Dialogue: 0,00:09:37.37,00:09:39.65,Default,,0,0,0,,Let’s go now
+Dialogue: 0,00:09:47.05,00:09:48.13,Default,,0,0,0,,So bright
+Dialogue: 0,00:09:48.21,00:09:49.69,Default,,0,0,0,,That’s the night pearl?
+Dialogue: 0,00:09:50.13,00:09:53.25,Default,,0,0,0,,You will destroy me and dare to come back now!
+Dialogue: 0,00:09:55.09,00:09:55.89,Default,,0,0,0,,Red
+Dialogue: 0,00:09:56.85,00:09:58.45,Default,,0,0,0,,I know it’s wrong!
+Dialogue: 0,00:09:59.53,00:10:01.01,Default,,0,0,0,,Don’t be angry
+Dialogue: 0,00:10:02.77,00:10:03.97,Default,,0,0,0,,Please tell me
+Dialogue: 0,00:10:05.77,00:10:07.57,Default,,0,0,0,,OK, I’m sorry
+Dialogue: 0,00:10:07.85,00:10:09.01,Default,,0,0,0,,Very good!
+Dialogue: 0,00:10:11.49,00:10:14.49,Default,,0,0,0,,Wolffy! You left me alone
+Dialogue: 0,00:10:23.81,00:10:25.13,Default,,0,0,0,,Everyone is fine, right?
+Dialogue: 0,00:10:25.89,00:10:28.41,Default,,0,0,0,,There is no light, there is no way to walk well
+Dialogue: 0,00:10:28.57,00:10:30.01,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:10:30.81,00:10:31.73,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:10:32.01,00:10:34.89,Default,,0,0,0,,Weslie Brother We Found Guang!
+Dialogue: 0,00:10:36.49,00:10:37.61,Default,,0,0,0,,Very good
+Dialogue: 0,00:10:39.25,00:10:40.77,Default,,0,0,0,,You’re here too soon
+Dialogue: 0,00:10:41.13,00:10:41.93,Default,,0,0,0,,yes
+Dialogue: 0,00:10:42.05,00:10:43.93,Default,,0,0,0,,I’ve come in time, too
+Dialogue: 0,00:10:50.65,00:10:52.53,Default,,0,0,0,,The red night pearl!
+Dialogue: 0,00:10:54.09,00:10:56.09,Default,,0,0,0,,It just won’t let you have any light!
+Dialogue: 0,00:10:56.97,00:10:59.17,Default,,0,0,0,,Let me teach this stinky stinger!
+Dialogue: 0,00:10:59.97,00:11:00.89,Default,,0,0,0,,King!
+Dialogue: 0,00:11:01.21,00:11:02.93,Default,,0,0,0,,-Let me come!
+-careful
+Dialogue: 0,00:11:04.85,00:11:06.69,Default,,0,0,0,,Everyone should be careful
+Dialogue: 0,00:11:08.81,00:11:09.45,Default,,0,0,0,,The King
+Dialogue: 0,00:11:09.49,00:11:10.57,Default,,0,0,0,,Catch BB Goat!
+Dialogue: 0,00:11:11.29,00:11:12.41,Default,,0,0,0,,Good do!
+Dialogue: 0,00:11:13.37,00:11:14.73,Default,,0,0,0,,It’s time to have a serious business!
+Dialogue: 0,00:11:16.57,00:11:19.09,Default,,0,0,0,,Let me go! Let me go!
+Dialogue: 0,00:11:22.65,00:11:23.61,Default,,0,0,0,,Let me go!
+Dialogue: 0,00:11:24.89,00:11:25.93,Default,,0,0,0,,It’s a snail!
+Dialogue: 0,00:11:26.57,00:11:28.53,Default,,0,0,0,,How do you have my catcher? !
+Dialogue: 0,00:11:28.77,00:11:30.17,Default,,0,0,0,,There are so many firecrackers!
+Dialogue: 0,00:11:31.53,00:11:32.21,Default,,0,0,0,,yes
+Dialogue: 0,00:11:32.29,00:11:33.69,Default,,0,0,0,,And see clearly
+Dialogue: 0,00:11:35.65,00:11:36.33,Default,,0,0,0,,No!
+Dialogue: 0,00:11:36.93,00:11:37.97,Default,,0,0,0,,Chase quickly!
+Dialogue: 0,00:11:39.85,00:11:40.85,Default,,0,0,0,,Stop them!
+Dialogue: 0,00:11:41.53,00:11:43.05,Default,,0,0,0,,Firefly
+Dialogue: 0,00:11:45.41,00:11:46.93,Default,,0,0,0,,Let me open!
+Dialogue: 0,00:11:47.61,00:11:48.25,Default,,0,0,0,,Look at the trick!
+Dialogue: 0,00:11:49.41,00:11:50.81,Default,,0,0,0,,Very burning! Very burning! …
+Dialogue: 0,00:11:51.65,00:11:52.65,Default,,0,0,0,,Very burning and very burning!
+Dialogue: 0,00:11:53.09,00:11:56.29,Default,,0,0,0,,-No, I don’t feel the heat
+- Quickly restore power to the grassland
+Dialogue: 0,00:11:57.93,00:11:58.41,Default,,0,0,0,,I…
+Dialogue: 0,00:11:59.45,00:11:59.97,Default,,0,0,0,,King!
+Dialogue: 0,00:12:00.21,00:12:01.69,Default,,0,0,0,,Save... Save me
+Dialogue: 0,00:12:10.89,00:12:12.57,Default,,0,0,0,,Now that the power has been restored
+Dialogue: 0,00:12:12.65,00:12:13.85,Default,,0,0,0,,Then... Then I’ll leave first!
+Dialogue: 0,00:12:15.17,00:12:16.93,Default,,0,0,0,,It feels so good to have light!
+Dialogue: 0,00:12:17.65,00:12:18.89,Default,,0,0,0,,That’s right
+Dialogue: 0,00:12:20.33,00:12:21.85,Default,,0,0,0,,Why do you feel dark again?
+Dialogue: 0,00:12:22.01,00:12:25.17,Default,,0,0,0,,Wolffy! You left me and ran away!
+Dialogue: 0,00:12:25.29,00:12:27.53,Default,,0,0,0,,And make my night pearl like this!
+Dialogue: 0,00:12:28.05,00:12:30.05,Default,,0,0,0,,Are you fat?
+Dialogue: 0,00:12:31.21,00:12:32.69,Default,,0,0,0,,sorry!

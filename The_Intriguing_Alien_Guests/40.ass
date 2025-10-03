@@ -1,0 +1,319 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.11,00:00:21.64,Default,,0,0,0,,Too unusual
+Dialogue: 0,00:00:21.68,00:00:23.20,Default,,0,0,0,,Radha actually searched
+Dialogue: 0,00:00:23.24,00:00:25.00,Default,,0,0,0,,Life reaction on volcanoes
+Dialogue: 0,00:00:25.04,00:00:27.60,Default,,0,0,0,,It’s normal to have animals on the snowy mountain
+Dialogue: 0,00:00:27.80,00:00:29.84,Default,,0,0,0,,That’s not an ordinary snow mountain
+Dialogue: 0,00:00:30.12,00:00:32.56,Default,,0,0,0,,This snowy mountain is called Qifeng Snow Mountain
+Dialogue: 0,00:00:32.80,00:00:33.80,Default,,0,0,0,,Its temperature ratio
+Dialogue: 0,00:00:33.88,00:00:35.28,Default,,0,0,0,,Ordinary snow-capped mountains are lower
+Dialogue: 0,00:00:35.56,00:00:37.16,Default,,0,0,0,,And it’s better than ordinary snow mountain
+Dialogue: 0,00:00:37.20,00:00:38.36,Default,,0,0,0,,More easily snowy
+Dialogue: 0,00:00:39.04,00:00:41.20,Default,,0,0,0,,It sounds so terrible there
+Dialogue: 0,00:00:41.32,00:00:42.64,Default,,0,0,0,,And the trapped people
+Dialogue: 0,00:00:42.64,00:00:44.56,Default,,0,0,0,,Maybe it’s BB Goat’s brother!
+Dialogue: 0,00:00:44.60,00:00:45.40,Default,,0,0,0,,Because Radha is
+Dialogue: 0,00:00:45.40,00:00:47.20,Default,,0,0,0,,I just found someone there recently
+Dialogue: 0,00:00:47.68,00:00:48.64,Default,,0,0,0,,elder brother?
+Dialogue: 0,00:00:49.32,00:00:51.00,Default,,0,0,0,,But it’s so dangerous there
+Dialogue: 0,00:00:51.00,00:00:52.12,Default,,0,0,0,,How can we save it?
+Dialogue: 0,00:00:52.76,00:00:53.92,Default,,0,0,0,,No need to take risks
+Dialogue: 0,00:00:54.00,00:00:55.28,Default,,0,0,0,,My strongest here
+Dialogue: 0,00:00:55.28,00:00:56.68,Default,,0,0,0,,Send me somebody
+Dialogue: 0,00:00:56.76,00:00:57.56,Default,,0,0,0,,no!
+Dialogue: 0,00:00:57.76,00:00:59.16,Default,,0,0,0,,This rescue operation
+Dialogue: 0,00:00:59.20,00:01:00.28,Default,,0,0,0,,Let’s go together!
+Dialogue: 0,00:01:00.28,00:01:02.08,Default,,0,0,0,,If you have any questions, solve them together!
+Dialogue: 0,00:01:02.12,00:01:03.04,Default,,0,0,0,,OK!
+Dialogue: 0,00:01:03.48,00:01:04.71,Default,,0,0,0,,This is what I developed
+Dialogue: 0,00:01:04.76,00:01:05.88,Default,,0,0,0,,Cold-proof spray
+Dialogue: 0,00:01:05.96,00:01:06.80,Default,,0,0,0,,Just spray it
+Dialogue: 0,00:01:06.84,00:01:08.43,Default,,0,0,0,,The body will automatically develop
+Dialogue: 0,00:01:08.56,00:01:10.04,Default,,0,0,0,,No longer afraid of the cold
+Dialogue: 0,00:01:12.48,00:01:14.00,Default,,0,0,0,,Everyone spray it!
+Dialogue: 0,00:01:14.40,00:01:15.12,Default,,0,0,0,,and
+Dialogue: 0,00:01:15.32,00:01:16.68,Default,,0,0,0,,The mountain of the strange snowy mountain
+Dialogue: 0,00:01:16.71,00:01:18.68,Default,,0,0,0,,There is a very dangerous ice lake
+Dialogue: 0,00:01:18.92,00:01:20.76,Default,,0,0,0,,As long as you step in, you will get ice
+Dialogue: 0,00:01:20.92,00:01:22.88,Default,,0,0,0,,There is no way to prevent cold sprays
+Dialogue: 0,00:01:23.64,00:01:25.32,Default,,0,0,0,,Don’t get close to that one
+Dialogue: 0,00:01:27.52,00:01:28.08,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:28.12,00:01:29.04,Default,,0,0,0,,Even if there is spray
+Dialogue: 0,00:01:29.08,00:01:30.84,Default,,0,0,0,,You will still encounter danger when you go up the mountain
+Dialogue: 0,00:01:30.84,00:01:31.88,Default,,0,0,0,,Let me go alone
+Dialogue: 0,00:01:32.32,00:01:34.16,Default,,0,0,0,,Don’t underestimate the strange snow mountain
+Dialogue: 0,00:01:34.28,00:01:36.08,Default,,0,0,0,,Never move alone!
+Dialogue: 0,00:01:36.92,00:01:37.43,Default,,0,0,0,,good
+Dialogue: 0,00:01:42.28,00:01:43.43,Default,,0,0,0,,We’re going to arrive
+Dialogue: 0,00:01:43.48,00:01:44.84,Default,,0,0,0,,This is a cold place
+Dialogue: 0,00:01:44.88,00:01:45.96,Default,,0,0,0,,Search for Xiaolu
+Dialogue: 0,00:01:45.96,00:01:47.16,Default,,0,0,0,,My last subordinate
+Dialogue: 0,00:01:47.20,00:01:48.12,Default,,0,0,0,,It’s here
+Dialogue: 0,00:01:48.28,00:01:49.84,Default,,0,0,0,,We must find him
+Dialogue: 0,00:01:50.48,00:01:51.60,Default,,0,0,0,,come on!
+Dialogue: 0,00:01:52.64,00:01:54.12,Default,,0,0,0,,There is another rival
+Dialogue: 0,00:01:54.43,00:01:55.36,Default,,0,0,0,,When will I be able to
+Dialogue: 0,00:01:55.40,00:01:56.84,Default,,0,0,0,,Become the boss
+Dialogue: 0,00:01:57.24,00:01:59.43,Default,,0,0,0,,He must not find that person
+Dialogue: 0,00:02:00.80,00:02:01.71,Default,,0,0,0,,It’s so cold here
+Dialogue: 0,00:02:01.84,00:02:03.96,Default,,0,0,0,,He may have been ruined into ice long ago
+Dialogue: 0,00:02:04.00,00:02:04.84,Default,,0,0,0,,It won’t
+Dialogue: 0,00:02:04.88,00:02:06.43,Default,,0,0,0,,He has strong defense capabilities
+Dialogue: 0,00:02:06.48,00:02:07.32,Default,,0,0,0,,and patience
+Dialogue: 0,00:02:07.36,00:02:08.68,Default,,0,0,0,,Can resist various attacks
+Dialogue: 0,00:02:08.71,00:02:10.16,Default,,0,0,0,,Even if he is in the lava
+Dialogue: 0,00:02:10.20,00:02:12.16,Default,,0,0,0,,It can also be intact
+Dialogue: 0,00:02:13.68,00:02:14.80,Default,,0,0,0,,We climb snow mountain
+Dialogue: 0,00:02:14.84,00:02:16.40,Default,,0,0,0,,It’s dangerous not to wear a gear
+Dialogue: 0,00:02:16.40,00:02:17.88,Default,,0,0,0,,Or go back first
+Dialogue: 0,00:02:18.00,00:02:18.68,Default,,0,0,0,,rest assured!
+Dialogue: 0,00:02:18.96,00:02:20.12,Default,,0,0,0,,I’ve set it up
+Dialogue: 0,00:02:20.16,00:02:21.08,Default,,0,0,0,,Safe route
+Dialogue: 0,00:02:21.48,00:02:22.68,Default,,0,0,0,,And Xiao Zi was arranged
+Dialogue: 0,00:02:22.72,00:02:24.08,Default,,0,0,0,,Stand at any time at the foot of the mountain
+Dialogue: 0,00:02:24.80,00:02:25.24,Default,,0,0,0,,In summary
+Dialogue: 0,00:02:25.52,00:02:26.36,Default,,0,0,0,,This trip
+Dialogue: 0,00:02:26.40,00:02:28.52,Default,,0,0,0,,Very safe!
+Dialogue: 0,00:02:28.56,00:02:29.20,Default,,0,0,0,,good!
+Dialogue: 0,00:02:29.28,00:02:31.48,Default,,0,0,0,,Then we will come out with urgency!
+Dialogue: 0,00:02:34.36,00:02:35.28,Default,,0,0,0,,What’s up?
+Dialogue: 0,00:02:39.88,00:02:42.12,Default,,0,0,0,,Snowball! ! !
+Dialogue: 0,00:02:42.52,00:02:43.64,Default,,0,0,0,,Avalanche!
+Dialogue: 0,00:02:43.68,00:02:46.28,Default,,0,0,0,,The big snow on the tree hits!
+Dialogue: 0,00:02:48.76,00:02:50.80,Default,,0,0,0,,Xiao Lü, you said it’s safe!
+Dialogue: 0,00:02:51.40,00:02:51.96,Default,,0,0,0,,The King
+Dialogue: 0,00:02:52.00,00:02:52.88,Default,,0,0,0,,This is so dangerous here
+Dialogue: 0,00:02:52.92,00:02:54.84,Default,,0,0,0,,We might as well go back
+Dialogue: 0,00:02:55.36,00:02:56.16,Default,,0,0,0,,OK!
+Dialogue: 0,00:02:56.84,00:02:57.63,Default,,0,0,0,,The plan was successful!
+Dialogue: 0,00:02:57.68,00:02:58.36,Default,,0,0,0,,The King
+Dialogue: 0,00:02:58.40,00:03:00.28,Default,,0,0,0,,I have planned the route to the mountain, too
+Dialogue: 0,00:03:00.48,00:03:02.00,Default,,0,0,0,,This time it must be very safe!
+Dialogue: 0,00:03:02.20,00:03:03.92,Default,,0,0,0,,Is it really safe this time?
+Dialogue: 0,00:03:04.16,00:03:04.76,Default,,0,0,0,,It’s safe
+Dialogue: 0,00:03:04.80,00:03:06.96,Default,,0,0,0,,Just like the protected BB Goat
+Dialogue: 0,00:03:11.12,00:03:12.07,Default,,0,0,0,,Let’s go out!
+Dialogue: 0,00:03:18.28,00:03:19.32,Default,,0,0,0,,Even if something is sprayed
+Dialogue: 0,00:03:19.32,00:03:20.56,Default,,0,0,0,,Still very cold
+Dialogue: 0,00:03:21.63,00:03:22.76,Default,,0,0,0,,How did you get here at once
+Dialogue: 0,00:03:22.80,00:03:24.32,Default,,0,0,0,,Radha has a few more people...
+Dialogue: 0,00:03:24.44,00:03:26.12,Default,,0,0,0,,Village Chief Your invention...
+Dialogue: 0,00:03:26.48,00:03:28.00,Default,,0,0,0,,It must be too cold here
+Dialogue: 0,00:03:28.00,00:03:29.28,Default,,0,0,0,,Causing some loss of spirit
+Dialogue: 0,00:03:29.60,00:03:30.32,Default,,0,0,0,,Just in case of
+Dialogue: 0,00:03:30.32,00:03:31.88,Default,,0,0,0,,Let’s go up and take a look
+Dialogue: 0,00:03:32.40,00:03:33.28,Default,,0,0,0,,good
+Dialogue: 0,00:03:39.00,00:03:40.20,Default,,0,0,0,,Tibbie!
+Dialogue: 0,00:03:42.12,00:03:43.36,Default,,0,0,0,,Everyone has come here
+Dialogue: 0,00:03:45.24,00:03:47.16,Default,,0,0,0,,So warm
+Dialogue: 0,00:03:47.48,00:03:48.72,Default,,0,0,0,,Let’s continue to develop!
+Dialogue: 0,00:03:49.76,00:03:50.72,Default,,0,0,0,,Step on me!
+Dialogue: 0,00:03:56.00,00:03:57.92,Default,,0,0,0,,I can’t go on like this
+Dialogue: 0,00:04:00.20,00:04:01.80,Default,,0,0,0,,Let’s start here first
+Dialogue: 0,00:04:02.12,00:04:03.63,Default,,0,0,0,,Wait until the snow passes before leaving
+Dialogue: 0,00:04:12.52,00:04:13.96,Default,,0,0,0,,As long as I save the people on the mountain
+Dialogue: 0,00:04:14.36,00:04:15.88,Default,,0,0,0,,You don’t have to work so hard
+Dialogue: 0,00:04:18.44,00:04:19.32,Default,,0,0,0,,Brother Sparky
+Dialogue: 0,00:04:19.32,00:04:20.28,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:04:24.63,00:04:25.44,Default,,0,0,0,,That’s what you said
+Dialogue: 0,00:04:25.48,00:04:27.16,Default,,0,0,0,,Is it a safe route?
+Dialogue: 0,00:04:29.52,00:04:31.20,Default,,0,0,0,,I want to go home...
+Dialogue: 0,00:04:31.52,00:04:32.56,Default,,0,0,0,,The king...
+Dialogue: 0,00:04:32.60,00:04:33.40,Default,,0,0,0,,Who is it
+Dialogue: 0,00:04:33.48,00:04:34.68,Default,,0,0,0,,Strike me
+Dialogue: 0,00:04:34.68,00:04:36.20,Default,,0,0,0,,Extremely cold and nurturing
+Dialogue: 0,00:04:44.76,00:04:46.04,Default,,0,0,0,,Finally found you
+Dialogue: 0,00:04:46.07,00:04:47.28,Default,,0,0,0,,Little red!
+Dialogue: 0,00:04:47.32,00:04:48.28,Default,,0,0,0,,Little red?
+Dialogue: 0,00:04:49.44,00:04:50.88,Default,,0,0,0,,King Bacteria? !
+Dialogue: 0,00:04:51.68,00:04:53.04,Default,,0,0,0,,Don’t call me a little red!
+Dialogue: 0,00:04:54.36,00:04:56.04,Default,,0,0,0,,Little red!
+Dialogue: 0,00:04:56.28,00:04:58.12,Default,,0,0,0,,He said, don’t call me Xiaohong!
+Dialogue: 0,00:04:58.56,00:04:59.48,Default,,0,0,0,,Little red!
+Dialogue: 0,00:05:00.48,00:05:02.16,Default,,0,0,0,,I haven’t seen it for a long time
+Dialogue: 0,00:05:03.52,00:05:04.88,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:05:05.32,00:05:06.07,Default,,0,0,0,,The King
+Dialogue: 0,00:05:08.63,00:05:11.07,Default,,0,0,0,,Why did the king become a little purple potato?
+Dialogue: 0,00:05:11.96,00:05:13.92,Default,,0,0,0,,My experience will be discussed later!
+Dialogue: 0,00:05:14.16,00:05:15.44,Default,,0,0,0,,Introduction to you
+Dialogue: 0,00:05:15.68,00:05:17.16,Default,,0,0,0,,His name is Guqingjian
+Dialogue: 0,00:05:17.24,00:05:19.52,Default,,0,0,0,,You can call him a little red
+Dialogue: 0,00:05:20.28,00:05:21.12,Default,,0,0,0,,Everyone will do it in the future
+Dialogue: 0,00:05:21.12,00:05:22.96,Default,,0,0,0,,Stay together well!
+Dialogue: 0,00:05:23.96,00:05:24.63,Default,,0,0,0,,Little red
+Dialogue: 0,00:05:24.72,00:05:26.44,Default,,0,0,0,,Next is mine
+Dialogue: 0,00:05:28.16,00:05:29.07,Default,,0,0,0,,That’s it
+Dialogue: 0,00:05:29.20,00:05:30.40,Default,,0,0,0,,You want to help me catch goat
+Dialogue: 0,00:05:30.44,00:05:31.92,Default,,0,0,0,,Unblocking ability...
+Dialogue: 0,00:05:32.52,00:05:33.52,Default,,0,0,0,,He’s so old
+Dialogue: 0,00:05:33.56,00:05:34.44,Default,,0,0,0,,Is it OK?
+Dialogue: 0,00:05:35.07,00:05:36.40,Default,,0,0,0,,Say I’m old?
+Dialogue: 0,00:05:47.84,00:05:48.92,Default,,0,0,0,,I’m willing to give up!
+Dialogue: 0,00:05:52.92,00:05:54.48,Default,,0,0,0,,Come again! !
+Dialogue: 0,00:05:54.52,00:05:55.40,Default,,0,0,0,,Run!
+Dialogue: 0,00:06:02.84,00:06:04.20,Default,,0,0,0,,Go in and hide!
+Dialogue: 0,00:06:08.52,00:06:10.32,Default,,0,0,0,,Micacaria
+Dialogue: 0,00:06:20.68,00:06:21.76,Default,,0,0,0,,This person is so tricky
+Dialogue: 0,00:06:21.92,00:06:23.04,Default,,0,0,0,,More protections should be made in the future
+Dialogue: 0,00:06:23.60,00:06:25.08,Default,,0,0,0,,The little red is really awesome!
+Dialogue: 0,00:06:26.20,00:06:27.12,Default,,0,0,0,,Small red chrysanthemum
+Dialogue: 0,00:06:27.16,00:06:29.20,Default,,0,0,0,,Can prevent all attacks
+Dialogue: 0,00:06:29.88,00:06:31.56,Default,,0,0,0,,Don’t call me a little red!
+Dialogue: 0,00:06:31.64,00:06:32.72,Default,,0,0,0,,OK little red!
+Dialogue: 0,00:06:32.84,00:06:34.52,Default,,0,0,0,,Let’s go catch the goat quickly!
+Dialogue: 0,00:06:34.68,00:06:36.00,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:06:37.08,00:06:40.16,Default,,0,0,0,,Open Digging Open Digging…
+Dialogue: 0,00:06:46.08,00:06:46.60,Default,,0,0,0,,Who is it!
+Dialogue: 0,00:06:48.28,00:06:49.24,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:06:49.72,00:06:51.32,Default,,0,0,0,,Why did you come out alone
+Dialogue: 0,00:06:51.40,00:06:52.32,Default,,0,0,0,,Very dangerous
+Dialogue: 0,00:06:52.76,00:06:54.56,Default,,0,0,0,,Brother Sparky came out to play secretly
+Dialogue: 0,00:06:54.68,00:06:55.88,Default,,0,0,0,,I want to play together, too!
+Dialogue: 0,00:06:56.20,00:06:57.92,Default,,0,0,0,,I’m not here to play
+Dialogue: 0,00:07:02.88,00:07:04.16,Default,,0,0,0,,It’s difficult to go back now
+Dialogue: 0,00:07:04.60,00:07:05.40,Default,,0,0,0,,We’ll still be the first
+Dialogue: 0,00:07:05.44,00:07:06.80,Default,,0,0,0,,Find a place to hide
+Dialogue: 0,00:07:10.88,00:07:12.00,Default,,0,0,0,,Leida points to the tent
+Dialogue: 0,00:07:12.52,00:07:13.16,Default,,0,0,0,,Difficult to tell
+Dialogue: 0,00:07:13.64,00:07:15.64,Default,,0,0,0,,BB Goat’s brother is trapped in the tent
+Dialogue: 0,00:07:26.28,00:07:27.76,Default,,0,0,0,,Can go out!
+Dialogue: 0,00:07:27.76,00:07:29.24,Default,,0,0,0,,Finally came out!
+Dialogue: 0,00:07:31.12,00:07:32.08,Default,,0,0,0,,It’s you
+Dialogue: 0,00:07:32.24,00:07:33.20,Default,,0,0,0,,It turns out that the detector
+Dialogue: 0,00:07:33.24,00:07:35.16,Default,,0,0,0,,Life reaction signal is yours
+Dialogue: 0,00:07:35.76,00:07:36.32,Default,,0,0,0,,No more
+Dialogue: 0,00:07:37.44,00:07:38.12,Default,,0,0,0,,Don’t leave!
+Dialogue: 0,00:07:40.32,00:07:41.32,Default,,0,0,0,,Now that’s coming
+Dialogue: 0,00:07:41.35,00:07:42.40,Default,,0,0,0,,Don’t try to escape
+Dialogue: 0,00:07:42.60,00:07:43.88,Default,,0,0,0,,Catch BB Goat!
+Dialogue: 0,00:07:46.16,00:07:47.08,Default,,0,0,0,,I’m here
+Dialogue: 0,00:07:47.60,00:07:49.12,Default,,0,0,0,,It won’t hurt you
+Dialogue: 0,00:07:49.12,00:07:50.24,Default,,0,0,0,,A wool
+Dialogue: 0,00:07:53.52,00:07:54.24,Default,,0,0,0,,Anti-suppression shield? !
+Dialogue: 0,00:07:55.04,00:07:55.92,Default,,0,0,0,,Who are you? !
+Dialogue: 0,00:07:56.88,00:07:58.08,Default,,0,0,0,,My name is Guqingjian
+Dialogue: 0,00:07:58.35,00:07:59.35,Default,,0,0,0,,Are you a goat?
+Dialogue: 0,00:07:59.64,00:08:00.16,Default,,0,0,0,,yes
+Dialogue: 0,00:08:00.76,00:08:02.47,Default,,0,0,0,,Then just surrender!
+Dialogue: 0,00:08:08.56,00:08:09.47,Default,,0,0,0,,My hot punch
+Dialogue: 0,00:08:09.47,00:08:10.44,Default,,0,0,0,,It’s useless
+Dialogue: 0,00:08:10.47,00:08:11.80,Default,,0,0,0,,I’ve been soaked in the rock
+Dialogue: 0,00:08:12.04,00:08:13.52,Default,,0,0,0,,What is your temperature?
+Dialogue: 0,00:08:15.40,00:08:17.00,Default,,0,0,0,,We can’t get in at all
+Dialogue: 0,00:08:17.35,00:08:18.88,Default,,0,0,0,,Just watch quietly
+Dialogue: 0,00:08:19.47,00:08:20.68,Default,,0,0,0,,The watermelon is so hard
+Dialogue: 0,00:08:20.80,00:08:22.08,Default,,0,0,0,,Since the temperature is not good
+Dialogue: 0,00:08:22.56,00:08:23.40,Default,,0,0,0,,Then continue searching
+Dialogue: 0,00:08:23.44,00:08:24.72,Default,,0,0,0,,The weakness of this hood
+Dialogue: 0,00:08:25.35,00:08:26.40,Default,,0,0,0,,Break! !
+Dialogue: 0,00:08:28.04,00:08:29.44,Default,,0,0,0,,My husband’s Milkycetes
+Dialogue: 0,00:08:29.47,00:08:30.72,Default,,0,0,0,,But the strongest defense
+Dialogue: 0,00:08:30.72,00:08:32.16,Default,,0,0,0,,You can’t break it
+Dialogue: 0,00:08:33.92,00:08:34.96,Default,,0,0,0,,Too weak
+Dialogue: 0,00:08:39.40,00:08:40.08,Default,,0,0,0,,The King
+Dialogue: 0,00:08:40.20,00:08:41.44,Default,,0,0,0,,I caught BB Goat!
+Dialogue: 0,00:08:41.52,00:08:42.64,Default,,0,0,0,,Come and unblock!
+Dialogue: 0,00:08:43.47,00:08:44.84,Default,,0,0,0,,Brother Sparky!
+Dialogue: 0,00:08:45.96,00:08:48.08,Default,,0,0,0,,BB Goat is that small!
+Dialogue: 0,00:08:48.80,00:08:49.80,Default,,0,0,0,,Small?
+Dialogue: 0,00:08:54.52,00:08:55.52,Default,,0,0,0,,BB Goat run quickly!
+Dialogue: 0,00:08:55.60,00:08:56.08,Default,,0,0,0,,Chase!
+Dialogue: 0,00:09:00.00,00:09:01.96,Default,,0,0,0,,King, wait for me
+Dialogue: 0,00:09:07.08,00:09:08.28,Default,,0,0,0,,It’s even colder here
+Dialogue: 0,00:09:12.92,00:09:13.96,Default,,0,0,0,,Can’t run anymore!
+Dialogue: 0,00:09:14.52,00:09:16.12,Default,,0,0,0,,Just surrender
+Dialogue: 0,00:09:20.92,00:09:22.12,Default,,0,0,0,,Is it iced? !
+Dialogue: 0,00:09:22.20,00:09:23.40,Default,,0,0,0,,Be careful, lord
+Dialogue: 0,00:09:24.12,00:09:25.47,Default,,0,0,0,,Here is the Ice Lake
+Dialogue: 0,00:09:25.60,00:09:26.16,Default,,0,0,0,,Go in
+Dialogue: 0,00:09:26.20,00:09:27.64,Default,,0,0,0,,Will be stopped immediately
+Dialogue: 0,00:09:27.64,00:09:28.84,Default,,0,0,0,,Didn’t you say it earlier?
+Dialogue: 0,00:09:28.88,00:09:30.35,Default,,0,0,0,,Are you not here to save us? !
+Dialogue: 0,00:09:30.35,00:09:31.64,Default,,0,0,0,,Come now!
+Dialogue: 0,00:09:33.35,00:09:35.12,Default,,0,0,0,,I’m looking for solutions online now
+Dialogue: 0,00:09:36.32,00:09:37.35,Default,,0,0,0,,You’re a machine
+Dialogue: 0,00:09:37.40,00:09:38.80,Default,,0,0,0,,Why are you afraid of the cold?
+Dialogue: 0,00:09:38.96,00:09:40.00,Default,,0,0,0,,We crawled back by ourselves
+Dialogue: 0,00:09:40.35,00:09:43.12,Default,,0,0,0,,One and two…
+Dialogue: 0,00:09:44.08,00:09:44.92,Default,,0,0,0,,Little red
+Dialogue: 0,00:09:44.96,00:09:46.68,Default,,0,0,0,,Catch BB Goat!
+Dialogue: 0,00:09:48.80,00:09:50.20,Default,,0,0,0,,It’s really a little cold
+Dialogue: 0,00:09:50.40,00:09:51.28,Default,,0,0,0,,Micacaria
+Dialogue: 0,00:09:57.64,00:09:58.80,Default,,0,0,0,,BB Goat is in danger!
+Dialogue: 0,00:10:02.76,00:10:04.52,Default,,0,0,0,,Is this the village chief said to be the ice lake?
+Dialogue: 0,00:10:09.92,00:10:11.56,Default,,0,0,0,,Don’t even think about hurting BB Goat!
+Dialogue: 0,00:10:13.88,00:10:15.16,Default,,0,0,0,,See your situation clearly
+Dialogue: 0,00:10:15.56,00:10:16.52,Default,,0,0,0,,Discussing endurance
+Dialogue: 0,00:10:16.76,00:10:17.92,Default,,0,0,0,,You’re not as good as me
+Dialogue: 0,00:10:18.00,00:10:19.68,Default,,0,0,0,,I’m in front of you who can’t beat me
+Dialogue: 0,00:10:19.92,00:10:21.80,Default,,0,0,0,,Behind is an endless ice lake
+Dialogue: 0,00:10:22.32,00:10:23.16,Default,,0,0,0,,As the saying goes
+Dialogue: 0,00:10:23.20,00:10:24.04,Default,,0,0,0,,Independent difficulty
+Dialogue: 0,00:10:24.52,00:10:25.56,Default,,0,0,0,,Be good
+Dialogue: 0,00:10:25.60,00:10:27.28,Default,,0,0,0,,Leave the little sister to me!
+Dialogue: 0,00:10:32.20,00:10:34.24,Default,,0,0,0,,If it weren’t for me, I’d come out alone
+Dialogue: 0,00:10:36.56,00:10:38.35,Default,,0,0,0,,Nothing this will happen!
+Dialogue: 0,00:10:49.08,00:10:50.16,Default,,0,0,0,,Have you been crazy?
+Dialogue: 0,00:10:50.20,00:10:50.92,Default,,0,0,0,,Melt the ice
+Dialogue: 0,00:10:50.96,00:10:52.32,Default,,0,0,0,,You’ll fall into the lake!
+Dialogue: 0,00:10:55.28,00:10:56.16,Default,,0,0,0,,just me
+Dialogue: 0,00:10:56.32,00:10:57.56,Default,,0,0,0,,Will fall
+Dialogue: 0,00:11:01.88,00:11:02.88,Default,,0,0,0,,Escape
+Dialogue: 0,00:11:02.92,00:11:03.96,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:11:05.72,00:11:06.64,Default,,0,0,0,,The water is so cold!
+Dialogue: 0,00:11:06.88,00:11:08.47,Default,,0,0,0,,It’s biting cold
+Dialogue: 0,00:11:09.84,00:11:10.88,Default,,0,0,0,,It’s really nonsense!
+Dialogue: 0,00:11:12.68,00:11:14.64,Default,,0,0,0,,The village chief’s spray is useless
+Dialogue: 0,00:11:16.24,00:11:18.32,Default,,0,0,0,,Never do it alone
+Dialogue: 0,00:11:18.80,00:11:20.24,Default,,0,0,0,,Sorry, village chief
+Dialogue: 0,00:11:20.40,00:11:21.64,Default,,0,0,0,,I haven’t heard you
+Dialogue: 0,00:11:22.24,00:11:23.16,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:11:23.16,00:11:24.64,Default,,0,0,0,,Hope you can escape
+Dialogue: 0,00:11:25.00,00:11:25.68,Default,,0,0,0,,Everyone
+Dialogue: 0,00:11:26.12,00:11:27.08,Default,,0,0,0,,See you again
+Dialogue: 0,00:11:30.80,00:11:31.52,Default,,0,0,0,,what?
+Dialogue: 0,00:11:33.40,00:11:34.40,Default,,0,0,0,,It’s okay?
+Dialogue: 0,00:11:39.24,00:11:40.56,Default,,0,0,0,,BB Goat is fine
+Dialogue: 0,00:11:41.52,00:11:42.40,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:11:43.64,00:11:44.52,Default,,0,0,0,,We have something to do!
+Dialogue: 0,00:11:44.56,00:11:46.47,Default,,0,0,0,,Save us!
+Dialogue: 0,00:11:46.80,00:11:47.64,Default,,0,0,0,,Not safe here
+Dialogue: 0,00:11:47.72,00:11:48.44,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:11:48.47,00:11:50.08,Default,,0,0,0,,No! !
+Dialogue: 0,00:11:52.92,00:11:54.40,Default,,0,0,0,,This guy is a little bit interesting
+Dialogue: 0,00:11:54.56,00:11:55.88,Default,,0,0,0,,What are you feeling grateful for?
+Dialogue: 0,00:11:55.92,00:11:57.35,Default,,0,0,0,,Come and save us!
+Dialogue: 0,00:11:57.40,00:12:00.28,Default,,0,0,0,,Help!
+Dialogue: 0,00:12:02.72,00:12:03.52,Default,,0,0,0,,I... Sparky 
+Dialogue: 0,00:12:03.80,00:12:05.47,Default,,0,0,0,,Ask everyone from now on
+Dialogue: 0,00:12:05.47,00:12:06.47,Default,,0,0,0,,Never again
+Dialogue: 0,00:12:06.52,00:12:07.92,Default,,0,0,0,,I’ve moved by myself!
+Dialogue: 0,00:12:08.52,00:12:09.80,Default,,0,0,0,,BB Goat also swears
+Dialogue: 0,00:12:09.84,00:12:11.44,Default,,0,0,0,,Don’t sneak out
+Dialogue: 0,00:12:12.40,00:12:14.88,Default,,0,0,0,,Thank you brother Sparky for saving me
+Dialogue: 0,00:12:16.64,00:12:17.76,Default,,0,0,0,,BB Goat...
+Dialogue: 0,00:12:17.88,00:12:19.47,Default,,0,0,0,,This time it’s all up to Sparky 
+Dialogue: 0,00:12:19.76,00:12:20.96,Default,,0,0,0,,BB Goat is fine
+Dialogue: 0,00:12:21.24,00:12:23.04,Default,,0,0,0,,Thank you Sparky 
+Dialogue: 0,00:12:23.40,00:12:25.04,Default,,0,0,0,,Remember what happens later
+Dialogue: 0,00:12:25.04,00:12:26.47,Default,,0,0,0,,Let’s solve it together
+Dialogue: 0,00:12:26.68,00:12:27.76,Default,,0,0,0,,OK Village Chief
+Dialogue: 0,00:12:27.92,00:12:28.84,Default,,0,0,0,,Actually my work
+Dialogue: 0,00:12:28.88,00:12:29.92,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:12:29.92,00:12:31.68,Default,,0,0,0,,So can you help me solve it?
+Dialogue: 0,00:12:31.88,00:12:33.92,Default,,0,0,0,,Solve it yourself!

@@ -1,0 +1,311 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.05,00:00:24.61,Default,,0,0,0,,The new king is thousands of years old! The new king is thousands of years old!
+Dialogue: 0,00:00:24.69,00:00:25.69,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:00:26.05,00:00:26.45,Default,,0,0,0,,No
+Dialogue: 0,00:00:26.53,00:00:27.25,Default,,0,0,0,,New King
+Dialogue: 0,00:00:27.33,00:00:29.61,Default,,0,0,0,,Anything to tell the younger ones to do
+Dialogue: 0,00:00:29.93,00:00:31.97,Default,,0,0,0,,For the sake of friends
+Dialogue: 0,00:00:32.97,00:00:35.01,Default,,0,0,0,,Just let you brush the bucket
+Dialogue: 0,00:00:36.29,00:00:37.49,Default,,0,0,0,,Thank you, King!
+Dialogue: 0,00:00:38.01,00:00:39.33,Default,,0,0,0,,I’ll definitely brush the bucket
+Dialogue: 0,00:00:39.33,00:00:41.21,Default,,0,0,0,,Flashing shine!
+Dialogue: 0,00:00:44.49,00:00:48.89,Default,,0,0,0,,The new king is thousands of years old! The new king is thousands of years old!
+Dialogue: 0,00:00:50.57,00:00:51.29,Default,,0,0,0,,Stop dreaming!
+Dialogue: 0,00:00:51.45,00:00:52.61,Default,,0,0,0,,Wake up quickly!
+Dialogue: 0,00:00:57.01,00:00:58.57,Default,,0,0,0,,The king doesn’t see it anymore
+Dialogue: 0,00:00:58.81,00:01:00.85,Default,,0,0,0,,You are in the mood to sleep!
+Dialogue: 0,00:01:01.61,00:01:02.49,Default,,0,0,0,,What!
+Dialogue: 0,00:01:02.53,00:01:04.05,Default,,0,0,0,,It turns out that it’s just a dream...
+Dialogue: 0,00:01:05.21,00:01:06.33,Default,,0,0,0,,It’s been so long
+Dialogue: 0,00:01:06.37,00:01:08.17,Default,,0,0,0,,Where did the king go
+Dialogue: 0,00:01:11.65,00:01:13.37,Default,,0,0,0,,I searched for the monitoring videos of the whole grassland
+Dialogue: 0,00:01:13.57,00:01:15.33,Default,,0,0,0,,I didn’t see the king’s sight
+Dialogue: 0,00:01:16.01,00:01:17.89,Default,,0,0,0,,The king will not encounter danger, right?
+Dialogue: 0,00:01:19.09,00:01:19.93,Default,,0,0,0,,The king is not here
+Dialogue: 0,00:01:20.25,00:01:22.17,Default,,0,0,0,,Isn’t this my chance to be the king?
+Dialogue: 0,00:01:23.89,00:01:25.13,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:01:25.29,00:01:27.05,Default,,0,0,0,,Do you know where the king is?
+Dialogue: 0,00:01:28.33,00:01:28.93,Default,,0,0,0,,have no idea!
+Dialogue: 0,00:01:29.89,00:01:31.97,Default,,0,0,0,,But I can be your new king!
+Dialogue: 0,00:01:32.53,00:01:34.05,Default,,0,0,0,,Let’s go find the king
+Dialogue: 0,00:01:35.97,00:01:36.77,Default,,0,0,0,,Wait for me!
+Dialogue: 0,00:01:37.21,00:01:38.21,Default,,0,0,0,,Let me show off
+Dialogue: 0,00:01:38.25,00:01:38.97,Default,,0,0,0,,Let you believe it
+Dialogue: 0,00:01:39.25,00:01:41.17,Default,,0,0,0,,By then I will be the new king!
+Dialogue: 0,00:01:46.49,00:01:47.57,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:01:48.49,00:01:50.05,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:01:50.09,00:01:51.93,Default,,0,0,0,,Where did Wolffy go?
+Dialogue: 0,00:01:51.97,00:01:53.53,Default,,0,0,0,,We made us look for him...
+Dialogue: 0,00:01:54.13,00:01:56.17,Default,,0,0,0,,Don’t complain, look for it quickly
+Dialogue: 0,00:01:58.97,00:02:00.37,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:02:04.69,00:02:05.61,Default,,0,0,0,,It’s all you!
+Dialogue: 0,00:02:05.65,00:02:07.33,Default,,0,0,0,,I was trapped here!
+Dialogue: 0,00:02:08.25,00:02:09.85,Default,,0,0,0,,Who told you to run away!
+Dialogue: 0,00:02:10.65,00:02:11.93,Default,,0,0,0,,He was in trouble again in Wolf Castle!
+Dialogue: 0,00:02:11.97,00:02:12.81,Default,,0,0,0,,Don’t run away!
+Dialogue: 0,00:02:13.85,00:02:15.77,Default,,0,0,0,,This king is going to run away, who can’t hold back
+Dialogue: 0,00:02:33.45,00:02:34.77,Default,,0,0,0,,Or you can pull me first
+Dialogue: 0,00:02:34.81,00:02:35.97,Default,,0,0,0,,We continue to chase
+Dialogue: 0,00:02:39.89,00:02:41.13,Default,,0,0,0,,You think beautifully
+Dialogue: 0,00:02:41.17,00:02:42.93,Default,,0,0,0,,Let me send you down!
+Dialogue: 0,00:02:47.57,00:02:48.77,Default,,0,0,0,,Tell you not to pull me up
+Dialogue: 0,00:02:48.77,00:02:49.77,Default,,0,0,0,,It’s all your fault!
+Dialogue: 0,00:02:49.81,00:02:50.93,Default,,0,0,0,,You didn’t chase me at the beginning
+Dialogue: 0,00:02:50.97,00:02:52.85,Default,,0,0,0,,It won’t be like this
+Dialogue: 0,00:02:52.85,00:02:54.73,Default,,0,0,0,,Use my little fist to hit you a big head
+Dialogue: 0,00:02:54.77,00:02:56.73,Default,,0,0,0,,I’ll call...
+Dialogue: 0,00:02:58.93,00:03:00.41,Default,,0,0,0,,There are so many complaints
+Dialogue: 0,00:03:00.45,00:03:01.81,Default,,0,0,0,,Why not find a way to go out!
+Dialogue: 0,00:03:03.37,00:03:04.81,Default,,0,0,0,,King!
+Dialogue: 0,00:03:05.53,00:03:06.73,Default,,0,0,0,,King!
+Dialogue: 0,00:03:06.77,00:03:08.45,Default,,0,0,0,,King!
+Dialogue: 0,00:03:08.81,00:03:10.25,Default,,0,0,0,,Where are you, king!
+Dialogue: 0,00:03:16.05,00:03:17.77,Default,,0,0,0,,Why is there a fork in the middle?
+Dialogue: 0,00:03:17.77,00:03:19.41,Default,,0,0,0,,Where should I go?
+Dialogue: 0,00:03:20.65,00:03:21.45,Default,,0,0,0,,It’s an opportunity!
+Dialogue: 0,00:03:22.17,00:03:23.45,Default,,0,0,0,,I can definitely pass myself
+Dialogue: 0,00:03:23.49,00:03:24.37,Default,,0,0,0,,Excellent leader
+Dialogue: 0,00:03:24.41,00:03:26.25,Default,,0,0,0,,Only to motivate everyone
+Dialogue: 0,00:03:27.37,00:03:29.33,Default,,0,0,0,,Successfully ascend the position of the king!
+Dialogue: 0,00:03:30.61,00:03:31.41,Default,,0,0,0,,Go here!
+Dialogue: 0,00:03:32.69,00:03:34.09,Default,,0,0,0,,Are you sure?
+Dialogue: 0,00:03:34.97,00:03:36.21,Default,,0,0,0,,Believe me
+Dialogue: 0,00:03:39.73,00:03:41.37,Default,,0,0,0,,Are you really sure it’s here?
+Dialogue: 0,00:03:42.93,00:03:44.21,Default,,0,0,0,,The King’s One Movement
+Dialogue: 0,00:03:44.21,00:03:45.49,Default,,0,0,0,,I know everything!
+Dialogue: 0,00:03:47.01,00:03:48.29,Default,,0,0,0,,Believe me!
+Dialogue: 0,00:03:50.73,00:03:53.81,Default,,0,0,0,,Stone Head Stone Head Stone Head!
+Dialogue: 0,00:03:53.89,00:03:55.01,Default,,0,0,0,,A stone head!
+Dialogue: 0,00:03:55.69,00:03:56.61,Default,,0,0,0,,The opportunity is here
+Dialogue: 0,00:03:58.73,00:04:00.41,Default,,0,0,0,,I can definitely use my own strength
+Dialogue: 0,00:04:01.17,00:04:02.17,Default,,0,0,0,,Save everyone
+Dialogue: 0,00:04:02.65,00:04:03.61,Default,,0,0,0,,Arrival smoothly
+Dialogue: 0,00:04:03.65,00:04:04.65,Default,,0,0,0,,The position of the king!
+Dialogue: 0,00:04:08.17,00:04:08.97,Default,,0,0,0,,Be careful, everyone!
+Dialogue: 0,00:04:12.29,00:04:15.41,Default,,0,0,0,,New King, I’m determined!
+Dialogue: 0,00:04:15.93,00:04:17.21,Default,,0,0,0,,Everyone is fine
+Dialogue: 0,00:04:17.97,00:04:20.01,Default,,0,0,0,,Are you pushing us
+Dialogue: 0,00:04:31.77,00:04:32.09,Default,,0,0,0,,look
+Dialogue: 0,00:04:32.41,00:04:33.73,Default,,0,0,0,,The exit is right in front
+Dialogue: 0,00:04:38.09,00:04:39.01,Default,,0,0,0,,What export!
+Dialogue: 0,00:04:39.05,00:04:41.85,Default,,0,0,0,,Isn’t this just a fork in the road! ?
+Dialogue: 0,00:04:42.85,00:04:43.81,Default,,0,0,0,,It’s a little bit close!
+Dialogue: 0,00:04:44.01,00:04:45.17,Default,,0,0,0,,Work harder
+Dialogue: 0,00:04:45.17,00:04:46.33,Default,,0,0,0,,Just climbed up!
+Dialogue: 0,00:04:48.05,00:04:50.37,Default,,0,0,0,,You can’t get out if you try hard...
+Dialogue: 0,00:04:51.13,00:04:52.69,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:04:53.33,00:04:54.45,Default,,0,0,0,,Why is there a pit here?
+Dialogue: 0,00:04:54.97,00:04:56.45,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:04:57.01,00:04:58.77,Default,,0,0,0,,It’s the sound of Tibbie
+Dialogue: 0,00:04:59.81,00:05:00.33,Default,,0,0,0,,I
+Dialogue: 0,00:05:02.25,00:05:03.53,Default,,0,0,0,,Can’t be discovered by the lamb!
+Dialogue: 0,00:05:03.93,00:05:05.77,Default,,0,0,0,,Otherwise I would be jealous!
+Dialogue: 0,00:05:06.97,00:05:07.97,Default,,0,0,0,,Who cares about you!
+Dialogue: 0,00:05:08.85,00:05:10.01,Default,,0,0,0,,no
+Dialogue: 0,00:05:10.53,00:05:12.53,Default,,0,0,0,,How dangerous this pit is
+Dialogue: 0,00:05:13.81,00:05:15.93,Default,,0,0,0,,You have to fill the pit tightly
+Dialogue: 0,00:05:16.01,00:05:16.81,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:05:18.05,00:05:19.05,Default,,0,0,0,,Be tight when looking for someone!
+Dialogue: 0,00:05:19.09,00:05:20.69,Default,,0,0,0,,Let’s fill this pit another day!
+Dialogue: 0,00:05:23.17,00:05:24.13,Default,,0,0,0,,The lamb ran away
+Dialogue: 0,00:05:24.25,00:05:26.01,Default,,0,0,0,,Just stay here with me!
+Dialogue: 0,00:05:30.33,00:05:31.81,Default,,0,0,0,,Can you please tell me carefully
+Dialogue: 0,00:05:31.85,00:05:33.09,Default,,0,0,0,,Why bother
+Dialogue: 0,00:05:33.85,00:05:35.17,Default,,0,0,0,,King!
+Dialogue: 0,00:05:35.37,00:05:36.29,Default,,0,0,0,,King!
+Dialogue: 0,00:05:36.33,00:05:37.45,Default,,0,0,0,,Bacteria Army!
+Dialogue: 0,00:05:37.73,00:05:38.89,Default,,0,0,0,,Can’t be discovered by them
+Dialogue: 0,00:05:38.93,00:05:40.81,Default,,0,0,0,,I beat the bacteria like this!
+Dialogue: 0,00:05:42.05,00:05:42.81,Default,,0,0,0,,I…
+Dialogue: 0,00:05:46.89,00:05:47.69,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:05:49.09,00:05:50.09,Default,,0,0,0,,I…
+Dialogue: 0,00:05:51.73,00:05:53.05,Default,,0,0,0,,How dangerous this pit is
+Dialogue: 0,00:05:54.37,00:05:56.13,Default,,0,0,0,,Just fill the pit tightly
+Dialogue: 0,00:05:56.65,00:05:57.33,Default,,0,0,0,,Xiao Zi
+Dialogue: 0,00:05:58.69,00:06:00.01,Default,,0,0,0,,You need to be tight when you find the king
+Dialogue: 0,00:06:00.05,00:06:00.93,Default,,0,0,0,,Keep up quickly!
+Dialogue: 0,00:06:01.49,00:06:03.97,Default,,0,0,0,,It’s all your fault...
+Dialogue: 0,00:06:03.97,00:06:04.81,Default,,0,0,0,,I’ve fought with you...
+Dialogue: 0,00:06:04.97,00:06:05.89,Default,,0,0,0,,If it weren’t for you
+Dialogue: 0,00:06:05.93,00:06:07.17,Default,,0,0,0,,I’ve been out long ago!
+Dialogue: 0,00:06:08.25,00:06:11.17,Default,,0,0,0,,It’s all your fault!
+Dialogue: 0,00:06:14.77,00:06:16.69,Default,,0,0,0,,Where did the king go?
+Dialogue: 0,00:06:17.09,00:06:19.05,Default,,0,0,0,,He always gives us trouble
+Dialogue: 0,00:06:19.57,00:06:20.85,Default,,0,0,0,,That’s it...
+Dialogue: 0,00:06:22.05,00:06:23.17,Default,,0,0,0,,If I say something bad
+Dialogue: 0,00:06:23.21,00:06:24.61,Default,,0,0,0,,Everyone’s impression of him was bad
+Dialogue: 0,00:06:24.69,00:06:26.65,Default,,0,0,0,,Then I can’t replace him
+Dialogue: 0,00:06:27.69,00:06:28.93,Default,,0,0,0,,That guy did
+Dialogue: 0,00:06:29.01,00:06:30.01,Default,,0,0,0,,There are many bad things
+Dialogue: 0,00:06:30.53,00:06:32.05,Default,,0,0,0,,Candy for kids
+Dialogue: 0,00:06:32.05,00:06:33.89,Default,,0,0,0,,I am still old and love to pick up the chest
+Dialogue: 0,00:06:34.01,00:06:35.29,Default,,0,0,0,,After going to the bathroom, I don’t wash my hands
+Dialogue: 0,00:06:35.73,00:06:37.09,Default,,0,0,0,,The only good advantage
+Dialogue: 0,00:06:37.13,00:06:38.29,Default,,0,0,0,,What if I don’t feel sick when I’m sleeping?
+Dialogue: 0,00:06:39.73,00:06:40.53,Default,,0,0,0,,What’s up?
+Dialogue: 0,00:06:41.09,00:06:43.17,Default,,0,0,0,,You are such a ruined king!
+Dialogue: 0,00:06:44.05,00:06:44.61,Default,,0,0,0,,Yes
+Dialogue: 0,00:06:44.81,00:06:46.65,Default,,0,0,0,,The king is definitely snoring when he sleeps!
+Dialogue: 0,00:06:46.85,00:06:47.73,Default,,0,0,0,,Beat him!
+Dialogue: 0,00:06:48.97,00:06:50.25,Default,,0,0,0,,I said something wrong
+Dialogue: 0,00:06:50.29,00:06:51.93,Default,,0,0,0,,Can’t I change it yet?
+Dialogue: 0,00:06:56.61,00:06:57.73,Default,,0,0,0,,Where is the person
+Dialogue: 0,00:06:58.09,00:06:59.25,Default,,0,0,0,,It’s hard to fall down?
+Dialogue: 0,00:07:01.97,00:07:04.41,Default,,0,0,0,,Very tired Very tired Very tired
+Dialogue: 0,00:07:04.57,00:07:05.53,Default,,0,0,0,,How about my bacterial army
+Dialogue: 0,00:07:05.57,00:07:07.33,Default,,0,0,0,,Haven’t come to save me yet...
+Dialogue: 0,00:07:09.45,00:07:10.13,Default,,0,0,0,,King!
+Dialogue: 0,00:07:10.41,00:07:11.89,Default,,0,0,0,,Finally found you!
+Dialogue: 0,00:07:11.97,00:07:13.53,Default,,0,0,0,,But why are you here
+Dialogue: 0,00:07:13.57,00:07:15.77,Default,,0,0,0,,Can you get up and say...
+Dialogue: 0,00:07:17.37,00:07:20.13,Default,,0,0,0,,-You have come to save me...
+-The King...
+Dialogue: 0,00:07:20.45,00:07:22.13,Default,,0,0,0,,I’m controlling some machines now
+Dialogue: 0,00:07:22.13,00:07:23.13,Default,,0,0,0,,Save us out!
+Dialogue: 0,00:07:24.21,00:07:25.61,Default,,0,0,0,,Please! Little green!
+Dialogue: 0,00:07:27.33,00:07:29.73,Default,,0,0,0,,Helicopter
+Dialogue: 0,00:07:30.13,00:07:31.85,Default,,0,0,0,,You are not in the service area
+Dialogue: 0,00:07:31.89,00:07:33.17,Default,,0,0,0,,Please give it back later
+Dialogue: 0,00:07:34.17,00:07:35.49,Default,,0,0,0,,There is no signal here...
+Dialogue: 0,00:07:35.97,00:07:37.01,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:07:37.01,00:07:38.25,Default,,0,0,0,,As long as we work together
+Dialogue: 0,00:07:38.29,00:07:40.01,Default,,0,0,0,,Can definitely go out
+Dialogue: 0,00:07:40.69,00:07:42.17,Default,,0,0,0,,First grade, second grade
+Dialogue: 0,00:07:42.17,00:07:44.13,Default,,0,0,0,,You can hit the exit right away!
+Dialogue: 0,00:07:47.21,00:07:48.97,Default,,0,0,0,,You’re funny
+Dialogue: 0,00:07:50.93,00:07:52.53,Default,,0,0,0,,Why did you all fall down?
+Dialogue: 0,00:07:53.25,00:07:55.61,Default,,0,0,0,,- Xiao Huang!
+-So you’re still on it
+Dialogue: 0,00:07:55.65,00:07:56.89,Default,,0,0,0,,There is rescue here!
+Dialogue: 0,00:07:57.97,00:07:59.17,Default,,0,0,0,,This group
+Dialogue: 0,00:07:59.53,00:08:00.25,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:08:00.37,00:08:01.37,Default,,0,0,0,,You’re going to change a ladder
+Dialogue: 0,00:08:01.41,00:08:03.05,Default,,0,0,0,,Let us climb out...
+Dialogue: 0,00:08:03.65,00:08:04.49,Default,,0,0,0,,Yes Yes
+Dialogue: 0,00:08:04.53,00:08:05.09,Default,,0,0,0,,knew!
+Dialogue: 0,00:08:06.09,00:08:07.37,Default,,0,0,0,,Sure enough, I’m gone
+Dialogue: 0,00:08:07.37,00:08:08.65,Default,,0,0,0,,They can’t do anything...
+Dialogue: 0,00:08:12.57,00:08:13.13,Default,,0,0,0,,alright
+Dialogue: 0,00:08:13.33,00:08:14.65,Default,,0,0,0,,Hurry me up and climb up!
+Dialogue: 0,00:08:16.25,00:08:17.49,Default,,0,0,0,,Still little yellow reliable
+Dialogue: 0,00:08:17.49,00:08:18.29,Default,,0,0,0,,but…
+Dialogue: 0,00:08:19.45,00:08:21.09,Default,,0,0,0,,It’s too short...
+Dialogue: 0,00:08:22.45,00:08:24.41,Default,,0,0,0,,My legs are only so long...
+Dialogue: 0,00:08:24.97,00:08:26.21,Default,,0,0,0,,Don’t waste time
+Dialogue: 0,00:08:26.61,00:08:28.41,Default,,0,0,0,,Please help the lambs!
+Dialogue: 0,00:08:28.81,00:08:29.61,Default,,0,0,0,,No more fun
+Dialogue: 0,00:08:29.65,00:08:31.25,Default,,0,0,0,,We all die of dying here!
+Dialogue: 0,00:08:31.65,00:08:32.45,Default,,0,0,0,,All right
+Dialogue: 0,00:08:37.05,00:08:39.01,Default,,0,0,0,,Where to find lambs here
+Dialogue: 0,00:08:39.77,00:08:41.13,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:08:44.01,00:08:45.17,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:08:47.01,00:08:48.69,Default,,0,0,0,,There will be no accident
+Dialogue: 0,00:08:49.85,00:08:50.89,Default,,0,0,0,,Found it!
+Dialogue: 0,00:08:51.93,00:08:52.29,Default,,0,0,0,,etc.
+Dialogue: 0,00:08:52.69,00:08:54.29,Default,,0,0,0,,Let them stay there
+Dialogue: 0,00:08:54.33,00:08:55.97,Default,,0,0,0,,I can justify it
+Dialogue: 0,00:08:56.01,00:08:57.53,Default,,0,0,0,,Become a king?
+Dialogue: 0,00:08:58.29,00:08:59.53,Default,,0,0,0,,Xiao Huang Xiao Huang
+Dialogue: 0,00:08:59.57,00:09:01.69,Default,,0,0,0,,When will you come back?
+Dialogue: 0,00:09:01.77,00:09:03.17,Default,,0,0,0,,Miss you so much!
+Dialogue: 0,00:09:03.45,00:09:04.89,Default,,0,0,0,,It’s been three hours
+Dialogue: 0,00:09:05.01,00:09:06.01,Default,,0,0,0,,Are we being
+Dialogue: 0,00:09:06.01,00:09:07.65,Default,,0,0,0,,That deformed bacteria was cheated
+Dialogue: 0,00:09:08.05,00:09:10.45,Default,,0,0,0,,He just kept saying you bad things!
+Dialogue: 0,00:09:10.89,00:09:12.01,Default,,0,0,0,,He won’t let us down
+Dialogue: 0,00:09:12.01,00:09:13.25,Default,,0,0,0,,Did you run away by yourself?
+Dialogue: 0,00:09:14.65,00:09:15.45,Default,,0,0,0,,shut up
+Dialogue: 0,00:09:15.49,00:09:17.13,Default,,0,0,0,,I don’t want you to say this
+Dialogue: 0,00:09:19.41,00:09:20.85,Default,,0,0,0,,I believe Xiao Huang
+Dialogue: 0,00:09:21.85,00:09:22.65,Default,,0,0,0,,Always
+Dialogue: 0,00:09:22.69,00:09:24.61,Default,,0,0,0,,No matter how difficult the mission is
+Dialogue: 0,00:09:24.65,00:09:26.05,Default,,0,0,0,,What a no-no requirement
+Dialogue: 0,00:09:26.09,00:09:27.17,Default,,0,0,0,,He’s all from here
+Dialogue: 0,00:09:27.33,00:09:29.13,Default,,0,0,0,,Didn’t disappoint me!
+Dialogue: 0,00:09:31.33,00:09:33.17,Default,,0,0,0,,Wolf Castle is mine!
+Dialogue: 0,00:09:33.69,00:09:34.93,Default,,0,0,0,,The bed is mine!
+Dialogue: 0,00:09:34.97,00:09:35.77,Default,,0,0,0,,Snacks are mine!
+Dialogue: 0,00:09:35.77,00:09:38.25,Default,,0,0,0,,The horse bucket is mine too!
+Dialogue: 0,00:09:41.13,00:09:42.41,Default,,0,0,0,,Start now
+Dialogue: 0,00:09:42.45,00:09:44.69,Default,,0,0,0,,I’m your new king
+Dialogue: 0,00:09:49.77,00:09:50.49,Default,,0,0,0,,Let’s talk about it
+Dialogue: 0,00:09:50.53,00:09:52.49,Default,,0,0,0,,I don’t seem to have any subordinates either.
+Dialogue: 0,00:09:58.29,00:10:00.09,Default,,0,0,0,,mushroom! orange!
+Dialogue: 0,00:10:00.17,00:10:00.97,Default,,0,0,0,,The King
+Dialogue: 0,00:10:01.01,00:10:02.21,Default,,0,0,0,,You’re not talking about Xiao Huang
+Dialogue: 0,00:10:02.21,00:10:04.41,Default,,0,0,0,,It won’t disappoint you...
+Dialogue: 0,00:10:04.77,00:10:05.89,Default,,0,0,0,,Xiao Huang will never come again
+Dialogue: 0,00:10:05.89,00:10:08.73,Default,,0,0,0,,We are afraid we will give it to Wolffy to eat it!
+Dialogue: 0,00:10:09.65,00:10:11.25,Default,,0,0,0,,Big mushroom
+Dialogue: 0,00:10:12.17,00:10:12.81,Default,,0,0,0,,Light
+Dialogue: 0,00:10:16.17,00:10:16.85,Default,,0,0,0,,dad…
+Dialogue: 0,00:10:16.97,00:10:18.53,Default,,0,0,0,,Did you pick me up?
+Dialogue: 0,00:10:20.25,00:10:21.21,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:21.25,00:10:23.25,Default,,0,0,0,,Don’t go with him!
+Dialogue: 0,00:10:26.53,00:10:27.89,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:10:29.13,00:10:30.77,Default,,0,0,0,,Wolffy seems to be hungry
+Dialogue: 0,00:10:31.09,00:10:32.09,Default,,0,0,0,,Catch the snail quickly
+Dialogue: 0,00:10:32.13,00:10:33.57,Default,,0,0,0,,We’ll pull you up!
+Dialogue: 0,00:10:34.45,00:10:36.69,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:10:37.41,00:10:42.97,Default,,0,0,0,,come on! come on!
+Dialogue: 0,00:10:42.97,00:10:44.45,Default,,0,0,0,,Just save Big Wolf
+Dialogue: 0,00:10:44.57,00:10:46.73,Default,,0,0,0,,No matter how many bacteria need to be saved...
+Dialogue: 0,00:10:46.85,00:10:47.45,Default,,0,0,0,,It turns out to be
+Dialogue: 0,00:10:47.45,00:10:49.65,Default,,0,0,0,,Did the morphine bring us over?
+Dialogue: 0,00:10:50.37,00:10:51.61,Default,,0,0,0,,If it weren’t for the fact that there were no subordinates
+Dialogue: 0,00:10:51.77,00:10:53.05,Default,,0,0,0,,I don’t want to worry about them...
+Dialogue: 0,00:10:53.49,00:10:55.41,Default,,0,0,0,,It’s time to exit
+Dialogue: 0,00:10:55.41,00:10:56.29,Default,,0,0,0,,Small
+Dialogue: 0,00:10:56.29,00:10:58.65,Default,,0,0,0,,It’s time to get to the exit!
+Dialogue: 0,00:10:59.57,00:11:01.37,Default,,0,0,0,,Give it to me!
+Dialogue: 0,00:11:05.05,00:11:06.21,Default,,0,0,0,,Thank you for your help
+Dialogue: 0,00:11:06.21,00:11:07.13,Default,,0,0,0,,but…
+Dialogue: 0,00:11:08.01,00:11:09.89,Default,,0,0,0,,Just defeat you!
+Dialogue: 0,00:11:10.01,00:11:11.13,Default,,0,0,0,,No one
+Dialogue: 0,00:11:11.17,00:11:12.65,Default,,0,0,0,,It’s okay to disturb me!
+Dialogue: 0,00:11:12.69,00:11:14.05,Default,,0,0,0,,The king is wise!
+Dialogue: 0,00:11:14.85,00:11:16.45,Default,,0,0,0,,It’s even more despicable than me...
+Dialogue: 0,00:11:16.93,00:11:17.57,Default,,0,0,0,,Good guy
+Dialogue: 0,00:11:17.61,00:11:19.65,Default,,0,0,0,,Want to find a hole to diamond in
+Dialogue: 0,00:11:20.77,00:11:22.69,Default,,0,0,0,,We are your life-saving benefactors!
+Dialogue: 0,00:11:23.61,00:11:25.41,Default,,0,0,0,,We will never trust you again
+Dialogue: 0,00:11:26.49,00:11:27.61,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,00:11:28.09,00:11:29.61,Default,,0,0,0,,Don’t talk to them
+Dialogue: 0,00:11:30.93,00:11:32.17,Default,,0,0,0,,We’re on!
+Dialogue: 0,00:11:38.77,00:11:41.13,Default,,0,0,0,,Is there something just falling into the hole?
+Dialogue: 0,00:11:42.49,00:11:43.69,Default,,0,0,0,,That’s not the point
+Dialogue: 0,00:11:44.17,00:11:44.81,Default,,0,0,0,,Impossible
+Dialogue: 0,00:11:44.97,00:11:46.29,Default,,0,0,0,,Disinfect them
+Dialogue: 0,00:11:48.05,00:11:49.25,Default,,0,0,0,,Be careful
+Dialogue: 0,00:11:53.25,00:11:53.89,Default,,0,0,0,,King!
+Dialogue: 0,00:11:55.01,00:11:56.29,Default,,0,0,0,,Very hungry...
+Dialogue: 0,00:11:58.69,00:12:01.09,Default,,0,0,0,,I didn’t expect you to be merciless about your revenge...
+Dialogue: 0,00:12:02.09,00:12:02.41,Default,,0,0,0,,No…
+Dialogue: 0,00:12:02.41,00:12:03.09,Default,,0,0,0,,Not like that
+Dialogue: 0,00:12:03.13,00:12:03.57,Default,,0,0,0,,I…
+Dialogue: 0,00:12:03.93,00:12:04.17,Default,,0,0,0,,I…
+Dialogue: 0,00:12:05.13,00:12:07.21,Default,,0,0,0,,Strategic retreat!
+Dialogue: 0,00:12:07.45,00:12:09.41,Default,,0,0,0,,Don’t run! Don’t run!
+Dialogue: 0,00:12:09.77,00:12:11.53,Default,,0,0,0,,Don’t run! Don’t run!
+Dialogue: 0,00:12:14.29,00:12:15.25,Default,,0,0,0,,You all ran away
+Dialogue: 0,00:12:15.29,00:12:16.57,Default,,0,0,0,,Then what should I do
+Dialogue: 0,00:12:17.45,00:12:18.89,Default,,0,0,0,,See if I become the king
+Dialogue: 0,00:12:19.13,00:12:21.45,Default,,0,0,0,,I’ll punish you to give me all of them to brush the horse bucket
+Dialogue: 0,00:12:24.25,00:12:25.29,Default,,0,0,0,,banana!
+Dialogue: 0,00:12:28.49,00:12:29.05,Default,,0,0,0,,save…
+Dialogue: 0,00:12:29.17,00:12:30.65,Default,,0,0,0,,Help!

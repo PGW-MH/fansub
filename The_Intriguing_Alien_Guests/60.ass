@@ -1,0 +1,237 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.32,00:00:18.56,Default,,0,0,0,,How…
+Dialogue: 0,00:00:18.56,00:00:19.56,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:00:22.04,00:00:22.92,Default,,0,0,0,,This evil body
+Dialogue: 0,00:00:23.00,00:00:24.04,Default,,0,0,0,,How could it be resurrected
+Dialogue: 0,00:00:24.52,00:00:25.28,Default,,0,0,0,,My body
+Dialogue: 0,00:00:25.32,00:00:27.28,Default,,0,0,0,,It’s obviously separated
+Dialogue: 0,00:00:27.80,00:00:29.00,Default,,0,0,0,,Maybe stay in
+Dialogue: 0,00:00:29.04,00:00:30.52,Default,,0,0,0,,Your original body
+Dialogue: 0,00:00:30.88,00:00:31.96,Default,,0,0,0,,You’re leaving now
+Dialogue: 0,00:00:32.12,00:00:34.68,Default,,0,0,0,,Instead, it can completely occupy that body
+Dialogue: 0,00:00:39.12,00:00:41.00,Default,,0,0,0,,Run away, everyone
+Dialogue: 0,00:00:44.20,00:00:45.43,Default,,0,0,0,,Everyone
+Dialogue: 0,00:00:46.96,00:00:48.64,Default,,0,0,0,,What a powerful force
+Dialogue: 0,00:00:49.04,00:00:50.43,Default,,0,0,0,,It seems we still want
+Dialogue: 0,00:00:50.43,00:00:51.76,Default,,0,0,0,,Fight him to death
+Dialogue: 0,00:00:53.08,00:00:55.08,Default,,0,0,0,,Are you ready?
+Dialogue: 0,00:00:55.32,00:00:56.08,Default,,0,0,0,,Tibbie!
+Dialogue: 0,00:00:57.80,00:00:58.40,Default,,0,0,0,,Everyone
+Dialogue: 0,00:00:58.71,00:01:00.16,Default,,0,0,0,,Please help us
+Dialogue: 0,00:01:05.76,00:01:07.36,Default,,0,0,0,,Let me cover you up
+Dialogue: 0,00:01:22.43,00:01:24.56,Default,,0,0,0,,Deformed rod bacteria
+Dialogue: 0,00:02:38.28,00:02:39.32,Default,,0,0,0,,-Pleasant Brother Goat
+-dad
+Dialogue: 0,00:02:39.32,00:02:40.44,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:02:49.04,00:02:49.88,Default,,0,0,0,,Don’t come over
+Dialogue: 0,00:02:52.72,00:02:54.44,Default,,0,0,0,,What a powerful force
+Dialogue: 0,00:02:54.80,00:02:56.92,Default,,0,0,0,,We’re simply unscrupulous
+Dialogue: 0,00:02:57.32,00:02:58.24,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:02:58.32,00:02:59.48,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:02:59.80,00:03:00.60,Default,,0,0,0,,dad!
+Dialogue: 0,00:03:01.24,00:03:01.92,Default,,0,0,0,,Red
+Dialogue: 0,00:03:02.00,00:03:03.36,Default,,0,0,0,,Take Wilie away quickly
+Dialogue: 0,00:03:03.68,00:03:05.44,Default,,0,0,0,,That guy is too powerful
+Dialogue: 0,00:03:06.63,00:03:07.60,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:03:08.96,00:03:09.84,Default,,0,0,0,,Our equipment
+Dialogue: 0,00:03:10.00,00:03:11.76,Default,,0,0,0,,All have been destroyed
+Dialogue: 0,00:03:14.24,00:03:15.32,Default,,0,0,0,,Sorry, BB Goat
+Dialogue: 0,00:03:15.84,00:03:17.28,Default,,0,0,0,,I can’t protect you anymore
+Dialogue: 0,00:03:17.36,00:03:18.36,Default,,0,0,0,,You run away quickly
+Dialogue: 0,00:03:19.00,00:03:20.12,Default,,0,0,0,,Escape quickly!
+Dialogue: 0,00:03:20.80,00:03:21.63,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:03:22.96,00:03:25.28,Default,,0,0,0,,I don’t want to lose my brother alone
+Dialogue: 0,00:03:27.28,00:03:29.00,Default,,0,0,0,,You’re such a bad egg
+Dialogue: 0,00:03:31.44,00:03:33.96,Default,,0,0,0,,I don’t want you to hurt them again
+Dialogue: 0,00:03:34.52,00:03:35.56,Default,,0,0,0,,- Little gray
+- BB Goat
+Dialogue: 0,00:03:36.20,00:03:37.20,Default,,0,0,0,,And me
+Dialogue: 0,00:03:37.56,00:03:38.68,Default,,0,0,0,,And me!
+Dialogue: 0,00:03:38.68,00:03:41.63,Default,,0,0,0,,And me...
+Dialogue: 0,00:03:42.40,00:03:44.63,Default,,0,0,0,,This grassland is our home
+Dialogue: 0,00:03:45.32,00:03:47.88,Default,,0,0,0,,Even if the strength is
+Dialogue: 0,00:03:48.20,00:03:50.24,Default,,0,0,0,,We won’t give up our companions either
+Dialogue: 0,00:03:50.48,00:03:51.36,Default,,0,0,0,,Our home
+Dialogue: 0,00:03:58.36,00:03:59.00,Default,,0,0,0,,That’s right
+Dialogue: 0,00:04:00.36,00:04:02.48,Default,,0,0,0,,This grassland is our home
+Dialogue: 0,00:04:04.16,00:04:06.20,Default,,0,0,0,,I found this question
+Dialogue: 0,00:04:08.00,00:04:09.40,Default,,0,0,0,,No matter what difficulties you encounter
+Dialogue: 0,00:04:10.40,00:04:12.04,Default,,0,0,0,,No matter how difficult this difficulty is
+Dialogue: 0,00:04:13.80,00:04:16.96,Default,,0,0,0,,We all want to protect this home together
+Dialogue: 0,00:04:45.07,00:04:45.88,Default,,0,0,0,,rubik’s cube
+Dialogue: 0,00:04:47.60,00:04:49.60,Default,,0,0,0,,Why did it appear here
+Dialogue: 0,00:05:05.88,00:05:06.44,Default,,0,0,0,,Everyone
+Dialogue: 0,00:05:16.12,00:05:17.40,Default,,0,0,0,,With everyone’s strength
+Dialogue: 0,00:05:17.92,00:05:20.00,Default,,0,0,0,,We can definitely fight evil
+Dialogue: 0,00:05:20.20,00:05:21.76,Default,,0,0,0,,Protect our home!
+Dialogue: 0,00:06:16.08,00:06:18.32,Default,,0,0,0,,I didn’t expect that the super cube has this ability
+Dialogue: 0,00:06:18.56,00:06:21.36,Default,,0,0,0,,Sure enough, evil cannot fight for justice
+Dialogue: 0,00:06:24.60,00:06:25.96,Default,,0,0,0,,It’s so good
+Dialogue: 0,00:06:28.52,00:06:29.40,Default,,0,0,0,,sorry
+Dialogue: 0,00:06:33.28,00:06:34.88,Default,,0,0,0,,All of my thoughts on power
+Dialogue: 0,00:06:34.92,00:06:36.44,Default,,0,0,0,,Have done so many mistakes
+Dialogue: 0,00:06:36.48,00:06:37.96,Default,,0,0,0,,I’m tired
+Dialogue: 0,00:06:38.60,00:06:39.88,Default,,0,0,0,,I’m really sorry!
+Dialogue: 0,00:06:44.32,00:06:46.36,Default,,0,0,0,,Don’t need to say sorry to us
+Dialogue: 0,00:06:46.72,00:06:48.04,Default,,0,0,0,,In fact, each of us
+Dialogue: 0,00:06:48.04,00:06:49.80,Default,,0,0,0,,There will be times when you do something wrong
+Dialogue: 0,00:06:50.64,00:06:52.28,Default,,0,0,0,,As long as we know there is something wrong
+Dialogue: 0,00:06:52.32,00:06:53.64,Default,,0,0,0,,And corrected
+Dialogue: 0,00:06:54.00,00:06:55.48,Default,,0,0,0,,Be brave to take responsibility
+Dialogue: 0,00:06:55.60,00:06:57.72,Default,,0,0,0,,Then everyone won’t blame you
+Dialogue: 0,00:07:02.04,00:07:03.04,Default,,0,0,0,,The power of evil
+Dialogue: 0,00:07:03.20,00:07:04.76,Default,,0,0,0,,Finally, it was destroyed by the super cube
+Dialogue: 0,00:07:05.16,00:07:06.12,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:07:06.12,00:07:07.16,Default,,0,0,0,,Also change the evil and become righteous
+Dialogue: 0,00:07:07.68,00:07:09.20,Default,,0,0,0,,Take us back to our original state
+Dialogue: 0,00:07:09.96,00:07:11.80,Default,,0,0,0,,The place where dad and mom is frozen
+Dialogue: 0,00:07:16.76,00:07:18.40,Default,,0,0,0,,Dad Mom!
+Dialogue: 0,00:07:26.68,00:07:28.56,Default,,0,0,0,,Let’s unblock them quickly
+Dialogue: 0,00:07:28.72,00:07:29.47,Default,,0,0,0,,good!
+Dialogue: 0,00:07:39.28,00:07:40.60,Default,,0,0,0,,-Dad Mom!
+-Dad Mom!
+Dialogue: 0,00:07:44.64,00:07:46.52,Default,,0,0,0,,Weslie Goat BB Goat!
+Dialogue: 0,00:07:47.44,00:07:48.60,Default,,0,0,0,,There is also the teacher of Slowy
+Dialogue: 0,00:07:48.64,00:07:49.47,Default,,0,0,0,,And the lamb
+Dialogue: 0,00:07:50.20,00:07:51.32,Default,,0,0,0,,Can see you again
+Dialogue: 0,00:07:51.40,00:07:52.40,Default,,0,0,0,,It’s so great!
+Dialogue: 0,00:07:53.16,00:07:54.40,Default,,0,0,0,,Mom, I’ve won
+Dialogue: 0,00:07:54.56,00:07:56.47,Default,,0,0,0,,I found Brother Weslie
+Dialogue: 0,00:07:57.08,00:07:58.12,Default,,0,0,0,,BB Goat is awesome
+Dialogue: 0,00:07:58.88,00:07:59.28,Default,,0,0,0,,Right
+Dialogue: 0,00:07:59.44,00:08:00.60,Default,,0,0,0,,What freezes us is
+Dialogue: 0,00:08:02.08,00:08:02.92,Default,,0,0,0,,King Bacteria!
+Dialogue: 0,00:08:03.92,00:08:04.92,Default,,0,0,0,,Be careful
+Dialogue: 0,00:08:05.12,00:08:06.32,Default,,0,0,0,,This is the king of bacteria
+Dialogue: 0,00:08:06.40,00:08:07.68,Default,,0,0,0,,He’s very dangerous
+Dialogue: 0,00:08:08.12,00:08:09.60,Default,,0,0,0,,The evil power in his body
+Dialogue: 0,00:08:09.92,00:08:11.72,Default,,0,0,0,,It has been wiped out by everyone
+Dialogue: 0,00:08:11.96,00:08:12.80,Default,,0,0,0,,Now
+Dialogue: 0,00:08:12.88,00:08:14.35,Default,,0,0,0,,He is our good friend
+Dialogue: 0,00:08:15.56,00:08:16.44,Default,,0,0,0,,sorry
+Dialogue: 0,00:08:16.60,00:08:18.00,Default,,0,0,0,,I was blamed for being powered at first
+Dialogue: 0,00:08:18.04,00:08:19.16,Default,,0,0,0,,Blinded by both eyes
+Dialogue: 0,00:08:19.60,00:08:20.76,Default,,0,0,0,,You’re in space
+Dialogue: 0,00:08:20.80,00:08:22.16,Default,,0,0,0,,Frozen for so long
+Dialogue: 0,00:08:23.47,00:08:24.35,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:08:24.88,00:08:26.00,Default,,0,0,0,,Your mission is completed
+Dialogue: 0,00:08:26.12,00:08:27.40,Default,,0,0,0,,More outstanding than us
+Dialogue: 0,00:08:28.16,00:08:29.88,Default,,0,0,0,,It seems that we have been away these years
+Dialogue: 0,00:08:30.20,00:08:31.60,Default,,0,0,0,,You’ve grown a lot
+Dialogue: 0,00:08:34.72,00:08:35.72,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:36.40,00:08:37.16,Default,,0,0,0,,Why
+Dialogue: 0,00:08:38.24,00:08:40.52,Default,,0,0,0,,You clearly said that space is dangerous
+Dialogue: 0,00:08:40.84,00:08:42.96,Default,,0,0,0,,I’m willing to bring BB Goat around
+Dialogue: 0,00:08:45.00,00:08:46.16,Default,,0,0,0,,Don’t bring me?
+Dialogue: 0,00:08:47.40,00:08:50.20,Default,,0,0,0,,I want me to be alone in the green grassland
+Dialogue: 0,00:08:59.04,00:08:59.80,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:09:00.20,00:09:01.92,Default,,0,0,0,,Mom, take you out for fun
+Dialogue: 0,00:09:02.92,00:09:04.44,Default,,0,0,0,,I want to play with my mother!
+Dialogue: 0,00:09:13.60,00:09:14.40,Default,,0,0,0,,Weslie
+Dialogue: 0,00:09:15.08,00:09:17.47,Default,,0,0,0,,Things are not what you think
+Dialogue: 0,00:09:19.52,00:09:20.28,Default,,0,0,0,,Once
+Dialogue: 0,00:09:20.88,00:09:21.72,Default,,0,0,0,,My mother and I
+Dialogue: 0,00:09:22.04,00:09:24.00,Default,,0,0,0,,Performing a very dangerous mission
+Dialogue: 0,00:09:25.16,00:09:26.96,Default,,0,0,0,,Suddenly, the monster was hit
+Dialogue: 0,00:09:33.32,00:09:34.68,Default,,0,0,0,,When I beat it
+Dialogue: 0,00:09:35.32,00:09:36.20,Default,,0,0,0,,In its body
+Dialogue: 0,00:09:36.35,00:09:37.60,Default,,0,0,0,,I found a child
+Dialogue: 0,00:09:42.92,00:09:43.44,Default,,0,0,0,,Estimated
+Dialogue: 0,00:09:43.47,00:09:45.52,Default,,0,0,0,,It’s the baby who was eaten by the monster
+Dialogue: 0,00:09:48.52,00:09:49.52,Default,,0,0,0,,Her name is...
+Dialogue: 0,00:09:50.96,00:09:51.68,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:09:53.04,00:09:53.92,Default,,0,0,0,,Her dad and mom
+Dialogue: 0,00:09:53.92,00:09:55.08,Default,,0,0,0,,Must be worried about her
+Dialogue: 0,00:09:56.00,00:09:57.00,Default,,0,0,0,,We have to find it
+Dialogue: 0,00:09:57.08,00:09:58.16,Default,,0,0,0,,Her dad and mom
+Dialogue: 0,00:10:00.40,00:10:01.32,Default,,0,0,0,,That’s it
+Dialogue: 0,00:10:01.80,00:10:02.40,Default,,0,0,0,,Us
+Dialogue: 0,00:10:02.40,00:10:03.32,Default,,0,0,0,,In these years
+Dialogue: 0,00:10:03.68,00:10:04.92,Default,,0,0,0,,Take care of BB Goat
+Dialogue: 0,00:10:05.24,00:10:07.04,Default,,0,0,0,,Going to find her parents
+Dialogue: 0,00:10:08.12,00:10:09.28,Default,,0,0,0,,But until now...
+Dialogue: 0,00:10:10.40,00:10:11.84,Default,,0,0,0,,We still haven’t found it
+Dialogue: 0,00:10:12.04,00:10:12.92,Default,,0,0,0,,About BB Goat
+Dialogue: 0,00:10:13.00,00:10:14.64,Default,,0,0,0,,Any trace of life experience
+Dialogue: 0,00:10:17.12,00:10:18.00,Default,,0,0,0,,That’s it
+Dialogue: 0,00:10:18.84,00:10:19.64,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:10:20.84,00:10:21.56,Default,,0,0,0,,That’s right
+Dialogue: 0,00:10:21.68,00:10:23.32,Default,,0,0,0,,She’s not your sister
+Dialogue: 0,00:10:24.20,00:10:24.64,Default,,0,0,0,,but
+Dialogue: 0,00:10:24.68,00:10:26.44,Default,,0,0,0,,During these days of caring for BB Goat
+Dialogue: 0,00:10:28.32,00:10:29.32,Default,,0,0,0,,We’ve already taken him
+Dialogue: 0,00:10:29.56,00:10:30.32,Default,,0,0,0,,It’s ours
+Dialogue: 0,00:10:30.32,00:10:31.76,Default,,0,0,0,,My daughter is the same
+Dialogue: 0,00:10:35.88,00:10:37.16,Default,,0,0,0,,I don’t know you, Weslie
+Dialogue: 0,00:10:38.76,00:10:40.64,Default,,0,0,0,,Will you accept this sister?
+Dialogue: 0,00:10:46.00,00:10:48.96,Default,,0,0,0,,I thought you didn’t want me anymore
+Dialogue: 0,00:10:50.96,00:10:51.76,Default,,0,0,0,,Silly kid
+Dialogue: 0,00:10:52.08,00:10:52.88,Default,,0,0,0,,Where can I have parents
+Dialogue: 0,00:10:52.92,00:10:54.44,Default,,0,0,0,,Will you like your own children
+Dialogue: 0,00:10:55.56,00:10:56.35,Default,,0,0,0,,elder brother
+Dialogue: 0,00:10:57.24,00:10:58.80,Default,,0,0,0,,Let’s go play together
+Dialogue: 0,00:11:00.40,00:11:01.84,Default,,0,0,0,,Why did my brother cry?
+Dialogue: 0,00:11:03.24,00:11:05.00,Default,,0,0,0,,I have such a cute sister
+Dialogue: 0,00:11:05.16,00:11:06.72,Default,,0,0,0,,So happy that I cried
+Dialogue: 0,00:11:10.35,00:11:10.88,Default,,0,0,0,,Then
+Dialogue: 0,00:11:10.92,00:11:12.64,Default,,0,0,0,,It’s not just Weslie that can play with you
+Dialogue: 0,00:11:12.64,00:11:14.40,Default,,0,0,0,,We’ll all play with you
+Dialogue: 0,00:11:14.60,00:11:15.44,Default,,0,0,0,,Very awesome!
+Dialogue: 0,00:11:15.68,00:11:17.20,Default,,0,0,0,,Then let’s play games together
+Dialogue: 0,00:11:17.24,00:11:17.56,Default,,0,0,0,,good
+Dialogue: 0,00:11:17.60,00:11:18.84,Default,,0,0,0,,What game do you want to play?
+Dialogue: 0,00:11:18.88,00:11:19.84,Default,,0,0,0,,I want to play, too
+Dialogue: 0,00:11:21.08,00:11:22.12,Default,,0,0,0,,A cosmic crisis
+Dialogue: 0,00:11:22.32,00:11:24.72,Default,,0,0,0,,That’s how it ends in terrible
+Dialogue: 0,00:11:25.00,00:11:27.44,Default,,0,0,0,,The Bacteria Army also returned to their universe
+Dialogue: 0,00:11:28.00,00:11:28.92,Default,,0,0,0,,Before repair
+Dialogue: 0,00:11:29.00,00:11:30.64,Default,,0,0,0,,The planet that was destroyed by them
+Dialogue: 0,00:11:31.08,00:11:33.24,Default,,0,0,0,,Wolffy finally returned to Wolf Castle
+Dialogue: 0,00:11:33.76,00:11:34.80,Default,,0,0,0,,But it seems
+Dialogue: 0,00:11:36.96,00:11:38.08,Default,,0,0,0,,A little lonely
+Dialogue: 0,00:11:40.40,00:11:41.20,Default,,0,0,0,,dad
+Dialogue: 0,00:11:42.64,00:11:43.52,Default,,0,0,0,,Come
+Dialogue: 0,00:11:43.68,00:11:44.64,Default,,0,0,0,,Everyone’s life
+Dialogue: 0,00:11:44.76,00:11:45.76,Default,,0,0,0,,All returned to its original form
+Dialogue: 0,00:11:46.08,00:11:47.35,Default,,0,0,0,,The course of the course
+Dialogue: 0,00:11:47.47,00:11:48.76,Default,,0,0,0,,What to play
+Dialogue: 0,00:11:48.88,00:11:50.20,Default,,0,0,0,,And my summer vacation
+Dialogue: 0,00:11:50.40,00:11:51.92,Default,,0,0,0,,There is a little change
+Dialogue: 0,00:11:52.08,00:11:53.80,Default,,0,0,0,,I’m going home to have a meal
+Dialogue: 0,00:11:56.44,00:11:57.96,Default,,0,0,0,,You ask me what changes have happened
+Dialogue: 0,00:12:04.92,00:12:06.72,Default,,0,0,0,,Dad, mom, I’m back
+Dialogue: 0,00:12:06.96,00:12:07.64,Default,,0,0,0,,Come back
+Dialogue: 0,00:12:08.16,00:12:09.12,Default,,0,0,0,,Go wash your hands and eat
+Dialogue: 0,00:12:09.72,00:12:10.92,Default,,0,0,0,,Your mother has done a lot
+Dialogue: 0,00:12:11.04,00:12:12.35,Default,,0,0,0,,What dishes do you like to eat
+Dialogue: 0,00:12:13.64,00:12:15.80,Default,,0,0,0,,I want to compete with my brother who eats faster
+Dialogue: 0,00:12:16.76,00:12:17.16,Default,,0,0,0,,good
+Dialogue: 0,00:12:17.52,00:12:18.72,Default,,0,0,0,,I’ll be your referee
+Dialogue: 0,00:12:18.92,00:12:19.88,Default,,0,0,0,,Who would win
+Dialogue: 0,00:12:19.92,00:12:21.84,Default,,0,0,0,,I’ll take him out to play on the electric car
+Dialogue: 0,00:12:22.52,00:12:23.72,Default,,0,0,0,,Brother, go wash your hands and eat
+Dialogue: 0,00:12:24.20,00:12:25.92,Default,,0,0,0,,- We are going to start the competition!
+-good!
+Dialogue: 0,00:12:25.96,00:12:27.60,Default,,0,0,0,,-I will definitely not transfer it to you!
+-good
+Dialogue: 0,00:12:27.68,00:12:28.16,Default,,0,0,0,,Come
+Dialogue: 0,00:12:28.16,00:12:28.80,Default,,0,0,0,,Prepared
+Dialogue: 0,00:12:29.08,00:12:29.80,Default,,0,0,0,,three
+Dialogue: 0,00:12:30.00,00:12:30.44,Default,,0,0,0,,two
+Dialogue: 0,00:12:30.68,00:12:31.08,Default,,0,0,0,,one
+Dialogue: 0,00:12:31.24,00:12:31.80,Default,,0,0,0,,Start!

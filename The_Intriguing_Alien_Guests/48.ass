@@ -1,0 +1,254 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.17,00:00:19.45,Default,,0,0,0,,My name is morphogenic bacteria
+Dialogue: 0,00:00:19.77,00:00:21.69,Default,,0,0,0,,It’s a dream to become the king of the universe
+Dialogue: 0,00:00:21.89,00:00:23.93,Default,,0,0,0,,A man who accomplishes something
+Dialogue: 0,00:00:24.05,00:00:25.21,Default,,0,0,0,,But it is actually...
+Dialogue: 0,00:00:26.57,00:00:28.85,Default,,0,0,0,,Today we must catch BB Goat
+Dialogue: 0,00:00:29.77,00:00:30.45,Default,,0,0,0,,Discover the goal!
+Dialogue: 0,00:00:30.81,00:00:31.33,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:00:31.41,00:00:32.93,Default,,0,0,0,,Turned into a catcher!
+Dialogue: 0,00:00:38.49,00:00:39.49,Default,,0,0,0,,apple?
+Dialogue: 0,00:00:40.33,00:00:41.13,Default,,0,0,0,,Little yellow
+Dialogue: 0,00:00:41.61,00:00:43.89,Default,,0,0,0,,These apples I found are so sweet
+Dialogue: 0,00:00:44.61,00:00:46.17,Default,,0,0,0,,Please pick some more
+Dialogue: 0,00:00:46.37,00:00:48.69,Default,,0,0,0,,Only after eating can I catch BB Goat
+Dialogue: 0,00:00:59.49,00:01:00.25,Default,,0,0,0,,Enchanting
+Dialogue: 0,00:01:00.61,00:01:01.13,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:01:01.17,00:01:01.85,Default,,0,0,0,,Become a baby
+Dialogue: 0,00:01:02.01,00:01:04.09,Default,,0,0,0,,I’ll beat you out and catch him!
+Dialogue: 0,00:01:10.89,00:01:12.01,Default,,0,0,0,,Catched!
+Dialogue: 0,00:01:19.29,00:01:20.33,Default,,0,0,0,,Get it!
+Dialogue: 0,00:01:35.57,00:01:38.37,Default,,0,0,0,,Take away all these foods together
+Dialogue: 0,00:01:42.13,00:01:43.57,Default,,0,0,0,,I’m always forced to do these
+Dialogue: 0,00:01:43.57,00:01:45.65,Default,,0,0,0,,Tired and unintentional...
+Dialogue: 0,00:01:53.45,00:01:54.17,Default,,0,0,0,,Get it done!
+Dialogue: 0,00:01:56.17,00:01:57.21,Default,,0,0,0,,Xiao Huang, look
+Dialogue: 0,00:01:57.33,00:01:59.93,Default,,0,0,0,,These are our loot today
+Dialogue: 0,00:02:04.85,00:02:05.69,Default,,0,0,0,,I’ve suffered!
+Dialogue: 0,00:02:05.85,00:02:06.73,Default,,0,0,0,,I’m not doing anymore!
+Dialogue: 0,00:02:09.81,00:02:10.73,Default,,0,0,0,,Shocked me
+Dialogue: 0,00:02:10.77,00:02:11.93,Default,,0,0,0,,Are you going to rebel?
+Dialogue: 0,00:02:13.77,00:02:14.25,Default,,0,0,0,,right!
+Dialogue: 0,00:02:14.45,00:02:15.25,Default,,0,0,0,,I want to rebel
+Dialogue: 0,00:02:17.41,00:02:18.57,Default,,0,0,0,,Things are good in the morning
+Dialogue: 0,00:02:18.85,00:02:20.45,Default,,0,0,0,,Chocolate was good before
+Dialogue: 0,00:02:21.13,00:02:22.81,Default,,0,0,0,,All made me see clearly
+Dialogue: 0,00:02:23.01,00:02:24.33,Default,,0,0,0,,You’re still like that, indeed
+Dialogue: 0,00:02:24.41,00:02:25.69,Default,,0,0,0,,I know how to use me
+Dialogue: 0,00:02:25.81,00:02:26.89,Default,,0,0,0,,It didn’t change at all!
+Dialogue: 0,00:02:27.53,00:02:29.33,Default,,0,0,0,,You are no longer qualified to be my king!
+Dialogue: 0,00:02:37.85,00:02:39.17,Default,,0,0,0,,These are what I made
+Dialogue: 0,00:02:39.29,00:02:40.61,Default,,0,0,0,,I’m going to take it all away!
+Dialogue: 0,00:02:42.29,00:02:42.81,Default,,0,0,0,,Don’t chase it!
+Dialogue: 0,00:02:43.89,00:02:44.85,Default,,0,0,0,,Just let him go!
+Dialogue: 0,00:02:45.97,00:02:47.13,Default,,0,0,0,,Anyway, it’s not long
+Dialogue: 0,00:02:47.13,00:02:49.17,Default,,0,0,0,,He will run back by himself
+Dialogue: 0,00:02:55.73,00:02:56.45,Default,,0,0,0,,Come
+Dialogue: 0,00:03:03.17,00:03:04.33,Default,,0,0,0,,The third place
+Dialogue: 0,00:03:04.37,00:03:05.69,Default,,0,0,0,,A steal happened
+Dialogue: 0,00:03:06.45,00:03:08.73,Default,,0,0,0,,Please help me investigate
+Dialogue: 0,00:03:09.21,00:03:09.69,Default,,0,0,0,,yes
+Dialogue: 0,00:03:11.93,00:03:13.21,Default,,0,0,0,,What a big man
+Dialogue: 0,00:03:13.29,00:03:14.97,Default,,0,0,0,,It’s also mysterious
+Dialogue: 0,00:03:16.17,00:03:17.45,Default,,0,0,0,,Amazing news
+Dialogue: 0,00:03:18.33,00:03:19.45,Default,,0,0,0,,The King of the Universe
+Dialogue: 0,00:03:19.45,00:03:21.17,Default,,0,0,0,,Recruiting new people!
+Dialogue: 0,00:03:27.25,00:03:28.69,Default,,0,0,0,,Recruiting newbies
+Dialogue: 0,00:03:29.37,00:03:30.73,Default,,0,0,0,,It’s been so long
+Dialogue: 0,00:03:30.97,00:03:32.01,Default,,0,0,0,,No one has come yet
+Dialogue: 0,00:03:33.81,00:03:35.41,Default,,0,0,0,,It seems that it’s good to add some
+Dialogue: 0,00:03:35.45,00:03:36.85,Default,,0,0,0,,Only then can they attract them
+Dialogue: 0,00:03:37.97,00:03:39.45,Default,,0,0,0,,Amazing news
+Dialogue: 0,00:03:39.77,00:03:41.25,Default,,0,0,0,,Just be my subordinate
+Dialogue: 0,00:03:41.49,00:03:44.61,Default,,0,0,0,,You can enjoy this bunch of delicious food!
+Dialogue: 0,00:03:45.85,00:03:50.01,Default,,0,0,0,,I want to join! I want to join! I’ll join...
+Dialogue: 0,00:03:50.89,00:03:52.17,Default,,0,0,0,,Everyone is so desperate
+Dialogue: 0,00:03:52.37,00:03:54.77,Default,,0,0,0,,My life is no longer long as I am the king
+Dialogue: 0,00:03:55.89,00:03:56.41,Default,,0,0,0,,good!
+Dialogue: 0,00:03:56.41,00:03:57.17,Default,,0,0,0,,Which powerful person
+Dialogue: 0,00:03:57.17,00:03:58.73,Default,,0,0,0,,Want to show yourself?
+Dialogue: 0,00:03:59.81,00:04:00.45,Default,,0,0,0,,I’m here
+Dialogue: 0,00:04:02.89,00:04:04.21,Default,,0,0,0,,So powerful!
+Dialogue: 0,00:04:04.25,00:04:05.01,Default,,0,0,0,,Look at me!
+Dialogue: 0,00:04:11.57,00:04:13.41,Default,,0,0,0,,Record! Record!
+Dialogue: 0,00:04:17.81,00:04:18.53,Default,,0,0,0,,Help!
+Dialogue: 0,00:04:28.69,00:04:29.45,Default,,0,0,0,,Keep going like this
+Dialogue: 0,00:04:29.45,00:04:31.33,Default,,0,0,0,,When will I become the king
+Dialogue: 0,00:04:31.33,00:04:33.29,Default,,0,0,0,,Have some big things
+Dialogue: 0,00:04:33.53,00:04:34.49,Default,,0,0,0,,now
+Dialogue: 0,00:04:37.69,00:04:39.85,Default,,0,0,0,,Hand over the lollipop!
+Dialogue: 0,00:04:42.85,00:04:44.33,Default,,0,0,0,,Have a lollipop!
+Dialogue: 0,00:04:45.77,00:04:47.65,Default,,0,0,0,,You finally appeared!
+Dialogue: 0,00:04:48.29,00:04:50.33,Default,,0,0,0,,You dare to snatch our lollipops!
+Dialogue: 0,00:04:51.01,00:04:52.41,Default,,0,0,0,,What is a lollipop
+Dialogue: 0,00:04:52.53,00:04:54.29,Default,,0,0,0,,As long as you think I’m the king
+Dialogue: 0,00:04:54.77,00:04:55.73,Default,,0,0,0,,Those foods
+Dialogue: 0,00:04:55.81,00:04:56.81,Default,,0,0,0,,It’s all yours!
+Dialogue: 0,00:04:58.93,00:05:00.29,Default,,0,0,0,,The King
+Dialogue: 0,00:05:03.93,00:05:05.57,Default,,0,0,0,,I’m a morphogenic bacteria
+Dialogue: 0,00:05:05.93,00:05:06.97,Default,,0,0,0,,I finally became
+Dialogue: 0,00:05:07.01,00:05:08.57,Default,,0,0,0,,The king of the universe
+Dialogue: 0,00:05:10.33,00:05:10.85,Default,,0,0,0,,Right
+Dialogue: 0,00:05:10.85,00:05:11.73,Default,,0,0,0,,The King of the Universe
+Dialogue: 0,00:05:11.77,00:05:13.05,Default,,0,0,0,,What should I do first?
+Dialogue: 0,00:05:18.77,00:05:19.49,Default,,0,0,0,,Our team
+Dialogue: 0,00:05:19.53,00:05:21.61,Default,,0,0,0,,The first thing to do
+Dialogue: 0,00:05:21.65,00:05:23.57,Default,,0,0,0,,It is to occupy the grassland!
+Dialogue: 0,00:05:26.45,00:05:27.77,Default,,0,0,0,,Haven’t eaten yet
+Dialogue: 0,00:05:27.93,00:05:29.73,Default,,0,0,0,,How can there be no force to invade the grassland?
+Dialogue: 0,00:05:30.97,00:05:33.17,Default,,0,0,0,,As long as you follow me to invade the grassland
+Dialogue: 0,00:05:33.69,00:05:34.89,Default,,0,0,0,,I’ll take you to do it
+Dialogue: 0,00:05:34.93,00:05:36.37,Default,,0,0,0,,More delicious
+Dialogue: 0,00:05:36.45,00:05:38.45,Default,,0,0,0,,Then let’s find something delicious!
+Dialogue: 0,00:05:40.37,00:05:42.13,Default,,0,0,0,,Go and invade the grassland first!
+Dialogue: 0,00:05:42.25,00:05:44.17,Default,,0,0,0,,Find something delicious first!
+Dialogue: 0,00:05:51.29,00:05:52.57,Default,,0,0,0,,I’m the king
+Dialogue: 0,00:05:53.09,00:05:55.25,Default,,0,0,0,,You have to hear me!
+Dialogue: 0,00:05:58.21,00:06:00.41,Default,,0,0,0,,Then you are not now
+Dialogue: 0,00:06:05.97,00:06:07.73,Default,,0,0,0,,Help us get honey!
+Dialogue: 0,00:06:13.13,00:06:14.49,Default,,0,0,0,,Go and pick apples!
+Dialogue: 0,00:06:18.77,00:06:19.69,Default,,0,0,0,,Don’t steal it!
+Dialogue: 0,00:06:19.69,00:06:21.17,Default,,0,0,0,,I haven’t got any rice grains
+Dialogue: 0,00:06:25.89,00:06:27.05,Default,,0,0,0,,Very tired
+Dialogue: 0,00:06:30.21,00:06:32.73,Default,,0,0,0,,I didn’t expect you to care about me
+Dialogue: 0,00:06:33.81,00:06:34.57,Default,,0,0,0,,What
+Dialogue: 0,00:06:34.89,00:06:37.05,Default,,0,0,0,,I just ate apple and bit my arm
+Dialogue: 0,00:06:37.49,00:06:39.25,Default,,0,0,0,,Come and help me with cream
+Dialogue: 0,00:06:41.65,00:06:43.01,Default,,0,0,0,,It’s time to eat
+Dialogue: 0,00:06:43.89,00:06:45.57,Default,,0,0,0,,Finally had a meal
+Dialogue: 0,00:06:48.81,00:06:50.65,Default,,0,0,0,,I asked you to make a meal
+Dialogue: 0,00:06:57.49,00:06:59.45,Default,,0,0,0,,The three evildoers are so overscore
+Dialogue: 0,00:07:07.93,00:07:08.69,Default,,0,0,0,,This is...
+Dialogue: 0,00:07:09.17,00:07:10.37,Default,,0,0,0,,The King
+Dialogue: 0,00:07:25.29,00:07:27.41,Default,,0,0,0,,I found the footprints left by the thief!
+Dialogue: 0,00:07:35.25,00:07:36.13,Default,,0,0,0,,Excuse me
+Dialogue: 0,00:07:36.17,00:07:37.57,Default,,0,0,0,,It’s my footprint...
+Dialogue: 0,00:07:43.45,00:07:44.29,Default,,0,0,0,,Weslie
+Dialogue: 0,00:07:44.45,00:07:45.85,Default,,0,0,0,,Honeycomb Fruit Gardens and Valleys
+Dialogue: 0,00:07:45.89,00:07:46.73,Default,,0,0,0,,Lost again
+Dialogue: 0,00:07:47.37,00:07:48.45,Default,,0,0,0,,Lost again?
+Dialogue: 0,00:07:48.53,00:07:50.01,Default,,0,0,0,,Who is so cunning?
+Dialogue: 0,00:07:51.01,00:07:52.29,Default,,0,0,0,,Fortunately, they were bacteric
+Dialogue: 0,00:07:52.33,00:07:53.49,Default,,0,0,0,,Haven’t come out lately
+Dialogue: 0,00:07:53.89,00:07:55.25,Default,,0,0,0,,Otherwise we’ll be troubled
+Dialogue: 0,00:07:57.29,00:07:58.33,Default,,0,0,0,,Lollipop
+Dialogue: 0,00:07:59.05,00:08:00.05,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:08:00.37,00:08:02.01,Default,,0,0,0,,Put down BB Goat!
+Dialogue: 0,00:08:04.93,00:08:05.61,Default,,0,0,0,,Run apart!
+Dialogue: 0,00:08:07.01,00:08:08.25,Default,,0,0,0,,Chasing King Bacteria!
+Dialogue: 0,00:08:13.37,00:08:14.65,Default,,0,0,0,,It should be thrown away
+Dialogue: 0,00:08:16.41,00:08:17.01,Default,,0,0,0,,See
+Dialogue: 0,00:08:19.01,00:08:21.05,Default,,0,0,0,,Xiao Huang is not here, there is no problem
+Dialogue: 0,00:08:25.53,00:08:26.09,Default,,0,0,0,,The King
+Dialogue: 0,00:08:27.45,00:08:29.73,Default,,0,0,0,,Big King
+Dialogue: 0,00:08:29.97,00:08:31.73,Default,,0,0,0,,Are the kings still suitable?
+Dialogue: 0,00:08:34.17,00:08:35.57,Default,,0,0,0,,No matter how powerful it is
+Dialogue: 0,00:08:35.57,00:08:36.29,Default,,0,0,0,,good
+Dialogue: 0,00:08:36.81,00:08:38.53,Default,,0,0,0,,- Deformed rod bacteria
+- Coming...
+Dialogue: 0,00:08:44.21,00:08:46.93,Default,,0,0,0,,Are you looking for a call?
+Dialogue: 0,00:08:49.13,00:08:50.09,Default,,0,0,0,,stop
+Dialogue: 0,00:08:51.53,00:08:52.37,Default,,0,0,0,,Let him go
+Dialogue: 0,00:08:53.77,00:08:54.53,Default,,0,0,0,,The king...
+Dialogue: 0,00:08:54.85,00:08:56.65,Default,,0,0,0,,Are you his king?
+Dialogue: 0,00:08:57.45,00:08:58.57,Default,,0,0,0,,Go away, lord
+Dialogue: 0,00:08:58.73,00:09:00.77,Default,,0,0,0,,You can’t beat them
+Dialogue: 0,00:09:01.69,00:09:02.97,Default,,0,0,0,,Packed in me
+Dialogue: 0,00:09:09.49,00:09:11.97,Default,,0,0,0,,You’re so clean
+Dialogue: 0,00:09:12.21,00:09:13.77,Default,,0,0,0,,Of course
+Dialogue: 0,00:09:14.05,00:09:15.21,Default,,0,0,0,,We are...
+Dialogue: 0,00:09:15.69,00:09:17.57,Default,,0,0,0,,Love it very clean
+Dialogue: 0,00:09:23.89,00:09:25.37,Default,,0,0,0,,Leave aside
+Dialogue: 0,00:09:26.73,00:09:28.69,Default,,0,0,0,,King!
+Dialogue: 0,00:09:38.57,00:09:39.77,Default,,0,0,0,,Look at the trick!
+Dialogue: 0,00:09:41.61,00:09:43.05,Default,,0,0,0,,Don’t think about it
+Dialogue: 0,00:09:43.85,00:09:45.09,Default,,0,0,0,,And give it to you
+Dialogue: 0,00:09:51.37,00:09:53.89,Default,,0,0,0,,No one can help you now
+Dialogue: 0,00:09:54.29,00:09:55.33,Default,,0,0,0,,And we!
+Dialogue: 0,00:09:55.81,00:09:56.45,Default,,0,0,0,,who?
+Dialogue: 0,00:09:57.77,00:09:58.73,Default,,0,0,0,,Same?
+Dialogue: 0,00:09:58.81,00:10:00.17,Default,,0,0,0,,It’s the same as many!
+Dialogue: 0,00:10:00.77,00:10:02.73,Default,,0,0,0,,The king who dares to bully us!
+Dialogue: 0,00:10:02.97,00:10:04.45,Default,,0,0,0,,Run quickly!
+Dialogue: 0,00:10:07.37,00:10:09.85,Default,,0,0,0,,There is no good luck to bully people
+Dialogue: 0,00:10:09.85,00:10:10.93,Default,,0,0,0,,Stay at your own pace
+Dialogue: 0,00:10:11.09,00:10:12.65,Default,,0,0,0,,Good to meet in the future
+Dialogue: 0,00:10:15.41,00:10:17.41,Default,,0,0,0,,Where did you stay
+Dialogue: 0,00:10:17.45,00:10:19.13,Default,,0,0,0,,Success!
+Dialogue: 0,00:10:21.57,00:10:22.77,Default,,0,0,0,,-you…
+-I…
+Dialogue: 0,00:10:24.65,00:10:25.25,Default,,0,0,0,,The King
+Dialogue: 0,00:10:25.45,00:10:26.01,Default,,0,0,0,,I
+Dialogue: 0,00:10:26.17,00:10:26.61,Default,,0,0,0,,I…
+Dialogue: 0,00:10:27.37,00:10:29.05,Default,,0,0,0,,Let’s go home
+Dialogue: 0,00:10:30.69,00:10:32.53,Default,,0,0,0,,I can’t see my brother
+Dialogue: 0,00:10:32.57,00:10:33.61,Default,,0,0,0,,Being bullied
+Dialogue: 0,00:10:34.05,00:10:35.29,Default,,0,0,0,,I apologize to you
+Dialogue: 0,00:10:35.41,00:10:36.77,Default,,0,0,0,,I was not right before
+Dialogue: 0,00:10:36.93,00:10:38.05,Default,,0,0,0,,I’m sorry for you
+Dialogue: 0,00:10:38.57,00:10:39.33,Default,,0,0,0,,so…
+Dialogue: 0,00:10:39.53,00:10:40.85,Default,,0,0,0,,Are we going home?
+Dialogue: 0,00:10:44.57,00:10:46.33,Default,,0,0,0,,But I’m not loyal to you
+Dialogue: 0,00:10:46.61,00:10:47.61,Default,,0,0,0,,For so long
+Dialogue: 0,00:10:48.53,00:10:50.09,Default,,0,0,0,,I always want to be the king
+Dialogue: 0,00:10:50.29,00:10:50.65,Default,,0,0,0,,I…
+Dialogue: 0,00:10:50.85,00:10:52.13,Default,,0,0,0,,I’m sorry for you
+Dialogue: 0,00:10:55.25,00:10:55.93,Default,,0,0,0,,King!
+Dialogue: 0,00:10:56.73,00:10:58.45,Default,,0,0,0,,Then I’ll let you be the king
+Dialogue: 0,00:10:58.77,00:10:59.93,Default,,0,0,0,,As long as you can come back
+Dialogue: 0,00:11:01.05,00:11:02.37,Default,,0,0,0,,This king will do it for you
+Dialogue: 0,00:11:02.41,00:11:03.65,Default,,0,0,0,,What’s the relationship
+Dialogue: 0,00:11:05.73,00:11:06.73,Default,,0,0,0,,King!
+Dialogue: 0,00:11:07.05,00:11:09.33,Default,,0,0,0,,From now on, you will always be my king
+Dialogue: 0,00:11:09.41,00:11:11.53,Default,,0,0,0,,I will never have a second thought again
+Dialogue: 0,00:11:12.09,00:11:13.49,Default,,0,0,0,,Then let’s go home
+Dialogue: 0,00:11:13.57,00:11:14.41,Default,,0,0,0,,yes
+Dialogue: 0,00:11:14.57,00:11:14.89,Default,,0,0,0,,etc…
+Dialogue: 0,00:11:15.49,00:11:16.17,Default,,0,0,0,,Where is BB Goat?
+Dialogue: 0,00:11:17.01,00:11:17.93,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:11:18.49,00:11:19.49,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:11:20.13,00:11:21.21,Default,,0,0,0,,The lamb is chasing
+Dialogue: 0,00:11:22.21,00:11:23.49,Default,,0,0,0,,Forget it, don’t look for it
+Dialogue: 0,00:11:23.73,00:11:25.73,Default,,0,0,0,,Go home to help you with injuries and get tight
+Dialogue: 0,00:11:26.17,00:11:27.73,Default,,0,0,0,,Next time we’ll catch it together
+Dialogue: 0,00:11:28.37,00:11:29.17,Default,,0,0,0,,Let’s go...
+Dialogue: 0,00:11:30.49,00:11:31.77,Default,,0,0,0,,The footprints were printed in the cave
+Dialogue: 0,00:11:32.89,00:11:33.73,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:11:33.73,00:11:34.45,Default,,0,0,0,,Where are you?
+Dialogue: 0,00:11:34.49,00:11:35.77,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:11:36.53,00:11:37.37,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:11:38.09,00:11:39.21,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:11:39.33,00:11:40.21,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:11:40.93,00:11:42.09,Default,,0,0,0,,What about that group of bacteria?
+Dialogue: 0,00:11:42.53,00:11:44.13,Default,,0,0,0,,Take a closer look at these things
+Dialogue: 0,00:11:44.17,00:11:45.65,Default,,0,0,0,,Aren’t those stolen?
+Dialogue: 0,00:11:46.89,00:11:47.85,Default,,0,0,0,,A lot of piles
+Dialogue: 0,00:11:49.01,00:11:49.89,Default,,0,0,0,,You see
+Dialogue: 0,00:11:50.41,00:11:51.77,Default,,0,0,0,,The three major tyrants? !
+Dialogue: 0,00:11:52.21,00:11:53.61,Default,,0,0,0,,It seems we have found it
+Dialogue: 0,00:11:53.65,00:11:55.09,Default,,0,0,0,,The loss case is really
+Dialogue: 0,00:11:57.65,00:11:59.65,Default,,0,0,0,,You gave me a hundred trees
+Dialogue: 0,00:12:00.25,00:12:02.05,Default,,0,0,0,,Stealing honey Stealing fruit
+Dialogue: 0,00:12:02.17,00:12:03.05,Default,,0,0,0,,Stealing rice
+Dialogue: 0,00:12:03.25,00:12:04.57,Default,,0,0,0,,I stole it twice in a row!
+Dialogue: 0,00:12:05.09,00:12:06.97,Default,,0,0,0,,We only stole it once
+Dialogue: 0,00:12:08.57,00:12:09.57,Default,,0,0,0,,Also telling lewd
+Dialogue: 0,00:12:09.57,00:12:11.09,Default,,0,0,0,,Give me two hundred trees!
+Dialogue: 0,00:12:12.53,00:12:15.09,Default,,0,0,0,,Who did that time...
+Dialogue: 0,00:12:16.21,00:12:17.21,Default,,0,0,0,,No matter who it is!
+Dialogue: 0,00:12:17.21,00:12:20.37,Default,,0,0,0,,God will definitely punish him! !

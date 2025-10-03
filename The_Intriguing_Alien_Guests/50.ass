@@ -1,0 +1,245 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.69,00:00:26.61,Default,,0,0,0,,- Good morning Brother Weslie
+- Good morning BB Goat
+Dialogue: 0,00:00:46.25,00:00:47.05,Default,,0,0,0,,Who is it
+Dialogue: 0,00:00:48.17,00:00:49.13,Default,,0,0,0,,Who would you like?
+Dialogue: 0,00:00:49.33,00:00:50.17,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:50.61,00:00:51.61,Default,,0,0,0,,It’s the village chief
+Dialogue: 0,00:00:52.53,00:00:53.33,Default,,0,0,0,,I received
+Dialogue: 0,00:00:53.37,00:00:55.33,Default,,0,0,0,,A help call from the mountains
+Dialogue: 0,00:00:55.37,00:00:56.29,Default,,0,0,0,,Help number?
+Dialogue: 0,00:00:56.41,00:00:58.45,Default,,0,0,0,,Then I called Sparky and the others together...
+Dialogue: 0,00:00:59.17,00:01:00.45,Default,,0,0,0,,They go to other grasslands
+Dialogue: 0,00:01:00.49,00:01:02.29,Default,,0,0,0,,I’ve found the search for Brother BB Goat
+Dialogue: 0,00:01:02.81,00:01:04.85,Default,,0,0,0,,I’ll go with you this time
+Dialogue: 0,00:01:05.93,00:01:07.05,Default,,0,0,0,,The village chief is no longer
+Dialogue: 0,00:01:07.17,00:01:09.21,Default,,0,0,0,,Just go with BB Goat
+Dialogue: 0,00:01:10.21,00:01:11.73,Default,,0,0,0,,-But…
+-I run fast
+Dialogue: 0,00:01:11.77,00:01:13.05,Default,,0,0,0,,Even if you encounter danger, you can
+Dialogue: 0,00:01:13.09,00:01:14.89,Default,,0,0,0,,Escape easily with BB Goat
+Dialogue: 0,00:01:14.89,00:01:15.65,Default,,0,0,0,,Oh well
+Dialogue: 0,00:01:16.25,00:01:17.89,Default,,0,0,0,,You must be careful
+Dialogue: 0,00:01:20.05,00:01:20.77,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:01:20.85,00:01:21.97,Default,,0,0,0,,We’re going up the mountain
+Dialogue: 0,00:01:22.29,00:01:23.13,Default,,0,0,0,,Going up the mountain?
+Dialogue: 0,00:01:28.93,00:01:31.45,Default,,0,0,0,,I’m going to bring my toys and snacks
+Dialogue: 0,00:01:31.73,00:01:33.57,Default,,0,0,0,,We’re going to save people
+Dialogue: 0,00:01:34.13,00:01:35.37,Default,,0,0,0,,There is also Brother Weslie
+Dialogue: 0,00:01:35.41,00:01:36.77,Default,,0,0,0,,Maps and guides
+Dialogue: 0,00:01:37.29,00:01:38.05,Default,,0,0,0,,And water
+Dialogue: 0,00:01:38.21,00:01:39.65,Default,,0,0,0,,All of them are what I want...
+Dialogue: 0,00:01:40.41,00:01:41.25,Default,,0,0,0,,Decorated
+Dialogue: 0,00:01:41.65,00:01:42.53,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:01:43.89,00:01:44.37,Default,,0,0,0,,alright
+Dialogue: 0,00:01:44.41,00:01:45.73,Default,,0,0,0,,Then let’s go
+Dialogue: 0,00:01:46.09,00:01:46.77,Default,,0,0,0,,good!
+Dialogue: 0,00:02:03.01,00:02:04.13,Default,,0,0,0,,Let you see today
+Dialogue: 0,00:02:04.17,00:02:06.09,Default,,0,0,0,,My gene tracking damage
+Dialogue: 0,00:02:06.53,00:02:07.53,Default,,0,0,0,,My King Bacteria
+Dialogue: 0,00:02:07.57,00:02:08.97,Default,,0,0,0,,Are you afraid of you?
+Dialogue: 0,00:02:09.45,00:02:11.41,Default,,0,0,0,,I just need to scan
+Dialogue: 0,00:02:18.49,00:02:19.65,Default,,0,0,0,,Useless
+Dialogue: 0,00:02:19.69,00:02:21.73,Default,,0,0,0,,He will chase you wherever you run
+Dialogue: 0,00:02:25.21,00:02:26.49,Default,,0,0,0,,Something interesting
+Dialogue: 0,00:02:33.09,00:02:33.97,Default,,0,0,0,,Success!
+Dialogue: 0,00:02:39.09,00:02:39.57,Default,,0,0,0,,what?
+Dialogue: 0,00:02:39.57,00:02:41.09,Default,,0,0,0,,Being beaten down? !
+Dialogue: 0,00:02:41.29,00:02:42.69,Default,,0,0,0,,Then come a few more!
+Dialogue: 0,00:02:44.25,00:02:45.33,Default,,0,0,0,,My Milkycarba
+Dialogue: 0,00:02:45.33,00:02:46.85,Default,,0,0,0,,It’s indestructible!
+Dialogue: 0,00:02:54.77,00:02:56.05,Default,,0,0,0,,Have you dropped it all?
+Dialogue: 0,00:02:56.61,00:02:57.57,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:02:58.17,00:02:59.53,Default,,0,0,0,,Your invention is good
+Dialogue: 0,00:02:59.57,00:03:02.13,Default,,0,0,0,,But it’s mine right away!
+Dialogue: 0,00:03:04.29,00:03:06.49,Default,,0,0,0,,He actually used the weapon I worked hard to develop
+Dialogue: 0,00:03:06.53,00:03:08.13,Default,,0,0,0,,Copy it in one go
+Dialogue: 0,00:03:09.81,00:03:11.53,Default,,0,0,0,,After so many times of grinding
+Dialogue: 0,00:03:11.65,00:03:12.85,Default,,0,0,0,,I’ve grown too!
+Dialogue: 0,00:03:13.09,00:03:14.29,Default,,0,0,0,,It’s your turn...
+Dialogue: 0,00:03:14.33,00:03:15.53,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:03:21.41,00:03:22.97,Default,,0,0,0,,I’ll definitely come back
+Dialogue: 0,00:03:25.41,00:03:26.33,Default,,0,0,0,,The King
+Dialogue: 0,00:03:26.33,00:03:27.65,Default,,0,0,0,,Follow your plan
+Dialogue: 0,00:03:28.01,00:03:29.53,Default,,0,0,0,,Weslie and BB Goat
+Dialogue: 0,00:03:29.53,00:03:30.45,Default,,0,0,0,,Already already
+Dialogue: 0,00:03:30.65,00:03:32.21,Default,,0,0,0,,Now, as long as we go
+Dialogue: 0,00:03:32.21,00:03:34.57,Default,,0,0,0,,They can be slammed on the planned mountain
+Dialogue: 0,00:03:34.69,00:03:36.21,Default,,0,0,0,,Well done, small green!
+Dialogue: 0,00:03:36.65,00:03:38.33,Default,,0,0,0,,Then we will set out right away!
+Dialogue: 0,00:03:46.85,00:03:48.25,Default,,0,0,0,,Display according to positioning
+Dialogue: 0,00:03:48.81,00:03:50.41,Default,,0,0,0,,The person who sent a helping call
+Dialogue: 0,00:03:50.61,00:03:52.21,Default,,0,0,0,,Just on the top of the mountain here
+Dialogue: 0,00:03:53.57,00:03:55.49,Default,,0,0,0,,Just keep going up!
+Dialogue: 0,00:03:58.77,00:04:00.85,Default,,0,0,0,,Mountain road dangerous, be careful
+Dialogue: 0,00:04:03.05,00:04:04.25,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:04:04.37,00:04:05.33,Default,,0,0,0,,Watch quickly
+Dialogue: 0,00:04:05.37,00:04:06.61,Default,,0,0,0,,Very tall
+Dialogue: 0,00:04:07.53,00:04:09.37,Default,,0,0,0,,The scenery is so good!
+Dialogue: 0,00:04:10.57,00:04:11.53,Default,,0,0,0,,alright
+Dialogue: 0,00:04:11.53,00:04:12.81,Default,,0,0,0,,We’re looking for someone else
+Dialogue: 0,00:04:17.29,00:04:18.09,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:04:31.53,00:04:32.37,Default,,0,0,0,,Shocked me...
+Dialogue: 0,00:04:34.49,00:04:35.25,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:04:35.37,00:04:36.89,Default,,0,0,0,,Stay well with me
+Dialogue: 0,00:04:37.65,00:04:38.37,Default,,0,0,0,,Encountering danger
+Dialogue: 0,00:04:38.45,00:04:39.61,Default,,0,0,0,,Be sure to catch me!
+Dialogue: 0,00:04:50.81,00:04:51.29,Default,,0,0,0,,look!
+Dialogue: 0,00:04:52.81,00:04:54.29,Default,,0,0,0,,We’re at the top of the mountain
+Dialogue: 0,00:04:54.57,00:04:55.05,Default,,0,0,0,,But
+Dialogue: 0,00:04:55.21,00:04:56.57,Default,,0,0,0,,The person who sent a helping call
+Dialogue: 0,00:04:56.57,00:04:57.57,Default,,0,0,0,,Where is it?
+Dialogue: 0,00:04:58.37,00:04:59.97,Default,,0,0,0,,It should be nearby...
+Dialogue: 0,00:05:03.45,00:05:04.65,Default,,0,0,0,,Digital virus?
+Dialogue: 0,00:05:08.49,00:05:09.57,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:10.09,00:05:11.61,Default,,0,0,0,,You finally come!
+Dialogue: 0,00:05:12.21,00:05:13.33,Default,,0,0,0,,It’s you
+Dialogue: 0,00:05:13.45,00:05:14.65,Default,,0,0,0,,How are you here
+Dialogue: 0,00:05:14.81,00:05:16.37,Default,,0,0,0,,That’s because of a help call
+Dialogue: 0,00:05:16.37,00:05:18.09,Default,,0,0,0,,It’s what we sent out
+Dialogue: 0,00:05:18.53,00:05:19.85,Default,,0,0,0,,You’re here!
+Dialogue: 0,00:05:20.57,00:05:20.89,Default,,0,0,0,,How…
+Dialogue: 0,00:05:21.05,00:05:22.09,Default,,0,0,0,,How could it be...
+Dialogue: 0,00:05:22.49,00:05:24.77,Default,,0,0,0,,It’s hard to say that the phone calls from the beginning are all fake
+Dialogue: 0,00:05:25.25,00:05:26.65,Default,,0,0,0,,Just discovered it now?
+Dialogue: 0,00:05:26.65,00:05:27.77,Default,,0,0,0,,Too late
+Dialogue: 0,00:05:29.29,00:05:30.77,Default,,0,0,0,,I’m not in vain for a lot of hardships
+Dialogue: 0,00:05:30.77,00:05:31.93,Default,,0,0,0,,Climb this mountain
+Dialogue: 0,00:05:31.93,00:05:33.37,Default,,0,0,0,,Thank you so hard!
+Dialogue: 0,00:05:34.21,00:05:35.25,Default,,0,0,0,,It’s obviously me
+Dialogue: 0,00:05:35.29,00:05:36.49,Default,,0,0,0,,Is it good to load yours?
+Dialogue: 0,00:05:36.93,00:05:38.49,Default,,0,0,0,,Thank you for your hard work!
+Dialogue: 0,00:05:38.77,00:05:41.09,Default,,0,0,0,,Now God can’t save you!
+Dialogue: 0,00:05:41.45,00:05:42.97,Default,,0,0,0,,Hand over BB Goat!
+Dialogue: 0,00:05:43.73,00:05:45.25,Default,,0,0,0,,I have to find a way to leave here!
+Dialogue: 0,00:05:47.17,00:05:47.89,Default,,0,0,0,,please…
+Dialogue: 0,00:05:47.93,00:05:49.33,Default,,0,0,0,,Leave BB Goat...
+Dialogue: 0,00:05:59.05,00:06:00.53,Default,,0,0,0,,Stop him!
+Dialogue: 0,00:06:03.41,00:06:04.61,Default,,0,0,0,,There is a cave there!
+Dialogue: 0,00:06:12.29,00:06:13.73,Default,,0,0,0,,Can’t let him run into the cave!
+Dialogue: 0,00:06:13.85,00:06:14.45,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:06:15.57,00:06:16.25,Default,,0,0,0,,yes!
+Dialogue: 0,00:06:26.77,00:06:28.13,Default,,0,0,0,,Don’t run away!
+Dialogue: 0,00:06:39.33,00:06:41.69,Default,,0,0,0,,They actually hid in
+Dialogue: 0,00:06:41.97,00:06:43.77,Default,,0,0,0,,So what should I do next?
+Dialogue: 0,00:06:45.57,00:06:47.37,Default,,0,0,0,,Or maybe that’s better!
+Dialogue: 0,00:06:54.97,00:06:55.69,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:06:55.73,00:06:56.69,Default,,0,0,0,,You’re fine, right?
+Dialogue: 0,00:06:57.45,00:06:58.33,Default,,0,0,0,,I’m fine!
+Dialogue: 0,00:07:04.41,00:07:05.89,Default,,0,0,0,,What should I do next
+Dialogue: 0,00:07:06.33,00:07:08.05,Default,,0,0,0,,The phone was damaged just now
+Dialogue: 0,00:07:08.45,00:07:09.57,Default,,0,0,0,,Can’t call for help
+Dialogue: 0,00:07:13.65,00:07:15.61,Default,,0,0,0,,Will there be other exports?
+Dialogue: 0,00:07:26.81,00:07:28.45,Default,,0,0,0,,You can’t escape!
+Dialogue: 0,00:07:32.21,00:07:33.21,Default,,0,0,0,,Target locked!
+Dialogue: 0,00:07:41.25,00:07:42.13,Default,,0,0,0,,Useless
+Dialogue: 0,00:07:42.21,00:07:44.25,Default,,0,0,0,,This guide records your genes
+Dialogue: 0,00:07:44.81,00:07:46.33,Default,,0,0,0,,No matter where you escape
+Dialogue: 0,00:07:46.41,00:07:48.17,Default,,0,0,0,,It will always follow you
+Dialogue: 0,00:08:06.81,00:08:08.89,Default,,0,0,0,,Even such a small hair can be followed
+Dialogue: 0,00:08:09.33,00:08:10.61,Default,,0,0,0,,Weslie Brother...
+Dialogue: 0,00:08:12.73,00:08:14.37,Default,,0,0,0,,You can’t let BB Goat have any trouble
+Dialogue: 0,00:08:17.13,00:08:17.85,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:17.85,00:08:19.05,Default,,0,0,0,,Stay here obediently!
+Dialogue: 0,00:08:20.21,00:08:21.25,Default,,0,0,0,,Wait for me to pull them out
+Dialogue: 0,00:08:21.29,00:08:22.09,Default,,0,0,0,,I’ll come back to pick you up
+Dialogue: 0,00:08:22.57,00:08:23.29,Default,,0,0,0,,But…
+Dialogue: 0,00:08:24.09,00:08:25.09,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:08:25.29,00:08:26.97,Default,,0,0,0,,I’ll be back soon!
+Dialogue: 0,00:08:27.37,00:08:28.09,Default,,0,0,0,,Be good
+Dialogue: 0,00:08:32.41,00:08:34.01,Default,,0,0,0,,Weslie Brother...
+Dialogue: 0,00:08:34.25,00:08:35.33,Default,,0,0,0,,Where did you go?
+Dialogue: 0,00:08:36.77,00:08:37.57,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:08:39.29,00:08:40.17,Default,,0,0,0,,Where is BB Goat?
+Dialogue: 0,00:08:41.29,00:08:42.25,Default,,0,0,0,,Don’t stumble
+Dialogue: 0,00:08:42.57,00:08:44.41,Default,,0,0,0,,Hand over BB Goat!
+Dialogue: 0,00:08:45.37,00:08:46.65,Default,,0,0,0,,I can catch it before saying it!
+Dialogue: 0,00:08:47.93,00:08:49.09,Default,,0,0,0,,Hurry up and catch him!
+Dialogue: 0,00:08:49.13,00:08:50.05,Default,,0,0,0,,yes!
+Dialogue: 0,00:09:02.09,00:09:03.77,Default,,0,0,0,,Even the entrance of the cave was kept...
+Dialogue: 0,00:09:04.73,00:09:05.45,Default,,0,0,0,,How to do it
+Dialogue: 0,00:09:05.49,00:09:06.77,Default,,0,0,0,,What about leading them out of here
+Dialogue: 0,00:09:08.01,00:09:09.09,Default,,0,0,0,,You go find BB Goat
+Dialogue: 0,00:09:09.49,00:09:10.77,Default,,0,0,0,,I’ll deal with Weslie
+Dialogue: 0,00:09:22.17,00:09:23.65,Default,,0,0,0,,So you are here
+Dialogue: 0,00:09:30.49,00:09:31.09,Default,,0,0,0,,The King
+Dialogue: 0,00:09:31.09,00:09:32.73,Default,,0,0,0,,Xiaohong found BB Goat
+Dialogue: 0,00:09:33.17,00:09:34.01,Default,,0,0,0,,Good do!
+Dialogue: 0,00:09:37.29,00:09:38.89,Default,,0,0,0,,Can’t run anymore!
+Dialogue: 0,00:09:39.29,00:09:40.97,Default,,0,0,0,,BB Goat was also caught
+Dialogue: 0,00:09:41.05,00:09:42.73,Default,,0,0,0,,It’s really a kill of two birds with one stone!
+Dialogue: 0,00:09:44.33,00:09:45.05,Default,,0,0,0,,King!
+Dialogue: 0,00:09:45.37,00:09:46.25,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:09:46.61,00:09:49.13,Default,,0,0,0,,Get it and unseal it for me
+Dialogue: 0,00:09:49.65,00:09:50.45,Default,,0,0,0,,Let me go!
+Dialogue: 0,00:09:50.69,00:09:51.81,Default,,0,0,0,,Let me go!
+Dialogue: 0,00:09:51.97,00:09:52.57,Default,,0,0,0,,Don’t be tempted
+Dialogue: 0,00:10:01.49,00:10:02.97,Default,,0,0,0,,Let them run away again!
+Dialogue: 0,00:10:04.21,00:10:05.57,Default,,0,0,0,,I’m angry!
+Dialogue: 0,00:10:14.85,00:10:16.53,Default,,0,0,0,,How did the guide fly back!
+Dialogue: 0,00:10:17.37,00:10:17.97,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:10:18.13,00:10:19.77,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:10:21.57,00:10:23.65,Default,,0,0,0,,I don’t know either
+Dialogue: 0,00:10:24.01,00:10:25.01,Default,,0,0,0,,Run!
+Dialogue: 0,00:10:27.13,00:10:27.89,Default,,0,0,0,,What is this?
+Dialogue: 0,00:10:30.29,00:10:30.89,Default,,0,0,0,,Little red!
+Dialogue: 0,00:10:30.93,00:10:32.69,Default,,0,0,0,,Where is your Milkyrup?
+Dialogue: 0,00:10:33.65,00:10:34.61,Default,,0,0,0,,Yes!
+Dialogue: 0,00:10:40.01,00:10:42.37,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:10:53.69,00:10:54.97,Default,,0,0,0,,Failed again
+Dialogue: 0,00:10:56.85,00:10:57.93,Default,,0,0,0,,Where is the king?
+Dialogue: 0,00:10:57.97,00:10:59.01,Default,,0,0,0,,There
+Dialogue: 0,00:11:01.85,00:11:03.41,Default,,0,0,0,,The king is really bad
+Dialogue: 0,00:11:03.73,00:11:05.25,Default,,0,0,0,,Get up so quickly
+Dialogue: 0,00:11:05.29,00:11:07.37,Default,,0,0,0,,Start thinking about the next plan!
+Dialogue: 0,00:11:08.09,00:11:09.29,Default,,0,0,0,,Let’s go and take a look
+Dialogue: 0,00:11:11.17,00:11:12.29,Default,,0,0,0,,Look at this time
+Dialogue: 0,00:11:12.33,00:11:13.37,Default,,0,0,0,,How to report you
+Dialogue: 0,00:11:13.45,00:11:13.97,Default,,0,0,0,,Get it done
+Dialogue: 0,00:11:15.89,00:11:16.69,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:11:17.37,00:11:19.25,Default,,0,0,0,,It turned out to be in the turtle...
+Dialogue: 0,00:11:21.09,00:11:22.41,Default,,0,0,0,,It seems like someone...
+Dialogue: 0,00:11:23.17,00:11:24.21,Default,,0,0,0,,Feeling a bit similar
+Dialogue: 0,00:11:24.25,00:11:25.81,Default,,0,0,0,,It’s the goat you said before
+Dialogue: 0,00:11:25.93,00:11:27.49,Default,,0,0,0,,It seems to be called wise...
+Dialogue: 0,00:11:29.41,00:11:29.89,Default,,0,0,0,,Small green
+Dialogue: 0,00:11:30.13,00:11:32.05,Default,,0,0,0,,Help me quickly check who is the father of Weslie
+Dialogue: 0,00:11:32.09,00:11:32.41,Default,,0,0,0,,good!
+Dialogue: 0,00:11:42.41,00:11:44.13,Default,,0,0,0,,They are indeed father and son!
+Dialogue: 0,00:11:44.97,00:11:46.57,Default,,0,0,0,,Since they are father and son...
+Dialogue: 0,00:11:46.61,00:11:47.73,Default,,0,0,0,,Weslie and BB Goat
+Dialogue: 0,00:11:47.77,00:11:49.09,Default,,0,0,0,,Just brother and sister
+Dialogue: 0,00:11:49.45,00:11:50.77,Default,,0,0,0,,Brother and sister
+Dialogue: 0,00:11:51.61,00:11:53.45,Default,,0,0,0,,While Weslie has not yet discovered the truth
+Dialogue: 0,00:11:53.57,00:11:54.69,Default,,0,0,0,,I’ll pack it first
+Dialogue: 0,00:11:54.73,00:11:55.85,Default,,0,0,0,,BB Goat’s brother
+Dialogue: 0,00:11:56.17,00:11:58.09,Default,,0,0,0,,Then you can be open and upright
+Dialogue: 0,00:11:58.13,00:11:59.45,Default,,0,0,0,,Take her away
+Dialogue: 0,00:12:01.17,00:12:02.37,Default,,0,0,0,,But how do you put it into
+Dialogue: 0,00:12:02.37,00:12:03.49,Default,,0,0,0,,Where are their brothers?
+Dialogue: 0,00:12:04.85,00:12:06.25,Default,,0,0,0,,The lamb is so cunning
+Dialogue: 0,00:12:06.25,00:12:08.01,Default,,0,0,0,,It will definitely not be easy to plot
+Dialogue: 0,00:12:08.09,00:12:10.53,Default,,0,0,0,,Unless there is a clear evidence
+Dialogue: 0,00:12:13.65,00:12:14.25,Default,,0,0,0,,The King
+Dialogue: 0,00:12:14.33,00:12:15.21,Default,,0,0,0,,I have a way!
+Dialogue: 0,00:12:15.77,00:12:16.65,Default,,0,0,0,,Let’s do this first...
+Dialogue: 0,00:12:16.69,00:12:17.53,Default,,0,0,0,,This way...
+Dialogue: 0,00:12:22.85,00:12:23.89,Default,,0,0,0,,That’s the plan!
+Dialogue: 0,00:12:23.97,00:12:25.45,Default,,0,0,0,,Good green!
+Dialogue: 0,00:12:25.49,00:12:27.01,Default,,0,0,0,,That way we can
+Dialogue: 0,00:12:27.01,00:12:29.09,Default,,0,0,0,,A new plan has been implemented

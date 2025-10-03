@@ -1,0 +1,243 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.36,00:00:20.88,Default,,0,0,0,,Which one is better to wear
+Dialogue: 0,00:00:21.40,00:00:23.75,Default,,0,0,0,,Wolffy has been busy in the laboratory for several days
+Dialogue: 0,00:00:24.11,00:00:27.32,Default,,0,0,0,,It must have been prepared for today’s wedding anniversary
+Dialogue: 0,00:00:28.04,00:00:29.84,Default,,0,0,0,,Change your clothes and see him
+Dialogue: 0,00:00:32.84,00:00:33.80,Default,,0,0,0,,Eat it, too
+Dialogue: 0,00:00:33.84,00:00:34.96,Default,,0,0,0,,Take it, and take it
+Dialogue: 0,00:00:35.00,00:00:36.64,Default,,0,0,0,,Go back and have a good time to sleep
+Dialogue: 0,00:00:37.52,00:00:38.80,Default,,0,0,0,,I want to eat too
+Dialogue: 0,00:00:49.92,00:00:51.04,Default,,0,0,0,,What’s wrong with you, Master?
+Dialogue: 0,00:00:51.04,00:00:53.48,Default,,0,0,0,,The wolf just passed by is very scary
+Dialogue: 0,00:01:00.00,00:01:03.24,Default,,0,0,0,,I wonder what gift Wolffy prepared for me
+Dialogue: 0,00:01:06.88,00:01:08.96,Default,,0,0,0,,It doesn’t look scary
+Dialogue: 0,00:01:09.52,00:01:10.84,Default,,0,0,0,,Stop it
+Dialogue: 0,00:01:10.88,00:01:12.60,Default,,0,0,0,,Go back quickly
+Dialogue: 0,00:01:14.16,00:01:15.24,Default,,0,0,0,,Why don’t there be potato slices
+Dialogue: 0,00:01:15.68,00:01:16.68,Default,,0,0,0,,I’ll go back to get it
+Dialogue: 0,00:01:17.04,00:01:18.56,Default,,0,0,0,,You go back first
+Dialogue: 0,00:01:22.20,00:01:24.68,Default,,0,0,0,,I’ve been preparing for this long just for today
+Dialogue: 0,00:01:25.24,00:01:26.80,Default,,0,0,0,,The final details are very important
+Dialogue: 0,00:01:28.40,00:01:30.36,Default,,0,0,0,,Can’t make a difference
+Dialogue: 0,00:01:32.24,00:01:33.84,Default,,0,0,0,,Cable gun! Finish!
+Dialogue: 0,00:01:34.43,00:01:37.76,Default,,0,0,0,,With this gun, I can run away the bacteria
+Dialogue: 0,00:01:38.20,00:01:41.48,Default,,0,0,0,,Take a box and put it in. It’s not good if you find it out by bacteria!
+Dialogue: 0,00:01:43.28,00:01:45.00,Default,,0,0,0,,What’s the special box
+Dialogue: 0,00:01:45.04,00:01:45.84,Default,,0,0,0,,Red?
+Dialogue: 0,00:01:46.12,00:01:48.36,Default,,0,0,0,,See you this important wedding gift
+Dialogue: 0,00:01:48.40,00:01:49.71,Default,,0,0,0,,I’ll feel relieved
+Dialogue: 0,00:01:50.20,00:01:50.76,Default,,0,0,0,,gift…
+Dialogue: 0,00:01:51.40,00:01:53.52,Default,,0,0,0,,I forgot that today is the wedding anniversary!
+Dialogue: 0,00:01:53.56,00:01:55.96,Default,,0,0,0,,Even though they have been insomnia for a few days
+Dialogue: 0,00:01:56.12,00:01:57.76,Default,,0,0,0,,But as long as you have the heart
+Dialogue: 0,00:01:58.12,00:02:00.20,Default,,0,0,0,,Gifts aren’t important anymore
+Dialogue: 0,00:02:02.64,00:02:03.76,Default,,0,0,0,,Wolffy! ! !
+Dialogue: 0,00:02:04.32,00:02:06.60,Default,,0,0,0,,Red This is not a gift
+Dialogue: 0,00:02:07.32,00:02:09.40,Default,,0,0,0,,Actually, I hid the gift
+Dialogue: 0,00:02:09.43,00:02:12.52,Default,,0,0,0,,I want to make you surprised to find me to prepare for it myself!
+Dialogue: 0,00:02:14.72,00:02:15.56,Default,,0,0,0,,Really
+Dialogue: 0,00:02:15.68,00:02:16.72,Default,,0,0,0,,No doubt I’m going to be cheated!
+Dialogue: 0,00:02:17.16,00:02:18.16,Default,,0,0,0,,It’s really really...! !
+Dialogue: 0,00:02:18.80,00:02:21.20,Default,,0,0,0,,Is it romantic to find gifts like this?
+Dialogue: 0,00:02:24.00,00:02:25.60,Default,,0,0,0,,Gifts… Gifts…
+Dialogue: 0,00:02:27.24,00:02:29.84,Default,,0,0,0,,You have to prepare the gifts carefully...
+Dialogue: 0,00:02:29.96,00:02:30.64,Default,,0,0,0,,Red
+Dialogue: 0,00:02:30.68,00:02:32.88,Default,,0,0,0,,I’ll be back soon!
+Dialogue: 0,00:02:37.08,00:02:38.72,Default,,0,0,0,,I like to eat potato slices the most!
+Dialogue: 0,00:02:41.44,00:02:42.44,Default,,0,0,0,,Has anyone come?
+Dialogue: 0,00:02:48.04,00:02:49.60,Default,,0,0,0,,Is it hidden here?
+Dialogue: 0,00:02:50.92,00:02:52.16,Default,,0,0,0,,What is she looking for?
+Dialogue: 0,00:02:57.92,00:02:59.07,Default,,0,0,0,,There is no...
+Dialogue: 0,00:03:00.00,00:03:01.56,Default,,0,0,0,,Where is it hidden
+Dialogue: 0,00:03:02.40,00:03:03.56,Default,,0,0,0,,I don’t want to find it
+Dialogue: 0,00:03:10.07,00:03:11.63,Default,,0,0,0,,Been discovered...?
+Dialogue: 0,00:03:13.76,00:03:15.72,Default,,0,0,0,,Why are there so many potato slices here?
+Dialogue: 0,00:03:16.16,00:03:17.00,Default,,0,0,0,,Put it back
+Dialogue: 0,00:03:17.28,00:03:18.28,Default,,0,0,0,,No! ! !
+Dialogue: 0,00:03:18.84,00:03:20.32,Default,,0,0,0,,Don’t take my potato slices away! !
+Dialogue: 0,00:03:21.07,00:03:23.00,Default,,0,0,0,,Who are you, how come you were here?
+Dialogue: 0,00:03:23.80,00:03:24.76,Default,,0,0,0,,I…
+Dialogue: 0,00:03:27.16,00:03:28.28,Default,,0,0,0,,I am…
+Dialogue: 0,00:03:29.12,00:03:29.80,Default,,0,0,0,,Say it quickly! !
+Dialogue: 0,00:03:29.92,00:03:31.12,Default,,0,0,0,,Otherwise I’ll...
+Dialogue: 0,00:03:31.96,00:03:34.63,Default,,0,0,0,,I am a deformed spirit that can become anything!
+Dialogue: 0,00:03:35.00,00:03:36.20,Default,,0,0,0,,Deformed spirit?!
+Dialogue: 0,00:03:36.63,00:03:37.44,Default,,0,0,0,,Who is the cheating!
+Dialogue: 0,00:03:37.84,00:03:39.48,Default,,0,0,0,,If you don’t believe it, you’ll be optimistic!
+Dialogue: 0,00:03:42.04,00:03:42.32,Default,,0,0,0,,This…
+Dialogue: 0,00:03:42.63,00:03:43.68,Default,,0,0,0,,Diamond ring?!
+Dialogue: 0,00:03:44.72,00:03:45.72,Default,,0,0,0,,So amazing
+Dialogue: 0,00:03:45.76,00:03:48.72,Default,,0,0,0,,Could it be that this is the gift that Wolffy gave me?
+Dialogue: 0,00:03:50.36,00:03:51.20,Default,,0,0,0,,Since that’s the case
+Dialogue: 0,00:03:51.20,00:03:53.72,Default,,0,0,0,,Can you become something else, spirit?
+Dialogue: 0,00:03:53.76,00:03:55.04,Default,,0,0,0,,Of course
+Dialogue: 0,00:04:03.24,00:04:04.36,Default,,0,0,0,,All tired of playing
+Dialogue: 0,00:04:04.68,00:04:06.84,Default,,0,0,0,,- Change the air to cool me up
+-yes!
+Dialogue: 0,00:04:07.44,00:04:08.96,Default,,0,0,0,,The king said it was right!
+Dialogue: 0,00:04:09.00,00:04:10.80,Default,,0,0,0,,This wolf is indeed very scary!
+Dialogue: 0,00:04:18.84,00:04:20.88,Default,,0,0,0,,Come and save me!
+Dialogue: 0,00:04:21.00,00:04:22.76,Default,,0,0,0,,It’s hard to come back yet
+Dialogue: 0,00:04:23.07,00:04:25.28,Default,,0,0,0,,Who is not good to mess with?
+Dialogue: 0,00:04:25.28,00:04:27.32,Default,,0,0,0,,King, what are we doing now?
+Dialogue: 0,00:04:36.16,00:04:37.60,Default,,0,0,0,,Is the strength OK?
+Dialogue: 0,00:04:38.24,00:04:40.04,Default,,0,0,0,,More force, one above
+Dialogue: 0,00:04:40.63,00:04:42.63,Default,,0,0,0,,Xiao Huang is so frustrating!
+Dialogue: 0,00:04:43.04,00:04:43.48,Default,,0,0,0,,Right
+Dialogue: 0,00:04:44.00,00:04:46.36,Default,,0,0,0,,I can control the TV to attract her attention
+Dialogue: 0,00:04:47.60,00:04:49.28,Default,,0,0,0,,Let Xiao Huang have the opportunity to escape
+Dialogue: 0,00:04:49.52,00:04:50.68,Default,,0,0,0,,Good idea
+Dialogue: 0,00:04:52.92,00:04:53.88,Default,,0,0,0,,Want to lose weight?
+Dialogue: 0,00:04:53.96,00:04:55.88,Default,,0,0,0,,Come with me to learn how to lose weight
+Dialogue: 0,00:04:56.04,00:04:57.04,Default,,0,0,0,,Fat do?
+Dialogue: 0,00:04:58.00,00:04:59.20,Default,,0,0,0,,Almost forgot the time!
+Dialogue: 0,00:04:59.60,00:05:03.00,Default,,0,0,0,,One Two Three Four Two Two Three Four
+Dialogue: 0,00:05:03.04,00:05:04.00,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:05:05.40,00:05:06.52,Default,,0,0,0,,The King
+Dialogue: 0,00:05:08.56,00:05:10.16,Default,,0,0,0,,Finally I can take away her!
+Dialogue: 0,00:05:12.80,00:05:14.68,Default,,0,0,0,,I need a hula hoop
+Dialogue: 0,00:05:16.96,00:05:18.04,Default,,0,0,0,,Failed...
+Dialogue: 0,00:05:20.12,00:05:20.72,Default,,0,0,0,,cockroach! !
+Dialogue: 0,00:05:20.76,00:05:21.92,Default,,0,0,0,,Very dirty! !
+Dialogue: 0,00:05:22.56,00:05:24.36,Default,,0,0,0,,Girls are usually afraid of cockroaches
+Dialogue: 0,00:05:29.07,00:05:30.68,Default,,0,0,0,,This king went to scare her
+Dialogue: 0,00:05:33.32,00:05:35.36,Default,,0,0,0,,One Two Three Four
+Dialogue: 0,00:05:35.56,00:05:36.96,Default,,0,0,0,,- The King
+-2 Two
+Dialogue: 0,00:05:46.84,00:05:48.72,Default,,0,0,0,,This queen is the most annoying cockroaches!
+Dialogue: 0,00:05:53.20,00:05:53.88,Default,,0,0,0,,Who is it?
+Dialogue: 0,00:05:57.64,00:05:58.12,Default,,0,0,0,,quilt…
+Dialogue: 0,00:05:58.20,00:05:59.24,Default,,0,0,0,,Been discovered...
+Dialogue: 0,00:06:00.88,00:06:01.28,Default,,0,0,0,,I…
+Dialogue: 0,00:06:01.32,00:06:02.32,Default,,0,0,0,,I am…
+Dialogue: 0,00:06:02.60,00:06:05.28,Default,,0,0,0,,A spirit that can realize you want
+Dialogue: 0,00:06:05.72,00:06:07.20,Default,,0,0,0,,Really hope...?
+Dialogue: 0,00:06:07.32,00:06:09.00,Default,,0,0,0,,Yes...yes
+Dialogue: 0,00:06:11.00,00:06:13.80,Default,,0,0,0,,I can’t tell this is also the gift from Wolffy to me
+Dialogue: 0,00:06:14.60,00:06:17.96,Default,,0,0,0,,Wolffy is going to be surprised
+Dialogue: 0,00:06:19.04,00:06:21.80,Default,,0,0,0,,Then you help me make the house super big!
+Dialogue: 0,00:06:22.04,00:06:23.36,Default,,0,0,0,,no problem!
+Dialogue: 0,00:06:31.12,00:06:32.48,Default,,0,0,0,,Be nervous...
+Dialogue: 0,00:06:36.76,00:06:38.20,Default,,0,0,0,,Dare to cheat me
+Dialogue: 0,00:06:38.56,00:06:39.56,Default,,0,0,0,,Who are you?
+Dialogue: 0,00:06:41.40,00:06:42.92,Default,,0,0,0,,You don’t want to bully my king!
+Dialogue: 0,00:06:43.04,00:06:43.52,Default,,0,0,0,,you…
+Dialogue: 0,00:06:43.84,00:06:45.36,Default,,0,0,0,,Who are you...?
+Dialogue: 0,00:06:46.16,00:06:47.96,Default,,0,0,0,,Spiritual! Help me to clean up him
+Dialogue: 0,00:06:48.56,00:06:49.00,Default,,0,0,0,,yes…
+Dialogue: 0,00:06:50.24,00:06:51.72,Default,,0,0,0,,I’ve suffered!
+Dialogue: 0,00:06:52.48,00:06:53.00,Default,,0,0,0,,what…
+Dialogue: 0,00:06:53.64,00:06:54.24,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:06:54.28,00:06:54.80,Default,,0,0,0,,Little green!
+Dialogue: 0,00:07:03.52,00:07:04.88,Default,,0,0,0,,We three to one
+Dialogue: 0,00:07:05.00,00:07:06.20,Default,,0,0,0,,I’m not afraid of you!
+Dialogue: 0,00:07:06.60,00:07:07.76,Default,,0,0,0,,Take the call!
+Dialogue: 0,00:07:11.20,00:07:13.44,Default,,0,0,0,,Too much energy was consumed today
+Dialogue: 0,00:07:18.56,00:07:20.40,Default,,0,0,0,,Please let us go...
+Dialogue: 0,00:07:20.88,00:07:24.24,Default,,0,0,0,,- Give me a clean place!
+-Yes, yes, yes…!
+Dialogue: 0,00:07:34.08,00:07:35.52,Default,,0,0,0,,What is this?
+Dialogue: 0,00:07:37.08,00:07:38.32,Default,,0,0,0,,I’ll analyze it
+Dialogue: 0,00:07:39.56,00:07:42.68,Default,,0,0,0,,This is a gun that can shoot a rope to tie someone else’s body
+Dialogue: 0,00:07:42.80,00:07:43.68,Default,,0,0,0,,Cable gun?!
+Dialogue: 0,00:07:43.76,00:07:44.56,Default,,0,0,0,,Can it be used?
+Dialogue: 0,00:07:44.64,00:07:47.08,Default,,0,0,0,,It looks like a toy gun
+Dialogue: 0,00:07:50.40,00:07:51.76,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:07:52.32,00:07:53.60,Default,,0,0,0,,Dare to steal
+Dialogue: 0,00:08:02.60,00:08:04.47,Default,,0,0,0,,Can really ejaculate the cable
+Dialogue: 0,00:08:06.04,00:08:07.84,Default,,0,0,0,,If you have this gun, you won’t be afraid of her
+Dialogue: 0,00:08:07.92,00:08:08.64,Default,,0,0,0,,you…
+Dialogue: 0,00:08:08.72,00:08:09.56,Default,,0,0,0,,Do you want to do...
+Dialogue: 0,00:08:14.08,00:08:15.40,Default,,0,0,0,,You’ve been hiding this
+Dialogue: 0,00:08:15.84,00:08:17.12,Default,,0,0,0,,Don’t go too far!
+Dialogue: 0,00:08:19.60,00:08:21.20,Default,,0,0,0,,Mom, I’m back!
+Dialogue: 0,00:08:26.92,00:08:28.28,Default,,0,0,0,,Son, leave here!
+Dialogue: 0,00:08:33.80,00:08:34.68,Default,,0,0,0,,mother!
+Dialogue: 0,00:08:37.20,00:08:37.96,Default,,0,0,0,,Son!
+Dialogue: 0,00:08:40.47,00:08:42.35,Default,,0,0,0,,Wait until Wolffy returns
+Dialogue: 0,00:08:42.56,00:08:44.56,Default,,0,0,0,,Let’s see how he deals with you!
+Dialogue: 0,00:08:45.76,00:08:46.92,Default,,0,0,0,,I’m back!
+Dialogue: 0,00:08:51.84,00:08:52.96,Default,,0,0,0,,Red Red Son
+Dialogue: 0,00:08:53.08,00:08:54.60,Default,,0,0,0,,Why are you being knocked up?
+Dialogue: 0,00:08:58.80,00:09:00.28,Default,,0,0,0,,It turned out to be you!
+Dialogue: 0,00:09:00.56,00:09:03.35,Default,,0,0,0,,I didn’t expect this gun to be quite useful
+Dialogue: 0,00:09:05.16,00:09:07.68,Default,,0,0,0,,How will my rope gun be in your hands!
+Dialogue: 0,00:09:07.96,00:09:09.80,Default,,0,0,0,,What do you want to do!
+Dialogue: 0,00:09:10.08,00:09:12.00,Default,,0,0,0,,Let me open Red and my son!
+Dialogue: 0,00:09:12.16,00:09:14.28,Default,,0,0,0,,Otherwise, you will feel better
+Dialogue: 0,00:09:15.32,00:09:16.60,Default,,0,0,0,,Very verbose
+Dialogue: 0,00:09:16.68,00:09:18.47,Default,,0,0,0,,Look at me sealing your mouth!
+Dialogue: 0,00:09:19.20,00:09:20.16,Default,,0,0,0,,Where is the gun?
+Dialogue: 0,00:09:21.32,00:09:22.96,Default,,0,0,0,,I’ve been tortured for so long
+Dialogue: 0,00:09:23.64,00:09:25.35,Default,,0,0,0,,-Let me come!
+-I want to try it too
+Dialogue: 0,00:09:27.84,00:09:29.44,Default,,0,0,0,,I found the gun first
+Dialogue: 0,00:09:29.47,00:09:30.44,Default,,0,0,0,,Give it to me!
+Dialogue: 0,00:09:37.88,00:09:40.24,Default,,0,0,0,,That is the gift I have worked hard to prepare!
+Dialogue: 0,00:09:41.80,00:09:42.28,Default,,0,0,0,,gift?!
+Dialogue: 0,00:09:42.60,00:09:43.56,Default,,0,0,0,,My gift?
+Dialogue: 0,00:09:45.32,00:09:46.80,Default,,0,0,0,,What a broken thing
+Dialogue: 0,00:09:48.68,00:09:51.40,Default,,0,0,0,,But it’s fine. There’s a broken piece
+Dialogue: 0,00:09:52.44,00:09:54.96,Default,,0,0,0,,Otherwise the butt will bloom
+Dialogue: 0,00:09:57.28,00:09:59.28,Default,,0,0,0,,How can the snail be relaxed
+Dialogue: 0,00:10:00.32,00:10:03.32,Default,,0,0,0,,How dare I mess up my gift...
+Dialogue: 0,00:10:04.52,00:10:07.32,Default,,0,0,0,,Xiao Huang, hurry up and shoot her! !
+Dialogue: 0,00:10:10.96,00:10:11.92,Default,,0,0,0,,It’s really useless!
+Dialogue: 0,00:10:12.00,00:10:12.76,Default,,0,0,0,,Let me come!
+Dialogue: 0,00:10:14.47,00:10:15.40,Default,,0,0,0,,Let me come!
+Dialogue: 0,00:10:21.72,00:10:23.56,Default,,0,0,0,,Been...been opened...
+Dialogue: 0,00:10:23.92,00:10:26.76,Default,,0,0,0,,I won’t... let you go!
+Dialogue: 0,00:10:27.24,00:10:31.32,Default,,0,0,0,,只… 只火!
+Dialogue: 0,00:10:34.64,00:10:35.92,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:10:36.84,00:10:38.92,Default,,0,0,0,,Red, you’re so terrible...
+Dialogue: 0,00:10:39.40,00:10:40.12,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:10:40.72,00:10:42.44,Default,,0,0,0,,Who are these three people?
+Dialogue: 0,00:10:43.00,00:10:44.72,Default,,0,0,0,,I was afraid you were in danger before
+Dialogue: 0,00:10:44.88,00:10:46.52,Default,,0,0,0,,So I haven’t told you
+Dialogue: 0,00:10:46.96,00:10:48.16,Default,,0,0,0,,actually…
+Dialogue: 0,00:10:51.76,00:10:53.40,Default,,0,0,0,,That’s how things are...
+Dialogue: 0,00:10:54.28,00:10:55.92,Default,,0,0,0,,So that’s what happened
+Dialogue: 0,00:10:58.47,00:10:59.60,Default,,0,0,0,,Almost forgot
+Dialogue: 0,00:11:00.24,00:11:01.64,Default,,0,0,0,,My Memorial Gift!
+Dialogue: 0,00:11:06.24,00:11:07.40,Default,,0,0,0,,flower?
+Dialogue: 0,00:11:08.04,00:11:09.84,Default,,0,0,0,,The real gift is definitely below
+Dialogue: 0,00:11:11.24,00:11:11.92,Default,,0,0,0,,Red...
+Dialogue: 0,00:11:13.76,00:11:15.12,Default,,0,0,0,,Sorry Red
+Dialogue: 0,00:11:15.72,00:11:18.56,Default,,0,0,0,,Actually, I’ve been busy inventing it recently
+Dialogue: 0,00:11:19.04,00:11:21.28,Default,,0,0,0,,Forgot today’s wedding anniversary
+Dialogue: 0,00:11:21.47,00:11:23.16,Default,,0,0,0,,This is what I went out to find at the moment
+Dialogue: 0,00:11:23.60,00:11:24.88,Default,,0,0,0,,Is there only flowers?
+Dialogue: 0,00:11:26.00,00:11:27.08,Default,,0,0,0,,And this one
+Dialogue: 0,00:11:27.60,00:11:30.20,Default,,0,0,0,,Didn’t you say you haven’t had a good sleep for a few days?
+Dialogue: 0,00:11:30.64,00:11:33.28,Default,,0,0,0,,So I took honey that can help me sleep
+Dialogue: 0,00:11:34.35,00:11:36.96,Default,,0,0,0,,Even though they have been insomnia for a few days
+Dialogue: 0,00:11:38.28,00:11:39.08,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:41.24,00:11:42.28,Default,,0,0,0,,Your hand...
+Dialogue: 0,00:11:43.52,00:11:46.04,Default,,0,0,0,,There is nothing stinged by bees
+Dialogue: 0,00:11:48.47,00:11:50.04,Default,,0,0,0,,I’ll give you a medicine
+Dialogue: 0,00:11:50.60,00:11:51.32,Default,,0,0,0,,Red...
+Dialogue: 0,00:11:56.72,00:11:59.35,Default,,0,0,0,,You destroyed our wedding anniversary
+Dialogue: 0,00:12:00.35,00:12:01.56,Default,,0,0,0,,Still want to run away?
+Dialogue: 0,00:12:03.60,00:12:07.20,Default,,0,0,0,,Sorry... We are willing to make a cow and horse for you
+Dialogue: 0,00:12:07.24,00:12:08.40,Default,,0,0,0,,That’s not necessary
+Dialogue: 0,00:12:09.52,00:12:10.52,Default,,0,0,0,,Really
+Dialogue: 0,00:12:13.84,00:12:15.72,Default,,0,0,0,,Give me a good supplement!
+Dialogue: 0,00:12:15.88,00:12:17.24,Default,,0,0,0,,yes!
+Dialogue: 0,00:12:21.40,00:12:22.52,Default,,0,0,0,,Red
+Dialogue: 0,00:12:23.64,00:12:24.72,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:12:29.47,00:12:32.68,Default,,0,0,0,,When I unblock the seal, I will make you look good!

@@ -1,0 +1,161 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.32,00:00:19.88,Default,,0,0,0,,Exposed
+Dialogue: 0,00:00:24.92,00:00:27.88,Default,,0,0,0,,Children, do you seem to need help?
+Dialogue: 0,00:00:28.56,00:00:31.64,Default,,0,0,0,,I’ll help cut vegetables! Fast and fast
+Dialogue: 0,00:00:40.72,00:00:43.00,Default,,0,0,0,,The sword goat is great!
+Dialogue: 0,00:00:44.72,00:00:46.52,Default,,0,0,0,,The dishes are cut
+Dialogue: 0,00:00:47.40,00:00:51.00,Default,,0,0,0,,Why did they cut faster than me? It was even more!
+Dialogue: 0,00:00:51.48,00:00:53.48,Default,,0,0,0,,Old man, help me hold it
+Dialogue: 0,00:00:55.32,00:00:57.12,Default,,0,0,0,,It depends on mine when it’s done
+Dialogue: 0,00:00:58.60,00:01:02.32,Default,,0,0,0,,This is my newly developed smart grill
+Dialogue: 0,00:01:02.68,00:01:05.32,Default,,0,0,0,,Really real fireless cooking
+Dialogue: 0,00:01:05.48,00:01:07.52,Default,,0,0,0,,360 degrees of shooting and roasting
+Dialogue: 0,00:01:07.71,00:01:10.92,Default,,0,0,0,,Ensure that every part of the food is heated evenly
+Dialogue: 0,00:01:11.00,00:01:13.71,Default,,0,0,0,,Colorful gold yellow, external burnt and tender
+Dialogue: 0,00:01:14.56,00:01:16.04,Default,,0,0,0,,I want to eat roasted sweet potatoes!
+Dialogue: 0,00:01:16.68,00:01:17.84,Default,,0,0,0,,no problem!
+Dialogue: 0,00:01:21.28,00:01:22.80,Default,,0,0,0,,You’re fine, Mr. Master!
+Dialogue: 0,00:01:22.88,00:01:24.36,Default,,0,0,0,,Is it flickered to the waist?
+Dialogue: 0,00:01:25.92,00:01:27.12,Default,,0,0,0,,no…
+Dialogue: 0,00:01:27.56,00:01:31.88,Default,,0,0,0,,But there is no electricity here and I can’t use my grill
+Dialogue: 0,00:01:32.92,00:01:34.16,Default,,0,0,0,,Come and eat sweet potatoes
+Dialogue: 0,00:01:34.64,00:01:36.80,Default,,0,0,0,,It’s actually baked! ?
+Dialogue: 0,00:01:36.92,00:01:38.32,Default,,0,0,0,,And so many?
+Dialogue: 0,00:01:39.04,00:01:39.96,Default,,0,0,0,,Be careful
+Dialogue: 0,00:01:41.71,00:01:42.88,Default,,0,0,0,,Very burning!
+Dialogue: 0,00:01:42.92,00:01:45.00,Default,,0,0,0,,Why were you so careless?
+Dialogue: 0,00:01:45.36,00:01:48.52,Default,,0,0,0,,I remember there are herbs for treating wounds nearby.
+Dialogue: 0,00:01:48.52,00:01:49.36,Default,,0,0,0,,I’m looking for it
+Dialogue: 0,00:01:52.48,00:01:53.32,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:53.40,00:01:55.00,Default,,0,0,0,,No need to be so troublesome
+Dialogue: 0,00:02:07.12,00:02:09.71,Default,,0,0,0,,The young people are so terrible now
+Dialogue: 0,00:02:10.12,00:02:12.24,Default,,0,0,0,,You can’t accept old age
+Dialogue: 0,00:02:13.68,00:02:15.40,Default,,0,0,0,,I’ll hand it over to you here
+Dialogue: 0,00:02:15.60,00:02:17.48,Default,,0,0,0,,We went for a walk three of us
+Dialogue: 0,00:02:23.72,00:02:24.16,Default,,0,0,0,,The King
+Dialogue: 0,00:02:24.40,00:02:26.88,Default,,0,0,0,,I thought of a way to catch BB Goat!
+Dialogue: 0,00:02:34.60,00:02:38.12,Default,,0,0,0,,The food is cooked and the village chiefs go where are they...
+Dialogue: 0,00:02:39.32,00:02:40.60,Default,,0,0,0,,Keep searching
+Dialogue: 0,00:02:46.80,00:02:48.80,Default,,0,0,0,,Isn’t that the Master’s Water Body?
+Dialogue: 0,00:02:48.88,00:02:50.72,Default,,0,0,0,,Is there an accident?
+Dialogue: 0,00:03:00.92,00:03:03.07,Default,,0,0,0,,We’ve followed
+Dialogue: 0,00:03:08.68,00:03:09.92,Default,,0,0,0,,Prepare it
+Dialogue: 0,00:03:10.00,00:03:11.80,Default,,0,0,0,,You have to go to the next location quickly
+Dialogue: 0,00:03:12.63,00:03:13.40,Default,,0,0,0,,Walk the small road
+Dialogue: 0,00:03:24.60,00:03:25.28,Default,,0,0,0,,…
+Dialogue: 0,00:03:25.36,00:03:26.32,Default,,0,0,0,,Keep up with everyone
+Dialogue: 0,00:03:33.92,00:03:36.32,Default,,0,0,0,,This is the knife in front of the sword goat...
+Dialogue: 0,00:03:41.28,00:03:42.56,Default,,0,0,0,,It hurts so much
+Dialogue: 0,00:03:42.63,00:03:44.36,Default,,0,0,0,,It’s going to stop. Stop!
+Dialogue: 0,00:03:46.40,00:03:47.84,Default,,0,0,0,,BB Goat, stop playing
+Dialogue: 0,00:03:47.92,00:03:49.12,Default,,0,0,0,,Let’s take a look at it in front
+Dialogue: 0,00:03:53.92,00:03:55.12,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:03:55.24,00:03:57.68,Default,,0,0,0,,I have to go to the next place
+Dialogue: 0,00:04:02.07,00:04:03.36,Default,,0,0,0,,There are two roads ahead
+Dialogue: 0,00:04:09.20,00:04:11.44,Default,,0,0,0,,Which line should I go
+Dialogue: 0,00:04:11.80,00:04:13.52,Default,,0,0,0,,Can’t let them go
+Dialogue: 0,00:04:17.44,00:04:18.80,Default,,0,0,0,,So tired...
+Dialogue: 0,00:04:21.28,00:04:23.72,Default,,0,0,0,,You see, it’s the village chief’s crutch
+Dialogue: 0,00:04:25.16,00:04:26.88,Default,,0,0,0,,Something happened to the village chief!
+Dialogue: 0,00:04:27.63,00:04:28.92,Default,,0,0,0,,Why are you still dripping water?
+Dialogue: 0,00:04:29.16,00:04:30.28,Default,,0,0,0,,Everyone, come here
+Dialogue: 0,00:04:30.36,00:04:33.12,Default,,0,0,0,,The village heads must be in trouble now!
+Dialogue: 0,00:04:52.00,00:04:55.04,Default,,0,0,0,,Save for our friends Cheers!
+Dialogue: 0,00:04:55.92,00:04:57.40,Default,,0,0,0,,Cheer!
+Dialogue: 0,00:05:00.96,00:05:02.88,Default,,0,0,0,,It’s getting late
+Dialogue: 0,00:05:03.24,00:05:06.36,Default,,0,0,0,,If the children don’t go back, they will be anxious
+Dialogue: 0,00:05:18.07,00:05:19.36,Default,,0,0,0,,Who is there!
+Dialogue: 0,00:05:26.80,00:05:28.16,Default,,0,0,0,,What’s going on! ! !
+Dialogue: 0,00:05:31.68,00:05:32.84,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:05:32.92,00:05:34.96,Default,,0,0,0,,What happened to the village chiefs?
+Dialogue: 0,00:05:35.52,00:05:38.56,Default,,0,0,0,,Don’t mislead your village chief
+Dialogue: 0,00:05:38.68,00:05:41.04,Default,,0,0,0,,My goal is BB Goat
+Dialogue: 0,00:05:44.07,00:05:45.24,Default,,0,0,0,,Where is BB Goat?
+Dialogue: 0,00:05:47.40,00:05:48.64,Default,,0,0,0,,Here!
+Dialogue: 0,00:05:50.36,00:05:51.88,Default,,0,0,0,,It seems we’ve figured it out
+Dialogue: 0,00:05:52.32,00:05:54.96,Default,,0,0,0,,I just realized it’s too late
+Dialogue: 0,00:06:05.60,00:06:07.12,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:06:07.44,00:06:09.36,Default,,0,0,0,,Let me melt this broken pot
+Dialogue: 0,00:06:24.68,00:06:29.16,Default,,0,0,0,,Useless, this is my specialty
+Ordered high temperature resistant flakes
+Dialogue: 0,00:06:30.64,00:06:32.12,Default,,0,0,0,,Let me use my clone to go out!
+Dialogue: 0,00:06:45.40,00:06:46.68,Default,,0,0,0,,No use either
+Dialogue: 0,00:06:46.92,00:06:49.76,Default,,0,0,0,,The gap in this syllable is also my good
+Dialogue: 0,00:07:18.00,00:07:19.12,Default,,0,0,0,,Little Butterfly
+Dialogue: 0,00:07:19.24,00:07:21.52,Default,,0,0,0,,Is it okay to go find the village chief to save us?
+Dialogue: 0,00:07:21.60,00:07:22.52,Default,,0,0,0,,no problem!
+Dialogue: 0,00:07:32.32,00:07:35.04,Default,,0,0,0,,These butterflies seem to be from Tibbie Sect
+Dialogue: 0,00:07:37.84,00:07:41.47,Default,,0,0,0,,Butterflies, do you want to dance with me?
+Dialogue: 0,00:07:45.56,00:07:48.40,Default,,0,0,0,,They seem to be telling us something
+Dialogue: 0,00:07:48.44,00:07:50.16,Default,,0,0,0,,Are you thinking too much?
+Dialogue: 0,00:07:50.68,00:07:51.44,Default,,0,0,0,,No
+Dialogue: 0,00:07:54.52,00:07:57.32,Default,,0,0,0,,Does he mean to let us go?
+Dialogue: 0,00:07:57.60,00:08:00.64,Default,,0,0,0,,Could it be that Weslie and others have something to do with them, right?
+Dialogue: 0,00:08:05.44,00:08:07.04,Default,,0,0,0,,Take us over quickly
+Dialogue: 0,00:08:10.92,00:08:12.60,Default,,0,0,0,,They’re leading us
+Dialogue: 0,00:08:19.60,00:08:21.32,Default,,0,0,0,,The road was blocked
+Dialogue: 0,00:08:21.64,00:08:23.32,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,00:08:31.92,00:08:33.28,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:08:33.92,00:08:36.76,Default,,0,0,0,,Daoyang Your sword technique is still so darn
+Dialogue: 0,00:08:40.32,00:08:41.80,Default,,0,0,0,,Help
+Dialogue: 0,00:08:48.44,00:08:49.80,Default,,0,0,0,,King Bacteria!
+Dialogue: 0,00:08:50.08,00:08:51.72,Default,,0,0,0,,Who are you talking about?
+Dialogue: 0,00:08:52.35,00:08:54.16,Default,,0,0,0,,No time to explain
+Dialogue: 0,00:08:55.64,00:08:57.04,Default,,0,0,0,,It’s just a bad egg
+Dialogue: 0,00:08:57.35,00:08:59.76,Default,,0,0,0,,He can’t be able to unlock it successfully! but
+Dialogue: 0,00:08:59.92,00:09:01.60,Default,,0,0,0,,How can we go on?
+Dialogue: 0,00:09:01.84,00:09:03.88,Default,,0,0,0,,Fortunately, I haven’t forgotten
+Dialogue: 0,00:09:04.64,00:09:05.68,Default,,0,0,0,,Look at this
+Dialogue: 0,00:09:06.20,00:09:10.04,Default,,0,0,0,,You brought the flying vehicle too
+Dialogue: 0,00:09:12.72,00:09:14.04,Default,,0,0,0,,The Three Guests of the Grassland
+Dialogue: 0,00:09:14.88,00:09:16.00,Default,,0,0,0,,Depart!
+Dialogue: 0,00:09:20.80,00:09:23.35,Default,,0,0,0,,I wonder if the village chief received the signal?
+Dialogue: 0,00:09:26.44,00:09:27.60,Default,,0,0,0,,We’re here!
+Dialogue: 0,00:09:31.60,00:09:33.92,Default,,0,0,0,,King Bacteria, take the call!
+Dialogue: 0,00:09:35.12,00:09:37.08,Default,,0,0,0,,Come on! Village Chief!
+Dialogue: 0,00:09:41.92,00:09:44.64,Default,,0,0,0,,未分! Why are you on the wall?
+Dialogue: 0,00:09:52.00,00:09:55.47,Default,,0,0,0,,I’ll go and save the mutton king.
+Dialogue: 0,00:09:55.68,00:09:56.20,Default,,0,0,0,,good
+Dialogue: 0,00:09:59.72,00:10:00.72,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:10:00.76,00:10:01.28,Default,,0,0,0,,good
+Dialogue: 0,00:10:09.76,00:10:10.68,Default,,0,0,0,,Knife goat!
+Dialogue: 0,00:10:11.04,00:10:13.76,Default,,0,0,0,,You two still have time to care about others
+Dialogue: 0,00:10:19.80,00:10:21.84,Default,,0,0,0,,You are too weak!
+Dialogue: 0,00:10:34.52,00:10:37.24,Default,,0,0,0,,No one can stop me now!
+Dialogue: 0,00:10:42.44,00:10:44.68,Default,,0,0,0,,Master, Village Chief!
+Dialogue: 0,00:10:44.68,00:10:46.08,Default,,0,0,0,,Haven’t been moving for a long time
+Dialogue: 0,00:10:46.44,00:10:48.28,Default,,0,0,0,,The reaction has slowed down
+Dialogue: 0,00:10:51.47,00:10:54.12,Default,,0,0,0,,Yes, it’s time to move
+Dialogue: 0,00:10:57.52,00:10:59.24,Default,,0,0,0,,Lift your head and Weslie!
+Dialogue: 0,00:10:59.44,00:11:01.08,Default,,0,0,0,,We are just getting hot!
+Dialogue: 0,00:11:01.16,00:11:03.12,Default,,0,0,0,,Master, Village Chief!
+Dialogue: 0,00:11:03.96,00:11:06.24,Default,,0,0,0,,Very resistant to punching
+Dialogue: 0,00:11:07.28,00:11:10.24,Default,,0,0,0,,But I just can’t stop me!
+Dialogue: 0,00:11:27.00,00:11:28.32,Default,,0,0,0,,Catch you!
+Dialogue: 0,00:11:32.56,00:11:35.08,Default,,0,0,0,,Please start your performance
+Dialogue: 0,00:11:35.96,00:11:38.44,Default,,0,0,0,,Taishan Pressure Upgrade Edition
+Dialogue: 0,00:11:52.12,00:11:54.12,Default,,0,0,0,,Village Chief, you are so terrible!
+Dialogue: 0,00:11:55.20,00:11:57.12,Default,,0,0,0,,Children, let’s go back
+Dialogue: 0,00:11:58.24,00:12:00.76,Default,,0,0,0,,Village Chief, why are you so bad!
+Dialogue: 0,00:12:01.12,00:12:04.35,Default,,0,0,0,,Let’s talk about our story slowly when you go back
+Dialogue: 0,00:12:05.35,00:12:06.40,Default,,0,0,0,,good!
+Dialogue: 0,00:12:09.24,00:12:11.52,Default,,0,0,0,,That time I got my knife down
+Dialogue: 0,00:12:11.56,00:12:16.64,Default,,0,0,0,,At the same time, the three cannibal trees were left to the end
+Dialogue: 0,00:12:22.35,00:12:25.24,Default,,0,0,0,,Then we went to that cave
+Dialogue: 0,00:12:25.35,00:12:27.47,Default,,0,0,0,,I saw the big spider...
+Dialogue: 0,00:12:28.96,00:12:30.47,Default,,0,0,0,,Why are you falling asleep

@@ -1,0 +1,209 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.25,00:00:23.57,Default,,0,0,0,,There is no dirty person on the entire grassland
+Dialogue: 0,00:00:23.61,00:00:26.09,Default,,0,0,0,,I can’t find anyone to control me!
+Dialogue: 0,00:00:27.77,00:00:30.41,Default,,0,0,0,,Little green! Search for someone I can control
+Dialogue: 0,00:00:32.17,00:00:33.61,Default,,0,0,0,,It’s better to be strong
+Dialogue: 0,00:00:34.93,00:00:36.25,Default,,0,0,0,,Or agile
+Dialogue: 0,00:00:37.46,00:00:38.70,Default,,0,0,0,,Have you heard it clearly?
+Dialogue: 0,00:00:41.05,00:00:43.09,Default,,0,0,0,,Have you heard it?
+Dialogue: 0,00:00:44.41,00:00:46.97,Default,,0,0,0,,The user you are calling is not in the service area
+Dialogue: 0,00:00:47.05,00:00:47.57,Default,,0,0,0,,please…
+Dialogue: 0,00:00:47.73,00:00:50.53,Default,,0,0,0,,Is there anything wrong? Not here at the time of the key! !
+Dialogue: 0,00:00:50.69,00:00:51.41,Default,,0,0,0,,Where is Xiao Huang?
+Dialogue: 0,00:00:54.61,00:00:56.93,Default,,0,0,0,,King, to help you better
+Dialogue: 0,00:00:57.01,00:00:59.65,Default,,0,0,0,,I’m going to attend the International Weapons Exhibition
+Dialogue: 0,00:00:59.69,00:01:02.09,Default,,0,0,0,,There wasn’t a single person! !
+Dialogue: 0,00:01:04.73,00:01:06.89,Default,,0,0,0,,In the end, it’s up to me!
+Dialogue: 0,00:01:09.29,00:01:12.53,Default,,0,0,0,,I’ll leave my house to you for the past few days
+Dialogue: 0,00:01:12.57,00:01:14.05,Default,,0,0,0,,It’s wrapped in me...
+Dialogue: 0,00:01:15.09,00:01:17.17,Default,,0,0,0,,Wilie wants to hear his father!
+Dialogue: 0,00:01:18.77,00:01:20.85,Default,,0,0,0,,- See you again
+- Red and red
+Dialogue: 0,00:01:23.73,00:01:25.61,Default,,0,0,0,,How many days has the Red Red been away from home...
+Dialogue: 0,00:01:26.53,00:01:29.61,Default,,0,0,0,,Finally, I can study my bacteria cleaner with peace of mind
+Dialogue: 0,00:01:29.93,00:01:32.93,Default,,0,0,0,,This time, you must completely eliminate the bacteria!
+Dialogue: 0,00:01:37.41,00:01:39.49,Default,,0,0,0,,Dad, let’s go out to play!
+Dialogue: 0,00:01:46.97,00:01:49.53,Default,,0,0,0,,Be good, son, please play yourself first
+Dialogue: 0,00:01:49.89,00:01:52.37,Default,,0,0,0,,Dad will play with you when he is done. OK
+Dialogue: 0,00:02:18.37,00:02:21.17,Default,,0,0,0,,Be good, son, go out to play first
+Dialogue: 0,00:02:22.17,00:02:24.45,Default,,0,0,0,,But I want to play with my dad...
+Dialogue: 0,00:02:30.93,00:02:32.85,Default,,0,0,0,,It seems that I am the only one who plays it myself
+Dialogue: 0,00:02:56.53,00:02:58.81,Default,,0,0,0,,I have found a dirty one!
+Dialogue: 0,00:03:03.09,00:03:05.61,Default,,0,0,0,,The child is still in good health!
+Dialogue: 0,00:03:06.29,00:03:08.73,Default,,0,0,0,,Very powerful
+Dialogue: 0,00:03:08.77,00:03:11.65,Default,,0,0,0,,I’m going to try this kid’s ability tightly!
+Dialogue: 0,00:03:12.17,00:03:13.45,Default,,0,0,0,,Just it!
+Dialogue: 0,00:03:24.97,00:03:26.49,Default,,0,0,0,,It hurts so much! !
+Dialogue: 0,00:03:30.21,00:03:32.01,Default,,0,0,0,,Does this kid like to play football?
+Dialogue: 0,00:03:32.25,00:03:33.73,Default,,0,0,0,,That must be running very fast
+Dialogue: 0,00:03:34.29,00:03:35.21,Default,,0,0,0,,Try it out!
+Dialogue: 0,00:03:45.85,00:03:47.25,Default,,0,0,0,,Why don’t you look at the road?
+Dialogue: 0,00:03:48.29,00:03:50.69,Default,,0,0,0,,It was you who bumped into me first!
+Dialogue: 0,00:03:56.37,00:03:58.17,Default,,0,0,0,,So cute! !
+Dialogue: 0,00:03:58.89,00:04:00.05,Default,,0,0,0,,Forget it, forget it...
+Dialogue: 0,00:04:00.09,00:04:04.13,Default,,0,0,0,,You were also accidentally, do you want to eat ice cream?
+Dialogue: 0,00:04:05.93,00:04:07.97,Default,,0,0,0,,Little brother, see you again!
+Dialogue: 0,00:04:08.61,00:04:09.73,Default,,0,0,0,,That’s OK...?
+Dialogue: 0,00:04:10.45,00:04:12.97,Default,,0,0,0,,It turns out that this child’s ability is cute
+Dialogue: 0,00:04:20.09,00:04:21.69,Default,,0,0,0,,Brother and sister of the lamb
+Dialogue: 0,00:04:22.65,00:04:23.85,Default,,0,0,0,,I’ll play together too!
+Dialogue: 0,00:04:23.89,00:04:24.81,Default,,0,0,0,,It’s Wilie
+Dialogue: 0,00:04:25.37,00:04:26.41,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:04:27.09,00:04:29.13,Default,,0,0,0,,I want to play your treasured remote control
+Dialogue: 0,00:04:30.49,00:04:31.73,Default,,0,0,0,,So cute!
+Dialogue: 0,00:04:32.21,00:04:34.01,Default,,0,0,0,,I’ll get it now!
+Dialogue: 0,00:04:34.65,00:04:35.93,Default,,0,0,0,,Brother Sparky
+Dialogue: 0,00:04:36.09,00:04:38.17,Default,,0,0,0,,Can you help me pick up a flower?
+Dialogue: 0,00:04:39.17,00:04:40.65,Default,,0,0,0,,Where is it?
+Dialogue: 0,00:04:41.13,00:04:42.25,Default,,0,0,0,,Where is it!
+Dialogue: 0,00:04:44.45,00:04:45.69,Default,,0,0,0,,no problem!
+Dialogue: 0,00:04:46.53,00:04:48.97,Default,,0,0,0,,Brother Qingyangyang I want to eat cake!
+Dialogue: 0,00:04:49.25,00:04:50.89,Default,,0,0,0,,good! I’ll do it now
+Dialogue: 0,00:04:51.13,00:04:53.21,Default,,0,0,0,,Sister, I want a rag doll
+Dialogue: 0,00:04:53.57,00:04:54.89,Default,,0,0,0,,good! Let’s get it!
+Dialogue: 0,00:04:57.61,00:05:00.45,Default,,0,0,0,,Now... no one will come to fight me!
+Dialogue: 0,00:05:01.41,00:05:02.41,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:05:03.49,00:05:05.21,Default,,0,0,0,,Come with me, okay?
+Dialogue: 0,00:05:07.29,00:05:08.57,Default,,0,0,0,,Brother Wilie...
+Dialogue: 0,00:05:09.33,00:05:12.17,Default,,0,0,0,,Your eyes are so big, is it because you have entered the sand?
+Dialogue: 0,00:05:12.69,00:05:14.65,Default,,0,0,0,,BB Goat is so cute!
+Dialogue: 0,00:05:16.05,00:05:17.57,Default,,0,0,0,,No! What? What’s going on?
+Dialogue: 0,00:05:21.17,00:05:24.33,Default,,0,0,0,,Why is it useless for younger children?
+Dialogue: 0,00:05:26.33,00:05:27.61,Default,,0,0,0,,It seems that I can only get tough!
+Dialogue: 0,00:05:28.73,00:05:29.65,Default,,0,0,0,,Come with me!
+Dialogue: 0,00:05:30.05,00:05:31.09,Default,,0,0,0,,Small gray
+Dialogue: 0,00:05:32.97,00:05:33.97,Default,,0,0,0,,Weslie! ?
+Dialogue: 0,00:05:34.13,00:05:35.49,Default,,0,0,0,,The remote control you want
+Dialogue: 0,00:05:35.97,00:05:37.29,Default,,0,0,0,,Small gray
+Dialogue: 0,00:05:37.41,00:05:38.85,Default,,0,0,0,,- The flowers you want!
+- The cake you want!
+Dialogue: 0,00:05:38.89,00:05:40.13,Default,,0,0,0,,The remote control you want
+Dialogue: 0,00:05:40.25,00:05:41.05,Default,,0,0,0,,The toy you want!
+Dialogue: 0,00:05:41.09,00:05:42.29,Default,,0,0,0,,I want to play together, too!
+Dialogue: 0,00:05:43.93,00:05:44.81,Default,,0,0,0,,It’s over!
+Dialogue: 0,00:05:44.85,00:05:47.53,Default,,0,0,0,,Let me play alone with BB Goat! ! Is it OK?
+Dialogue: 0,00:05:49.01,00:05:50.65,Default,,0,0,0,,Of course it’s OK
+Dialogue: 0,00:05:51.33,00:05:52.37,Default,,0,0,0,,BB Goat, let’s go!
+Dialogue: 0,00:05:53.85,00:05:55.89,Default,,0,0,0,,Let’s go to a more fun place
+Dialogue: 0,00:05:57.45,00:05:58.37,Default,,0,0,0,,no
+Dialogue: 0,00:05:58.41,00:06:01.57,Default,,0,0,0,,Brother Weslie said that you can’t go back too late...
+Dialogue: 0,00:06:02.09,00:06:02.65,Default,,0,0,0,,That…
+Dialogue: 0,00:06:04.17,00:06:06.61,Default,,0,0,0,,Then you come here tomorrow and I will take you there!
+Dialogue: 0,00:06:07.69,00:06:08.73,Default,,0,0,0,,OK OK OK!
+Dialogue: 0,00:06:09.49,00:06:11.29,Default,,0,0,0,,Don’t tell anyone else
+Dialogue: 0,00:06:11.77,00:06:13.37,Default,,0,0,0,,These are our two secrets
+Dialogue: 0,00:06:20.45,00:06:24.29,Default,,0,0,0,,The bacteria cleaner is made! It depends on where you run away!
+Dialogue: 0,00:06:32.13,00:06:34.69,Default,,0,0,0,,Scan complete No bacteria found
+Dialogue: 0,00:06:35.41,00:06:36.89,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:06:38.73,00:06:41.29,Default,,0,0,0,,germ! Come out if you have the ability!
+Dialogue: 0,00:06:44.09,00:06:44.81,Default,,0,0,0,,no
+Dialogue: 0,00:06:46.13,00:06:47.89,Default,,0,0,0,,Could it be that they moved away?
+Dialogue: 0,00:06:48.77,00:06:51.89,Default,,0,0,0,,Very good! Finally, I can calm down!
+Dialogue: 0,00:06:52.01,00:06:53.13,Default,,0,0,0,,No
+Dialogue: 0,00:06:56.25,00:06:58.01,Default,,0,0,0,,This is too quiet
+Dialogue: 0,00:06:58.93,00:07:00.93,Default,,0,0,0,,Right! Where is the son?
+Dialogue: 0,00:07:01.73,00:07:04.01,Default,,0,0,0,,Little Huihui! Where are you?
+Dialogue: 0,00:07:04.77,00:07:06.09,Default,,0,0,0,,I’m back
+Dialogue: 0,00:07:06.61,00:07:08.61,Default,,0,0,0,,Son...where have you been?
+Dialogue: 0,00:07:08.77,00:07:10.49,Default,,0,0,0,,Why is your body so dirty?
+Dialogue: 0,00:07:11.09,00:07:13.29,Default,,0,0,0,,How about dad help you take a shower
+Dialogue: 0,00:07:13.41,00:07:16.21,Default,,0,0,0,,How can I control Wilie after washing it!
+Dialogue: 0,00:07:16.77,00:07:18.45,Default,,0,0,0,,Don’t wash! I won’t wash it!
+Dialogue: 0,00:07:19.29,00:07:20.05,Default,,0,0,0,,no!
+Dialogue: 0,00:07:20.05,00:07:22.17,Default,,0,0,0,,If you become dirty, you have to wash it
+Dialogue: 0,00:07:25.81,00:07:26.45,Default,,0,0,0,,I won’t wash it!
+Dialogue: 0,00:07:32.77,00:07:35.05,Default,,0,0,0,,Son! Stop being rude! Go and take a shower!
+Dialogue: 0,00:07:36.33,00:07:38.41,Default,,0,0,0,,It’s absolutely impossible for Wolffy to succeed!
+Dialogue: 0,00:07:38.81,00:07:41.37,Default,,0,0,0,,I don’t want to take a shower, okay?
+Dialogue: 0,00:07:43.93,00:07:47.93,Default,,0,0,0,,Of course it’s OK if you want to wash it
+Dialogue: 0,00:07:48.57,00:07:49.81,Default,,0,0,0,,Get some food quickly
+Dialogue: 0,00:07:51.13,00:07:53.61,Default,,0,0,0,,How can you talk to your dad like this
+Dialogue: 0,00:07:53.61,00:07:54.57,Default,,0,0,0,,I’m tired!
+Dialogue: 0,00:07:54.57,00:07:55.37,Default,,0,0,0,,OK OK OK OK...
+Dialogue: 0,00:07:55.49,00:07:56.97,Default,,0,0,0,,I’ll make you a meal!
+Dialogue: 0,00:07:58.53,00:08:00.97,Default,,0,0,0,,It seems that controlling Wilie is also good!
+Dialogue: 0,00:08:12.61,00:08:14.53,Default,,0,0,0,,My son is so abnormal today
+Dialogue: 0,00:08:15.05,00:08:17.17,Default,,0,0,0,,Dad, let’s go out to play?
+Dialogue: 0,00:08:17.21,00:08:18.61,Default,,0,0,0,,You go outside to play first
+Dialogue: 0,00:08:19.97,00:08:23.29,Default,,0,0,0,,Is it hard to tell if I didn’t play with him so I was angry?
+Dialogue: 0,00:08:23.53,00:08:25.37,Default,,0,0,0,,I will definitely accompany him tomorrow!
+Dialogue: 0,00:08:33.69,00:08:34.65,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:35.25,00:08:37.37,Default,,0,0,0,,Brother Wilie! You are here!
+Dialogue: 0,00:08:37.57,00:08:40.21,Default,,0,0,0,,Finally, it can be unblocked!
+Dialogue: 0,00:08:40.77,00:08:42.41,Default,,0,0,0,,Then let’s go!
+Dialogue: 0,00:08:42.53,00:08:43.53,Default,,0,0,0,,good!
+Dialogue: 0,00:08:45.93,00:08:48.13,Default,,0,0,0,,Wolffy! What are you here to do?
+Dialogue: 0,00:08:49.09,00:08:50.49,Default,,0,0,0,,What did you call me?
+Dialogue: 0,00:08:50.77,00:08:54.61,Default,,0,0,0,,I won’t call you Wolffy! Do you want me to call you dad? !
+Dialogue: 0,00:08:55.13,00:08:55.89,Default,,0,0,0,,No!
+Dialogue: 0,00:08:56.97,00:08:58.05,Default,,0,0,0,,Son...
+Dialogue: 0,00:08:59.21,00:09:01.05,Default,,0,0,0,,This will be discovered...
+Dialogue: 0,00:09:01.81,00:09:03.29,Default,,0,0,0,,Dad... Dad
+Dialogue: 0,00:09:06.05,00:09:09.45,Default,,0,0,0,,Son, Daddy has been playing with you all day today. OK!
+Dialogue: 0,00:09:11.61,00:09:13.09,Default,,0,0,0,,You go and do the invention
+Dialogue: 0,00:09:13.13,00:09:15.17,Default,,0,0,0,,I’ll just play with BB Goat
+Dialogue: 0,00:09:15.29,00:09:17.29,Default,,0,0,0,,No, it is more important to accompany you!
+Dialogue: 0,00:09:20.65,00:09:22.29,Default,,0,0,0,,Then help me get that ball!
+Dialogue: 0,00:09:25.41,00:09:27.45,Default,,0,0,0,,Son, the air ball you want
+Dialogue: 0,00:09:27.77,00:09:29.45,Default,,0,0,0,,I want to have ice cream!
+Dialogue: 0,00:09:30.13,00:09:32.33,Default,,0,0,0,,Son, the ice cream you ate is here!
+Dialogue: 0,00:09:32.37,00:09:33.89,Default,,0,0,0,,I want to eat fruit!
+Dialogue: 0,00:09:34.29,00:09:36.13,Default,,0,0,0,,Son, the fruit is here!
+Dialogue: 0,00:09:36.29,00:09:37.09,Default,,0,0,0,,Don’t want it!
+Dialogue: 0,00:09:37.89,00:09:40.65,Default,,0,0,0,,Son, slow down! Be careful of falling!
+Dialogue: 0,00:09:41.17,00:09:42.85,Default,,0,0,0,,Then don’t chase us!
+Dialogue: 0,00:09:42.89,00:09:44.61,Default,,0,0,0,,right! Don’t chase us!
+Dialogue: 0,00:09:50.49,00:09:53.29,Default,,0,0,0,,Not good! Weslie!
+Dialogue: 0,00:09:55.77,00:09:57.45,Default,,0,0,0,,Little Huihui! Wait for me!
+Dialogue: 0,00:09:57.85,00:09:59.93,Default,,0,0,0,,Don’t chase us anymore!
+Dialogue: 0,00:10:01.93,00:10:03.01,Default,,0,0,0,,Son!
+Dialogue: 0,00:10:06.89,00:10:08.81,Default,,0,0,0,,Save us now
+Dialogue: 0,00:10:09.05,00:10:12.17,Default,,0,0,0,,Don’t be afraid, I will save you!
+Dialogue: 0,00:10:16.13,00:10:19.25,Default,,0,0,0,,It’s a little bit short...
+Dialogue: 0,00:10:29.37,00:10:31.85,Default,,0,0,0,,Very...
+Dialogue: 0,00:10:41.37,00:10:42.77,Default,,0,0,0,,You’re fine! ?
+Dialogue: 0,00:10:42.97,00:10:43.93,Default,,0,0,0,,We’re fine
+Dialogue: 0,00:10:45.29,00:10:47.77,Default,,0,0,0,,If you too much, we’re fine...
+Dialogue: 0,00:10:49.09,00:10:50.57,Default,,0,0,0,,What... What?
+Dialogue: 0,00:10:51.61,00:10:54.93,Default,,0,0,0,,Frustrated bacteria We won’t let you catch BB Goat!
+Dialogue: 0,00:11:03.89,00:11:07.37,Default,,0,0,0,,It seems that I can’t unblock this time. I’ll find a chance to withdraw
+Dialogue: 0,00:11:07.41,00:11:08.45,Default,,0,0,0,,You are calm!
+Dialogue: 0,00:11:08.53,00:11:12.09,Default,,0,0,0,,This... This is my new invention
+Can find out the details...
+Dialogue: 0,00:11:12.85,00:11:14.81,Default,,0,0,0,,We won’t be cheated by you
+Dialogue: 0,00:11:15.29,00:11:17.77,Default,,0,0,0,,I’m not controlled!
+Dialogue: 0,00:11:25.29,00:11:28.01,Default,,0,0,0,,Look, I’ve said that I’m not under control!
+Dialogue: 0,00:11:28.05,00:11:30.29,Default,,0,0,0,,sorry! sorry
+Dialogue: 0,00:11:31.01,00:11:32.37,Default,,0,0,0,,Where are my sons going?
+Dialogue: 0,00:11:34.05,00:11:35.73,Default,,0,0,0,,Son? Where are you?
+Dialogue: 0,00:11:40.05,00:11:42.41,Default,,0,0,0,,Little Huihui! Why are you back by yourself!
+Dialogue: 0,00:11:46.73,00:11:49.33,Default,,0,0,0,,People... They want to go home
+Take something to save you!
+Dialogue: 0,00:11:49.97,00:11:52.01,Default,,0,0,0,,My son is so good
+Dialogue: 0,00:11:52.53,00:11:57.13,Default,,0,0,0,,It’s daddy who is wrong
+I just want to make a bacteria cleaner and don’t take good care of you!
+Dialogue: 0,00:11:57.37,00:11:58.61,Default,,0,0,0,,Bacterial cleaner?
+Dialogue: 0,00:11:59.61,00:12:03.53,Default,,0,0,0,,Yes, just press it lightly
+Automatically run bacteria!
+Dialogue: 0,00:12:07.85,00:12:08.97,Default,,0,0,0,,Discovered bacteria
+Dialogue: 0,00:12:09.41,00:12:10.45,Default,,0,0,0,,what!
+Dialogue: 0,00:12:10.53,00:12:12.33,Default,,0,0,0,,It turns out you are on my son!
+Dialogue: 0,00:12:19.05,00:12:22.53,Default,,0,0,0,,It’s hard to blame my son for being weird before! It turns out you are controlling him!
+Dialogue: 0,00:12:24.41,00:12:27.89,Default,,0,0,0,,I’m so cute.
+Dialogue: 0,00:12:28.33,00:12:29.33,Default,,0,0,0,,Make a dream!
+Dialogue: 0,00:12:31.69,00:12:32.57,Default,,0,0,0,,Don’t run

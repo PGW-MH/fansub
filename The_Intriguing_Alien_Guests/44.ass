@@ -1,0 +1,225 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.89,00:00:21.21,Default,,0,0,0,,We’ve been here recently
+Dialogue: 0,00:00:21.25,00:00:23.61,Default,,0,0,0,,There is a strange male goat looking for her sister
+Dialogue: 0,00:00:23.65,00:00:25.89,Default,,0,0,0,,Maybe it’s the goat you’re looking for
+Dialogue: 0,00:00:26.01,00:00:26.69,Default,,0,0,0,,Really?
+Dialogue: 0,00:00:26.73,00:00:27.93,Default,,0,0,0,,We’re here right now
+Dialogue: 0,00:00:30.81,00:00:31.61,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:31.73,00:00:33.29,Default,,0,0,0,,We’re about to find your brother!
+Dialogue: 0,00:00:33.33,00:00:34.53,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:34.57,00:00:36.05,Default,,0,0,0,,I’m going to find my brother!
+Dialogue: 0,00:00:37.29,00:00:38.37,Default,,0,0,0,,Let’s go out quickly!
+Dialogue: 0,00:00:44.89,00:00:45.57,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:00:45.61,00:00:46.93,Default,,0,0,0,,You have a good rest
+Dialogue: 0,00:00:47.17,00:00:48.01,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:00:49.41,00:00:50.53,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:00:54.73,00:00:55.53,Default,,0,0,0,,All right
+Dialogue: 0,00:00:57.57,00:00:59.77,Default,,0,0,0,,Village Chief, see you again!
+Dialogue: 0,00:01:06.45,00:01:08.41,Default,,0,0,0,,Where are the cold medicines?
+Dialogue: 0,00:01:19.81,00:01:21.33,Default,,0,0,0,,It seems that someone is following us...
+Dialogue: 0,00:01:28.13,00:01:29.13,Default,,0,0,0,,Village chief?
+Dialogue: 0,00:01:30.37,00:01:31.77,Default,,0,0,0,,I’m still worried
+Dialogue: 0,00:01:31.77,00:01:32.85,Default,,0,0,0,,Let you go by yourself...
+Dialogue: 0,00:01:32.89,00:01:34.61,Default,,0,0,0,,But you’re still sick...
+Dialogue: 0,00:01:35.61,00:01:36.97,Default,,0,0,0,,Is my illness bad?
+Dialogue: 0,00:01:36.97,00:01:37.69,Default,,0,0,0,,Let’s go quickly!
+Dialogue: 0,00:01:48.01,00:01:49.93,Default,,0,0,0,,It seems they have no doubts...
+Dialogue: 0,00:01:52.85,00:01:54.21,Default,,0,0,0,,The king successfully got in
+Dialogue: 0,00:01:54.25,00:01:55.57,Default,,0,0,0,,We follow the plan
+Dialogue: 0,00:01:56.45,00:01:59.09,Default,,0,0,0,,I’m slow to get close to BB Goat
+Dialogue: 0,00:01:59.77,00:02:01.61,Default,,0,0,0,,You’ll delay the lambs
+Dialogue: 0,00:02:01.61,00:02:03.09,Default,,0,0,0,,Give me time to unblock
+Dialogue: 0,00:02:03.29,00:02:04.77,Default,,0,0,0,,Yes, king!
+Dialogue: 0,00:02:12.69,00:02:15.01,Default,,0,0,0,,I heard the strange goat looking for my sister
+Dialogue: 0,00:02:15.05,00:02:16.77,Default,,0,0,0,,Have you been around here recently
+Dialogue: 0,00:02:16.81,00:02:18.37,Default,,0,0,0,,Let’s find it in a quick way!
+Dialogue: 0,00:02:22.65,00:02:23.89,Default,,0,0,0,,I’m in my old age
+Dialogue: 0,00:02:23.93,00:02:25.29,Default,,0,0,0,,It’s a bit tired to run...
+Dialogue: 0,00:02:25.81,00:02:28.33,Default,,0,0,0,,Why don’t I stay here for rest?
+Dialogue: 0,00:02:29.09,00:02:29.69,Default,,0,0,0,,Yes
+Dialogue: 0,00:02:29.73,00:02:31.29,Default,,0,0,0,,We ran around with BB Goat
+Dialogue: 0,00:02:31.29,00:02:32.25,Default,,0,0,0,,Not convenient
+Dialogue: 0,00:02:34.09,00:02:34.93,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:02:34.97,00:02:35.69,Default,,0,0,0,,You stay here
+Dialogue: 0,00:02:35.69,00:02:37.05,Default,,0,0,0,,Is it good to accompany the Slowy?
+Dialogue: 0,00:02:37.13,00:02:37.93,Default,,0,0,0,,OK!
+Dialogue: 0,00:02:39.73,00:02:40.69,Default,,0,0,0,,Then we’re leaving!
+Dialogue: 0,00:02:43.97,00:02:44.81,Default,,0,0,0,,You must be careful
+Dialogue: 0,00:02:44.85,00:02:45.81,Default,,0,0,0,,King Bacteria!
+Dialogue: 0,00:02:46.17,00:02:47.25,Default,,0,0,0,,knew
+Dialogue: 0,00:02:48.33,00:02:49.89,Default,,0,0,0,,Finally all left
+Dialogue: 0,00:02:53.77,00:02:54.69,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:02:54.69,00:02:56.37,Default,,0,0,0,,Why don’t you go together?
+Dialogue: 0,00:02:57.57,00:02:59.17,Default,,0,0,0,,I’m in my old age too
+Dialogue: 0,00:02:59.25,00:03:01.01,Default,,0,0,0,,Stay here to accompany your children
+Dialogue: 0,00:03:03.97,00:03:05.93,Default,,0,0,0,,How to take BB Goat away...
+Dialogue: 0,00:03:13.61,00:03:15.17,Default,,0,0,0,,BB Goat caught a cold
+Dialogue: 0,00:03:15.17,00:03:16.69,Default,,0,0,0,,I’ll take her back to take medicine!
+Dialogue: 0,00:03:22.05,00:03:23.53,Default,,0,0,0,,Don’t be that irritating
+Dialogue: 0,00:03:23.57,00:03:25.17,Default,,0,0,0,,I have cold tea here
+Dialogue: 0,00:03:30.65,00:03:32.57,Default,,0,0,0,,There are so many mosquitoes here
+Dialogue: 0,00:03:34.29,00:03:36.09,Default,,0,0,0,,Let’s go back and get the mosquito drive liquid!
+Dialogue: 0,00:03:41.49,00:03:42.33,Default,,0,0,0,,I have!
+Dialogue: 0,00:03:44.61,00:03:46.13,Default,,0,0,0,,Is there any shading?
+Dialogue: 0,00:03:46.85,00:03:47.49,Default,,0,0,0,,have!
+Dialogue: 0,00:03:48.17,00:03:49.69,Default,,0,0,0,,Is there any food?
+Dialogue: 0,00:03:50.21,00:03:50.73,Default,,0,0,0,,have!
+Dialogue: 0,00:03:51.77,00:03:53.29,Default,,0,0,0,,water! Lighting bubbles!
+Dialogue: 0,00:03:53.93,00:03:54.57,Default,,0,0,0,,have!
+Dialogue: 0,00:03:55.61,00:03:57.21,Default,,0,0,0,,Rub...the washboard!
+Dialogue: 0,00:03:59.09,00:04:00.97,Default,,0,0,0,,It seems that this really doesn’t exist...
+Dialogue: 0,00:04:02.97,00:04:04.29,Default,,0,0,0,,Ice...BB Goat
+Dialogue: 0,00:04:04.37,00:04:05.61,Default,,0,0,0,,Let’s go back and get it...
+Dialogue: 0,00:04:06.57,00:04:08.93,Default,,0,0,0,,But what to do with a washboard?
+Dialogue: 0,00:04:09.17,00:04:09.97,Default,,0,0,0,,Yes
+Dialogue: 0,00:04:10.01,00:04:11.41,Default,,0,0,0,,What to use it to do?
+Dialogue: 0,00:04:13.41,00:04:14.69,Default,,0,0,0,,Washing clothes?
+Dialogue: 0,00:04:18.77,00:04:19.81,Default,,0,0,0,,Said it earlier
+Dialogue: 0,00:04:19.85,00:04:21.21,Default,,0,0,0,,I brought a washing machine!
+Dialogue: 0,00:04:23.77,00:04:25.45,Default,,0,0,0,,You think so thoughtfully...
+Dialogue: 0,00:04:25.93,00:04:26.81,Default,,0,0,0,,Always slow
+Dialogue: 0,00:04:26.81,00:04:28.33,Default,,0,0,0,,Do you still remember this place?
+Dialogue: 0,00:04:28.41,00:04:29.85,Default,,0,0,0,,When we were young...
+Dialogue: 0,00:04:31.45,00:04:32.97,Default,,0,0,0,,Can’t cause suspicion
+Dialogue: 0,00:04:33.41,00:04:35.57,Default,,0,0,0,,Remember we’ve been there
+Dialogue: 0,00:04:37.57,00:04:38.21,Default,,0,0,0,,No
+Dialogue: 0,00:04:38.25,00:04:39.73,Default,,0,0,0,,That time I was the only one who came
+Dialogue: 0,00:04:39.77,00:04:41.01,Default,,0,0,0,,Because you...
+Dialogue: 0,00:04:41.33,00:04:43.09,Default,,0,0,0,,I’m sick and can’t come
+Dialogue: 0,00:04:43.69,00:04:44.49,Default,,0,0,0,,No
+Dialogue: 0,00:04:44.53,00:04:46.25,Default,,0,0,0,,You said you want to have a test
+Dialogue: 0,00:04:46.45,00:04:48.01,Default,,0,0,0,,Why are you wrong?
+Dialogue: 0,00:04:49.65,00:04:50.13,Default,,0,0,0,,Old
+Dialogue: 0,00:04:50.17,00:04:52.33,Default,,0,0,0,,My memory is really not as good as yours
+Dialogue: 0,00:04:52.37,00:04:53.41,Default,,0,0,0,,Come BB Goat
+Dialogue: 0,00:04:53.45,00:04:54.29,Default,,0,0,0,,I’ll play with you
+Dialogue: 0,00:04:58.05,00:04:59.85,Default,,0,0,0,,Why did Lao Ku call me a knife goat
+Dialogue: 0,00:05:00.09,00:05:01.53,Default,,0,0,0,,It’s acting weird
+Dialogue: 0,00:05:01.57,00:05:02.49,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:05:04.97,00:05:07.13,Default,,0,0,0,,Brother BB Goat?
+Dialogue: 0,00:05:07.17,00:05:09.37,Default,,0,0,0,,Brother BB Goat!
+Dialogue: 0,00:05:09.41,00:05:11.97,Default,,0,0,0,,Brother BB Goat!
+Dialogue: 0,00:05:12.37,00:05:13.61,Default,,0,0,0,,Everyone knows how to act!
+Dialogue: 0,00:05:13.61,00:05:14.53,Default,,0,0,0,,Procrastinate!
+Dialogue: 0,00:05:17.05,00:05:20.97,Default,,0,0,0,,Have you ever seen BB Goat’s brother?
+Dialogue: 0,00:05:39.25,00:05:40.25,Default,,0,0,0,,How do you feel
+Dialogue: 0,00:05:40.29,00:05:41.97,Default,,0,0,0,,Always come back to circle here?
+Dialogue: 0,00:05:42.89,00:05:43.69,Default,,0,0,0,,Let’s talk about it
+Dialogue: 0,00:05:43.73,00:05:45.41,Default,,0,0,0,,Just now those people look familiar
+Dialogue: 0,00:05:47.53,00:05:49.29,Default,,0,0,0,,See how you find Brother BB Goat
+Dialogue: 0,00:05:49.29,00:05:50.29,Default,,0,0,0,,Bingbing!
+Dialogue: 0,00:05:57.69,00:05:59.41,Default,,0,0,0,,Are you looking for a sister?
+Dialogue: 0,00:06:00.53,00:06:02.61,Default,,0,0,0,,Yes! but…
+Dialogue: 0,00:06:02.85,00:06:05.53,Default,,0,0,0,,Great, finally found it!
+Dialogue: 0,00:06:06.45,00:06:07.41,Default,,0,0,0,,elder brother!
+Dialogue: 0,00:06:08.01,00:06:08.97,Default,,0,0,0,,Little Bingbing!
+Dialogue: 0,00:06:12.45,00:06:13.69,Default,,0,0,0,,This is...
+Dialogue: 0,00:06:14.33,00:06:15.77,Default,,0,0,0,,This is my sister
+Dialogue: 0,00:06:15.89,00:06:17.45,Default,,0,0,0,,I’ve found her
+Dialogue: 0,00:06:17.53,00:06:18.93,Default,,0,0,0,,Thank you for caring
+Dialogue: 0,00:06:22.49,00:06:23.77,Default,,0,0,0,,It turns out that something is wrong...
+Dialogue: 0,00:06:23.81,00:06:24.53,Default,,0,0,0,,Go back...
+Dialogue: 0,00:06:28.29,00:06:29.45,Default,,0,0,0,,They are going back!
+Dialogue: 0,00:06:29.49,00:06:30.93,Default,,0,0,0,,Find a way to hold them back!
+Dialogue: 0,00:06:31.41,00:06:33.09,Default,,0,0,0,,They will recognize ours
+Dialogue: 0,00:06:34.05,00:06:35.09,Default,,0,0,0,,I have a way
+Dialogue: 0,00:06:55.29,00:06:56.29,Default,,0,0,0,,It hurts so much...
+Dialogue: 0,00:06:58.21,00:06:59.49,Default,,0,0,0,,You’re fine, right?
+Dialogue: 0,00:06:59.57,00:07:00.93,Default,,0,0,0,,My feet twisted...
+Dialogue: 0,00:07:02.85,00:07:04.97,Default,,0,0,0,,Why do there seem to be two sounds?
+Dialogue: 0,00:07:05.81,00:07:07.65,Default,,0,0,0,,My throat is a little uncomfortable
+Dialogue: 0,00:07:09.85,00:07:10.25,Default,,0,0,0,,Come
+Dialogue: 0,00:07:10.33,00:07:11.61,Default,,0,0,0,,I’ll help you up first!
+Dialogue: 0,00:07:12.97,00:07:14.01,Default,,0,0,0,,thank you!
+Dialogue: 0,00:07:16.21,00:07:17.33,Default,,0,0,0,,How come there are three hands!
+Dialogue: 0,00:07:20.21,00:07:21.89,Default,,0,0,0,,You...you’re wrong?
+Dialogue: 0,00:07:27.61,00:07:30.49,Default,,0,0,0,,It hurts so much...!
+Dialogue: 0,00:07:30.53,00:07:31.37,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:07:33.69,00:07:34.73,Default,,0,0,0,,Since it has been exposed
+Dialogue: 0,00:07:34.73,00:07:35.41,Default,,0,0,0,,We had no choice but to...
+Dialogue: 0,00:07:35.85,00:07:37.13,Default,,0,0,0,,Go and report to the king!
+Dialogue: 0,00:07:38.61,00:07:39.05,Default,,0,0,0,,No!
+Dialogue: 0,00:07:39.05,00:07:40.45,Default,,0,0,0,,BB Goat and the others are in danger!
+Dialogue: 0,00:07:55.57,00:07:58.17,Default,,0,0,0,,How can I capture BB Goat?
+Dialogue: 0,00:07:58.53,00:07:59.45,Default,,0,0,0,,Old and slow!
+Dialogue: 0,00:07:59.49,00:08:01.89,Default,,0,0,0,,We haven’t tried the top of Taishan Pressure in a long time!
+Dialogue: 0,00:08:01.89,00:08:02.89,Default,,0,0,0,,Come and practice!
+Dialogue: 0,00:08:04.49,00:08:06.17,Default,,0,0,0,,What is the pressure on Mount Tai?
+Dialogue: 0,00:08:08.89,00:08:10.09,Default,,0,0,0,,Wait...wait for a moment!
+Dialogue: 0,00:08:13.81,00:08:15.57,Default,,0,0,0,,You don’t even know the pressure on Mount Tai
+Dialogue: 0,00:08:15.81,00:08:17.89,Default,,0,0,0,,You must be that King Bacteria!
+Dialogue: 0,00:08:18.97,00:08:19.61,Default,,0,0,0,,Look at the trick!
+Dialogue: 0,00:08:22.77,00:08:24.09,Default,,0,0,0,,Since you discovered it
+Dialogue: 0,00:08:24.09,00:08:25.05,Default,,0,0,0,,I’ll
+Dialogue: 0,00:08:39.49,00:08:40.69,Default,,0,0,0,,Where is this?
+Dialogue: 0,00:08:40.81,00:08:42.17,Default,,0,0,0,,Am I at home...
+Dialogue: 0,00:08:42.45,00:08:43.09,Default,,0,0,0,,Old knife?
+Dialogue: 0,00:08:44.05,00:08:45.49,Default,,0,0,0,,Why are you here?
+Dialogue: 0,00:08:46.77,00:08:48.01,Default,,0,0,0,,Don’t think I’m old knife
+Dialogue: 0,00:08:48.01,00:08:49.17,Default,,0,0,0,,I just believe in you!
+Dialogue: 0,00:08:49.17,00:08:50.29,Default,,0,0,0,,King Bacteria!
+Dialogue: 0,00:08:50.85,00:08:52.21,Default,,0,0,0,,King Bacteria?
+Dialogue: 0,00:08:52.25,00:08:54.25,Default,,0,0,0,,Lao Dao, are you wrong?
+Dialogue: 0,00:08:54.97,00:08:55.85,Default,,0,0,0,,Stop installing it!
+Dialogue: 0,00:09:00.49,00:09:01.53,Default,,0,0,0,,Sorry
+Dialogue: 0,00:09:02.13,00:09:02.77,Default,,0,0,0,,The King
+Dialogue: 0,00:09:02.81,00:09:03.97,Default,,0,0,0,,Take BB Goat away!
+Dialogue: 0,00:09:05.17,00:09:05.89,Default,,0,0,0,,what
+Dialogue: 0,00:09:07.29,00:09:09.21,Default,,0,0,0,,The lambs are chasing!
+Dialogue: 0,00:09:16.17,00:09:17.45,Default,,0,0,0,,The sword goat!
+Dialogue: 0,00:09:20.01,00:09:20.85,Default,,0,0,0,,Don’t worry about me
+Dialogue: 0,00:09:20.89,00:09:22.45,Default,,0,0,0,,King Bacteria controls the old man
+Dialogue: 0,00:09:22.49,00:09:23.93,Default,,0,0,0,,Captured BB Goat
+Dialogue: 0,00:09:23.93,00:09:24.89,Default,,0,0,0,,You’ll chase...
+Dialogue: 0,00:09:26.69,00:09:28.41,Default,,0,0,0,,We’ll come back to save you right away!
+Dialogue: 0,00:09:31.29,00:09:33.17,Default,,0,0,0,,The kids depend on you!
+Dialogue: 0,00:09:37.09,00:09:38.73,Default,,0,0,0,,Where is this...?
+Dialogue: 0,00:09:43.49,00:09:44.93,Default,,0,0,0,,You’re so terrible, lord
+Dialogue: 0,00:09:44.93,00:09:46.93,Default,,0,0,0,,Finally, I successfully caught BB Goat!
+Dialogue: 0,00:09:47.53,00:09:48.97,Default,,0,0,0,,I’m not your king!
+Dialogue: 0,00:09:48.97,00:09:50.01,Default,,0,0,0,,I’m a Slowy
+Dialogue: 0,00:09:51.25,00:09:52.61,Default,,0,0,0,,No need to install it again, king!
+Dialogue: 0,00:09:53.05,00:09:54.05,Default,,0,0,0,,Don’t want to run away!
+Dialogue: 0,00:09:55.73,00:09:57.33,Default,,0,0,0,,I almost put BB Goat and the Village Chief!
+Dialogue: 0,00:10:00.53,00:10:01.53,Default,,0,0,0,,Sorry!
+Dialogue: 0,00:10:35.93,00:10:37.57,Default,,0,0,0,,Very burning!
+Dialogue: 0,00:11:03.93,00:11:05.77,Default,,0,0,0,,King! You take BB Goat first!
+Dialogue: 0,00:11:09.45,00:11:10.49,Default,,0,0,0,,Who called me?
+Dialogue: 0,00:11:11.73,00:11:13.17,Default,,0,0,0,,King Bacteria?
+Dialogue: 0,00:11:15.57,00:11:16.01,Default,,0,0,0,,That…
+Dialogue: 0,00:11:16.05,00:11:18.61,Default,,0,0,0,,I’ve said I’m a Slowy!
+Dialogue: 0,00:11:23.41,00:11:24.85,Default,,0,0,0,,What’s going on...
+Dialogue: 0,00:11:25.45,00:11:27.45,Default,,0,0,0,,You will release the village chief and BB Goat quickly!
+Dialogue: 0,00:11:28.09,00:11:29.77,Default,,0,0,0,,You will release our king quickly!
+Dialogue: 0,00:11:30.25,00:11:31.13,Default,,0,0,0,,We’re getting closer
+Dialogue: 0,00:11:31.13,00:11:32.25,Default,,0,0,0,,Let go and fight together
+Dialogue: 0,00:11:32.57,00:11:33.17,Default,,0,0,0,,good…
+Dialogue: 0,00:11:36.97,00:11:38.85,Default,,0,0,0,,BB Goat, let’s go quickly
+Dialogue: 0,00:11:44.93,00:11:46.17,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:11:46.33,00:11:47.25,Default,,0,0,0,,How can I let it go
+Dialogue: 0,00:11:47.25,00:11:48.57,Default,,0,0,0,,This is a great opportunity!
+Dialogue: 0,00:11:48.61,00:11:49.97,Default,,0,0,0,,Everyone, cover me up!
+Dialogue: 0,00:11:55.21,00:11:57.13,Default,,0,0,0,,They seem to be unable to do it...
+Dialogue: 0,00:11:59.37,00:12:00.81,Default,,0,0,0,,It turned out to be rebellious...
+Dialogue: 0,00:12:02.29,00:12:05.57,Default,,0,0,0,,I will definitely catch BB Goat...
+Dialogue: 0,00:12:05.61,00:12:07.37,Default,,0,0,0,,King!
+Dialogue: 0,00:12:15.81,00:12:17.93,Default,,0,0,0,,Still, I couldn’t find BB Goat’s brother...
+Dialogue: 0,00:12:19.17,00:12:19.81,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:12:20.01,00:12:22.09,Default,,0,0,0,,Your brother will come and find him soon
+your…
+Dialogue: 0,00:12:23.17,00:12:25.33,Default,,0,0,0,,I feel happy when I’m with you!

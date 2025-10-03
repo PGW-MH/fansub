@@ -1,0 +1,244 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:27.29,00:00:29.29,Default,,0,0,0,,This is completely different from the previous one
+Dialogue: 0,00:00:29.69,00:00:32.21,Default,,0,0,0,,Simple and straight like the forest outside
+Dialogue: 0,00:00:34.69,00:00:36.61,Default,,0,0,0,,This time I’m going to get the goat
+Dialogue: 0,00:00:36.61,00:00:37.21,Default,,0,0,0,,otherwise…
+Dialogue: 0,00:00:38.45,00:00:39.65,Default,,0,0,0,,Can’t complete the mission
+Dialogue: 0,00:00:39.65,00:00:41.17,Default,,0,0,0,,Don’t come back to see me
+Dialogue: 0,00:00:51.01,00:00:53.53,Default,,0,0,0,,Help!
+Dialogue: 0,00:00:55.73,00:00:56.81,Default,,0,0,0,,You’re good
+Dialogue: 0,00:00:57.61,00:00:58.41,Default,,0,0,0,,What is this
+Dialogue: 0,00:00:58.61,00:00:59.97,Default,,0,0,0,,They’re flying
+Dialogue: 0,00:01:01.09,00:01:03.25,Default,,0,0,0,,It turns out that there are also slaughter underground
+Dialogue: 0,00:01:03.57,00:01:04.29,Default,,0,0,0,,They say
+Dialogue: 0,00:01:04.33,00:01:06.41,Default,,0,0,0,,Go here to the next level closer
+Dialogue: 0,00:01:06.45,00:01:07.45,Default,,0,0,0,,Then let’s go
+Dialogue: 0,00:01:13.33,00:01:13.97,Default,,0,0,0,,etc.
+Dialogue: 0,00:01:13.97,00:01:15.25,Default,,0,0,0,,I’m here
+Dialogue: 0,00:01:19.25,00:01:20.77,Default,,0,0,0,,The lambs are gone
+Dialogue: 0,00:01:20.89,00:01:22.37,Default,,0,0,0,,I can’t complete the mission
+Dialogue: 0,00:01:23.65,00:01:25.45,Default,,0,0,0,,The king doesn’t want me anymore
+Dialogue: 0,00:01:31.97,00:01:32.93,Default,,0,0,0,,This is
+Dialogue: 0,00:01:34.53,00:01:35.09,Default,,0,0,0,,careful
+Dialogue: 0,00:01:35.13,00:01:36.21,Default,,0,0,0,,It’s poisonous
+Dialogue: 0,00:01:36.85,00:01:37.77,Default,,0,0,0,,Poisonous
+Dialogue: 0,00:01:38.13,00:01:39.17,Default,,0,0,0,,It’s hard to tell
+Dialogue: 0,00:01:41.93,00:01:42.61,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:01:44.41,00:01:45.61,Default,,0,0,0,,What’s wrong with you
+Dialogue: 0,00:01:46.65,00:01:47.73,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:01:48.37,00:01:49.65,Default,,0,0,0,,I’m very painful
+Dialogue: 0,00:01:51.01,00:01:52.13,Default,,0,0,0,,You’ve been injured
+Dialogue: 0,00:01:52.25,00:01:52.97,Default,,0,0,0,,I want to help you...
+Dialogue: 0,00:01:53.29,00:01:55.33,Default,,0,0,0,,Be careful of having a good idea
+Dialogue: 0,00:01:56.77,00:01:58.29,Default,,0,0,0,,It’s discovered that it’s over!
+Dialogue: 0,00:02:00.21,00:02:00.97,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:02:00.97,00:02:02.93,Default,,0,0,0,,Mushrooms won’t hurt me
+Dialogue: 0,00:02:03.53,00:02:04.29,Default,,0,0,0,,You go first
+Dialogue: 0,00:02:04.45,00:02:05.89,Default,,0,0,0,,I’ll catch up later
+Dialogue: 0,00:02:07.53,00:02:08.53,Default,,0,0,0,,Oh well
+Dialogue: 0,00:02:10.49,00:02:12.37,Default,,0,0,0,,You must keep up quickly
+Dialogue: 0,00:02:14.69,00:02:15.73,Default,,0,0,0,,All left
+Dialogue: 0,00:02:15.93,00:02:18.25,Default,,0,0,0,,Then you can only pour out Tibbie first
+Dialogue: 0,00:02:22.81,00:02:24.01,Default,,0,0,0,,This flying squirrel is controlled
+Dialogue: 0,00:02:24.05,00:02:25.25,Default,,0,0,0,,It’s pretty good
+Dialogue: 0,00:02:26.13,00:02:27.37,Default,,0,0,0,,Talking about Wolffy and the others
+Dialogue: 0,00:02:27.37,00:02:28.49,Default,,0,0,0,,Where did you go?
+Dialogue: 0,00:02:31.77,00:02:33.21,Default,,0,0,0,,So here it’s
+Dialogue: 0,00:02:40.73,00:02:41.37,Default,,0,0,0,,Where is the person
+Dialogue: 0,00:02:44.81,00:02:46.81,Default,,0,0,0,,Fortunately, it’s just a little skin
+Dialogue: 0,00:02:47.65,00:02:49.45,Default,,0,0,0,,Just apply some medicine
+Dialogue: 0,00:02:51.69,00:02:53.21,Default,,0,0,0,,Tibbie is good to me
+Dialogue: 0,00:02:54.69,00:02:55.01,Default,,0,0,0,,No
+Dialogue: 0,00:02:55.37,00:02:57.65,Default,,0,0,0,,I want to complete the task assigned by the king
+Dialogue: 0,00:02:58.41,00:03:00.37,Default,,0,0,0,,But the medicine will feel tingling
+Dialogue: 0,00:03:00.49,00:03:01.09,Default,,0,0,0,,you…
+Dialogue: 0,00:03:02.57,00:03:03.89,Default,,0,0,0,,Have to bear it
+Dialogue: 0,00:03:06.49,00:03:07.69,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:03:08.53,00:03:09.57,Default,,0,0,0,,Sorry Sorry
+Dialogue: 0,00:03:09.61,00:03:10.77,Default,,0,0,0,,I didn’t mean it!
+Dialogue: 0,00:03:16.53,00:03:17.37,Default,,0,0,0,,alright
+Dialogue: 0,00:03:17.77,00:03:19.41,Default,,0,0,0,,Just about to take it
+Dialogue: 0,00:03:20.41,00:03:21.25,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:03:21.69,00:03:22.77,Default,,0,0,0,,sorry
+Dialogue: 0,00:03:23.09,00:03:24.85,Default,,0,0,0,,I can’t betray the king
+Dialogue: 0,00:03:38.77,00:03:39.77,Default,,0,0,0,,it hurts
+Dialogue: 0,00:03:40.21,00:03:40.85,Default,,0,0,0,,you…
+Dialogue: 0,00:03:40.89,00:03:42.61,Default,,0,0,0,,Why are you injured again...
+Dialogue: 0,00:03:47.81,00:03:49.41,Default,,0,0,0,,It’s too big here!
+Dialogue: 0,00:03:52.21,00:03:54.49,Default,,0,0,0,,Where is the path to the ground?
+Dialogue: 0,00:03:58.21,00:03:59.13,Default,,0,0,0,,That’s...
+Dialogue: 0,00:04:00.01,00:04:00.81,Default,,0,0,0,,aisle!
+Dialogue: 0,00:04:00.93,00:04:02.97,Default,,0,0,0,,It may lead to the ground
+Dialogue: 0,00:04:03.45,00:04:04.49,Default,,0,0,0,,Dad Dad
+Dialogue: 0,00:04:05.17,00:04:05.89,Default,,0,0,0,,I’m tired
+Dialogue: 0,00:04:06.49,00:04:07.49,Default,,0,0,0,,Me too!
+Dialogue: 0,00:04:08.33,00:04:08.97,Default,,0,0,0,,All right
+Dialogue: 0,00:04:09.09,00:04:10.41,Default,,0,0,0,,While there is no one now
+Dialogue: 0,00:04:10.73,00:04:12.33,Default,,0,0,0,,We went to find something to eat
+Dialogue: 0,00:04:15.09,00:04:16.33,Default,,0,0,0,,Very hungry
+Dialogue: 0,00:04:16.85,00:04:18.85,Default,,0,0,0,,I have to go to the kitchen to find something to eat
+Dialogue: 0,00:04:19.05,00:04:21.05,Default,,0,0,0,,Finally found the kitchen
+Dialogue: 0,00:04:21.77,00:04:22.85,Default,,0,0,0,,what
+Dialogue: 0,00:04:23.05,00:04:24.37,Default,,0,0,0,,So much food!
+Dialogue: 0,00:04:24.49,00:04:26.85,Default,,0,0,0,,It must have been stolen from Wolf Castle!
+Dialogue: 0,00:04:27.29,00:04:28.73,Default,,0,0,0,,Take it all back to me
+Dialogue: 0,00:04:29.29,00:04:30.57,Default,,0,0,0,,Find something to eat
+Dialogue: 0,00:04:30.77,00:04:31.89,Default,,0,0,0,,Fill the stomach
+Dialogue: 0,00:04:43.25,00:04:44.49,Default,,0,0,0,,Can’t keep a single one
+Dialogue: 0,00:04:48.49,00:04:49.49,Default,,0,0,0,,what?
+Dialogue: 0,00:04:50.17,00:04:51.77,Default,,0,0,0,,Nothing to eat
+Dialogue: 0,00:04:56.05,00:04:57.49,Default,,0,0,0,,There is an apple
+Dialogue: 0,00:05:03.65,00:05:05.17,Default,,0,0,0,,It’s you
+Dialogue: 0,00:05:07.33,00:05:08.01,Default,,0,0,0,,Have done it
+Dialogue: 0,00:05:08.33,00:05:09.29,Default,,0,0,0,,Be careful
+Dialogue: 0,00:05:09.33,00:05:10.81,Default,,0,0,0,,Don’t be hurt again
+Dialogue: 0,00:05:14.33,00:05:15.41,Default,,0,0,0,,It’s because I’m tired
+Dialogue: 0,00:05:16.09,00:05:16.61,Default,,0,0,0,,Just fine
+Dialogue: 0,00:05:16.65,00:05:18.37,Default,,0,0,0,,I have a cake given to me by the goat
+Dialogue: 0,00:05:21.61,00:05:23.09,Default,,0,0,0,,Don’t be polite to me
+Dialogue: 0,00:05:24.49,00:05:25.29,Default,,0,0,0,,I’m not tired yet
+Dialogue: 0,00:05:25.53,00:05:26.21,Default,,0,0,0,,You eat
+Dialogue: 0,00:05:28.29,00:05:28.65,Default,,0,0,0,,beg…
+Dialogue: 0,00:05:30.45,00:05:30.81,Default,,0,0,0,,beg…
+Dialogue: 0,00:05:31.01,00:05:32.01,Default,,0,0,0,,Please!
+Dialogue: 0,00:05:35.33,00:05:36.05,Default,,0,0,0,,Please
+Dialogue: 0,00:05:36.61,00:05:38.61,Default,,0,0,0,,Don’t be that good to me!
+Dialogue: 0,00:05:39.25,00:05:40.33,Default,,0,0,0,,What?
+Dialogue: 0,00:05:40.37,00:05:41.93,Default,,0,0,0,,We are friends
+Dialogue: 0,00:05:42.49,00:05:42.89,Default,,0,0,0,,No…
+Dialogue: 0,00:05:44.37,00:05:45.89,Default,,0,0,0,,We are not friends!
+Dialogue: 0,00:05:47.89,00:05:50.01,Default,,0,0,0,,Mushrooms What are you talking about?
+Dialogue: 0,00:05:50.49,00:05:53.25,Default,,0,0,0,,Haven’t we both been very good all the time?
+Dialogue: 0,00:05:54.13,00:05:56.17,Default,,0,0,0,,I don’t want to disappoint the king
+Dialogue: 0,00:06:12.05,00:06:14.25,Default,,0,0,0,,No
+Dialogue: 0,00:06:17.17,00:06:18.81,Default,,0,0,0,,Isn’t it very good to run?
+Dialogue: 0,00:06:19.41,00:06:20.29,Default,,0,0,0,,Run
+Dialogue: 0,00:06:21.29,00:06:22.57,Default,,0,0,0,,Run
+Dialogue: 0,00:06:23.45,00:06:24.81,Default,,0,0,0,,Can’t run away
+Dialogue: 0,00:06:27.77,00:06:29.97,Default,,0,0,0,,I won’t let you go easily
+Dialogue: 0,00:06:30.25,00:06:32.29,Default,,0,0,0,,No
+Dialogue: 0,00:06:38.29,00:06:39.01,Default,,0,0,0,,What’s going on...
+Dialogue: 0,00:06:39.49,00:06:41.05,Default,,0,0,0,,Has the control been lost?
+Dialogue: 0,00:06:53.49,00:06:55.53,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:06:55.57,00:06:56.13,Default,,0,0,0,,etc…
+Dialogue: 0,00:06:56.17,00:06:58.17,Default,,0,0,0,,It’s good to say something! It’s easy to say something!
+Dialogue: 0,00:07:03.21,00:07:04.37,Default,,0,0,0,,It’s an elevator
+Dialogue: 0,00:07:04.61,00:07:06.21,Default,,0,0,0,,We can finally escape
+Dialogue: 0,00:07:12.25,00:07:14.05,Default,,0,0,0,,Open face identification
+Dialogue: 0,00:07:15.85,00:07:17.37,Default,,0,0,0,,Verification does not match
+Dialogue: 0,00:07:18.57,00:07:20.09,Default,,0,0,0,,Start the defense system
+Dialogue: 0,00:07:21.97,00:07:24.17,Default,,0,0,0,,There is actually such a multi-defense system
+Dialogue: 0,00:07:24.97,00:07:25.57,Default,,0,0,0,,Don’t be afraid
+Dialogue: 0,00:07:25.85,00:07:26.81,Default,,0,0,0,,I’ll deal with it!
+Dialogue: 0,00:07:33.61,00:07:34.97,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:07:38.33,00:07:39.85,Default,,0,0,0,,Thank you!
+Dialogue: 0,00:07:47.13,00:07:48.61,Default,,0,0,0,,Wake up quickly! Mushroom fungus!
+Dialogue: 0,00:07:49.01,00:07:50.37,Default,,0,0,0,,Don’t listen to King Bacteria
+Dialogue: 0,00:07:50.57,00:07:51.01,Default,,0,0,0,,he…
+Dialogue: 0,00:07:51.05,00:07:52.53,Default,,0,0,0,,He is a bad person!
+Dialogue: 0,00:07:52.81,00:07:53.41,Default,,0,0,0,,bad…
+Dialogue: 0,00:07:53.45,00:07:53.81,Default,,0,0,0,,people…
+Dialogue: 0,00:07:54.93,00:07:55.45,Default,,0,0,0,,No
+Dialogue: 0,00:07:58.29,00:07:59.01,Default,,0,0,0,,The King
+Dialogue: 0,00:07:59.13,00:08:00.81,Default,,0,0,0,,He’s the poisonous mushroom that I have
+Dialogue: 0,00:08:00.85,00:08:02.09,Default,,0,0,0,,Those who are willing to accept
+Dialogue: 0,00:08:02.25,00:08:03.69,Default,,0,0,0,,I’m willing to make friends with me
+Dialogue: 0,00:08:04.01,00:08:04.73,Default,,0,0,0,,Such a person!
+Dialogue: 0,00:08:05.17,00:08:06.49,Default,,0,0,0,,Why is it a bad person
+Dialogue: 0,00:08:11.73,00:08:12.85,Default,,0,0,0,,I don’t know you
+Dialogue: 0,00:08:13.45,00:08:15.17,Default,,0,0,0,,Why are you so good to me?
+Dialogue: 0,00:08:15.77,00:08:16.37,Default,,0,0,0,,Because
+Dialogue: 0,00:08:16.93,00:08:18.53,Default,,0,0,0,,I think you look very similar to me
+Dialogue: 0,00:08:21.57,00:08:23.49,Default,,0,0,0,,So I understand how you feel
+Dialogue: 0,00:08:25.89,00:08:26.77,Default,,0,0,0,,Nonsense!
+Dialogue: 0,00:08:27.13,00:08:29.05,Default,,0,0,0,,The king is not a bad person!
+Dialogue: 0,00:08:38.73,00:08:41.61,Default,,0,0,0,,He’s doing something wrong now
+Dialogue: 0,00:08:43.93,00:08:45.25,Default,,0,0,0,,To get strength
+Dialogue: 0,00:08:45.29,00:08:47.09,Default,,0,0,0,,In the universe
+Dialogue: 0,00:08:47.65,00:08:48.97,Default,,0,0,0,,We all know
+Dialogue: 0,00:08:49.49,00:08:49.85,Default,,0,0,0,,No…
+Dialogue: 0,00:08:50.13,00:08:50.69,Default,,0,0,0,,No
+Dialogue: 0,00:08:51.29,00:08:53.13,Default,,0,0,0,,The king is doing this to make it stronger
+Dialogue: 0,00:08:53.69,00:08:55.57,Default,,0,0,0,,I won’t be bullied anymore
+Dialogue: 0,00:08:56.41,00:08:57.13,Default,,0,0,0,,Strengthened?
+Dialogue: 0,00:08:57.85,00:08:58.97,Default,,0,0,0,,Although I don’t know
+Dialogue: 0,00:08:58.97,00:09:00.17,Default,,0,0,0,,What did he experience
+Dialogue: 0,00:09:00.37,00:09:00.93,Default,,0,0,0,,but
+Dialogue: 0,00:09:00.97,00:09:02.77,Default,,0,0,0,,Injure others in order to become stronger
+Dialogue: 0,00:09:02.81,00:09:03.97,Default,,0,0,0,,It’s just not right
+Dialogue: 0,00:09:05.29,00:09:07.13,Default,,0,0,0,,Injuring innocent people
+Dialogue: 0,00:09:07.49,00:09:08.57,Default,,0,0,0,,Injuring innocent people
+Dialogue: 0,00:09:09.13,00:09:09.77,Default,,0,0,0,,I don’t listen!
+Dialogue: 0,00:09:10.17,00:09:11.37,Default,,0,0,0,,I don’t listen! I don’t listen!
+Dialogue: 0,00:09:12.69,00:09:14.49,Default,,0,0,0,,The king is the only one who accepts me
+Dialogue: 0,00:09:15.45,00:09:16.93,Default,,0,0,0,,Is my only friend
+Dialogue: 0,00:09:17.73,00:09:18.37,Default,,0,0,0,,you…
+Dialogue: 0,00:09:18.37,00:09:20.77,Default,,0,0,0,,I don’t know anything at all!
+Dialogue: 0,00:09:24.61,00:09:25.57,Default,,0,0,0,,I don’t allow you
+Dialogue: 0,00:09:25.73,00:09:27.41,Default,,0,0,0,,Let’s talk about his bad words!
+Dialogue: 0,00:09:31.49,00:09:32.81,Default,,0,0,0,,Mushroom fungus!
+Dialogue: 0,00:09:35.61,00:09:36.57,Default,,0,0,0,,Let’s go quickly!
+Dialogue: 0,00:09:37.97,00:09:38.73,Default,,0,0,0,,no
+Dialogue: 0,00:09:39.13,00:09:40.25,Default,,0,0,0,,I can’t put her down
+Dialogue: 0,00:09:40.53,00:09:42.33,Default,,0,0,0,,She was in pain for mushroom mushrooms!
+Dialogue: 0,00:09:43.85,00:09:44.85,Default,,0,0,0,,You go first
+Dialogue: 0,00:09:48.25,00:09:50.17,Default,,0,0,0,,Mushrooms, you’re cold
+Dialogue: 0,00:10:01.57,00:10:02.65,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:10:09.29,00:10:10.17,Default,,0,0,0,,you…
+Dialogue: 0,00:10:11.73,00:10:12.57,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:10:13.01,00:10:14.17,Default,,0,0,0,,King Bacteria is not
+Dialogue: 0,00:10:14.21,00:10:15.61,Default,,0,0,0,,Your only friend
+Dialogue: 0,00:10:15.85,00:10:17.37,Default,,0,0,0,,Me and the digital virus
+Dialogue: 0,00:10:17.41,00:10:19.05,Default,,0,0,0,,It’s also your friend!
+Dialogue: 0,00:10:20.85,00:10:23.05,Default,,0,0,0,,I believe you don’t think so
+Dialogue: 0,00:10:23.05,00:10:24.81,Default,,0,0,0,,Wake up quickly!
+Dialogue: 0,00:10:28.77,00:10:30.05,Default,,0,0,0,,Tibbie said it was OK
+Dialogue: 0,00:10:30.41,00:10:31.69,Default,,0,0,0,,You are all my friends!
+Dialogue: 0,00:10:34.21,00:10:35.05,Default,,0,0,0,,But
+Dialogue: 0,00:10:35.93,00:10:37.17,Default,,0,0,0,,Very scared
+Dialogue: 0,00:10:37.53,00:10:38.65,Default,,0,0,0,,I’m afraid of losing control
+Dialogue: 0,00:10:38.69,00:10:40.21,Default,,0,0,0,,Fear of hurting others
+Dialogue: 0,00:10:40.45,00:10:42.65,Default,,0,0,0,,So I never dared to really date you
+Dialogue: 0,00:10:43.45,00:10:43.93,Default,,0,0,0,,but
+Dialogue: 0,00:10:45.61,00:10:48.05,Default,,0,0,0,,I really want to be your good friend!
+Dialogue: 0,00:10:50.41,00:10:51.21,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:10:51.61,00:10:53.53,Default,,0,0,0,,We’ve been good friends for a long time
+Dialogue: 0,00:10:54.61,00:10:55.73,Default,,0,0,0,,good friend?
+Dialogue: 0,00:10:56.29,00:10:58.29,Default,,0,0,0,,As long as you don’t close yourself
+Dialogue: 0,00:10:58.73,00:10:59.69,Default,,0,0,0,,Open your heart
+Dialogue: 0,00:11:01.17,00:11:01.93,Default,,0,0,0,,All
+Dialogue: 0,00:11:01.97,00:11:03.65,Default,,0,0,0,,All can be your good friends
+Dialogue: 0,00:11:04.25,00:11:05.01,Default,,0,0,0,,Really?
+Dialogue: 0,00:11:06.01,00:11:06.69,Default,,0,0,0,,real
+Dialogue: 0,00:11:06.93,00:11:08.01,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:11:08.25,00:11:09.73,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:11:24.09,00:11:25.21,Default,,0,0,0,,You’re awake
+Dialogue: 0,00:11:26.01,00:11:26.49,Default,,0,0,0,,Really
+Dialogue: 0,00:11:26.73,00:11:27.81,Default,,0,0,0,,Very good
+Dialogue: 0,00:11:31.73,00:11:32.93,Default,,0,0,0,,Tibbie
+Dialogue: 0,00:11:34.13,00:11:35.21,Default,,0,0,0,,sorry
+Dialogue: 0,00:11:35.41,00:11:36.81,Default,,0,0,0,,Cause you to be hurt
+Dialogue: 0,00:12:04.29,00:12:06.77,Default,,0,0,0,,Don’t think this will trap me
+Dialogue: 0,00:12:11.33,00:12:13.45,Default,,0,0,0,,- Uncle, hello
+- Dad, hello
+Dialogue: 0,00:12:15.65,00:12:16.85,Default,,0,0,0,,Continue
+Dialogue: 0,00:12:16.97,00:12:18.73,Default,,0,0,0,,-Uncle, hello!
+-Dad, hello!
+Dialogue: 0,00:12:23.73,00:12:25.29,Default,,0,0,0,,What happened again!
+Dialogue: 0,00:12:26.01,00:12:27.77,Default,,0,0,0,,Why did it get out of control?
+Dialogue: 0,00:12:31.73,00:12:33.57,Default,,0,0,0,,Want to run, no door

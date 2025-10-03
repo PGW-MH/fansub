@@ -1,0 +1,239 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.32,00:00:19.88,Default,,0,0,0,,The King
+Dialogue: 0,00:00:20.08,00:00:21.36,Default,,0,0,0,,I’m here on the fourth level
+Dialogue: 0,00:00:21.40,00:00:22.96,Default,,0,0,0,,The lamb will definitely not pass
+Dialogue: 0,00:00:23.48,00:00:25.28,Default,,0,0,0,,Why do you still have to make such a multi-machine connection?
+Dialogue: 0,00:00:25.32,00:00:27.44,Default,,0,0,0,,You’re my last line of defense
+Dialogue: 0,00:00:27.48,00:00:28.88,Default,,0,0,0,,Must be reliable!
+Dialogue: 0,00:00:37.24,00:00:38.80,Default,,0,0,0,,Finally got to you
+Dialogue: 0,00:00:39.56,00:00:40.68,Default,,0,0,0,,Jonie!
+Dialogue: 0,00:00:41.52,00:00:43.52,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:00:43.60,00:00:44.24,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:00:48.00,00:00:49.24,Default,,0,0,0,,These five holes on the ground
+Dialogue: 0,00:00:49.28,00:00:50.64,Default,,0,0,0,,What is it for...
+Dialogue: 0,00:00:51.36,00:00:52.88,Default,,0,0,0,,We don’t know either
+Dialogue: 0,00:00:53.04,00:00:54.64,Default,,0,0,0,,More than one question
+Dialogue: 0,00:00:54.68,00:00:57.40,Default,,0,0,0,,There are similar buttons in these holes
+Dialogue: 0,00:01:00.32,00:01:01.92,Default,,0,0,0,,There is also a door leading to the next level
+Dialogue: 0,00:01:01.96,00:01:03.40,Default,,0,0,0,,It’s actually in front of us too
+Dialogue: 0,00:01:03.43,00:01:05.08,Default,,0,0,0,,But it just can’t be opened!
+Dialogue: 0,00:01:05.28,00:01:07.68,Default,,0,0,0,,How to get out of this layer
+Dialogue: 0,00:01:08.88,00:01:09.96,Default,,0,0,0,,No matter what the machine is connected!
+Dialogue: 0,00:01:10.12,00:01:11.32,Default,,0,0,0,,My hot fist
+Dialogue: 0,00:01:11.32,00:01:12.84,Default,,0,0,0,,Can handle everything
+Dialogue: 0,00:01:15.16,00:01:17.28,Default,,0,0,0,,You can’t be too crazy when you are a goat!
+Dialogue: 0,00:01:17.32,00:01:18.08,Default,,0,0,0,,who…
+Dialogue: 0,00:01:23.80,00:01:24.68,Default,,0,0,0,,Ancient bacteria!
+Dialogue: 0,00:01:25.28,00:01:26.96,Default,,0,0,0,,Tell us how to get out
+Dialogue: 0,00:01:27.08,00:01:28.32,Default,,0,0,0,,Just five of you
+Dialogue: 0,00:01:28.43,00:01:30.24,Default,,0,0,0,,Entering five pits separately
+Dialogue: 0,00:01:30.48,00:01:31.96,Default,,0,0,0,,Press the button at the same time
+Dialogue: 0,00:01:31.96,00:01:34.36,Default,,0,0,0,,You can open the door to the next level
+Dialogue: 0,00:01:34.64,00:01:36.40,Default,,0,0,0,,But there is only one chance
+Dialogue: 0,00:01:36.52,00:01:37.56,Default,,0,0,0,,Once you can relax
+Dialogue: 0,00:01:37.68,00:01:39.84,Default,,0,0,0,,The door will never open
+Dialogue: 0,00:01:39.92,00:01:40.36,Default,,0,0,0,,you…
+Dialogue: 0,00:01:40.80,00:01:42.12,Default,,0,0,0,,Why tell us
+Dialogue: 0,00:01:42.36,00:01:45.12,Default,,0,0,0,,Because I won’t let you press the button
+Dialogue: 0,00:01:45.32,00:01:47.43,Default,,0,0,0,,So you know that there is nothing to say
+Dialogue: 0,00:01:49.24,00:01:50.56,Default,,0,0,0,,Run and press the button
+Dialogue: 0,00:01:50.60,00:01:52.36,Default,,0,0,0,,Let him be helpless
+Dialogue: 0,00:01:56.43,00:01:57.68,Default,,0,0,0,,You’re just so crazy
+Dialogue: 0,00:01:57.76,00:01:58.68,Default,,0,0,0,,I’ll beat you
+Dialogue: 0,00:01:59.32,00:02:01.60,Default,,0,0,0,,As long as you can break through my Milkyria
+Dialogue: 0,00:02:01.68,00:02:03.24,Default,,0,0,0,,I’ll let you press the button
+Dialogue: 0,00:02:04.76,00:02:05.56,Default,,0,0,0,,OK!
+Dialogue: 0,00:02:05.76,00:02:06.40,Default,,0,0,0,,Sparky
+Dialogue: 0,00:02:06.48,00:02:07.04,Default,,0,0,0,,Don’t hinder
+Dialogue: 0,00:02:07.08,00:02:08.08,Default,,0,0,0,,Let’s go together
+Dialogue: 0,00:02:08.40,00:02:09.00,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:02:09.00,00:02:10.60,Default,,0,0,0,,This is my decision to fight him
+Dialogue: 0,00:02:10.64,00:02:11.56,Default,,0,0,0,,You go and press
+Dialogue: 0,00:02:11.60,00:02:13.16,Default,,0,0,0,,I’ll fight it
+Dialogue: 0,00:02:13.56,00:02:14.16,Default,,0,0,0,,This…
+Dialogue: 0,00:02:14.76,00:02:16.00,Default,,0,0,0,,Believe me
+Dialogue: 0,00:02:21.28,00:02:21.88,Default,,0,0,0,,good
+Dialogue: 0,00:02:21.88,00:02:23.44,Default,,0,0,0,,Then let’s press the button first
+Dialogue: 0,00:02:23.56,00:02:24.52,Default,,0,0,0,,Be careful
+Dialogue: 0,00:02:44.96,00:02:46.96,Default,,0,0,0,,BB Goat Where are you!
+Dialogue: 0,00:02:57.36,00:02:58.48,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:03:03.96,00:03:05.20,Default,,0,0,0,,I heard something wrong
+Dialogue: 0,00:03:09.40,00:03:11.68,Default,,0,0,0,,BB Goat, don’t run away
+Dialogue: 0,00:03:12.07,00:03:13.88,Default,,0,0,0,,Uncle Gray Wolf, look
+Dialogue: 0,00:03:14.36,00:03:16.16,Default,,0,0,0,,I’ve lifted many beautiful stones
+Dialogue: 0,00:03:16.63,00:03:18.56,Default,,0,0,0,,What are you doing with these things?
+Dialogue: 0,00:03:18.60,00:03:20.52,Default,,0,0,0,,I saw these beautiful stones along the way
+Dialogue: 0,00:03:20.72,00:03:22.96,Default,,0,0,0,,Just pick it up and give it to your brothers and sisters
+Dialogue: 0,00:03:23.12,00:03:24.32,Default,,0,0,0,,That’s the biggest
+Dialogue: 0,00:03:24.36,00:03:25.63,Default,,0,0,0,,Give Weslie Brother
+Dialogue: 0,00:03:25.68,00:03:26.96,Default,,0,0,0,,That’s not!
+Dialogue: 0,00:03:27.20,00:03:28.04,Default,,0,0,0,,This largest
+Dialogue: 0,00:03:28.07,00:03:29.72,Default,,0,0,0,,It’s for my brother
+Dialogue: 0,00:03:29.76,00:03:31.44,Default,,0,0,0,,Which one is for Weslie?
+Dialogue: 0,00:03:33.12,00:03:35.20,Default,,0,0,0,,That...that...
+Dialogue: 0,00:03:35.96,00:03:36.52,Default,,0,0,0,,this
+Dialogue: 0,00:03:42.32,00:03:43.04,Default,,0,0,0,,I just
+Dialogue: 0,00:03:43.07,00:03:44.72,Default,,0,0,0,,Must have heard the sound
+Dialogue: 0,00:03:45.32,00:03:47.00,Default,,0,0,0,,We switched to hide
+Dialogue: 0,00:03:50.60,00:03:52.20,Default,,0,0,0,,I haven’t recovered yet
+Dialogue: 0,00:03:52.28,00:03:54.63,Default,,0,0,0,,Otherwise, you can help your clone and press the button
+Dialogue: 0,00:03:54.68,00:03:55.36,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:03:55.44,00:03:57.36,Default,,0,0,0,,Just press the button for each person!
+Dialogue: 0,00:04:00.72,00:04:01.44,Default,,0,0,0,,Walk
+Dialogue: 0,00:04:10.60,00:04:11.56,Default,,0,0,0,,There is a screen here
+Dialogue: 0,00:04:11.56,00:04:13.72,Default,,0,0,0,,You can see the situation of Sparky !
+Dialogue: 0,00:04:13.84,00:04:15.07,Default,,0,0,0,,Sparky
+Dialogue: 0,00:04:21.28,00:04:22.44,Default,,0,0,0,,Sparky  is moving
+Dialogue: 0,00:04:22.52,00:04:23.72,Default,,0,0,0,,Let’s act, too
+Dialogue: 0,00:04:24.36,00:04:25.68,Default,,0,0,0,,I pressed it!
+Dialogue: 0,00:04:29.20,00:04:30.20,Default,,0,0,0,,I pressed it!
+Dialogue: 0,00:04:31.07,00:04:31.96,Default,,0,0,0,,I pressed too!
+Dialogue: 0,00:04:33.20,00:04:34.52,Default,,0,0,0,,It’s just about Sparky!
+Dialogue: 0,00:04:40.20,00:04:42.32,Default,,0,0,0,,The popularity rises! The popularity rises!
+Dialogue: 0,00:04:44.92,00:04:46.28,Default,,0,0,0,,The popularity rises!
+Dialogue: 0,00:04:49.00,00:04:51.48,Default,,0,0,0,,You can’t break my Milkyne Armor
+Dialogue: 0,00:04:52.00,00:04:53.92,Default,,0,0,0,,The heat rises again!
+Dialogue: 0,00:04:56.12,00:04:58.24,Default,,0,0,0,,You can’t break it
+Dialogue: 0,00:05:01.92,00:05:02.80,Default,,0,0,0,,Sparky
+Dialogue: 0,00:05:16.68,00:05:18.28,Default,,0,0,0,,Be careful not to fall
+Dialogue: 0,00:05:24.56,00:05:25.24,Default,,0,0,0,,dad
+Dialogue: 0,00:05:27.16,00:05:27.68,Default,,0,0,0,,dad
+Dialogue: 0,00:05:27.72,00:05:28.68,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:05:28.68,00:05:29.84,Default,,0,0,0,,Dad is fine
+Dialogue: 0,00:05:33.40,00:05:34.07,Default,,0,0,0,,Son
+Dialogue: 0,00:05:34.12,00:05:35.28,Default,,0,0,0,,Let’s hide here!
+Dialogue: 0,00:05:37.16,00:05:38.48,Default,,0,0,0,,Where is BB Goat
+Dialogue: 0,00:05:44.40,00:05:45.68,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:05:49.92,00:05:51.72,Default,,0,0,0,,Don’t be slapped! Go quickly
+Dialogue: 0,00:05:55.20,00:05:57.28,Default,,0,0,0,,I’ll just pick one
+Dialogue: 0,00:06:00.84,00:06:02.08,Default,,0,0,0,,Quickly pick up
+Dialogue: 0,00:06:06.16,00:06:07.84,Default,,0,0,0,,Where is it?
+Dialogue: 0,00:06:08.40,00:06:09.20,Default,,0,0,0,,Where is it
+Dialogue: 0,00:06:10.16,00:06:11.00,Default,,0,0,0,,Found
+Dialogue: 0,00:06:32.04,00:06:33.08,Default,,0,0,0,,Where is the goat?
+Dialogue: 0,00:06:36.00,00:06:37.48,Default,,0,0,0,,Can’t let everyone wait too long
+Dialogue: 0,00:06:38.88,00:06:40.84,Default,,0,0,0,,The popularity rises! The popularity rises!
+Dialogue: 0,00:06:40.96,00:06:43.20,Default,,0,0,0,,- Sparky 
+- The popularity rises! The popularity rises!
+Dialogue: 0,00:06:47.32,00:06:48.36,Default,,0,0,0,,What happened!
+Dialogue: 0,00:06:51.96,00:06:53.76,Default,,0,0,0,,The wall suddenly poured water!
+Dialogue: 0,00:06:54.72,00:06:55.92,Default,,0,0,0,,So are me here!
+Dialogue: 0,00:06:56.36,00:06:57.72,Default,,0,0,0,,So are me here!
+Dialogue: 0,00:07:02.16,00:07:03.68,Default,,0,0,0,,Unexpectedly, King Bacteria
+Dialogue: 0,00:07:03.68,00:07:05.20,Default,,0,0,0,,This trap is also set
+Dialogue: 0,00:07:05.24,00:07:07.28,Default,,0,0,0,,Didn’t it be your and my decision?
+Dialogue: 0,00:07:07.32,00:07:08.72,Default,,0,0,0,,You actually set this trap!
+Dialogue: 0,00:07:08.76,00:07:11.08,Default,,0,0,0,,These are all set by King Bacteria!
+Dialogue: 0,00:07:14.35,00:07:15.76,Default,,0,0,0,,I’ll save you right now
+Dialogue: 0,00:07:16.40,00:07:17.08,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:07:17.20,00:07:18.47,Default,,0,0,0,,There is only one chance
+Dialogue: 0,00:07:18.68,00:07:19.60,Default,,0,0,0,,Let’s let go
+Dialogue: 0,00:07:19.84,00:07:21.76,Default,,0,0,0,,The door will never open!
+Dialogue: 0,00:07:21.76,00:07:22.44,Default,,0,0,0,,Sparky
+Dialogue: 0,00:07:22.47,00:07:24.56,Default,,0,0,0,,We believe you can press the button!
+Dialogue: 0,00:07:25.00,00:07:25.92,Default,,0,0,0,,Sparky!
+Dialogue: 0,00:07:25.96,00:07:26.88,Default,,0,0,0,,come on!
+Dialogue: 0,00:07:26.96,00:07:29.40,Default,,0,0,0,,come on…!
+Dialogue: 0,00:07:29.52,00:07:30.64,Default,,0,0,0,,come on…
+Dialogue: 0,00:07:30.68,00:07:32.35,Default,,0,0,0,,come on!
+Dialogue: 0,00:07:34.28,00:07:35.00,Default,,0,0,0,,Ancient bacteria!
+Dialogue: 0,00:07:35.04,00:07:35.84,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:07:42.60,00:07:43.40,Default,,0,0,0,,what!
+Dialogue: 0,00:07:44.40,00:07:45.68,Default,,0,0,0,,Wait for me to save my companion
+Dialogue: 0,00:07:45.68,00:07:46.56,Default,,0,0,0,,Let’s call again
+Dialogue: 0,00:07:46.64,00:07:49.28,Default,,0,0,0,,No, let’s do it!
+Dialogue: 0,00:07:51.56,00:07:52.60,Default,,0,0,0,,Sparky
+Dialogue: 0,00:07:53.35,00:07:54.35,Default,,0,0,0,,I said
+Dialogue: 0,00:07:54.40,00:07:55.52,Default,,0,0,0,,Only defeat me
+Dialogue: 0,00:07:55.52,00:07:56.96,Default,,0,0,0,,Only press the button
+Dialogue: 0,00:07:58.28,00:07:59.96,Default,,0,0,0,,Then I’ll fight you
+Dialogue: 0,00:08:02.52,00:08:03.40,Default,,0,0,0,,Sparky
+Dialogue: 0,00:08:03.84,00:08:04.80,Default,,0,0,0,,come on
+Dialogue: 0,00:08:04.92,00:08:06.68,Default,,0,0,0,,- 未分
+-Go
+Dialogue: 0,00:08:12.08,00:08:12.96,Default,,0,0,0,,Too weak!
+Dialogue: 0,00:08:16.88,00:08:18.68,Default,,0,0,0,,Is this your power?
+Dialogue: 0,00:08:34.76,00:08:36.16,Default,,0,0,0,,Sparky!
+Dialogue: 0,00:08:40.84,00:08:42.52,Default,,0,0,0,,Although you have perseverance
+Dialogue: 0,00:08:42.52,00:08:44.20,Default,,0,0,0,,But it’s still too weak
+Dialogue: 0,00:08:52.28,00:08:55.56,Default,,0,0,0,,The Sparky  will not give up!
+Dialogue: 0,00:08:56.24,00:08:57.08,Default,,0,0,0,,Weslie...
+Dialogue: 0,00:08:59.47,00:09:00.68,Default,,0,0,0,,In a crisis
+Dialogue: 0,00:09:00.84,00:09:02.44,Default,,0,0,0,,You are everyone’s shield
+Dialogue: 0,00:09:03.04,00:09:03.80,Default,,0,0,0,,Tibbie!
+Dialogue: 0,00:09:06.44,00:09:07.44,Default,,0,0,0,,Anything
+Dialogue: 0,00:09:07.47,00:09:09.35,Default,,0,0,0,,You can be ahead
+Dialogue: 0,00:09:10.16,00:09:10.96,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:09:12.96,00:09:13.80,Default,,0,0,0,,Sparky
+Dialogue: 0,00:09:13.84,00:09:17.08,Default,,0,0,0,,Let’s go to the next floor together!
+Dialogue: 0,00:09:18.04,00:09:18.68,Default,,0,0,0,,Sparky
+Dialogue: 0,00:09:18.72,00:09:21.44,Default,,0,0,0,,come on! Come on...
+Dialogue: 0,00:09:21.44,00:09:24.44,Default,,0,0,0,,Come on... Come on...
+Dialogue: 0,00:09:24.47,00:09:25.84,Default,,0,0,0,,come on!
+Dialogue: 0,00:09:25.88,00:09:28.32,Default,,0,0,0,,come on! come on!
+Dialogue: 0,00:09:31.08,00:09:33.08,Default,,0,0,0,,You give up quickly
+Dialogue: 0,00:09:33.12,00:09:34.76,Default,,0,0,0,,Rescue your friend quickly
+Dialogue: 0,00:09:35.00,00:09:36.04,Default,,0,0,0,,It’s time to die
+Dialogue: 0,00:09:36.08,00:09:37.47,Default,,0,0,0,,I regret it too much
+Dialogue: 0,00:09:39.60,00:09:40.64,Default,,0,0,0,,give up?
+Dialogue: 0,00:09:47.32,00:09:48.92,Default,,0,0,0,,How could I give up?
+Dialogue: 0,00:09:49.16,00:09:51.00,Default,,0,0,0,,Behind me is my favorite companion!
+Dialogue: 0,00:09:54.32,00:09:56.68,Default,,0,0,0,,I’m going to the next floor with them!
+Dialogue: 0,00:09:58.32,00:10:00.32,Default,,0,0,0,,What kind of companions are different!
+Dialogue: 0,00:10:05.76,00:10:08.64,Default,,0,0,0,,You can’t break my Milkyne Armor
+Dialogue: 0,00:10:09.24,00:10:11.16,Default,,0,0,0,,If it were just me, I might not be able to break
+Dialogue: 0,00:10:13.47,00:10:14.24,Default,,0,0,0,,what
+Dialogue: 0,00:10:15.84,00:10:17.76,Default,,0,0,0,,But I have the power of a companion
+Dialogue: 0,00:10:18.16,00:10:19.12,Default,,0,0,0,,companion
+Dialogue: 0,00:10:36.80,00:10:38.60,Default,,0,0,0,,Breaked! ?
+Dialogue: 0,00:11:00.04,00:11:01.47,Default,,0,0,0,,Sparky  Thank you for your hard work
+Dialogue: 0,00:11:02.35,00:11:04.92,Default,,0,0,0,,I believe you can definitely do it!
+Dialogue: 0,00:11:05.32,00:11:07.00,Default,,0,0,0,,Thank you Sparky 
+Dialogue: 0,00:11:07.32,00:11:08.88,Default,,0,0,0,,thank you
+Dialogue: 0,00:11:10.04,00:11:12.32,Default,,0,0,0,,Thank you for your trust in me
+Dialogue: 0,00:11:12.96,00:11:14.08,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:11:15.28,00:11:16.28,Default,,0,0,0,,etc!
+Dialogue: 0,00:11:17.12,00:11:17.56,Default,,0,0,0,,Do it
+Dialogue: 0,00:11:17.60,00:11:18.60,Default,,0,0,0,,Are you still going to play tricks?
+Dialogue: 0,00:11:19.12,00:11:20.12,Default,,0,0,0,,Young people
+Dialogue: 0,00:11:20.20,00:11:22.28,Default,,0,0,0,,You’re obviously no longer able
+Dialogue: 0,00:11:22.52,00:11:24.92,Default,,0,0,0,,What made you regain your strength
+Dialogue: 0,00:11:24.96,00:11:27.12,Default,,0,0,0,,Did you realize some secret?
+Dialogue: 0,00:11:29.56,00:11:30.64,Default,,0,0,0,,No secret
+Dialogue: 0,00:11:31.84,00:11:33.64,Default,,0,0,0,,Just because of the trust of the companions
+Dialogue: 0,00:11:33.64,00:11:34.80,Default,,0,0,0,,Give me strength
+Dialogue: 0,00:11:35.20,00:11:36.04,Default,,0,0,0,,companion
+Dialogue: 0,00:11:36.20,00:11:37.35,Default,,0,0,0,,trust
+Dialogue: 0,00:11:39.68,00:11:43.08,Default,,0,0,0,,It seems that I was taken to class by these lambs!
+Dialogue: 0,00:11:43.40,00:11:46.72,Default,,0,0,0,,The lamb is a respectable opponent
+Dialogue: 0,00:11:51.68,00:11:52.64,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:11:58.00,00:12:00.35,Default,,0,0,0,,The sound is just around here
+Dialogue: 0,00:12:02.68,00:12:03.60,Default,,0,0,0,,I
+Dialogue: 0,00:12:03.84,00:12:06.40,Default,,0,0,0,,I caught Weslie!
+Dialogue: 0,00:12:06.40,00:12:06.88,Default,,0,0,0,,happiness!
+Dialogue: 0,00:12:06.92,00:12:08.12,Default,,0,0,0,,He cheated on someone
+Dialogue: 0,00:12:08.12,00:12:09.47,Default,,0,0,0,,Weslie is so terrible
+Dialogue: 0,00:12:09.47,00:12:10.72,Default,,0,0,0,,It’s impossible to be caught
+Dialogue: 0,00:12:15.16,00:12:17.47,Default,,0,0,0,,Are you really not coming out to see him?
+Dialogue: 0,00:12:17.72,00:12:19.52,Default,,0,0,0,,My Weslie
+Dialogue: 0,00:12:19.72,00:12:22.08,Default,,0,0,0,,But your brother
+Dialogue: 0,00:12:22.56,00:12:23.96,Default,,0,0,0,,Weslie is my brother
+Dialogue: 0,00:12:24.20,00:12:25.72,Default,,0,0,0,,Then do I not have to leave?
+Dialogue: 0,00:12:25.76,00:12:27.60,Default,,0,0,0,,He must have cheated on us again
+Dialogue: 0,00:12:27.68,00:12:30.24,Default,,0,0,0,,Hide and seek are discovered!
+Dialogue: 0,00:12:31.00,00:12:32.80,Default,,0,0,0,,Come out quickly!

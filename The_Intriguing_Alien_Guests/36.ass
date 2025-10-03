@@ -1,0 +1,296 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:24.20,00:00:24.88,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:00:24.88,00:00:27.08,Default,,0,0,0,,We heard an explosion sound from the experiment room
+Dialogue: 0,00:00:31.60,00:00:32.36,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:00:33.60,00:00:35.56,Default,,0,0,0,,I’ll never touch the inventor again
+Dialogue: 0,00:00:36.80,00:00:37.80,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:00:38.00,00:00:38.84,Default,,0,0,0,,Is this?
+Dialogue: 0,00:00:39.88,00:00:41.16,Default,,0,0,0,,Rubik’s Cube Analysis
+Dialogue: 0,00:00:41.44,00:00:43.16,Default,,0,0,0,,It seems that the village chief’s Rubik’s Cube Analysis
+Dialogue: 0,00:00:43.24,00:00:44.52,Default,,0,0,0,,Research and development failed again
+Dialogue: 0,00:00:45.20,00:00:46.92,Default,,0,0,0,,Since that day...
+Dialogue: 0,00:00:51.00,00:00:52.60,Default,,0,0,0,,I finally developed it!
+Dialogue: 0,00:00:52.60,00:00:54.48,Default,,0,0,0,,Rubik’s Cube Analysis! !
+Dialogue: 0,00:00:56.71,00:00:59.64,Default,,0,0,0,,Just put the super cube in for analysis
+Dialogue: 0,00:01:00.04,00:01:01.48,Default,,0,0,0,,You will definitely find it
+Dialogue: 0,00:01:01.52,00:01:03.88,Default,,0,0,0,,A trace related to BB Goat’s parents!
+Dialogue: 0,00:01:10.32,00:01:11.64,Default,,0,0,0,,What’s going on! ?
+Dialogue: 0,00:01:16.04,00:01:16.52,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:16.52,00:01:17.64,Default,,0,0,0,,Are you okay?
+Dialogue: 0,00:01:17.96,00:01:18.92,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:01:19.88,00:01:21.00,Default,,0,0,0,,Just a little bit short
+Dialogue: 0,00:01:21.16,00:01:23.08,Default,,0,0,0,,It will definitely succeed next time!
+Dialogue: 0,00:01:31.56,00:01:32.43,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:32.43,00:01:33.48,Default,,0,0,0,,Don’t be angry
+Dialogue: 0,00:01:33.64,00:01:34.16,Default,,0,0,0,,Yes
+Dialogue: 0,00:01:34.20,00:01:36.16,Default,,0,0,0,,Maybe it will succeed next time
+Dialogue: 0,00:01:36.20,00:01:38.48,Default,,0,0,0,,I’ve tried it 9987 times!
+Dialogue: 0,00:01:38.52,00:01:40.20,Default,,0,0,0,,If you succeed, you will be successful long ago!
+Dialogue: 0,00:01:42.16,00:01:42.60,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:42.76,00:01:43.71,Default,,0,0,0,,Where are you going?
+Dialogue: 0,00:01:43.84,00:01:44.92,Default,,0,0,0,,No invention
+Dialogue: 0,00:01:44.92,00:01:46.40,Default,,0,0,0,,It must be going home to rest
+Dialogue: 0,00:01:53.08,00:01:55.40,Default,,0,0,0,,How can I cheer up Murasuke?
+Dialogue: 0,00:01:55.84,00:01:57.20,Default,,0,0,0,,But we give the village chief
+Dialogue: 0,00:01:57.24,00:01:58.20,Default,,0,0,0,,Eat and drink
+Dialogue: 0,00:01:58.48,00:01:58.96,Default,,0,0,0,,Sing
+Dialogue: 0,00:01:59.20,00:01:59.80,Default,,0,0,0,,Dance
+Dialogue: 0,00:02:00.32,00:02:01.20,Default,,0,0,0,,Have tried it all
+Dialogue: 0,00:02:02.52,00:02:04.32,Default,,0,0,0,,Village chief still has no reaction
+Dialogue: 0,00:02:07.88,00:02:09.00,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:02:09.04,00:02:10.48,Default,,0,0,0,,How to read this word
+Dialogue: 0,00:02:11.84,00:02:12.96,Default,,0,0,0,,Fruit of faith?
+Dialogue: 0,00:02:13.36,00:02:14.44,Default,,0,0,0,,Telling about the deep mountains
+Dialogue: 0,00:02:14.44,00:02:16.28,Default,,0,0,0,,There is a fruit called the fruit of faith
+Dialogue: 0,00:02:16.28,00:02:17.20,Default,,0,0,0,,Just eat it
+Dialogue: 0,00:02:17.24,00:02:18.76,Default,,0,0,0,,You can regain confidence
+Dialogue: 0,00:02:19.92,00:02:21.20,Default,,0,0,0,,Regain confidence
+Dialogue: 0,00:02:21.96,00:02:23.08,Default,,0,0,0,,Maybe find it
+Dialogue: 0,00:02:23.32,00:02:24.40,Default,,0,0,0,,It will allow the village chief
+Dialogue: 0,00:02:24.44,00:02:25.72,Default,,0,0,0,,Boost again!
+Dialogue: 0,00:02:26.12,00:02:26.84,Default,,0,0,0,,But
+Dialogue: 0,00:02:26.92,00:02:28.36,Default,,0,0,0,,This is just a storybook
+Dialogue: 0,00:02:28.36,00:02:29.56,Default,,0,0,0,,Is it trustworthy?
+Dialogue: 0,00:02:30.76,00:02:33.24,Default,,0,0,0,,Then I must try to find it.
+Dialogue: 0,00:02:33.72,00:02:35.04,Default,,0,0,0,,We’re going, too!
+Dialogue: 0,00:02:39.12,00:02:40.16,Default,,0,0,0,,Is that here?
+Dialogue: 0,00:02:40.92,00:02:42.12,Default,,0,0,0,,I’ve checked the data
+Dialogue: 0,00:02:42.72,00:02:44.40,Default,,0,0,0,,The most likely
+Dialogue: 0,00:02:44.44,00:02:46.84,Default,,0,0,0,,It’s on the top of this high mountain!
+Dialogue: 0,00:02:47.32,00:02:48.20,Default,,0,0,0,,Very tall
+Dialogue: 0,00:02:48.24,00:02:49.76,Default,,0,0,0,,Can we go up?
+Dialogue: 0,00:02:50.04,00:02:51.96,Default,,0,0,0,,I can only go up and take a look first
+Dialogue: 0,00:02:53.24,00:02:55.20,Default,,0,0,0,,Let it open quickly!
+Dialogue: 0,00:02:55.88,00:02:57.60,Default,,0,0,0,,I can’t stop
+Dialogue: 0,00:02:58.63,00:02:59.76,Default,,0,0,0,,This is
+Dialogue: 0,00:03:00.07,00:03:00.84,Default,,0,0,0,,rest assured
+Dialogue: 0,00:03:00.88,00:03:02.16,Default,,0,0,0,,I can catch him!
+Dialogue: 0,00:03:04.00,00:03:05.04,Default,,0,0,0,,Come on!
+Dialogue: 0,00:03:06.84,00:03:08.44,Default,,0,0,0,,Is this heavy?
+Dialogue: 0,00:03:12.36,00:03:14.07,Default,,0,0,0,,Can’t hold back
+Dialogue: 0,00:03:15.68,00:03:17.07,Default,,0,0,0,,Finally stopped
+Dialogue: 0,00:03:17.68,00:03:18.56,Default,,0,0,0,,Thank you, the squad leader!
+Dialogue: 0,00:03:19.04,00:03:20.48,Default,,0,0,0,,The class leader is so powerful!
+Dialogue: 0,00:03:20.76,00:03:22.60,Default,,0,0,0,,I don’t want to do it because of this
+Dialogue: 0,00:03:22.60,00:03:23.72,Default,,0,0,0,,Being praised
+Dialogue: 0,00:03:24.44,00:03:25.07,Default,,0,0,0,,what
+Dialogue: 0,00:03:25.20,00:03:26.88,Default,,0,0,0,,Are you going up the mountain to find the fruit of confidence?
+Dialogue: 0,00:03:27.40,00:03:29.44,Default,,0,0,0,,It’s so dangerous on the mountain!
+Dialogue: 0,00:03:30.07,00:03:31.76,Default,,0,0,0,,What exactly is on the mountain?
+Dialogue: 0,00:03:32.04,00:03:32.80,Default,,0,0,0,,that is
+Dialogue: 0,00:03:32.92,00:03:34.72,Default,,0,0,0,,It will rain heavily suddenly
+Dialogue: 0,00:03:34.88,00:03:37.00,Default,,0,0,0,,Then hail suddenly
+Dialogue: 0,00:03:37.60,00:03:38.76,Default,,0,0,0,,There will be a big flock
+Dialogue: 0,00:03:38.76,00:03:39.32,Default,,0,0,0,,Heavy snow
+Dialogue: 0,00:03:39.32,00:03:40.16,Default,,0,0,0,,flood
+Dialogue: 0,00:03:40.16,00:03:40.56,Default,,0,0,0,,This mountain
+Dialogue: 0,00:03:40.68,00:03:41.56,Default,,0,0,0,,So strange
+Dialogue: 0,00:03:41.60,00:03:42.44,Default,,0,0,0,,Impossible
+Dialogue: 0,00:03:42.48,00:03:43.44,Default,,0,0,0,,It’s true!
+Dialogue: 0,00:03:44.44,00:03:45.24,Default,,0,0,0,,I originally
+Dialogue: 0,00:03:45.24,00:03:46.63,Default,,0,0,0,,It’s coming out for medicine
+Dialogue: 0,00:03:46.80,00:03:48.63,Default,,0,0,0,,I accidentally got lost on the mountain
+Dialogue: 0,00:03:48.68,00:03:51.12,Default,,0,0,0,,It’s hard to find a way out
+Dialogue: 0,00:03:51.52,00:03:52.04,Default,,0,0,0,,and
+Dialogue: 0,00:03:52.07,00:03:53.63,Default,,0,0,0,,The fruit of faith is just a saying
+Dialogue: 0,00:03:53.72,00:03:54.84,Default,,0,0,0,,No one has seen it
+Dialogue: 0,00:03:54.96,00:03:56.76,Default,,0,0,0,,You’ll go back
+Dialogue: 0,00:04:01.80,00:04:02.80,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:04.63,00:04:05.88,Default,,0,0,0,,Thank you for your reminder!
+Dialogue: 0,00:04:05.92,00:04:07.04,Default,,0,0,0,,We’ll be careful!
+Dialogue: 0,00:04:07.48,00:04:07.96,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:04:08.72,00:04:09.40,Default,,0,0,0,,Little pig
+Dialogue: 0,00:04:09.48,00:04:11.84,Default,,0,0,0,,Don’t get lost on the way back
+Dialogue: 0,00:04:14.92,00:04:16.76,Default,,0,0,0,,Have you just heard what I said?
+Dialogue: 0,00:04:17.16,00:04:18.04,Default,,0,0,0,,For the village chief
+Dialogue: 0,00:04:18.12,00:04:19.56,Default,,0,0,0,,We are willing to take this risk!
+Dialogue: 0,00:04:26.96,00:04:28.72,Default,,0,0,0,,I won’t touch any inventions in the future
+Dialogue: 0,00:04:28.84,00:04:30.92,Default,,0,0,0,,Take good care of BB Goat
+Dialogue: 0,00:04:36.88,00:04:37.72,Default,,0,0,0,,未分
+Dialogue: 0,00:04:37.88,00:04:39.68,Default,,0,0,0,,Can you help me fix the car?
+Dialogue: 0,00:04:39.88,00:04:40.36,Default,,0,0,0,,build
+Dialogue: 0,00:04:40.40,00:04:41.36,Default,,0,0,0,,Repair the car
+Dialogue: 0,00:04:42.20,00:04:43.12,Default,,0,0,0,,No No
+Dialogue: 0,00:04:43.28,00:04:45.07,Default,,0,0,0,,I won’t do these in the future
+Dialogue: 0,00:04:45.36,00:04:46.32,Default,,0,0,0,,All right
+Dialogue: 0,00:04:49.20,00:04:50.00,Default,,0,0,0,,Toolbox!
+Dialogue: 0,00:04:52.16,00:04:53.84,Default,,0,0,0,,Then I will fix it myself!
+Dialogue: 0,00:05:02.84,00:05:04.04,Default,,0,0,0,,stop
+Dialogue: 0,00:05:04.92,00:05:05.52,Default,,0,0,0,,未分
+Dialogue: 0,00:05:05.92,00:05:07.16,Default,,0,0,0,,Where is the wrong one?
+Dialogue: 0,00:05:07.44,00:05:09.28,Default,,0,0,0,,Nothing right anywhere
+Dialogue: 0,00:05:09.32,00:05:10.16,Default,,0,0,0,,or
+Dialogue: 0,00:05:10.20,00:05:11.84,Default,,0,0,0,,Or I’ll teach you
+Dialogue: 0,00:05:11.88,00:05:13.88,Default,,0,0,0,,You have to open the car first
+Dialogue: 0,00:05:13.88,00:05:14.48,Default,,0,0,0,,then
+Dialogue: 0,00:05:14.68,00:05:15.16,Default,,0,0,0,,The King
+Dialogue: 0,00:05:15.20,00:05:16.72,Default,,0,0,0,,No other lambs are here
+Dialogue: 0,00:05:16.72,00:05:18.96,Default,,0,0,0,,I caught BB Goat while I was now!
+Dialogue: 0,00:05:26.07,00:05:26.80,Default,,0,0,0,,The King
+Dialogue: 0,00:05:26.88,00:05:27.72,Default,,0,0,0,,No door
+Dialogue: 0,00:05:28.32,00:05:29.48,Default,,0,0,0,,Of course I know!
+Dialogue: 0,00:05:29.56,00:05:31.40,Default,,0,0,0,,I’m just an activity to activate my muscles!
+Dialogue: 0,00:05:31.56,00:05:32.48,Default,,0,0,0,,Go in!
+Dialogue: 0,00:05:34.00,00:05:35.07,Default,,0,0,0,,We’re on!
+Dialogue: 0,00:05:38.44,00:05:39.60,Default,,0,0,0,,Is this one?
+Dialogue: 0,00:05:39.63,00:05:40.84,Default,,0,0,0,,No No!
+Dialogue: 0,00:05:40.88,00:05:42.36,Default,,0,0,0,,Need a flat screw knife!
+Dialogue: 0,00:05:44.32,00:05:45.28,Default,,0,0,0,,That’s this?
+Dialogue: 0,00:05:45.76,00:05:46.84,Default,,0,0,0,,Not really
+Dialogue: 0,00:05:47.84,00:05:49.16,Default,,0,0,0,,This is not either
+Dialogue: 0,00:05:49.48,00:05:50.60,Default,,0,0,0,,This is too big
+Dialogue: 0,00:05:51.12,00:05:51.84,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:05:51.84,00:05:53.40,Default,,0,0,0,,Don’t throw things up!
+Dialogue: 0,00:05:54.16,00:05:54.88,Default,,0,0,0,,Found it!
+Dialogue: 0,00:05:55.28,00:05:56.20,Default,,0,0,0,,It’s one word!
+Dialogue: 0,00:05:56.20,00:05:57.24,Default,,0,0,0,,This is too big
+Dialogue: 0,00:05:57.68,00:05:59.12,Default,,0,0,0,,It’s a little smaller
+Dialogue: 0,00:06:06.28,00:06:07.64,Default,,0,0,0,,Finally found
+Dialogue: 0,00:06:08.08,00:06:10.36,Default,,0,0,0,,Next we will put the screw down
+Dialogue: 0,00:06:12.40,00:06:14.16,Default,,0,0,0,,I must catch you!
+Dialogue: 0,00:06:14.28,00:06:14.84,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:06:14.88,00:06:16.00,Default,,0,0,0,,Turn into a shield!
+Dialogue: 0,00:06:19.48,00:06:20.36,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:06:22.44,00:06:25.04,Default,,0,0,0,,I’ll deal with you when I’ll find the little green!
+Dialogue: 0,00:06:25.12,00:06:25.92,Default,,0,0,0,,Fixed
+Dialogue: 0,00:06:26.92,00:06:29.32,Default,,0,0,0,,This is the most beautiful car I’ve ever seen
+Dialogue: 0,00:06:36.68,00:06:37.96,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:06:38.04,00:06:39.88,Default,,0,0,0,,Don’t cry Don’t cry
+Dialogue: 0,00:06:39.88,00:06:41.04,Default,,0,0,0,,Come to help you
+Dialogue: 0,00:06:41.68,00:06:42.72,Default,,0,0,0,,Help me repair
+Dialogue: 0,00:06:42.72,00:06:44.76,Default,,0,0,0,,Help you find a new one
+Dialogue: 0,00:06:44.88,00:06:45.60,Default,,0,0,0,,All right
+Dialogue: 0,00:06:50.68,00:06:52.16,Default,,0,0,0,,Who comes to pull me
+Dialogue: 0,00:06:52.36,00:06:53.60,Default,,0,0,0,,I’m out of breath
+Dialogue: 0,00:06:54.04,00:06:55.72,Default,,0,0,0,,We’re all the same
+Dialogue: 0,00:06:56.16,00:06:57.40,Default,,0,0,0,,Come on now
+Dialogue: 0,00:06:58.24,00:06:59.72,Default,,0,0,0,,Finally arrived at the top of the mountain!
+Dialogue: 0,00:07:00.68,00:07:01.92,Default,,0,0,0,,The little pig said nothing
+Dialogue: 0,00:07:02.48,00:07:04.32,Default,,0,0,0,,This mountain is really strange
+Dialogue: 0,00:07:16.64,00:07:17.12,Default,,0,0,0,,But
+Dialogue: 0,00:07:17.24,00:07:18.40,Default,,0,0,0,,What about the fruit of faith
+Dialogue: 0,00:07:18.96,00:07:21.08,Default,,0,0,0,,Nothing
+Dialogue: 0,00:07:23.24,00:07:25.24,Default,,0,0,0,,It seems to be a waste of energy
+Dialogue: 0,00:07:25.32,00:07:26.16,Default,,0,0,0,,Village chief…
+Dialogue: 0,00:07:39.47,00:07:41.28,Default,,0,0,0,,How could this be the case
+Dialogue: 0,00:07:41.68,00:07:42.47,Default,,0,0,0,,All blame the goat
+Dialogue: 0,00:07:42.52,00:07:43.28,Default,,0,0,0,,You’re too fat!
+Dialogue: 0,00:07:43.76,00:07:44.92,Default,,0,0,0,,Where can I have it!
+Dialogue: 0,00:07:45.40,00:07:46.20,Default,,0,0,0,,Everyone, see!
+Dialogue: 0,00:07:48.80,00:07:50.12,Default,,0,0,0,,This is
+Dialogue: 0,00:07:50.68,00:07:52.24,Default,,0,0,0,,Fruit of faith! !
+Dialogue: 0,00:07:52.40,00:07:54.80,Default,,0,0,0,,Finally found it! !
+Dialogue: 0,00:07:55.32,00:07:56.80,Default,,0,0,0,,BB Goat, slow down
+Dialogue: 0,00:08:02.64,00:08:03.35,Default,,0,0,0,,Small green
+Dialogue: 0,00:08:03.40,00:08:04.92,Default,,0,0,0,,Go and stop their cars
+Dialogue: 0,00:08:04.92,00:08:05.28,Default,,0,0,0,,receive!
+Dialogue: 0,00:08:05.28,00:08:05.72,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:08:05.76,00:08:07.24,Default,,0,0,0,,Turns into a car to catch up with them!
+Dialogue: 0,00:08:07.28,00:08:07.88,Default,,0,0,0,,good!
+Dialogue: 0,00:08:12.00,00:08:13.16,Default,,0,0,0,,The car stopped moving?
+Dialogue: 0,00:08:13.28,00:08:15.12,Default,,0,0,0,,Hand over BB Goat! !
+Dialogue: 0,00:08:15.60,00:08:16.60,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:08:16.60,00:08:18.00,Default,,0,0,0,,Why is it here
+Dialogue: 0,00:08:19.08,00:08:19.84,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:20.84,00:08:22.16,Default,,0,0,0,,Let’s run quickly
+Dialogue: 0,00:08:24.04,00:08:25.08,Default,,0,0,0,,Useless
+Dialogue: 0,00:08:25.32,00:08:25.96,Default,,0,0,0,,Small green
+Dialogue: 0,00:08:26.00,00:08:27.08,Default,,0,0,0,,Have taken your car
+Dialogue: 0,00:08:27.08,00:08:28.32,Default,,0,0,0,,Controlled!
+Dialogue: 0,00:08:34.24,00:08:35.20,Default,,0,0,0,,what
+Dialogue: 0,00:08:41.12,00:08:42.52,Default,,0,0,0,,Chase up
+Dialogue: 0,00:08:42.88,00:08:44.64,Default,,0,0,0,,If you have the ability, just chase it!
+Dialogue: 0,00:08:49.72,00:08:50.84,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:08:51.04,00:08:52.76,Default,,0,0,0,,Slowy
+Dialogue: 0,00:08:53.47,00:08:54.52,Default,,0,0,0,,Let go of BB Goat!
+Dialogue: 0,00:08:55.52,00:08:56.16,Default,,0,0,0,,what? !
+Dialogue: 0,00:08:58.76,00:08:59.80,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:08:59.80,00:09:01.12,Default,,0,0,0,,You’re back
+Dialogue: 0,00:09:01.76,00:09:03.88,Default,,0,0,0,,It was just that time
+Dialogue: 0,00:09:04.12,00:09:04.76,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:09:04.80,00:09:05.92,Default,,0,0,0,,Turn into a weapon!
+Dialogue: 0,00:09:06.08,00:09:06.52,Default,,0,0,0,,good
+Dialogue: 0,00:09:10.40,00:09:11.47,Default,,0,0,0,,Take the call!
+Dialogue: 0,00:09:15.92,00:09:16.92,Default,,0,0,0,,Hide away
+Dialogue: 0,00:09:17.20,00:09:17.80,Default,,0,0,0,,No
+Dialogue: 0,00:09:18.28,00:09:19.44,Default,,0,0,0,,All fell down
+Dialogue: 0,00:09:20.35,00:09:21.88,Default,,0,0,0,,Have walked so many roads
+Dialogue: 0,00:09:21.92,00:09:23.47,Default,,0,0,0,,I’m exhausted
+Dialogue: 0,00:09:25.08,00:09:26.56,Default,,0,0,0,,I can still fight!
+Dialogue: 0,00:09:28.16,00:09:29.68,Default,,0,0,0,,All are tired like this
+Dialogue: 0,00:09:29.92,00:09:31.35,Default,,0,0,0,,Still want to fight?
+Dialogue: 0,00:09:31.80,00:09:32.92,Default,,0,0,0,,Give up!
+Dialogue: 0,00:09:39.32,00:09:40.08,Default,,0,0,0,,This is
+Dialogue: 0,00:09:40.56,00:09:41.24,Default,,0,0,0,,No problem!
+Dialogue: 0,00:09:41.40,00:09:44.00,Default,,0,0,0,,That is the confidence we finally found for the village chief!
+Dialogue: 0,00:09:44.68,00:09:45.47,Default,,0,0,0,,original
+Dialogue: 0,00:09:45.80,00:09:48.32,Default,,0,0,0,,You secretly went to me for the fruit of confidence
+Dialogue: 0,00:09:48.56,00:09:50.52,Default,,0,0,0,,That’s why I’m so tired
+Dialogue: 0,00:09:50.76,00:09:52.28,Default,,0,0,0,,You goat
+Dialogue: 0,00:09:52.28,00:09:53.44,Default,,0,0,0,,True filial piety
+Dialogue: 0,00:09:53.96,00:09:54.80,Default,,0,0,0,,Since that’s the case
+Dialogue: 0,00:09:57.24,00:09:58.60,Default,,0,0,0,,What are you going to do
+Dialogue: 0,00:09:59.16,00:10:01.47,Default,,0,0,0,,I’ll help you send it to the village chief
+Dialogue: 0,00:10:02.35,00:10:03.24,Default,,0,0,0,,No
+Dialogue: 0,00:10:08.60,00:10:09.88,Default,,0,0,0,,Fruit of faith
+Dialogue: 0,00:10:11.20,00:10:14.16,Default,,0,0,0,,The fruit of confidence that children finally find
+Dialogue: 0,00:10:23.52,00:10:24.32,Default,,0,0,0,,Stopped
+Dialogue: 0,00:10:24.60,00:10:26.08,Default,,0,0,0,,How did this happen
+Dialogue: 0,00:10:29.40,00:10:31.52,Default,,0,0,0,,Such a hard-to-get faith fruit
+Dialogue: 0,00:10:31.56,00:10:33.00,Default,,0,0,0,,You’ve got it all
+Dialogue: 0,00:10:34.64,00:10:36.08,Default,,0,0,0,,I can’t give up, either
+Dialogue: 0,00:10:41.16,00:10:42.04,Default,,0,0,0,,Have it!
+Dialogue: 0,00:10:47.24,00:10:48.20,Default,,0,0,0,,Now
+Dialogue: 0,00:10:48.20,00:10:49.72,Default,,0,0,0,,What else can you do!
+Dialogue: 0,00:10:58.72,00:11:01.32,Default,,0,0,0,,You got a toy car after you had enough juice! ?
+Dialogue: 0,00:11:02.52,00:11:03.92,Default,,0,0,0,,What’s the use of this little thing!
+Dialogue: 0,00:11:04.04,00:11:04.68,Default,,0,0,0,,opportunity
+Dialogue: 0,00:11:08.08,00:11:08.84,Default,,0,0,0,,Xiao Huang!!
+Dialogue: 0,00:11:09.84,00:11:10.56,Default,,0,0,0,,You actually! !
+Dialogue: 0,00:11:12.60,00:11:13.68,Default,,0,0,0,,Don’t run! !
+Dialogue: 0,00:11:18.20,00:11:19.44,Default,,0,0,0,,Small green
+Dialogue: 0,00:11:20.16,00:11:21.32,Default,,0,0,0,,It’s your turn!
+Dialogue: 0,00:11:27.16,00:11:30.00,Default,,0,0,0,,I will definitely come back!
+Dialogue: 0,00:11:30.96,00:11:32.04,Default,,0,0,0,,Children
+Dialogue: 0,00:11:32.72,00:11:33.84,Default,,0,0,0,,Brother and sister
+Dialogue: 0,00:11:34.64,00:11:35.44,Default,,0,0,0,,The village chief’s invention
+Dialogue: 0,00:11:35.44,00:11:36.56,Default,,0,0,0,,It’s really bad
+Dialogue: 0,00:11:36.68,00:11:39.08,Default,,0,0,0,,Unfortunately, the confidence fruit I found for the village chief was gone
+Dialogue: 0,00:11:39.60,00:11:40.68,Default,,0,0,0,,Children
+Dialogue: 0,00:11:40.96,00:11:41.84,Default,,0,0,0,,actually
+Dialogue: 0,00:11:41.88,00:11:44.88,Default,,0,0,0,,There is no fruit of faith in this world
+Dialogue: 0,00:11:45.84,00:11:47.80,Default,,0,0,0,,Then we are not in vain
+Dialogue: 0,00:11:48.32,00:11:49.35,Default,,0,0,0,,No
+Dialogue: 0,00:11:50.00,00:11:52.20,Default,,0,0,0,,I have my own faith
+Dialogue: 0,00:11:52.40,00:11:53.44,Default,,0,0,0,,That’s you
+Dialogue: 0,00:11:53.68,00:11:54.84,Default,,0,0,0,,Thank you for letting me
+Dialogue: 0,00:11:54.84,00:11:56.04,Default,,0,0,0,,Regain confidence
+Dialogue: 0,00:11:56.32,00:11:58.12,Default,,0,0,0,,I won’t give up on the invention
+Dialogue: 0,00:11:59.92,00:12:01.60,Default,,0,0,0,,Very good!
+Dialogue: 0,00:12:02.72,00:12:04.64,Default,,0,0,0,,I will definitely succeed this time
+Dialogue: 0,00:12:05.64,00:12:06.44,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:12:07.44,00:12:08.47,Default,,0,0,0,,The parsing instrument cannot
+Dialogue: 0,00:12:08.52,00:12:10.76,Default,,0,0,0,,We can think of other ways
+Dialogue: 0,00:12:12.04,00:12:13.16,Default,,0,0,0,,Completed!
+Dialogue: 0,00:12:14.56,00:12:15.35,Default,,0,0,0,,Come again
+Dialogue: 0,00:12:21.52,00:12:22.28,Default,,0,0,0,,This is
+Dialogue: 0,00:12:23.24,00:12:24.68,Default,,0,0,0,,It’s popcorn
+Dialogue: 0,00:12:25.35,00:12:26.64,Default,,0,0,0,,My popcorn machine
+Dialogue: 0,00:12:26.64,00:12:28.04,Default,,0,0,0,,Research and development successfully
+Dialogue: 0,00:12:29.28,00:12:30.60,Default,,0,0,0,,It’s quite delicious!
+Dialogue: 0,00:12:31.08,00:12:31.84,Default,,0,0,0,,Right

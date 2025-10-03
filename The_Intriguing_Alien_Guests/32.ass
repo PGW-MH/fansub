@@ -1,0 +1,180 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:21.61,00:00:23.13,Default,,0,0,0,,No! Can’t move anymore!
+Dialogue: 0,00:00:23.89,00:00:27.81,Default,,0,0,0,,I didn’t expect to find it in Wolf Castle
+These fruit guns are so harmful...
+Dialogue: 0,00:00:27.93,00:00:30.57,Default,,0,0,0,,Don’t slap it. Hand over BB Goat!
+Dialogue: 0,00:00:36.93,00:00:37.65,Default,,0,0,0,,Don’t be afraid
+Dialogue: 0,00:00:37.69,00:00:38.97,Default,,0,0,0,,I’ll protect you
+Dialogue: 0,00:00:39.89,00:00:41.29,Default,,0,0,0,,I’m quite hiding!
+Dialogue: 0,00:00:41.33,00:00:42.81,Default,,0,0,0,,It depends on how long you can hold it!
+Dialogue: 0,00:00:54.29,00:00:55.13,Default,,0,0,0,,Good opportunity
+Dialogue: 0,00:00:55.25,00:00:56.81,Default,,0,0,0,,Next, we are going to catch BB Goat!
+Dialogue: 0,00:01:00.01,00:01:01.05,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:01:01.33,00:01:02.25,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,00:01:09.05,00:01:11.13,Default,,0,0,0,,Do you want this? Give it to you!
+Dialogue: 0,00:01:13.13,00:01:14.65,Default,,0,0,0,,Who made you act? !
+Dialogue: 0,00:01:14.73,00:01:16.85,Default,,0,0,0,,Don’t be tempted by my command!
+Dialogue: 0,00:01:19.81,00:01:21.33,Default,,0,0,0,,Brother Weslie is so terrible!
+Dialogue: 0,00:01:21.33,00:01:22.61,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:01:31.25,00:01:33.49,Default,,0,0,0,,Have some trouble, let him take a break
+Dialogue: 0,00:01:33.57,00:01:35.49,Default,,0,0,0,,You go and find some anti-sweat medicine
+Dialogue: 0,00:01:35.69,00:01:36.49,Default,,0,0,0,,good
+Dialogue: 0,00:01:48.33,00:01:49.05,Default,,0,0,0,,BB Goat?
+Dialogue: 0,00:01:50.29,00:01:51.49,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,00:01:51.57,00:01:52.93,Default,,0,0,0,,It’s bad to infect you
+Dialogue: 0,00:01:53.29,00:01:56.57,Default,,0,0,0,,Weslie Brother, you are sick
+BB Goat wants to take care of you!
+Dialogue: 0,00:01:59.61,00:02:01.93,Default,,0,0,0,,Mom said she should apply a towel when she was burning
+Dialogue: 0,00:02:06.89,00:02:08.21,Default,,0,0,0,,Drink more water!
+Dialogue: 0,00:02:11.65,00:02:13.97,Default,,0,0,0,,Also, you need to reduce the heat and reduce the temperature
+Dialogue: 0,00:02:19.01,00:02:20.49,Default,,0,0,0,,Prepare something delicious
+Dialogue: 0,00:02:20.53,00:02:21.53,Default,,0,0,0,,Take this
+Dialogue: 0,00:02:21.61,00:02:22.49,Default,,0,0,0,,And that one
+Dialogue: 0,00:02:22.57,00:02:24.09,Default,,0,0,0,,Right Yes Right Yes And this one!
+Dialogue: 0,00:02:25.25,00:02:26.09,Default,,0,0,0,,Also...
+Dialogue: 0,00:02:26.21,00:02:27.29,Default,,0,0,0,,What else do you want?
+Dialogue: 0,00:02:27.33,00:02:28.45,Default,,0,0,0,,Have a rest!
+Dialogue: 0,00:02:29.41,00:02:31.57,Default,,0,0,0,,But I want to take care of Brother Weslie
+Dialogue: 0,00:02:31.69,00:02:33.25,Default,,0,0,0,,Make him quick and good!
+Dialogue: 0,00:02:33.49,00:02:35.49,Default,,0,0,0,,I need a good rest when I am sick
+Dialogue: 0,00:02:35.53,00:02:37.17,Default,,0,0,0,,Don’t beat him up...
+Dialogue: 0,00:02:37.61,00:02:39.89,Default,,0,0,0,,Village Chief! All the anti-burn medicines are used up!
+Dialogue: 0,00:02:46.85,00:02:50.17,Default,,0,0,0,,Let’s find it together
+This orange anti-heat fruit!
+Dialogue: 0,00:02:53.77,00:02:54.49,Default,,0,0,0,,good
+Dialogue: 0,00:02:57.57,00:02:59.17,Default,,0,0,0,,Orange heat-reducing fruit...
+Dialogue: 0,00:03:15.41,00:03:17.89,Default,,0,0,0,,It’s all your fault for slapping me
+Otherwise, there is no need to stop the station!
+Dialogue: 0,00:03:18.61,00:03:20.13,Default,,0,0,0,,It was obviously you who snatched me!
+Dialogue: 0,00:03:20.29,00:03:21.33,Default,,0,0,0,,I’m so embarrassed to say!
+Dialogue: 0,00:03:22.37,00:03:24.41,Default,,0,0,0,,It’s all your fault! It’s all your fault!
+Dialogue: 0,00:03:24.53,00:03:26.73,Default,,0,0,0,,Have you seen any orange heat-reducing fruit?
+Dialogue: 0,00:03:26.77,00:03:27.57,Default,,0,0,0,,Haven’t seen it
+Dialogue: 0,00:03:28.97,00:03:29.89,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:03:30.33,00:03:31.73,Default,,0,0,0,,Then I’ll find it myself...
+Dialogue: 0,00:03:32.93,00:03:33.85,Default,,0,0,0,,A great opportunity!
+Dialogue: 0,00:03:34.17,00:03:35.21,Default,,0,0,0,,Hurry up and catch her!
+Dialogue: 0,00:03:35.45,00:03:36.77,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,00:03:39.73,00:03:41.01,Default,,0,0,0,,What are you doing!
+Dialogue: 0,00:03:42.01,00:03:44.09,Default,,0,0,0,,Have you forgotten what the king said?
+Dialogue: 0,00:03:44.57,00:03:47.37,Default,,0,0,0,,I won’t be able to do anything if I have no orders in the future!
+Dialogue: 0,00:03:48.09,00:03:50.17,Default,,0,0,0,,Let’s see what she does first...
+Dialogue: 0,00:03:59.21,00:04:01.37,Default,,0,0,0,,Orange! It’s a fever-reducing fruit!
+Dialogue: 0,00:04:04.05,00:04:05.41,Default,,0,0,0,,What kind of anti-hot fruit
+Dialogue: 0,00:04:05.53,00:04:07.13,Default,,0,0,0,,Isn’t that just an ordinary orange?
+Dialogue: 0,00:04:14.65,00:04:16.05,Default,,0,0,0,,Let’s help you
+Dialogue: 0,00:04:26.09,00:04:27.09,Default,,0,0,0,,Picked!
+Dialogue: 0,00:04:32.45,00:04:35.53,Default,,0,0,0,,Weslie Brother Eat Eat the Heat Reduction Fruit
+It will get better!
+Dialogue: 0,00:04:36.37,00:04:37.65,Default,,0,0,0,,What happened to him in Weslie?
+Dialogue: 0,00:04:44.85,00:04:45.57,Default,,0,0,0,,King!
+Dialogue: 0,00:04:47.13,00:04:48.81,Default,,0,0,0,,It turns out that Weslie fell ill
+Dialogue: 0,00:04:48.89,00:04:51.33,Default,,0,0,0,,The lambs also went to find the hot-reducing fruit
+Dialogue: 0,00:04:51.65,00:04:54.97,Default,,0,0,0,,The sentence says now
+The best time to catch BB Goat!
+Dialogue: 0,00:04:55.49,00:04:57.05,Default,,0,0,0,,How did you know?
+Dialogue: 0,00:04:57.69,00:05:00.05,Default,,0,0,0,,This was what BB Goat told us in private!
+Dialogue: 0,00:05:00.21,00:05:02.13,Default,,0,0,0,,Did BB Goat tell you privately?
+Dialogue: 0,00:05:02.65,00:05:05.09,Default,,0,0,0,,We met the single BB Goat in the Forest
+Dialogue: 0,00:05:05.13,00:05:07.13,Default,,0,0,0,,And she found some heat-reduction fruits!
+Dialogue: 0,00:05:07.93,00:05:11.01,Default,,0,0,0,,We are in the process of helping her
+I heard it secretly!
+Dialogue: 0,00:05:11.13,00:05:11.77,Default,,0,0,0,,Is it harmful?
+Dialogue: 0,00:05:12.25,00:05:14.33,Default,,0,0,0,,This time we didn’t act without permission!
+Dialogue: 0,00:05:15.93,00:05:16.93,Default,,0,0,0,,what!
+Dialogue: 0,00:05:17.49,00:05:20.21,Default,,0,0,0,,Then why don’t you catch her back directly!
+Dialogue: 0,00:05:20.25,00:05:22.69,Default,,0,0,0,,You let us not be scattered!
+Dialogue: 0,00:05:23.29,00:05:25.37,Default,,0,0,0,,It’s really not enough to succeed.
+Dialogue: 0,00:05:28.33,00:05:29.53,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:05:31.21,00:05:32.33,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:05:35.21,00:05:37.57,Default,,0,0,0,,BB Goat Why do you make it so dirty?
+Dialogue: 0,00:05:37.65,00:05:38.81,Default,,0,0,0,,This is the heat-reducing fruit
+Dialogue: 0,00:05:38.89,00:05:40.37,Default,,0,0,0,,You eat it, it’s okay!
+Dialogue: 0,00:05:45.01,00:05:47.13,Default,,0,0,0,,Isn’t this an orange?...Silly kid
+Dialogue: 0,00:05:50.01,00:05:51.73,Default,,0,0,0,,Thank you BB Goat
+Dialogue: 0,00:05:52.09,00:05:54.65,Default,,0,0,0,,Weslie Brother, you will get better soon
+Dialogue: 0,00:05:56.37,00:05:59.21,Default,,0,0,0,,It’s all up to BB Goat’s care. I’m much better now!
+Dialogue: 0,00:06:01.09,00:06:03.21,Default,,0,0,0,,It seems that Weslie is really sick...
+Dialogue: 0,00:06:03.81,00:06:05.45,Default,,0,0,0,,Our plan to wait for a moment is...
+Dialogue: 0,00:06:06.01,00:06:06.65,Default,,0,0,0,,Small green
+Dialogue: 0,00:06:06.77,00:06:09.09,Default,,0,0,0,,You dive into the room and control the cooling first
+Dialogue: 0,00:06:09.13,00:06:12.77,Default,,0,0,0,,Reduce the temperature to a minimum and make Weslie weaker
+Dialogue: 0,00:06:13.13,00:06:15.93,Default,,0,0,0,,I will then enter the room and unblock it!
+Dialogue: 0,00:06:17.41,00:06:20.33,Default,,0,0,0,,Xiao Huang, you are responsible for sealing the window and locking the door
+Dialogue: 0,00:06:20.45,00:06:22.17,Default,,0,0,0,,Let BB Goat escape without a chance
+Dialogue: 0,00:06:22.49,00:06:24.89,Default,,0,0,0,,Then throw the key away
+Dialogue: 0,00:06:25.09,00:06:28.33,Default,,0,0,0,,Then no one can come in to stop me from unblocking!
+Dialogue: 0,00:06:28.97,00:06:30.37,Default,,0,0,0,,Let’s move separately!
+Dialogue: 0,00:06:30.53,00:06:31.05,Default,,0,0,0,,yes!
+Dialogue: 0,00:06:41.73,00:06:43.05,Default,,0,0,0,,How did the cold turn off?
+Dialogue: 0,00:07:03.33,00:07:04.81,Default,,0,0,0,,What happened to Brother Weslie?
+Dialogue: 0,00:07:04.85,00:07:06.89,Default,,0,0,0,,The cold is bad, let’s go out first
+Dialogue: 0,00:07:10.05,00:07:12.21,Default,,0,0,0,,No! Go quickly, BB Goat!
+Dialogue: 0,00:07:19.37,00:07:20.41,Default,,0,0,0,,All finished!
+Dialogue: 0,00:07:24.49,00:07:25.77,Default,,0,0,0,,Why are you still here?
+Dialogue: 0,00:07:25.81,00:07:27.73,Default,,0,0,0,,I haven’t gone in yet! What are you locked up!
+Dialogue: 0,00:07:28.33,00:07:30.45,Default,,0,0,0,,Quickly turn into a key and open the door!
+Dialogue: 0,00:07:34.41,00:07:37.37,Default,,0,0,0,,It hurts... My waist is about to break!
+Dialogue: 0,00:07:38.57,00:07:39.89,Default,,0,0,0,,What should I do now?
+Dialogue: 0,00:07:39.97,00:07:41.89,Default,,0,0,0,,Go and get the key back!
+Dialogue: 0,00:07:48.57,00:07:49.53,Default,,0,0,0,,There!
+Dialogue: 0,00:07:50.69,00:07:53.37,Default,,0,0,0,,I didn’t expect that after searching for a day, I couldn’t find the anti-hot fruit...
+Dialogue: 0,00:07:55.65,00:07:56.93,Default,,0,0,0,,So tired...
+Dialogue: 0,00:08:07.69,00:08:08.77,Default,,0,0,0,,How to be so...
+Dialogue: 0,00:08:17.73,00:08:19.61,Default,,0,0,0,,What a coincidence...I’ll leave first!
+Dialogue: 0,00:08:20.77,00:08:23.05,Default,,0,0,0,,Don’t want to run away! You must have something to blame!
+Dialogue: 0,00:08:46.89,00:08:48.81,Default,,0,0,0,,I think I’ll let it go first!
+Dialogue: 0,00:08:48.89,00:08:50.73,Default,,0,0,0,,Help me quickly, Xiao Huang!
+Dialogue: 0,00:08:51.73,00:08:53.33,Default,,0,0,0,,Don’t pull me up!
+Dialogue: 0,00:08:55.69,00:08:57.17,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:08:57.53,00:08:58.69,Default,,0,0,0,,Resist quickly!
+Dialogue: 0,00:09:05.09,00:09:06.81,Default,,0,0,0,,Very burning!
+Dialogue: 0,00:09:10.73,00:09:12.25,Default,,0,0,0,,Last hit!
+Dialogue: 0,00:09:16.01,00:09:17.81,Default,,0,0,0,,Don’t beat the big guy! I surrender
+Dialogue: 0,00:09:17.85,00:09:19.65,Default,,0,0,0,,Weslie and BB Goat are in danger
+Dialogue: 0,00:09:19.69,00:09:21.09,Default,,0,0,0,,You go back quickly
+Dialogue: 0,00:09:21.13,00:09:22.09,Default,,0,0,0,,what!
+Dialogue: 0,00:09:38.25,00:09:39.53,Default,,0,0,0,,Is it warm or not...
+Dialogue: 0,00:09:39.69,00:09:41.21,Default,,0,0,0,,BB Goat, don’t be so...
+Dialogue: 0,00:09:44.97,00:09:46.81,Default,,0,0,0,,But it’s still very cold...
+Dialogue: 0,00:09:49.45,00:09:50.89,Default,,0,0,0,,Come on, let’s move together
+Dialogue: 0,00:09:50.93,00:09:51.93,Default,,0,0,0,,Then it won’t be cold
+Dialogue: 0,00:10:01.69,00:10:02.69,Default,,0,0,0,,So tired...
+Dialogue: 0,00:10:03.73,00:10:04.89,Default,,0,0,0,,Don’t sleep, BB Goat
+Dialogue: 0,00:10:04.93,00:10:06.57,Default,,0,0,0,,Brother Weslie will dance to you!
+Dialogue: 0,00:10:07.37,00:10:07.85,Default,,0,0,0,,good…
+Dialogue: 0,00:10:07.89,00:10:08.77,Default,,0,0,0,,OK!
+Dialogue: 0,00:10:21.09,00:10:22.93,Default,,0,0,0,,Come to BB Goat, let’s jump together
+Dialogue: 0,00:10:33.81,00:10:35.01,Default,,0,0,0,,So cold...
+Dialogue: 0,00:10:35.41,00:10:37.53,Default,,0,0,0,,BB Goat... BB Goat...
+Dialogue: 0,00:10:39.73,00:10:42.17,Default,,0,0,0,,The cold is too high and it’s impossible to get close to
+Dialogue: 0,00:10:42.89,00:10:44.73,Default,,0,0,0,,If he could get close to him...
+Dialogue: 0,00:11:25.93,00:11:28.13,Default,,0,0,0,,Not good! He pulled out the cold power supply!
+Dialogue: 0,00:11:30.21,00:11:32.21,Default,,0,0,0,,The lamb is back! Let’s go quickly!
+Dialogue: 0,00:11:33.21,00:11:35.53,Default,,0,0,0,,Weslie! Weslie!
+Dialogue: 0,00:11:36.25,00:11:38.25,Default,,0,0,0,,Save BB Goat quickly...
+Dialogue: 0,00:11:45.49,00:11:47.73,Default,,0,0,0,,BB Goat is in a row again! Get on!
+Dialogue: 0,00:11:58.93,00:12:01.61,Default,,0,0,0,,BB Goat Why did you run out by yourself again...
+Dialogue: 0,00:12:02.05,00:12:05.01,Default,,0,0,0,,Weslie Brother I’ll pick the hot fruits for you again
+Dialogue: 0,00:12:06.17,00:12:07.69,Default,,0,0,0,,Isn’t this an orange?
+Dialogue: 0,00:12:11.45,00:12:13.17,Default,,0,0,0,,All depend on BB Goat
+Dialogue: 0,00:12:13.21,00:12:15.13,Default,,0,0,0,,Weslie Brother is ready
+Dialogue: 0,00:12:15.21,00:12:16.81,Default,,0,0,0,,No need to eat anti-heat fruits anymore!
+Dialogue: 0,00:12:17.65,00:12:19.81,Default,,0,0,0,,So what should I do with these heat-reducing fruits?
+Dialogue: 0,00:12:19.97,00:12:20.93,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,00:12:30.37,00:12:32.41,Default,,0,0,0,,What’s so funny about eating something...

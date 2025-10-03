@@ -1,0 +1,216 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:36.41,00:00:37.09,Default,,0,0,0,,Everyone
+Dialogue: 0,00:00:37.09,00:00:38.25,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:00:39.89,00:00:40.61,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:00:41.01,00:00:42.13,Default,,0,0,0,,But I didn’t see the gray...
+Dialogue: 0,00:00:42.53,00:00:43.53,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:00:43.57,00:00:44.69,Default,,0,0,0,,Why are you here!
+Dialogue: 0,00:00:45.57,00:00:47.05,Default,,0,0,0,,We were sterilized
+Dialogue: 0,00:00:47.09,00:00:48.93,Default,,0,0,0,,Sucked into its belly
+Dialogue: 0,00:00:52.65,00:00:54.33,Default,,0,0,0,,Is there a bacterial stomach here?
+Dialogue: 0,00:00:54.97,00:00:56.05,Default,,0,0,0,,What a dangerous
+Dialogue: 0,00:00:56.85,00:00:57.97,Default,,0,0,0,,Very scared
+Dialogue: 0,00:01:03.77,00:01:04.85,Default,,0,0,0,,Can’t eat anything
+Dialogue: 0,00:01:05.09,00:01:06.13,Default,,0,0,0,,What a pity
+Dialogue: 0,00:01:10.81,00:01:12.29,Default,,0,0,0,,What’s the matter
+Dialogue: 0,00:01:35.01,00:01:35.77,Default,,0,0,0,,Weslie
+Dialogue: 0,00:01:35.81,00:01:37.37,Default,,0,0,0,,You’re so terrible
+Dialogue: 0,00:01:41.45,00:01:42.93,Default,,0,0,0,,Weslie
+Dialogue: 0,00:01:46.17,00:01:47.85,Default,,0,0,0,,So where is this
+Dialogue: 0,00:01:49.89,00:01:51.93,Default,,0,0,0,,We seem to be in the bacteria
+Dialogue: 0,00:01:54.01,00:01:55.57,Default,,0,0,0,,What bubbles are these
+Dialogue: 0,00:01:56.81,00:01:58.13,Default,,0,0,0,,Very strong
+Dialogue: 0,00:02:02.33,00:02:03.85,Default,,0,0,0,,What happened
+Dialogue: 0,00:02:08.65,00:02:10.01,Default,,0,0,0,,The king is sneezing
+Dialogue: 0,00:02:10.89,00:02:12.49,Default,,0,0,0,,We are in the king’s lungs
+Dialogue: 0,00:02:13.33,00:02:14.73,Default,,0,0,0,,Bubbles here
+Dialogue: 0,00:02:14.77,00:02:16.85,Default,,0,0,0,,It should be possible for us to escape
+Dialogue: 0,00:02:17.97,00:02:19.77,Default,,0,0,0,,Where are the lambs?
+Dialogue: 0,00:02:20.41,00:02:21.53,Default,,0,0,0,,They have a lot of chance
+Dialogue: 0,00:02:21.57,00:02:23.45,Default,,0,0,0,,It fell into the king’s stomach
+Dialogue: 0,00:02:24.01,00:02:25.97,Default,,0,0,0,,There is also rotten stomach acid
+Dialogue: 0,00:02:26.01,00:02:27.05,Default,,0,0,0,,Poisonous again
+Dialogue: 0,00:02:27.05,00:02:28.45,Default,,0,0,0,,Very dangerous
+Dialogue: 0,00:02:28.49,00:02:29.25,Default,,0,0,0,,danger
+Dialogue: 0,00:02:29.97,00:02:31.25,Default,,0,0,0,,Then I have to save them
+Dialogue: 0,00:02:32.81,00:02:33.61,Default,,0,0,0,,you
+Dialogue: 0,00:02:40.33,00:02:41.33,Default,,0,0,0,,The little lamb
+Dialogue: 0,00:02:41.61,00:02:43.37,Default,,0,0,0,,Also our friends
+Dialogue: 0,00:02:44.41,00:02:44.89,Default,,0,0,0,,right
+Dialogue: 0,00:02:45.17,00:02:47.01,Default,,0,0,0,,They are all our friends
+Dialogue: 0,00:02:49.45,00:02:50.05,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:02:50.33,00:02:51.73,Default,,0,0,0,,It seems there is something wrong
+Dialogue: 0,00:02:53.81,00:02:55.09,Default,,0,0,0,,Be careful
+Dialogue: 0,00:02:55.49,00:02:56.65,Default,,0,0,0,,What are these?
+Dialogue: 0,00:03:03.49,00:03:04.33,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:03:04.61,00:03:05.45,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:03:09.05,00:03:10.61,Default,,0,0,0,,What’s wrong with brother?
+Dialogue: 0,00:03:11.29,00:03:12.05,Default,,0,0,0,,This…
+Dialogue: 0,00:03:12.81,00:03:14.37,Default,,0,0,0,,Maybe it’s just the poison
+Dialogue: 0,00:03:14.49,00:03:16.01,Default,,0,0,0,,Let Weslie fall
+Dialogue: 0,00:03:16.53,00:03:18.49,Default,,0,0,0,,It should be fine if you take a break
+Dialogue: 0,00:03:20.17,00:03:21.49,Default,,0,0,0,,Poison is coming again
+Dialogue: 0,00:03:32.69,00:03:33.57,Default,,0,0,0,,What’s up
+Dialogue: 0,00:03:38.61,00:03:39.93,Default,,0,0,0,,We’re finished
+Dialogue: 0,00:03:42.49,00:03:43.93,Default,,0,0,0,,Some tiles in the river
+Dialogue: 0,00:03:46.17,00:03:46.97,Default,,0,0,0,,maybe
+Dialogue: 0,00:03:47.29,00:03:48.81,Default,,0,0,0,,We can suck them up
+Dialogue: 0,00:03:48.97,00:03:50.65,Default,,0,0,0,,Make a face wall to hold the poison
+Dialogue: 0,00:03:51.33,00:03:52.25,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:04:05.05,00:04:06.13,Default,,0,0,0,,It’s all right
+Dialogue: 0,00:04:06.49,00:04:07.69,Default,,0,0,0,,Brother, what’s wrong with you!
+Dialogue: 0,00:04:08.77,00:04:09.65,Default,,0,0,0,,elder brother
+Dialogue: 0,00:04:09.85,00:04:11.05,Default,,0,0,0,,Weslie
+Dialogue: 0,00:04:11.09,00:04:12.49,Default,,0,0,0,,It seems to be more difficult
+Dialogue: 0,00:04:13.01,00:04:14.45,Default,,0,0,0,,Brother, wake up!
+Dialogue: 0,00:04:14.97,00:04:16.21,Default,,0,0,0,,elder brother!
+Dialogue: 0,00:04:22.57,00:04:23.33,Default,,0,0,0,,This is me
+Dialogue: 0,00:04:24.41,00:04:25.41,Default,,0,0,0,,Where is it?
+Dialogue: 0,00:04:29.25,00:04:29.85,Default,,0,0,0,,strangeness
+Dialogue: 0,00:04:30.01,00:04:31.65,Default,,0,0,0,,I’m obviously in the bacteria
+Dialogue: 0,00:04:32.05,00:04:32.97,Default,,0,0,0,,Weslie
+Dialogue: 0,00:04:33.57,00:04:34.69,Default,,0,0,0,,What bacteria
+Dialogue: 0,00:04:35.33,00:04:36.69,Default,,0,0,0,,Let’s sweep together
+Dialogue: 0,00:04:36.69,00:04:38.17,Default,,0,0,0,,I’m not afraid of germs
+Dialogue: 0,00:04:39.37,00:04:40.33,Default,,0,0,0,,Weslie
+Dialogue: 0,00:04:40.97,00:04:41.77,Default,,0,0,0,,Don’t be stunned
+Dialogue: 0,00:04:42.65,00:04:43.57,Default,,0,0,0,,Come and help
+Dialogue: 0,00:04:49.37,00:04:49.89,Default,,0,0,0,,OK
+Dialogue: 0,00:04:54.77,00:04:55.93,Default,,0,0,0,,Let them go
+Dialogue: 0,00:05:00.53,00:05:01.85,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:02.65,00:05:04.09,Default,,0,0,0,,Help
+Dialogue: 0,00:05:04.13,00:05:05.77,Default,,0,0,0,,Let my friends go
+Dialogue: 0,00:05:05.81,00:05:06.37,Default,,0,0,0,,lamb
+Dialogue: 0,00:05:06.41,00:05:07.53,Default,,0,0,0,,I’m here
+Dialogue: 0,00:05:08.73,00:05:09.37,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:05:11.69,00:05:12.97,Default,,0,0,0,,Save everyone
+Dialogue: 0,00:05:16.97,00:05:18.69,Default,,0,0,0,,Go quickly Wolffy
+Dialogue: 0,00:05:19.53,00:05:20.25,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:05:21.13,00:05:21.93,Default,,0,0,0,,What’s wrong with you
+Dialogue: 0,00:05:23.01,00:05:24.13,Default,,0,0,0,,Save you
+Dialogue: 0,00:05:24.61,00:05:26.73,Default,,0,0,0,,I ate you, it’s almost the same
+Dialogue: 0,00:05:27.33,00:05:28.13,Default,,0,0,0,,we
+Dialogue: 0,00:05:28.17,00:05:29.41,Default,,0,0,0,,Not a friend
+Dialogue: 0,00:05:30.01,00:05:30.93,Default,,0,0,0,,friend
+Dialogue: 0,00:05:31.57,00:05:33.49,Default,,0,0,0,,That’s what I’ve cheated on you
+Dialogue: 0,00:05:33.73,00:05:34.05,Default,,0,0,0,,No
+Dialogue: 0,00:05:41.45,00:05:42.89,Default,,0,0,0,,Stop playing
+Dialogue: 0,00:05:44.05,00:05:45.25,Default,,0,0,0,,Come out quickly
+Dialogue: 0,00:05:46.65,00:05:47.41,Default,,0,0,0,,Everyone...
+Dialogue: 0,00:05:48.81,00:05:49.93,Default,,0,0,0,,Where have you gone
+Dialogue: 0,00:05:59.89,00:06:01.37,Default,,0,0,0,,What exactly are they?
+Dialogue: 0,00:06:02.33,00:06:03.25,Default,,0,0,0,,Analysis by me
+Dialogue: 0,00:06:04.25,00:06:05.45,Default,,0,0,0,,They may be the king
+Dialogue: 0,00:06:05.49,00:06:07.21,Default,,0,0,0,,The incarnation of evil energy
+Dialogue: 0,00:06:09.09,00:06:11.25,Default,,0,0,0,,Is there any way to defeat them?
+Dialogue: 0,00:06:11.53,00:06:14.13,Default,,0,0,0,,I can only fight with them with my head
+Dialogue: 0,00:06:17.29,00:06:19.33,Default,,0,0,0,,Micacaria
+Dialogue: 0,00:06:28.53,00:06:30.61,Default,,0,0,0,,Even the schizoa can’t stand
+Dialogue: 0,00:06:30.77,00:06:32.45,Default,,0,0,0,,What should I do here?
+Dialogue: 0,00:06:32.97,00:06:34.17,Default,,0,0,0,,There is a way to do it
+Dialogue: 0,00:06:34.41,00:06:35.41,Default,,0,0,0,,But one person is needed
+Dialogue: 0,00:06:35.45,00:06:37.05,Default,,0,0,0,,Do a sensation to lead them
+Dialogue: 0,00:06:37.17,00:06:39.05,Default,,0,0,0,,Let everyone jump to a safe place
+Dialogue: 0,00:06:39.29,00:06:40.61,Default,,0,0,0,,What is this?
+Dialogue: 0,00:06:40.65,00:06:42.09,Default,,0,0,0,,Only fools do this
+Dialogue: 0,00:06:43.41,00:06:44.77,Default,,0,0,0,,A bunch of bad eggs
+Dialogue: 0,00:06:46.65,00:06:48.09,Default,,0,0,0,,Come and catch me
+Dialogue: 0,00:06:52.17,00:06:53.37,Default,,0,0,0,,He actually...
+Dialogue: 0,00:07:13.49,00:07:15.17,Default,,0,0,0,,What are you coming back to do?
+Dialogue: 0,00:07:15.77,00:07:16.41,Default,,0,0,0,,Because
+Dialogue: 0,00:07:16.49,00:07:17.73,Default,,0,0,0,,We’re all like you
+Dialogue: 0,00:07:18.13,00:07:19.61,Default,,0,0,0,,It’s a fool
+Dialogue: 0,00:07:23.21,00:07:24.37,Default,,0,0,0,,Then we
+Dialogue: 0,00:07:24.81,00:07:27.21,Default,,0,0,0,,Let’s deal with these bacteria together
+Dialogue: 0,00:07:31.61,00:07:32.37,Default,,0,0,0,,Keep going like this
+Dialogue: 0,00:07:33.01,00:07:34.89,Default,,0,0,0,,We’ll be digested
+Dialogue: 0,00:07:35.61,00:07:37.93,Default,,0,0,0,,If Weslie wakes up
+Dialogue: 0,00:07:40.65,00:07:43.13,Default,,0,0,0,,When will my brother wake up?
+Dialogue: 0,00:07:44.73,00:07:47.53,Default,,0,0,0,,He may be in a coma for a long time
+Dialogue: 0,00:07:49.41,00:07:51.13,Default,,0,0,0,,Don’t listen to the slander
+Dialogue: 0,00:07:51.29,00:07:53.05,Default,,0,0,0,,Weslie will wake up
+Dialogue: 0,00:07:53.53,00:07:54.57,Default,,0,0,0,,Everyone, think of a way
+Dialogue: 0,00:07:54.57,00:07:55.33,Default,,0,0,0,,Wake him up
+Dialogue: 0,00:07:56.81,00:07:58.77,Default,,0,0,0,,I’ll try to stimulate his acupoints
+Dialogue: 0,00:08:02.01,00:08:03.17,Default,,0,0,0,,Brother moves
+Dialogue: 0,00:08:03.25,00:08:04.73,Default,,0,0,0,,It’s not Weslie
+Dialogue: 0,00:08:04.81,00:08:05.81,Default,,0,0,0,,It’s the whole stomach...
+Dialogue: 0,00:08:06.09,00:08:08.33,Default,,0,0,0,,They’re all moving
+Dialogue: 0,00:08:10.49,00:08:12.01,Default,,0,0,0,,Stomach acid is coming again
+Dialogue: 0,00:08:15.29,00:08:16.17,Default,,0,0,0,,The little lamb
+Dialogue: 0,00:08:16.37,00:08:18.09,Default,,0,0,0,,Do you miss us?
+Dialogue: 0,00:08:20.65,00:08:21.61,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:25.17,00:08:25.73,Default,,0,0,0,,dad?
+Dialogue: 0,00:08:25.85,00:08:26.61,Default,,0,0,0,,mother?
+Dialogue: 0,00:08:27.57,00:08:29.41,Default,,0,0,0,,It’s great to see you
+Dialogue: 0,00:08:29.57,00:08:32.25,Default,,0,0,0,,I just seemed to have experienced some terrible things
+Dialogue: 0,00:08:32.49,00:08:33.49,Default,,0,0,0,,A friend was caught
+Dialogue: 0,00:08:33.69,00:08:34.37,Default,,0,0,0,,Wolffy comes to eat...
+Dialogue: 0,00:08:34.41,00:08:35.09,Default,,0,0,0,,Weslie
+Dialogue: 0,00:08:37.05,00:08:37.81,Default,,0,0,0,,We’re here this time
+Dialogue: 0,00:08:37.85,00:08:39.01,Default,,0,0,0,,I want to tell you
+Dialogue: 0,00:08:39.21,00:08:40.33,Default,,0,0,0,,We’re leaving
+Dialogue: 0,00:08:44.13,00:08:44.57,Default,,0,0,0,,That…
+Dialogue: 0,00:08:44.65,00:08:45.53,Default,,0,0,0,,You’re this time
+Dialogue: 0,00:08:45.65,00:08:46.81,Default,,0,0,0,,How long will it take to go?
+Dialogue: 0,00:08:47.53,00:08:49.05,Default,,0,0,0,,We don’t plan to come back
+Dialogue: 0,00:08:50.41,00:08:51.09,Default,,0,0,0,,You
+Dialogue: 0,00:08:51.17,00:08:52.69,Default,,0,0,0,,Just stay in the green grassland
+Dialogue: 0,00:08:54.61,00:08:55.29,Default,,0,0,0,,I don’t want it!
+Dialogue: 0,00:08:55.29,00:08:57.93,Default,,0,0,0,,I want to be with my dad and mom
+Dialogue: 0,00:09:00.17,00:09:01.89,Default,,0,0,0,,- See you again Weslie
+- See you again Weslie
+Dialogue: 0,00:09:08.01,00:09:08.65,Default,,0,0,0,,dad!
+Dialogue: 0,00:09:10.81,00:09:11.37,Default,,0,0,0,,mother!
+Dialogue: 0,00:09:11.61,00:09:12.81,Default,,0,0,0,,Don’t drop me
+Dialogue: 0,00:09:13.25,00:09:16.01,Default,,0,0,0,,Don’t drop me
+Dialogue: 0,00:09:17.89,00:09:19.33,Default,,0,0,0,,Don’t drop me...
+Dialogue: 0,00:09:32.17,00:09:32.81,Default,,0,0,0,,elder brother!
+Dialogue: 0,00:09:37.33,00:09:37.89,Default,,0,0,0,,quick…
+Dialogue: 0,00:09:37.93,00:09:39.57,Default,,0,0,0,,Can’t hold back
+Dialogue: 0,00:09:48.17,00:09:50.49,Default,,0,0,0,,Every time it’s my brother who comes to protect me
+Dialogue: 0,00:09:50.53,00:09:52.49,Default,,0,0,0,,This time I came to protect my brother
+Dialogue: 0,00:09:58.45,00:09:59.29,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:10:22.33,00:10:24.73,Default,,0,0,0,,Is it hard to tell if BB Goat has the ability?
+Dialogue: 0,00:10:38.01,00:10:38.81,Default,,0,0,0,,elder brother
+Dialogue: 0,00:10:42.81,00:10:43.57,Default,,0,0,0,,elder brother...
+Dialogue: 0,00:10:44.29,00:10:45.29,Default,,0,0,0,,Wake up quickly
+Dialogue: 0,00:10:47.21,00:10:47.77,Default,,0,0,0,,Awake
+Dialogue: 0,00:10:54.65,00:10:55.33,Default,,0,0,0,,elder brother
+Dialogue: 0,00:10:56.33,00:10:57.09,Default,,0,0,0,,Come with me...
+Dialogue: 0,00:10:58.45,00:10:59.29,Default,,0,0,0,,younger sister..
+Dialogue: 0,00:11:05.41,00:11:06.41,Default,,0,0,0,,younger sister
+Dialogue: 0,00:11:07.21,00:11:08.09,Default,,0,0,0,,There has been a reaction
+Dialogue: 0,00:11:10.49,00:11:11.01,Default,,0,0,0,,elder brother
+Dialogue: 0,00:11:11.21,00:11:11.61,Default,,0,0,0,,Walk
+Dialogue: 0,00:11:20.53,00:11:21.97,Default,,0,0,0,,Brother, wake up
+Dialogue: 0,00:11:29.01,00:11:30.37,Default,,0,0,0,,And we
+Dialogue: 0,00:11:31.49,00:11:32.09,Default,,0,0,0,,Everyone
+Dialogue: 0,00:11:33.29,00:11:34.41,Default,,0,0,0,,Let’s go together
+Dialogue: 0,00:11:38.41,00:11:40.33,Default,,0,0,0,,Weslie
+Dialogue: 0,00:11:48.41,00:11:50.21,Default,,0,0,0,,Wake up quickly!
+Dialogue: 0,00:11:54.45,00:11:56.85,Default,,0,0,0,,Wake me up!
+Dialogue: 0,00:12:07.53,00:12:08.93,Default,,0,0,0,,Brother, you finally wake up!
+Dialogue: 0,00:12:10.21,00:12:11.49,Default,,0,0,0,,You screamed so loudly
+Dialogue: 0,00:12:11.69,00:12:13.09,Default,,0,0,0,,How can I wake up?
+Dialogue: 0,00:12:14.81,00:12:15.29,Default,,0,0,0,,not good
+Dialogue: 0,00:12:15.33,00:12:16.89,Default,,0,0,0,,Stomach acid is coming again!
+Dialogue: 0,00:12:22.53,00:12:24.85,Default,,0,0,0,,What kind of storm we haven’t seen
+Dialogue: 0,00:12:25.53,00:12:26.89,Default,,0,0,0,,As long as we all go together
+Dialogue: 0,00:12:27.13,00:12:28.57,Default,,0,0,0,,You will definitely get out of trouble!
+Dialogue: 0,00:12:31.29,00:12:33.65,Default,,0,0,0,,Get out of trouble together!

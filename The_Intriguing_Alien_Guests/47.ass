@@ -1,0 +1,252 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:22.24,00:00:23.68,Default,,0,0,0,,It’s really a bad news for the teacher
+Dialogue: 0,00:00:23.80,00:00:24.48,Default,,0,0,0,,Want to find BB Goat
+Dialogue: 0,00:00:24.48,00:00:26.12,Default,,0,0,0,,Found a rhino
+Dialogue: 0,00:00:26.52,00:00:27.96,Default,,0,0,0,,Big brother, don’t run away
+Dialogue: 0,00:00:28.00,00:00:29.28,Default,,0,0,0,,Come and have fun!
+Dialogue: 0,00:00:30.12,00:00:30.88,Default,,0,0,0,,Little red!
+Dialogue: 0,00:00:30.88,00:00:32.36,Default,,0,0,0,,You think about it quickly!
+Dialogue: 0,00:00:32.40,00:00:33.96,Default,,0,0,0,,Don’t call me a little red!
+Dialogue: 0,00:00:38.44,00:00:39.60,Default,,0,0,0,,I have a way!
+Dialogue: 0,00:00:39.80,00:00:40.52,Default,,0,0,0,,what?
+Dialogue: 0,00:00:42.92,00:00:45.36,Default,,0,0,0,,What are you pushing me to do?
+Dialogue: 0,00:00:48.40,00:00:48.96,Default,,0,0,0,,The King
+Dialogue: 0,00:00:49.20,00:00:50.36,Default,,0,0,0,,You come in first to avoid it
+Dialogue: 0,00:00:50.52,00:00:51.52,Default,,0,0,0,,I’ll deal with him!
+Dialogue: 0,00:00:53.64,00:00:54.80,Default,,0,0,0,,You can’t first
+Dialogue: 0,00:00:54.80,00:00:56.88,Default,,0,0,0,,Tell me if you want to act again...
+Dialogue: 0,00:00:57.24,00:00:58.40,Default,,0,0,0,,But say back
+Dialogue: 0,00:00:59.71,00:01:01.12,Default,,0,0,0,,Where is this?
+Dialogue: 0,00:01:04.76,00:01:07.20,Default,,0,0,0,,Post-school training for primary school students
+Dialogue: 0,00:01:07.43,00:01:08.36,Default,,0,0,0,,The lamb stuff?
+Dialogue: 0,00:01:13.60,00:01:14.80,Default,,0,0,0,,I remembered it!
+Dialogue: 0,00:01:14.84,00:01:16.56,Default,,0,0,0,,It is the secret base of the lamb!
+Dialogue: 0,00:01:17.28,00:01:18.28,Default,,0,0,0,,There must be hidden here
+Dialogue: 0,00:01:18.28,00:01:19.92,Default,,0,0,0,,The secret of the lambs...
+Dialogue: 0,00:01:22.64,00:01:23.71,Default,,0,0,0,,But compared to practicing
+Dialogue: 0,00:01:23.76,00:01:25.04,Default,,0,0,0,,Or should the comic be better
+Dialogue: 0,00:01:26.60,00:01:27.56,Default,,0,0,0,,No!
+Dialogue: 0,00:01:27.64,00:01:29.76,Default,,0,0,0,,Am I trying to find out the secret of the lamb?
+Dialogue: 0,00:01:30.48,00:01:31.52,Default,,0,0,0,,No No
+Dialogue: 0,00:01:31.52,00:01:32.48,Default,,0,0,0,,Can’t distract yourself!
+Dialogue: 0,00:01:32.76,00:01:33.28,Default,,0,0,0,,no
+Dialogue: 0,00:01:36.64,00:01:38.32,Default,,0,0,0,,Play a game and look for it
+Dialogue: 0,00:01:38.36,00:01:39.76,Default,,0,0,0,,There is nothing to do with it...
+Dialogue: 0,00:01:41.96,00:01:42.60,Default,,0,0,0,,King!
+Dialogue: 0,00:01:42.64,00:01:44.48,Default,,0,0,0,,The rhino has been beaten by me!
+Dialogue: 0,00:01:56.64,00:01:57.64,Default,,0,0,0,,big…
+Dialogue: 0,00:01:57.64,00:01:58.56,Default,,0,0,0,,The King
+Dialogue: 0,00:02:05.68,00:02:06.60,Default,,0,0,0,,good…
+Dialogue: 0,00:02:06.64,00:02:07.56,Default,,0,0,0,,It hurts so much!
+Dialogue: 0,00:02:08.08,00:02:08.43,Default,,0,0,0,,King!
+Dialogue: 0,00:02:11.92,00:02:12.68,Default,,0,0,0,,Didn’t expect
+Dialogue: 0,00:02:12.68,00:02:14.44,Default,,0,0,0,,This hard work is practicing...
+Dialogue: 0,00:02:14.92,00:02:15.84,Default,,0,0,0,,That...
+Dialogue: 0,00:02:17.96,00:02:19.84,Default,,0,0,0,,I’ll help you to guard it outside!
+Dialogue: 0,00:02:19.96,00:02:21.84,Default,,0,0,0,,It won’t let anyone beat you up!
+Dialogue: 0,00:02:26.04,00:02:27.20,Default,,0,0,0,,Then I’m as you
+Dialogue: 0,00:02:27.24,00:02:28.88,Default,,0,0,0,,Stay here for a little longer...
+Dialogue: 0,00:02:29.12,00:02:29.60,Default,,0,0,0,,The King
+Dialogue: 0,00:02:30.12,00:02:31.24,Default,,0,0,0,,Wait for you to practice
+Dialogue: 0,00:02:31.24,00:02:32.56,Default,,0,0,0,,You must go through two tricks with me!
+Dialogue: 0,00:02:37.08,00:02:38.72,Default,,0,0,0,,I’m here to guard
+Dialogue: 0,00:02:39.04,00:02:41.08,Default,,0,0,0,,Don’t even want to fight the king
+Dialogue: 0,00:02:49.36,00:02:50.24,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:02:50.28,00:02:51.44,Default,,0,0,0,,Let’s play with us
+Dialogue: 0,00:02:54.60,00:02:55.96,Default,,0,0,0,,A little bit of a voice
+Dialogue: 0,00:02:56.63,00:02:57.84,Default,,0,0,0,,BB Goat fell asleep
+Dialogue: 0,00:02:59.44,00:03:00.16,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:03:00.24,00:03:01.56,Default,,0,0,0,,We play games calmly
+Dialogue: 0,00:03:01.56,00:03:02.68,Default,,0,0,0,,Wait until BB Goat wakes up
+Dialogue: 0,00:03:03.68,00:03:04.48,Default,,0,0,0,,Oh well
+Dialogue: 0,00:03:17.07,00:03:18.56,Default,,0,0,0,,You can’t play like this
+Dialogue: 0,00:03:18.63,00:03:20.12,Default,,0,0,0,,But it will also wake up BB Goat!
+Dialogue: 0,00:03:21.40,00:03:22.48,Default,,0,0,0,,That’s better than we play
+Dialogue: 0,00:03:22.52,00:03:23.96,Default,,0,0,0,,Let’s have a food competition!
+Dialogue: 0,00:03:25.04,00:03:26.60,Default,,0,0,0,,Is eating a game?
+Dialogue: 0,00:03:27.52,00:03:29.07,Default,,0,0,0,,Then I might as well play the game myself
+Dialogue: 0,00:03:29.56,00:03:30.28,Default,,0,0,0,,Right
+Dialogue: 0,00:03:30.52,00:03:32.88,Default,,0,0,0,,My game is still at the secret base
+Dialogue: 0,00:03:34.60,00:03:36.52,Default,,0,0,0,,My snacks are...
+Dialogue: 0,00:03:37.32,00:03:39.72,Default,,0,0,0,,My comics are also in the secret base.
+Dialogue: 0,00:03:40.56,00:03:41.84,Default,,0,0,0,,I seem to have forgotten it, too
+Dialogue: 0,00:03:41.88,00:03:43.56,Default,,0,0,0,,The secret base has been spent
+Dialogue: 0,00:03:44.40,00:03:46.04,Default,,0,0,0,,Let’s go to the secret base together
+Dialogue: 0,00:03:50.88,00:03:51.48,Default,,0,0,0,,waist…
+Dialogue: 0,00:03:52.68,00:03:53.80,Default,,0,0,0,,Very sour
+Dialogue: 0,00:03:54.12,00:03:55.48,Default,,0,0,0,,It’s been half a day
+Dialogue: 0,00:03:55.48,00:03:56.68,Default,,0,0,0,,The king is still there
+Dialogue: 0,00:03:57.24,00:03:58.92,Default,,0,0,0,,The king is working so hard!
+Dialogue: 0,00:03:58.96,00:03:59.88,Default,,0,0,0,,I can’t transfer either!
+Dialogue: 0,00:04:11.16,00:04:13.28,Default,,0,0,0,,It’s so good for one person!
+Dialogue: 0,00:04:18.48,00:04:19.24,Default,,0,0,0,,Running with goat
+Dialogue: 0,00:04:19.24,00:04:20.80,Default,,0,0,0,,It’s actually faster than Weslie!
+Dialogue: 0,00:04:21.56,00:04:22.60,Default,,0,0,0,,Because I want to be quick
+Dialogue: 0,00:04:22.63,00:04:24.76,Default,,0,0,0,,I saw my snacks!
+Dialogue: 0,00:04:27.63,00:04:28.80,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:04:29.40,00:04:30.92,Default,,0,0,0,,I’m guarding here now
+Dialogue: 0,00:04:30.96,00:04:32.28,Default,,0,0,0,,No one should get close to you!
+Dialogue: 0,00:04:32.80,00:04:33.48,Default,,0,0,0,,Paleomic bacteria?
+Dialogue: 0,00:04:35.36,00:04:37.16,Default,,0,0,0,,This is our secret base!
+Dialogue: 0,00:04:37.20,00:04:39.76,Default,,0,0,0,,What can’t we go in?
+Dialogue: 0,00:04:40.00,00:04:41.36,Default,,0,0,0,,No, no
+Dialogue: 0,00:04:43.00,00:04:44.80,Default,,0,0,0,,Then don’t blame us for being rude
+Dialogue: 0,00:05:05.28,00:05:06.56,Default,,0,0,0,,Give it to me
+Dialogue: 0,00:05:19.20,00:05:20.32,Default,,0,0,0,,Micacaria
+Dialogue: 0,00:05:25.07,00:05:28.88,Default,,0,0,0,,Weslie and Sparky  are really unreliable
+Dialogue: 0,00:05:41.12,00:05:43.44,Default,,0,0,0,,I have to look at my key moments
+Dialogue: 0,00:05:43.63,00:05:44.56,Default,,0,0,0,,Go
+Dialogue: 0,00:05:52.76,00:05:54.48,Default,,0,0,0,,You’re fine, you’re goat!
+Dialogue: 0,00:06:03.48,00:06:05.36,Default,,0,0,0,,Why is this Thousand Fungus Armor so hard
+Dialogue: 0,00:06:05.96,00:06:08.00,Default,,0,0,0,,This is not a solution
+Dialogue: 0,00:06:08.00,00:06:09.84,Default,,0,0,0,,Let’s go back and think about the solution
+Dialogue: 0,00:06:11.08,00:06:12.16,Default,,0,0,0,,You’ll wait for me
+Dialogue: 0,00:06:12.28,00:06:13.16,Default,,0,0,0,,Young people
+Dialogue: 0,00:06:13.24,00:06:14.68,Default,,0,0,0,,Let’s practice for a few years!
+Dialogue: 0,00:06:22.04,00:06:23.24,Default,,0,0,0,,What is he doing?
+Dialogue: 0,00:06:29.60,00:06:31.52,Default,,0,0,0,,My snacks are missing me...
+Dialogue: 0,00:06:32.32,00:06:33.20,Default,,0,0,0,,My comics
+Dialogue: 0,00:06:33.24,00:06:35.08,Default,,0,0,0,,I just didn’t read the last chapter...
+Dialogue: 0,00:06:36.16,00:06:37.92,Default,,0,0,0,,My flowers are not yet...
+Dialogue: 0,00:06:38.32,00:06:39.72,Default,,0,0,0,,My game plane has just been updated
+Dialogue: 0,00:06:39.76,00:06:40.52,Default,,0,0,0,,Haven’t played yet
+Dialogue: 0,00:06:41.24,00:06:42.44,Default,,0,0,0,,My post-school practice
+Dialogue: 0,00:06:42.44,00:06:43.68,Default,,0,0,0,,There is still a single unit that doesn’t do...
+Dialogue: 0,00:06:46.28,00:06:47.80,Default,,0,0,0,,But the anti-bacterial bacteria
+Dialogue: 0,00:06:47.84,00:06:48.76,Default,,0,0,0,,Too bad!
+Dialogue: 0,00:06:49.32,00:06:51.12,Default,,0,0,0,,No matter how bad people are, they are weak!
+Dialogue: 0,00:06:51.88,00:06:54.08,Default,,0,0,0,,So he must be weak!
+Dialogue: 0,00:06:55.40,00:06:57.20,Default,,0,0,0,,Can you know his weakness?
+Dialogue: 0,00:06:58.64,00:06:59.48,Default,,0,0,0,,Village chief
+Dialogue: 0,00:06:59.48,00:07:01.56,Default,,0,0,0,,What are the weaknesses of ancient bacteria?
+Dialogue: 0,00:07:03.72,00:07:04.72,Default,,0,0,0,,Paleomic bacteria?
+Dialogue: 0,00:07:05.12,00:07:05.80,Default,,0,0,0,,How do I
+Dialogue: 0,00:07:08.68,00:07:09.32,Default,,0,0,0,,Village chief?
+Dialogue: 0,00:07:10.40,00:07:11.32,Default,,0,0,0,,What happened to the village chief
+Dialogue: 0,00:07:11.56,00:07:12.47,Default,,0,0,0,,We’re tightening
+Dialogue: 0,00:07:12.47,00:07:13.52,Default,,0,0,0,,Look at the village chief!
+Dialogue: 0,00:07:15.32,00:07:16.47,Default,,0,0,0,,Village Chief!
+Dialogue: 0,00:07:18.32,00:07:19.76,Default,,0,0,0,,What happened to you?
+Dialogue: 0,00:07:20.96,00:07:21.60,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:07:21.60,00:07:22.64,Default,,0,0,0,,You’re fine...
+Dialogue: 0,00:07:23.52,00:07:24.32,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:07:24.32,00:07:25.60,Default,,0,0,0,,Just old
+Dialogue: 0,00:07:25.60,00:07:26.84,Default,,0,0,0,,A little pain in the waist
+Dialogue: 0,00:07:27.56,00:07:28.44,Default,,0,0,0,,That...
+Dialogue: 0,00:07:28.47,00:07:30.76,Default,,0,0,0,,Let’s help you up first
+Dialogue: 0,00:07:33.40,00:07:35.08,Default,,0,0,0,,I’ll help you with ointment
+Dialogue: 0,00:07:38.40,00:07:39.72,Default,,0,0,0,,Very comfortable
+Dialogue: 0,00:07:39.72,00:07:41.68,Default,,0,0,0,,Now I’m like I’ve been slaughtered
+Dialogue: 0,00:07:41.68,00:07:43.76,Default,,0,0,0,,The bird is as free as it is
+Dialogue: 0,00:07:44.64,00:07:46.32,Default,,0,0,0,,It feels much more comfortable in one go!
+Dialogue: 0,00:07:46.56,00:07:48.56,Default,,0,0,0,,This kind of pain sticker is indeed effective
+Dialogue: 0,00:07:49.16,00:07:49.72,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:07:49.72,00:07:51.88,Default,,0,0,0,,Will older people suffer from low back pain after standing for a long time?
+Dialogue: 0,00:07:54.12,00:07:55.47,Default,,0,0,0,,Usually it will
+Dialogue: 0,00:07:59.52,00:08:00.68,Default,,0,0,0,,I have a way...
+Dialogue: 0,00:08:14.24,00:08:15.40,Default,,0,0,0,,So sour!
+Dialogue: 0,00:08:18.92,00:08:20.28,Default,,0,0,0,,Very sour
+Dialogue: 0,00:08:27.92,00:08:28.80,Default,,0,0,0,,All finished
+Dialogue: 0,00:08:30.64,00:08:32.44,Default,,0,0,0,,Then buy some more and come back
+Dialogue: 0,00:08:40.00,00:08:41.60,Default,,0,0,0,,Thank you very much
+Dialogue: 0,00:08:42.32,00:08:42.68,Default,,0,0,0,,good…
+Dialogue: 0,00:08:42.72,00:08:44.00,Default,,0,0,0,,What a bad thing
+Dialogue: 0,00:08:46.68,00:08:47.32,Default,,0,0,0,,The King
+Dialogue: 0,00:08:47.35,00:08:48.47,Default,,0,0,0,,Have you practiced?
+Dialogue: 0,00:08:50.84,00:08:51.72,Default,,0,0,0,,Almost done
+Dialogue: 0,00:08:51.76,00:08:53.40,Default,,0,0,0,,I’ll buy something and come back
+Dialogue: 0,00:08:54.47,00:08:55.92,Default,,0,0,0,,You keep guarding here!
+Dialogue: 0,00:08:57.47,00:08:58.76,Default,,0,0,0,,It’s the king!
+Dialogue: 0,00:09:01.88,00:09:03.84,Default,,0,0,0,,Almost can’t hide it
+Dialogue: 0,00:09:04.40,00:09:05.76,Default,,0,0,0,,Wait until I buy some food and come back
+Dialogue: 0,00:09:05.76,00:09:07.12,Default,,0,0,0,,Open the game again
+Dialogue: 0,00:09:09.28,00:09:10.32,Default,,0,0,0,,So sour...
+Dialogue: 0,00:09:10.32,00:09:12.40,Default,,0,0,0,,Why are you not acting in a state of discomfort today?
+Dialogue: 0,00:09:13.52,00:09:15.35,Default,,0,0,0,,It was indeed the same as Sparky’s prediction!
+Dialogue: 0,00:09:16.72,00:09:18.08,Default,,0,0,0,,Let’s see mine next!
+Dialogue: 0,00:09:21.80,00:09:23.08,Default,,0,0,0,,Why is it coming again
+Dialogue: 0,00:09:23.88,00:09:24.40,Default,,0,0,0,,This time
+Dialogue: 0,00:09:24.44,00:09:25.64,Default,,0,0,0,,I’ve come here
+Dialogue: 0,00:09:30.24,00:09:31.88,Default,,0,0,0,,It’s the same many times!
+Dialogue: 0,00:09:32.08,00:09:32.84,Default,,0,0,0,,Thousands of C. agaric! !
+Dialogue: 0,00:09:34.88,00:09:35.88,Default,,0,0,0,,Take the call...
+Dialogue: 0,00:09:42.20,00:09:42.64,Default,,0,0,0,,This…
+Dialogue: 0,00:09:42.64,00:09:44.47,Default,,0,0,0,,What kind of weapon is this...
+Dialogue: 0,00:09:45.72,00:09:47.00,Default,,0,0,0,,Please try our Goat Village
+Dialogue: 0,00:09:47.04,00:09:48.44,Default,,0,0,0,,Special town pain stickers!
+Dialogue: 0,00:09:48.44,00:09:49.84,Default,,0,0,0,,unnecessary!
+Dialogue: 0,00:09:49.84,00:09:51.96,Default,,0,0,0,,Why are you so solid!
+Dialogue: 0,00:09:52.80,00:09:55.24,Default,,0,0,0,,The body is the most precious wealth...
+Dialogue: 0,00:09:56.12,00:09:56.60,Default,,0,0,0,,This…
+Dialogue: 0,00:09:56.64,00:09:58.35,Default,,0,0,0,,Are we not enemies?
+Dialogue: 0,00:10:00.16,00:10:01.76,Default,,0,0,0,,The pain in our town in Yang Village
+Dialogue: 0,00:10:01.80,00:10:03.44,Default,,0,0,0,,But the secret recipe of ancient method is used
+Dialogue: 0,00:10:03.44,00:10:06.28,Default,,0,0,0,,Combined with more than 20 famous natural medicines
+Dialogue: 0,00:10:06.96,00:10:08.84,Default,,0,0,0,,After 77448 days
+Dialogue: 0,00:10:08.88,00:10:10.08,Default,,0,0,0,,It is made of low temperature and slow
+Dialogue: 0,00:10:10.12,00:10:11.16,Default,,0,0,0,,Not forty-nine
+Dialogue: 0,00:10:11.20,00:10:12.00,Default,,0,0,0,,After posting
+Dialogue: 0,00:10:12.28,00:10:12.76,Default,,0,0,0,,Good waist
+Dialogue: 0,00:10:12.92,00:10:13.64,Default,,0,0,0,,Good legs
+Dialogue: 0,00:10:14.56,00:10:15.84,Default,,0,0,0,,Good spirits
+Dialogue: 0,00:10:17.35,00:10:20.16,Default,,0,0,0,,Let your whole body be washed
+Dialogue: 0,00:10:20.64,00:10:21.68,Default,,0,0,0,,Eat the fragrant food!
+Dialogue: 0,00:10:21.68,00:10:22.76,Default,,0,0,0,,Great body!
+Dialogue: 0,00:10:24.68,00:10:25.64,Default,,0,0,0,,this…
+Dialogue: 0,00:10:25.64,00:10:27.28,Default,,0,0,0,,It sounds pretty good
+Dialogue: 0,00:10:27.32,00:10:28.64,Default,,0,0,0,,I don’t know if I use it
+Dialogue: 0,00:10:34.56,00:10:35.56,Default,,0,0,0,,It’s you again!
+Dialogue: 0,00:10:36.35,00:10:38.08,Default,,0,0,0,,Run...
+Dialogue: 0,00:10:38.08,00:10:39.44,Default,,0,0,0,,stop!
+Dialogue: 0,00:10:39.60,00:10:40.28,Default,,0,0,0,,There is a broken bit! ! !
+Dialogue: 0,00:10:44.47,00:10:46.56,Default,,0,0,0,,This feeling of tranquility comes in an instant
+Dialogue: 0,00:10:46.60,00:10:48.47,Default,,0,0,0,,It stimulates every pore behind me...
+Dialogue: 0,00:10:48.80,00:10:51.56,Default,,0,0,0,,The effect of the medicine penetrates the entire body
+Dialogue: 0,00:10:53.56,00:10:55.12,Default,,0,0,0,,The pain is slowly
+Dialogue: 0,00:10:55.20,00:10:57.08,Default,,0,0,0,,Slowly disappearing...
+Dialogue: 0,00:10:58.28,00:11:00.68,Default,,0,0,0,,It’s really comfortable...
+Dialogue: 0,00:11:01.64,00:11:03.44,Default,,0,0,0,,You just enjoy it here.
+Dialogue: 0,00:11:04.47,00:11:06.24,Default,,0,0,0,,Let’s go in now!
+Dialogue: 0,00:11:21.47,00:11:24.35,Default,,0,0,0,,All my snacks were eaten!
+Dialogue: 0,00:11:24.88,00:11:26.12,Default,,0,0,0,,My new game
+Dialogue: 0,00:11:26.12,00:11:27.88,Default,,0,0,0,,It’s almost closed!
+Dialogue: 0,00:11:28.44,00:11:29.80,Default,,0,0,0,,My comic book!
+Dialogue: 0,00:11:30.00,00:11:31.40,Default,,0,0,0,,My flowers!
+Dialogue: 0,00:11:32.08,00:11:33.72,Default,,0,0,0,,Fortunately, my post-school training book
+Dialogue: 0,00:11:33.76,00:11:34.76,Default,,0,0,0,,It’s pretty good
+Dialogue: 0,00:11:37.08,00:11:39.44,Default,,0,0,0,,You lambs dare to steal me!
+Dialogue: 0,00:11:44.32,00:11:45.84,Default,,0,0,0,,What’s going on...
+Dialogue: 0,00:11:47.64,00:11:50.16,Default,,0,0,0,,Have you touched my game
+Dialogue: 0,00:11:50.20,00:11:51.16,Default,,0,0,0,,My snacks
+Dialogue: 0,00:11:51.16,00:11:52.24,Default,,0,0,0,,My flowers
+Dialogue: 0,00:11:52.28,00:11:53.44,Default,,0,0,0,,My comic book…
+Dialogue: 0,00:11:54.96,00:11:56.16,Default,,0,0,0,,I’ve been out again
+Dialogue: 0,00:11:56.20,00:11:57.28,Default,,0,0,0,,Keep the king’s efforts!
+Dialogue: 0,00:11:57.28,00:11:58.68,Default,,0,0,0,,How could it be me
+Dialogue: 0,00:12:00.24,00:12:01.08,Default,,0,0,0,,The king...
+Dialogue: 0,00:12:03.47,00:12:04.80,Default,,0,0,0,,Buy this many things
+Dialogue: 0,00:12:04.96,00:12:06.76,Default,,0,0,0,,Why not call it a bacterial army
+Dialogue: 0,00:12:06.80,00:12:08.08,Default,,0,0,0,,Let’s play together!
+Dialogue: 0,00:12:13.00,00:12:13.32,Default,,0,0,0,,Small…
+Dialogue: 0,00:12:13.40,00:12:14.12,Default,,0,0,0,,Little red?
+Dialogue: 0,00:12:14.60,00:12:16.24,Default,,0,0,0,,Don’t call me a little red...
+Dialogue: 0,00:12:19.64,00:12:21.52,Default,,0,0,0,,Are these all you did?
+Dialogue: 0,00:12:22.20,00:12:22.68,Default,,0,0,0,,This…
+Dialogue: 0,00:12:24.60,00:12:26.28,Default,,0,0,0,,You discovered it...
+Dialogue: 0,00:12:27.28,00:12:28.56,Default,,0,0,0,,Say it well
+Dialogue: 0,00:12:28.60,00:12:31.08,Default,,0,0,0,,Say it carefully...

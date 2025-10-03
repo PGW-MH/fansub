@@ -1,0 +1,270 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:19.36,00:00:21.36,Default,,0,0,0,,This is the mission given to us by the king
+Dialogue: 0,00:00:21.96,00:00:22.48,Default,,0,0,0,,That’s right!
+Dialogue: 0,00:00:22.80,00:00:23.56,Default,,0,0,0,,We must be in
+Dialogue: 0,00:00:23.60,00:00:25.36,Default,,0,0,0,,The king finished the work before he returned
+Dialogue: 0,00:00:26.08,00:00:27.72,Default,,0,0,0,,What about the big king and the little green?
+Dialogue: 0,00:00:28.48,00:00:30.00,Default,,0,0,0,,The king went very far away...
+Dialogue: 0,00:00:30.04,00:00:31.80,Default,,0,0,0,,Very far away on the grassland
+Dialogue: 0,00:00:32.92,00:00:34.40,Default,,0,0,0,,Go there to catch the goat
+Dialogue: 0,00:00:55.60,00:00:56.43,Default,,0,0,0,,Can
+Dialogue: 0,00:00:56.48,00:00:57.76,Default,,0,0,0,,Looks very similar
+Dialogue: 0,00:00:57.76,00:00:59.76,Default,,0,0,0,,My plan is perfect
+Dialogue: 0,00:01:01.00,00:01:01.48,Default,,0,0,0,,Little green!
+Dialogue: 0,00:01:01.52,00:01:03.00,Default,,0,0,0,,Give him a new look
+Dialogue: 0,00:01:05.68,00:01:07.00,Default,,0,0,0,,no problem!
+Dialogue: 0,00:01:18.48,00:01:19.08,Default,,0,0,0,,Please
+Dialogue: 0,00:01:19.08,00:01:20.88,Default,,0,0,0,,Have you seen my sister?
+Dialogue: 0,00:01:22.96,00:01:23.68,Default,,0,0,0,,Who are you?
+Dialogue: 0,00:01:24.43,00:01:26.64,Default,,0,0,0,,I’m here to find my lost sister
+Dialogue: 0,00:01:27.43,00:01:28.84,Default,,0,0,0,,Your sister?
+Dialogue: 0,00:01:29.28,00:01:30.80,Default,,0,0,0,,Brother and sister!
+Dialogue: 0,00:01:35.64,00:01:36.32,Default,,0,0,0,,younger sister! !
+Dialogue: 0,00:01:37.16,00:01:39.04,Default,,0,0,0,,It’s so hard for brother to find you!
+Dialogue: 0,00:01:40.24,00:01:41.32,Default,,0,0,0,,elder brother?
+Dialogue: 0,00:01:45.32,00:01:46.80,Default,,0,0,0,,Is BB Goat your sister?
+Dialogue: 0,00:01:48.36,00:01:48.92,Default,,0,0,0,,Yes
+Dialogue: 0,00:01:49.12,00:01:50.24,Default,,0,0,0,,I’m his brother
+Dialogue: 0,00:01:51.96,00:01:53.08,Default,,0,0,0,,Really
+Dialogue: 0,00:01:58.43,00:01:59.96,Default,,0,0,0,,What’s your name?
+Dialogue: 0,00:02:00.12,00:02:01.12,Default,,0,0,0,,Where to live?
+Dialogue: 0,00:02:02.16,00:02:03.36,Default,,0,0,0,,I’ve prepared it
+Dialogue: 0,00:02:03.84,00:02:04.88,Default,,0,0,0,,My name is HH Goat
+Dialogue: 0,00:02:05.04,00:02:06.04,Default,,0,0,0,,Living in Guagua Village
+Dialogue: 0,00:02:06.08,00:02:07.24,Default,,0,0,0,,My sister’s name is BB Goat
+Dialogue: 0,00:02:07.32,00:02:08.60,Default,,0,0,0,,Brother is called HH Goat
+Dialogue: 0,00:02:08.64,00:02:09.96,Default,,0,0,0,,Really quite like a sibling
+Dialogue: 0,00:02:11.20,00:02:14.16,Default,,0,0,0,,I’ll call to Guagua Village to make a testimony
+Dialogue: 0,00:02:20.04,00:02:20.84,Default,,0,0,0,,Have been called!
+Dialogue: 0,00:02:22.72,00:02:23.32,Default,,0,0,0,,Hello
+Dialogue: 0,00:02:23.36,00:02:24.84,Default,,0,0,0,,Is there a name in your village
+Dialogue: 0,00:02:24.84,00:02:26.12,Default,,0,0,0,,The villagers of HH Goat?
+Dialogue: 0,00:02:26.44,00:02:27.20,Default,,0,0,0,,That’s right
+Dialogue: 0,00:02:27.24,00:02:28.00,Default,,0,0,0,,Yes
+Dialogue: 0,00:02:28.04,00:02:29.48,Default,,0,0,0,,So does he have a sister
+Dialogue: 0,00:02:29.52,00:02:30.48,Default,,0,0,0,,Called BB Goat
+Dialogue: 0,00:02:30.84,00:02:31.80,Default,,0,0,0,,Yes
+Dialogue: 0,00:02:33.84,00:02:35.84,Default,,0,0,0,,I confirmed it with the village chief of Guagua Village
+Dialogue: 0,00:02:35.88,00:02:37.12,Default,,0,0,0,,What he said is true!
+Dialogue: 0,00:02:40.44,00:02:41.32,Default,,0,0,0,,Very good!
+Dialogue: 0,00:02:41.48,00:02:42.04,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:02:42.08,00:02:43.44,Default,,0,0,0,,You found your brother!
+Dialogue: 0,00:02:45.56,00:02:47.16,Default,,0,0,0,,Then I’m going to take my sister home
+Dialogue: 0,00:02:47.36,00:02:48.32,Default,,0,0,0,,etc.
+Dialogue: 0,00:02:49.24,00:02:50.76,Default,,0,0,0,,To ensure accuracy
+Dialogue: 0,00:02:51.08,00:02:53.16,Default,,0,0,0,,I want to compare your genes
+Dialogue: 0,00:02:54.07,00:02:54.63,Default,,0,0,0,,All right
+Dialogue: 0,00:03:10.44,00:03:11.80,Default,,0,0,0,,Match successfully
+Dialogue: 0,00:03:12.63,00:03:14.16,Default,,0,0,0,,They have blood relationship!
+Dialogue: 0,00:03:16.52,00:03:17.63,Default,,0,0,0,,There is a little green to help
+Dialogue: 0,00:03:17.72,00:03:19.48,Default,,0,0,0,,Surely matched!
+Dialogue: 0,00:03:21.20,00:03:21.96,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:03:22.04,00:03:23.44,Default,,0,0,0,,Found your brother!
+Dialogue: 0,00:03:23.56,00:03:24.68,Default,,0,0,0,,Very good
+Dialogue: 0,00:03:26.36,00:03:27.20,Default,,0,0,0,,Very good
+Dialogue: 0,00:03:28.60,00:03:29.32,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:03:29.40,00:03:30.44,Default,,0,0,0,,I’ve gone to buy vegetables
+Dialogue: 0,00:03:30.92,00:03:31.63,Default,,0,0,0,,good
+Dialogue: 0,00:03:35.28,00:03:36.60,Default,,0,0,0,,What are you doing
+Dialogue: 0,00:03:44.76,00:03:46.48,Default,,0,0,0,,I can’t tell you it’s wrong
+Dialogue: 0,00:03:48.12,00:03:49.12,Default,,0,0,0,,Come again
+Dialogue: 0,00:03:49.92,00:03:51.44,Default,,0,0,0,,What are you doing!
+Dialogue: 0,00:03:59.24,00:03:59.76,Default,,0,0,0,,never mind
+Dialogue: 0,00:03:59.84,00:04:01.28,Default,,0,0,0,,Be cautious of you
+Dialogue: 0,00:04:06.76,00:04:07.48,Default,,0,0,0,,It’s almost done
+Dialogue: 0,00:04:07.60,00:04:08.44,Default,,0,0,0,,Let’s dig tightly
+Dialogue: 0,00:04:17.92,00:04:19.96,Default,,0,0,0,,It turns out you are digging holes!
+Dialogue: 0,00:04:20.12,00:04:21.40,Default,,0,0,0,,Been discovered!
+Dialogue: 0,00:04:21.96,00:04:23.52,Default,,0,0,0,,Can’t let him destroy the plan
+Dialogue: 0,00:04:23.92,00:04:24.76,Default,,0,0,0,,what
+Dialogue: 0,00:04:25.28,00:04:25.84,Default,,0,0,0,,dad
+Dialogue: 0,00:04:27.56,00:04:28.48,Default,,0,0,0,,Small gray
+Dialogue: 0,00:04:30.68,00:04:31.63,Default,,0,0,0,,Catch them!
+Dialogue: 0,00:04:31.63,00:04:32.88,Default,,0,0,0,,Don’t blame me!
+Dialogue: 0,00:04:43.32,00:04:45.20,Default,,0,0,0,,I’ll ask you in the future
+Dialogue: 0,00:04:45.68,00:04:46.36,Default,,0,0,0,,Don’t worry!
+Dialogue: 0,00:04:47.40,00:04:48.96,Default,,0,0,0,,I’ll take good care of BB Goat
+Dialogue: 0,00:04:52.32,00:04:54.00,Default,,0,0,0,,Don’t want you to hold hands
+Dialogue: 0,00:04:55.56,00:04:56.28,Default,,0,0,0,,good
+Dialogue: 0,00:04:56.48,00:04:57.40,Default,,0,0,0,,Don’t turn hands
+Dialogue: 0,00:05:12.63,00:05:13.32,Default,,0,0,0,,etc.
+Dialogue: 0,00:05:15.32,00:05:16.24,Default,,0,0,0,,Before BB Goat sleeps
+Dialogue: 0,00:05:16.28,00:05:17.48,Default,,0,0,0,,Like to hear stories
+Dialogue: 0,00:05:17.88,00:05:19.32,Default,,0,0,0,,You remember to listen to her
+Dialogue: 0,00:05:19.76,00:05:20.56,Default,,0,0,0,,Will it Will it
+Dialogue: 0,00:05:22.63,00:05:23.07,Default,,0,0,0,,etc.
+Dialogue: 0,00:05:25.07,00:05:26.63,Default,,0,0,0,,Remember to dress her when it’s cold
+Dialogue: 0,00:05:26.92,00:05:28.48,Default,,0,0,0,,I’ll give her something delicious when I’m tired
+Dialogue: 0,00:05:29.32,00:05:30.07,Default,,0,0,0,,OK OK
+Dialogue: 0,00:05:31.68,00:05:32.36,Default,,0,0,0,,etc.
+Dialogue: 0,00:05:35.28,00:05:37.68,Default,,0,0,0,,Are you finished?
+Dialogue: 0,00:05:38.40,00:05:39.20,Default,,0,0,0,,No No
+Dialogue: 0,00:05:39.24,00:05:41.40,Default,,0,0,0,,I want to control myself
+Dialogue: 0,00:05:41.92,00:05:43.36,Default,,0,0,0,,Is there anything else?
+Dialogue: 0,00:05:43.76,00:05:45.68,Default,,0,0,0,,BB Goat likes to eat candy the most
+Dialogue: 0,00:05:46.24,00:05:47.28,Default,,0,0,0,,This gives her
+Dialogue: 0,00:05:48.04,00:05:48.80,Default,,0,0,0,,Thank you
+Dialogue: 0,00:05:49.96,00:05:51.44,Default,,0,0,0,,We can finally go home
+Dialogue: 0,00:05:54.60,00:05:55.68,Default,,0,0,0,,No No
+Dialogue: 0,00:05:59.00,00:06:00.28,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:06:00.52,00:06:01.96,Default,,0,0,0,,I don’t want to go home
+Dialogue: 0,00:06:02.16,00:06:03.80,Default,,0,0,0,,I’m going to play with you
+Dialogue: 0,00:06:04.68,00:06:06.48,Default,,0,0,0,,But your brother came to pick you up
+Dialogue: 0,00:06:08.04,00:06:08.60,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:06:08.64,00:06:10.68,Default,,0,0,0,,What exactly should you go
+Dialogue: 0,00:06:12.64,00:06:14.12,Default,,0,0,0,,Before BB Goat left
+Dialogue: 0,00:06:14.44,00:06:16.08,Default,,0,0,0,,Return the super cube
+Dialogue: 0,00:06:19.20,00:06:20.36,Default,,0,0,0,,Researched
+Dialogue: 0,00:06:20.56,00:06:22.12,Default,,0,0,0,,It’s a mess
+Dialogue: 0,00:06:44.60,00:06:45.40,Default,,0,0,0,,Look, everyone!
+Dialogue: 0,00:06:46.76,00:06:48.20,Default,,0,0,0,,I’ll do one in the future
+Dialogue: 0,00:06:48.60,00:06:49.48,Default,,0,0,0,,Can speed up
+Dialogue: 0,00:06:50.12,00:06:51.00,Default,,0,0,0,,Can be hot
+Dialogue: 0,00:06:52.00,00:06:53.68,Default,,0,0,0,,Can also collect matter from the air
+Dialogue: 0,00:06:54.00,00:06:55.40,Default,,0,0,0,,Even communicate with animals
+Dialogue: 0,00:06:55.44,00:06:56.24,Default,,0,0,0,,and clone
+Dialogue: 0,00:06:57.44,00:06:58.80,Default,,0,0,0,,Such an unrealistic thing
+Dialogue: 0,00:06:58.84,00:07:00.40,Default,,0,0,0,,How can it be done
+Dialogue: 0,00:07:02.28,00:07:03.40,Default,,0,0,0,,Don’t be discouraged!
+Dialogue: 0,00:07:03.96,00:07:04.80,Default,,0,0,0,,teacher
+Dialogue: 0,00:07:04.80,00:07:06.92,Default,,0,0,0,,The teacher believes you can do it!
+Dialogue: 0,00:07:12.76,00:07:13.80,Default,,0,0,0,,I won’t leave
+Dialogue: 0,00:07:14.40,00:07:14.96,Default,,0,0,0,,Listen
+Dialogue: 0,00:07:15.04,00:07:15.88,Default,,0,0,0,,Go back
+Dialogue: 0,00:07:16.35,00:07:17.96,Default,,0,0,0,,I won’t leave I won’t leave!
+Dialogue: 0,00:07:19.60,00:07:21.04,Default,,0,0,0,,You take her back
+Dialogue: 0,00:07:22.24,00:07:23.04,Default,,0,0,0,,I won’t leave
+Dialogue: 0,00:07:23.28,00:07:25.08,Default,,0,0,0,,I want to play with everyone!
+Dialogue: 0,00:07:25.32,00:07:27.12,Default,,0,0,0,,BB Goat, stop beating
+Dialogue: 0,00:07:27.16,00:07:27.56,Default,,0,0,0,,right
+Dialogue: 0,00:07:27.88,00:07:29.12,Default,,0,0,0,,Go home with your brother soon
+Dialogue: 0,00:07:29.72,00:07:30.56,Default,,0,0,0,,I don’t want it
+Dialogue: 0,00:07:31.24,00:07:32.47,Default,,0,0,0,,You come and chase me
+Dialogue: 0,00:07:34.20,00:07:35.92,Default,,0,0,0,,Very fun
+Dialogue: 0,00:07:39.16,00:07:40.64,Default,,0,0,0,,Stop running, sister
+Dialogue: 0,00:07:41.56,00:07:42.72,Default,,0,0,0,,Come and catch me
+Dialogue: 0,00:07:43.12,00:07:45.20,Default,,0,0,0,,You’re so small
+Dialogue: 0,00:07:46.08,00:07:46.80,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:07:51.00,00:07:52.47,Default,,0,0,0,,BB Goat, stop running
+Dialogue: 0,00:08:00.08,00:08:00.84,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:00.84,00:08:01.72,Default,,0,0,0,,Don’t be rude
+Dialogue: 0,00:08:01.96,00:08:03.60,Default,,0,0,0,,Go home with your brother soon
+Dialogue: 0,00:08:04.88,00:08:05.68,Default,,0,0,0,,I won’t leave!
+Dialogue: 0,00:08:05.80,00:08:07.52,Default,,0,0,0,,I’m going to play with you
+Dialogue: 0,00:08:10.00,00:08:11.40,Default,,0,0,0,,Who’s going to play with you
+Dialogue: 0,00:08:11.72,00:08:12.84,Default,,0,0,0,,We’ve always
+Dialogue: 0,00:08:12.84,00:08:14.52,Default,,0,0,0,,I’ve worked so hard to find you brother
+Dialogue: 0,00:08:15.00,00:08:16.44,Default,,0,0,0,,I finally found it now
+Dialogue: 0,00:08:16.47,00:08:17.68,Default,,0,0,0,,You said you won’t leave
+Dialogue: 0,00:08:18.35,00:08:19.92,Default,,0,0,0,,You’ll be like this
+Dialogue: 0,00:08:20.35,00:08:21.24,Default,,0,0,0,,Neither of us will
+Dialogue: 0,00:08:21.24,00:08:23.12,Default,,0,0,0,,I like you again!
+Dialogue: 0,00:08:33.24,00:08:35.96,Default,,0,0,0,,I’m the most trouble with Brother Weslie
+Dialogue: 0,00:08:36.12,00:08:37.92,Default,,0,0,0,,I will never play with you again
+Dialogue: 0,00:08:41.64,00:08:42.84,Default,,0,0,0,,Sister, wait for me
+Dialogue: 0,00:08:44.68,00:08:46.12,Default,,0,0,0,,Finally got it
+Dialogue: 0,00:08:46.64,00:08:48.16,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:48.88,00:08:50.35,Default,,0,0,0,,younger sister! Slow down
+Dialogue: 0,00:08:51.76,00:08:52.92,Default,,0,0,0,,It’s so good
+Dialogue: 0,00:08:53.28,00:08:54.44,Default,,0,0,0,,You can finally return
+Dialogue: 0,00:08:54.44,00:08:55.76,Default,,0,0,0,,My brother
+Dialogue: 0,00:08:56.04,00:08:57.72,Default,,0,0,0,,Back to my dad and mom
+Dialogue: 0,00:09:04.32,00:09:05.44,Default,,0,0,0,,It hurts so much
+Dialogue: 0,00:09:06.20,00:09:08.44,Default,,0,0,0,,How did I dream about the past?
+Dialogue: 0,00:09:09.80,00:09:10.52,Default,,0,0,0,,This is
+Dialogue: 0,00:09:12.32,00:09:13.88,Default,,0,0,0,,Ash’s sketch?
+Dialogue: 0,00:09:14.52,00:09:16.68,Default,,0,0,0,,Why does it look like a super cube?
+Dialogue: 0,00:09:20.00,00:09:20.92,Default,,0,0,0,,Grass picture
+Dialogue: 0,00:09:21.28,00:09:22.44,Default,,0,0,0,,Super Magic Cube
+Dialogue: 0,00:09:23.12,00:09:23.88,Default,,0,0,0,,Difficult to tell
+Dialogue: 0,00:09:24.04,00:09:25.00,Default,,0,0,0,,Xiaozhi is
+Dialogue: 0,00:09:25.08,00:09:26.76,Default,,0,0,0,,The maker of the super cube
+Dialogue: 0,00:09:26.88,00:09:28.35,Default,,0,0,0,,If so
+Dialogue: 0,00:09:29.12,00:09:30.12,Default,,0,0,0,,Weslie is
+Dialogue: 0,00:09:30.12,00:09:31.52,Default,,0,0,0,,BB Goat’s brother!
+Dialogue: 0,00:09:35.20,00:09:36.72,Default,,0,0,0,,Weslie goat walks away BB Goat
+Dialogue: 0,00:09:36.72,00:09:38.00,Default,,0,0,0,,It’s for her good
+Dialogue: 0,00:09:38.47,00:09:40.28,Default,,0,0,0,,Hopefully she won’t be too difficult
+Dialogue: 0,00:09:41.24,00:09:41.88,Default,,0,0,0,,yes
+Dialogue: 0,00:09:42.12,00:09:43.68,Default,,0,0,0,,I hope she will always be happy
+Dialogue: 0,00:09:47.84,00:09:48.60,Default,,0,0,0,,Weslie
+Dialogue: 0,00:09:48.68,00:09:50.60,Default,,0,0,0,,That goat is not BB Goat’s brother!
+Dialogue: 0,00:09:50.68,00:09:51.80,Default,,0,0,0,,what?
+Dialogue: 0,00:09:52.40,00:09:54.00,Default,,0,0,0,,Haven’t we confirmed it?
+Dialogue: 0,00:09:54.35,00:09:55.16,Default,,0,0,0,,No!
+Dialogue: 0,00:09:55.16,00:09:56.92,Default,,0,0,0,,The goat is likely to be
+Dialogue: 0,00:09:56.96,00:09:58.56,Default,,0,0,0,,King Bacteria is under control!
+Dialogue: 0,00:09:58.76,00:10:00.35,Default,,0,0,0,,King Bacteria!
+Dialogue: 0,00:10:00.72,00:10:02.24,Default,,0,0,0,,Then we are not BB Goat
+Dialogue: 0,00:10:02.28,00:10:03.56,Default,,0,0,0,,Give it a sterilization king!
+Dialogue: 0,00:10:03.68,00:10:05.28,Default,,0,0,0,,You go chase it!
+Dialogue: 0,00:10:05.96,00:10:07.64,Default,,0,0,0,,I’ll explain it to you on the way
+Dialogue: 0,00:10:07.84,00:10:08.64,Default,,0,0,0,,good!
+Dialogue: 0,00:10:11.72,00:10:12.96,Default,,0,0,0,,Are you ready?
+Dialogue: 0,00:10:13.52,00:10:14.24,Default,,0,0,0,,Prepared!
+Dialogue: 0,00:10:15.60,00:10:16.35,Default,,0,0,0,,Let’s start!
+Dialogue: 0,00:10:18.20,00:10:19.52,Default,,0,0,0,,What are you doing?
+Dialogue: 0,00:10:20.04,00:10:21.68,Default,,0,0,0,,Let us go soon!
+Dialogue: 0,00:10:28.92,00:10:29.68,Default,,0,0,0,,dad
+Dialogue: 0,00:10:29.68,00:10:30.92,Default,,0,0,0,,Son, don’t be afraid!
+Dialogue: 0,00:10:32.24,00:10:34.80,Default,,0,0,0,,What exactly do you want to do
+Dialogue: 0,00:10:38.04,00:10:39.80,Default,,0,0,0,,Let me tell you later
+Dialogue: 0,00:10:48.24,00:10:49.68,Default,,0,0,0,,We hide underground
+Dialogue: 0,00:10:49.68,00:10:52.24,Default,,0,0,0,,It depends on how you can stop me from unblocking!
+Dialogue: 0,00:11:00.00,00:11:00.80,Default,,0,0,0,,Weslie
+Dialogue: 0,00:11:00.84,00:11:02.32,Default,,0,0,0,,That’s how things are
+Dialogue: 0,00:11:02.72,00:11:03.24,Default,,0,0,0,,so
+Dialogue: 0,00:11:03.35,00:11:05.64,Default,,0,0,0,,Weslie, you are BB Goat’s brother
+Dialogue: 0,00:11:09.16,00:11:10.60,Default,,0,0,0,,BB Goat is my sister
+Dialogue: 0,00:11:11.52,00:11:12.47,Default,,0,0,0,,What about dad and mom
+Dialogue: 0,00:11:13.28,00:11:15.08,Default,,0,0,0,,Why didn’t I come back with my sister?
+Dialogue: 0,00:11:16.04,00:11:18.20,Default,,0,0,0,,Nothing will happen
+Dialogue: 0,00:11:19.60,00:11:20.44,Default,,0,0,0,,Weslie
+Dialogue: 0,00:11:20.84,00:11:21.88,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:11:22.24,00:11:22.96,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:11:23.88,00:11:24.92,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:11:25.60,00:11:27.28,Default,,0,0,0,,We will definitely rescue your sister
+Dialogue: 0,00:11:28.96,00:11:29.88,Default,,0,0,0,,Thank you
+Dialogue: 0,00:11:30.20,00:11:31.12,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:11:34.08,00:11:36.00,Default,,0,0,0,,Wolffy’s father and son are really
+Dialogue: 0,00:11:36.52,00:11:37.44,Default,,0,0,0,,I’m not here
+Dialogue: 0,00:11:37.60,00:11:39.32,Default,,0,0,0,,Just messed up the house
+Dialogue: 0,00:11:41.20,00:11:42.60,Default,,0,0,0,,If you don’t clean up, you dare to leave
+Dialogue: 0,00:11:43.76,00:11:44.68,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:11:44.84,00:11:46.24,Default,,0,0,0,,You feel good when you come back
+Dialogue: 0,00:11:46.96,00:11:48.47,Default,,0,0,0,,Have you come back with no choice?
+Dialogue: 0,00:11:50.32,00:11:51.80,Default,,0,0,0,,It turns out they are lambs
+Dialogue: 0,00:11:52.08,00:11:53.04,Default,,0,0,0,,Excuse me
+Dialogue: 0,00:11:54.28,00:11:55.44,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:11:55.76,00:11:56.52,Default,,0,0,0,,That
+Dialogue: 0,00:11:57.72,00:11:58.80,Default,,0,0,0,,We have something urgent
+Dialogue: 0,00:11:58.88,00:11:59.92,Default,,0,0,0,,Stop it
+Dialogue: 0,00:12:01.80,00:12:03.20,Default,,0,0,0,,BB Goat Where are you
+Dialogue: 0,00:12:03.44,00:12:04.76,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:12:04.84,00:12:06.04,Default,,0,0,0,,It’s already so chaotic!
+Dialogue: 0,00:12:06.04,00:12:08.28,Default,,0,0,0,,You’re still worried!
+Dialogue: 0,00:12:08.32,00:12:08.72,Default,,0,0,0,,right…
+Dialogue: 0,00:12:08.72,00:12:10.04,Default,,0,0,0,,sorry
+Dialogue: 0,00:12:11.47,00:12:12.52,Default,,0,0,0,,Keep the change, please
+Dialogue: 0,00:12:13.00,00:12:14.76,Default,,0,0,0,,BB Goat is not in Wolf Castle
+Dialogue: 0,00:12:19.32,00:12:20.28,Default,,0,0,0,,Where are the lambs and the others?
+Dialogue: 0,00:12:21.44,00:12:21.96,Default,,0,0,0,,lamb
+Dialogue: 0,00:12:22.84,00:12:23.52,Default,,0,0,0,,lamb
+Dialogue: 0,00:12:25.32,00:12:26.24,Default,,0,0,0,,Miss it!
+Dialogue: 0,00:12:26.52,00:12:27.72,Default,,0,0,0,,It’s hard to tell!
+Dialogue: 0,00:12:29.47,00:12:31.80,Default,,0,0,0,,Bag! Not good!

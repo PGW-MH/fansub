@@ -1,0 +1,235 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.92,00:00:19.40,Default,,0,0,0,,Loved dad mom
+Dialogue: 0,00:00:19.92,00:00:24.24,Default,,0,0,0,,Although you are not by my side, I have many friends who are with me
+Dialogue: 0,00:00:24.44,00:00:26.12,Default,,0,0,0,,Let’s play football together
+Dialogue: 0,00:00:26.16,00:00:28.32,Default,,0,0,0,,Share food together
+Dialogue: 0,00:00:30.48,00:00:31.88,Default,,0,0,0,,Read the book together
+Dialogue: 0,00:00:34.00,00:00:37.12,Default,,0,0,0,,We spend every happy day together
+Dialogue: 0,00:00:38.12,00:00:39.16,Default,,0,0,0,,Weslie
+Dialogue: 0,00:00:39.72,00:00:40.76,Default,,0,0,0,,Go to play football!
+Dialogue: 0,00:00:42.08,00:00:44.32,Default,,0,0,0,,Come right away! You go first!
+Dialogue: 0,00:00:47.64,00:00:50.08,Default,,0,0,0,,They are my most important friends
+Dialogue: 0,00:01:00.43,00:01:01.52,Default,,0,0,0,,This is
+Dialogue: 0,00:01:02.40,00:01:04.64,Default,,0,0,0,,Aerospace school records to win the letter!
+Dialogue: 0,00:01:04.76,00:01:08.84,Default,,0,0,0,,Aerospace School is a school that studies outer space in the Aerospace
+Dialogue: 0,00:01:08.92,00:01:10.96,Default,,0,0,0,,So as long as I read to the aerospace school
+Dialogue: 0,00:01:10.96,00:01:13.24,Default,,0,0,0,,I’ll have a chance to meet my dad and mom
+Dialogue: 0,00:01:13.36,00:01:14.00,Default,,0,0,0,,That’s right
+Dialogue: 0,00:01:14.20,00:01:16.52,Default,,0,0,0,,But this school is very difficult to take
+Dialogue: 0,00:01:16.88,00:01:17.64,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:01:17.71,00:01:18.76,Default,,0,0,0,,To see my dad and mom
+Dialogue: 0,00:01:18.80,00:01:20.52,Default,,0,0,0,,I will definitely work hard!
+Dialogue: 0,00:01:22.40,00:01:25.84,Default,,0,0,0,,Great I want to tell you this news right now
+Dialogue: 0,00:01:26.00,00:01:28.52,Default,,0,0,0,,Brother, this room is so beautiful
+Dialogue: 0,00:01:28.56,00:01:29.71,Default,,0,0,0,,Where is it
+Dialogue: 0,00:01:30.64,00:01:32.48,Default,,0,0,0,,Aviation School Boarding Guide
+Dialogue: 0,00:01:33.28,00:01:34.24,Default,,0,0,0,,Request a lodging
+Dialogue: 0,00:01:34.52,00:01:36.71,Default,,0,0,0,,Isn’t that just separate from everyone?
+Dialogue: 0,00:01:37.52,00:01:39.40,Default,,0,0,0,,Brother, what’s wrong with you
+Dialogue: 0,00:01:40.40,00:01:41.71,Default,,0,0,0,,No... nothing
+Dialogue: 0,00:01:42.04,00:01:44.20,Default,,0,0,0,,Then let’s go and have fun with everyone first
+Dialogue: 0,00:01:59.96,00:02:01.76,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:02:03.88,00:02:05.80,Default,,0,0,0,,Give me the chocolate!
+Dialogue: 0,00:02:05.84,00:02:06.68,Default,,0,0,0,,No door! !
+Dialogue: 0,00:02:09.48,00:02:11.04,Default,,0,0,0,,Where is the soap...
+Dialogue: 0,00:02:25.64,00:02:27.56,Default,,0,0,0,,Success!
+Dialogue: 0,00:02:27.72,00:02:30.12,Default,,0,0,0,,I ate this piece of chocolate!
+Dialogue: 0,00:02:32.48,00:02:35.28,Default,,0,0,0,,I should have eaten this hole I dug
+Dialogue: 0,00:02:35.52,00:02:37.00,Default,,0,0,0,,It’s not me who turned into soap
+Dialogue: 0,00:02:37.12,00:02:39.00,Default,,0,0,0,,How can Wolffy fall into a hole?
+Dialogue: 0,00:02:39.32,00:02:40.56,Default,,0,0,0,,It’s not me chasing him
+Dialogue: 0,00:02:40.60,00:02:42.64,Default,,0,0,0,,How could he step on your soap?
+Dialogue: 0,00:02:42.88,00:02:46.20,Default,,0,0,0,,I didn’t find chocolate first, why would you chase the gray wolf
+Dialogue: 0,00:02:46.24,00:02:48.48,Default,,0,0,0,,I am the king and I should eat it!
+Dialogue: 0,00:02:48.76,00:02:51.16,Default,,0,0,0,,If you hadn’t stopped me from studying in the Dark Army
+Dialogue: 0,00:02:51.24,00:02:53.40,Default,,0,0,0,,The king now is me!
+Dialogue: 0,00:02:53.96,00:02:55.44,Default,,0,0,0,,How could I stop you
+Dialogue: 0,00:02:55.48,00:02:57.16,Default,,0,0,0,,It’s just that you can’t get diarrhea
+Dialogue: 0,00:02:57.16,00:03:00.28,Default,,0,0,0,,That’s because I got my stomach up after eating the candy you gave me!
+Dialogue: 0,00:03:00.28,00:03:03.76,Default,,0,0,0,,You can’t go back anyway! Just be my subordinate!
+Dialogue: 0,00:03:05.60,00:03:06.16,Default,,0,0,0,,No!
+Dialogue: 0,00:03:06.76,00:03:08.80,Default,,0,0,0,,I won’t be your subordinate anymore!
+Dialogue: 0,00:03:10.80,00:03:12.72,Default,,0,0,0,,From this I am the king myself!
+Dialogue: 0,00:03:12.76,00:03:14.80,Default,,0,0,0,,Leave the chocolate to yourself!
+Dialogue: 0,00:03:15.48,00:03:17.20,Default,,0,0,0,,I don’t care!
+Dialogue: 0,00:03:20.80,00:03:21.76,Default,,0,0,0,,Don’t eat it for nothing
+Dialogue: 0,00:03:25.96,00:03:27.44,Default,,0,0,0,,Don’t be stupid! Weslie
+Dialogue: 0,00:03:28.48,00:03:30.07,Default,,0,0,0,,How should I tell them
+Dialogue: 0,00:03:30.36,00:03:31.80,Default,,0,0,0,,Weslie and Goat follow!
+Dialogue: 0,00:03:34.44,00:03:35.56,Default,,0,0,0,,Weslie
+Dialogue: 0,00:03:35.72,00:03:36.96,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:37.28,00:03:38.56,Default,,0,0,0,,Nothing is OK
+Dialogue: 0,00:03:39.12,00:03:41.16,Default,,0,0,0,,Weslie, look at your hair!
+Dialogue: 0,00:03:41.68,00:03:43.12,Default,,0,0,0,,Brothers Brothers
+Dialogue: 0,00:03:43.32,00:03:44.72,Default,,0,0,0,,I’ve come and eaten watermelon!
+Dialogue: 0,00:03:45.44,00:03:46.88,Default,,0,0,0,,I’m here! !
+Dialogue: 0,00:03:50.24,00:03:52.16,Default,,0,0,0,,Let’s leave some for Weslie! !
+Dialogue: 0,00:03:52.52,00:03:55.36,Default,,0,0,0,,Everyone can play together
+It’s so fun to eat watermelon together
+Dialogue: 0,00:04:01.72,00:04:04.04,Default,,0,0,0,,Weslie, come and eat it too!
+Dialogue: 0,00:04:04.07,00:04:05.68,Default,,0,0,0,,Otherwise, they will be eaten up...
+Dialogue: 0,00:04:06.48,00:04:07.80,Default,,0,0,0,,What about Weslie
+Dialogue: 0,00:04:08.72,00:04:10.60,Default,,0,0,0,,Is he uncomfortable?
+Dialogue: 0,00:04:10.80,00:04:12.63,Default,,0,0,0,,He’s been absent-minded
+Dialogue: 0,00:04:12.76,00:04:14.76,Default,,0,0,0,,Did you just kick him?
+Dialogue: 0,00:04:15.28,00:04:17.48,Default,,0,0,0,,Can you finish eating two of them?
+Dialogue: 0,00:04:17.63,00:04:18.84,Default,,0,0,0,,Sister Tibbie
+Dialogue: 0,00:04:19.56,00:04:21.88,Default,,0,0,0,,Brother Weslie has lost his letter
+Dialogue: 0,00:04:22.16,00:04:23.32,Default,,0,0,0,,This is
+Dialogue: 0,00:04:27.24,00:04:30.04,Default,,0,0,0,,It turns out that Weslie is going to read on the grassland
+Dialogue: 0,00:04:32.92,00:04:35.24,Default,,0,0,0,,It must be because you keep stealing his cake
+Dialogue: 0,00:04:35.52,00:04:36.44,Default,,0,0,0,,You’re talking! ! !
+Dialogue: 0,00:04:36.60,00:04:38.76,Default,,0,0,0,,You must be the one who always played football! ! !
+Dialogue: 0,00:04:38.80,00:04:39.92,Default,,0,0,0,,It must be you
+Dialogue: 0,00:04:40.07,00:04:40.92,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:04:40.96,00:04:41.72,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:04:41.76,00:04:44.76,Default,,0,0,0,,Sister Tibbie Goat What’s wrong with Brother Weslie
+Dialogue: 0,00:04:44.96,00:04:47.32,Default,,0,0,0,,Weslie He is going to a very far place
+Dialogue: 0,00:04:47.36,00:04:49.52,Default,,0,0,0,,Will leave everyone for a while
+Dialogue: 0,00:04:52.00,00:04:54.32,Default,,0,0,0,,I don’t want Brother Weslie to leave! ! ! !
+Dialogue: 0,00:04:54.36,00:04:55.72,Default,,0,0,0,,I want to play with him
+Dialogue: 0,00:04:55.84,00:04:57.28,Default,,0,0,0,,Don’t leave!
+Dialogue: 0,00:04:57.28,00:04:58.52,Default,,0,0,0,,BB Goat, don’t hurt
+Dialogue: 0,00:04:58.56,00:05:01.16,Default,,0,0,0,,Let’s ask what Weslie first
+Dialogue: 0,00:05:04.00,00:05:05.04,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:05.56,00:05:06.63,Default,,0,0,0,,Weslie
+Dialogue: 0,00:05:06.72,00:05:08.36,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:05:08.63,00:05:10.68,Default,,0,0,0,,Have you found Weslie?
+Dialogue: 0,00:05:10.92,00:05:11.72,Default,,0,0,0,,no
+Dialogue: 0,00:05:13.36,00:05:14.92,Default,,0,0,0,,Chief, found it?
+Dialogue: 0,00:05:15.00,00:05:17.72,Default,,0,0,0,,I went to the place he often went and didn’t see it
+Dialogue: 0,00:05:18.04,00:05:19.28,Default,,0,0,0,,Didn’t go home either
+Dialogue: 0,00:05:20.44,00:05:21.44,Default,,0,0,0,,What about Sparky
+Dialogue: 0,00:05:23.52,00:05:24.60,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:05:25.96,00:05:28.36,Default,,0,0,0,,I just received the letter from the college
+Dialogue: 0,00:05:28.40,00:05:29.24,Default,,0,0,0,,Yes
+Dialogue: 0,00:05:29.56,00:05:31.92,Default,,0,0,0,,That’s great. The Astronomy Institute...
+Dialogue: 0,00:05:32.07,00:05:32.88,Default,,0,0,0,,It’s a Sparky!
+Dialogue: 0,00:05:33.92,00:05:34.28,Default,,0,0,0,,Boiling...
+Dialogue: 0,00:05:38.60,00:05:41.07,Default,,0,0,0,,And there are also complete space equipment
+Dialogue: 0,00:05:41.20,00:05:44.84,Default,,0,0,0,,As long as you study hard
+You’ll see your dad and mom soon
+Dialogue: 0,00:05:44.96,00:05:45.68,Default,,0,0,0,,yes
+Dialogue: 0,00:05:45.76,00:05:49.32,Default,,0,0,0,,I dreamed of dreaming even
+I can meet them in space
+Dialogue: 0,00:05:50.44,00:05:52.84,Default,,0,0,0,,I’m really happy to go there to study
+Dialogue: 0,00:05:54.00,00:05:54.84,Default,,0,0,0,,but……
+Dialogue: 0,00:05:55.16,00:05:57.52,Default,,0,0,0,,I’m not allowed to leave my friends
+Dialogue: 0,00:06:02.52,00:06:04.20,Default,,0,0,0,,I’ll give you this too
+Dialogue: 0,00:06:06.00,00:06:08.12,Default,,0,0,0,,Tibbie, let me come and move it
+Dialogue: 0,00:06:08.52,00:06:10.32,Default,,0,0,0,,Thank you Weslie
+Dialogue: 0,00:06:11.64,00:06:12.72,Default,,0,0,0,,Don’t come here!
+Dialogue: 0,00:06:17.20,00:06:20.92,Default,,0,0,0,,Flat mouth flat mouth...
+Dialogue: 0,00:06:21.20,00:06:22.92,Default,,0,0,0,,Weslie, you’re fine
+Dialogue: 0,00:06:23.64,00:06:25.68,Default,,0,0,0,,I got the signature, Chief
+Dialogue: 0,00:06:25.76,00:06:27.68,Default,,0,0,0,,Thank you for Weslie
+Dialogue: 0,00:06:30.64,00:06:33.64,Default,,0,0,0,,Weslie sacrifices itself for us every time
+Dialogue: 0,00:06:33.68,00:06:37.20,Default,,0,0,0,,He went to the astronautics college
+It’s also to see his father and mother in the future
+Dialogue: 0,00:06:37.96,00:06:39.92,Default,,0,0,0,,Then we should support him!
+Dialogue: 0,00:06:39.96,00:06:42.20,Default,,0,0,0,,This time we did something for him
+Dialogue: 0,00:06:49.16,00:06:53.00,Default,,0,0,0,,Blue sky White cloud
+Delicious chocolate
+Dialogue: 0,00:06:54.36,00:06:56.92,Default,,0,0,0,,How can I eat chocolate without music
+Dialogue: 0,00:06:57.68,00:06:59.48,Default,,0,0,0,,Xiao Huang sang a song to me!
+Dialogue: 0,00:07:04.84,00:07:07.40,Default,,0,0,0,,I forgot that he had left...
+Dialogue: 0,00:07:08.68,00:07:09.72,Default,,0,0,0,,Xiao Huang…
+Dialogue: 0,00:07:13.35,00:07:15.08,Default,,0,0,0,,I will be the king from now on!
+Dialogue: 0,00:07:15.24,00:07:19.96,Default,,0,0,0,,No need to help him catch goat, sing, and change his weapons...
+Dialogue: 0,00:07:42.52,00:07:43.44,Default,,0,0,0,,you
+Dialogue: 0,00:07:44.24,00:07:47.08,Default,,0,0,0,,When you’re bored, you can read the book
+Dialogue: 0,00:07:47.84,00:07:50.47,Default,,0,0,0,,If you are tired of reading books, go and see the plants
+Dialogue: 0,00:07:50.47,00:07:52.24,Default,,0,0,0,,Helps the eyes
+Dialogue: 0,00:07:52.64,00:07:55.60,Default,,0,0,0,,Don’t just read books and continue playing football
+Dialogue: 0,00:07:55.80,00:07:57.84,Default,,0,0,0,,Otherwise you won’t win me
+Dialogue: 0,00:07:58.08,00:08:00.80,Default,,0,0,0,,If you’re tired of playing football, eat the snacks I’ll give you
+Dialogue: 0,00:08:00.84,00:08:02.44,Default,,0,0,0,,Then you will think of me
+Dialogue: 0,00:08:03.00,00:08:04.32,Default,,0,0,0,,You all know
+Dialogue: 0,00:08:06.24,00:08:08.08,Default,,0,0,0,,Although we can’t let you go
+Dialogue: 0,00:08:08.96,00:08:10.12,Default,,0,0,0,,But as a friend
+Dialogue: 0,00:08:10.96,00:08:12.68,Default,,0,0,0,,We should support you
+Dialogue: 0,00:08:13.47,00:08:15.56,Default,,0,0,0,,Go and realize your dreams!
+Dialogue: 0,00:08:16.52,00:08:19.28,Default,,0,0,0,,I have the chance to come back and see us!
+Dialogue: 0,00:08:20.64,00:08:21.56,Default,,0,0,0,,Everyone
+Dialogue: 0,00:08:22.52,00:08:24.64,Default,,0,0,0,,You are my best friends!
+Dialogue: 0,00:08:27.76,00:08:31.12,Default,,0,0,0,,I don’t want Brother Weslie to leave
+Dialogue: 0,00:08:34.04,00:08:35.76,Default,,0,0,0,,You don’t want to leave
+Dialogue: 0,00:08:36.56,00:08:38.16,Default,,0,0,0,,- BB Goat...
+-I don’t want you to leave!
+Dialogue: 0,00:08:38.20,00:08:38.88,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:38.92,00:08:42.16,Default,,0,0,0,,Weslie Goat Go to School
+I also want to see my dad and mom
+Dialogue: 0,00:08:42.88,00:08:44.28,Default,,0,0,0,,I don’t listen! I don’t listen!
+Dialogue: 0,00:08:44.28,00:08:45.20,Default,,0,0,0,,BB Goat! !
+Dialogue: 0,00:08:45.24,00:08:46.56,Default,,0,0,0,,You’re all bad eggs
+Dialogue: 0,00:08:46.56,00:08:47.64,Default,,0,0,0,,BB Goat! !
+Dialogue: 0,00:08:53.12,00:08:55.47,Default,,0,0,0,,Can you please apologize to him?
+Dialogue: 0,00:08:55.64,00:08:57.56,Default,,0,0,0,,Do I apologize to him?
+Dialogue: 0,00:09:02.04,00:09:03.12,Default,,0,0,0,,- Xiao Huang
+- The King
+Dialogue: 0,00:09:05.16,00:09:06.44,Default,,0,0,0,,Why are you here
+Dialogue: 0,00:09:07.44,00:09:09.20,Default,,0,0,0,,I have to care wherever I go! !
+Dialogue: 0,00:09:09.84,00:09:10.88,Default,,0,0,0,,I can’t control it! !
+Dialogue: 0,00:09:11.40,00:09:12.16,Default,,0,0,0,,you…
+Dialogue: 0,00:09:13.60,00:09:15.88,Default,,0,0,0,,You don’t have anything to tell me?
+Dialogue: 0,00:09:16.24,00:09:17.04,Default,,0,0,0,,no! !
+Dialogue: 0,00:09:25.68,00:09:27.20,Default,,0,0,0,,-right…
+-right…
+Dialogue: 0,00:09:27.44,00:09:28.47,Default,,0,0,0,,-sorry
+-sorry
+Dialogue: 0,00:09:38.08,00:09:39.20,Default,,0,0,0,,we
+Dialogue: 0,00:09:39.72,00:09:40.76,Default,,0,0,0,,Reconcile! ! !
+Dialogue: 0,00:09:55.28,00:09:58.88,Default,,0,0,0,,No, I don’t want to separate from Brother Weslie
+Dialogue: 0,00:09:58.92,00:10:00.64,Default,,0,0,0,,BB Goat! danger!
+Dialogue: 0,00:10:06.47,00:10:09.60,Default,,0,0,0,,BB Goat grabs tightly! I won’t drop yours!
+Dialogue: 0,00:10:13.00,00:10:14.80,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:10:19.20,00:10:20.72,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:10:21.12,00:10:21.76,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:10:21.84,00:10:22.84,Default,,0,0,0,,Very good!
+Dialogue: 0,00:10:23.76,00:10:25.28,Default,,0,0,0,,Weslie Brother….
+Dialogue: 0,00:10:25.72,00:10:28.64,Default,,0,0,0,,You... will you really not let me down...
+Dialogue: 0,00:10:29.40,00:10:33.47,Default,,0,0,0,,Of course! Whether I’m in Yangcun or the Aerospace Academy
+Dialogue: 0,00:10:33.84,00:10:36.72,Default,,0,0,0,,I promise to come back to tell you the story as soon as the holiday is over
+Dialogue: 0,00:10:37.08,00:10:38.88,Default,,0,0,0,,Go to the grassland to play football together
+Dialogue: 0,00:10:39.35,00:10:40.92,Default,,0,0,0,,There are also paintings together
+Dialogue: 0,00:10:43.20,00:10:45.52,Default,,0,0,0,,You said! ! No doubt I’m going to be cheated! !
+Dialogue: 0,00:10:50.68,00:10:54.08,Default,,0,0,0,,Very touched, I remember to come back to see me often
+Dialogue: 0,00:10:54.52,00:10:56.96,Default,,0,0,0,,Why are you here too, Big Wolf
+Dialogue: 0,00:10:58.20,00:11:00.16,Default,,0,0,0,,All are harmful to bacteria
+Dialogue: 0,00:11:01.40,00:11:02.84,Default,,0,0,0,,You are here!
+Dialogue: 0,00:11:02.92,00:11:04.72,Default,,0,0,0,,We found Weslie and the others!
+Dialogue: 0,00:11:08.20,00:11:09.35,Default,,0,0,0,,You’re fine!
+Dialogue: 0,00:11:10.52,00:11:12.08,Default,,0,0,0,,You’re more
+Dialogue: 0,00:11:14.68,00:11:16.60,Default,,0,0,0,,I have one thing to announce...
+Dialogue: 0,00:11:16.84,00:11:18.24,Default,,0,0,0,,I decided...
+Dialogue: 0,00:11:18.72,00:11:20.96,Default,,0,0,0,,My brother is going to a new school!
+Dialogue: 0,00:11:22.92,00:11:25.44,Default,,0,0,0,,congratulations! Weslie!
+Dialogue: 0,00:11:25.47,00:11:26.47,Default,,0,0,0,,congratulations! Weslie!
+Dialogue: 0,00:11:26.47,00:11:27.64,Default,,0,0,0,,Thank you everyone
+Dialogue: 0,00:11:34.47,00:11:37.24,Default,,0,0,0,,We haven’t watched Xiyang together for a long time
+Dialogue: 0,00:11:47.20,00:11:50.44,Default,,0,0,0,,I didn’t expect that Weslie has been gone for a week
+Dialogue: 0,00:11:52.68,00:11:55.64,Default,,0,0,0,,I think Weslie has lost its appetite even though it has become smaller.
+Dialogue: 0,00:12:04.12,00:12:06.56,Default,,0,0,0,,I also thought he had an illusion...
+Dialogue: 0,00:12:10.68,00:12:12.44,Default,,0,0,0,,Weslie Brother!
+Dialogue: 0,00:12:14.68,00:12:16.12,Default,,0,0,0,,Why are you back
+Dialogue: 0,00:12:16.16,00:12:19.40,Default,,0,0,0,,Because the Academy of Aerospace Sciences aims to popularize astronomical knowledge
+Dialogue: 0,00:12:19.44,00:12:22.35,Default,,0,0,0,,Branch schools were opened throughout the grassland
+Dialogue: 0,00:12:22.56,00:12:26.84,Default,,0,0,0,,In other words, Weslie doesn’t have to leave the Goat Village!
+Dialogue: 0,00:12:28.00,00:12:29.64,Default,,0,0,0,,I’m not dreaming!
+Dialogue: 0,00:12:30.28,00:12:30.88,Default,,0,0,0,,real
+Dialogue: 0,00:12:30.88,00:12:33.60,Default,,0,0,0,,Very good!

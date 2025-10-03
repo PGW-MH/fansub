@@ -1,0 +1,187 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:28.89,00:00:30.81,Default,,0,0,0,,Is this an earthquake?
+Dialogue: 0,00:00:32.17,00:00:33.09,Default,,0,0,0,,What
+Dialogue: 0,00:00:34.25,00:00:36.05,Default,,0,0,0,,It turns out that my express has arrived
+Dialogue: 0,00:00:36.61,00:00:38.65,Default,,0,0,0,,You don’t have to be so irritable when knocking on the door
+Dialogue: 0,00:00:43.89,00:00:45.05,Default,,0,0,0,,Express
+Dialogue: 0,00:00:55.41,00:00:56.33,Default,,0,0,0,,Very good
+Dialogue: 0,00:00:56.37,00:00:57.81,Default,,0,0,0,,My express finally arrived!
+Dialogue: 0,00:00:57.97,00:00:59.57,Default,,0,0,0,,Xiao Huang, let’s go catch the goat!
+Dialogue: 0,00:01:01.33,00:01:02.49,Default,,0,0,0,,Almost forgot
+Dialogue: 0,00:01:02.53,00:01:04.85,Default,,0,0,0,,They all went out today to train
+Dialogue: 0,00:01:06.57,00:01:08.09,Default,,0,0,0,,As the subordinate of this king
+Dialogue: 0,00:01:08.21,00:01:10.33,Default,,0,0,0,,It must have good physical abilities
+Dialogue: 0,00:01:11.25,00:01:12.77,Default,,0,0,0,,Since they are not here
+Dialogue: 0,00:01:13.73,00:01:15.85,Default,,0,0,0,,Then let’s see it today
+Dialogue: 0,00:01:19.49,00:01:21.41,Default,,0,0,0,,Check out this cool home merchant
+Dialogue: 0,00:01:21.45,00:01:23.01,Default,,0,0,0,,What did you release
+Dialogue: 0,00:01:31.13,00:01:33.33,Default,,0,0,0,,How come it is a group of strange creatures?
+Dialogue: 0,00:01:35.09,00:01:36.01,Default,,0,0,0,,So cold
+Dialogue: 0,00:01:36.61,00:01:37.49,Default,,0,0,0,,Very worthwhile
+Dialogue: 0,00:01:38.61,00:01:40.77,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:01:43.77,00:01:45.05,Default,,0,0,0,,It’s hard to tell
+Dialogue: 0,00:01:51.17,00:01:51.97,Default,,0,0,0,,This must be
+Dialogue: 0,00:01:52.01,00:01:53.97,Default,,0,0,0,,The latest bioenergy technology
+Dialogue: 0,00:01:54.33,00:01:55.69,Default,,0,0,0,,Cooler!
+Dialogue: 0,00:02:03.09,00:02:04.53,Default,,0,0,0,,Bioenergy heater
+Dialogue: 0,00:02:13.53,00:02:15.29,Default,,0,0,0,,Bioenergy generator!
+Dialogue: 0,00:02:15.41,00:02:16.81,Default,,0,0,0,,It’s a must-have at home
+Dialogue: 0,00:02:16.81,00:02:17.93,Default,,0,0,0,,Cool set
+Dialogue: 0,00:02:17.97,00:02:19.65,Default,,0,0,0,,It can actually do anything
+Dialogue: 0,00:02:19.85,00:02:21.89,Default,,0,0,0,,This is the charm of science!
+Dialogue: 0,00:02:33.05,00:02:35.37,Default,,0,0,0,,Conquer the universe depends on it!
+Dialogue: 0,00:02:35.41,00:02:36.13,Default,,0,0,0,,Ninety-nine eight
+Dialogue: 0,00:02:36.17,00:02:37.49,Default,,0,0,0,,Just ninety-nine eight
+Dialogue: 0,00:02:37.61,00:02:40.21,Default,,0,0,0,,The most powerful weapon in the universe is taken home!
+Dialogue: 0,00:02:40.25,00:02:41.45,Default,,0,0,0,,Action is not as good as action
+Dialogue: 0,00:02:41.61,00:02:43.53,Default,,0,0,0,,Pick up the phone and order!
+Dialogue: 0,00:02:44.97,00:02:45.97,Default,,0,0,0,,Such a terrible thing?
+Dialogue: 0,00:02:46.01,00:02:47.21,Default,,0,0,0,,Buy it!
+Dialogue: 0,00:02:49.49,00:02:51.25,Default,,0,0,0,,The strongest weapon in the universe!
+Dialogue: 0,00:02:55.13,00:02:56.33,Default,,0,0,0,,This dazzling light!
+Dialogue: 0,00:02:56.85,00:02:57.45,Default,,0,0,0,,This!
+Dialogue: 0,00:02:58.01,00:02:59.45,Default,,0,0,0,,What are these
+Dialogue: 0,00:03:03.13,00:03:04.65,Default,,0,0,0,,Why didn’t there be any instructions?
+Dialogue: 0,00:03:06.21,00:03:06.97,Default,,0,0,0,,never mind
+Dialogue: 0,00:03:07.01,00:03:07.97,Default,,0,0,0,,As long as it works!
+Dialogue: 0,00:03:15.33,00:03:16.57,Default,,0,0,0,,Red and small gray
+Dialogue: 0,00:03:16.61,00:03:18.61,Default,,0,0,0,,I’ll love these amazing things
+Dialogue: 0,00:03:18.61,00:03:21.09,Default,,0,0,0,,In the future, there is no need to pay the water, electricity, and coal fees
+Dialogue: 0,00:03:32.05,00:03:33.33,Default,,0,0,0,,Why is it so noisy
+Dialogue: 0,00:03:50.61,00:03:51.97,Default,,0,0,0,,How could this be done!
+Dialogue: 0,00:03:56.45,00:03:58.65,Default,,0,0,0,,Isn’t this a refrigerator cooler?
+Dialogue: 0,00:04:11.57,00:04:13.09,Default,,0,0,0,,Whatever monster you are
+Dialogue: 0,00:04:13.45,00:04:15.73,Default,,0,0,0,,I, Wolffy, is the king of Wolf Castle!
+Dialogue: 0,00:04:16.25,00:04:17.45,Default,,0,0,0,,All guns are in place
+Dialogue: 0,00:04:17.73,00:04:18.53,Default,,0,0,0,,Turn on fire!
+Dialogue: 0,00:04:22.41,00:04:24.41,Default,,0,0,0,,I know my strength is hurt
+Dialogue: 0,00:04:33.69,00:04:34.97,Default,,0,0,0,,Wait for me to call someone!
+Dialogue: 0,00:04:37.93,00:04:39.25,Default,,0,0,0,,Reverse
+Dialogue: 0,00:04:39.77,00:04:41.21,Default,,0,0,0,,The furniture rebelled!
+Dialogue: 0,00:04:41.65,00:04:42.61,Default,,0,0,0,,Help!
+Dialogue: 0,00:04:48.33,00:04:50.65,Default,,0,0,0,,Has anyone saved me
+Dialogue: 0,00:04:55.65,00:04:57.53,Default,,0,0,0,,Who can save me!
+Dialogue: 0,00:05:04.69,00:05:05.69,Default,,0,0,0,,The village chief said
+Dialogue: 0,00:05:05.69,00:05:06.93,Default,,0,0,0,,Finished today
+Dialogue: 0,00:05:07.29,00:05:08.33,Default,,0,0,0,,This foggy room
+Dialogue: 0,00:05:08.33,00:05:09.81,Default,,0,0,0,,All have been idle for many years
+Dialogue: 0,00:05:09.93,00:05:11.21,Default,,0,0,0,,So much dust
+Dialogue: 0,00:05:11.61,00:05:13.73,Default,,0,0,0,,When should I go to clean it up?
+Dialogue: 0,00:05:17.41,00:05:18.89,Default,,0,0,0,,Your heating ability
+Dialogue: 0,00:05:19.09,00:05:20.53,Default,,0,0,0,,Can you remove oil?
+Dialogue: 0,00:05:20.85,00:05:22.05,Default,,0,0,0,,Promise
+Dialogue: 0,00:05:22.05,00:05:24.73,Default,,0,0,0,,Your ability is also very helpful for removing the trash
+Dialogue: 0,00:05:45.45,00:05:46.41,Default,,0,0,0,,No need No need
+Dialogue: 0,00:05:46.41,00:05:47.49,Default,,0,0,0,,take a break
+Dialogue: 0,00:06:03.77,00:06:05.17,Default,,0,0,0,,The whole wall is clean?
+Dialogue: 0,00:06:05.65,00:06:07.21,Default,,0,0,0,,Is Weslie the Goat?
+Dialogue: 0,00:06:11.77,00:06:12.85,Default,,0,0,0,,What garbage!
+Dialogue: 0,00:06:12.89,00:06:14.21,Default,,0,0,0,,It can only spray water
+Dialogue: 0,00:06:14.25,00:06:16.69,Default,,0,0,0,,Is this a weapon that dominates the universe?
+Dialogue: 0,00:06:20.41,00:06:21.89,Default,,0,0,0,,Such a powerful robot
+Dialogue: 0,00:06:21.93,00:06:23.57,Default,,0,0,0,,You can definitely catch goat!
+Dialogue: 0,00:06:28.17,00:06:29.29,Default,,0,0,0,,Get it!
+Dialogue: 0,00:06:32.37,00:06:34.41,Default,,0,0,0,,There was no power when the key was in the future?
+Dialogue: 0,00:06:54.05,00:06:55.37,Default,,0,0,0,,Weslie Brother
+Dialogue: 0,00:06:56.69,00:06:58.13,Default,,0,0,0,,I’ll sweep it!
+Dialogue: 0,00:06:58.25,00:06:59.57,Default,,0,0,0,,Shred up really dry!
+Dialogue: 0,00:07:00.77,00:07:02.21,Default,,0,0,0,,The last weapon!
+Dialogue: 0,00:07:02.25,00:07:03.77,Default,,0,0,0,,All of them will disappear to me!
+Dialogue: 0,00:07:05.13,00:07:07.77,Default,,0,0,0,,I must sue that unscrupulous business!
+Dialogue: 0,00:07:08.09,00:07:09.33,Default,,0,0,0,,I’ll be back!
+Dialogue: 0,00:07:13.29,00:07:14.65,Default,,0,0,0,,It only took half a day
+Dialogue: 0,00:07:14.69,00:07:15.81,Default,,0,0,0,,Just clean it
+Dialogue: 0,00:07:15.97,00:07:16.81,Default,,0,0,0,,Very good!
+Dialogue: 0,00:07:19.69,00:07:21.69,Default,,0,0,0,,Isn’t this the thing of Wolffy?
+Dialogue: 0,00:07:22.37,00:07:23.41,Default,,0,0,0,,It’s almost noon
+Dialogue: 0,00:07:23.57,00:07:25.01,Default,,0,0,0,,Let’s send it together
+Dialogue: 0,00:07:25.65,00:07:26.81,Default,,0,0,0,,Rushly eat
+Dialogue: 0,00:07:35.69,00:07:36.81,Default,,0,0,0,,What happened!
+Dialogue: 0,00:07:38.33,00:07:39.69,Default,,0,0,0,,What are these things!
+Dialogue: 0,00:07:43.33,00:07:45.09,Default,,0,0,0,,I’ve also followed it!
+Dialogue: 0,00:08:14.57,00:08:15.53,Default,,0,0,0,,Wolffy?
+Dialogue: 0,00:08:16.65,00:08:17.65,Default,,0,0,0,,Save me
+Dialogue: 0,00:08:18.05,00:08:19.85,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:08:20.21,00:08:21.89,Default,,0,0,0,,The home appliance rebelled
+Dialogue: 0,00:08:22.21,00:08:23.53,Default,,0,0,0,,The unlucky merchant has released some
+Dialogue: 0,00:08:23.57,00:08:25.29,Default,,0,0,0,,A strange creature gave me!
+Dialogue: 0,00:08:26.49,00:08:27.13,Default,,0,0,0,,These
+Dialogue: 0,00:08:27.17,00:08:29.13,Default,,0,0,0,,It seems to be our alien creatures
+Dialogue: 0,00:08:33.21,00:08:35.13,Default,,0,0,0,,We must have missed it!
+Dialogue: 0,00:08:35.97,00:08:36.57,Default,,0,0,0,,Look
+Dialogue: 0,00:08:36.61,00:08:38.09,Default,,0,0,0,,What did you buy
+Dialogue: 0,00:08:38.13,00:08:39.41,Default,,0,0,0,,Think about it quickly!
+Dialogue: 0,00:08:39.41,00:08:40.13,Default,,0,0,0,,Quick!
+Dialogue: 0,00:08:40.17,00:08:40.57,Default,,0,0,0,,quick!
+Dialogue: 0,00:08:41.65,00:08:42.77,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:08:42.85,00:08:44.13,Default,,0,0,0,,I bought these
+Dialogue: 0,00:08:44.81,00:08:46.45,Default,,0,0,0,,As long as I whistle
+Dialogue: 0,00:08:46.49,00:08:48.05,Default,,0,0,0,,These alien creatures
+Dialogue: 0,00:08:48.09,00:08:49.89,Default,,0,0,0,,They will all hear it very much
+Dialogue: 0,00:08:51.49,00:08:52.01,Default,,0,0,0,,Wait
+Dialogue: 0,00:08:52.05,00:08:53.37,Default,,0,0,0,,I’ll go back
+Dialogue: 0,00:09:04.21,00:09:05.53,Default,,0,0,0,,Come back so fast
+Dialogue: 0,00:09:05.81,00:09:07.13,Default,,0,0,0,,That’s what you said
+Dialogue: 0,00:09:07.29,00:09:08.45,Default,,0,0,0,,Listen to the conversation?
+Dialogue: 0,00:09:09.73,00:09:11.21,Default,,0,0,0,,It must be the environment of the earth
+Dialogue: 0,00:09:11.25,00:09:12.65,Default,,0,0,0,,Let them make a difference
+Dialogue: 0,00:09:13.61,00:09:15.17,Default,,0,0,0,,Who doesn’t hear now
+Dialogue: 0,00:09:17.61,00:09:19.49,Default,,0,0,0,,And let them develop
+Dialogue: 0,00:09:19.53,00:09:20.89,Default,,0,0,0,,It’ll be bad by then
+Dialogue: 0,00:09:22.69,00:09:24.21,Default,,0,0,0,,Then what should we do?
+Dialogue: 0,00:09:25.69,00:09:26.17,Default,,0,0,0,,No
+Dialogue: 0,00:09:26.25,00:09:27.61,Default,,0,0,0,,What should you do
+Dialogue: 0,00:09:27.69,00:09:28.45,Default,,0,0,0,,I’ll let it go first!
+Dialogue: 0,00:09:29.05,00:09:30.41,Default,,0,0,0,,Tell me!
+Dialogue: 0,00:09:36.25,00:09:37.73,Default,,0,0,0,,Don’t leave!
+Dialogue: 0,00:09:41.17,00:09:42.93,Default,,0,0,0,,Who is here to save me
+Dialogue: 0,00:09:42.97,00:09:43.93,Default,,0,0,0,,Weslie
+Dialogue: 0,00:09:43.93,00:09:45.01,Default,,0,0,0,,Sparky
+Dialogue: 0,00:09:50.45,00:09:51.45,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:09:52.65,00:09:54.89,Default,,0,0,0,,What kind of monster is this?
+Dialogue: 0,00:09:55.09,00:09:55.73,Default,,0,0,0,,monster!
+Dialogue: 0,00:09:55.85,00:09:57.53,Default,,0,0,0,,It actually destroyed Wolffy’s home
+Dialogue: 0,00:09:57.65,00:09:58.81,Default,,0,0,0,,Let me deal with you!
+Dialogue: 0,00:09:59.05,00:10:00.01,Default,,0,0,0,,Very good!
+Dialogue: 0,00:10:09.89,00:10:10.61,Default,,0,0,0,,so
+Dialogue: 0,00:10:10.61,00:10:12.33,Default,,0,0,0,,What are you here to do?
+Dialogue: 0,00:10:12.61,00:10:14.53,Default,,0,0,0,,You put your stuff in our warehouse
+Dialogue: 0,00:10:15.21,00:10:16.81,Default,,0,0,0,,We’ve sent you...
+Dialogue: 0,00:10:19.09,00:10:19.93,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:19.97,00:10:21.49,Default,,0,0,0,,What should I do now?
+Dialogue: 0,00:10:24.73,00:10:26.89,Default,,0,0,0,,Those three monsters are still crazy
+Dialogue: 0,00:10:28.09,00:10:28.93,Default,,0,0,0,,Not afraid
+Dialogue: 0,00:10:29.41,00:10:30.49,Default,,0,0,0,,There are these things
+Dialogue: 0,00:10:30.49,00:10:31.61,Default,,0,0,0,,We can win!
+Dialogue: 0,00:10:45.61,00:10:47.21,Default,,0,0,0,,Come and hit me!
+Dialogue: 0,00:11:00.33,00:11:01.29,Default,,0,0,0,,The first one!
+Dialogue: 0,00:11:03.41,00:11:04.89,Default,,0,0,0,,So terrible!
+Dialogue: 0,00:11:19.85,00:11:20.97,Default,,0,0,0,,The second
+Dialogue: 0,00:11:25.77,00:11:26.57,Default,,0,0,0,,careful
+Dialogue: 0,00:11:35.13,00:11:36.01,Default,,0,0,0,,I’ll help you
+Dialogue: 0,00:11:54.13,00:11:55.05,Default,,0,0,0,,Success!
+Dialogue: 0,00:11:55.25,00:11:56.17,Default,,0,0,0,,Very terrible!
+Dialogue: 0,00:11:56.41,00:11:57.73,Default,,0,0,0,,Is this still possible?
+Dialogue: 0,00:12:14.13,00:12:15.45,Default,,0,0,0,,Finally sent away
+Dialogue: 0,00:12:15.57,00:12:17.45,Default,,0,0,0,,I have to buy some stable next time
+Dialogue: 0,00:12:17.89,00:12:19.61,Default,,0,0,0,,And next time?
+Dialogue: 0,00:12:21.01,00:12:22.61,Default,,0,0,0,,I’m saying it’s too dangerous
+Dialogue: 0,00:12:22.61,00:12:24.09,Default,,0,0,0,,Finally sent away!
+Dialogue: 0,00:12:27.05,00:12:28.49,Default,,0,0,0,,Yes... I’m sorry!
+Dialogue: 0,00:12:28.61,00:12:29.13,Default,,0,0,0,,I...I’ll never again
+Dialogue: 0,00:12:29.17,00:12:31.13,Default,,0,0,0,,Don’t buy strange things!

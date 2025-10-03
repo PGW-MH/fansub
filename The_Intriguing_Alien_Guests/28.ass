@@ -1,0 +1,277 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:17.80,00:00:19.84,Default,,0,0,0,,Choose a perfect angle
+Dialogue: 0,00:00:20.64,00:00:22.16,Default,,0,0,0,,A sentence with another sentence...
+Dialogue: 0,00:00:22.68,00:00:24.96,Default,,0,0,0,,Seaweed and durian is absolutely suitable
+Dialogue: 0,00:00:25.48,00:00:26.24,Default,,0,0,0,,Send
+Dialogue: 0,00:00:26.76,00:00:29.84,Default,,0,0,0,,What a poem this is...
+Dialogue: 0,00:00:30.60,00:00:31.92,Default,,0,0,0,,I’ve taken it!
+Dialogue: 0,00:00:31.92,00:00:35.12,Default,,0,0,0,,You should try my new work
+Seaweed and durian glutinous rice!
+Dialogue: 0,00:00:35.88,00:00:40.32,Default,,0,0,0,,You’re not saying this
+Unknown objects that dissipate the breath of hope
+Dialogue: 0,00:00:40.92,00:00:42.56,Default,,0,0,0,,Will eat a stomachache
+Dialogue: 0,00:00:43.72,00:00:44.52,Default,,0,0,0,,must
+Dialogue: 0,00:00:44.84,00:00:46.16,Default,,0,0,0,,These are you
+Dialogue: 0,00:00:46.32,00:00:49.36,Default,,0,0,0,,I don’t know how to appreciate my food!
+Dialogue: 0,00:00:50.36,00:00:52.52,Default,,0,0,0,,The big bun looks delicious
+Dialogue: 0,00:00:53.40,00:00:56.48,Default,,0,0,0,,You immediately liked the noodles
+Dialogue: 0,00:00:56.48,00:00:58.48,Default,,0,0,0,,I’ve replied to my poem!
+Dialogue: 0,00:01:00.00,00:01:03.36,Default,,0,0,0,,Why do you have to show your dismissive look!!
+Dialogue: 0,00:01:05.92,00:01:10.00,Default,,0,0,0,,The noodles are also put on your online
+All the food photos are praised!
+Dialogue: 0,00:01:10.56,00:01:11.48,Default,,0,0,0,,Of course
+Dialogue: 0,00:01:11.52,00:01:13.84,Default,,0,0,0,,Xiaowu is my loyal fan lover
+Dialogue: 0,00:01:13.84,00:01:16.71,Default,,0,0,0,,It seems that he is a very knowledgeable food
+Dialogue: 0,00:01:16.96,00:01:18.96,Default,,0,0,0,,You might as well keep it for him to taste
+Dialogue: 0,00:01:19.12,00:01:21.12,Default,,0,0,0,,Done beautifully
+Dialogue: 0,00:01:22.84,00:01:23.76,Default,,0,0,0,,Yes!
+Dialogue: 0,00:01:23.76,00:01:27.20,Default,,0,0,0,,I can get the noodles out
+Help me taste the seaweed and durian nuts!
+Dialogue: 0,00:01:30.96,00:01:32.04,Default,,0,0,0,,Send!
+Dialogue: 0,00:01:33.64,00:01:35.84,Default,,0,0,0,,You don’t need to taste it for me!
+Dialogue: 0,00:01:35.84,00:01:36.68,Default,,0,0,0,,goodbye!
+Dialogue: 0,00:01:39.28,00:01:43.40,Default,,0,0,0,,You are willing to come out and taste the noodles
+Is my seaweed and durian nut?
+Dialogue: 0,00:01:43.52,00:01:45.68,Default,,0,0,0,,He..., he asked me out!!!
+Dialogue: 0,00:01:45.84,00:01:46.76,Default,,0,0,0,,What to do?
+Dialogue: 0,00:01:46.76,00:01:47.52,Default,,0,0,0,,Go!
+Dialogue: 0,00:01:48.56,00:01:50.64,Default,,0,0,0,,Master, please suggest that I go and see my friends?
+Dialogue: 0,00:01:51.20,00:01:53.32,Default,,0,0,0,,But I haven’t prepared yet
+Dialogue: 0,00:01:53.52,00:01:56.12,Default,,0,0,0,,I’m asking you to lure BB Goat over!
+Dialogue: 0,00:01:57.68,00:01:58.92,Default,,0,0,0,,My stomach hurts again
+Dialogue: 0,00:01:59.71,00:02:03.00,Default,,0,0,0,,It’s all because of last night and
+The plaque has eaten something wrong
+Dialogue: 0,00:02:03.52,00:02:04.88,Default,,0,0,0,,I’ll hand it over to you here
+Dialogue: 0,00:02:04.92,00:02:05.88,Default,,0,0,0,,come on
+Dialogue: 0,00:02:07.64,00:02:08.88,Default,,0,0,0,,All right…
+Dialogue: 0,00:02:17.28,00:02:18.64,Default,,0,0,0,,No reaction here
+Dialogue: 0,00:02:18.76,00:02:20.64,Default,,0,0,0,,It seems that I’m going to do something wrong!
+Dialogue: 0,00:02:25.04,00:02:26.08,Default,,0,0,0,,That’s...?
+Dialogue: 0,00:02:26.60,00:02:27.92,Default,,0,0,0,,Get on the hook
+Dialogue: 0,00:02:28.68,00:02:31.00,Default,,0,0,0,,Why is it Ugly not me!!
+Dialogue: 0,00:02:32.28,00:02:33.76,Default,,0,0,0,,Will the car talk?
+Dialogue: 0,00:02:35.80,00:02:37.48,Default,,0,0,0,,Haven’t replied yet?
+Dialogue: 0,00:02:40.92,00:02:43.24,Default,,0,0,0,,The toy car will still talk now
+Dialogue: 0,00:02:44.48,00:02:46.12,Default,,0,0,0,,What does a toy car say?
+Dialogue: 0,00:02:47.12,00:02:49.08,Default,,0,0,0,,BB Goat Stop
+Dialogue: 0,00:02:50.92,00:02:52.56,Default,,0,0,0,,Want to guard me?
+Dialogue: 0,00:02:58.72,00:02:59.92,Default,,0,0,0,,BB Goat!!
+Dialogue: 0,00:03:05.07,00:03:06.24,Default,,0,0,0,,Just hate you
+Dialogue: 0,00:03:06.24,00:03:07.68,Default,,0,0,0,,I want to win me too!
+Dialogue: 0,00:03:10.68,00:03:11.84,Default,,0,0,0,,I won’t win you
+Dialogue: 0,00:03:12.44,00:03:13.92,Default,,0,0,0,,But I have a trick!
+Dialogue: 0,00:03:14.00,00:03:17.07,Default,,0,0,0,,Weslie, come quickly!
+Dialogue: 0,00:03:17.12,00:03:19.28,Default,,0,0,0,,What... I actually called for help!
+Dialogue: 0,00:03:19.63,00:03:21.40,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:03:22.40,00:03:24.12,Default,,0,0,0,,Don’t leave if you have any worries
+Dialogue: 0,00:03:24.60,00:03:26.00,Default,,0,0,0,,The king and the others are not here
+Dialogue: 0,00:03:26.32,00:03:27.96,Default,,0,0,0,,Have to withdraw first
+Dialogue: 0,00:03:28.63,00:03:30.72,Default,,0,0,0,,The little kid, if you can’t win, ask someone to help
+Dialogue: 0,00:03:30.76,00:03:32.44,Default,,0,0,0,,I will definitely not let you go next time!
+Dialogue: 0,00:03:33.24,00:03:34.07,Default,,0,0,0,,what
+Dialogue: 0,00:03:34.12,00:03:35.63,Default,,0,0,0,,Didn’t you run away too?
+Dialogue: 0,00:03:35.76,00:03:37.07,Default,,0,0,0,,You’re the strength
+Dialogue: 0,00:03:37.07,00:03:38.76,Default,,0,0,0,,Don’t let me meet you again!
+Dialogue: 0,00:03:43.84,00:03:45.28,Default,,0,0,0,,Fortunately, I run fast
+Dialogue: 0,00:03:46.60,00:03:47.32,Default,,0,0,0,,There is a message!
+Dialogue: 0,00:03:50.04,00:03:53.16,Default,,0,0,0,,I sent so many messages
+Why don’t you reply to me?
+Dialogue: 0,00:03:53.28,00:03:54.52,Default,,0,0,0,,Is the mobile phone intact?
+Dialogue: 0,00:03:54.63,00:03:55.92,Default,,0,0,0,,Is the signal bad?
+Dialogue: 0,00:03:58.72,00:04:01.04,Default,,0,0,0,,Is it hard to tell that he doesn’t want to see me?
+Dialogue: 0,00:04:02.84,00:04:03.84,Default,,0,0,0,,There is a reply!
+Dialogue: 0,00:04:04.12,00:04:05.63,Default,,0,0,0,,Lovely little cake...
+Dialogue: 0,00:04:06.16,00:04:09.63,Default,,0,0,0,,Your fee is less than 10 yuan. Please recharge it in time
+Dialogue: 0,00:04:10.76,00:04:11.52,Default,,0,0,0,,What to do? !
+Dialogue: 0,00:04:14.07,00:04:15.40,Default,,0,0,0,,It’s a noodles!
+Dialogue: 0,00:04:15.63,00:04:18.36,Default,,0,0,0,,Lovely little cake I miss you too
+Dialogue: 0,00:04:18.63,00:04:21.80,Default,,0,0,0,,It’s just that something has happened
+Didn’t return to you in time
+Dialogue: 0,00:04:22.63,00:04:24.16,Default,,0,0,0,,So that’s how it is
+Dialogue: 0,00:04:25.72,00:04:26.96,Default,,0,0,0,,What happened?
+Dialogue: 0,00:04:27.96,00:04:29.68,Default,,0,0,0,,Today I met a guy who was having sex
+Dialogue: 0,00:04:29.80,00:04:31.56,Default,,0,0,0,,If he can’t beat me, I will call for rescue
+Dialogue: 0,00:04:31.63,00:04:33.16,Default,,0,0,0,,What a strength! strength!
+Dialogue: 0,00:04:33.76,00:04:34.88,Default,,0,0,0,,Such a coincidence
+Dialogue: 0,00:04:34.96,00:04:36.72,Default,,0,0,0,,Today I also met a strength
+Dialogue: 0,00:04:36.80,00:04:38.76,Default,,0,0,0,,I ran away if he couldn’t beat him
+Dialogue: 0,00:04:38.80,00:04:39.84,Default,,0,0,0,,I’ll teach you a trick
+Dialogue: 0,00:04:39.92,00:04:42.28,Default,,0,0,0,,Next time he wants to run, you can use it
+Dialogue: 0,00:04:42.36,00:04:44.07,Default,,0,0,0,,Boulder-pressing crab
+Dialogue: 0,00:04:46.88,00:04:48.63,Default,,0,0,0,,Then I’ll teach you a trick, too
+Dialogue: 0,00:04:48.92,00:04:50.20,Default,,0,0,0,,He shouts again next time
+Dialogue: 0,00:04:50.48,00:04:53.04,Default,,0,0,0,,You just use a terrible finger to him
+Dialogue: 0,00:04:53.96,00:04:56.00,Default,,0,0,0,,He kept laughing and couldn’t call for rescue
+Dialogue: 0,00:04:58.60,00:05:00.52,Default,,0,0,0,,I really want to meet you soon
+Dialogue: 0,00:05:01.32,00:05:04.00,Default,,0,0,0,,That afternoon, see it on the tallest tree in the forest
+Dialogue: 0,00:05:04.84,00:05:07.84,Default,,0,0,0,,I will bring you seaweed and durian nuts to taste
+Dialogue: 0,00:05:08.40,00:05:08.92,Default,,0,0,0,,good
+Dialogue: 0,00:05:08.96,00:05:09.92,Default,,0,0,0,,Don’t get along if you don’t see it!
+Dialogue: 0,00:05:11.16,00:05:12.92,Default,,0,0,0,,So what clothes should I wear?
+Dialogue: 0,00:05:15.00,00:05:17.36,Default,,0,0,0,,No! I don’t have a body!
+Dialogue: 0,00:05:21.40,00:05:22.04,Default,,0,0,0,,How
+Dialogue: 0,00:05:22.32,00:05:23.48,Default,,0,0,0,,Have you caught BB Goat?
+Dialogue: 0,00:05:24.76,00:05:26.00,Default,,0,0,0,,no
+Dialogue: 0,00:05:26.07,00:05:28.36,Default,,0,0,0,,Are you still playing with your phone if you haven’t caught it? !
+Dialogue: 0,00:05:29.36,00:05:30.56,Default,,0,0,0,,It’s all my fault
+Dialogue: 0,00:05:30.80,00:05:32.00,Default,,0,0,0,,It’s all my fault for not having a body
+Dialogue: 0,00:05:32.72,00:05:34.12,Default,,0,0,0,,If I had a body
+Dialogue: 0,00:05:34.28,00:05:36.88,Default,,0,0,0,,A hundred BB Goat have been caught back
+Dialogue: 0,00:05:37.56,00:05:38.60,Default,,0,0,0,,That’s right
+Dialogue: 0,00:05:38.60,00:05:40.52,Default,,0,0,0,,I’ll help you build a machine body
+Dialogue: 0,00:05:41.32,00:05:42.00,Default,,0,0,0,,The King
+Dialogue: 0,00:05:42.12,00:05:43.48,Default,,0,0,0,,I want to be a little older
+Dialogue: 0,00:05:43.72,00:05:45.16,Default,,0,0,0,,Hair style should be more fashionable
+Dialogue: 0,00:05:45.20,00:05:47.04,Default,,0,0,0,,Add six abdominal muscles to it
+Dialogue: 0,00:05:47.12,00:05:48.08,Default,,0,0,0,,It’s done
+Dialogue: 0,00:05:48.88,00:05:51.96,Default,,0,0,0,,I’ve made you one
+The most perfect body in the world
+Dialogue: 0,00:05:52.40,00:05:53.68,Default,,0,0,0,,Fashionable hair roll
+Dialogue: 0,00:05:54.04,00:05:56.00,Default,,0,0,0,,And strong arm
+Dialogue: 0,00:05:59.56,00:06:01.60,Default,,0,0,0,,I still don’t want such a body...
+Dialogue: 0,00:06:02.76,00:06:05.00,Default,,0,0,0,,I don’t care, please come in quickly!!!
+Dialogue: 0,00:06:07.40,00:06:09.04,Default,,0,0,0,,My stomach hurts again...
+Dialogue: 0,00:06:10.24,00:06:10.84,Default,,0,0,0,,never mind
+Dialogue: 0,00:06:11.68,00:06:13.64,Default,,0,0,0,,Let’s go see the cake first
+Dialogue: 0,00:06:16.96,00:06:18.24,Default,,0,0,0,,It smells so good
+Dialogue: 0,00:06:19.60,00:06:20.24,Default,,0,0,0,,no!
+Dialogue: 0,00:06:20.24,00:06:22.00,Default,,0,0,0,,This is for the noodles!
+Dialogue: 0,00:06:22.28,00:06:24.24,Default,,0,0,0,,Even though that’s what it means...
+Dialogue: 0,00:06:24.48,00:06:28.00,Default,,0,0,0,,But when will the noodles come?
+Dialogue: 0,00:06:28.72,00:06:30.48,Default,,0,0,0,,Hello, I’m Xiaoba
+Dialogue: 0,00:06:30.80,00:06:32.84,Default,,0,0,0,,First time meeting, please take a closer look
+Dialogue: 0,00:06:34.12,00:06:35.68,Default,,0,0,0,,No, too serious
+Dialogue: 0,00:06:39.84,00:06:42.04,Default,,0,0,0,,I am your friend Noodle noodles!
+Dialogue: 0,00:06:45.80,00:06:47.72,Default,,0,0,0,,Isn’t it too hot...
+Dialogue: 0,00:06:48.36,00:06:49.24,Default,,0,0,0,,That’s...
+Dialogue: 0,00:06:49.80,00:06:50.56,Default,,0,0,0,,Small cake!
+Dialogue: 0,00:06:51.36,00:06:52.92,Default,,0,0,0,,Very... So tight...
+Dialogue: 0,00:06:53.84,00:06:57.24,Default,,0,0,0,,I hear the deer in my heart
+It’s bumping
+Dialogue: 0,00:06:59.20,00:07:01.12,Default,,0,0,0,,I’ll go to the bathroom and you’ll leave
+Dialogue: 0,00:07:01.16,00:07:02.60,Default,,0,0,0,,What to do with when you walk so quickly?
+Dialogue: 0,00:07:03.36,00:07:04.32,Default,,0,0,0,,What are you looking at?
+Dialogue: 0,00:07:05.16,00:07:09.72,Default,,0,0,0,,I’m trying to catch BB Goat
+Only then can you unseal the seal for the king as soon as possible
+Dialogue: 0,00:07:09.84,00:07:11.35,Default,,0,0,0,,So you thought so
+Dialogue: 0,00:07:11.56,00:07:13.20,Default,,0,0,0,,This king is very pleased
+Dialogue: 0,00:07:13.24,00:07:15.35,Default,,0,0,0,,Then let’s go out now
+Dialogue: 0,00:07:16.92,00:07:18.04,Default,,0,0,0,,Big... King...
+Dialogue: 0,00:07:18.12,00:07:19.60,Default,,0,0,0,,You... your stomach doesn’t hurt
+Dialogue: 0,00:07:20.96,00:07:22.52,Default,,0,0,0,,It’s okay, I’m taking medicine
+Dialogue: 0,00:07:23.00,00:07:24.00,Default,,0,0,0,,Let’s go quickly
+Dialogue: 0,00:07:25.08,00:07:27.16,Default,,0,0,0,,I think I’ll go to the hospital for another blood test
+Dialogue: 0,00:07:27.28,00:07:28.47,Default,,0,0,0,,Making an ultrasonic...
+Dialogue: 0,00:07:29.00,00:07:31.68,Default,,0,0,0,,- What’s the radiation treatment...
+-Okay OK
+Dialogue: 0,00:07:31.80,00:07:34.04,Default,,0,0,0,,We’ll come back to check after catching BB Goat
+Dialogue: 0,00:07:35.28,00:07:36.52,Default,,0,0,0,,Let’s go, you’re
+Dialogue: 0,00:07:40.68,00:07:43.64,Default,,0,0,0,,All the lambs are here, let’s watch it first...
+Dialogue: 0,00:07:44.16,00:07:45.84,Default,,0,0,0,,Listen to me first!!!
+Dialogue: 0,00:07:45.88,00:07:48.68,Default,,0,0,0,,Resolve them tightly and have time to see the cake!
+Dialogue: 0,00:07:49.56,00:07:50.92,Default,,0,0,0,,Where is the robot?
+Dialogue: 0,00:07:55.04,00:07:55.96,Default,,0,0,0,,Danger! Danger!
+Dialogue: 0,00:07:59.60,00:08:00.60,Default,,0,0,0,,Who are you!
+Dialogue: 0,00:08:02.20,00:08:05.52,Default,,0,0,0,,This is the digital virus that I created the machine body!
+Dialogue: 0,00:08:06.08,00:08:07.20,Default,,0,0,0,,Digital virus?
+Dialogue: 0,00:08:07.24,00:08:09.76,Default,,0,0,0,,Even if he becomes a robot, I’m not afraid!
+Dialogue: 0,00:08:10.08,00:08:10.96,Default,,0,0,0,,Yes?
+Dialogue: 0,00:08:11.08,00:08:13.44,Default,,0,0,0,,Let the lamb see your evil spirits!
+Dialogue: 0,00:08:21.60,00:08:23.00,Default,,0,0,0,,Tibbie!!!
+Dialogue: 0,00:08:24.64,00:08:25.68,Default,,0,0,0,,Sparky? !
+Dialogue: 0,00:08:26.76,00:08:27.52,Default,,0,0,0,,I’m fine
+Dialogue: 0,00:08:27.96,00:08:28.64,Default,,0,0,0,,This is...
+Dialogue: 0,00:08:29.12,00:08:30.64,Default,,0,0,0,,District oil
+Dialogue: 0,00:08:30.68,00:08:31.60,Default,,0,0,0,,Look at me!
+Dialogue: 0,00:08:31.80,00:08:33.16,Default,,0,0,0,,Sparky  Stop
+Dialogue: 0,00:08:34.44,00:08:35.68,Default,,0,0,0,,Oil is a flammable substance
+Dialogue: 0,00:08:35.72,00:08:37.96,Default,,0,0,0,,When you heat up, the oil will burn yours
+Dialogue: 0,00:08:38.40,00:08:40.32,Default,,0,0,0,,Is this still happening? !
+Dialogue: 0,00:08:41.00,00:08:42.24,Default,,0,0,0,,It was actually discovered!
+Dialogue: 0,00:08:42.32,00:08:43.44,Default,,0,0,0,,But it’s OK
+Dialogue: 0,00:08:43.52,00:08:45.47,Default,,0,0,0,,Get rid of them!!!
+Dialogue: 0,00:08:59.04,00:09:01.60,Default,,0,0,0,,Come and untie this seal
+Dialogue: 0,00:09:02.24,00:09:03.08,Default,,0,0,0,,BB Goat!!
+Dialogue: 0,00:09:03.56,00:09:05.56,Default,,0,0,0,,We’ll save you!!!
+Dialogue: 0,00:09:07.64,00:09:09.60,Default,,0,0,0,,Please go and call the Goat
+Dialogue: 0,00:09:14.88,00:09:16.16,Default,,0,0,0,,Noodle noodles?
+Dialogue: 0,00:09:19.00,00:09:20.92,Default,,0,0,0,,Where are you going to take me?
+Dialogue: 0,00:09:21.56,00:09:23.96,Default,,0,0,0,,The seal can be unveiled immediately!
+Dialogue: 0,00:09:24.08,00:09:26.56,Default,,0,0,0,,You’ll be dealt with soon
+Dialogue: 0,00:09:33.76,00:09:34.32,Default,,0,0,0,,who?
+Dialogue: 0,00:09:38.40,00:09:39.52,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:09:39.64,00:09:41.12,Default,,0,0,0,,Paddi!!!
+Dialogue: 0,00:09:42.12,00:09:46.35,Default,,0,0,0,,It hurts so much!! My head hurts so much
+Dialogue: 0,00:09:46.52,00:09:47.47,Default,,0,0,0,,Honey!!
+Dialogue: 0,00:09:47.56,00:09:49.24,Default,,0,0,0,,We’re meeting again!
+Dialogue: 0,00:09:50.40,00:09:51.60,Default,,0,0,0,,Butterfly help!
+Dialogue: 0,00:09:51.84,00:09:53.40,Default,,0,0,0,,Want to bring reinforcements again!
+Dialogue: 0,00:09:53.84,00:09:54.80,Default,,0,0,0,,Look at mine...
+Dialogue: 0,00:09:54.88,00:09:56.28,Default,,0,0,0,,No! No! No!
+Dialogue: 0,00:09:56.35,00:09:57.88,Default,,0,0,0,,!One finger!!!
+Dialogue: 0,00:09:57.96,00:09:58.92,Default,,0,0,0,,One finger?
+Dialogue: 0,00:10:02.24,00:10:03.52,Default,,0,0,0,,It’s up to me!
+Dialogue: 0,00:10:05.00,00:10:08.60,Default,,0,0,0,,Boulder-pressing crab!!!!!!
+Dialogue: 0,00:10:13.35,00:10:15.56,Default,,0,0,0,,Why do you get a big rock to squeeze a crab?
+Dialogue: 0,00:10:15.68,00:10:18.04,Default,,0,0,0,,How could you be so stubborn?
+Dialogue: 0,00:10:18.40,00:10:19.40,Default,,0,0,0,,It’s hard to tell!
+Dialogue: 0,00:10:20.32,00:10:21.68,Default,,0,0,0,,Can’t you tell me?
+Dialogue: 0,00:10:22.44,00:10:24.32,Default,,0,0,0,,Seaweed and durian is absolutely suitable
+Dialogue: 0,00:10:24.80,00:10:26.88,Default,,0,0,0,,The puff looks so delicious!
+Dialogue: 0,00:10:27.44,00:10:28.60,Default,,0,0,0,,Noodle noodles!
+Dialogue: 0,00:10:28.64,00:10:30.00,Default,,0,0,0,,Small cake!
+Dialogue: 0,00:10:32.60,00:10:34.56,Default,,0,0,0,,Please take us out
+Dialogue: 0,00:10:35.80,00:10:37.32,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:10:37.60,00:10:38.60,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:10:39.12,00:10:40.64,Default,,0,0,0,,You actually escaped
+Dialogue: 0,00:10:41.35,00:10:42.92,Default,,0,0,0,,Little Green, come on!
+Dialogue: 0,00:10:51.60,00:10:52.52,Default,,0,0,0,,This king is tired
+Dialogue: 0,00:10:52.56,00:10:53.96,Default,,0,0,0,,Get rid of them next time
+Dialogue: 0,00:10:56.56,00:10:57.76,Default,,0,0,0,,Noodle noodles…
+Dialogue: 0,00:11:02.40,00:11:05.24,Default,,0,0,0,,Why is the small cake a goat?
+Dialogue: 0,00:11:06.16,00:11:07.12,Default,,0,0,0,,That’s...
+Dialogue: 0,00:11:07.72,00:11:09.72,Default,,0,0,0,,Seaweed and Durry Lotion…
+Dialogue: 0,00:11:10.68,00:11:13.80,Default,,0,0,0,,I really want to taste the cake
+Seaweed Durry Fried
+Dialogue: 0,00:11:15.20,00:11:17.00,Default,,0,0,0,,But I don’t have any taste...
+Dialogue: 0,00:11:17.52,00:11:19.56,Default,,0,0,0,,Then I’ll tell you...
+Dialogue: 0,00:11:21.12,00:11:22.35,Default,,0,0,0,,It’s you?
+Dialogue: 0,00:11:22.96,00:11:25.32,Default,,0,0,0,,I didn’t expect you to be a noodle
+Dialogue: 0,00:11:25.76,00:11:29.00,Default,,0,0,0,,But I promised you to taste it
+Seaweed and durian glutinous rice…
+Dialogue: 0,00:11:29.76,00:11:32.35,Default,,0,0,0,,Let’s eat together I’ll describe it to you...
+Dialogue: 0,00:11:33.56,00:11:36.47,Default,,0,0,0,,Don’t think too much about it, I’ll leave after I’m talking
+Dialogue: 0,00:11:37.00,00:11:37.76,Default,,0,0,0,,Start
+Dialogue: 0,00:11:38.88,00:11:41.12,Default,,0,0,0,,Crispy seaweed wrapped in durian
+Dialogue: 0,00:11:41.60,00:11:43.52,Default,,0,0,0,,It tastes crispy on the outside and tender on the inside
+Dialogue: 0,00:11:45.08,00:11:48.60,Default,,0,0,0,,Fresh and beautiful seaweed
+The slump of durians are done together
+Dialogue: 0,00:11:48.76,00:11:50.80,Default,,0,0,0,,Then it can only be described in two words
+Dialogue: 0,00:11:51.24,00:11:52.08,Default,,0,0,0,,Difficult to eat!
+Dialogue: 0,00:11:53.44,00:11:56.08,Default,,0,0,0,,It’s hard to eat, it’s hard to eat, it’s hard to eat...!
+Dialogue: 0,00:11:56.28,00:11:59.76,Default,,0,0,0,,The sticky smell of seaweed
+Completely inspired
+Dialogue: 0,00:12:01.72,00:12:03.88,Default,,0,0,0,,To stop noodles tightly
+Dialogue: 0,00:12:04.72,00:12:06.52,Default,,0,0,0,,Already eaten!!!
+Dialogue: 0,00:12:09.20,00:12:10.60,Default,,0,0,0,,That...
+Dialogue: 0,00:12:10.76,00:12:13.20,Default,,0,0,0,,Do you feel how delicious it is?
+Dialogue: 0,00:12:14.12,00:12:15.16,Default,,0,0,0,,Feeling...
+Dialogue: 0,00:12:16.80,00:12:18.40,Default,,0,0,0,,It’s the smell of short circuit
+Dialogue: 0,00:12:23.35,00:12:26.32,Default,,0,0,0,,I don’t deserve to eat, it’s all you blame!
+Dialogue: 0,00:12:29.52,00:12:31.44,Default,,0,0,0,,Don’t run! Huh!
+Dialogue: 0,00:12:31.56,00:12:33.72,Default,,0,0,0,,You are the strength!

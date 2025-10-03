@@ -1,0 +1,256 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.81,00:00:21.53,Default,,0,0,0,,Bag adult
+Dialogue: 0,00:00:22.41,00:00:24.21,Default,,0,0,0,,They suddenly disappeared here
+Dialogue: 0,00:00:25.81,00:00:26.69,Default,,0,0,0,,It’s an earthquake
+Dialogue: 0,00:00:29.25,00:00:30.81,Default,,0,0,0,,When did you have more authenticity at home?
+Dialogue: 0,00:00:33.57,00:00:35.17,Default,,0,0,0,,It turns out you are here!
+Dialogue: 0,00:00:35.77,00:00:37.57,Default,,0,0,0,,Do you know how worried I am about you...
+Dialogue: 0,00:00:37.61,00:00:38.25,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:00:38.45,00:00:39.89,Default,,0,0,0,,The wolf castle is about to collapse
+Dialogue: 0,00:00:40.85,00:00:41.65,Default,,0,0,0,,What’s going on?
+Dialogue: 0,00:00:41.77,00:00:43.41,Default,,0,0,0,,Let’s talk about it after leaving here
+Dialogue: 0,00:01:02.13,00:01:04.89,Default,,0,0,0,,The power finally came back!
+Dialogue: 0,00:01:05.37,00:01:07.37,Default,,0,0,0,,The king has restored his original appearance
+Dialogue: 0,00:01:07.41,00:01:08.41,Default,,0,0,0,,The little lamb
+Dialogue: 0,00:01:08.53,00:01:10.37,Default,,0,0,0,,Taste this
+Dialogue: 0,00:01:17.09,00:01:18.37,Default,,0,0,0,,The lambs…
+Dialogue: 0,00:01:23.69,00:01:25.61,Default,,0,0,0,,And you are too red
+Dialogue: 0,00:01:26.65,00:01:29.09,Default,,0,0,0,,Dare to bully the king before
+Dialogue: 0,00:01:29.13,00:01:31.97,Default,,0,0,0,,Look at what I have prepared for you
+Dialogue: 0,00:01:43.49,00:01:44.93,Default,,0,0,0,,It’s my rope gun
+Dialogue: 0,00:01:46.33,00:01:48.45,Default,,0,0,0,,Weslie is you
+Dialogue: 0,00:01:50.17,00:01:51.45,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:01:52.21,00:01:53.89,Default,,0,0,0,,King Bacteria is so strong
+Dialogue: 0,00:01:54.61,00:01:56.33,Default,,0,0,0,,We’re not his opponent at all
+Dialogue: 0,00:01:57.33,00:01:59.17,Default,,0,0,0,,Let’s go back to find the village chief first
+Dialogue: 0,00:01:59.21,00:02:00.77,Default,,0,0,0,,See what’s going to do to deal with him
+Dialogue: 0,00:02:00.97,00:02:02.09,Default,,0,0,0,,Then I’ll bring the red first
+Dialogue: 0,00:02:02.13,00:02:03.81,Default,,0,0,0,,Leave here with Wilie!
+Dialogue: 0,00:02:04.73,00:02:06.53,Default,,0,0,0,,Lord Baobao, go quickly!
+Dialogue: 0,00:02:10.57,00:02:12.45,Default,,0,0,0,,The lambs are fine...
+Dialogue: 0,00:02:13.57,00:02:15.21,Default,,0,0,0,,Let’s go and help the king to unpack it first!
+Dialogue: 0,00:02:15.25,00:02:16.89,Default,,0,0,0,,unnecessary
+Dialogue: 0,00:02:17.05,00:02:18.97,Default,,0,0,0,,Weslie
+Dialogue: 0,00:02:21.93,00:02:23.29,Default,,0,0,0,,The king’s mighty power
+Dialogue: 0,00:02:23.49,00:02:25.49,Default,,0,0,0,,They actually ran away
+Dialogue: 0,00:02:29.25,00:02:30.05,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:02:30.45,00:02:31.93,Default,,0,0,0,,Take Wilie away quickly
+Dialogue: 0,00:02:32.25,00:02:33.45,Default,,0,0,0,,Don’t be stupid
+Dialogue: 0,00:02:33.49,00:02:35.01,Default,,0,0,0,,Go together
+Dialogue: 0,00:02:40.05,00:02:42.69,Default,,0,0,0,,There are still no one here
+Dialogue: 0,00:02:45.89,00:02:46.65,Default,,0,0,0,,Village Chief!
+Dialogue: 0,00:02:47.05,00:02:47.85,Default,,0,0,0,,Village Chief!
+Dialogue: 0,00:02:50.37,00:02:51.73,Default,,0,0,0,,I already know
+Dialogue: 0,00:02:51.85,00:02:54.17,Default,,0,0,0,,King Bacteria has unsealed the seal
+Dialogue: 0,00:02:54.77,00:02:55.69,Default,,0,0,0,,Come with me
+Dialogue: 0,00:02:56.49,00:02:58.29,Default,,0,0,0,,After my research these few days
+Dialogue: 0,00:02:58.49,00:03:01.17,Default,,0,0,0,,Finally find a new line on the Rubik’s Cube
+Dialogue: 0,00:03:04.49,00:03:05.85,Default,,0,0,0,,Can it be opened?
+Dialogue: 0,00:03:14.73,00:03:15.45,Default,,0,0,0,,dad
+Dialogue: 0,00:03:15.53,00:03:16.29,Default,,0,0,0,,mother
+Dialogue: 0,00:03:18.65,00:03:19.93,Default,,0,0,0,,Uncle Smarc!
+Dialogue: 0,00:03:19.97,00:03:21.29,Default,,0,0,0,,Aunt Lily!
+Dialogue: 0,00:03:22.49,00:03:23.93,Default,,0,0,0,,We’re on a planet
+Dialogue: 0,00:03:23.97,00:03:25.89,Default,,0,0,0,,When preparing to seal an evil power
+Dialogue: 0,00:03:26.33,00:03:26.77,Default,,0,0,0,,unexpectedly
+Dialogue: 0,00:03:27.25,00:03:28.97,Default,,0,0,0,,The sterilized king takes the lead
+Dialogue: 0,00:03:29.73,00:03:30.49,Default,,0,0,0,,This power
+Dialogue: 0,00:03:30.69,00:03:32.13,Default,,0,0,0,,Has horrible side effects
+Dialogue: 0,00:03:32.61,00:03:34.53,Default,,0,0,0,,Power will swallow his sanity
+Dialogue: 0,00:03:34.81,00:03:36.09,Default,,0,0,0,,Make him more and more evil
+Dialogue: 0,00:03:36.41,00:03:38.05,Default,,0,0,0,,Become a violent destructionist
+Dialogue: 0,00:03:38.73,00:03:39.37,Default,,0,0,0,,This…
+Dialogue: 0,00:03:40.61,00:03:41.37,Default,,0,0,0,,That’s right
+Dialogue: 0,00:03:41.49,00:03:43.61,Default,,0,0,0,,King Bacteria mentioned by Smarc
+Dialogue: 0,00:03:43.77,00:03:46.61,Default,,0,0,0,,King Bacteria who fought with us is the same
+Dialogue: 0,00:03:47.57,00:03:49.33,Default,,0,0,0,,Fortunately, we arrived in time
+Dialogue: 0,00:03:49.57,00:03:50.29,Default,,0,0,0,,Use the magic cube
+Dialogue: 0,00:03:50.41,00:03:51.81,Default,,0,0,0,,Stop King Bacteria
+Dialogue: 0,00:03:52.53,00:03:53.29,Default,,0,0,0,,Next
+Dialogue: 0,00:03:53.33,00:03:55.37,Default,,0,0,0,,Execute the sealing procedure for him...
+Dialogue: 0,00:03:55.73,00:03:57.69,Default,,0,0,0,,It seems to be in the process of sealing
+Dialogue: 0,00:03:57.73,00:03:59.73,Default,,0,0,0,,Escaped by the sterilized king
+Dialogue: 0,00:04:03.73,00:04:05.57,Default,,0,0,0,,What does the king want to do to them
+Dialogue: 0,00:04:05.93,00:04:07.17,Default,,0,0,0,,It’s fine
+Dialogue: 0,00:04:07.17,00:04:08.69,Default,,0,0,0,,The king is not bad in nature
+Dialogue: 0,00:04:10.45,00:04:11.41,Default,,0,0,0,,Run!
+Dialogue: 0,00:04:12.13,00:04:13.33,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:04:13.45,00:04:15.89,Default,,0,0,0,,Let’s play with me again
+Dialogue: 0,00:04:18.65,00:04:20.93,Default,,0,0,0,,You can’t escape
+Dialogue: 0,00:04:23.49,00:04:24.89,Default,,0,0,0,,careful
+Dialogue: 0,00:04:27.73,00:04:29.01,Default,,0,0,0,,What’s causing me to come
+Dialogue: 0,00:04:29.13,00:04:30.61,Default,,0,0,0,,Don’t hurt my family
+Dialogue: 0,00:04:31.61,00:04:32.65,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:04:34.37,00:04:35.61,Default,,0,0,0,,You walked away with Wilie
+Dialogue: 0,00:04:35.77,00:04:36.85,Default,,0,0,0,,I’ll hold him
+Dialogue: 0,00:04:37.33,00:04:37.89,Default,,0,0,0,,no
+Dialogue: 0,00:04:38.01,00:04:39.21,Default,,0,0,0,,This is too dangerous
+Dialogue: 0,00:04:39.33,00:04:40.49,Default,,0,0,0,,No matter how big he is, it is still germ.
+Dialogue: 0,00:04:40.65,00:04:41.53,Default,,0,0,0,,I can
+Dialogue: 0,00:04:41.93,00:04:43.53,Default,,0,0,0,,Listen to me! Go quickly!
+Dialogue: 0,00:04:44.33,00:04:45.69,Default,,0,0,0,,no! Listen to me!
+Dialogue: 0,00:04:45.81,00:04:48.77,Default,,0,0,0,,-You go first
+-You go first
+Dialogue: 0,00:04:48.81,00:04:50.45,Default,,0,0,0,,Dad, mom, you go first
+Dialogue: 0,00:04:50.69,00:04:52.05,Default,,0,0,0,,I’ll hold him
+Dialogue: 0,00:04:53.13,00:04:54.29,Default,,0,0,0,,Small gray
+Dialogue: 0,00:04:57.29,00:04:59.25,Default,,0,0,0,,Why are you not afraid!
+Dialogue: 0,00:04:59.33,00:05:01.53,Default,,0,0,0,,I’m reporting you
+Dialogue: 0,00:05:03.89,00:05:05.21,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:05:07.53,00:05:08.57,Default,,0,0,0,,Have you gotten empty?
+Dialogue: 0,00:05:08.65,00:05:10.25,Default,,0,0,0,,So what about this trick?
+Dialogue: 0,00:05:17.01,00:05:17.61,Default,,0,0,0,,This…
+Dialogue: 0,00:05:17.85,00:05:18.33,Default,,0,0,0,,not good
+Dialogue: 0,00:05:18.53,00:05:21.13,Default,,0,0,0,,If this continues, it will hurt Wolffy and their
+Dialogue: 0,00:05:25.45,00:05:26.81,Default,,0,0,0,,You run
+Dialogue: 0,00:05:26.85,00:05:28.21,Default,,0,0,0,,His goal is me!
+Dialogue: 0,00:05:28.69,00:05:29.41,Default,,0,0,0,,no!
+Dialogue: 0,00:05:29.69,00:05:31.13,Default,,0,0,0,,Go together
+Dialogue: 0,00:05:31.17,00:05:32.09,Default,,0,0,0,,No time
+Dialogue: 0,00:05:32.09,00:05:33.29,Default,,0,0,0,,Red Quick...
+Dialogue: 0,00:05:34.41,00:05:35.61,Default,,0,0,0,,Run quickly
+Dialogue: 0,00:05:39.81,00:05:42.25,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:05:47.73,00:05:48.73,Default,,0,0,0,,It’s you
+Dialogue: 0,00:05:49.25,00:05:51.45,Default,,0,0,0,,King, let them go
+Dialogue: 0,00:05:51.85,00:05:54.13,Default,,0,0,0,,They’ve already suffered a lot
+Dialogue: 0,00:05:55.25,00:05:56.69,Default,,0,0,0,,I see
+Dialogue: 0,00:05:57.61,00:06:00.37,Default,,0,0,0,,You’re going to betray me together
+Dialogue: 0,00:06:01.93,00:06:02.69,Default,,0,0,0,,This power
+Dialogue: 0,00:06:02.69,00:06:04.33,Default,,0,0,0,,The king is really good
+Dialogue: 0,00:06:04.89,00:06:05.89,Default,,0,0,0,,You go quickly
+Dialogue: 0,00:06:06.29,00:06:07.29,Default,,0,0,0,,but…
+Dialogue: 0,00:06:07.65,00:06:10.49,Default,,0,0,0,,No matter what, he is also our king
+Dialogue: 0,00:06:10.57,00:06:12.13,Default,,0,0,0,,We’ll find a way
+Dialogue: 0,00:06:12.33,00:06:14.01,Default,,0,0,0,,I’ll notify the lambs too
+Dialogue: 0,00:06:17.01,00:06:18.69,Default,,0,0,0,,Then you should be careful...
+Dialogue: 0,00:06:20.21,00:06:22.29,Default,,0,0,0,,Dare to fight me
+Dialogue: 0,00:06:22.33,00:06:22.77,Default,,0,0,0,,The King
+Dialogue: 0,00:06:23.09,00:06:24.33,Default,,0,0,0,,Cold and quiet
+Dialogue: 0,00:06:24.57,00:06:26.21,Default,,0,0,0,,A group of traitors
+Dialogue: 0,00:06:30.17,00:06:30.85,Default,,0,0,0,,The King
+Dialogue: 0,00:06:30.89,00:06:32.53,Default,,0,0,0,,It’s us
+Dialogue: 0,00:06:34.77,00:06:36.17,Default,,0,0,0,,They won’t have anything to do
+Dialogue: 0,00:06:45.73,00:06:47.21,Default,,0,0,0,,What should I do
+Dialogue: 0,00:06:52.65,00:06:53.25,Default,,0,0,0,,Red
+Dialogue: 0,00:06:53.89,00:06:55.33,Default,,0,0,0,,Hold on for a little longer
+Dialogue: 0,00:06:55.65,00:06:57.21,Default,,0,0,0,,Once caught up by the sterilization king
+Dialogue: 0,00:06:57.25,00:06:58.65,Default,,0,0,0,,We’re in trouble
+Dialogue: 0,00:06:59.69,00:07:00.89,Default,,0,0,0,,It’s too late. Big gray wolf
+Dialogue: 0,00:07:01.69,00:07:03.25,Default,,0,0,0,,What’s wrong?
+Dialogue: 0,00:07:04.25,00:07:05.81,Default,,0,0,0,,You should do it now
+Dialogue: 0,00:07:05.85,00:07:07.49,Default,,0,0,0,,Things you should do
+Dialogue: 0,00:07:08.05,00:07:10.41,Default,,0,0,0,,I know you really want to stop King Bacteria
+Dialogue: 0,00:07:10.97,00:07:11.97,Default,,0,0,0,,Then go
+Dialogue: 0,00:07:13.97,00:07:14.49,Default,,0,0,0,,But
+Dialogue: 0,00:07:14.77,00:07:17.49,Default,,0,0,0,,All the lambs with equipment failed
+Dialogue: 0,00:07:18.05,00:07:19.77,Default,,0,0,0,,And I don’t have any ability
+Dialogue: 0,00:07:20.05,00:07:22.81,Default,,0,0,0,,How could it be the opponent of King Bacteria!
+Dialogue: 0,00:07:22.85,00:07:25.05,Default,,0,0,0,,I’m simply incapable of fighting!
+Dialogue: 0,00:07:25.85,00:07:27.01,Default,,0,0,0,,Not like that
+Dialogue: 0,00:07:28.33,00:07:30.49,Default,,0,0,0,,I believe my husband is the best
+Dialogue: 0,00:07:31.09,00:07:32.81,Default,,0,0,0,,You are the first inventor
+Dialogue: 0,00:07:34.49,00:07:35.25,Default,,0,0,0,,but
+Dialogue: 0,00:07:41.65,00:07:43.81,Default,,0,0,0,,I only know the gray wolf I know
+Dialogue: 0,00:07:43.89,00:07:45.77,Default,,0,0,0,,Not the one who gave up
+Dialogue: 0,00:07:47.01,00:07:48.05,Default,,0,0,0,,I trust you
+Dialogue: 0,00:07:48.61,00:07:49.37,Default,,0,0,0,,But…
+Dialogue: 0,00:07:49.45,00:07:50.53,Default,,0,0,0,,OK OK OK
+Dialogue: 0,00:07:50.93,00:07:52.01,Default,,0,0,0,,Don’t worry
+Dialogue: 0,00:07:52.73,00:07:54.65,Default,,0,0,0,,We’ll take good care of ourselves
+Dialogue: 0,00:07:55.49,00:07:56.01,Default,,0,0,0,,Red
+Dialogue: 0,00:07:56.25,00:07:57.25,Default,,0,0,0,,Small gray
+Dialogue: 0,00:07:59.41,00:08:00.73,Default,,0,0,0,,That’s right
+Dialogue: 0,00:08:00.97,00:08:03.21,Default,,0,0,0,,I’m the first inventor on the grassland
+Dialogue: 0,00:08:03.53,00:08:05.29,Default,,0,0,0,,It’s my son’s hero
+Dialogue: 0,00:08:06.13,00:08:09.05,Default,,0,0,0,,I won’t be transferred to the District King Bacteria!
+Dialogue: 0,00:08:11.53,00:08:12.61,Default,,0,0,0,,That dad mom
+Dialogue: 0,00:08:13.37,00:08:14.89,Default,,0,0,0,,Where did you go
+Dialogue: 0,00:08:15.49,00:08:16.81,Default,,0,0,0,,In the sky
+Dialogue: 0,00:08:17.69,00:08:19.01,Default,,0,0,0,,In the sky?
+Dialogue: 0,00:08:21.85,00:08:23.13,Default,,0,0,0,,Then they
+Dialogue: 0,00:08:23.25,00:08:23.89,Default,,0,0,0,,not good
+Dialogue: 0,00:08:23.89,00:08:26.01,Default,,0,0,0,,Digital virus says King Bacteria loses his mind
+Dialogue: 0,00:08:26.01,00:08:27.89,Default,,0,0,0,,I also want to hurt Wolffy and others
+Dialogue: 0,00:08:29.01,00:08:29.81,Default,,0,0,0,,Then we
+Dialogue: 0,00:08:29.81,00:08:31.05,Default,,0,0,0,,Go and help them
+Dialogue: 0,00:08:31.73,00:08:32.49,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:08:32.85,00:08:34.13,Default,,0,0,0,,You and Slowy
+Dialogue: 0,00:08:34.37,00:08:35.33,Default,,0,0,0,,Stay here
+Dialogue: 0,00:08:36.17,00:08:37.21,Default,,0,0,0,,Don’t run away
+Dialogue: 0,00:08:38.45,00:08:38.97,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:08:39.01,00:08:40.37,Default,,0,0,0,,My sister, please ask you
+Dialogue: 0,00:08:42.57,00:08:45.13,Default,,0,0,0,,Let me see what threads there are in the Rubik’s Cube
+Dialogue: 0,00:08:53.57,00:08:55.29,Default,,0,0,0,,You’ll be a little sober
+Dialogue: 0,00:08:56.85,00:08:57.73,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:08:58.29,00:09:00.37,Default,,0,0,0,,You traitors
+Dialogue: 0,00:09:05.29,00:09:06.53,Default,,0,0,0,,Where have you gone
+Dialogue: 0,00:09:10.45,00:09:11.37,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:09:11.37,00:09:13.77,Default,,0,0,0,,I’ll go home and get a weapon to save you
+Dialogue: 0,00:09:14.17,00:09:15.89,Default,,0,0,0,,The king is completely out of control
+Dialogue: 0,00:09:16.01,00:09:18.29,Default,,0,0,0,,He couldn’t hear us at all
+Dialogue: 0,00:09:18.97,00:09:21.21,Default,,0,0,0,,He wouldn’t have been like this to us before
+Dialogue: 0,00:09:21.73,00:09:24.29,Default,,0,0,0,,There must be a way to make him settle down
+Dialogue: 0,00:09:25.01,00:09:27.17,Default,,0,0,0,,It turns out you are here
+Dialogue: 0,00:09:33.57,00:09:34.61,Default,,0,0,0,,It’s useless!
+Dialogue: 0,00:09:34.65,00:09:35.65,Default,,0,0,0,,Wolffy
+Dialogue: 0,00:09:35.69,00:09:37.89,Default,,0,0,0,,I didn’t expect you to come back
+Dialogue: 0,00:09:37.89,00:09:40.01,Default,,0,0,0,,Good courage
+Dialogue: 0,00:09:47.93,00:09:48.45,Default,,0,0,0,,Oops!
+Dialogue: 0,00:09:48.57,00:09:50.29,Default,,0,0,0,,The flying vehicle has lost its spirit!
+Dialogue: 0,00:09:51.41,00:09:53.45,Default,,0,0,0,,you are done
+Dialogue: 0,00:09:56.85,00:09:58.09,Default,,0,0,0,,I’ve come and helped
+Dialogue: 0,00:09:58.85,00:09:59.73,Default,,0,0,0,,And we
+Dialogue: 0,00:10:01.69,00:10:02.53,Default,,0,0,0,,you…
+Dialogue: 0,00:10:02.89,00:10:04.21,Default,,0,0,0,,There is a way
+Dialogue: 0,00:10:08.49,00:10:09.13,Default,,0,0,0,,The King
+Dialogue: 0,00:10:09.21,00:10:11.25,Default,,0,0,0,,Restore your original appearance
+Dialogue: 0,00:10:12.57,00:10:13.41,Default,,0,0,0,,OK
+Dialogue: 0,00:10:13.57,00:10:16.25,Default,,0,0,0,,You actually resisted me with Wolffy
+Dialogue: 0,00:10:16.25,00:10:18.37,Default,,0,0,0,,Unforgivable!
+Dialogue: 0,00:10:18.65,00:10:21.09,Default,,0,0,0,,All disappear!
+Dialogue: 0,00:10:22.57,00:10:24.41,Default,,0,0,0,,No way to communicate
+Dialogue: 0,00:10:25.13,00:10:26.01,Default,,0,0,0,,Mushroom fungus
+Dialogue: 0,00:10:27.73,00:10:28.21,Default,,0,0,0,,The King
+Dialogue: 0,00:10:28.33,00:10:29.41,Default,,0,0,0,,Sorry
+Dialogue: 0,00:10:32.05,00:10:34.05,Default,,0,0,0,,My eyes
+Dialogue: 0,00:10:34.05,00:10:35.37,Default,,0,0,0,,I’m here
+Dialogue: 0,00:10:48.81,00:10:50.61,Default,,0,0,0,,It should be OK now
+Dialogue: 0,00:10:51.85,00:10:53.73,Default,,0,0,0,,- Two guys!
+- The King
+Dialogue: 0,00:10:53.77,00:10:54.49,Default,,0,0,0,,You wake up!
+Dialogue: 0,00:10:54.61,00:10:56.17,Default,,0,0,0,,I’m Xiao Zi
+Dialogue: 0,00:10:56.25,00:10:58.09,Default,,0,0,0,,Oops! Xiao Zi is in danger!
+Dialogue: 0,00:11:16.41,00:11:17.41,Default,,0,0,0,,what
+Dialogue: 0,00:11:19.53,00:11:21.09,Default,,0,0,0,,I’ve suffered
+Dialogue: 0,00:11:21.13,00:11:22.65,Default,,0,0,0,,Try this trick
+Dialogue: 0,00:11:24.37,00:11:25.97,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:11:26.29,00:11:27.53,Default,,0,0,0,,Did it succeed?
+Dialogue: 0,00:11:27.57,00:11:28.45,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:11:29.61,00:11:32.05,Default,,0,0,0,,I also need one of the most powerful weapons!
+Dialogue: 0,00:11:41.53,00:11:42.89,Default,,0,0,0,,You give me
+Dialogue: 0,00:11:43.33,00:11:47.69,Default,,0,0,0,,Go down!
+Dialogue: 0,00:11:56.61,00:11:58.41,Default,,0,0,0,,This kind of king can’t come around
+Dialogue: 0,00:11:58.81,00:12:00.17,Default,,0,0,0,,Let’s find a safe place first
+Dialogue: 0,00:12:00.21,00:12:01.49,Default,,0,0,0,,Think about it again
+Dialogue: 0,00:12:02.09,00:12:03.77,Default,,0,0,0,,Wolffy Back!
+Dialogue: 0,00:12:05.09,00:12:06.25,Default,,0,0,0,,Wolffy!
+Dialogue: 0,00:12:08.89,00:12:09.69,Default,,0,0,0,,It’s okay
+Dialogue: 0,00:12:09.85,00:12:11.13,Default,,0,0,0,,I’m fine at all
+Dialogue: 0,00:12:11.53,00:12:13.09,Default,,0,0,0,,Let’s leave here first
+Dialogue: 0,00:12:14.05,00:12:15.25,Default,,0,0,0,,Leave
+Dialogue: 0,00:12:15.65,00:12:20.17,Default,,0,0,0,,Don’t even want to leave

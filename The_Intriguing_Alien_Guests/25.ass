@@ -1,0 +1,176 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:36.16,00:00:37.24,Default,,0,0,0,,Been discovered!
+Dialogue: 0,00:00:38.28,00:00:39.56,Default,,0,0,0,,King, run away! !
+Dialogue: 0,00:00:58.16,00:00:59.96,Default,,0,0,0,,There is actually a helicopter!
+Dialogue: 0,00:01:03.32,00:01:05.00,Default,,0,0,0,,Xiaohuang quickly transforms!
+Dialogue: 0,00:01:19.80,00:01:20.76,Default,,0,0,0,,No way out!
+Dialogue: 0,00:01:23.56,00:01:25.40,Default,,0,0,0,,Where do you want to run
+Dialogue: 0,00:01:29.20,00:01:31.88,Default,,0,0,0,,This time, I won’t completely eliminate you!
+Dialogue: 0,00:01:32.48,00:01:33.36,Default,,0,0,0,,Launch!
+Dialogue: 0,00:01:45.68,00:01:47.92,Default,,0,0,0,,Do it! Not here! !
+Dialogue: 0,00:01:49.08,00:01:50.16,Default,,0,0,0,,What’s the situation
+Dialogue: 0,00:01:51.00,00:01:51.84,Default,,0,0,0,,Stop quickly! !
+Dialogue: 0,00:01:55.48,00:01:57.04,Default,,0,0,0,,How could this happen! !
+Dialogue: 0,00:02:04.28,00:02:05.28,Default,,0,0,0,,This is
+Dialogue: 0,00:02:05.40,00:02:09.12,Default,,0,0,0,,I’ll catch BB Goat and go back
+Dialogue: 0,00:02:10.24,00:02:11.92,Default,,0,0,0,,He finally arrived
+Dialogue: 0,00:02:12.24,00:02:13.44,Default,,0,0,0,,Who is he
+Dialogue: 0,00:02:17.92,00:02:19.84,Default,,0,0,0,,Our new helper
+Dialogue: 0,00:02:39.00,00:02:40.64,Default,,0,0,0,,Why don’t the lights open
+Dialogue: 0,00:02:42.20,00:02:44.24,Default,,0,0,0,,We came in with the village chief
+Dialogue: 0,00:02:44.48,00:02:46.16,Default,,0,0,0,,When the light is opened, you will be discovered
+Dialogue: 0,00:02:46.56,00:02:48.60,Default,,0,0,0,,Then what are we going to do here
+Dialogue: 0,00:02:49.72,00:02:53.36,Default,,0,0,0,,Of course, I’m here to see the super big TV newly bought by the village chief!
+Dialogue: 0,00:02:53.48,00:02:55.88,Default,,0,0,0,,It’s a waste to watch animations! !
+Dialogue: 0,00:02:56.60,00:02:57.60,Default,,0,0,0,,Yes Yes!
+Dialogue: 0,00:02:58.92,00:03:01.20,Default,,0,0,0,,What is this sound
+Dialogue: 0,00:03:07.28,00:03:09.32,Default,,0,0,0,,Is it the sound of a TV?
+Dialogue: 0,00:03:09.80,00:03:12.24,Default,,0,0,0,,But we haven’t opened the TV
+Dialogue: 0,00:03:12.96,00:03:14.32,Default,,0,0,0,,It’s too dark here
+Dialogue: 0,00:03:14.36,00:03:16.36,Default,,0,0,0,,I’ll go open the lights
+Dialogue: 0,00:03:20.80,00:03:23.16,Default,,0,0,0,,Why did the lights open by themselves! !
+Dialogue: 0,00:03:32.12,00:03:33.80,Default,,0,0,0,,This! That’s it!
+Dialogue: 0,00:03:34.76,00:03:36.76,Default,,0,0,0,,King, it’s been so long
+Dialogue: 0,00:03:38.00,00:03:40.44,Default,,0,0,0,,Your new helper hasn’t caught the goat yet
+Dialogue: 0,00:03:40.56,00:03:42.44,Default,,0,0,0,,Can he do it alone
+Dialogue: 0,00:03:47.24,00:03:49.60,Default,,0,0,0,,Don’t underestimate him
+Dialogue: 0,00:03:51.56,00:03:54.80,Default,,0,0,0,,He came and shot a single gun
+Dialogue: 0,00:03:55.00,00:03:58.28,Default,,0,0,0,,I once controlled an entire planet in an instant! !
+Dialogue: 0,00:04:05.56,00:04:07.07,Default,,0,0,0,,Such a darn
+Dialogue: 0,00:04:07.36,00:04:10.07,Default,,0,0,0,,Could it be that he has also come to win the position of King?
+Dialogue: 0,00:04:17.88,00:04:20.88,Default,,0,0,0,,Then I will never be the king
+Dialogue: 0,00:04:21.28,00:04:23.80,Default,,0,0,0,,But we still have to support him
+Dialogue: 0,00:04:23.88,00:04:26.96,Default,,0,0,0,,Because he has a very fatal weakness
+Dialogue: 0,00:04:28.36,00:04:30.36,Default,,0,0,0,,This is the latest game
+Dialogue: 0,00:04:31.12,00:04:33.07,Default,,0,0,0,,I couldn’t find it before if I wanted to play!
+Dialogue: 0,00:04:34.04,00:04:35.20,Default,,0,0,0,,Fun Fun!
+Dialogue: 0,00:04:36.04,00:04:37.48,Default,,0,0,0,,This butterfly looks so beautiful!
+Dialogue: 0,00:04:40.44,00:04:41.92,Default,,0,0,0,,nice! nice!
+Dialogue: 0,00:04:42.68,00:04:44.48,Default,,0,0,0,,Buy Buy Buy…
+Dialogue: 0,00:04:44.52,00:04:45.56,Default,,0,0,0,,Buy all buy
+Dialogue: 0,00:04:46.68,00:04:49.12,Default,,0,0,0,,I’ve pushed a fitness tutorial here!
+Dialogue: 0,00:04:49.48,00:04:51.88,Default,,0,0,0,,It’s a fitness record of the Wolf Corps!
+Dialogue: 0,00:04:52.24,00:04:54.04,Default,,0,0,0,,I’ll try it too!
+Dialogue: 0,00:04:54.96,00:04:58.24,Default,,0,0,0,,There are so many interesting videos in this app!
+Dialogue: 0,00:05:00.04,00:05:00.72,Default,,0,0,0,,Very delightful
+Dialogue: 0,00:05:01.40,00:05:02.36,Default,,0,0,0,,Like a little like a little like a little like!
+Dialogue: 0,00:05:05.28,00:05:05.84,Default,,0,0,0,,Buy…
+Dialogue: 0,00:05:13.76,00:05:16.52,Default,,0,0,0,,These low-headed people in the big data era
+Dialogue: 0,00:05:17.00,00:05:19.48,Default,,0,0,0,,I can’t escape my clutches
+Dialogue: 0,00:05:24.88,00:05:26.56,Default,,0,0,0,,What is this
+Dialogue: 0,00:05:27.20,00:05:28.12,Default,,0,0,0,,you…
+Dialogue: 0,00:05:28.60,00:05:29.63,Default,,0,0,0,,How did you come
+Dialogue: 0,00:05:30.32,00:05:33.28,Default,,0,0,0,,Don’t you have information on your phone that attracts you?
+Dialogue: 0,00:05:34.24,00:05:38.56,Default,,0,0,0,,It looks so strange
+Is this a newly invented program by the village chief?
+Dialogue: 0,00:05:39.88,00:05:41.60,Default,,0,0,0,,I’ll tell you to see this! !
+Dialogue: 0,00:05:42.32,00:05:45.28,Default,,0,0,0,,It turns out that everything you see is what you have developed
+Dialogue: 0,00:05:46.12,00:05:50.04,Default,,0,0,0,,But these pictures are watching
+I haven’t eaten at the scene yet
+Dialogue: 0,00:05:50.84,00:05:54.96,Default,,0,0,0,,What a bad thing it was broken
+My data analysis psychedelic method!
+Dialogue: 0,00:05:58.24,00:06:00.24,Default,,0,0,0,,It seems delicious! !
+Dialogue: 0,00:06:00.28,00:06:02.32,Default,,0,0,0,,How about a small program like this!
+Dialogue: 0,00:06:03.68,00:06:06.40,Default,,0,0,0,,The program invented by the village chief would not be so feasted
+Dialogue: 0,00:06:06.64,00:06:08.00,Default,,0,0,0,,Who are you
+Dialogue: 0,00:06:09.72,00:06:11.20,Default,,0,0,0,,What’s wrong? Goat
+Dialogue: 0,00:06:11.84,00:06:12.92,Default,,0,0,0,,Look at it
+Dialogue: 0,00:06:13.56,00:06:15.48,Default,,0,0,0,,Is this TV poisoned?
+Dialogue: 0,00:06:19.12,00:06:21.52,Default,,0,0,0,,Now that you have discovered it
+Dialogue: 0,00:06:21.64,00:06:23.40,Default,,0,0,0,,Then I won’t hide it anymore
+Dialogue: 0,00:06:23.52,00:06:26.36,Default,,0,0,0,,I’m the subordinate of King Bacteria
+Dialogue: 0,00:06:27.92,00:06:29.32,Default,,0,0,0,,Digital virus!
+Dialogue: 0,00:06:29.44,00:06:33.48,Default,,0,0,0,,Everything here is controlled by me. You’ll be obedient
+Dialogue: 0,00:06:38.64,00:06:40.52,Default,,0,0,0,,Kids, don’t press the appliance
+Dialogue: 0,00:06:46.16,00:06:49.12,Default,,0,0,0,,It seems that he must appear on the illuminated screen
+Dialogue: 0,00:06:49.60,00:06:52.20,Default,,0,0,0,,If we turn off the phone, he won’t show up
+Dialogue: 0,00:06:52.68,00:06:54.12,Default,,0,0,0,,Then we’re shutting down, too
+Dialogue: 0,00:06:54.20,00:06:55.88,Default,,0,0,0,,Underestimate me
+Dialogue: 0,00:07:00.24,00:07:02.36,Default,,0,0,0,,Do you think this will destroy me?
+Dialogue: 0,00:07:03.64,00:07:04.76,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:07:05.64,00:07:09.44,Default,,0,0,0,,It seems that he can be between digital products
+Move casually
+Dialogue: 0,00:07:09.47,00:07:11.60,Default,,0,0,0,,As long as there are electric and electrical appliances
+Dialogue: 0,00:07:12.20,00:07:14.28,Default,,0,0,0,,I’m just invincible!
+Dialogue: 0,00:07:17.80,00:07:19.28,Default,,0,0,0,,You want electric, right?
+Dialogue: 0,00:07:21.84,00:07:22.96,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:07:26.20,00:07:27.44,Default,,0,0,0,,I’m here again
+Dialogue: 0,00:07:28.24,00:07:29.96,Default,,0,0,0,,Here... Here... Here
+Dialogue: 0,00:07:31.08,00:07:33.08,Default,,0,0,0,,Continue here! Here
+Dialogue: 0,00:07:33.20,00:07:34.47,Default,,0,0,0,,You’re going to be quick
+Dialogue: 0,00:07:35.44,00:07:36.08,Default,,0,0,0,,Please
+Dialogue: 0,00:07:36.12,00:07:37.28,Default,,0,0,0,,You’re very weak
+Dialogue: 0,00:07:37.96,00:07:40.88,Default,,0,0,0,,Close the total gate and see where you can still run!
+Dialogue: 0,00:07:50.12,00:07:51.47,Default,,0,0,0,,Is it successful?
+Dialogue: 0,00:07:55.44,00:07:56.92,Default,,0,0,0,,Always calm
+Dialogue: 0,00:07:58.20,00:08:00.64,Default,,0,0,0,,Where is the virus here? It’s so difficult to deal with
+Dialogue: 0,00:08:01.16,00:08:04.92,Default,,0,0,0,,We rushed to tell the village chief
+His laboratory has been poisoned!
+Dialogue: 0,00:08:11.40,00:08:12.08,Default,,0,0,0,,etc!
+Dialogue: 0,00:08:13.00,00:08:14.60,Default,,0,0,0,,BB Goat is missing! !
+Dialogue: 0,00:08:14.64,00:08:15.88,Default,,0,0,0,,what!
+Dialogue: 0,00:08:18.52,00:08:20.04,Default,,0,0,0,,Stop and don’t run!
+Dialogue: 0,00:08:26.40,00:08:28.04,Default,,0,0,0,,So many snacks!
+Dialogue: 0,00:08:28.68,00:08:29.64,Default,,0,0,0,,There! !
+Dialogue: 0,00:08:30.24,00:08:31.92,Default,,0,0,0,,It was indeed him who caught BB Goat!
+Dialogue: 0,00:08:34.88,00:08:37.47,Default,,0,0,0,,Don’t eat it! It’s all mine
+Dialogue: 0,00:08:40.24,00:08:42.08,Default,,0,0,0,,BB Goat are almost released!
+Dialogue: 0,00:08:42.68,00:08:44.20,Default,,0,0,0,,I’m catching up soon!
+Dialogue: 0,00:09:04.68,00:09:05.35,Default,,0,0,0,,Don’t leave!
+Dialogue: 0,00:09:06.84,00:09:07.72,Default,,0,0,0,,Weslie!
+Dialogue: 0,00:09:15.68,00:09:17.40,Default,,0,0,0,,Weslie, you’re fine!
+Dialogue: 0,00:09:17.68,00:09:18.64,Default,,0,0,0,,It’s OK
+Dialogue: 0,00:09:19.24,00:09:20.80,Default,,0,0,0,,But he ran away
+Dialogue: 0,00:09:21.88,00:09:23.88,Default,,0,0,0,,This digital virus is too harmful
+Dialogue: 0,00:09:24.52,00:09:26.32,Default,,0,0,0,,What are we doing now
+Dialogue: 0,00:09:26.92,00:09:27.92,Default,,0,0,0,,Leave it to me
+Dialogue: 0,00:09:29.40,00:09:31.35,Default,,0,0,0,,He’s a culinary guy
+Dialogue: 0,00:09:32.40,00:09:35.00,Default,,0,0,0,,Only I love delicious food can deal with him
+Dialogue: 0,00:09:37.64,00:09:38.40,Default,,0,0,0,,Come with me!
+Dialogue: 0,00:09:44.16,00:09:45.68,Default,,0,0,0,,Finally got rid of them
+Dialogue: 0,00:09:47.80,00:09:49.52,Default,,0,0,0,,Very delicious
+Dialogue: 0,00:09:50.60,00:09:52.96,Default,,0,0,0,,Why did you eat up all your snacks? !
+Dialogue: 0,00:09:53.68,00:09:55.96,Default,,0,0,0,,I want to eat too
+Dialogue: 0,00:10:01.64,00:10:03.47,Default,,0,0,0,,Lots of snacks! !
+Dialogue: 0,00:10:03.84,00:10:06.52,Default,,0,0,0,,It must have been the sky that fell to compensate me
+Dialogue: 0,00:10:22.76,00:10:23.35,Default,,0,0,0,,What’s going on
+Dialogue: 0,00:10:24.20,00:10:25.64,Default,,0,0,0,,It’s you!
+Dialogue: 0,00:10:27.28,00:10:28.96,Default,,0,0,0,,You really got my guess
+Dialogue: 0,00:10:29.32,00:10:30.64,Default,,0,0,0,,what
+Dialogue: 0,00:10:34.88,00:10:36.44,Default,,0,0,0,,How dare you mess with us
+Dialogue: 0,00:10:36.72,00:10:38.20,Default,,0,0,0,,Let you take a look
+Dialogue: 0,00:10:38.40,00:10:40.20,Default,,0,0,0,,Our harm!
+Dialogue: 0,00:10:53.64,00:10:57.28,Default,,0,0,0,,Sure enough, he still can’t escape the intimacy of delicious food
+Dialogue: 0,00:10:57.56,00:10:58.56,Default,,0,0,0,,King!
+Dialogue: 0,00:10:59.60,00:11:00.72,Default,,0,0,0,,What happened to you!
+Dialogue: 0,00:11:01.80,00:11:03.96,Default,,0,0,0,,Of course I came to save my partner!
+Dialogue: 0,00:11:04.92,00:11:07.28,Default,,0,0,0,,See what I brought you
+Dialogue: 0,00:11:11.40,00:11:12.76,Default,,0,0,0,,Dare to deceive me
+Dialogue: 0,00:11:12.84,00:11:14.40,Default,,0,0,0,,Let’s see how I teach you!
+Dialogue: 0,00:11:16.68,00:11:17.56,Default,,0,0,0,,superior!
+Dialogue: 0,00:11:54.64,00:11:59.16,Default,,0,0,0,,The three of us join forces and there is no enemy in the world!
+Dialogue: 0,00:12:00.28,00:12:02.32,Default,,0,0,0,,He doesn’t seem to have powered
+Dialogue: 0,00:12:02.84,00:12:04.00,Default,,0,0,0,,Don’t turn off the machine!
+Dialogue: 0,00:12:04.00,00:12:05.76,Default,,0,0,0,,Move to other equipment quickly
+Dialogue: 0,00:12:08.64,00:12:10.08,Default,,0,0,0,,All the equipment is broken! !
+Dialogue: 0,00:12:12.00,00:12:14.60,Default,,0,0,0,,The king cheers up, and I’m
+Dialogue: 0,00:12:16.92,00:12:19.92,Default,,0,0,0,,We will definitely come back!
+Dialogue: 0,00:12:20.44,00:12:24.24,Default,,0,0,0,,Remember to come back next time
+Don’t eat snacks on the road! !
+Dialogue: 0,00:12:25.24,00:12:26.80,Default,,0,0,0,,Help! !
+Dialogue: 0,00:12:27.20,00:12:30.16,Default,,0,0,0,,Who can help me stop it! !

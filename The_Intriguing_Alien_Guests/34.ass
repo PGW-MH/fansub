@@ -1,0 +1,160 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:18.20,00:00:20.36,Default,,0,0,0,,The monster "roared" and sprayed flames
+Dialogue: 0,00:00:21.92,00:00:23.36,Default,,0,0,0,,Little Huihui appears-
+Dialogue: 0,00:00:23.40,00:00:24.76,Default,,0,0,0,,I want to protect my mother...
+Dialogue: 0,00:00:28.12,00:00:28.80,Default,,0,0,0,,child
+Dialogue: 0,00:00:29.08,00:00:30.24,Default,,0,0,0,,What are you painting?
+Dialogue: 0,00:00:30.64,00:00:32.16,Default,,0,0,0,,I’m painting my mom!
+Dialogue: 0,00:00:37.52,00:00:39.36,Default,,0,0,0,,Is mom like this?
+Dialogue: 0,00:00:39.48,00:00:40.48,Default,,0,0,0,,No
+Dialogue: 0,00:00:40.60,00:00:41.80,Default,,0,0,0,,This is a monster
+Dialogue: 0,00:00:42.40,00:00:43.96,Default,,0,0,0,,Mom hasn’t painted yet
+Dialogue: 0,00:00:44.76,00:00:47.04,Default,,0,0,0,,Then what are you doing in front of monsters?
+Dialogue: 0,00:00:47.32,00:00:48.84,Default,,0,0,0,,I’m protecting my mother
+Dialogue: 0,00:00:48.96,00:00:52.36,Default,,0,0,0,,Dad said, "A real man should protect his mother"!
+Dialogue: 0,00:00:55.36,00:00:57.76,Default,,0,0,0,,Then you have to make your mother look good!
+Dialogue: 0,00:01:03.80,00:01:04.68,Default,,0,0,0,,I’m here
+Dialogue: 0,00:01:04.71,00:01:06.71,Default,,0,0,0,,Don’t even want to slap my son
+Dialogue: 0,00:01:17.12,00:01:17.76,Default,,0,0,0,,stop!
+Dialogue: 0,00:01:23.00,00:01:24.96,Default,,0,0,0,,Screw me out of the Wolf Castle and don’t come back!
+Dialogue: 0,00:01:25.28,00:01:26.48,Default,,0,0,0,,No hearing!
+Dialogue: 0,00:01:28.08,00:01:29.43,Default,,0,0,0,,It depends on where you are going!
+Dialogue: 0,00:01:35.64,00:01:37.48,Default,,0,0,0,,It’s all the appearance of that group of bacteria
+Dialogue: 0,00:01:37.52,00:01:39.96,Default,,0,0,0,,Only then did Wolf Castle have such a lot of fun to see!
+Dialogue: 0,00:01:40.60,00:01:42.12,Default,,0,0,0,,I must get rid of them!
+Dialogue: 0,00:01:48.43,00:01:50.71,Default,,0,0,0,,Mom, what are we going to do this?
+Dialogue: 0,00:01:51.16,00:01:52.32,Default,,0,0,0,,Clean up the garbage
+Dialogue: 0,00:02:02.48,00:02:04.04,Default,,0,0,0,,What are these purple gases?
+Dialogue: 0,00:02:04.60,00:02:06.76,Default,,0,0,0,,It’s a killer!
+Dialogue: 0,00:02:10.60,00:02:12.88,Default,,0,0,0,,The "poisonous atmosphere" leaks. Escape quickly!
+Dialogue: 0,00:02:13.88,00:02:15.00,Default,,0,0,0,,Don’t pull me
+Dialogue: 0,00:02:15.00,00:02:16.28,Default,,0,0,0,,I can’t hear it again
+Dialogue: 0,00:02:21.24,00:02:22.40,Default,,0,0,0,,What’s going on with you
+Dialogue: 0,00:02:23.00,00:02:23.56,Default,,0,0,0,,The King
+Dialogue: 0,00:02:23.68,00:02:25.24,Default,,0,0,0,,Yes... Yes, Wolnie!
+Dialogue: 0,00:02:30.88,00:02:31.72,Default,,0,0,0,,you……
+Dialogue: 0,00:02:32.40,00:02:33.84,Default,,0,0,0,,Bring me out of the Wolf Castle!
+Dialogue: 0,00:02:47.80,00:02:49.16,Default,,0,0,0,,I am the king of bacteria
+Dialogue: 0,00:02:49.20,00:02:50.64,Default,,0,0,0,,How can I recognize it!
+Dialogue: 0,00:02:50.84,00:02:51.52,Default,,0,0,0,,Xiao Huang!
+Dialogue: 0,00:02:52.40,00:02:52.92,Default,,0,0,0,,good
+Dialogue: 0,00:03:11.96,00:03:13.16,Default,,0,0,0,,Since that’s the case
+Dialogue: 0,00:03:13.20,00:03:14.88,Default,,0,0,0,,I had to do something wrong...
+Dialogue: 0,00:03:18.52,00:03:20.92,Default,,0,0,0,,The Queen is dead!
+Dialogue: 0,00:03:22.32,00:03:23.48,Default,,0,0,0,,That’s now!
+Dialogue: 0,00:03:34.92,00:03:36.56,Default,,0,0,0,,He actually defeated me with his breath
+Dialogue: 0,00:03:36.60,00:03:38.32,Default,,0,0,0,,The Demon King is so scary
+Dialogue: 0,00:03:42.63,00:03:44.56,Default,,0,0,0,,This is simply a female devil
+Dialogue: 0,00:03:44.63,00:03:47.20,Default,,0,0,0,,Who is here to save us?
+Dialogue: 0,00:04:03.96,00:04:05.92,Default,,0,0,0,,It turns out that they are afraid of frogs...
+Dialogue: 0,00:04:11.04,00:04:11.96,Default,,0,0,0,,You can enjoy paintings with peace of mind
+Dialogue: 0,00:04:12.24,00:04:14.00,Default,,0,0,0,,Mom, go and clean up those cysts!
+Dialogue: 0,00:04:18.12,00:04:18.88,Default,,0,0,0,,no
+Dialogue: 0,00:04:18.96,00:04:20.48,Default,,0,0,0,,I need to find weapons to defend myself!
+Dialogue: 0,00:04:37.20,00:04:39.07,Default,,0,0,0,,Why is there a cypress in the pot?
+Dialogue: 0,00:04:48.20,00:04:49.56,Default,,0,0,0,,It seems to be wrong
+Dialogue: 0,00:04:58.76,00:04:59.24,Default,,0,0,0,,no
+Dialogue: 0,00:04:59.44,00:05:01.12,Default,,0,0,0,,Crazy Killer Crazy Killer!
+Dialogue: 0,00:05:08.52,00:05:09.20,Default,,0,0,0,,In this
+Dialogue: 0,00:05:21.56,00:05:23.52,Default,,0,0,0,,Female Demon King, you have today too!
+Dialogue: 0,00:05:23.80,00:05:26.00,Default,,0,0,0,,King, you are so smart.
+Dialogue: 0,00:05:30.04,00:05:32.12,Default,,0,0,0,,It turns out that you are doing it!
+Dialogue: 0,00:05:42.84,00:05:44.40,Default,,0,0,0,,King, go ahead!
+Dialogue: 0,00:05:58.04,00:05:59.40,Default,,0,0,0,,Xiao Huang Next!
+Dialogue: 0,00:06:27.56,00:06:28.60,Default,,0,0,0,,No, I’m so happy
+Dialogue: 0,00:06:28.84,00:06:30.16,Default,,0,0,0,,I want to rest...
+Dialogue: 0,00:06:37.16,00:06:38.64,Default,,0,0,0,,King, why are you crying?
+Dialogue: 0,00:06:40.68,00:06:43.20,Default,,0,0,0,,I’ve been bullied by this female devil before
+Dialogue: 0,00:06:43.84,00:06:46.12,Default,,0,0,0,,We’re so worried
+Dialogue: 0,00:06:46.72,00:06:48.68,Default,,0,0,0,,Let us suffer as much
+Dialogue: 0,00:06:48.84,00:06:49.64,Default,,0,0,0,,Didn’t expect
+Dialogue: 0,00:06:49.76,00:06:50.52,Default,,0,0,0,,Didn’t expect
+Dialogue: 0,00:06:50.56,00:06:53.36,Default,,0,0,0,,We can finally turn over
+Dialogue: 0,00:06:56.00,00:06:56.56,Default,,0,0,0,,The King
+Dialogue: 0,00:06:56.60,00:06:57.96,Default,,0,0,0,,It seems that the female devil has retreated
+Dialogue: 0,00:06:58.00,00:06:59.20,Default,,0,0,0,,What should we do next?
+Dialogue: 0,00:06:59.72,00:07:01.28,Default,,0,0,0,,She was so to us before
+Dialogue: 0,00:07:01.32,00:07:02.96,Default,,0,0,0,,Of course it is a victory to chase!
+Dialogue: 0,00:07:03.76,00:07:04.84,Default,,0,0,0,,How to do it?
+Dialogue: 0,00:07:05.60,00:07:06.00,Default,,0,0,0,,Walk
+Dialogue: 0,00:07:20.12,00:07:22.04,Default,,0,0,0,,What a big strength!
+Dialogue: 0,00:07:27.24,00:07:28.47,Default,,0,0,0,,Mom Mom
+Dialogue: 0,00:07:31.64,00:07:33.20,Default,,0,0,0,,Mom, you’re fine, right?
+Dialogue: 0,00:07:34.16,00:07:35.12,Default,,0,0,0,,Son
+Dialogue: 0,00:07:35.16,00:07:36.60,Default,,0,0,0,,Mom is fine
+Dialogue: 0,00:07:43.72,00:07:45.68,Default,,0,0,0,,That fleece is coming again!
+Dialogue: 0,00:07:48.80,00:07:49.68,Default,,0,0,0,,Son, don’t be afraid
+Dialogue: 0,00:07:49.72,00:07:50.68,Default,,0,0,0,,Mom will protect you!
+Dialogue: 0,00:08:00.84,00:08:02.72,Default,,0,0,0,,Don’t bully my mother!
+Dialogue: 0,00:08:22.20,00:08:23.24,Default,,0,0,0,,So terrible!
+Dialogue: 0,00:08:24.56,00:08:25.35,Default,,0,0,0,,Small gray
+Dialogue: 0,00:08:28.72,00:08:30.00,Default,,0,0,0,,It’s a child indeed
+Dialogue: 0,00:08:30.08,00:08:31.35,Default,,0,0,0,,Just run away!
+Dialogue: 0,00:08:47.96,00:08:48.64,Default,,0,0,0,,Son
+Dialogue: 0,00:08:48.88,00:08:50.08,Default,,0,0,0,,You’re a man
+Dialogue: 0,00:08:50.16,00:08:51.40,Default,,0,0,0,,If I’m not at home
+Dialogue: 0,00:08:51.88,00:08:54.47,Default,,0,0,0,,As a man, you must protect your mother
+Dialogue: 0,00:08:55.68,00:08:57.52,Default,,0,0,0,,I will definitely protect my mother!
+Dialogue: 0,00:09:04.76,00:09:06.35,Default,,0,0,0,,I must protect my mother!
+Dialogue: 0,00:09:06.72,00:09:08.16,Default,,0,0,0,,What’s the best way to do
+Dialogue: 0,00:09:16.76,00:09:17.60,Default,,0,0,0,,This is...
+Dialogue: 0,00:09:18.47,00:09:19.76,Default,,0,0,0,,There is a way!
+Dialogue: 0,00:09:23.64,00:09:24.44,Default,,0,0,0,,Devil’s Female Demon King
+Dialogue: 0,00:09:24.68,00:09:26.35,Default,,0,0,0,,You made me so wolfish in the morning
+Dialogue: 0,00:09:26.40,00:09:27.96,Default,,0,0,0,,I want you to pay for it!
+Dialogue: 0,00:09:28.60,00:09:30.47,Default,,0,0,0,,You’ve also damaged my robot body
+Dialogue: 0,00:09:30.52,00:09:32.24,Default,,0,0,0,,I want you to pay for it!
+Dialogue: 0,00:09:33.44,00:09:35.04,Default,,0,0,0,,You don’t turn on the cold weather when you are hot
+Dialogue: 0,00:09:35.08,00:09:36.44,Default,,0,0,0,,I want you to pay for it!
+Dialogue: 0,00:09:37.24,00:09:38.32,Default,,0,0,0,,What do you want?
+Dialogue: 0,00:09:40.76,00:09:42.40,Default,,0,0,0,,That’s my high-end perfume!
+Dialogue: 0,00:09:42.47,00:09:43.35,Default,,0,0,0,,don’t want!
+Dialogue: 0,00:09:47.12,00:09:49.88,Default,,0,0,0,,This is the price that angers this king!
+Dialogue: 0,00:09:56.20,00:09:58.12,Default,,0,0,0,,That’s my limited edition lipstick!
+Dialogue: 0,00:10:05.80,00:10:07.24,Default,,0,0,0,,Not finished yet
+Dialogue: 0,00:10:13.72,00:10:14.28,Default,,0,0,0,,mother
+Dialogue: 0,00:10:14.44,00:10:15.68,Default,,0,0,0,,I’m here to protect you!
+Dialogue: 0,00:10:20.00,00:10:20.92,Default,,0,0,0,,Wilie...
+Dialogue: 0,00:10:23.32,00:10:25.40,Default,,0,0,0,,Don’t go over!
+Dialogue: 0,00:10:32.28,00:10:34.68,Default,,0,0,0,,It seems that you want to play with Maomaoya!
+Dialogue: 0,00:10:40.76,00:10:41.64,Default,,0,0,0,,How?
+Dialogue: 0,00:10:41.68,00:10:43.44,Default,,0,0,0,,Do you want to escape this time?
+Dialogue: 0,00:10:46.84,00:10:48.52,Default,,0,0,0,,I will definitely protect my mother!
+Dialogue: 0,00:10:49.52,00:10:51.44,Default,,0,0,0,,What do you use to protect her
+Dialogue: 0,00:10:52.28,00:10:52.60,Default,,0,0,0,,I…
+Dialogue: 0,00:10:52.84,00:10:53.76,Default,,0,0,0,,I have a trick!
+Dialogue: 0,00:11:04.60,00:11:05.88,Default,,0,0,0,,Just a little chicken
+Dialogue: 0,00:11:05.92,00:11:06.96,Default,,0,0,0,,What are you afraid of!
+Dialogue: 0,00:11:19.76,00:11:20.68,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:21.64,00:11:22.52,Default,,0,0,0,,mother
+Dialogue: 0,00:11:26.04,00:11:27.20,Default,,0,0,0,,You give me
+Dialogue: 0,00:11:28.44,00:11:29.84,Default,,0,0,0,,I’m not a stinger
+Dialogue: 0,00:11:29.88,00:11:30.92,Default,,0,0,0,,Don’t peck me!
+Dialogue: 0,00:11:37.44,00:11:38.92,Default,,0,0,0,,Very dirty
+Dialogue: 0,00:11:43.52,00:11:45.44,Default,,0,0,0,,I want you to see my evil spirit!
+Dialogue: 0,00:11:45.47,00:11:47.00,Default,,0,0,0,,Xiao Huang transforms!
+Dialogue: 0,00:11:51.28,00:11:53.35,Default,,0,0,0,,Xiao Huang, please change quickly!
+Dialogue: 0,00:11:54.04,00:11:55.32,Default,,0,0,0,,Xiao Huang…
+Dialogue: 0,00:11:56.52,00:11:57.60,Default,,0,0,0,,Female Demon King!
+Dialogue: 0,00:11:58.00,00:11:59.20,Default,,0,0,0,,No more stings
+Dialogue: 0,00:11:59.24,00:12:01.16,Default,,0,0,0,,Do you think you still have a way out?
+Dialogue: 0,00:12:01.56,00:12:04.24,Default,,0,0,0,,The Queen’s life
+Dialogue: 0,00:12:15.40,00:12:16.47,Default,,0,0,0,,Man Han
+Dialogue: 0,00:12:17.20,00:12:18.00,Default,,0,0,0,,protect
+Dialogue: 0,00:12:18.24,00:12:18.84,Default,,0,0,0,,mother
+Dialogue: 0,00:12:28.12,00:12:30.08,Default,,0,0,0,,My good son

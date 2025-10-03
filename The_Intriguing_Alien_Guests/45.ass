@@ -1,0 +1,265 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:20.65,00:00:22.05,Default,,0,0,0,,The weather is so good today
+Dialogue: 0,00:00:22.69,00:00:25.09,Default,,0,0,0,,This weather is indeed suitable for mountaineering
+Dialogue: 0,00:00:25.77,00:00:27.29,Default,,0,0,0,,Mountaineering!
+Dialogue: 0,00:00:28.29,00:00:30.17,Default,,0,0,0,,BB Goat seems very happy
+Dialogue: 0,00:00:30.97,00:00:33.61,Default,,0,0,0,,BB Goat likes to go out with her brothers and sisters
+Dialogue: 0,00:00:36.05,00:00:37.61,Default,,0,0,0,,The king, they’re here
+Dialogue: 0,00:00:38.25,00:00:39.13,Default,,0,0,0,,See it!
+Dialogue: 0,00:00:39.69,00:00:41.33,Default,,0,0,0,,It’s true that it’s like Xiao Lü’s story
+Dialogue: 0,00:00:41.45,00:00:43.65,Default,,0,0,0,,They took BB Goat to climb the mountain today
+Dialogue: 0,00:00:45.21,00:00:46.09,Default,,0,0,0,,You see
+Dialogue: 0,00:00:46.77,00:00:49.21,Default,,0,0,0,,The scenery here is still so good
+Dialogue: 0,00:00:51.81,00:00:52.73,Default,,0,0,0,,Take advantage of the situation now!
+Dialogue: 0,00:00:58.41,00:01:00.65,Default,,0,0,0,,Who dug a hole in the top of the mountain?
+Dialogue: 0,00:01:01.17,00:01:01.77,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:01:01.81,00:01:02.49,Default,,0,0,0,,Cable!
+Dialogue: 0,00:01:02.53,00:01:03.25,Default,,0,0,0,,yes
+Dialogue: 0,00:01:04.97,00:01:06.45,Default,,0,0,0,,King Bacteria
+Dialogue: 0,00:01:08.33,00:01:09.77,Default,,0,0,0,,BB Goat
+Dialogue: 0,00:01:11.65,00:01:12.85,Default,,0,0,0,,Get on the hook
+Dialogue: 0,00:01:13.61,00:01:14.97,Default,,0,0,0,,Don’t want to succeed!
+Dialogue: 0,00:01:17.89,00:01:19.33,Default,,0,0,0,,Help me quickly
+Dialogue: 0,00:01:22.77,00:01:24.21,Default,,0,0,0,,Let’s go and help
+Dialogue: 0,00:01:29.53,00:01:31.09,Default,,0,0,0,,Relax your hands
+Dialogue: 0,00:01:31.17,00:01:31.81,Default,,0,0,0,,Not bad
+Dialogue: 0,00:01:32.05,00:01:33.93,Default,,0,0,0,,You put BB Goat first
+Dialogue: 0,00:01:33.93,00:01:35.01,Default,,0,0,0,,impossible
+Dialogue: 0,00:01:35.33,00:01:37.93,Default,,0,0,0,,This will not be good for everyone
+Dialogue: 0,00:01:38.09,00:01:40.01,Default,,0,0,0,,I won’t be able to say anything
+Dialogue: 0,00:01:40.41,00:01:41.85,Default,,0,0,0,,Easy to do!
+Dialogue: 0,00:01:41.89,00:01:42.53,Default,,0,0,0,,Not bad
+Dialogue: 0,00:01:42.85,00:01:43.73,Default,,0,0,0,,Easy!
+Dialogue: 0,00:01:43.73,00:01:44.13,Default,,0,0,0,,Not bad
+Dialogue: 0,00:01:44.37,00:01:45.53,Default,,0,0,0,,Easy!
+Dialogue: 0,00:01:46.05,00:01:46.61,Default,,0,0,0,,Don’t...
+Dialogue: 0,00:01:46.65,00:01:47.45,Default,,0,0,0,,Stop talking
+Dialogue: 0,00:01:47.45,00:01:49.29,Default,,0,0,0,,I’m almost out of energy
+Dialogue: 0,00:01:57.89,00:02:00.37,Default,,0,0,0,,You dare to plot against us
+Dialogue: 0,00:02:00.45,00:02:01.53,Default,,0,0,0,,Stop talking!
+Dialogue: 0,00:02:01.53,00:02:03.33,Default,,0,0,0,,Hand over BB Goat
+Dialogue: 0,00:02:07.17,00:02:08.09,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:02:08.25,00:02:10.17,Default,,0,0,0,,Let them taste our tragedy!
+Dialogue: 0,00:02:10.37,00:02:11.93,Default,,0,0,0,,Wait... Wait a moment
+Dialogue: 0,00:02:13.65,00:02:16.41,Default,,0,0,0,,I’m not ready yet
+Dialogue: 0,00:02:38.65,00:02:39.81,Default,,0,0,0,,A quagmire?
+Dialogue: 0,00:02:40.65,00:02:41.45,Default,,0,0,0,,Weslie
+Dialogue: 0,00:02:41.45,00:02:42.89,Default,,0,0,0,,My body is so heavy
+Dialogue: 0,00:02:43.17,00:02:44.65,Default,,0,0,0,,It’s about to sink
+Dialogue: 0,00:02:46.49,00:02:47.01,Default,,0,0,0,,Oops
+Dialogue: 0,00:02:47.09,00:02:48.01,Default,,0,0,0,,In this state
+Dialogue: 0,00:02:48.05,00:02:48.97,Default,,0,0,0,,Can’t use skills
+Dialogue: 0,00:02:49.53,00:02:50.53,Default,,0,0,0,,Help!
+Dialogue: 0,00:02:50.57,00:02:51.53,Default,,0,0,0,,Help!
+Dialogue: 0,00:02:51.53,00:02:52.77,Default,,0,0,0,,It’s so dirty here
+Dialogue: 0,00:02:52.81,00:02:54.61,Default,,0,0,0,,I want to vomit
+Dialogue: 0,00:02:55.33,00:02:56.57,Default,,0,0,0,,Don’t be nervous, king
+Dialogue: 0,00:02:56.97,00:02:58.65,Default,,0,0,0,,This will get deeper and deeper
+Dialogue: 0,00:02:59.05,00:03:01.17,Default,,0,0,0,,Let’s make the little yellow cord
+Dialogue: 0,00:03:02.65,00:03:03.33,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:03:04.53,00:03:05.33,Default,,0,0,0,,Where is Xiao Huang?
+Dialogue: 0,00:03:09.29,00:03:10.81,Default,,0,0,0,,not good! The class leader doesn’t see it anymore
+Dialogue: 0,00:03:12.01,00:03:14.37,Default,,0,0,0,,It just happened that they fell down together
+Dialogue: 0,00:03:14.73,00:03:15.73,Default,,0,0,0,,How to...
+Dialogue: 0,00:03:15.77,00:03:16.89,Default,,0,0,0,,Weslie
+Dialogue: 0,00:03:18.53,00:03:19.49,Default,,0,0,0,,The King
+Dialogue: 0,00:03:20.97,00:03:21.53,Default,,0,0,0,,you…
+Dialogue: 0,00:03:21.69,00:03:23.61,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:03:25.53,00:03:26.89,Default,,0,0,0,,-Second leader!
+- Xiao Huang!
+Dialogue: 0,00:03:27.73,00:03:28.81,Default,,0,0,0,,We’re fine
+Dialogue: 0,00:03:28.85,00:03:30.45,Default,,0,0,0,,You come down and save us
+Dialogue: 0,00:03:30.97,00:03:33.13,Default,,0,0,0,,Very good they can hear it
+Dialogue: 0,00:03:33.65,00:03:36.73,Default,,0,0,0,,My deformed bacteria and I fell on the cliff
+Dialogue: 0,00:03:37.13,00:03:39.49,Default,,0,0,0,,I’ll save you right away
+Dialogue: 0,00:03:39.53,00:03:40.09,Default,,0,0,0,,good
+Dialogue: 0,00:03:40.09,00:03:41.37,Default,,0,0,0,,We’re waiting for you!
+Dialogue: 0,00:03:41.77,00:03:42.57,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:03:43.45,00:03:45.57,Default,,0,0,0,,BB Goat is here too
+Dialogue: 0,00:03:46.37,00:03:47.41,Default,,0,0,0,,BB Goat!
+Dialogue: 0,00:03:48.33,00:03:50.13,Default,,0,0,0,,If the Jonie saves the goat
+Dialogue: 0,00:03:50.33,00:03:51.65,Default,,0,0,0,,BB Goat has to run away again
+Dialogue: 0,00:03:51.81,00:03:53.13,Default,,0,0,0,,no! I have to be faster than her
+Dialogue: 0,00:03:56.97,00:03:58.65,Default,,0,0,0,,King, I’m here! !
+Dialogue: 0,00:03:59.97,00:04:01.09,Default,,0,0,0,,etc!
+Dialogue: 0,00:04:05.17,00:04:06.53,Default,,0,0,0,,etc!
+Dialogue: 0,00:04:07.05,00:04:08.57,Default,,0,0,0,,Just a fool is waiting for you!
+Dialogue: 0,00:04:09.81,00:04:11.61,Default,,0,0,0,,The downhill road ahead is very dangerous
+Dialogue: 0,00:04:11.85,00:04:13.57,Default,,0,0,0,,Don’t run too fast
+Dialogue: 0,00:04:13.97,00:04:14.89,Default,,0,0,0,,danger?
+Dialogue: 0,00:04:15.01,00:04:16.57,Default,,0,0,0,,It’s not that easy to cheat me
+Dialogue: 0,00:04:16.73,00:04:18.65,Default,,0,0,0,,I must arrive before you
+Dialogue: 0,00:04:31.57,00:04:33.53,Default,,0,0,0,,What a strange setting
+Dialogue: 0,00:04:33.57,00:04:37.05,Default,,0,0,0,,Why does there be a tree on the downhill road?
+Dialogue: 0,00:04:38.21,00:04:39.53,Default,,0,0,0,,Everyone said you’re waiting
+Dialogue: 0,00:04:40.13,00:04:41.17,Default,,0,0,0,,You’re fine
+Dialogue: 0,00:04:41.69,00:04:43.45,Default,,0,0,0,,How could it not be...
+Dialogue: 0,00:04:48.85,00:04:49.77,Default,,0,0,0,,Have it!
+Dialogue: 0,00:04:51.09,00:04:52.49,Default,,0,0,0,,I know it’s wrong
+Dialogue: 0,00:04:52.53,00:04:54.69,Default,,0,0,0,,Save me out
+Dialogue: 0,00:04:54.97,00:04:55.97,Default,,0,0,0,,What I’m doing
+Dialogue: 0,00:04:55.97,00:04:58.85,Default,,0,0,0,,Just want to save the king first
+Dialogue: 0,00:04:58.89,00:05:01.17,Default,,0,0,0,,No other malicious
+Dialogue: 0,00:05:02.93,00:05:04.17,Default,,0,0,0,,So that’s how it is
+Dialogue: 0,00:05:04.85,00:05:05.77,Default,,0,0,0,,It doesn’t matter
+Dialogue: 0,00:05:05.89,00:05:07.17,Default,,0,0,0,,I’ll save you
+Dialogue: 0,00:05:07.25,00:05:09.01,Default,,0,0,0,,Let’s continue working together
+Dialogue: 0,00:05:10.09,00:05:10.61,Default,,0,0,0,,OK
+Dialogue: 0,00:05:16.33,00:05:17.97,Default,,0,0,0,,Thank you, the Jonie
+Dialogue: 0,00:05:19.13,00:05:20.17,Default,,0,0,0,,No thanks
+Dialogue: 0,00:05:20.29,00:05:21.89,Default,,0,0,0,,Let’s go and save them
+Dialogue: 0,00:05:27.09,00:05:28.57,Default,,0,0,0,,Amoetic bacteria! you....
+Dialogue: 0,00:05:29.49,00:05:31.33,Default,,0,0,0,,Just stay here slowly
+Dialogue: 0,00:05:31.37,00:05:32.37,Default,,0,0,0,,Jonie
+Dialogue: 0,00:05:32.37,00:05:34.01,Default,,0,0,0,,See you again
+Dialogue: 0,00:05:34.17,00:05:35.89,Default,,0,0,0,,You don’t keep your promise
+Dialogue: 0,00:05:40.05,00:05:42.29,Default,,0,0,0,,It seems she can’t have arrived before me
+Dialogue: 0,00:05:48.05,00:05:49.37,Default,,0,0,0,,There is a river here
+Dialogue: 0,00:05:50.77,00:05:52.09,Default,,0,0,0,,Let’s go over the boat
+Dialogue: 0,00:05:55.93,00:05:56.61,Default,,0,0,0,,Yes
+Dialogue: 0,00:05:56.73,00:05:57.65,Default,,0,0,0,,No one helps me
+Dialogue: 0,00:05:57.65,00:05:59.21,Default,,0,0,0,,How did I cross the river?
+Dialogue: 0,00:06:05.45,00:06:06.45,Default,,0,0,0,,Have it
+Dialogue: 0,00:06:14.41,00:06:15.65,Default,,0,0,0,,And my slaughter
+Dialogue: 0,00:06:15.69,00:06:17.37,Default,,0,0,0,,You thief
+Dialogue: 0,00:06:21.37,00:06:22.89,Default,,0,0,0,,I didn’t expect to use this downhill
+Dialogue: 0,00:06:22.89,00:06:24.49,Default,,0,0,0,,Very convenient
+Dialogue: 0,00:06:28.57,00:06:30.01,Default,,0,0,0,,Cliff
+Dialogue: 0,00:06:34.25,00:06:35.41,Default,,0,0,0,,Shocked me
+Dialogue: 0,00:06:36.89,00:06:39.17,Default,,0,0,0,,How to continue
+Dialogue: 0,00:06:44.05,00:06:44.77,Default,,0,0,0,,Have it
+Dialogue: 0,00:06:50.97,00:06:52.05,Default,,0,0,0,,OK
+Dialogue: 0,00:06:58.53,00:07:00.05,Default,,0,0,0,,I’m so smart
+Dialogue: 0,00:07:00.65,00:07:01.33,Default,,0,0,0,,The King
+Dialogue: 0,00:07:01.37,00:07:03.69,Default,,0,0,0,,I’ll save you right away
+Dialogue: 0,00:07:07.41,00:07:09.81,Default,,0,0,0,,I’m going out...
+Dialogue: 0,00:07:10.69,00:07:11.69,Default,,0,0,0,,Don’t stumble
+Dialogue: 0,00:07:11.73,00:07:13.45,Default,,0,0,0,,You’ll get deeper and deeper
+Dialogue: 0,00:07:18.33,00:07:20.29,Default,,0,0,0,,Xiaohong, you are so terrible!
+Dialogue: 0,00:07:21.21,00:07:22.05,Default,,0,0,0,,Sad
+Dialogue: 0,00:07:22.09,00:07:24.65,Default,,0,0,0,,I just found out that there is room for activity on both fingers
+Dialogue: 0,00:07:24.69,00:07:25.77,Default,,0,0,0,,Always planning
+Dialogue: 0,00:07:25.81,00:07:27.01,Default,,0,0,0,,I didn’t expect it to be planned out
+Dialogue: 0,00:07:27.01,00:07:28.41,Default,,0,0,0,,Anything is OK? !
+Dialogue: 0,00:07:29.09,00:07:30.53,Default,,0,0,0,,It’s worthy of being a little girl
+Dialogue: 0,00:07:30.65,00:07:31.69,Default,,0,0,0,,After we go out
+Dialogue: 0,00:07:31.73,00:07:33.09,Default,,0,0,0,,Just grab BB Goat
+Dialogue: 0,00:07:33.45,00:07:34.21,Default,,0,0,0,,what
+Dialogue: 0,00:07:38.25,00:07:40.73,Default,,0,0,0,,Come on, Xiaohong!
+Dialogue: 0,00:07:43.81,00:07:44.97,Default,,0,0,0,,Come back to you!
+Dialogue: 0,00:07:46.89,00:07:48.61,Default,,0,0,0,,Is there anything wrong?
+Dialogue: 0,00:07:48.65,00:07:50.49,Default,,0,0,0,,How can you do this
+Dialogue: 0,00:07:51.57,00:07:52.45,Default,,0,0,0,,You think I’m stupid!
+Dialogue: 0,00:07:52.65,00:07:54.97,Default,,0,0,0,,If you go out, BB Goat will suffer!
+Dialogue: 0,00:07:57.93,00:07:58.77,Default,,0,0,0,,Paddi!
+Dialogue: 0,00:08:00.09,00:08:01.61,Default,,0,0,0,,Suck the vines there quickly!
+Dialogue: 0,00:08:02.85,00:08:03.65,Default,,0,0,0,,Yes
+Dialogue: 0,00:08:07.29,00:08:08.53,Default,,0,0,0,,Eat dirt, you
+Dialogue: 0,00:08:15.69,00:08:17.01,Default,,0,0,0,,Come on, fight again!
+Dialogue: 0,00:08:17.41,00:08:19.41,Default,,0,0,0,,Just hit, who are you afraid of!
+Dialogue: 0,00:08:20.81,00:08:22.45,Default,,0,0,0,,Stop it!
+Dialogue: 0,00:08:26.53,00:08:27.17,Default,,0,0,0,,Oops
+Dialogue: 0,00:08:27.21,00:08:28.25,Default,,0,0,0,,Have been misled for so long
+Dialogue: 0,00:08:28.29,00:08:29.45,Default,,0,0,0,,I must be quicker!
+Dialogue: 0,00:08:48.09,00:08:48.97,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:08:59.61,00:09:01.25,Default,,0,0,0,,What happened?
+Dialogue: 0,00:09:01.65,00:09:04.29,Default,,0,0,0,,There is a banana that stole my shell
+Dialogue: 0,00:09:06.09,00:09:07.65,Default,,0,0,0,,It must be a deformed bacteria
+Dialogue: 0,00:09:08.17,00:09:09.33,Default,,0,0,0,,I’ll help you
+Dialogue: 0,00:09:30.57,00:09:31.21,Default,,0,0,0,,thank you
+Dialogue: 0,00:09:31.21,00:09:32.45,Default,,0,0,0,,Jonie!
+Dialogue: 0,00:09:32.49,00:09:33.33,Default,,0,0,0,,No thanks
+Dialogue: 0,00:09:33.49,00:09:34.21,Default,,0,0,0,,goodbye
+Dialogue: 0,00:09:38.45,00:09:39.89,Default,,0,0,0,,What happened?
+Dialogue: 0,00:09:40.97,00:09:41.89,Default,,0,0,0,,There was only one banana
+Dialogue: 0,00:09:41.89,00:09:42.93,Default,,0,0,0,,Stealed my home
+Dialogue: 0,00:09:43.17,00:09:43.97,Default,,0,0,0,,Let me catch him
+Dialogue: 0,00:09:44.01,00:09:45.45,Default,,0,0,0,,I’ll never let him go
+Dialogue: 0,00:09:46.33,00:09:47.85,Default,,0,0,0,,It’s the deformed bacteria again
+Dialogue: 0,00:09:50.41,00:09:51.57,Default,,0,0,0,,I’ll help you
+Dialogue: 0,00:09:55.05,00:09:55.73,Default,,0,0,0,,thank you
+Dialogue: 0,00:09:55.77,00:09:56.57,Default,,0,0,0,,Jonie
+Dialogue: 0,00:09:57.85,00:09:58.61,Default,,0,0,0,,goodbye
+Dialogue: 0,00:09:58.85,00:09:59.69,Default,,0,0,0,,goodbye
+Dialogue: 0,00:10:05.61,00:10:06.25,Default,,0,0,0,,Don’t throw it away
+Dialogue: 0,00:10:06.45,00:10:07.29,Default,,0,0,0,,We’ll all sink
+Dialogue: 0,00:10:07.29,00:10:08.85,Default,,0,0,0,,Don’t throw it away
+Dialogue: 0,00:10:10.57,00:10:11.29,Default,,0,0,0,,Class Manager
+Dialogue: 0,00:10:11.33,00:10:12.93,Default,,0,0,0,,Come and save us!
+Dialogue: 0,00:10:13.53,00:10:14.33,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:10:14.41,00:10:15.93,Default,,0,0,0,,Come and save us!
+Dialogue: 0,00:10:15.97,00:10:17.41,Default,,0,0,0,,Follow your call
+Dialogue: 0,00:10:17.41,00:10:20.73,Default,,0,0,0,,I’m here
+Dialogue: 0,00:10:21.29,00:10:23.01,Default,,0,0,0,,Xiao Huang
+Dialogue: 0,00:10:23.45,00:10:24.21,Default,,0,0,0,,This is bad
+Dialogue: 0,00:10:24.85,00:10:25.77,Default,,0,0,0,,Weslie
+Dialogue: 0,00:10:25.81,00:10:27.09,Default,,0,0,0,,Think about it quickly
+Dialogue: 0,00:10:32.93,00:10:34.29,Default,,0,0,0,,Why are you so slow?
+Dialogue: 0,00:10:34.81,00:10:35.45,Default,,0,0,0,,The King
+Dialogue: 0,00:10:35.49,00:10:36.57,Default,,0,0,0,,I’m from the mountain
+Dialogue: 0,00:10:36.61,00:10:38.41,Default,,0,0,0,,After many circles, I came down
+Dialogue: 0,00:10:40.13,00:10:41.45,Default,,0,0,0,,You can’t become a landing trait
+Dialogue: 0,00:10:41.57,00:10:42.53,Default,,0,0,0,,Jump down?
+Dialogue: 0,00:10:43.77,00:10:44.37,Default,,0,0,0,,Yes
+Dialogue: 0,00:10:44.45,00:10:45.65,Default,,0,0,0,,Why didn’t I think of it?
+Dialogue: 0,00:10:46.93,00:10:48.61,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:10:52.17,00:10:53.33,Default,,0,0,0,,Chief!
+Dialogue: 0,00:10:54.57,00:10:55.73,Default,,0,0,0,,Can this be achieved?
+Dialogue: 0,00:10:55.93,00:10:57.21,Default,,0,0,0,,It seems I have to save it quickly...
+Dialogue: 0,00:11:04.41,00:11:05.89,Default,,0,0,0,,What happened to you?
+Dialogue: 0,00:11:06.69,00:11:08.41,Default,,0,0,0,,We saw you running so quickly
+Dialogue: 0,00:11:08.49,00:11:10.13,Default,,0,0,0,,Something must have happened
+Dialogue: 0,00:11:10.69,00:11:12.13,Default,,0,0,0,,So we’ve come and have a look
+Dialogue: 0,00:11:12.17,00:11:13.85,Default,,0,0,0,,What can help you
+Dialogue: 0,00:11:14.65,00:11:16.17,Default,,0,0,0,,Thank you
+Dialogue: 0,00:11:17.29,00:11:18.77,Default,,0,0,0,,The bad egg that snatched my shell
+Dialogue: 0,00:11:18.81,00:11:20.05,Default,,0,0,0,,He is here too!
+Dialogue: 0,00:11:22.25,00:11:23.69,Default,,0,0,0,,Are you going to do?
+Dialogue: 0,00:11:24.05,00:11:25.33,Default,,0,0,0,,Put our stuff
+Dialogue: 0,00:11:25.33,00:11:26.33,Default,,0,0,0,,Come back!
+Dialogue: 0,00:11:26.93,00:11:27.65,Default,,0,0,0,,sorry
+Dialogue: 0,00:11:27.69,00:11:28.85,Default,,0,0,0,,I’ll give you right away
+Dialogue: 0,00:11:32.73,00:11:34.29,Default,,0,0,0,,You dare to fool me!
+Dialogue: 0,00:11:35.13,00:11:35.69,Default,,0,0,0,,No…
+Dialogue: 0,00:11:35.69,00:11:36.57,Default,,0,0,0,,I didn’t!
+Dialogue: 0,00:11:36.69,00:11:37.45,Default,,0,0,0,,sorry
+Dialogue: 0,00:11:37.45,00:11:39.41,Default,,0,0,0,,I’m wrong
+Dialogue: 0,00:11:39.53,00:11:40.89,Default,,0,0,0,,Apology is useless
+Dialogue: 0,00:11:41.13,00:11:42.17,Default,,0,0,0,,Wait a moment
+Dialogue: 0,00:11:43.45,00:11:45.29,Default,,0,0,0,,Everyone thinks he regrets
+Dialogue: 0,00:11:45.45,00:11:46.65,Default,,0,0,0,,Just tell him
+Dialogue: 0,00:11:47.49,00:11:48.37,Default,,0,0,0,,Right!
+Dialogue: 0,00:11:48.37,00:11:49.81,Default,,0,0,0,,I’m wrong! I never dared to do it again!
+Dialogue: 0,00:11:49.85,00:11:51.01,Default,,0,0,0,,Please tell me!
+Dialogue: 0,00:11:51.53,00:11:52.97,Default,,0,0,0,,For the sake of the Jonie
+Dialogue: 0,00:11:53.09,00:11:54.21,Default,,0,0,0,,I will give you this time!
+Dialogue: 0,00:11:54.65,00:11:55.57,Default,,0,0,0,,thank you
+Dialogue: 0,00:11:55.61,00:11:56.77,Default,,0,0,0,,Jonie!
+Dialogue: 0,00:11:56.81,00:11:57.21,Default,,0,0,0,,alright
+Dialogue: 0,00:11:57.41,00:11:58.45,Default,,0,0,0,,Let’s go and save people
+Dialogue: 0,00:11:58.77,00:11:59.25,Default,,0,0,0,,The King
+Dialogue: 0,00:11:59.25,00:11:59.85,Default,,0,0,0,,I’m here!
+Dialogue: 0,00:12:03.85,00:12:05.09,Default,,0,0,0,,Finally saved
+Dialogue: 0,00:12:08.41,00:12:09.73,Default,,0,0,0,,You’ve helped our house
+Dialogue: 0,00:12:09.77,00:12:10.97,Default,,0,0,0,,For small yellow
+Dialogue: 0,00:12:11.21,00:12:12.57,Default,,0,0,0,,Let you go this time
+Dialogue: 0,00:12:14.57,00:12:15.01,Default,,0,0,0,,Let’s go
+Dialogue: 0,00:12:19.81,00:12:21.45,Default,,0,0,0,,The class leader is too kind
+Dialogue: 0,00:12:21.69,00:12:23.49,Default,,0,0,0,,Whether it’s a good person or a bad person’s busyness
+Dialogue: 0,00:12:23.53,00:12:24.21,Default,,0,0,0,,She helps
+Dialogue: 0,00:12:26.57,00:12:28.57,Default,,0,0,0,,This is our class leader
