@@ -1,0 +1,388 @@
+{
+    "episodes": [
+        {
+            "num": 1,
+            "youtube": "https://youtu.be/H47t9kVUqYI",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1gJWCFxGjCEGpqwn4Mx_Fa47XfG4XxBA7FzjO1Ecy4Kg"
+        },
+        {
+            "num": 2,
+            "youtube": "https://youtu.be/nMbKOo21ZHA",
+            "translator": ["RisenDown"],
+            "proofreader": ["Honoka55"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1V3o-jURJ3SOOSDjZ9pymYl86i1ViAxEbhrw6W1AoGD8"
+        },
+        {
+            "num": 3,
+            "youtube": "https://youtu.be/6eghtTUEY3Q",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1_gmpO4yrTSSFg81IUv-h0gDcpCqTjmuCzbv6ZkmwX2s"
+        },
+        {
+            "num": 4,
+            "youtube": "https://youtu.be/zTEutL9XHFU",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1JR0BwA9rPbYDY2SaIqnuKtLWZTKM4l7Tqj1BhSlF66c"
+        },
+        {
+            "num": 5,
+            "youtube": "https://youtu.be/x1_PD0wERIk",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1s9gt9QG6wgqNSALrfkAvNR9Fh09yRLAf-K8dkRErMto"
+        },
+        {
+            "num": 6,
+            "youtube": "https://youtu.be/iyu33XGMIfY",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1ZSgCSohP9xc-fbJppdTsLhWrkqo-B0gbzRtdFIa49vM"
+        },
+        {
+            "num": 7,
+            "youtube": "https://youtu.be/e6Tj58KSgfc",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/17-3TtYh9tEkRUxD1HM6NVxC9n5V7kKxgzBLwwetQ-Vw"
+        },
+        {
+            "num": 8,
+            "youtube": "https://youtu.be/9fJelbSzKKc",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/18hUWK8V1g_8vuLocafXEdrPu28RKIiJi_cLQj6JY7Co"
+        },
+        {
+            "num": 9,
+            "youtube": "https://youtu.be/UiwsNKTP5DA",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1WPv8lPpDpK5U3EBJ6iHaDgsXhyshjXFCcnXjttcxnFM"
+        },
+        {
+            "num": 10,
+            "youtube": "https://youtu.be/sLRkAedQcLk",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1NNlHoLCPZcEuIIe6X-pZsC7MH8UZQJdm8z4OEcdkfcE"
+        },
+        {
+            "num": 11,
+            "youtube": "https://youtu.be/4CrhubdoBRU",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1bXEb24T84o9KeGdcNea2u2twXlgMOZHZgkprQ2PdHO0"
+        },
+        {
+            "num": 12,
+            "youtube": "https://youtu.be/vM7Az_K0_7s",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/11XXh16nLBZcwQdak-AL7Z3REOk8Gel86ULMx-mo6WrM"
+        },
+        {
+            "num": 13,
+            "youtube": "https://youtu.be/Im07kH__QRQ",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1repI0bl53UO9InuSHXn_Ie3G6ZoJaV7Ua6Gc3QENlow"
+        },
+        {
+            "num": 14,
+            "youtube": "https://youtu.be/e3UDJV2GBME",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/11uEqyF5IiTDOnTFQloO_Ovv8-FRkKuZ_iAmjb_oOPMU"
+        },
+        {
+            "num": 15,
+            "youtube": "https://youtu.be/dVSYAY_U_gw",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1VeL4qpsbSarAMLU5dfbIpw4UZ5HRZLwuR75uQMngmTU"
+        },
+        {
+            "num": 16,
+            "youtube": "https://youtu.be/nbI7B__D3CQ",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1_6eCnheipnOAv3snjM0OFqGA-7zEk3dBnTptO3KmJwY"
+        },
+        {
+            "num": 17,
+            "youtube": "https://youtu.be/gwHI6PVowig",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/10fCjRvYOPXw5j5JYIIutXgObssOBe9ZA-20zM5kkscQ"
+        },
+        {
+            "num": 18,
+            "youtube": "https://youtu.be/d5Zrm9hk3no",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1V1t_FEIXvmWMQly4qESsdLKP9r2yTp0xNRAzZXK9LTs"
+        },
+        {
+            "num": 19,
+            "youtube": "https://youtu.be/0xGRU9uLV5s",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1yDfJiPsq4yVzuWmNG89HhLHnRXi5Xq0SGZxZ3346HBk"
+        },
+        {
+            "num": 20,
+            "youtube": "https://youtu.be/oGH5jWqZOJ8",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1mZIIbUF9pwG3csoSuc0f2BeHl7QcKihPCIS6ZAZce-A"
+        },
+        {
+            "num": 21,
+            "youtube": "https://youtu.be/G2Y8xs0OJ9Y",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/17JexWExJodyx0XLbRMalvSzSIBew5WNK4B5srbNQR_o"
+        },
+        {
+            "num": 22,
+            "youtube": "https://youtu.be/qlRIm8zPctk",
+            "translator": ["RisenDown"],
+            "timer": ["Honoka55"],
+            "doc": "https://docs.google.com/document/d/1pYKQG56JkGfnX18Bm5_vbsq84ABcunoY86EYeS5c-3E"
+        },
+        {
+            "num": 23,
+            "youtube": "https://youtu.be/QKrXg-Al7KQ",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 24,
+            "youtube": "https://youtu.be/EO08JvdFlic",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 25,
+            "youtube": "https://youtu.be/ixlrA6rMgMQ",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 26,
+            "youtube": "https://youtu.be/uPGDYTRKuPY",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 27,
+            "youtube": "https://youtu.be/5Q-vf1jCtJY",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 28,
+            "youtube": "https://youtu.be/RgqYIY4hs2c",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 29,
+            "youtube": "https://youtu.be/TKWp9BcD560",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 30,
+            "youtube": "https://youtu.be/AGK-vHSe7N0",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 31,
+            "youtube": "https://youtu.be/oweN7F8ddz4",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 32,
+            "youtube": "https://youtu.be/9jl1MoxQEj8",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 33,
+            "youtube": "https://youtu.be/YKTJbDAiszc",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 34,
+            "youtube": "https://youtu.be/24GUnnXMmwk",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 35,
+            "youtube": "https://youtu.be/5i5oM7FXONc",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 36,
+            "youtube": "https://youtu.be/e97rea_wIg8",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 37,
+            "youtube": "https://youtu.be/-LkMRo7a9o0",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 38,
+            "youtube": "https://youtu.be/1L_gMjwj4hA",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 39,
+            "youtube": "https://youtu.be/b_LVSew7Tjk",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 40,
+            "youtube": "https://youtu.be/LeRxOO3Bqc0",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 41,
+            "youtube": "https://youtu.be/wn2hB_3qdcU",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 42,
+            "youtube": "https://youtu.be/zNC7evz3SoQ",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 43,
+            "youtube": "https://youtu.be/q7Z2QJ2qEXU",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 44,
+            "youtube": "https://youtu.be/NdceeFL3Gb0",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 45,
+            "youtube": "https://youtu.be/-Pih_6dBC50",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 46,
+            "youtube": "https://youtu.be/qTjjTCdy0K8",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 47,
+            "youtube": "https://youtu.be/F4d6xGj6Nug",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 48,
+            "youtube": "https://youtu.be/qPft7FwWgtI",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 49,
+            "youtube": "https://youtu.be/wXz1JgkLo7w",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 50,
+            "youtube": "https://youtu.be/EfY6Zj8m9d0",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 51,
+            "youtube": "https://youtu.be/bcZdEXkmWWA",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 52,
+            "youtube": "https://youtu.be/NQrNAHAmyqk",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 53,
+            "youtube": "https://youtu.be/rgTttTHDI7E",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 54,
+            "youtube": "https://youtu.be/Siamdb8-gCs",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 55,
+            "youtube": "https://youtu.be/UqI85lvA-sQ",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 56,
+            "youtube": "https://youtu.be/vuqiObg5Jlk",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 57,
+            "youtube": "https://youtu.be/07LLffOg3Lw",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 58,
+            "youtube": "https://youtu.be/qsBSDeWZgaE",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 59,
+            "youtube": "https://youtu.be/VyMrlnAi-jk",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        },
+        {
+            "num": 60,
+            "youtube": "https://youtu.be/yHlVSB9Kphg",
+            "translator": ["Big Humphrey|Venn"],
+            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies."
+        }
+    ]
+}
