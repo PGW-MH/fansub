@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:29.41,00:00:29.93,Default,,0,0,0,,Oli
 Dialogue: 0,00:00:30.17,00:00:31.49,Default,,0,0,0,,Why are you still here
-Dialogue: 0,00:00:32.97,00:00:34.09,Default,,0,0,0,,Go home soon...
+Dialogue: 0,00:00:32.97,00:00:34.09,Default,,0,0,0,,Go home soon…
 Dialogue: 0,00:00:36.29,00:00:39.19,Default,,0,0,0,,One day a horse fell into the river
 Dialogue: 0,00:00:39.21,00:00:40.77,Default,,0,0,0,,It became a Hema
 Dialogue: 0,00:00:41.13,00:00:42.85,Default,,0,0,0,,Haha Haha Haha
@@ -29,11 +29,11 @@ Dialogue: 0,00:01:04.33,00:01:07.17,Default,,0,0,0,,Don’t worry, the firefight
 Dialogue: 0,00:01:19.89,00:01:22.45,Default,,0,0,0,,Not good Dr. Fu’s items
 Dialogue: 0,00:01:31.97,00:01:32.69,Default,,0,0,0,,who
 Dialogue: 0,00:01:37.33,00:01:38.05,Default,,0,0,0,,Come out
-Dialogue: 0,00:01:55.81,00:01:57.77,Default,,0,0,0,,Fu...Dr...
+Dialogue: 0,00:01:55.81,00:01:57.77,Default,,0,0,0,,Fu…Dr…
 Dialogue: 0,00:02:06.01,00:02:06.59,Default,,0,0,0,,very good
 Dialogue: 0,00:02:06.61,00:02:09.49,Default,,0,0,0,,Pay close attention to the situation around Oli
 Dialogue: 0,00:02:09.81,00:02:10.29,Default,,0,0,0,,OK
-Dialogue: 0,00:02:14.85,00:02:16.53,Default,,0,0,0,,It’s almost successful...
+Dialogue: 0,00:02:14.85,00:02:16.53,Default,,0,0,0,,It’s almost successful…
 Dialogue: 0,00:02:19.97,00:02:21.05,Default,,0,0,0,,Dr. Fu
 Dialogue: 0,00:02:21.29,00:02:23.05,Default,,0,0,0,,You finally come back
 Dialogue: 0,00:02:23.25,00:02:26.09,Default,,0,0,0,,Where have you been there for so many years
@@ -41,7 +41,7 @@ Dialogue: 0,00:02:26.21,00:02:27.65,Default,,0,0,0,,I miss you so much
 Dialogue: 0,00:02:29.33,00:02:31.69,Default,,0,0,0,,It’s about to crack
 Dialogue: 0,00:02:50.09,00:02:52.15,Default,,0,0,0,,Dr. Fu, you’re fine
 Dialogue: 0,00:02:52.17,00:02:54.05,Default,,0,0,0,,You look so weak
-Dialogue: 0,00:02:55.49,00:02:58.65,Default,,0,0,0,,No... nothing, just a little tired
+Dialogue: 0,00:02:55.49,00:02:58.65,Default,,0,0,0,,No… nothing, just a little tired
 Dialogue: 0,00:03:09.33,00:03:13.49,Default,,0,0,0,,Dr. Fu, sit and rest, I’ll clean up
 Dialogue: 0,00:03:21.97,00:03:25.49,Default,,0,0,0,,This robot is so terrifying. I have to find a way to throw him away.
 Dialogue: 0,00:03:36.77,00:03:38.85,Default,,0,0,0,,You moved me to a wall
@@ -70,7 +70,7 @@ Dialogue: 0,00:05:25.05,00:05:28.69,Default,,0,0,0,,It said it couldn’t figure
 Dialogue: 0,00:05:33.57,00:05:34.49,Default,,0,0,0,,What’s up
 Dialogue: 0,00:05:35.13,00:05:36.33,Default,,0,0,0,,Is it funny
 Dialogue: 0,00:05:38.05,00:05:38.89,Default,,0,0,0,,Not funny
-Dialogue: 0,00:05:40.77,00:05:42.53,Default,,0,0,0,,I have other...
+Dialogue: 0,00:05:40.77,00:05:42.53,Default,,0,0,0,,I have other…
 Dialogue: 0,00:05:46.73,00:05:49.49,Default,,0,0,0,,I’ve read all this book "Joker Collection"
 Dialogue: 0,00:05:50.09,00:05:53.25,Default,,0,0,0,,Why don’t you buy a new joke book and listen to it to me
 Dialogue: 0,00:05:54.49,00:05:55.97,Default,,0,0,0,,OK Dr. Fu
@@ -84,9 +84,9 @@ Dialogue: 0,00:06:27.53,00:06:28.61,Default,,0,0,0,,Dr. Fu
 Dialogue: 0,00:06:30.85,00:06:31.97,Default,,0,0,0,,Dr. Fu
 Dialogue: 0,00:06:32.81,00:06:35.17,Default,,0,0,0,,Where are you?
 Dialogue: 0,00:06:42.41,00:06:43.53,Default,,0,0,0,,Dr. Fu
-Dialogue: 0,00:06:45.49,00:06:47.29,Default,,0,0,0,,Ah...Oh
+Dialogue: 0,00:06:45.49,00:06:47.29,Default,,0,0,0,,Ah…Oh
 Dialogue: 0,00:06:50.33,00:06:53.17,Default,,0,0,0,,Dr. Fu, don’t leave me
-Dialogue: 0,00:06:54.45,00:06:57.05,Default,,0,0,0,,It’s going to crack...
+Dialogue: 0,00:06:54.45,00:06:57.05,Default,,0,0,0,,It’s going to crack…
 Dialogue: 0,00:06:57.13,00:07:00.29,Default,,0,0,0,,Dr. Fu, I won’t let go this time
 Dialogue: 0,00:07:00.93,00:07:03.17,Default,,0,0,0,,You can’t leave my video
 Dialogue: 0,00:07:03.33,00:07:06.09,Default,,0,0,0,,What, please let me go
@@ -95,7 +95,7 @@ Dialogue: 0,00:07:12.97,00:07:13.81,Default,,0,0,0,,It’s Oli
 Dialogue: 0,00:07:14.37,00:07:16.73,Default,,0,0,0,,That person looks so familiar
 Dialogue: 0,00:07:16.93,00:07:19.05,Default,,0,0,0,,I seem to have seen it somewhere
 Dialogue: 0,00:07:25.85,00:07:27.97,Default,,0,0,0,,I remembered that he is Dr. Fu
-Dialogue: 0,00:07:28.25,00:07:28.73,Default,,0,0,0,,etc.
+Dialogue: 0,00:07:28.25,00:07:28.73,Default,,0,0,0,,Wait a minute.
 Dialogue: 0,00:07:28.89,00:07:31.53,Default,,0,0,0,,Didn’t the village chief say that Dr. Fu is no longer alive?
 Dialogue: 0,00:07:32.93,00:07:33.65,Default,,0,0,0,,Oli
 Dialogue: 0,00:07:34.65,00:07:35.49,Default,,0,0,0,,Oli
@@ -106,7 +106,7 @@ Dialogue: 0,00:07:51.61,00:07:53.93,Default,,0,0,0,,I saw Oli and Dr. Fu togethe
 Dialogue: 0,00:07:54.77,00:07:58.37,Default,,0,0,0,,This is impossible. The report must be correct
 Dialogue: 0,00:07:58.49,00:08:00.25,Default,,0,0,0,,Are you dazzled
 Dialogue: 0,00:08:05.89,00:08:07.73,Default,,0,0,0,,There are fragments of elephant star stones nearby
-Dialogue: 0,00:08:09.45,00:08:13.25,Default,,0,0,0,,It’s hard...it’s hard...that...that Dr. Fu is fake
+Dialogue: 0,00:08:09.45,00:08:13.25,Default,,0,0,0,,It’s hard…it’s hard…that…that Dr. Fu is fake
 Dialogue: 0,00:08:15.13,00:08:16.89,Default,,0,0,0,,I’ll go to Dr. Fu’s house to see it right away
 Dialogue: 0,00:08:21.29,00:08:22.85,Default,,0,0,0,,I don’t know if they’re back
 Dialogue: 0,00:08:23.33,00:08:24.33,Default,,0,0,0,,The door is fine

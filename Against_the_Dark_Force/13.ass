@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.61,00:00:24.13,Default,,0,0,0,,Can this car move?
 Dialogue: 0,00:00:28.49,00:00:29.69,Default,,0,0,0,,danger!
-Dialogue: 0,00:00:30.73,00:00:33.37,Default,,0,0,0,,I’m here to save you... Alas...
+Dialogue: 0,00:00:30.73,00:00:33.37,Default,,0,0,0,,I’m here to save you… Alas…
 Dialogue: 0,00:00:35.05,00:00:36.29,Default,,0,0,0,,Wolffy!
 Dialogue: 0,00:00:38.89,00:00:41.21,Default,,0,0,0,,Let’s fix the car
 Dialogue: 0,00:00:43.85,00:00:46.29,Default,,0,0,0,,But now all trains are stopped
@@ -42,7 +42,7 @@ Dialogue: 0,00:01:39.09,00:01:41.17,Default,,0,0,0,,Let’s hand the train over 
 Dialogue: 0,00:01:42.05,00:01:44.85,Default,,0,0,0,,Yes OK!
 Dialogue: 0,00:01:49.09,00:01:52.03,Default,,0,0,0,,Yes, how many times have you been secretly going out for fun?
 Dialogue: 0,00:01:52.05,00:01:53.45,Default,,0,0,0,,I’m going to punish you today!
-Dialogue: 0,00:01:55.85,00:01:57.73,Default,,0,0,0,,Haha... are you scared?
+Dialogue: 0,00:01:55.85,00:01:57.73,Default,,0,0,0,,Haha… are you scared?
 Dialogue: 0,00:02:03.85,00:02:07.05,Default,,0,0,0,,well! OK OK OK Don’t punish
 Dialogue: 0,00:02:07.13,00:02:10.05,Default,,0,0,0,,Let’s come and practice, right? OK?
 Dialogue: 0,00:02:14.49,00:02:16.37,Default,,0,0,0,,OK I’ll agree
@@ -50,11 +50,11 @@ Dialogue: 0,00:02:17.09,00:02:19.85,Default,,0,0,0,,Come on, you practice sprayi
 Dialogue: 0,00:02:20.17,00:02:22.17,Default,,0,0,0,,You want to inhale like me
 Dialogue: 0,00:02:26.53,00:02:27.41,Default,,0,0,0,,Against the opposite…
 Dialogue: 0,00:02:29.05,00:02:31.09,Default,,0,0,0,,Very good, that’s it
-Dialogue: 0,00:02:33.69,00:02:38.19,Default,,0,0,0,,Chi...
+Dialogue: 0,00:02:33.69,00:02:38.19,Default,,0,0,0,,Chi…
 Dialogue: 0,00:02:38.21,00:02:40.29,Default,,0,0,0,,Why do you want this to me
 Dialogue: 0,00:02:42.45,00:02:43.97,Default,,0,0,0,,I’ve suffered!
 Dialogue: 0,00:02:46.09,00:02:48.45,Default,,0,0,0,,What to do? Let me down quickly!
-Dialogue: 0,00:02:51.21,00:02:52.89,Default,,0,0,0,,Stop quickly...
+Dialogue: 0,00:02:51.21,00:02:52.89,Default,,0,0,0,,Stop quickly…
 Dialogue: 0,00:02:53.65,00:02:54.53,Default,,0,0,0,,ah…
 Dialogue: 0,00:02:55.05,00:02:57.43,Default,,0,0,0,,Slowy Military Master, the Queen is looking for you
 Dialogue: 0,00:02:57.45,00:03:00.01,Default,,0,0,0,,ah!
@@ -66,7 +66,7 @@ Dialogue: 0,00:03:14.93,00:03:18.09,Default,,0,0,0,,Please, please perform a tho
 Dialogue: 0,00:03:21.57,00:03:24.17,Default,,0,0,0,,That’s right, just face the wall here
 Dialogue: 0,00:03:24.57,00:03:26.23,Default,,0,0,0,,Please take me to the Queen
 Dialogue: 0,00:03:26.25,00:03:27.81,Default,,0,0,0,,I’ll bring you something delicious
-Dialogue: 0,00:03:30.17,00:03:31.93,Default,,0,0,0,,Haha...Let’s go
+Dialogue: 0,00:03:30.17,00:03:31.93,Default,,0,0,0,,Haha…Let’s go
 Dialogue: 0,00:03:41.41,00:03:42.89,Default,,0,0,0,,How do you do
 Dialogue: 0,00:03:44.89,00:03:46.49,Default,,0,0,0,,Can’t even catch a bright moon
 Dialogue: 0,00:03:46.65,00:03:48.33,Default,,0,0,0,,It also made Tibbie rebellious
@@ -74,7 +74,7 @@ Dialogue: 0,00:03:51.77,00:03:53.17,Default,,0,0,0,,It’s Tibbie that is too we
 Dialogue: 0,00:03:54.01,00:03:54.93,Default,,0,0,0,,Especially you
 Dialogue: 0,00:03:55.17,00:03:56.07,Default,,0,0,0,,Let you help
 Dialogue: 0,00:03:56.09,00:03:57.73,Default,,0,0,0,,You got married to Tibbie
-Dialogue: 0,00:03:58.09,00:03:59.73,Default,,0,0,0,,Uh...that was an accident
+Dialogue: 0,00:03:58.09,00:03:59.73,Default,,0,0,0,,Uh…that was an accident
 Dialogue: 0,00:03:59.89,00:04:01.05,Default,,0,0,0,,But the queen restsatisfied
 Dialogue: 0,00:04:01.33,00:04:03.29,Default,,0,0,0,,They’re going to pass the ice town next
 Dialogue: 0,00:04:03.49,00:04:05.01,Default,,0,0,0,,I’ll catch them.
@@ -86,29 +86,29 @@ Dialogue: 0,00:04:11.13,00:04:13.13,Default,,0,0,0,,- The Queen will be very hap
 Dialogue: 0,00:04:13.81,00:04:14.97,Default,,0,0,0,,whee…
 Dialogue: 0,00:04:21.85,00:04:23.87,Default,,0,0,0,,Humph, wait until I arrive at Qihua Town
 Dialogue: 0,00:04:23.89,00:04:26.67,Default,,0,0,0,,Just grab Princess Luna and the others
-Dialogue: 0,00:04:26.69,00:04:28.37,Default,,0,0,0,,Ah... Alas...
+Dialogue: 0,00:04:26.69,00:04:28.37,Default,,0,0,0,,Ah… Alas…
 Dialogue: 0,00:04:31.09,00:04:32.27,Default,,0,0,0,,Where are you going?
 Dialogue: 0,00:04:32.29,00:04:34.21,Default,,0,0,0,,Is it good to hear me?
 Dialogue: 0,00:04:36.89,00:04:39.01,Default,,0,0,0,,Let’s look for the power stone
 Dialogue: 0,00:04:40.17,00:04:41.77,Default,,0,0,0,,I and Tibbie
 Dialogue: 0,00:04:42.57,00:04:44.69,Default,,0,0,0,,Princess Luna and I
-Dialogue: 0,00:04:45.05,00:04:46.05,Default,,0,0,0,,I and...
+Dialogue: 0,00:04:45.05,00:04:46.05,Default,,0,0,0,,I and…
 Dialogue: 0,00:04:48.05,00:04:50.27,Default,,0,0,0,,Children are children and need someone to accompany them
 Dialogue: 0,00:04:50.29,00:04:52.57,Default,,0,0,0,,Don’t come back to find me if you’re scared
 Dialogue: 0,00:04:55.29,00:04:57.13,Default,,0,0,0,,Haha I’ll come back to find me soon
-Dialogue: 0,00:05:00.49,00:05:02.01,Default,,0,0,0,,Miracle...
-Dialogue: 0,00:05:02.49,00:05:04.57,Default,,0,0,0,,Tibbie helps...
+Dialogue: 0,00:05:00.49,00:05:02.01,Default,,0,0,0,,Miracle…
+Dialogue: 0,00:05:02.49,00:05:04.57,Default,,0,0,0,,Tibbie helps…
 Dialogue: 0,00:05:08.29,00:05:09.37,Default,,0,0,0,,Didn’t catch up?
 Dialogue: 0,00:05:09.41,00:05:11.29,Default,,0,0,0,,But why are there strange beasts here?
 Dialogue: 0,00:05:11.49,00:05:14.05,Default,,0,0,0,,And this miracle is smaller than the miracle I encountered before
 Dialogue: 0,00:05:14.53,00:05:16.51,Default,,0,0,0,,Why don’t I come to patronize him as my rider?
 Dialogue: 0,00:05:16.53,00:05:17.93,Default,,0,0,0,,Cat Cat Country
-Dialogue: 0,00:05:20.85,00:05:22.13,Default,,0,0,0,,Good to be good to be...
-Dialogue: 0,00:05:22.89,00:05:24.97,Default,,0,0,0,,Oops Why...
+Dialogue: 0,00:05:20.85,00:05:22.13,Default,,0,0,0,,Good to be good to be…
+Dialogue: 0,00:05:22.89,00:05:24.97,Default,,0,0,0,,Oops Why…
 Dialogue: 0,00:05:29.89,00:05:33.55,Default,,0,0,0,,Hello, please have lollipop
 Dialogue: 0,00:05:33.57,00:05:34.97,Default,,0,0,0,,We are good friends
 Dialogue: 0,00:05:35.77,00:05:37.01,Default,,0,0,0,,Very delicious
-Dialogue: 0,00:05:39.89,00:05:41.25,Default,,0,0,0,,Eat it, eat it...
+Dialogue: 0,00:05:39.89,00:05:41.25,Default,,0,0,0,,Eat it, eat it…
 Dialogue: 0,00:05:42.29,00:05:43.63,Default,,0,0,0,,I’m here
 Dialogue: 0,00:05:43.65,00:05:45.65,Default,,0,0,0,,Ahhhhh…
 Dialogue: 0,00:05:48.25,00:05:50.01,Default,,0,0,0,,If it’s soft, it’s hard
@@ -126,15 +126,15 @@ Dialogue: 0,00:06:46.69,00:06:48.37,Default,,0,0,0,,- Give me some rest first
 Dialogue: 0,00:06:53.25,00:06:55.09,Default,,0,0,0,,- It’s you
 - Village Chief
 Dialogue: 0,00:06:55.49,00:06:56.77,Default,,0,0,0,,Look at my illusion
-Dialogue: 0,00:06:58.09,00:07:08.85,Default,,0,0,0,,I don’t watch I don’t watch...
+Dialogue: 0,00:06:58.09,00:07:08.85,Default,,0,0,0,,I don’t watch I don’t watch…
 Dialogue: 0,00:07:09.17,00:07:10.71,Default,,0,0,0,,It’s worthy of being the village chief
 Dialogue: 0,00:07:10.73,00:07:13.33,Default,,0,0,0,,Don’t be afraid, look at my strange clouds
 Dialogue: 0,00:07:14.93,00:07:15.97,Default,,0,0,0,,Strange
-Dialogue: 0,00:07:22.29,00:07:24.25,Default,,0,0,0,,This miracle is so terrible...
+Dialogue: 0,00:07:22.29,00:07:24.25,Default,,0,0,0,,This miracle is so terrible…
 Dialogue: 0,00:07:24.29,00:07:25.37,Default,,0,0,0,,Run quickly
 Dialogue: 0,00:07:27.77,00:07:29.41,Default,,0,0,0,,Big Swords We’re on
 Dialogue: 0,00:07:30.89,00:07:33.25,Default,,0,0,0,,What do you want
-Dialogue: 0,00:07:38.17,00:07:40.33,Default,,0,0,0,,You’re out for a walk again...
+Dialogue: 0,00:07:38.17,00:07:40.33,Default,,0,0,0,,You’re out for a walk again…
 Dialogue: 0,00:07:43.81,00:07:45.89,Default,,0,0,0,,Why does Slowy also have a strange beast?
 Dialogue: 0,00:07:48.29,00:07:50.71,Default,,0,0,0,,- Wolffy Help
 - Wolffy Help
@@ -148,7 +148,7 @@ Dialogue: 0,00:08:19.17,00:08:21.69,Default,,0,0,0,,You see, I didn’t hurt you
 Dialogue: 0,00:08:23.65,00:08:25.19,Default,,0,0,0,,Oops Oops…
 Dialogue: 0,00:08:25.21,00:08:27.41,Default,,0,0,0,,You’ve hurt yourself
 Dialogue: 0,00:08:29.65,00:08:31.29,Default,,0,0,0,,ah…
-Dialogue: 0,00:08:37.57,00:08:39.13,Default,,0,0,0,,Help...
+Dialogue: 0,00:08:37.57,00:08:39.13,Default,,0,0,0,,Help…
 Dialogue: 0,00:08:39.29,00:08:40.49,Default,,0,0,0,,- Wolffy
 - Wolffy
 Dialogue: 0,00:08:41.65,00:08:42.93,Default,,0,0,0,,Magic Cloud
@@ -168,7 +168,7 @@ Dialogue: 0,00:09:27.93,00:09:28.53,Default,,0,0,0,,Um
 Dialogue: 0,00:09:30.09,00:09:32.01,Default,,0,0,0,,Hum, I will convince you next time
 Dialogue: 0,00:09:36.05,00:09:37.41,Default,,0,0,0,,Meet again?
 Dialogue: 0,00:09:43.41,00:09:44.15,Default,,0,0,0,,No!
-Dialogue: 0,00:09:44.17,00:09:47.29,Default,,0,0,0,,My clouds can’t resist this fireball...
+Dialogue: 0,00:09:44.17,00:09:47.29,Default,,0,0,0,,My clouds can’t resist this fireball…
 Dialogue: 0,00:09:54.73,00:09:56.37,Default,,0,0,0,,Who is the good thing that hurts me?
 Dialogue: 0,00:09:59.17,00:10:00.13,Default,,0,0,0,,ah?
 Dialogue: 0,00:10:01.25,00:10:02.85,Default,,0,0,0,,You’re coming out soon
@@ -194,10 +194,10 @@ Dialogue: 0,00:11:17.21,00:11:18.77,Default,,0,0,0,,I’ve missed the goat
 Dialogue: 0,00:11:20.17,00:11:22.63,Default,,0,0,0,,They were just dragged down for a while
 Dialogue: 0,00:11:22.65,00:11:23.85,Default,,0,0,0,,Let’s run quickly
 Dialogue: 0,00:11:27.77,00:11:29.89,Default,,0,0,0,,Stop biting, chase them
-Dialogue: 0,00:11:30.29,00:11:32.17,Default,,0,0,0,,Stop me...
+Dialogue: 0,00:11:30.29,00:11:32.17,Default,,0,0,0,,Stop me…
 Dialogue: 0,00:11:32.41,00:11:34.19,Default,,0,0,0,,Please chase them
-Dialogue: 0,00:11:34.21,00:11:36.07,Default,,0,0,0,,Stop quickly Stop...
-Dialogue: 0,00:11:36.09,00:11:40.25,Default,,0,0,0,,Oh, oh...why is this happening
+Dialogue: 0,00:11:34.21,00:11:36.07,Default,,0,0,0,,Stop quickly Stop…
+Dialogue: 0,00:11:36.09,00:11:40.25,Default,,0,0,0,,Oh, oh…why is this happening
 Dialogue: 0,00:11:46.53,00:11:47.65,Default,,0,0,0,,ah…
 Dialogue: 0,00:11:48.25,00:11:49.93,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:11:50.49,00:11:52.53,Default,,0,0,0,,Fixed
@@ -208,7 +208,7 @@ Dialogue: 0,00:12:06.49,00:12:08.49,Default,,0,0,0,,Depart!
 Dialogue: 0,00:12:13.29,00:12:14.11,Default,,0,0,0,,See you again
 Dialogue: 0,00:12:14.13,00:12:16.05,Default,,0,0,0,,- See you again
 - See you again
-Dialogue: 0,00:12:16.17,00:12:18.25,Default,,0,0,0,,See you again...
+Dialogue: 0,00:12:16.17,00:12:18.25,Default,,0,0,0,,See you again…
 Dialogue: 0,00:12:18.49,00:12:20.33,Default,,0,0,0,,Take care of Princess Luna
 Dialogue: 0,00:12:20.65,00:12:23.21,Default,,0,0,0,,You will definitely restore the cat country
 Dialogue: 0,00:12:23.53,00:12:25.63,Default,,0,0,0,,You should take care of yourself, too

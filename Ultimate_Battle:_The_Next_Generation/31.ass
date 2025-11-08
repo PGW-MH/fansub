@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.53,00:00:24.57,Default,,0,0,0,,I tried to make a plan
 Dialogue: 0,00:00:25.01,00:00:28.57,Default,,0,0,0,,Now I’ll try to remove mechanical transformation
-Dialogue: 0,00:00:41.29,00:00:42.61,Default,,0,0,0,,Failed...
+Dialogue: 0,00:00:41.29,00:00:42.61,Default,,0,0,0,,Failed…
 Dialogue: 0,00:00:46.37,00:00:48.43,Default,,0,0,0,,It seems that there is no hope for recovery
 Dialogue: 0,00:00:48.45,00:00:50.59,Default,,0,0,0,,Don’t do that, there’s definitely something going on
 Dialogue: 0,00:00:50.61,00:00:53.35,Default,,0,0,0,,I just worry if I’m really mechanical
@@ -30,7 +30,7 @@ Dialogue: 0,00:01:11.57,00:01:12.65,Default,,0,0,0,,Finally came back
 Dialogue: 0,00:01:16.73,00:01:18.41,Default,,0,0,0,,Sparky , you’re injured
 Dialogue: 0,00:01:19.13,00:01:20.21,Default,,0,0,0,,Just a little wound
 Dialogue: 0,00:01:20.69,00:01:23.17,Default,,0,0,0,,What happened when I added the photos to Oli
-Dialogue: 0,00:01:26.45,00:01:29.25,Default,,0,0,0,,I told you when I went to Oli...
+Dialogue: 0,00:01:26.45,00:01:29.25,Default,,0,0,0,,I told you when I went to Oli…
 Dialogue: 0,00:01:40.09,00:01:41.45,Default,,0,0,0,,I’m back
 Dialogue: 0,00:02:29.89,00:02:30.69,Default,,0,0,0,,It’s bad
 Dialogue: 0,00:02:51.97,00:02:52.65,Default,,0,0,0,,Um?
@@ -80,7 +80,7 @@ Dialogue: 0,00:05:38.65,00:05:40.85,Default,,0,0,0,,I’m so tired today, please
 Dialogue: 0,00:05:41.97,00:05:43.63,Default,,0,0,0,,It’s good that you like it
 Dialogue: 0,00:05:43.65,00:05:45.29,Default,,0,0,0,,Hahahahaha
 Dialogue: 0,00:05:45.49,00:05:47.03,Default,,0,0,0,,Is it really delicious?
-Dialogue: 0,00:05:47.05,00:05:48.29,Default,,0,0,0,,I’m going to do it too...
+Dialogue: 0,00:05:47.05,00:05:48.29,Default,,0,0,0,,I’m going to do it too…
 Dialogue: 0,00:05:49.81,00:05:52.37,Default,,0,0,0,,Oh, how many salts did I put
 Dialogue: 0,00:05:53.33,00:05:54.05,Default,,0,0,0,,Small gray
 Dialogue: 0,00:05:54.45,00:05:56.33,Default,,0,0,0,,It’s so hard to eat, don’t eat it
@@ -89,7 +89,7 @@ Dialogue: 0,00:06:00.41,00:06:03.89,Default,,0,0,0,,What should you do if this m
 Dialogue: 0,00:06:05.65,00:06:07.01,Default,,0,0,0,,Then control it
 Dialogue: 0,00:06:07.13,00:06:08.25,Default,,0,0,0,,What you said before
 Dialogue: 0,00:06:08.29,00:06:10.53,Default,,0,0,0,,At that time, I accidentally ate fruit
-Dialogue: 0,00:06:10.65,00:06:11.89,Default,,0,0,0,,My whole body is very weak...
+Dialogue: 0,00:06:10.65,00:06:11.89,Default,,0,0,0,,My whole body is very weak…
 Dialogue: 0,00:06:13.25,00:06:15.89,Default,,0,0,0,,Dad, mom, how crazy
 Dialogue: 0,00:06:16.41,00:06:18.69,Default,,0,0,0,,Stop slapping, almost broken
 Dialogue: 0,00:06:18.89,00:06:20.79,Default,,0,0,0,,But I can’t control it
@@ -100,7 +100,7 @@ Dialogue: 0,00:06:27.05,00:06:28.01,Default,,0,0,0,,But…
 Dialogue: 0,00:06:29.33,00:06:32.77,Default,,0,0,0,,No, Dad, accompany you
 Dialogue: 0,00:06:33.61,00:06:35.49,Default,,0,0,0,,Don’t eat it, that’s a fruit
 Dialogue: 0,00:06:38.17,00:06:40.61,Default,,0,0,0,,Let’s control it together
-Dialogue: 0,00:06:41.81,00:06:43.57,Default,,0,0,0,,Dad... OK
+Dialogue: 0,00:06:41.81,00:06:43.57,Default,,0,0,0,,Dad… OK
 Dialogue: 0,00:06:46.93,00:06:48.97,Default,,0,0,0,,Dad, am I a man, Han?
 Dialogue: 0,00:06:49.21,00:06:51.41,Default,,0,0,0,,Of course we are all
 Dialogue: 0,00:06:53.17,00:06:56.05,Default,,0,0,0,,We held on for a day, didn’t we succeed in the end?
@@ -163,7 +163,7 @@ Dialogue: 0,00:10:28.21,00:10:31.17,Default,,0,0,0,,I remember the village chief
 Dialogue: 0,00:10:31.77,00:10:34.41,Default,,0,0,0,,It seems that these are brought back by Dr. Fu
 Dialogue: 0,00:10:38.37,00:10:40.29,Default,,0,0,0,,Dr. Fu has been away for so long
 Dialogue: 0,00:10:41.33,00:10:43.53,Default,,0,0,0,,Oli also wiped the house so clean
-Dialogue: 0,00:10:44.21,00:10:45.29,Default,,0,0,0,,Waiting for...
+Dialogue: 0,00:10:44.21,00:10:45.29,Default,,0,0,0,,Waiting for…
 Dialogue: 0,00:10:45.77,00:10:47.09,Default,,0,0,0,,I was too pissed before
 Dialogue: 0,00:10:59.17,00:11:00.73,Default,,0,0,0,,Huh? What’s it?
 Dialogue: 0,00:11:04.77,00:11:06.13,Default,,0,0,0,,…Oli…
@@ -175,5 +175,5 @@ Dialogue: 0,00:11:12.33,00:11:13.77,Default,,0,0,0,,…Oli…
 Dialogue: 0,00:11:24.05,00:11:26.09,Default,,0,0,0,,It turns out that the relationship between them is so deep
 Dialogue: 0,00:11:26.85,00:11:29.61,Default,,0,0,0,,Alas, Oli hasn’t come back for so long
 Dialogue: 0,00:11:29.89,00:11:31.09,Default,,0,0,0,,I’ll come again tomorrow
-Dialogue: 0,00:12:08.69,00:12:09.65,Default,,0,0,0,,I believe...
+Dialogue: 0,00:12:08.69,00:12:09.65,Default,,0,0,0,,I believe…
 Dialogue: 0,00:12:10.41,00:12:13.25,Default,,0,0,0,,We can definitely return to this kind of life

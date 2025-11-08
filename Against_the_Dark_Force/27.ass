@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:26.80,00:00:27.92,Default,,0,0,0,,There is a divine light there
-Dialogue: 0,00:00:34.68,00:00:36.01,Default,,0,0,0,,You can ask a...
+Dialogue: 0,00:00:34.68,00:00:36.01,Default,,0,0,0,,You can ask a…
 Dialogue: 0,00:00:36.04,00:00:38.84,Default,,0,0,0,,Where are the other trains in Quicksand Town?
 Dialogue: 0,00:00:39.04,00:00:40.64,Default,,0,0,0,,Markets in East have
 Dialogue: 0,00:00:44.47,00:00:45.76,Default,,0,0,0,,Very good
@@ -23,7 +23,7 @@ Dialogue: 0,00:00:46.04,00:00:47.64,Default,,0,0,0,,Then let’s go tight
 Dialogue: 0,00:00:50.15,00:00:52.00,Default,,0,0,0,,I won’t let you succeed
 Dialogue: 0,00:00:52.88,00:00:53.84,Default,,0,0,0,,Flame Fist
 Dialogue: 0,00:00:59.36,00:01:00.28,Default,,0,0,0,,Hurricane Blade
-Dialogue: 0,00:01:06.12,00:01:08.00,Default,,0,0,0,,Cough cough cough...
+Dialogue: 0,00:01:06.12,00:01:08.00,Default,,0,0,0,,Cough cough cough…
 Dialogue: 0,00:01:09.36,00:01:11.36,Default,,0,0,0,,Sparky , don’t be slouch
 Dialogue: 0,00:01:12.16,00:01:14.52,Default,,0,0,0,,Forget it, they are not easy to deal with if they have too many people
 Dialogue: 0,00:01:14.88,00:01:16.84,Default,,0,0,0,,And fighting will make you sweat
@@ -48,7 +48,7 @@ Dialogue: 0,00:02:33.20,00:02:34.91,Default,,0,0,0,,But the most proud
 Dialogue: 0,00:02:37.20,00:02:38.04,Default,,0,0,0,,Nonsense
 Dialogue: 0,00:02:47.91,00:02:49.44,Default,,0,0,0,,Just take it clean and eat it
 Dialogue: 0,00:02:51.52,00:02:54.24,Default,,0,0,0,,The previous Sparky  would not care about these details
-Dialogue: 0,00:02:56.16,00:02:57.84,Default,,0,0,0,,How is this possible...
+Dialogue: 0,00:02:56.16,00:02:57.84,Default,,0,0,0,,How is this possible…
 Dialogue: 0,00:03:03.16,00:03:05.36,Default,,0,0,0,,Sparky , please help me
 Dialogue: 0,00:03:09.63,00:03:12.60,Default,,0,0,0,,If you don’t have a tent, you’ll sleep in the sand tonight
 Dialogue: 0,00:03:22.76,00:03:24.20,Default,,0,0,0,,My hand is broken
@@ -56,7 +56,7 @@ Dialogue: 0,00:03:24.40,00:03:26.56,Default,,0,0,0,,Where do you look? Where do 
 Dialogue: 0,00:03:28.96,00:03:31.32,Default,,0,0,0,,What’s the matter with this little injury
 Dialogue: 0,00:03:31.84,00:03:35.04,Default,,0,0,0,,In the past, Sparky  could be treated coldly when injured.
 Dialogue: 0,00:03:36.72,00:03:38.24,Default,,0,0,0,,Very strong!
-Dialogue: 0,00:03:42.32,00:03:43.68,Default,,0,0,0,,Still hurts...
+Dialogue: 0,00:03:42.32,00:03:43.68,Default,,0,0,0,,Still hurts…
 Dialogue: 0,00:03:52.56,00:03:54.32,Default,,0,0,0,,The opportunity to escape is here
 Dialogue: 0,00:04:01.64,00:04:04.32,Default,,0,0,0,,Oh no, I forgot which direction
 Dialogue: 0,00:04:07.48,00:04:08.92,Default,,0,0,0,,Great, it’s a divine light
@@ -65,11 +65,11 @@ Dialogue: 0,00:04:19.76,00:04:21.20,Default,,0,0,0,,In the northwest
 Dialogue: 0,00:04:22.48,00:04:23.76,Default,,0,0,0,,Where is the northwest
 Dialogue: 0,00:04:24.60,00:04:26.44,Default,,0,0,0,,I only answer one question
 Dialogue: 0,00:04:36.04,00:04:36.92,Default,,0,0,0,,There
-Dialogue: 0,00:04:42.83,00:04:46.08,Default,,0,0,0,,Sparky where do you want to go again...
+Dialogue: 0,00:04:42.83,00:04:46.08,Default,,0,0,0,,Sparky where do you want to go again…
 Dialogue: 0,00:05:22.40,00:05:23.68,Default,,0,0,0,,I’ll leave first
 Dialogue: 0,00:05:48.64,00:05:51.36,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:01.36,00:06:04.24,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:04.88,00:06:06.52,Default,,0,0,0,,Look at you and see...
+Dialogue: 0,00:06:04.88,00:06:06.52,Default,,0,0,0,,Look at you and see…
 Dialogue: 0,00:06:06.56,00:06:08.00,Default,,0,0,0,,It’s all you hurt
 Dialogue: 0,00:06:08.72,00:06:11.16,Default,,0,0,0,,It makes me unable to eat or sleep well
 Dialogue: 0,00:06:11.64,00:06:12.68,Default,,0,0,0,,All are allergic
@@ -78,7 +78,7 @@ Dialogue: 0,00:06:21.80,00:06:23.12,Default,,0,0,0,,Very dirty
 Dialogue: 0,00:06:24.16,00:06:26.01,Default,,0,0,0,,snort! It’s all your fault!
 Dialogue: 0,00:06:26.04,00:06:27.76,Default,,0,0,0,,If you run away, run away
 Dialogue: 0,00:06:29.04,00:06:31.40,Default,,0,0,0,,What are you doing with me, the villain
-Dialogue: 0,00:06:35.96,00:06:40.45,Default,,0,0,0,,So dirty...
+Dialogue: 0,00:06:35.96,00:06:40.45,Default,,0,0,0,,So dirty…
 Dialogue: 0,00:06:40.48,00:06:44.36,Default,,0,0,0,,It’s okay. Commonly used mud mask for red strengths
 Dialogue: 0,00:06:44.68,00:06:45.73,Default,,0,0,0,,You’re also confused
 Dialogue: 0,00:06:45.76,00:06:48.24,Default,,0,0,0,,Maybe you can beautify and nourish
@@ -108,7 +108,7 @@ Dialogue: 0,00:08:24.04,00:08:27.32,Default,,0,0,0,,I searched for three days an
 Dialogue: 0,00:08:29.20,00:08:30.44,Default,,0,0,0,,I want it all
 Dialogue: 0,00:08:33.88,00:08:35.33,Default,,0,0,0,,ah…
 Dialogue: 0,00:08:35.36,00:08:37.24,Default,,0,0,0,,Sparky stop!
-Dialogue: 0,00:08:57.00,00:08:58.28,Default,,0,0,0,,So tired...
+Dialogue: 0,00:08:57.00,00:08:58.28,Default,,0,0,0,,So tired…
 Dialogue: 0,00:08:59.40,00:09:03.04,Default,,0,0,0,,But why does it feel light and fast
 Dialogue: 0,00:09:04.24,00:09:07.36,Default,,0,0,0,,It seems like I have never been here
 Dialogue: 0,00:09:08.76,00:09:10.28,Default,,0,0,0,,Stop me!
@@ -117,9 +117,9 @@ Dialogue: 0,00:09:27.55,00:09:29.44,Default,,0,0,0,,you! Go and fetch me a basin
 Dialogue: 0,00:09:29.96,00:09:32.60,Default,,0,0,0,,you! Go and catch me the goat and wolf behind me!
 Dialogue: 0,00:09:34.00,00:09:36.52,Default,,0,0,0,,Who is this person? Dirty
 Dialogue: 0,00:09:37.16,00:09:37.84,Default,,0,0,0,,Don’t recognize
-Dialogue: 0,00:09:38.64,00:09:40.48,Default,,0,0,0,,Go and go...whether one comes from
+Dialogue: 0,00:09:38.64,00:09:40.48,Default,,0,0,0,,Go and go…whether one comes from
 Dialogue: 0,00:09:44.00,00:09:45.16,Default,,0,0,0,,Flame Fist
-Dialogue: 0,00:09:46.60,00:09:48.84,Default,,0,0,0,,It turns out that it is Boiling... Boiling... Lord Sparky
+Dialogue: 0,00:09:46.60,00:09:48.84,Default,,0,0,0,,It turns out that it is Boiling… Boiling… Lord Sparky
 Dialogue: 0,00:09:49.76,00:09:52.64,Default,,0,0,0,,Lord Sparky, we didn’t mean it
 Dialogue: 0,00:10:02.04,00:10:02.49,Default,,0,0,0,,not good
 Dialogue: 0,00:10:02.52,00:10:04.04,Default,,0,0,0,,There are so many people in them. Run!
@@ -140,13 +140,13 @@ Dialogue: 0,00:10:57.48,00:10:58.52,Default,,0,0,0,,Let’s go with the team fir
 Dialogue: 0,00:11:13.76,00:11:15.12,Default,,0,0,0,,When did you not see it?
 Dialogue: 0,00:11:15.80,00:11:19.08,Default,,0,0,0,,Very good I’m becoming glorious again
 Dialogue: 0,00:11:31.55,00:11:33.52,Default,,0,0,0,,ah…
-Dialogue: 0,00:11:34.16,00:11:35.92,Default,,0,0,0,,How could this be...
-Dialogue: 0,00:11:37.44,00:11:39.44,Default,,0,0,0,,What to do...
+Dialogue: 0,00:11:34.16,00:11:35.92,Default,,0,0,0,,How could this be…
+Dialogue: 0,00:11:37.44,00:11:39.44,Default,,0,0,0,,What to do…
 Dialogue: 0,00:11:41.04,00:11:42.76,Default,,0,0,0,,Don’t worry, it’s okay
 Dialogue: 0,00:11:42.84,00:11:45.04,Default,,0,0,0,,Commonly used mud mask for red strength
 Dialogue: 0,00:11:45.32,00:11:46.76,Default,,0,0,0,,You’ll be confused, too
 Dialogue: 0,00:11:46.92,00:11:49.12,Default,,0,0,0,,Maybe you can beautify and nourish
-Dialogue: 0,00:11:50.52,00:11:51.40,Default,,0,0,0,,It’s hard to tell...
+Dialogue: 0,00:11:50.52,00:11:51.40,Default,,0,0,0,,It’s hard to tell…
 Dialogue: 0,00:11:56.24,00:11:57.85,Default,,0,0,0,,What happened to Lord Sparky?
 Dialogue: 0,00:11:57.88,00:11:59.84,Default,,0,0,0,,I’m afraid of sweating
 Dialogue: 0,00:12:00.00,00:12:01.48,Default,,0,0,0,,How could this be possible

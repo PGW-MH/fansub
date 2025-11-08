@@ -14,8 +14,8 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:20.02,00:00:21.30,Default,,0,0,0,,Fragments...
-Dialogue: 0,00:00:21.92,00:00:24.36,Default,,0,0,0,,Where will the Elephant Star Stone fragments be...
+Dialogue: 0,00:00:20.02,00:00:21.30,Default,,0,0,0,,Fragments…
+Dialogue: 0,00:00:21.92,00:00:24.36,Default,,0,0,0,,Where will the Elephant Star Stone fragments be…
 Dialogue: 0,00:00:25.68,00:00:26.48,Default,,0,0,0,,oops
 Dialogue: 0,00:00:28.35,00:00:30.23,Default,,0,0,0,,Tibbie, you’re fine
 Dialogue: 0,00:00:30.81,00:00:33.21,Default,,0,0,0,,Are you looking for fragments of Elephant Star Stone nearby?
@@ -55,7 +55,7 @@ Dialogue: 0,00:02:21.92,00:02:23.00,Default,,0,0,0,,You’re fine
 Dialogue: 0,00:02:23.72,00:02:25.24,Default,,0,0,0,,Look forward to your brother
 Dialogue: 0,00:02:26.20,00:02:28.04,Default,,0,0,0,,OK I’m sorry
 Dialogue: 0,00:02:29.32,00:02:31.64,Default,,0,0,0,,Sorry, I was too anxious
-Dialogue: 0,00:02:31.64,00:02:33.04,Default,,0,0,0,,By the way that uncle...
+Dialogue: 0,00:02:31.64,00:02:33.04,Default,,0,0,0,,By the way that uncle…
 Dialogue: 0,00:02:34.40,00:02:35.68,Default,,0,0,0,,Not good He’s on the car
 Dialogue: 0,00:02:36.56,00:02:38.24,Default,,0,0,0,,Wait a moment
 Dialogue: 0,00:02:38.24,00:02:40.24,Default,,0,0,0,,Don’t worry, I have a way
@@ -85,8 +85,8 @@ Dialogue: 0,00:04:07.07,00:04:07.96,Default,,0,0,0,,He’s there
 Dialogue: 0,00:04:09.24,00:04:10.68,Default,,0,0,0,,Uncle, please wait a moment
 Dialogue: 0,00:04:12.36,00:04:13.88,Default,,0,0,0,,Your box is dangerous
 Dialogue: 0,00:04:14.73,00:04:15.97,Default,,0,0,0,,danger?
-Dialogue: 0,00:04:32.52,00:04:33.76,Default,,0,0,0,,-Flashlight...
--Flashlight...
+Dialogue: 0,00:04:32.52,00:04:33.76,Default,,0,0,0,,-Flashlight…
+-Flashlight…
 Dialogue: 0,00:04:36.60,00:04:39.16,Default,,0,0,0,,Did you report that I just stepped on the pen?
 Dialogue: 0,00:04:41.48,00:04:43.63,Default,,0,0,0,,-Sorry, I’ll pack you up
 -Sorry, I’ll pack you up
@@ -96,7 +96,7 @@ Dialogue: 0,00:04:51.60,00:04:52.56,Default,,0,0,0,,What about my pen
 Dialogue: 0,00:04:53.56,00:04:55.92,Default,,0,0,0,,Did you accidentally fall off on the way?
 Dialogue: 0,00:04:56.48,00:04:57.80,Default,,0,0,0,,Go back and look for it first
 Dialogue: 0,00:05:06.12,00:05:07.28,Default,,0,0,0,,Where is it
-Dialogue: 0,00:05:21.72,00:05:22.56,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:05:21.72,00:05:22.56,Default,,0,0,0,,Tibbie…
 Dialogue: 0,00:05:23.40,00:05:24.60,Default,,0,0,0,,What’s up
 Dialogue: 0,00:05:25.68,00:05:27.20,Default,,0,0,0,,Tibbie You’ve changed
 Dialogue: 0,00:05:27.20,00:05:28.24,Default,,0,0,0,,ah?
@@ -109,23 +109,23 @@ Dialogue: 0,00:05:38.24,00:05:40.12,Default,,0,0,0,,Become a very bad beauty
 Dialogue: 0,00:05:43.20,00:05:44.60,Default,,0,0,0,,Let’s continue to search
 Dialogue: 0,00:05:47.04,00:05:48.80,Default,,0,0,0,,Alas, it’s really
 Dialogue: 0,00:05:48.80,00:05:52.48,Default,,0,0,0,,Do children nowadays need not go to work? Do they go to school?
-Dialogue: 0,00:05:55.88,00:05:57.96,Default,,0,0,0,,Huh? This is not...
+Dialogue: 0,00:05:55.88,00:05:57.96,Default,,0,0,0,,Huh? This is not…
 Dialogue: 0,00:05:57.96,00:05:59.80,Default,,0,0,0,,You stepped on me again
 Dialogue: 0,00:06:01.88,00:06:03.60,Default,,0,0,0,,Ah Help
 Dialogue: 0,00:06:04.52,00:06:05.76,Default,,0,0,0,,What happened
 Dialogue: 0,00:06:07.44,00:06:08.76,Default,,0,0,0,,Run quickly
 Dialogue: 0,00:06:08.76,00:06:10.08,Default,,0,0,0,,Run quickly
-Dialogue: 0,00:06:11.60,00:06:13.28,Default,,0,0,0,,Then...what is that
+Dialogue: 0,00:06:11.60,00:06:13.28,Default,,0,0,0,,Then…what is that
 Dialogue: 0,00:06:17.84,00:06:19.48,Default,,0,0,0,,What kind of monster is this
-Dialogue: 0,00:06:20.40,00:06:23.20,Default,,0,0,0,,You dirty me You dirty me...
+Dialogue: 0,00:06:20.40,00:06:23.20,Default,,0,0,0,,You dirty me You dirty me…
 Dialogue: 0,00:06:43.88,00:06:44.92,Default,,0,0,0,,ah
 Dialogue: 0,00:06:47.68,00:06:49.04,Default,,0,0,0,,Go away quickly
-Dialogue: 0,00:07:08.72,00:07:11.08,Default,,0,0,0,,Save me...
+Dialogue: 0,00:07:08.72,00:07:11.08,Default,,0,0,0,,Save me…
 Dialogue: 0,00:07:11.20,00:07:11.88,Default,,0,0,0,,what?
 Dialogue: 0,00:07:50.47,00:07:51.56,Default,,0,0,0,,What’s up
 Dialogue: 0,00:07:57.76,00:07:59.24,Default,,0,0,0,,You’re fine, Tibbie
 Dialogue: 0,00:07:59.60,00:08:00.60,Default,,0,0,0,,I’m fine
-Dialogue: 0,00:08:02.16,00:08:04.84,Default,,0,0,0,,I was careless just now. Sorry...
+Dialogue: 0,00:08:02.16,00:08:04.84,Default,,0,0,0,,I was careless just now. Sorry…
 Dialogue: 0,00:08:05.92,00:08:08.08,Default,,0,0,0,,I’ll keep giving you trouble today
 Dialogue: 0,00:08:08.08,00:08:09.60,Default,,0,0,0,,Boosting spirits to Weslie
 Dialogue: 0,00:08:09.88,00:08:11.35,Default,,0,0,0,,We haven’t yet
@@ -134,7 +134,7 @@ Dialogue: 0,00:08:15.47,00:08:16.12,Default,,0,0,0,,Right
 Dialogue: 0,00:08:16.12,00:08:19.20,Default,,0,0,0,,Why did that monster suddenly stop attacking?
 Dialogue: 0,00:08:19.92,00:08:21.32,Default,,0,0,0,,When talking to it
 Dialogue: 0,00:08:21.32,00:08:22.80,Default,,0,0,0,,I have a familiar feeling
-Dialogue: 0,00:08:23.28,00:08:26.00,Default,,0,0,0,,It...it should be the one I don’t see
+Dialogue: 0,00:08:23.28,00:08:26.00,Default,,0,0,0,,It…it should be the one I don’t see
 Dialogue: 0,00:08:26.72,00:08:27.76,Default,,0,0,0,,what?
 Dialogue: 0,00:08:28.44,00:08:30.08,Default,,0,0,0,,Let’s chase
 Dialogue: 0,00:08:35.40,00:08:37.04,Default,,0,0,0,,Dirty me
@@ -145,7 +145,7 @@ Dialogue: 0,00:08:56.44,00:08:57.60,Default,,0,0,0,,Come here
 Dialogue: 0,00:09:25.92,00:09:27.88,Default,,0,0,0,,Uncle, go to a safe place
 Dialogue: 0,00:09:31.44,00:09:33.76,Default,,0,0,0,,ah…
 Dialogue: 0,00:09:40.52,00:09:41.72,Default,,0,0,0,,Stop it quickly
-Dialogue: 0,00:09:54.08,00:09:55.32,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:09:54.08,00:09:55.32,Default,,0,0,0,,Tibbie…
 Dialogue: 0,00:09:55.32,00:09:56.68,Default,,0,0,0,,Let me come
 Dialogue: 0,00:09:59.68,00:10:01.92,Default,,0,0,0,,I’m Tibbie, do you still remember me?
 Dialogue: 0,00:10:09.60,00:10:12.16,Default,,0,0,0,,It’s okay, look clean
@@ -157,14 +157,14 @@ Dialogue: 0,00:10:24.40,00:10:26.16,Default,,0,0,0,,Regardless of what you becom
 Dialogue: 0,00:10:26.16,00:10:28.47,Default,,0,0,0,,I will always guard you with my heart
 Dialogue: 0,00:10:30.16,00:10:32.40,Default,,0,0,0,,You’re still willing to stay with me
 Dialogue: 0,00:10:32.40,00:10:34.96,Default,,0,0,0,,Have you seen more important moments together?
-Dialogue: 0,00:10:38.88,00:10:41.00,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:10:38.88,00:10:41.00,Default,,0,0,0,,Tibbie…
 Dialogue: 0,00:10:42.20,00:10:44.96,Default,,0,0,0,,Do you want to change back and stay with me?
 Dialogue: 0,00:10:45.68,00:10:46.92,Default,,0,0,0,,Um
 Dialogue: 0,00:10:57.64,00:10:59.00,Default,,0,0,0,,Success
 Dialogue: 0,00:11:07.44,00:11:10.92,Default,,0,0,0,,Great, there is another card collected
 Dialogue: 0,00:11:10.92,00:11:13.16,Default,,0,0,0,,It seems that it will be gathering soon
 Dialogue: 0,00:11:13.84,00:11:17.20,Default,,0,0,0,,We should have a big treat
-Dialogue: 0,00:11:17.20,00:11:18.92,Default,,0,0,0,,You know how to eat...
+Dialogue: 0,00:11:17.20,00:11:18.92,Default,,0,0,0,,You know how to eat…
 Dialogue: 0,00:11:19.44,00:11:21.52,Default,,0,0,0,,In fact, this time it’s all up to Tibbie
 Dialogue: 0,00:11:21.60,00:11:23.52,Default,,0,0,0,,Only so conveniently collected
 Dialogue: 0,00:11:24.28,00:11:25.40,Default,,0,0,0,,It’s weird

@@ -17,8 +17,8 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:24.29,00:00:26.77,Default,,0,0,0,,Big Wolf Where are you
 Dialogue: 0,00:00:39.25,00:00:41.69,Default,,0,0,0,,Hello, what’s wrong My cute little gray
 Dialogue: 0,00:00:42.81,00:00:43.69,Default,,0,0,0,,Red
-Dialogue: 0,00:00:49.29,00:00:51.85,Default,,0,0,0,,I’m back...
-Dialogue: 0,00:00:59.81,00:01:01.45,Default,,0,0,0,,Gray...Grey Wolf
+Dialogue: 0,00:00:49.29,00:00:51.85,Default,,0,0,0,,I’m back…
+Dialogue: 0,00:00:59.81,00:01:01.45,Default,,0,0,0,,Gray…Grey Wolf
 Dialogue: 0,00:01:04.49,00:01:06.73,Default,,0,0,0,,Red Red Where are you now
 Dialogue: 0,00:01:11.13,00:01:13.01,Default,,0,0,0,,When will you come back
 Dialogue: 0,00:01:14.05,00:01:16.53,Default,,0,0,0,,Red Red Why don’t you talk anymore
@@ -26,7 +26,7 @@ Dialogue: 0,00:01:17.65,00:01:18.85,Default,,0,0,0,,You’re back
 Dialogue: 0,00:01:20.17,00:01:22.45,Default,,0,0,0,,Yes, I’m back
 Dialogue: 0,00:01:25.33,00:01:26.29,Default,,0,0,0,,Very good
 Dialogue: 0,00:01:28.25,00:01:31.53,Default,,0,0,0,,Fifteen years, you’re still the same
-Dialogue: 0,00:01:31.93,00:01:33.73,Default,,0,0,0,,Uh this...
+Dialogue: 0,00:01:31.93,00:01:33.73,Default,,0,0,0,,Uh this…
 Dialogue: 0,00:01:34.37,00:01:36.17,Default,,0,0,0,,Mom Sorry
 Dialogue: 0,00:01:36.53,00:01:38.23,Default,,0,0,0,,I’ve been ignoring
 Dialogue: 0,00:01:38.25,00:01:40.57,Default,,0,0,0,,I didn’t tell you about my father’s return
@@ -44,7 +44,7 @@ Dialogue: 0,00:02:24.69,00:02:25.81,Default,,0,0,0,,elder brother
 Dialogue: 0,00:02:27.61,00:02:29.81,Default,,0,0,0,,This time, no mistakes are allowed
 Dialogue: 0,00:02:36.13,00:02:36.85,Default,,0,0,0,,Black Diamond
 Dialogue: 0,00:02:39.53,00:02:41.85,Default,,0,0,0,,Brother, don’t leave
-Dialogue: 0,00:03:00.33,00:03:01.25,Default,,0,0,0,,It’s too late...
+Dialogue: 0,00:03:00.33,00:03:01.25,Default,,0,0,0,,It’s too late…
 Dialogue: 0,00:03:04.17,00:03:05.29,Default,,0,0,0,,Can be vulnerable
 Dialogue: 0,00:03:21.57,00:03:24.69,Default,,0,0,0,,Is it a spear or a shield or a shield?
 Dialogue: 0,00:03:24.93,00:03:26.85,Default,,0,0,0,,Humph, it’s still necessary to say
@@ -57,10 +57,10 @@ Dialogue: 0,00:03:37.65,00:03:38.65,Default,,0,0,0,,Spear damage
 Dialogue: 0,00:03:38.73,00:03:39.61,Default,,0,0,0,,Shield damage
 Dialogue: 0,00:03:39.93,00:03:40.73,Default,,0,0,0,,Spear damage
 Dialogue: 0,00:03:41.05,00:03:41.63,Default,,0,0,0,,Shield damage
-Dialogue: 0,00:03:41.65,00:03:45.23,Default,,0,0,0,,- The spear is...
+Dialogue: 0,00:03:41.65,00:03:45.23,Default,,0,0,0,,- The spear is…
 - Shield damage
 Dialogue: 0,00:03:45.25,00:03:48.05,Default,,0,0,0,,Hello, the museum is about to close. You leave quickly
-Dialogue: 0,00:03:50.09,00:03:52.47,Default,,0,0,0,,- The spear is...
+Dialogue: 0,00:03:50.09,00:03:52.47,Default,,0,0,0,,- The spear is…
 - Shield damage
 Dialogue: 0,00:03:52.49,00:03:53.65,Default,,0,0,0,,Spear Spear
 Dialogue: 0,00:03:58.69,00:04:01.93,Default,,0,0,0,,Who is more harmful
@@ -131,7 +131,7 @@ Dialogue: 0,00:08:35.73,00:08:37.13,Default,,0,0,0,,what…
 Dialogue: 0,00:08:38.57,00:08:39.71,Default,,0,0,0,,Good attack power
 Dialogue: 0,00:08:39.73,00:08:41.41,Default,,0,0,0,,But the defense is too bad
 Dialogue: 0,00:08:41.89,00:08:44.65,Default,,0,0,0,,Then I will crush you with attack
-Dialogue: 0,00:08:47.53,00:08:48.43,Default,,0,0,0,,That’s it...
+Dialogue: 0,00:08:47.53,00:08:48.43,Default,,0,0,0,,That’s it…
 Dialogue: 0,00:08:48.45,00:08:50.77,Default,,0,0,0,,I only know how to avoid it. What a master
 Dialogue: 0,00:08:52.77,00:08:53.71,Default,,0,0,0,,Solve you in one blow
 Dialogue: 0,00:08:53.73,00:08:54.99,Default,,0,0,0,,Fewer look down on people
@@ -143,7 +143,7 @@ Dialogue: 0,00:09:11.45,00:09:13.49,Default,,0,0,0,,Take me with all my strength
 Dialogue: 0,00:09:16.77,00:09:18.93,Default,,0,0,0,,ah…
 Dialogue: 0,00:09:21.69,00:09:23.37,Default,,0,0,0,,Small tricks of carving
 Dialogue: 0,00:09:24.89,00:09:26.41,Default,,0,0,0,,It’s my brother’s voice
-Dialogue: 0,00:09:35.97,00:09:37.09,Default,,0,0,0,,Light rain...
+Dialogue: 0,00:09:35.97,00:09:37.09,Default,,0,0,0,,Light rain…
 Dialogue: 0,00:09:38.89,00:09:39.93,Default,,0,0,0,,Stupid
 Dialogue: 0,00:09:49.61,00:09:50.65,Default,,0,0,0,,elder brother
 Dialogue: 0,00:09:52.97,00:09:54.43,Default,,0,0,0,,Gloves reacted
@@ -164,7 +164,7 @@ Dialogue: 0,00:10:44.37,00:10:46.85,Default,,0,0,0,,I just don’t want to make 
 Dialogue: 0,00:10:50.21,00:10:50.93,Default,,0,0,0,,What are you doing
 Dialogue: 0,00:10:52.69,00:10:53.95,Default,,0,0,0,,I didn’t expect to do my best
 Dialogue: 0,00:10:53.97,00:10:55.85,Default,,0,0,0,,Flying us all so far
-Dialogue: 0,00:10:56.73,00:10:57.25,Default,,0,0,0,,That’s...
+Dialogue: 0,00:10:56.73,00:10:57.25,Default,,0,0,0,,That’s…
 Dialogue: 0,00:10:58.61,00:10:59.91,Default,,0,0,0,,Hum, wait for me
 Dialogue: 0,00:10:59.93,00:11:02.77,Default,,0,0,0,,This time you must let you know that I am the most harmful
 Dialogue: 0,00:11:03.61,00:11:04.85,Default,,0,0,0,,Found you
@@ -183,7 +183,7 @@ Dialogue: 0,00:11:43.73,00:11:44.65,Default,,0,0,0,,and
 Dialogue: 0,00:11:45.77,00:11:48.13,Default,,0,0,0,,If you can collect the fragments quickly
 Dialogue: 0,00:11:48.41,00:11:52.25,Default,,0,0,0,,I’ll go back 15 years ago soon
 Dialogue: 0,00:12:05.29,00:12:09.45,Default,,0,0,0,,This is…as a husband and a father’s responsibility
-Dialogue: 0,00:12:12.01,00:12:12.61,Default,,0,0,0,,etc.
-Dialogue: 0,00:12:13.57,00:12:16.17,Default,,0,0,0,,That... this time
+Dialogue: 0,00:12:12.01,00:12:12.61,Default,,0,0,0,,Wait a minute.
+Dialogue: 0,00:12:13.57,00:12:16.17,Default,,0,0,0,,That… this time
 Dialogue: 0,00:12:17.21,00:12:20.05,Default,,0,0,0,,No matter what, I’ll go with you
 Dialogue: 0,00:12:25.73,00:12:29.53,Default,,0,0,0,,OK, we are going to be the father and son soldiers

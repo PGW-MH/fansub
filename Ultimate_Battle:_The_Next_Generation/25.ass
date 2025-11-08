@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:19.85,00:00:20.65,Default,,0,0,0,,Who am I...
+Dialogue: 0,00:00:19.85,00:00:20.65,Default,,0,0,0,,Who am I…
 Dialogue: 0,00:00:21.53,00:00:25.01,Default,,0,0,0,,You are Xiaoxin, we are friends
 Dialogue: 0,00:00:30.57,00:00:31.93,Default,,0,0,0,,Catch the traitor
 Dialogue: 0,00:00:33.73,00:00:37.01,Default,,0,0,0,,Xiaoxin I won’t let them catch you
@@ -30,9 +30,9 @@ Dialogue: 0,00:01:39.81,00:01:41.81,Default,,0,0,0,,OK, not seriously injured
 Dialogue: 0,00:01:43.33,00:01:44.29,Default,,0,0,0,,That’s good
 Dialogue: 0,00:01:44.65,00:01:45.71,Default,,0,0,0,,That village chief…
 Dialogue: 0,00:01:45.73,00:01:48.57,Default,,0,0,0,,Can you restore Xiaoxin to her original appearance?
-Dialogue: 0,00:01:49.01,00:01:52.15,Default,,0,0,0,,The body is not good, but the memory...
+Dialogue: 0,00:01:49.01,00:01:52.15,Default,,0,0,0,,The body is not good, but the memory…
 Dialogue: 0,00:01:52.17,00:01:55.09,Default,,0,0,0,,Maybe under certain circumstances
-Dialogue: 0,00:01:55.29,00:01:57.09,Default,,0,0,0,,Under a certain situation...
+Dialogue: 0,00:01:55.29,00:01:57.09,Default,,0,0,0,,Under a certain situation…
 Dialogue: 0,00:01:59.05,00:02:01.77,Default,,0,0,0,,At that time, Hei Diao put a danger on Xiaoyu.
 Dialogue: 0,00:02:05.53,00:02:08.25,Default,,0,0,0,,Finally, Black Diamond even recognized the rain
 Dialogue: 0,00:02:09.37,00:02:11.11,Default,,0,0,0,,Then I can try it too
@@ -51,7 +51,7 @@ Dialogue: 0,00:02:39.17,00:02:41.65,Default,,0,0,0,,Yes, thank you for your Tibb
 Dialogue: 0,00:02:43.61,00:02:45.05,Default,,0,0,0,,Then we’ll go back first
 Dialogue: 0,00:02:45.97,00:02:47.69,Default,,0,0,0,,OK See you tomorrow
 Dialogue: 0,00:02:51.49,00:02:53.33,Default,,0,0,0,,Xiaoxin You’re awake
-Dialogue: 0,00:02:54.77,00:02:57.05,Default,,0,0,0,,Am I... Xiaoxin?
+Dialogue: 0,00:02:54.77,00:02:57.05,Default,,0,0,0,,Am I… Xiaoxin?
 Dialogue: 0,00:02:58.37,00:03:01.05,Default,,0,0,0,,Xiao Xin This is my diary of that year
 Dialogue: 0,00:03:01.41,00:03:04.97,Default,,0,0,0,,You’ll see it later, maybe there will be an answer
 Dialogue: 0,00:03:24.65,00:03:26.77,Default,,0,0,0,,Ha, Nuanyang, look
@@ -84,8 +84,8 @@ Dialogue: 0,00:05:01.61,00:05:03.89,Default,,0,0,0,,It was just a sudden thought
 Dialogue: 0,00:05:05.09,00:05:06.05,Default,,0,0,0,,Don’t be anxious
 Dialogue: 0,00:05:07.01,00:05:09.77,Default,,0,0,0,,Let’s continue reading the diary and slowly recall it
 Dialogue: 0,00:05:10.21,00:05:10.61,Default,,0,0,0,,Um
-Dialogue: 0,00:05:13.73,00:05:17.13,Default,,0,0,0,,- Oops, no good...
-- Help...
+Dialogue: 0,00:05:13.73,00:05:17.13,Default,,0,0,0,,- Oops, no good…
+- Help…
 Dialogue: 0,00:05:19.53,00:05:20.61,Default,,0,0,0,,There are monsters appearing
 Dialogue: 0,00:05:20.97,00:05:22.57,Default,,0,0,0,,Warm Yangyang, come soon
 Dialogue: 0,00:05:23.73,00:05:24.33,Default,,0,0,0,,good
@@ -94,12 +94,12 @@ Dialogue: 0,00:05:28.69,00:05:29.89,Default,,0,0,0,,I’ll go back
 Dialogue: 0,00:05:35.37,00:05:37.37,Default,,0,0,0,,It must be the monster yesterday again
 Dialogue: 0,00:05:37.97,00:05:38.53,Default,,0,0,0,,careful
 Dialogue: 0,00:05:43.45,00:05:46.01,Default,,0,0,0,,We can’t find where it is
-Dialogue: 0,00:05:51.49,00:05:52.73,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:05:51.49,00:05:52.73,Default,,0,0,0,,Jonie…
 Dialogue: 0,00:05:53.81,00:05:55.49,Default,,0,0,0,,Don’t know the trace of the monster
 Dialogue: 0,00:05:55.97,00:05:57.57,Default,,0,0,0,,Still can’t catch it
 Dialogue: 0,00:06:01.73,00:06:03.69,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:15.17,00:06:18.77,Default,,0,0,0,,Water … I can say this method can
-Dialogue: 0,00:06:32.29,00:06:33.91,Default,,0,0,0,,ah...
+Dialogue: 0,00:06:32.29,00:06:33.91,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:33.93,00:06:37.01,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:39.05,00:06:40.81,Default,,0,0,0,,ah…
 Dialogue: 0,00:06:43.81,00:06:44.73,Default,,0,0,0,,disgusting
@@ -109,7 +109,7 @@ Dialogue: 0,00:06:53.97,00:06:56.09,Default,,0,0,0,,Hum, I won’t play with you
 Dialogue: 0,00:06:57.37,00:06:59.37,Default,,0,0,0,,It’s fine to see what’s going on
 Dialogue: 0,00:07:00.69,00:07:01.81,Default,,0,0,0,,Don’t run
 Dialogue: 0,00:07:15.65,00:07:17.97,Default,,0,0,0,,What other tricks do you have besides being invisible?
-Dialogue: 0,00:07:31.33,00:07:32.73,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:07:31.33,00:07:32.73,Default,,0,0,0,,Jonie…
 Dialogue: 0,00:07:33.93,00:07:35.43,Default,,0,0,0,,Hahahahaha
 Dialogue: 0,00:07:35.45,00:07:37.93,Default,,0,0,0,,Your friends are in my hands
 Dialogue: 0,00:07:38.21,00:07:40.01,Default,,0,0,0,,See how you deal with me
@@ -136,7 +136,7 @@ Dialogue: 0,00:08:52.37,00:08:54.05,Default,,0,0,0,,See who will arrive first
 Dialogue: 0,00:08:55.57,00:08:58.49,Default,,0,0,0,,Don’t hurt the Hot Goat
 Dialogue: 0,00:09:00.97,00:09:01.73,Default,,0,0,0,,2…
 Dialogue: 0,00:09:06.77,00:09:09.45,Default,,0,0,0,,Ah, you’re cheating me
-Dialogue: 0,00:09:11.17,00:09:12.49,Default,,0,0,0,,Jonie...
+Dialogue: 0,00:09:11.17,00:09:12.49,Default,,0,0,0,,Jonie…
 Dialogue: 0,00:09:20.29,00:09:21.49,Default,,0,0,0,,Jonie
 Dialogue: 0,00:09:26.73,00:09:28.61,Default,,0,0,0,,You’re OK with the Jonie
 Dialogue: 0,00:09:29.05,00:09:30.29,Default,,0,0,0,,I’m fine
@@ -161,10 +161,10 @@ Dialogue: 0,00:10:26.01,00:10:27.13,Default,,0,0,0,,Are you kind?
 Dialogue: 0,00:10:27.81,00:10:30.81,Default,,0,0,0,,The doctor saved me at my most difficult time
 Dialogue: 0,00:10:33.49,00:10:35.01,Default,,0,0,0,,So no matter what
 Dialogue: 0,00:10:35.25,00:10:37.33,Default,,0,0,0,,I won’t betray the Doctor
-Dialogue: 0,00:10:40.25,00:10:41.45,Default,,0,0,0,,Is this the case?...
+Dialogue: 0,00:10:40.25,00:10:41.45,Default,,0,0,0,,Is this the case?…
 Dialogue: 0,00:10:42.17,00:10:45.17,Default,,0,0,0,,But if the doctor wants me to hurt you
 Dialogue: 0,00:10:45.37,00:10:47.01,Default,,0,0,0,,I can’t do it, either
-Dialogue: 0,00:10:47.53,00:10:48.89,Default,,0,0,0,,So sorry...
+Dialogue: 0,00:10:47.53,00:10:48.89,Default,,0,0,0,,So sorry…
 Dialogue: 0,00:10:51.17,00:10:52.81,Default,,0,0,0,,It seems we are too anxious
 Dialogue: 0,00:10:55.25,00:10:56.37,Default,,0,0,0,,Wait one day
 Dialogue: 0,00:10:56.73,00:11:00.37,Default,,0,0,0,,Xiaoxin knows how serious the things a mysterious person does
@@ -191,6 +191,6 @@ Dialogue: 0,00:12:09.29,00:12:10.89,Default,,0,0,0,,I’ll do it again if I don�
 Dialogue: 0,00:12:11.85,00:12:13.77,Default,,0,0,0,,Huh? Where is the village chief
 Dialogue: 0,00:12:14.45,00:12:17.45,Default,,0,0,0,,Oh, he just said he had to be busy with something
 Dialogue: 0,00:12:17.81,00:12:19.33,Default,,0,0,0,,I’ve sent him
-Dialogue: 0,00:12:20.09,00:12:22.61,Default,,0,0,0,,How do I feel a little silly...
+Dialogue: 0,00:12:20.09,00:12:22.61,Default,,0,0,0,,How do I feel a little silly…
 Dialogue: 0,00:12:26.05,00:12:27.53,Default,,0,0,0,,I also…
 Dialogue: 0,00:12:31.37,00:12:32.85,Default,,0,0,0,,Xiao Xin…

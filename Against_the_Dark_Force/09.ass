@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:23.33,00:00:24.49,Default,,0,0,0,,Oh, Haitaro
-Dialogue: 0,00:00:25.45,00:00:29.25,Default,,0,0,0,,Wolffy Big Wolffy Wolffy...
+Dialogue: 0,00:00:25.45,00:00:29.25,Default,,0,0,0,,Wolffy Big Wolffy Wolffy…
 Dialogue: 0,00:00:30.37,00:00:31.49,Default,,0,0,0,,What sound is it
 Dialogue: 0,00:00:35.85,00:00:36.85,Default,,0,0,0,,Someone has come
 Dialogue: 0,00:00:41.29,00:00:42.57,Default,,0,0,0,,What arguing
@@ -31,7 +31,7 @@ Dialogue: 0,00:01:15.61,00:01:16.61,Default,,0,0,0,,Not safe
 Dialogue: 0,00:01:17.49,00:01:19.85,Default,,0,0,0,,Then please show the certificate of Lord Tibbie
 Dialogue: 0,00:01:20.21,00:01:21.09,Default,,0,0,0,,Prove
 Dialogue: 0,00:01:21.45,00:01:24.41,Default,,0,0,0,,You must have a certificate to release someone according to the rules
-Dialogue: 0,00:01:25.13,00:01:28.05,Default,,0,0,0,,That’s how I’ll look for...
+Dialogue: 0,00:01:25.13,00:01:28.05,Default,,0,0,0,,That’s how I’ll look for…
 Dialogue: 0,00:01:30.97,00:01:32.83,Default,,0,0,0,,Tibbie You’re here
 Dialogue: 0,00:01:32.85,00:01:33.37,Default,,0,0,0,,grown ups…
 Dialogue: 0,00:01:38.49,00:01:39.85,Default,,0,0,0,,- Success
@@ -50,7 +50,7 @@ Dialogue: 0,00:02:16.65,00:02:17.73,Default,,0,0,0,,Wolffy is here
 Dialogue: 0,00:02:18.45,00:02:20.21,Default,,0,0,0,,Wolffy? Where is he
 Dialogue: 0,00:02:20.89,00:02:22.09,Default,,0,0,0,,he…
 Dialogue: 0,00:02:25.65,00:02:27.77,Default,,0,0,0,,This matter cannot be told to Tibbie
-Dialogue: 0,00:02:28.49,00:02:31.29,Default,,0,0,0,,Of course he...he was beaten away by me
+Dialogue: 0,00:02:28.49,00:02:31.29,Default,,0,0,0,,Of course he…he was beaten away by me
 Dialogue: 0,00:02:32.45,00:02:33.37,Default,,0,0,0,,Killed away
 Dialogue: 0,00:02:33.85,00:02:34.95,Default,,0,0,0,,Of course
 Dialogue: 0,00:02:34.97,00:02:37.51,Default,,0,0,0,,But he might be going to prison to save people
@@ -65,20 +65,20 @@ Dialogue: 0,00:02:52.29,00:02:52.77,Default,,0,0,0,,Go quickly!
 Dialogue: 0,00:02:53.21,00:02:54.05,Default,,0,0,0,,Meow
 Dialogue: 0,00:03:08.45,00:03:11.05,Default,,0,0,0,,What’s going on? He doesn’t have a key?
 Dialogue: 0,00:03:13.89,00:03:16.73,Default,,0,0,0,,Don’t worry, I’ll dig the tunnel to save you from
-Dialogue: 0,00:03:18.65,00:03:19.65,Default,,0,0,0,,Don’t...
+Dialogue: 0,00:03:18.65,00:03:19.65,Default,,0,0,0,,Don’t…
 Dialogue: 0,00:03:21.13,00:03:21.91,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:21.93,00:03:24.17,Default,,0,0,0,,- ah…
 - This underground car is a golden stone
 Dialogue: 0,00:03:24.53,00:03:26.65,Default,,0,0,0,,We’ve tried all the methods
 Dialogue: 0,00:03:26.89,00:03:28.61,Default,,0,0,0,,Only use keys to open the door
-Dialogue: 0,00:03:29.09,00:03:30.65,Default,,0,0,0,,Oh...my claws...
+Dialogue: 0,00:03:29.09,00:03:30.65,Default,,0,0,0,,Oh…my claws…
 Dialogue: 0,00:03:34.41,00:03:35.93,Default,,0,0,0,,Someone is coming again
 Dialogue: 0,00:03:38.77,00:03:39.85,Default,,0,0,0,,Tibbie!
 Dialogue: 0,00:03:40.57,00:03:43.45,Default,,0,0,0,,By the way, she might have a key
 Dialogue: 0,00:03:57.45,00:03:58.25,Default,,0,0,0,,What about the soldiers
 Dialogue: 0,00:03:58.69,00:03:59.49,Default,,0,0,0,,I’m here
 Dialogue: 0,00:04:04.01,00:04:05.49,Default,,0,0,0,,Did Wolffy come here?
-Dialogue: 0,00:04:07.01,00:04:08.45,Default,,0,0,0,,No...no
+Dialogue: 0,00:04:07.01,00:04:08.45,Default,,0,0,0,,No…no
 Dialogue: 0,00:04:08.69,00:04:10.69,Default,,0,0,0,,It’s Lord Sparky
 Dialogue: 0,00:04:11.25,00:04:14.89,Default,,0,0,0,,After drinking a cup of tea here, he said he wanted to go back
 Dialogue: 0,00:04:15.45,00:04:16.21,Default,,0,0,0,,go back?
@@ -123,13 +123,13 @@ Dialogue: 0,00:07:15.21,00:07:16.41,Default,,0,0,0,,It’s a Tibbie
 Dialogue: 0,00:07:17.05,00:07:18.49,Default,,0,0,0,,Stop watching, run
 Dialogue: 0,00:07:21.33,00:07:23.37,Default,,0,0,0,,Ah, the door was closed
 Dialogue: 0,00:07:27.69,00:07:29.17,Default,,0,0,0,,Oops, it’s been surrounded
-Dialogue: 0,00:07:54.25,00:07:56.89,Default,,0,0,0,,Paddi...
+Dialogue: 0,00:07:54.25,00:07:56.89,Default,,0,0,0,,Paddi…
 Dialogue: 0,00:08:00.45,00:08:01.09,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:08:12.77,00:08:14.21,Default,,0,0,0,,Didn’t he even get back?
 Dialogue: 0,00:08:18.97,00:08:21.97,Default,,0,0,0,,How could I do anything to Tibbie?
 Dialogue: 0,00:08:23.37,00:08:23.97,Default,,0,0,0,,what?
 Dialogue: 0,00:08:24.93,00:08:25.49,Default,,0,0,0,,careful
-Dialogue: 0,00:08:47.45,00:08:49.21,Default,,0,0,0,,For...why should I save me?
+Dialogue: 0,00:08:47.45,00:08:49.21,Default,,0,0,0,,For…why should I save me?
 Dialogue: 0,00:08:51.33,00:08:52.89,Default,,0,0,0,,What are you talking about
 Dialogue: 0,00:08:54.53,00:08:56.37,Default,,0,0,0,,When a good friend encounters danger
 Dialogue: 0,00:08:56.57,00:08:58.81,Default,,0,0,0,,Even if you change it, you will do it
@@ -140,9 +140,9 @@ Dialogue: 0,00:09:08.17,00:09:10.65,Default,,0,0,0,,Tibbie who has been taking c
 Dialogue: 0,00:09:10.89,00:09:12.73,Default,,0,0,0,,Please remember it quickly
 Dialogue: 0,00:09:14.45,00:09:16.37,Default,,0,0,0,,We’ve always been good friends
 Dialogue: 0,00:09:21.69,00:09:22.97,Default,,0,0,0,,Paddi
-Dialogue: 0,00:09:33.21,00:09:34.85,Default,,0,0,0,,I...I remembered
+Dialogue: 0,00:09:33.21,00:09:34.85,Default,,0,0,0,,I…I remembered
 Dialogue: 0,00:09:37.89,00:09:39.65,Default,,0,0,0,,I remembered it all
-Dialogue: 0,00:09:41.01,00:09:41.77,Default,,0,0,0,,Tibbie...
+Dialogue: 0,00:09:41.01,00:09:41.77,Default,,0,0,0,,Tibbie…
 Dialogue: 0,00:09:44.65,00:09:46.37,Default,,0,0,0,,You finally remembered
 Dialogue: 0,00:09:47.65,00:09:50.09,Default,,0,0,0,,Yes, the goat, I miss you too much
 Dialogue: 0,00:09:51.37,00:09:53.73,Default,,0,0,0,,So hard that you tried so hard to wake me up
@@ -150,9 +150,9 @@ Dialogue: 0,00:09:56.01,00:09:57.29,Default,,0,0,0,,But it’s a pity
 Dialogue: 0,00:09:58.97,00:10:02.29,Default,,0,0,0,,Everything that just happened was a illusion
 Dialogue: 0,00:10:07.49,00:10:08.89,Default,,0,0,0,,Catch him up
 Dialogue: 0,00:10:23.05,00:10:23.85,Default,,0,0,0,,Wolffy
-Dialogue: 0,00:10:24.09,00:10:25.75,Default,,0,0,0,,Chase me quickly...
+Dialogue: 0,00:10:24.09,00:10:25.75,Default,,0,0,0,,Chase me quickly…
 Dialogue: 0,00:10:25.77,00:10:28.53,Default,,0,0,0,,You wake up quickly, wake up quickly
-Dialogue: 0,00:10:32.57,00:10:33.29,Default,,0,0,0,,This is...
+Dialogue: 0,00:10:32.57,00:10:33.29,Default,,0,0,0,,This is…
 Dialogue: 0,00:10:33.49,00:10:35.81,Default,,0,0,0,,You just got the power of Tibbie
 Dialogue: 0,00:10:36.29,00:10:37.05,Default,,0,0,0,,Qili?
 Dialogue: 0,00:10:38.05,00:10:39.25,Default,,0,0,0,,You’re here soon

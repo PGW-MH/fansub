@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:22.88,00:00:29.73,Default,,0,0,0,,Look at the stars and the moon Look at my heart
-Dialogue: 0,00:00:29.76,00:00:32.01,Default,,0,0,0,,The singing of the two people is so similar to...
+Dialogue: 0,00:00:29.76,00:00:32.01,Default,,0,0,0,,The singing of the two people is so similar to…
 Dialogue: 0,00:00:32.04,00:00:32.84,Default,,0,0,0,,oops
 Dialogue: 0,00:00:35.36,00:00:36.36,Default,,0,0,0,,Jonie
 Dialogue: 0,00:00:37.76,00:00:39.16,Default,,0,0,0,,You’re fine
@@ -25,13 +25,13 @@ Dialogue: 0,00:00:45.24,00:00:47.68,Default,,0,0,0,,I don’t know if I’m goin
 Dialogue: 0,00:00:48.84,00:00:49.71,Default,,0,0,0,,I…
 Dialogue: 0,00:00:51.43,00:00:54.21,Default,,0,0,0,,If you have any troubles, say it
 Dialogue: 0,00:00:54.24,00:00:56.64,Default,,0,0,0,,Maybe I can help
-Dialogue: 0,00:00:59.24,00:01:00.20,Default,,0,0,0,,I think...
+Dialogue: 0,00:00:59.24,00:01:00.20,Default,,0,0,0,,I think…
 Dialogue: 0,00:01:00.80,00:01:03.68,Default,,0,0,0,,Bu Lei is my friend Xiao Xin when I was a child
-Dialogue: 0,00:01:06.68,00:01:08.16,Default,,0,0,0,,We’re together all day...
+Dialogue: 0,00:01:06.68,00:01:08.16,Default,,0,0,0,,We’re together all day…
 Dialogue: 0,00:01:09.36,00:01:11.36,Default,,0,0,0,,I made it, please eat it
 Dialogue: 0,00:01:13.32,00:01:15.85,Default,,0,0,0,,Wow, so cute
 Dialogue: 0,00:01:15.88,00:01:19.08,Default,,0,0,0,,Hehe Hee As cute as we two
-Dialogue: 0,00:01:19.52,00:01:23.32,Default,,0,0,0,,-Sing together...-The moon represents my heart
+Dialogue: 0,00:01:19.52,00:01:23.32,Default,,0,0,0,,-Sing together…-The moon represents my heart
 Dialogue: 0,00:01:25.12,00:01:28.64,Default,,0,0,0,,Later I moved to the green grassland
 Dialogue: 0,00:01:30.16,00:01:33.00,Default,,0,0,0,,Xiao Xin also left the Goat clan later
 Dialogue: 0,00:01:33.96,00:01:36.20,Default,,0,0,0,,We finally broke the contact
@@ -52,7 +52,7 @@ Dialogue: 0,00:02:17.96,00:02:19.17,Default,,0,0,0,,If Xiaoxin knew
 Dialogue: 0,00:02:19.20,00:02:22.09,Default,,0,0,0,,You are still thinking about her good friend
 Dialogue: 0,00:02:22.12,00:02:23.72,Default,,0,0,0,,Will be very happy too
 Dialogue: 0,00:02:26.60,00:02:27.76,Default,,0,0,0,,-Fragment Reaction-Fragment Reaction
-Dialogue: 0,00:02:31.76,00:02:39.20,Default,,0,0,0,,Help...
+Dialogue: 0,00:02:31.76,00:02:39.20,Default,,0,0,0,,Help…
 Dialogue: 0,00:02:39.56,00:02:42.96,Default,,0,0,0,,A high-altitude smash incident occurred in the city center
 Dialogue: 0,00:02:43.36,00:02:44.96,Default,,0,0,0,,oops…
 Dialogue: 0,00:02:46.56,00:02:47.96,Default,,0,0,0,,What’s going on
@@ -64,7 +64,7 @@ Dialogue: 0,00:02:59.28,00:03:01.20,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:10.84,00:03:13.07,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:18.48,00:03:20.20,Default,,0,0,0,,Ah Thank you
 Dialogue: 0,00:03:22.88,00:03:25.09,Default,,0,0,0,,Run to a safe place
-Dialogue: 0,00:03:25.12,00:03:30.04,Default,,0,0,0,,Alas, help...
+Dialogue: 0,00:03:25.12,00:03:30.04,Default,,0,0,0,,Alas, help…
 Dialogue: 0,00:03:30.72,00:03:31.92,Default,,0,0,0,,Blue Blue Sniper
 Dialogue: 0,00:03:47.76,00:03:49.07,Default,,0,0,0,,What’s going on
 Dialogue: 0,00:03:49.60,00:03:52.04,Default,,0,0,0,,ah…
@@ -87,14 +87,14 @@ Dialogue: 0,00:05:12.12,00:05:13.85,Default,,0,0,0,,I can’t see you when I fig
 Dialogue: 0,00:05:13.88,00:05:15.84,Default,,0,0,0,,If you have food, you will appear
 Dialogue: 0,00:05:16.92,00:05:19.76,Default,,0,0,0,,I’ve made a lot, let’s eat together
 Dialogue: 0,00:05:20.63,00:05:21.72,Default,,0,0,0,,Very good
-Dialogue: 0,00:05:35.44,00:05:39.16,Default,,0,0,0,,Bu Lei This...you did this...
+Dialogue: 0,00:05:35.44,00:05:39.16,Default,,0,0,0,,Bu Lei This…you did this…
 Dialogue: 0,00:05:39.68,00:05:41.07,Default,,0,0,0,,Yes, what’s going on
 Dialogue: 0,00:05:42.56,00:05:45.88,Default,,0,0,0,,How could you make this sensation?
-Dialogue: 0,00:05:46.44,00:05:50.52,Default,,0,0,0,,I...I think it’s very cute
+Dialogue: 0,00:05:46.44,00:05:50.52,Default,,0,0,0,,I…I think it’s very cute
 Dialogue: 0,00:05:51.64,00:05:54.28,Default,,0,0,0,,Bu Lei Where did you live when you were a child
 Dialogue: 0,00:05:55.36,00:05:57.20,Default,,0,0,0,,Remember if you have any friends?
 Dialogue: 0,00:05:59.96,00:06:03.12,Default,,0,0,0,,Uh I don’t have too many childhood memories
-Dialogue: 0,00:06:03.52,00:06:05.40,Default,,0,0,0,,As for friends’ words...
+Dialogue: 0,00:06:03.52,00:06:05.40,Default,,0,0,0,,As for friends’ words…
 Dialogue: 0,00:06:07.76,00:06:09.52,Default,,0,0,0,,I don’t remember it very much
 Dialogue: 0,00:06:10.24,00:06:11.65,Default,,0,0,0,,I just vaguely remember
 Dialogue: 0,00:06:11.68,00:06:14.53,Default,,0,0,0,,I should have a very good friend
@@ -102,7 +102,7 @@ Dialogue: 0,00:06:14.56,00:06:17.16,Default,,0,0,0,,But she seemed to move later
 Dialogue: 0,00:06:19.60,00:06:21.80,Default,,0,0,0,,Jonie, hurry up
 Dialogue: 0,00:06:28.44,00:06:30.64,Default,,0,0,0,,Thank you for your hard work so long
 Dialogue: 0,00:06:31.24,00:06:33.20,Default,,0,0,0,,Of course you eat first
-Dialogue: 0,00:06:37.20,00:06:39.56,Default,,0,0,0,,Then... I’m not polite
+Dialogue: 0,00:06:37.20,00:06:39.56,Default,,0,0,0,,Then… I’m not polite
 Dialogue: 0,00:06:42.48,00:06:45.00,Default,,0,0,0,,Yes, I’m really delicious
 Dialogue: 0,00:06:46.00,00:06:49.04,Default,,0,0,0,,Looks delicious, I’m not polite
 Dialogue: 0,00:07:00.84,00:07:03.32,Default,,0,0,0,,Sparky , don’t you try it?
@@ -113,7 +113,7 @@ Dialogue: 0,00:07:16.96,00:07:18.20,Default,,0,0,0,,See you next time
 Dialogue: 0,00:07:23.16,00:07:26.28,Default,,0,0,0,,Sparky  Do you don’t like thunder?
 Dialogue: 0,00:07:27.40,00:07:28.72,Default,,0,0,0,,I think she has a problem
 Dialogue: 0,00:07:29.24,00:07:30.32,Default,,0,0,0,,I don’t trust her
-Dialogue: 0,00:07:34.40,00:07:36.96,Default,,0,0,0,,Is she... Xiao Xin?
+Dialogue: 0,00:07:34.40,00:07:36.96,Default,,0,0,0,,Is she… Xiao Xin?
 Dialogue: 0,00:07:37.88,00:07:39.88,Default,,0,0,0,,Xiao Xin? Who is it
 Dialogue: 0,00:07:40.35,00:07:42.24,Default,,0,0,0,,This is how things are…
 Dialogue: 0,00:07:44.72,00:07:45.88,Default,,0,0,0,,So that’s how it is
@@ -122,7 +122,7 @@ Dialogue: 0,00:07:47.84,00:07:50.04,Default,,0,0,0,,Bu Lei is your good friend X
 Dialogue: 0,00:07:50.92,00:07:52.92,Default,,0,0,0,,Is Xiaoxin a robot too?
 Dialogue: 0,00:07:54.64,00:07:55.64,Default,,0,0,0,,No
 Dialogue: 0,00:07:56.52,00:07:58.68,Default,,0,0,0,,Then how could Bu Lei be Xiao Xin?
-Dialogue: 0,00:07:59.32,00:08:03.60,Default,,0,0,0,,But Bu Lei sang that song and had this slightest...
+Dialogue: 0,00:07:59.32,00:08:03.60,Default,,0,0,0,,But Bu Lei sang that song and had this slightest…
 Dialogue: 0,00:08:04.40,00:08:06.16,Default,,0,0,0,,It’s really alike
 Dialogue: 0,00:08:06.72,00:08:09.44,Default,,0,0,0,,If Bu Lei is Xiao Xin
 Dialogue: 0,00:08:10.35,00:08:12.08,Default,,0,0,0,,Then there is only one possibility
@@ -133,11 +133,11 @@ Dialogue: 0,00:08:23.20,00:08:26.24,Default,,0,0,0,,Then she deliberately approa
 Dialogue: 0,00:08:28.32,00:08:29.64,Default,,0,0,0,,I have to ask clearly
 Dialogue: 0,00:08:30.32,00:08:32.28,Default,,0,0,0,,I must get an answer
 Dialogue: 0,00:08:44.12,00:08:47.57,Default,,0,0,0,,Look at the stars and the moon
-Dialogue: 0,00:08:47.60,00:08:48.17,Default,,0,0,0,,This song...
+Dialogue: 0,00:08:47.60,00:08:48.17,Default,,0,0,0,,This song…
 Dialogue: 0,00:08:48.20,00:08:51.40,Default,,0,0,0,,Look at my heart
 Dialogue: 0,00:09:06.24,00:09:08.35,Default,,0,0,0,,Bu Lei Is it you
 Dialogue: 0,00:09:12.88,00:09:14.56,Default,,0,0,0,,Idol, are you doing
-Dialogue: 0,00:09:15.64,00:09:18.12,Default,,0,0,0,,You... are my friend Xiao Xin
+Dialogue: 0,00:09:15.64,00:09:18.12,Default,,0,0,0,,You… are my friend Xiao Xin
 Dialogue: 0,00:09:18.80,00:09:21.64,Default,,0,0,0,,What Xiaoxin, I am Bu Lei
 Dialogue: 0,00:09:24.47,00:09:28.24,Default,,0,0,0,,Then I ask you if you were sent by a mysterious person
 Dialogue: 0,00:09:30.04,00:09:31.40,Default,,0,0,0,,What are you tightening
@@ -155,7 +155,7 @@ Dialogue: 0,00:10:03.60,00:10:05.84,Default,,0,0,0,,Xiaoxin and I often sang whe
 Dialogue: 0,00:10:07.00,00:10:08.16,Default,,0,0,0,,How do you sing
 Dialogue: 0,00:10:11.20,00:10:14.24,Default,,0,0,0,,And why do you have that slightest mind
 Dialogue: 0,00:10:15.60,00:10:17.68,Default,,0,0,0,,That’s the shape that Xiao Xin would make
-Dialogue: 0,00:10:19.56,00:10:20.92,Default,,0,0,0,,I...I don’t know
+Dialogue: 0,00:10:19.56,00:10:20.92,Default,,0,0,0,,I…I don’t know
 Dialogue: 0,00:10:21.32,00:10:22.80,Default,,0,0,0,,Because you are not Bu Lei
 Dialogue: 0,00:10:23.68,00:10:25.64,Default,,0,0,0,,You are my good friend Xiao Xin
 Dialogue: 0,00:10:26.16,00:10:28.32,Default,,0,0,0,,You must have been exploited by a mysterious person
@@ -180,4 +180,4 @@ Dialogue: 0,00:12:14.76,00:12:15.92,Default,,0,0,0,,Xiao Xin…
 Dialogue: 0,00:12:17.56,00:12:18.88,Default,,0,0,0,,Xiao Xin…
 Dialogue: 0,00:12:21.76,00:12:24.44,Default,,0,0,0,,- We want to be good friends
 - We want to be good friends
-Dialogue: 0,00:12:27.44,00:12:30.84,Default,,0,0,0,,I...who am I
+Dialogue: 0,00:12:27.44,00:12:30.84,Default,,0,0,0,,I…who am I

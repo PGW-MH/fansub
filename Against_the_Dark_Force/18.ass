@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:23.33,00:00:24.49,Default,,0,0,0,,Can Wolffy see it?
 Dialogue: 0,00:00:24.77,00:00:26.01,Default,,0,0,0,,Here are a few fingers
-Dialogue: 0,00:00:27.01,00:00:29.21,Default,,0,0,0,,Five...Not Four
+Dialogue: 0,00:00:27.01,00:00:29.21,Default,,0,0,0,,Five…Not Four
 Dialogue: 0,00:00:29.97,00:00:31.81,Default,,0,0,0,,I can see something
 Dialogue: 0,00:00:32.09,00:00:33.29,Default,,0,0,0,,Very good
 Dialogue: 0,00:00:33.49,00:00:35.77,Default,,0,0,0,,Weslie is still very good to me
@@ -42,7 +42,7 @@ Dialogue: 0,00:01:31.61,00:01:32.81,Default,,0,0,0,,All captured
 Dialogue: 0,00:01:33.29,00:01:37.17,Default,,0,0,0,,I don’t know how cool they are suffering
 Dialogue: 0,00:01:41.49,00:01:42.61,Default,,0,0,0,,It smells so good
 Dialogue: 0,00:01:43.13,00:01:44.67,Default,,0,0,0,,Even at the last moment
-Dialogue: 0,00:01:44.69,00:01:46.63,Default,,0,0,0,,We also have to be a little bit...
+Dialogue: 0,00:01:44.69,00:01:46.63,Default,,0,0,0,,We also have to be a little bit…
 Dialogue: 0,00:01:46.65,00:01:48.21,Default,,0,0,0,,Have the ability to relax us
 Dialogue: 0,00:01:48.41,00:01:50.77,Default,,0,0,0,,Don’t induce us with food
 Dialogue: 0,00:01:52.13,00:01:53.45,Default,,0,0,0,,Before the sun goes down
@@ -57,8 +57,8 @@ Dialogue: 0,00:02:03.25,00:02:05.09,Default,,0,0,0,,Husky soup is so fragrant
 Dialogue: 0,00:02:05.33,00:02:07.37,Default,,0,0,0,,We almost couldn’t help it
 Dialogue: 0,00:02:07.69,00:02:09.37,Default,,0,0,0,,I don’t like to eat husky
 Dialogue: 0,00:02:24.69,00:02:26.33,Default,,0,0,0,,We’ll hand it over to you now
-Dialogue: 0,00:02:26.85,00:02:28.89,Default,,0,0,0,,Hahaha... It’s so fun
-Dialogue: 0,00:02:32.09,00:02:35.33,Default,,0,0,0,,Ahem...Men...Why are you here
+Dialogue: 0,00:02:26.85,00:02:28.89,Default,,0,0,0,,Hahaha… It’s so fun
+Dialogue: 0,00:02:32.09,00:02:35.33,Default,,0,0,0,,Ahem…Men…Why are you here
 Dialogue: 0,00:02:36.09,00:02:39.29,Default,,0,0,0,,It was Queen Levana who sent me to help you
 Dialogue: 0,00:02:40.25,00:02:41.81,Default,,0,0,0,,Since this military officer is here
 Dialogue: 0,00:02:42.65,00:02:44.89,Default,,0,0,0,,You have to hear my advice
@@ -70,12 +70,12 @@ Dialogue: 0,00:02:55.97,00:02:58.63,Default,,0,0,0,,I saw that this is the mirac
 Dialogue: 0,00:02:58.65,00:02:59.89,Default,,0,0,0,,Wow…
 Dialogue: 0,00:03:00.13,00:03:02.65,Default,,0,0,0,,I asked you to give me your hand
 Dialogue: 0,00:03:03.57,00:03:04.61,Default,,0,0,0,,Come on hand
-Dialogue: 0,00:03:06.49,00:03:08.29,Default,,0,0,0,,Hahaha... So good
+Dialogue: 0,00:03:06.49,00:03:08.29,Default,,0,0,0,,Hahaha… So good
 Dialogue: 0,00:03:09.81,00:03:13.01,Default,,0,0,0,,Don’t waste time, let’s catch people now
 Dialogue: 0,00:03:18.49,00:03:22.13,Default,,0,0,0,,I didn’t ask you to run away first, wait for me
 Dialogue: 0,00:03:24.97,00:03:28.65,Default,,0,0,0,,ah…
 Dialogue: 0,00:03:32.85,00:03:34.57,Default,,0,0,0,,Stop it for me
-Dialogue: 0,00:03:35.57,00:03:37.73,Default,,0,0,0,,Ah... Alas...
+Dialogue: 0,00:03:35.57,00:03:37.73,Default,,0,0,0,,Ah… Alas…
 Dialogue: 0,00:03:55.37,00:03:56.63,Default,,0,0,0,,Have you got rid of them?
 Dialogue: 0,00:03:56.65,00:03:58.69,Default,,0,0,0,,ah…
 Dialogue: 0,00:04:00.21,00:04:02.75,Default,,0,0,0,,My nose was eaten
@@ -83,32 +83,32 @@ Dialogue: 0,00:04:02.77,00:04:05.29,Default,,0,0,0,,Oh, my nose was eaten, too
 Dialogue: 0,00:04:07.85,00:04:08.33,Default,,0,0,0,,Huh?
 Dialogue: 0,00:04:10.01,00:04:12.25,Default,,0,0,0,,Alas, it really scared me
 Dialogue: 0,00:04:14.01,00:04:15.51,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-Dialogue: 0,00:04:15.53,00:04:18.93,Default,,0,0,0,,My husband is not delicious at all...
-Dialogue: 0,00:04:20.25,00:04:22.97,Default,,0,0,0,,Oh wow ah ah ah ah ah ah ah ah ah...
+Dialogue: 0,00:04:15.53,00:04:18.93,Default,,0,0,0,,My husband is not delicious at all…
+Dialogue: 0,00:04:20.25,00:04:22.97,Default,,0,0,0,,Oh wow ah ah ah ah ah ah ah ah ah…
 Dialogue: 0,00:04:25.25,00:04:25.73,Default,,0,0,0,,Hi
-Dialogue: 0,00:04:33.21,00:04:35.25,Default,,0,0,0,,Oh wow ah ah ah ah ah ah ah ah ah...
+Dialogue: 0,00:04:33.21,00:04:35.25,Default,,0,0,0,,Oh wow ah ah ah ah ah ah ah ah ah…
 Dialogue: 0,00:04:41.05,00:04:42.37,Default,,0,0,0,,Hi…
 Dialogue: 0,00:04:46.25,00:04:48.69,Default,,0,0,0,,ah…
-Dialogue: 0,00:05:05.09,00:05:07.61,Default,,0,0,0,,Stop... don’t...
-Dialogue: 0,00:05:07.77,00:05:08.81,Default,,0,0,0,,Alas...
+Dialogue: 0,00:05:05.09,00:05:07.61,Default,,0,0,0,,Stop… don’t…
+Dialogue: 0,00:05:07.77,00:05:08.81,Default,,0,0,0,,Alas…
 Dialogue: 0,00:05:13.57,00:05:16.53,Default,,0,0,0,,I don’t want to secretly let me watch you
 Dialogue: 0,00:05:23.73,00:05:25.17,Default,,0,0,0,,Fragments have been found
 Dialogue: 0,00:05:25.29,00:05:26.53,Default,,0,0,0,,Wait for the fan to get together
 Dialogue: 0,00:05:26.57,00:05:29.41,Default,,0,0,0,,We can change back to what we were like
 Dialogue: 0,00:05:33.41,00:05:35.15,Default,,0,0,0,,Sorry, I’ve been slapped
-Dialogue: 0,00:05:35.17,00:05:35.61,Default,,0,0,0,,Squeak...
+Dialogue: 0,00:05:35.17,00:05:35.61,Default,,0,0,0,,Squeak…
 Dialogue: 0,00:05:35.85,00:05:37.55,Default,,0,0,0,,I’ve just been passing by
 Dialogue: 0,00:05:37.57,00:05:40.53,Default,,0,0,0,,Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 Dialogue: 0,00:05:52.01,00:05:55.05,Default,,0,0,0,,Don’t eat my nose
 Dialogue: 0,00:05:55.61,00:05:58.69,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:07.37,00:06:09.33,Default,,0,0,0,,This...is this an earthquake?
+Dialogue: 0,00:06:07.37,00:06:09.33,Default,,0,0,0,,This…is this an earthquake?
 Dialogue: 0,00:06:12.81,00:06:17.77,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:22.41,00:06:24.49,Default,,0,0,0,,Get rid of the big scoundrel and wait...
+Dialogue: 0,00:06:22.41,00:06:24.49,Default,,0,0,0,,Get rid of the big scoundrel and wait…
 Dialogue: 0,00:06:26.01,00:06:28.65,Default,,0,0,0,,Oops! Can’t let it discover Princess Luna
 Dialogue: 0,00:06:29.25,00:06:30.49,Default,,0,0,0,,Have to find something to lead it away
 Dialogue: 0,00:06:31.01,00:06:33.35,Default,,0,0,0,,I can only sacrifice you my precious nose
 Dialogue: 0,00:06:33.37,00:06:34.43,Default,,0,0,0,,ah…
-Dialogue: 0,00:06:34.45,00:06:38.25,Default,,0,0,0,,Hello... There is Husky here. Come on
+Dialogue: 0,00:06:34.45,00:06:38.25,Default,,0,0,0,,Hello… There is Husky here. Come on
 Dialogue: 0,00:06:38.73,00:06:39.81,Default,,0,0,0,,Come…
 Dialogue: 0,00:06:51.85,00:06:54.25,Default,,0,0,0,,They actually sent the miracle too
 Dialogue: 0,00:06:54.85,00:06:56.91,Default,,0,0,0,,It seems we have to be discovered before
@@ -123,18 +123,18 @@ Dialogue: 0,00:07:32.57,00:07:35.69,Default,,0,0,0,,Let’s wait for the snowman
 Dialogue: 0,00:07:36.73,00:07:37.09,Default,,0,0,0,,Um
 Dialogue: 0,00:07:47.17,00:07:50.17,Default,,0,0,0,,It’s not until the end of this place can be repaired
 Dialogue: 0,00:07:51.49,00:07:54.13,Default,,0,0,0,,It must be the snowman who brought the last piece of debris
-Dialogue: 0,00:07:58.69,00:08:00.23,Default,,0,0,0,,No, no, no...not good
+Dialogue: 0,00:07:58.69,00:08:00.23,Default,,0,0,0,,No, no, no…not good
 Dialogue: 0,00:08:00.25,00:08:01.89,Default,,0,0,0,,Being taken away by a scoundrel
 Dialogue: 0,00:08:02.69,00:08:03.97,Default,,0,0,0,,What got knocked out
 Dialogue: 0,00:08:04.17,00:08:05.49,Default,,0,0,0,,Is your nose?
 Dialogue: 0,00:08:06.25,00:08:08.45,Default,,0,0,0,,Right, my nose was pulled away
-Dialogue: 0,00:08:08.77,00:08:11.11,Default,,0,0,0,,Ah...I’m not talking about this
-Dialogue: 0,00:08:11.13,00:08:13.29,Default,,0,0,0,,Yes... is the fragments being taken away
+Dialogue: 0,00:08:08.77,00:08:11.11,Default,,0,0,0,,Ah…I’m not talking about this
+Dialogue: 0,00:08:11.13,00:08:13.29,Default,,0,0,0,,Yes… is the fragments being taken away
 Dialogue: 0,00:08:13.45,00:08:15.61,Default,,0,0,0,,Just when I was pulling out the miracle
 Dialogue: 0,00:08:15.89,00:08:18.69,Default,,0,0,0,,It should be fine if it leads to such a long distance
 Dialogue: 0,00:08:19.45,00:08:21.17,Default,,0,0,0,,Let’s go, I’ll leave the rest to you
 Dialogue: 0,00:08:24.85,00:08:26.77,Default,,0,0,0,,Just run away while you’re now
-Dialogue: 0,00:08:27.73,00:08:29.69,Default,,0,0,0,,Run...Run...
+Dialogue: 0,00:08:27.73,00:08:29.69,Default,,0,0,0,,Run…Run…
 Dialogue: 0,00:08:38.77,00:08:40.69,Default,,0,0,0,,No! The fragments were broken
 Dialogue: 0,00:08:46.37,00:08:48.85,Default,,0,0,0,,ah! That can’t be eaten
 Dialogue: 0,00:08:50.37,00:08:53.13,Default,,0,0,0,,So, did the miracle eat the fragments?
@@ -156,7 +156,7 @@ Dialogue: 0,00:09:50.17,00:09:52.69,Default,,0,0,0,,Repairing the fan just consu
 Dialogue: 0,00:09:52.89,00:09:55.37,Default,,0,0,0,,Let this king come out of his own
 Dialogue: 0,00:09:56.69,00:09:58.57,Default,,0,0,0,,Wolffy, you have to be careful
 Dialogue: 0,00:09:58.85,00:10:02.29,Default,,0,0,0,,Don’t worry, I’ve been experiencing my years of experience in sneaking into the Goat Village
-Dialogue: 0,00:10:02.49,00:10:06.01,Default,,0,0,0,,It’s a side dish... a dish...
+Dialogue: 0,00:10:02.49,00:10:06.01,Default,,0,0,0,,It’s a side dish… a dish…
 Dialogue: 0,00:10:08.13,00:10:09.97,Default,,0,0,0,,ah…
 Dialogue: 0,00:10:15.77,00:10:18.29,Default,,0,0,0,,You are told to be careful, but you fall down
 Dialogue: 0,00:10:18.77,00:10:20.61,Default,,0,0,0,,Just a mistake
@@ -172,7 +172,7 @@ Dialogue: 0,00:10:54.25,00:10:56.81,Default,,0,0,0,,With Thunderbolt
 Dialogue: 0,00:10:59.05,00:11:02.09,Default,,0,0,0,,Oh, why did I just chop it against me this time
 Dialogue: 0,00:11:02.61,00:11:04.75,Default,,0,0,0,,You want to find a way to solve the problem
 Dialogue: 0,00:11:04.77,00:11:06.97,Default,,0,0,0,,It’s not that you want to create a problem
-Dialogue: 0,00:11:07.65,00:11:08.77,Default,,0,0,0,,Ah... I’ve fought
+Dialogue: 0,00:11:07.65,00:11:08.77,Default,,0,0,0,,Ah… I’ve fought
 Dialogue: 0,00:11:16.81,00:11:18.29,Default,,0,0,0,,- Wolffy
 - Wolffy
 Dialogue: 0,00:11:21.33,00:11:22.21,Default,,0,0,0,,I hug
@@ -185,7 +185,7 @@ Dialogue: 0,00:11:28.77,00:11:30.05,Default,,0,0,0,,- Is this OK?
 Dialogue: 0,00:11:32.37,00:11:34.69,Default,,0,0,0,,It seems that Wolffy has defeated the Great Miracle
 Dialogue: 0,00:11:35.09,00:11:36.13,Default,,0,0,0,,Wolffy is great
 Dialogue: 0,00:11:39.65,00:11:41.37,Default,,0,0,0,,Tibbie, you’re fine, right?
-Dialogue: 0,00:11:41.73,00:11:43.25,Default,,0,0,0,,Ah my feet...
+Dialogue: 0,00:11:41.73,00:11:43.25,Default,,0,0,0,,Ah my feet…
 Dialogue: 0,00:11:46.37,00:11:46.93,Default,,0,0,0,,No!
 Dialogue: 0,00:11:57.89,00:11:58.85,Default,,0,0,0,,And for you
 Dialogue: 0,00:12:05.73,00:12:07.97,Default,,0,0,0,,No! The debris are about to fall into the ice lake!

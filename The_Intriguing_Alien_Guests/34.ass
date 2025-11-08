@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:18.20,00:00:20.36,Default,,0,0,0,,The monster "roared" and sprayed flames
 Dialogue: 0,00:00:21.92,00:00:23.36,Default,,0,0,0,,Little Huihui appears-
-Dialogue: 0,00:00:23.40,00:00:24.76,Default,,0,0,0,,I want to protect my mother...
+Dialogue: 0,00:00:23.40,00:00:24.76,Default,,0,0,0,,I want to protect my mother…
 Dialogue: 0,00:00:28.12,00:00:28.80,Default,,0,0,0,,child
 Dialogue: 0,00:00:29.08,00:00:30.24,Default,,0,0,0,,What are you painting?
 Dialogue: 0,00:00:30.64,00:00:32.16,Default,,0,0,0,,I’m painting my mom!
@@ -46,22 +46,22 @@ Dialogue: 0,00:02:13.88,00:02:15.00,Default,,0,0,0,,Don’t pull me
 Dialogue: 0,00:02:15.00,00:02:16.28,Default,,0,0,0,,I can’t hear it again
 Dialogue: 0,00:02:21.24,00:02:22.40,Default,,0,0,0,,What’s going on with you
 Dialogue: 0,00:02:23.00,00:02:23.56,Default,,0,0,0,,The King
-Dialogue: 0,00:02:23.68,00:02:25.24,Default,,0,0,0,,Yes... Yes, Wolnie!
-Dialogue: 0,00:02:30.88,00:02:31.72,Default,,0,0,0,,you……
+Dialogue: 0,00:02:23.68,00:02:25.24,Default,,0,0,0,,Yes… Yes, Wolnie!
+Dialogue: 0,00:02:30.88,00:02:31.72,Default,,0,0,0,,you…
 Dialogue: 0,00:02:32.40,00:02:33.84,Default,,0,0,0,,Bring me out of the Wolf Castle!
 Dialogue: 0,00:02:47.80,00:02:49.16,Default,,0,0,0,,I am the king of bacteria
 Dialogue: 0,00:02:49.20,00:02:50.64,Default,,0,0,0,,How can I recognize it!
 Dialogue: 0,00:02:50.84,00:02:51.52,Default,,0,0,0,,Xiao Huang!
 Dialogue: 0,00:02:52.40,00:02:52.92,Default,,0,0,0,,good
 Dialogue: 0,00:03:11.96,00:03:13.16,Default,,0,0,0,,Since that’s the case
-Dialogue: 0,00:03:13.20,00:03:14.88,Default,,0,0,0,,I had to do something wrong...
+Dialogue: 0,00:03:13.20,00:03:14.88,Default,,0,0,0,,I had to do something wrong…
 Dialogue: 0,00:03:18.52,00:03:20.92,Default,,0,0,0,,The Queen is dead!
 Dialogue: 0,00:03:22.32,00:03:23.48,Default,,0,0,0,,That’s now!
 Dialogue: 0,00:03:34.92,00:03:36.56,Default,,0,0,0,,He actually defeated me with his breath
 Dialogue: 0,00:03:36.60,00:03:38.32,Default,,0,0,0,,The Demon King is so scary
 Dialogue: 0,00:03:42.63,00:03:44.56,Default,,0,0,0,,This is simply a female devil
 Dialogue: 0,00:03:44.63,00:03:47.20,Default,,0,0,0,,Who is here to save us?
-Dialogue: 0,00:04:03.96,00:04:05.92,Default,,0,0,0,,It turns out that they are afraid of frogs...
+Dialogue: 0,00:04:03.96,00:04:05.92,Default,,0,0,0,,It turns out that they are afraid of frogs…
 Dialogue: 0,00:04:11.04,00:04:11.96,Default,,0,0,0,,You can enjoy paintings with peace of mind
 Dialogue: 0,00:04:12.24,00:04:14.00,Default,,0,0,0,,Mom, go and clean up those cysts!
 Dialogue: 0,00:04:18.12,00:04:18.88,Default,,0,0,0,,no
@@ -77,7 +77,7 @@ Dialogue: 0,00:05:30.04,00:05:32.12,Default,,0,0,0,,It turns out that you are do
 Dialogue: 0,00:05:42.84,00:05:44.40,Default,,0,0,0,,King, go ahead!
 Dialogue: 0,00:05:58.04,00:05:59.40,Default,,0,0,0,,Xiao Huang Next!
 Dialogue: 0,00:06:27.56,00:06:28.60,Default,,0,0,0,,No, I’m so happy
-Dialogue: 0,00:06:28.84,00:06:30.16,Default,,0,0,0,,I want to rest...
+Dialogue: 0,00:06:28.84,00:06:30.16,Default,,0,0,0,,I want to rest…
 Dialogue: 0,00:06:37.16,00:06:38.64,Default,,0,0,0,,King, why are you crying?
 Dialogue: 0,00:06:40.68,00:06:43.20,Default,,0,0,0,,I’ve been bullied by this female devil before
 Dialogue: 0,00:06:43.84,00:06:46.12,Default,,0,0,0,,We’re so worried
@@ -112,7 +112,7 @@ Dialogue: 0,00:08:51.88,00:08:54.47,Default,,0,0,0,,As a man, you must protect y
 Dialogue: 0,00:08:55.68,00:08:57.52,Default,,0,0,0,,I will definitely protect my mother!
 Dialogue: 0,00:09:04.76,00:09:06.35,Default,,0,0,0,,I must protect my mother!
 Dialogue: 0,00:09:06.72,00:09:08.16,Default,,0,0,0,,What’s the best way to do
-Dialogue: 0,00:09:16.76,00:09:17.60,Default,,0,0,0,,This is...
+Dialogue: 0,00:09:16.76,00:09:17.60,Default,,0,0,0,,This is…
 Dialogue: 0,00:09:18.47,00:09:19.76,Default,,0,0,0,,There is a way!
 Dialogue: 0,00:09:23.64,00:09:24.44,Default,,0,0,0,,Devil’s Female Demon King
 Dialogue: 0,00:09:24.68,00:09:26.35,Default,,0,0,0,,You made me so wolfish in the morning
@@ -129,7 +129,7 @@ Dialogue: 0,00:09:56.20,00:09:58.12,Default,,0,0,0,,That’s my limited edition 
 Dialogue: 0,00:10:05.80,00:10:07.24,Default,,0,0,0,,Not finished yet
 Dialogue: 0,00:10:13.72,00:10:14.28,Default,,0,0,0,,mother
 Dialogue: 0,00:10:14.44,00:10:15.68,Default,,0,0,0,,I’m here to protect you!
-Dialogue: 0,00:10:20.00,00:10:20.92,Default,,0,0,0,,Wilie...
+Dialogue: 0,00:10:20.00,00:10:20.92,Default,,0,0,0,,Wilie…
 Dialogue: 0,00:10:23.32,00:10:25.40,Default,,0,0,0,,Don’t go over!
 Dialogue: 0,00:10:32.28,00:10:34.68,Default,,0,0,0,,It seems that you want to play with Maomaoya!
 Dialogue: 0,00:10:40.76,00:10:41.64,Default,,0,0,0,,How?
