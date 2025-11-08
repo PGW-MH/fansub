@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.80,0:00:22.12,Default,,0,0,0,,In the previous episode, Weslie and Sparky were signing up for the basketball cup.
+Dialogue: 0,0:00:17.80,0:00:22.12,Default,,0,0,0,,In the previous episode, Weslie and Sparky were signing up for the Basketball Game.
 Dialogue: 0,0:00:22.12,0:00:23.80,Default,,0,0,0,,But he was not favored by his clansmen.
 Dialogue: 0,0:00:23.88,0:00:27.40,Default,,0,0,0,,They bumped into the impressive Victor at the registration site.
 Dialogue: 0,0:00:27.56,0:00:28.92,Default,,0,0,0,,He humiliated me again.
@@ -27,7 +27,7 @@ Dialogue: 0,0:00:38.76,0:00:39.88,Default,,0,0,0,,The weather is really
 Dialogue: 0,0:00:41.64,0:00:44.20,Default,,0,0,0,,Children, what’s wrong?
 Dialogue: 0,0:00:44.68,0:00:45.48,Default,,0,0,0,,village head
 Dialogue: 0,0:00:46.28,0:00:47.64,Default,,0,0,0,,What are you going to do?
-Dialogue: 0,0:00:48.28,0:00:52.04,Default,,0,0,0,,We want to play basketball and win the basketball cup championship.
+Dialogue: 0,0:00:48.28,0:00:52.04,Default,,0,0,0,,We want to play basketball and win the Basketball Game championship.
 Dialogue: 0,0:00:53.56,0:00:57.24,Default,,0,0,0,,But our Goat Clan doesn’t have much of an advantage in basketball.
 Dialogue: 0,0:00:58.92,0:01:02.12,Default,,0,0,0,,But we’re confident the village chief will teach us basketball!
 Dialogue: 0,0:01:03.00,0:01:05.08,Default,,0,0,0,,I don’t know much about basketball either.
@@ -160,7 +160,7 @@ Dialogue: 0,0:10:56.80,0:10:59.36,Default,,0,0,0,,With this, you can wipe away t
 Dialogue: 0,0:11:00.48,0:11:01.44,Default,,0,0,0,,I ran
 Dialogue: 0,0:11:07.60,0:11:08.72,Default,,0,0,0,,Everyone, please continue practicing.
 Dialogue: 0,0:11:10.24,0:11:13.68,Default,,0,0,0,,good
-Dialogue: 0,0:11:13.68,0:11:16.48,Default,,0,0,0,,Masked Hero, are you participating in the Basketball Cup?
+Dialogue: 0,0:11:13.68,0:11:16.48,Default,,0,0,0,,Masked Hero, are you participating in the Basketball Game?
 Dialogue: 0,0:11:16.56,0:11:25.12,Default,,0,0,0,,So handsome… So cool… So amazing…
 Dialogue: 0,0:11:25.76,0:11:29.12,Default,,0,0,0,,Thank you so much for saving our stadium!
 Dialogue: 0,0:11:29.52,0:11:32.16,Default,,0,0,0,,That was so cool, especially that dunk!
@@ -173,7 +173,7 @@ Dialogue: 0,0:11:49.44,0:11:53.92,Default,,0,0,0,,Idol, please sign your autogra
 Dialogue: 0,0:11:53.92,0:11:54.88,Default,,0,0,0,,Waiting for a senior
 Dialogue: 0,0:11:55.04,0:11:55.28,Default,,0,0,0,,Wait a minute, senior.
 Dialogue: 0,0:11:55.28,0:11:56.88,Default,,0,0,0,,Idol.
-Dialogue: 0,0:11:59.28,0:12:02.88,Default,,0,0,0,,If he were to become the coach, he might have a chance to win the basketball cup.
+Dialogue: 0,0:11:59.28,0:12:02.88,Default,,0,0,0,,If he were to become the coach, he might have a chance to win the Basketball Game.
 Dialogue: 0,0:12:03.36,0:12:05.28,Default,,0,0,0,,What, based on him?
 Dialogue: 0,0:12:05.28,0:12:06.40,Default,,0,0,0,,impossible
 Dialogue: 0,0:12:06.88,0:12:11.20,Default,,0,0,0,,Village chief, we don’t want Goat Clan to continue being ridiculed for not being able to play basketball.
