@@ -15,13 +15,13 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:23.42,00:00:25.18,Default,,0,0,0,,What happened to Tibbie
-Dialogue: 0,00:00:32.22,00:00:33.62,Default,,0,0,0,,What happened to the village chief
+Dialogue: 0,00:00:32.22,00:00:33.62,Default,,0,0,0,,What happened to Mr. Slowy
 Dialogue: 0,00:00:34.86,00:00:37.68,Default,,0,0,0,,I… am I old?
 Dialogue: 0,00:00:37.70,00:00:41.14,Default,,0,0,0,,Tibbie’s injury I actually…
 Dialogue: 0,00:00:43.62,00:00:45.58,Default,,0,0,0,,It’s hard to say that she is Tibbie…
 Dialogue: 0,00:00:47.98,00:00:51.00,Default,,0,0,0,,Tibbie…
 Dialogue: 0,00:00:51.02,00:00:54.62,Default,,0,0,0,,It took me so long to cure it…
-Dialogue: 0,00:00:59.34,00:01:03.42,Default,,0,0,0,,Village Chief, can you say all your words at once
+Dialogue: 0,00:00:59.34,00:01:03.42,Default,,0,0,0,,Mr. Slowy, can you say all your words at once
 Dialogue: 0,00:01:05.26,00:01:07.30,Default,,0,0,0,,Why am I here…
 Dialogue: 0,00:01:08.14,00:01:09.62,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:01:12.18,00:01:15.54,Default,,0,0,0,,I’m fine, don’t worry so much
@@ -46,7 +46,7 @@ Dialogue: 0,00:02:43.74,00:02:45.24,Default,,0,0,0,,Being so many robots
 Dialogue: 0,00:02:45.26,00:02:47.30,Default,,0,0,0,,Also collect debris energy
 Dialogue: 0,00:02:47.82,00:02:49.20,Default,,0,0,0,,What does he want to do him?
 Dialogue: 0,00:02:49.22,00:02:51.42,Default,,0,0,0,,It’s hard to tell that doctor
-Dialogue: 0,00:02:54.54,00:02:56.38,Default,,0,0,0,,Village Chief, you know him
+Dialogue: 0,00:02:54.54,00:02:56.38,Default,,0,0,0,,Mr. Slowy, you know him
 Dialogue: 0,00:02:57.74,00:03:00.00,Default,,0,0,0,,Just by my invention
 Dialogue: 0,00:03:00.02,00:03:02.34,Default,,0,0,0,,It can turn organic objects into machines
 Dialogue: 0,00:03:02.62,00:03:05.90,Default,,0,0,0,,Then you can machine the organic life body

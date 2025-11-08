@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:28.93,00:00:31.01,Default,,0,0,0,,Village Chief, have any results?
+Dialogue: 0,00:00:28.93,00:00:31.01,Default,,0,0,0,,Mr. Slowy, have any results?
 Dialogue: 0,00:00:33.61,00:00:35.97,Default,,0,0,0,,Although it spreads slowly
 Dialogue: 0,00:00:36.37,00:00:39.13,Default,,0,0,0,,But your right hand has begun to become mechanical
 Dialogue: 0,00:00:39.73,00:00:40.81,Default,,0,0,0,,what
@@ -63,7 +63,7 @@ Dialogue: 0,00:02:45.41,00:02:46.85,Default,,0,0,0,,Anyway, I’m all ill
 Dialogue: 0,00:02:47.97,00:02:49.57,Default,,0,0,0,,No I just…
 Dialogue: 0,00:02:58.81,00:02:59.89,Default,,0,0,0,,Just leave if you want
 Dialogue: 0,00:03:00.09,00:03:01.53,Default,,0,0,0,,Anyway, I’m all ill
-Dialogue: 0,00:03:04.93,00:03:06.33,Default,,0,0,0,,Don’t worry, the village chief
+Dialogue: 0,00:03:04.93,00:03:06.33,Default,,0,0,0,,Don’t worry, Mr. Slowy
 Dialogue: 0,00:03:06.97,00:03:08.57,Default,,0,0,0,,I’m on the road
 Dialogue: 0,00:03:10.41,00:03:11.37,Default,,0,0,0,,Weslie Brother
 Dialogue: 0,00:03:11.77,00:03:14.21,Default,,0,0,0,,Wilie Why are you here

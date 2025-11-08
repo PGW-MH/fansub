@@ -24,7 +24,7 @@ Dialogue: 0,0:00:29.72,0:00:31.00,Default,,0,0,0,,But he refused.
 Dialogue: 0,0:00:31.24,0:00:34.12,Default,,0,0,0,,The other goats couldn’t contain themselves and rushed into the cave.
 Dialogue: 0,0:00:34.12,0:00:36.84,Default,,0,0,0,,However, they were trapped by Zi Tailang’s trap.
 Dialogue: 0,0:00:41.96,0:00:44.04,Default,,0,0,0,,How long have I been asleep?
-Dialogue: 0,0:00:45.08,0:00:47.32,Default,,0,0,0,,Where are the coach and the village chief?
+Dialogue: 0,0:00:45.08,0:00:47.32,Default,,0,0,0,,Where are the coach and Mr. Slowy?
 Dialogue: 0,0:00:48.28,0:00:49.24,Default,,0,0,0,,There
 Dialogue: 0,0:00:52.44,0:00:54.28,Default,,0,0,0,,It’s fake.
 Dialogue: 0,0:00:54.60,0:00:56.76,Default,,0,0,0,,So what should we do now?
@@ -73,13 +73,13 @@ Dialogue: 0,0:04:27.56,0:04:29.16,Default,,0,0,0,,The traps have all been destro
 Dialogue: 0,0:04:32.60,0:04:33.56,Default,,0,0,0,,I speculate
 Dialogue: 0,0:04:33.72,0:04:35.80,Default,,0,0,0,,The goats must have won.
 Dialogue: 0,0:04:40.60,0:04:41.56,Default,,0,0,0,,That is
-Dialogue: 0,0:04:41.88,0:04:42.92,Default,,0,0,0,,Village Chief & Coach
+Dialogue: 0,0:04:41.88,0:04:42.92,Default,,0,0,0,,Mr. Slowy & Coach
 Dialogue: 0,0:04:44.44,0:04:45.32,Default,,0,0,0,,We need to catch up quickly.
-Dialogue: 0,0:04:51.32,0:04:52.92,Default,,0,0,0,,Wait a minute, village chief!
+Dialogue: 0,0:04:51.32,0:04:52.92,Default,,0,0,0,,Wait a minute, Mr. Slowy!
 Dialogue: 0,0:04:52.92,0:04:53.80,Default,,0,0,0,,coach
-Dialogue: 0,0:05:06.76,0:05:09.08,Default,,0,0,0,,Village chief, I’m so glad you’re all alright.
+Dialogue: 0,0:05:06.76,0:05:09.08,Default,,0,0,0,,Mr. Slowy, I’m so glad you’re all alright.
 Dialogue: 0,0:05:09.40,0:05:12.04,Default,,0,0,0,,Coach, don’t be afraid, we’re here to rescue you.
-Dialogue: 0,0:05:16.84,0:05:19.72,Default,,0,0,0,,Village chief, what did you stick on my back?
+Dialogue: 0,0:05:16.84,0:05:19.72,Default,,0,0,0,,Mr. Slowy, what did you stick on my back?
 Dialogue: 0,0:05:20.28,0:05:22.92,Default,,0,0,0,,What is that? I can’t reach it.
 Dialogue: 0,0:05:22.92,0:05:23.80,Default,,0,0,0,,What happened?
 Dialogue: 0,0:05:25.32,0:05:27.16,Default,,0,0,0,,My eyes!
@@ -93,16 +93,16 @@ Dialogue: 0,0:05:44.52,0:05:45.48,Default,,0,0,0,,That is
 Dialogue: 0,0:05:46.12,0:05:49.08,Default,,0,0,0,,Weslie, you’re carrying a bomb!
 Dialogue: 0,0:05:49.48,0:05:50.20,Default,,0,0,0,,What
 Dialogue: 0,0:05:51.56,0:05:54.28,Default,,0,0,0,,Let me see how I disassembled it.
-Dialogue: 0,0:05:54.52,0:05:55.80,Default,,0,0,0,,Village chief, coach
+Dialogue: 0,0:05:54.52,0:05:55.80,Default,,0,0,0,,Mr. Slowy, coach
 Dialogue: 0,0:05:56.76,0:05:57.72,Default,,0,0,0,,Why
-Dialogue: 0,0:06:00.68,0:06:03.08,Default,,0,0,0,,Even the village chief and his men had bombs on them.
+Dialogue: 0,0:06:00.68,0:06:03.08,Default,,0,0,0,,Even Mr. Slowy and his men had bombs on them.
 Dialogue: 0,0:06:03.40,0:06:05.80,Default,,0,0,0,,I advise you not to make any rash moves.
 Dialogue: 0,0:06:06.52,0:06:09.88,Default,,0,0,0,,The bomb I set will explode as soon as it’s detonated.
 Dialogue: 0,0:06:09.88,0:06:10.76,Default,,0,0,0,,What
 Dialogue: 0,0:06:11.16,0:06:13.56,Default,,0,0,0,,Is that sound… Zi Tailang?
 Dialogue: 0,0:06:14.04,0:06:15.96,Default,,0,0,0,,What trick are you up to now?
 Dialogue: 0,0:06:16.28,0:06:17.16,Default,,0,0,0,,Wolffy
-Dialogue: 0,0:06:17.48,0:06:21.16,Default,,0,0,0,,The village chief and the coach seem to be behaving strangely; they haven’t reacted at all.
+Dialogue: 0,0:06:17.48,0:06:21.16,Default,,0,0,0,,Mr. Slowy and the coach seem to be behaving strangely; they haven’t reacted at all.
 Dialogue: 0,0:06:21.72,0:06:23.48,Default,,0,0,0,,No way, coach
 Dialogue: 0,0:06:24.92,0:06:26.28,Default,,0,0,0,,coach
 Dialogue: 0,0:06:28.12,0:06:30.28,Default,,0,0,0,,They seem to be under control.
@@ -118,11 +118,11 @@ Dialogue: 0,0:07:09.64,0:07:13.24,Default,,0,0,0,,The points you have are your l
 Dialogue: 0,0:07:13.72,0:07:18.52,Default,,0,0,0,,Each time a goal is scored, the penalty decreases; if it reaches 0…
 Dialogue: 0,0:07:20.72,0:07:22.48,Default,,0,0,0,,You will die
 Dialogue: 0,0:07:27.20,0:07:30.24,Default,,0,0,0,,How could Weslie possibly beat the coach?
-Dialogue: 0,0:07:30.32,0:07:33.04,Default,,0,0,0,,Don’t panic, their team has the village chief with them.
+Dialogue: 0,0:07:30.32,0:07:33.04,Default,,0,0,0,,Don’t panic, their team has Mr. Slowy with them.
 Dialogue: 0,0:07:35.84,0:07:40.16,Default,,0,0,0,,We try our best to keep the ball in our hands and drag it out as long as possible.
 Dialogue: 0,0:07:40.48,0:07:43.36,Default,,0,0,0,,Leave Slowy to me with confidence.
 Dialogue: 0,0:07:55.52,0:07:57.28,Default,,0,0,0,,Slowy, what’s going on?
-Dialogue: 0,0:07:57.28,0:08:01.12,Default,,0,0,0,,Didn’t you say that with the village chief around, they’d be fine?
+Dialogue: 0,0:07:57.28,0:08:01.12,Default,,0,0,0,,Didn’t you say that with Mr. Slowy around, they’d be fine?
 Dialogue: 0,0:08:02.24,0:08:07.28,Default,,0,0,0,,In addition to controlling movement, chips can also enhance the user’s physical fitness.
 Dialogue: 0,0:08:08.08,0:08:13.20,Default,,0,0,0,,Even Slowy can become quite powerful with a chip installed.
 Dialogue: 0,0:08:13.84,0:08:18.40,Default,,0,0,0,,This is cheating. I strongly demand a fair match against Slowy.
@@ -156,7 +156,7 @@ Dialogue: 0,0:10:02.16,0:10:03.92,Default,,0,0,0,,Wait, I’m thinking of a way.
 Dialogue: 0,0:10:03.92,0:10:07.84,Default,,0,0,0,,Hurry back, the points are almost gone!
 Dialogue: 0,0:10:10.56,0:10:13.76,Default,,0,0,0,,Please come back soon, I can’t handle this alone.
 Dialogue: 0,0:10:14.00,0:10:16.72,Default,,0,0,0,,Go back quickly, go back quickly!
-Dialogue: 0,0:10:17.60,0:10:19.92,Default,,0,0,0,,Village chief/coach, please stop hitting him.
+Dialogue: 0,0:10:17.60,0:10:19.92,Default,,0,0,0,,Mr. Slowy/coach, please stop hitting him.
 Dialogue: 0,0:10:20.64,0:10:22.24,Default,,0,0,0,,Wake up!
 Dialogue: 0,0:10:30.88,0:10:33.04,Default,,0,0,0,,And me too, don’t even think about getting past me.
 Dialogue: 0,0:10:43.60,0:10:46.56,Default,,0,0,0,,I won’t let you score again.

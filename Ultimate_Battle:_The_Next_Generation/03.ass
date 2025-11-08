@@ -14,19 +14,19 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:20.46,00:00:23.46,Default,,0,0,0,,Village chief, let’s come here to have sex
+Dialogue: 0,00:00:20.46,00:00:23.46,Default,,0,0,0,,Mr. Slowy, let’s come here to have sex
 Dialogue: 0,00:00:26.78,00:00:28.54,Default,,0,0,0,,Identify success
 Dialogue: 0,00:00:38.26,00:00:39.58,Default,,0,0,0,,Wow
-Dialogue: 0,00:00:41.74,00:00:43.58,Default,,0,0,0,,Village Chief This is…
+Dialogue: 0,00:00:41.74,00:00:43.58,Default,,0,0,0,,Mr. Slowy This is…
 Dialogue: 0,00:00:45.42,00:00:47.58,Default,,0,0,0,,Welcome to our new base
 Dialogue: 0,00:00:48.18,00:00:49.76,Default,,0,0,0,,The next task is
 Dialogue: 0,00:00:49.78,00:00:52.18,Default,,0,0,0,,Find scattered fragments of star stones
 Dialogue: 0,00:00:52.34,00:00:54.64,Default,,0,0,0,,This base has a shaped feature
 Dialogue: 0,00:00:54.66,00:00:56.20,Default,,0,0,0,,It can facilitate our actions
-Dialogue: 0,00:00:56.22,00:00:59.16,Default,,0,0,0,,Wow, the village chief is indeed a treasure troubling
+Dialogue: 0,00:00:56.22,00:00:59.16,Default,,0,0,0,,Wow, Mr. Slowy is indeed a treasure troubling
 Dialogue: 0,00:00:59.18,00:01:01.14,Default,,0,0,0,,A base was built so soon
 Dialogue: 0,00:01:02.14,00:01:03.88,Default,,0,0,0,,Actually, you missed
-Dialogue: 0,00:01:03.90,00:01:05.74,Default,,0,0,0,,The village chief built this base
+Dialogue: 0,00:01:03.90,00:01:05.74,Default,,0,0,0,,Mr. Slowy built this base
 Dialogue: 0,00:01:06.02,00:01:08.32,Default,,0,0,0,,Convenient to collect signals from different places
 Dialogue: 0,00:01:08.34,00:01:09.34,Default,,0,0,0,,Come find you
 Dialogue: 0,00:01:12.66,00:01:13.46,Default,,0,0,0,,Right
@@ -62,7 +62,7 @@ Dialogue: 0,00:02:35.46,00:02:37.02,Default,,0,0,0,,No Wolffy found yet
 Dialogue: 0,00:02:39.02,00:02:39.96,Default,,0,0,0,,A few months later
 Dialogue: 0,00:02:39.98,00:02:42.58,Default,,0,0,0,,Wolnie delegated Wilie to me
 Dialogue: 0,00:02:43.02,00:02:45.46,Default,,0,0,0,,Son Mom has been back in a few days
-Dialogue: 0,00:02:45.78,00:02:48.38,Default,,0,0,0,,You have to listen to the village chief obediently
+Dialogue: 0,00:02:45.78,00:02:48.38,Default,,0,0,0,,You have to listen to Mr. Slowy obediently
 Dialogue: 0,00:02:48.98,00:02:50.10,Default,,0,0,0,,I’ll be obedient
 Dialogue: 0,00:02:52.46,00:02:55.10,Default,,0,0,0,,Then come to find you alone
 Dialogue: 0,00:02:59.14,00:03:00.08,Default,,0,0,0,,It’s dad

@@ -14,8 +14,8 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:23.37,00:00:24.37,Default,,0,0,0,,Village Chief
-Dialogue: 0,00:00:24.93,00:00:26.41,Default,,0,0,0,,Sorry, village chief
+Dialogue: 0,00:00:23.37,00:00:24.37,Default,,0,0,0,,Mr. Slowy
+Dialogue: 0,00:00:24.93,00:00:26.41,Default,,0,0,0,,Sorry, Mr. Slowy
 Dialogue: 0,00:00:26.41,00:00:26.89,Default,,0,0,0,,I…
 Dialogue: 0,00:00:26.93,00:00:28.01,Default,,0,0,0,,I’ll help you
 Dialogue: 0,00:00:32.09,00:00:33.13,Default,,0,0,0,,Game machine?
@@ -24,8 +24,8 @@ Dialogue: 0,00:00:34.61,00:00:35.41,Default,,0,0,0,,yes
 Dialogue: 0,00:00:35.45,00:00:37.13,Default,,0,0,0,,Walking around to play games is very dangerous
 Dialogue: 0,00:00:37.21,00:00:38.21,Default,,0,0,0,,Hit me this time
 Dialogue: 0,00:00:38.25,00:00:39.77,Default,,0,0,0,,What should I do next time I hit the car!
-Dialogue: 0,00:00:40.69,00:00:41.85,Default,,0,0,0,,I know, village chief
-Dialogue: 0,00:00:42.29,00:00:43.49,Default,,0,0,0,,Village chief sees you again
+Dialogue: 0,00:00:40.69,00:00:41.85,Default,,0,0,0,,I know, Mr. Slowy
+Dialogue: 0,00:00:42.29,00:00:43.49,Default,,0,0,0,,Mr. Slowy sees you again
 Dialogue: 0,00:00:43.65,00:00:45.97,Default,,0,0,0,,Put down the game machine and walk well!
 Dialogue: 0,00:00:46.53,00:00:47.69,Default,,0,0,0,,knew…
 Dialogue: 0,00:00:48.13,00:00:49.77,Default,,0,0,0,,I’ll talk about it after I finish this
@@ -39,14 +39,14 @@ Dialogue: 0,00:01:08.93,00:01:10.93,Default,,0,0,0,,I’m about to win this
 Dialogue: 0,00:01:11.41,00:01:13.13,Default,,0,0,0,,What do you mean
 Dialogue: 0,00:01:13.73,00:01:15.13,Default,,0,0,0,,A small break in class
 Dialogue: 0,00:01:15.17,00:01:16.65,Default,,0,0,0,,Also play games
-Dialogue: 0,00:01:16.69,00:01:17.53,Default,,0,0,0,,Village chief…
+Dialogue: 0,00:01:16.69,00:01:17.53,Default,,0,0,0,,Mr. Slowy…
 Dialogue: 0,00:01:17.85,00:01:19.13,Default,,0,0,0,,You give me…
 Dialogue: 0,00:01:20.65,00:01:21.53,Default,,0,0,0,,you!
 Dialogue: 0,00:01:21.97,00:01:22.57,Default,,0,0,0,,village…
-Dialogue: 0,00:01:22.69,00:01:23.29,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:01:22.69,00:01:23.29,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:01:23.33,00:01:24.37,Default,,0,0,0,,You three!
 Dialogue: 0,00:01:24.37,00:01:27.05,Default,,0,0,0,,Give me a look at the corridor and face the wall!
-Dialogue: 0,00:01:27.13,00:01:28.57,Default,,0,0,0,,Yes, village chief
+Dialogue: 0,00:01:27.13,00:01:28.57,Default,,0,0,0,,Yes, Mr. Slowy
 Dialogue: 0,00:01:28.61,00:01:29.41,Default,,0,0,0,,sorry!
 Dialogue: 0,00:01:35.85,00:01:36.69,Default,,0,0,0,,It’s not bad
 Dialogue: 0,00:01:36.77,00:01:38.29,Default,,0,0,0,,Can you know how to reflect
@@ -54,7 +54,7 @@ Dialogue: 0,00:01:42.05,00:01:43.45,Default,,0,0,0,,You three!
 Dialogue: 0,00:01:43.45,00:01:45.49,Default,,0,0,0,,Too much score!
 Dialogue: 0,00:01:46.81,00:01:48.65,Default,,0,0,0,,Stop being addicted to games
 Dialogue: 0,00:01:48.85,00:01:50.65,Default,,0,0,0,,You should go out for a walk more
-Dialogue: 0,00:01:51.57,00:01:53.33,Default,,0,0,0,,I know, village chief
+Dialogue: 0,00:01:51.57,00:01:53.33,Default,,0,0,0,,I know, Mr. Slowy
 Dialogue: 0,00:01:55.21,00:01:57.33,Default,,0,0,0,,The kids nowadays are really…
 Dialogue: 0,00:02:01.25,00:02:01.93,Default,,0,0,0,,Hello
 Dialogue: 0,00:02:02.45,00:02:04.21,Default,,0,0,0,,The express delivery of your goat village
@@ -85,23 +85,23 @@ Dialogue: 0,00:03:21.57,00:03:23.09,Default,,0,0,0,,You know how to eat
 Dialogue: 0,00:03:25.17,00:03:25.97,Default,,0,0,0,,Let’s talk about it
 Dialogue: 0,00:03:26.01,00:03:27.53,Default,,0,0,0,,We haven’t eaten yet
 Dialogue: 0,00:03:27.93,00:03:29.25,Default,,0,0,0,,Another
-Dialogue: 0,00:03:30.01,00:03:30.97,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:03:30.01,00:03:30.97,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:03:31.61,00:03:32.93,Default,,0,0,0,,What are you doing?
 Dialogue: 0,00:03:33.37,00:03:34.61,Default,,0,0,0,,I’m here…
 Dialogue: 0,00:03:34.61,00:03:35.97,Default,,0,0,0,,Have a break here
 Dialogue: 0,00:03:36.21,00:03:37.89,Default,,0,0,0,,Now I’m going to leave
-Dialogue: 0,00:03:44.05,00:03:44.69,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:03:44.05,00:03:44.69,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:03:44.81,00:03:46.17,Default,,0,0,0,,How come you have a game
 Dialogue: 0,00:03:46.17,00:03:46.81,Default,,0,0,0,,I…
 Dialogue: 0,00:03:46.85,00:03:48.77,Default,,0,0,0,,I’m working on game machines
 Dialogue: 0,00:03:48.97,00:03:49.69,Default,,0,0,0,,But today
-Dialogue: 0,00:03:49.73,00:03:51.29,Default,,0,0,0,,Isn’t you a village chief, do you make food?
+Dialogue: 0,00:03:49.73,00:03:51.29,Default,,0,0,0,,Isn’t you a Mr. Slowy, do you make food?
 Dialogue: 0,00:03:52.21,00:03:52.81,Default,,0,0,0,,right
 Dialogue: 0,00:03:52.89,00:03:54.81,Default,,0,0,0,,I’m going now
 Dialogue: 0,00:03:59.29,00:03:59.77,Default,,0,0,0,,Oops
 Dialogue: 0,00:03:59.77,00:04:00.53,Default,,0,0,0,,It’s almost done
 Dialogue: 0,00:04:07.01,00:04:07.65,Default,,0,0,0,,This…
-Dialogue: 0,00:04:08.53,00:04:09.21,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:04:08.53,00:04:09.21,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:04:09.25,00:04:10.57,Default,,0,0,0,,Is this a black sesame wrap?
 Dialogue: 0,00:04:10.61,00:04:11.21,Default,,0,0,0,,yes
 Dialogue: 0,00:04:12.65,00:04:13.49,Default,,0,0,0,,All right
@@ -111,59 +111,59 @@ Dialogue: 0,00:04:25.81,00:04:27.33,Default,,0,0,0,,Don’t pick on food for kid
 Dialogue: 0,00:04:27.37,00:04:28.25,Default,,0,0,0,,Have a quick meal
 Dialogue: 0,00:04:28.49,00:04:29.53,Default,,0,0,0,,I’m still in trouble
 Dialogue: 0,00:04:29.61,00:04:30.37,Default,,0,0,0,,Let’s go first
-Dialogue: 0,00:04:37.33,00:04:38.97,Default,,0,0,0,,Village Chief Sorry for the time being
+Dialogue: 0,00:04:37.33,00:04:38.97,Default,,0,0,0,,Mr. Slowy Sorry for the time being
 Dialogue: 0,00:04:39.05,00:04:39.97,Default,,0,0,0,,Come in
-Dialogue: 0,00:04:40.41,00:04:41.97,Default,,0,0,0,,The village chief has not come yet
-Dialogue: 0,00:04:44.05,00:04:46.65,Default,,0,0,0,,Why did the village chief sleep later than me today
+Dialogue: 0,00:04:40.41,00:04:41.97,Default,,0,0,0,,Mr. Slowy has not come yet
+Dialogue: 0,00:04:44.05,00:04:46.65,Default,,0,0,0,,Why did Mr. Slowy sleep later than me today
 Dialogue: 0,00:04:46.69,00:04:47.57,Default,,0,0,0,,Students
 Dialogue: 0,00:04:47.61,00:04:48.85,Default,,0,0,0,,We are preparing…
 Dialogue: 0,00:04:51.09,00:04:52.13,Default,,0,0,0,,Let’s go to the class
 Dialogue: 0,00:04:52.93,00:04:53.97,Default,,0,0,0,,All have finished classes
 Dialogue: 0,00:04:53.97,00:04:54.65,Default,,0,0,0,,Just came…
-Dialogue: 0,00:04:55.89,00:04:57.41,Default,,0,0,0,,Village Chief Is the village chief well?
-Dialogue: 0,00:04:57.45,00:04:58.69,Default,,0,0,0,,Is the village chief well?
+Dialogue: 0,00:04:55.89,00:04:57.41,Default,,0,0,0,,Mr. Slowy Is Mr. Slowy well?
+Dialogue: 0,00:04:57.45,00:04:58.69,Default,,0,0,0,,Is Mr. Slowy well?
 Dialogue: 0,00:04:58.69,00:05:00.01,Default,,0,0,0,,I’ve been waiting for a long time
-Dialogue: 0,00:05:00.25,00:05:02.25,Default,,0,0,0,,The village chief has always been weird lately
+Dialogue: 0,00:05:00.25,00:05:02.25,Default,,0,0,0,,Mr. Slowy has always been weird lately
 Dialogue: 0,00:05:04.45,00:05:06.37,Default,,0,0,0,,Hiding behind a tree and playing secretly
 Dialogue: 0,00:05:07.57,00:05:09.01,Default,,0,0,0,,All the dishes are cooked
 Dialogue: 0,00:05:10.73,00:05:12.61,Default,,0,0,0,,I’ve still been in class
 Dialogue: 0,00:05:12.89,00:05:14.13,Default,,0,0,0,,Difficult to tell
 Dialogue: 0,00:05:16.65,00:05:17.09,Default,,0,0,0,,No!
 Dialogue: 0,00:05:17.09,00:05:18.25,Default,,0,0,0,,Nothing will happen!
-Dialogue: 0,00:05:18.73,00:05:19.49,Default,,0,0,0,,Village Chief!
+Dialogue: 0,00:05:18.73,00:05:19.49,Default,,0,0,0,,Mr. Slowy!
 Dialogue: 0,00:05:20.17,00:05:21.17,Default,,0,0,0,,Going to go
-Dialogue: 0,00:05:22.73,00:05:24.85,Default,,0,0,0,,Sure enough, the village chief is addicted to the game
-Dialogue: 0,00:05:28.09,00:05:28.77,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:05:22.73,00:05:24.85,Default,,0,0,0,,Sure enough, Mr. Slowy is addicted to the game
+Dialogue: 0,00:05:28.09,00:05:28.77,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:05:28.93,00:05:30.53,Default,,0,0,0,,We just care about you
 Dialogue: 0,00:05:31.09,00:05:32.09,Default,,0,0,0,,What are you looking at!
 Dialogue: 0,00:05:32.29,00:05:33.61,Default,,0,0,0,,Do you want to kill me on the game?
 Dialogue: 0,00:05:33.65,00:05:34.09,Default,,0,0,0,,Not to give
-Dialogue: 0,00:05:34.49,00:05:35.01,Default,,0,0,0,,Village Chief
-Dialogue: 0,00:05:36.49,00:05:37.17,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:05:34.49,00:05:35.01,Default,,0,0,0,,Mr. Slowy
+Dialogue: 0,00:05:36.49,00:05:37.17,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:05:37.17,00:05:38.73,Default,,0,0,0,,Why did you suddenly run so fast?
-Dialogue: 0,00:05:42.81,00:05:43.29,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:05:42.81,00:05:43.29,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:05:43.37,00:05:44.73,Default,,0,0,0,,Don’t play games when walking
-Dialogue: 0,00:05:57.45,00:05:57.89,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:05:57.45,00:05:57.89,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:05:57.93,00:05:59.17,Default,,0,0,0,,This is very dangerous!
 Dialogue: 0,00:05:59.49,00:06:00.33,Default,,0,0,0,,Let me go
 Dialogue: 0,00:06:00.33,00:06:01.93,Default,,0,0,0,,You go home and do it
 Dialogue: 0,00:06:02.73,00:06:04.33,Default,,0,0,0,,This game is so scary
-Dialogue: 0,00:06:04.37,00:06:06.01,Default,,0,0,0,,Even the village chiefs are so addicted
-Dialogue: 0,00:06:07.01,00:06:07.61,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:06:04.37,00:06:06.01,Default,,0,0,0,,Even Mr. Slowys are so addicted
+Dialogue: 0,00:06:07.01,00:06:07.61,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:06:07.61,00:06:08.97,Default,,0,0,0,,Have a break
 Dialogue: 0,00:06:13.09,00:06:14.69,Default,,0,0,0,,Don’t snatch my game machine!
 Dialogue: 0,00:06:16.33,00:06:17.05,Default,,0,0,0,,Not given!
 Dialogue: 0,00:06:17.93,00:06:18.93,Default,,0,0,0,,That’s the case!
 Dialogue: 0,00:06:30.97,00:06:32.97,Default,,0,0,0,,Then I’ll suck the game machine
-Dialogue: 0,00:06:41.49,00:06:43.29,Default,,0,0,0,,Village chief…
-Dialogue: 0,00:06:43.85,00:06:44.45,Default,,0,0,0,,Village chief…!
+Dialogue: 0,00:06:41.49,00:06:43.29,Default,,0,0,0,,Mr. Slowy…
+Dialogue: 0,00:06:43.85,00:06:44.45,Default,,0,0,0,,Mr. Slowy…!
 Dialogue: 0,00:06:44.49,00:06:45.41,Default,,0,0,0,,Don’t get closer
 Dialogue: 0,00:06:45.45,00:06:46.73,Default,,0,0,0,,I’ve beaten my game!
-Dialogue: 0,00:06:46.73,00:06:48.17,Default,,0,0,0,,Village Chief, be careful
+Dialogue: 0,00:06:46.73,00:06:48.17,Default,,0,0,0,,Mr. Slowy, be careful
 Dialogue: 0,00:06:48.21,00:06:49.21,Default,,0,0,0,,Come down soon
 Dialogue: 0,00:06:49.29,00:06:50.61,Default,,0,0,0,,What should I do
 Dialogue: 0,00:07:02.61,00:07:03.69,Default,,0,0,0,,Butterfly Butterfly
-Dialogue: 0,00:07:03.73,00:07:05.29,Default,,0,0,0,,Help bring the village chief down
+Dialogue: 0,00:07:03.73,00:07:05.29,Default,,0,0,0,,Help bring Mr. Slowy down
 Dialogue: 0,00:07:07.45,00:07:09.37,Default,,0,0,0,,Go on quickly
 Dialogue: 0,00:07:09.69,00:07:11.61,Default,,0,0,0,,Why there is only one game machine
 Dialogue: 0,00:07:12.65,00:07:14.49,Default,,0,0,0,,And was he taken away by the old goat?
@@ -171,7 +171,7 @@ Dialogue: 0,00:07:14.53,00:07:16.93,Default,,0,0,0,,It shouldn’t be written by
 Dialogue: 0,00:07:17.05,00:07:18.69,Default,,0,0,0,,Who is this Ma Hu?
 Dialogue: 0,00:07:19.13,00:07:20.85,Default,,0,0,0,,Didn’t you send it to me?
 Dialogue: 0,00:07:24.13,00:07:25.41,Default,,0,0,0,,Look at it again
-Dialogue: 0,00:07:26.37,00:07:27.09,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:07:26.37,00:07:27.09,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:07:27.13,00:07:28.45,Default,,0,0,0,,Let’s have a picnic
 Dialogue: 0,00:07:28.49,00:07:29.05,Default,,0,0,0,,Don’t go!
 Dialogue: 0,00:07:29.49,00:07:30.97,Default,,0,0,0,,You didn’t suggest us before
@@ -217,7 +217,7 @@ Dialogue: 0,00:09:09.53,00:09:10.45,Default,,0,0,0,,Give it to me!
 Dialogue: 0,00:09:11.37,00:09:12.45,Default,,0,0,0,,Give it to me
 Dialogue: 0,00:09:13.33,00:09:14.93,Default,,0,0,0,,Not good!
 Dialogue: 0,00:09:14.93,00:09:16.01,Default,,0,0,0,,Bacteria to make BB Goat
-Dialogue: 0,00:09:16.01,00:09:18.17,Default,,0,0,0,,Both the village chief were captured!
+Dialogue: 0,00:09:16.01,00:09:18.17,Default,,0,0,0,,Both Mr. Slowy were captured!
 Dialogue: 0,00:09:19.53,00:09:20.73,Default,,0,0,0,,It’s time for me
 Dialogue: 0,00:09:20.77,00:09:22.41,Default,,0,0,0,,Give me quickly
 Dialogue: 0,00:09:22.45,00:09:24.37,Default,,0,0,0,,Wait and play another game
@@ -240,20 +240,20 @@ Dialogue: 0,00:09:54.65,00:09:55.61,Default,,0,0,0,,I want to play, too!
 Dialogue: 0,00:09:56.69,00:09:58.41,Default,,0,0,0,,BB Goat! We’re here!
 Dialogue: 0,00:09:58.49,00:09:59.17,Default,,0,0,0,,Give it to me
 Dialogue: 0,00:09:59.29,00:09:59.85,Default,,0,0,0,,Look quickly
-Dialogue: 0,00:09:59.89,00:10:01.81,Default,,0,0,0,,The village chief must be protecting BB Goat
+Dialogue: 0,00:09:59.89,00:10:01.81,Default,,0,0,0,,Mr. Slowy must be protecting BB Goat
 Dialogue: 0,00:10:04.01,00:10:04.93,Default,,0,0,0,,It’s here!
-Dialogue: 0,00:10:05.53,00:10:06.09,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:10:05.53,00:10:06.09,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:10:06.21,00:10:06.97,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:10:06.97,00:10:08.97,Default,,0,0,0,,-You are fine, are you?
 -Pleasant Brother Goat, you are here!
-Dialogue: 0,00:10:09.81,00:10:10.77,Default,,0,0,0,,The village chief is
+Dialogue: 0,00:10:09.81,00:10:10.77,Default,,0,0,0,,Mr. Slowy is
 Dialogue: 0,00:10:13.33,00:10:15.01,Default,,0,0,0,,Let’s go back and play first
 Dialogue: 0,00:10:15.49,00:10:16.53,Default,,0,0,0,,Wait a little longer
 Dialogue: 0,00:10:16.57,00:10:17.81,Default,,0,0,0,,Just be fine in a moment
 Dialogue: 0,00:10:19.25,00:10:20.81,Default,,0,0,0,,Give me the game machine!
-Dialogue: 0,00:10:21.69,00:10:23.29,Default,,0,0,0,,The village chief is already fascinated
+Dialogue: 0,00:10:21.69,00:10:23.29,Default,,0,0,0,,Mr. Slowy is already fascinated
 Dialogue: 0,00:10:23.49,00:10:25.77,Default,,0,0,0,,It seems we can only take the game machine away
-Dialogue: 0,00:10:25.89,00:10:27.73,Default,,0,0,0,,The village chief will leave with us
+Dialogue: 0,00:10:25.89,00:10:27.73,Default,,0,0,0,,Mr. Slowy will leave with us
 Dialogue: 0,00:10:31.29,00:10:31.89,Default,,0,0,0,,Get it!
 Dialogue: 0,00:10:33.17,00:10:33.85,Default,,0,0,0,,terribly sorry!
 Dialogue: 0,00:10:33.89,00:10:35.21,Default,,0,0,0,,Please leave the game machine
@@ -275,13 +275,13 @@ Dialogue: 0,00:11:25.45,00:11:26.89,Default,,0,0,0,,Slowy?
 Dialogue: 0,00:11:27.29,00:11:27.93,Default,,0,0,0,,BB Goat
 Dialogue: 0,00:11:28.33,00:11:29.61,Default,,0,0,0,,Let’s go back soon!
 Dialogue: 0,00:11:31.29,00:11:34.61,Default,,0,0,0,,My game machine!
-Dialogue: 0,00:11:39.49,00:11:40.01,Default,,0,0,0,,Village Chief
+Dialogue: 0,00:11:39.49,00:11:40.01,Default,,0,0,0,,Mr. Slowy
 Dialogue: 0,00:11:40.09,00:11:41.69,Default,,0,0,0,,Why don’t you come to class yet
 Dialogue: 0,00:11:41.81,00:11:43.81,Default,,0,0,0,,There will be no postmortem
-Dialogue: 0,00:11:44.29,00:11:46.53,Default,,0,0,0,,Should we go and see the village chief?
+Dialogue: 0,00:11:44.29,00:11:46.53,Default,,0,0,0,,Should we go and see Mr. Slowy?
 Dialogue: 0,00:11:46.93,00:11:48.17,Default,,0,0,0,,Children are early
-Dialogue: 0,00:11:48.61,00:11:50.17,Default,,0,0,0,,Village chief is early!
-Dialogue: 0,00:11:51.33,00:11:52.97,Default,,0,0,0,,You’re fine, right? Village Chief
+Dialogue: 0,00:11:48.61,00:11:50.17,Default,,0,0,0,,Mr. Slowy is early!
+Dialogue: 0,00:11:51.33,00:11:52.97,Default,,0,0,0,,You’re fine, right? Mr. Slowy
 Dialogue: 0,00:11:53.41,00:11:54.45,Default,,0,0,0,,It’s OK
 Dialogue: 0,00:11:54.61,00:11:56.21,Default,,0,0,0,,Thank you for your hard work these days
 Dialogue: 0,00:11:56.85,00:11:58.53,Default,,0,0,0,,I forbid you to play games
@@ -289,7 +289,7 @@ Dialogue: 0,00:11:58.57,00:11:59.97,Default,,0,0,0,,Instead, I’m addicted
 Dialogue: 0,00:11:59.97,00:12:00.81,Default,,0,0,0,,sorry
 Dialogue: 0,00:12:01.33,00:12:02.81,Default,,0,0,0,,So we’re out of the household today
 Dialogue: 0,00:12:02.81,00:12:03.97,Default,,0,0,0,,Let’s go to the preview class
-Dialogue: 0,00:12:04.45,00:12:06.29,Default,,0,0,0,,Is what the village chief said true?
+Dialogue: 0,00:12:04.45,00:12:06.29,Default,,0,0,0,,Is what Mr. Slowy said true?
 Dialogue: 0,00:12:06.45,00:12:07.53,Default,,0,0,0,,marvelous!
 Dialogue: 0,00:12:08.61,00:12:09.49,Default,,0,0,0,,Brother and sister
 Dialogue: 0,00:12:09.61,00:12:10.73,Default,,0,0,0,,Let’s play!

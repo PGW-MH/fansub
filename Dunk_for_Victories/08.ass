@@ -50,7 +50,7 @@ Dialogue: 0,0:02:56.68,0:03:00.60,Default,,0,0,0,,With so many people, not a sin
 Dialogue: 0,0:03:03.32,0:03:06.44,Default,,0,0,0,,Point guard is essential; more tryouts tomorrow.
 Dialogue: 0,0:03:06.92,0:03:07.72,Default,,0,0,0,,Wait a minute.
 Dialogue: 0,0:03:08.52,0:03:09.64,Default,,0,0,0,,Tibbie
-Dialogue: 0,0:03:10.60,0:03:12.44,Default,,0,0,0,,Coach, Village Chief
+Dialogue: 0,0:03:10.60,0:03:12.44,Default,,0,0,0,,Coach, Mr. Slowy
 Dialogue: 0,0:03:13.48,0:03:15.48,Default,,0,0,0,,I want to join the team.
 Dialogue: 0,0:03:18.20,0:03:21.56,Default,,0,0,0,,Great! We were just thinking of getting a cheerleading squad.
 Dialogue: 0,0:03:22.04,0:03:23.56,Default,,0,0,0,,What cheerleaders?
@@ -65,10 +65,10 @@ Dialogue: 0,0:03:47.00,0:03:49.40,Default,,0,0,0,,First, you must pass the trial
 Dialogue: 0,0:03:49.56,0:03:51.32,Default,,0,0,0,,Trials are tough.
 Dialogue: 0,0:03:51.80,0:03:54.76,Default,,0,0,0,,Maybe we should start as cheerleaders first.
 Dialogue: 0,0:03:56.76,0:03:57.72,Default,,0,0,0,,I’m not afraid
-Dialogue: 0,0:03:57.72,0:03:59.32,Default,,0,0,0,,Coach, Village Chief
+Dialogue: 0,0:03:57.72,0:03:59.32,Default,,0,0,0,,Coach, Mr. Slowy
 Dialogue: 0,0:03:59.32,0:04:01.16,Default,,0,0,0,,Please give me a chance.
 Dialogue: 0,0:04:04.92,0:04:08.28,Default,,0,0,0,,Anyone can play basketball once they pass the tryouts.
-Dialogue: 0,0:04:08.84,0:04:11.56,Default,,0,0,0,,Thank you, village chief. Thank you, coach.
+Dialogue: 0,0:04:08.84,0:04:11.56,Default,,0,0,0,,Thank you, Mr. Slowy. Thank you, coach.
 Dialogue: 0,0:04:11.56,0:04:13.16,Default,,0,0,0,,I will definitely work harder.
 Dialogue: 0,0:04:15.56,0:04:18.60,Default,,0,0,0,,Tibbie barely passed the physical fitness test.
 Dialogue: 0,0:04:18.60,0:04:21.24,Default,,0,0,0,,Now let’s begin the dribbling test.
@@ -122,11 +122,11 @@ Dialogue: 0,0:07:50.60,0:07:53.00,Default,,0,0,0,,I’ll pass the ball to you if
 Dialogue: 0,0:07:53.88,0:07:57.16,Default,,0,0,0,,You’re injured and need to rest properly.
 Dialogue: 0,0:07:57.16,0:07:58.92,Default,,0,0,0,,We won’t pass the ball to you anymore.
 Dialogue: 0,0:08:01.80,0:08:03.88,Default,,0,0,0,,Then I’ll ask someone else for help.
-Dialogue: 0,0:08:08.36,0:08:11.16,Default,,0,0,0,,Village chief, please help me!
+Dialogue: 0,0:08:08.36,0:08:11.16,Default,,0,0,0,,Mr. Slowy, please help me!
 Dialogue: 0,0:08:11.16,0:08:13.56,Default,,0,0,0,,I won’t make you a passing machine.
 Dialogue: 0,0:08:14.52,0:08:16.44,Default,,0,0,0,,Look at you, you’re all injured.
 Dialogue: 0,0:08:17.00,0:08:20.36,Default,,0,0,0,,She still wants to keep practicing, just to chase after her idol.
-Dialogue: 0,0:08:22.04,0:08:24.28,Default,,0,0,0,,Village chief. That’s not how it is.
+Dialogue: 0,0:08:22.04,0:08:24.28,Default,,0,0,0,,Mr. Slowy. That’s not how it is.
 Dialogue: 0,0:08:26.60,0:08:27.80,Default,,0,0,0,,When I was a child
 Dialogue: 0,0:08:30.28,0:08:31.72,Default,,0,0,0,,I am weak
 Dialogue: 0,0:08:32.36,0:08:36.44,Default,,0,0,0,,She cries at the slightest difficulty or setback.
@@ -142,13 +142,13 @@ Dialogue: 0,0:09:05.72,0:09:07.40,Default,,0,0,0,,I want to join the basketball 
 Dialogue: 0,0:09:07.80,0:09:10.52,Default,,0,0,0,,It’s not just about being closer to Leopardess (elder).
 Dialogue: 0,0:09:10.92,0:09:12.28,Default,,0,0,0,,More importantly
 Dialogue: 0,0:09:12.28,0:09:16.52,Default,,0,0,0,,I want to become as strong as Leopardess (elder) through playing basketball.
-Dialogue: 0,0:09:17.24,0:09:19.64,Default,,0,0,0,,Village chief, can you help me?
+Dialogue: 0,0:09:17.24,0:09:19.64,Default,,0,0,0,,Mr. Slowy, can you help me?
 Dialogue: 0,0:09:22.60,0:09:27.24,Default,,0,0,0,,So that’s how it is.
 Dialogue: 0,0:09:27.56,0:09:29.24,Default,,0,0,0,,Silly child… wait
 Dialogue: 0,0:09:34.04,0:09:38.60,Default,,0,0,0,,This passing machine can mimic the force and angle of a real pass.
 Dialogue: 0,0:09:39.24,0:09:41.08,Default,,0,0,0,,Use it to practice.
 Dialogue: 0,0:09:41.24,0:09:43.72,Default,,0,0,0,,However, you must take care of your health!
-Dialogue: 0,0:09:44.20,0:09:45.40,Default,,0,0,0,,Thank you, village chief.
+Dialogue: 0,0:09:44.20,0:09:45.40,Default,,0,0,0,,Thank you, Mr. Slowy.
 Dialogue: 0,0:09:45.56,0:09:47.80,Default,,0,0,0,,Please help me start the ball machine.
 Dialogue: 0,0:09:48.28,0:09:48.92,Default,,0,0,0,,good
 Dialogue: 0,0:09:58.84,0:09:59.56,Default,,0,0,0,,continue
