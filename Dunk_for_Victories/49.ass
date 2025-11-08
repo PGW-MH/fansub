@@ -17,7 +17,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.56,0:00:20.36,Default,,0,0,0,,As mentioned in the previous episode, because Weslie was injured…
-Dialogue: 0,0:00:20.36,0:00:24.92,Default,,0,0,0,,Blazey is looking for a new player for the Goat team but can’t find a suitable candidate.
+Dialogue: 0,0:00:20.36,0:00:24.92,Default,,0,0,0,,Blazey is looking for a new player for the Goat Team but can’t find a suitable candidate.
 Dialogue: 0,0:00:24.92,0:00:28.44,Default,,0,0,0,,On the other side, Weslie and Wolffy worked together seamlessly.
 Dialogue: 0,0:00:28.44,0:00:30.68,Default,,0,0,0,,The puzzle was solved using a basketball.
 Dialogue: 0,0:00:31.08,0:00:37.00,Default,,0,0,0,,Blazey witnessed this and confirmed Wolffy as the new member of Team Goat.
@@ -109,7 +109,7 @@ Dialogue: 0,0:06:39.72,0:06:41.48,Default,,0,0,0,,They’ve fallen behind so qui
 Dialogue: 0,0:06:41.96,0:06:45.16,Default,,0,0,0,,I knew it! How could the Goat-Wolves team possibly win?
 Dialogue: 0,0:06:45.16,0:06:47.00,Default,,0,0,0,,If you’re so good, you do it!
 Dialogue: 0,0:06:47.56,0:06:50.12,Default,,0,0,0,,Does this even look like a proper basketball game?
-Dialogue: 0,0:06:50.12,0:06:52.12,Default,,0,0,0,,What’s the connection between being on the same team as wolves and sheep (GOAT)?
+Dialogue: 0,0:06:50.12,0:06:52.12,Default,,0,0,0,,What’s the connection between being on the same team as wolves and goats?
 Dialogue: 0,0:06:52.12,0:06:55.08,Default,,0,0,0,,Team Defenders’ morale has been affected.
 Dialogue: 0,0:06:55.08,0:06:57.48,Default,,0,0,0,,Win rate prediction: 80%
 Dialogue: 0,0:06:57.48,0:06:59.24,Default,,0,0,0,,0-1 receiving the ball

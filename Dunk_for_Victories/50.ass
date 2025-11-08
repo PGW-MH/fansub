@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.24,0:00:20.92,Default,,0,0,0,,In the previous episode, we saw the Goat team compete against the suspicious Machine team.
+Dialogue: 0,0:00:17.24,0:00:20.92,Default,,0,0,0,,In the previous episode, we saw the Goat Team compete against the suspicious Machine team.
 Dialogue: 0,0:00:20.92,0:00:23.40,Default,,0,0,0,,Wolffy performed brilliantly in his first match.
 Dialogue: 0,0:00:23.56,0:00:28.12,Default,,0,0,0,,Unexpectedly, the robot team gained the upper hand using a rule-breaking tactic.
 Dialogue: 0,0:00:28.12,0:00:33.40,Default,,0,0,0,,Despite being sidelined due to injury, Weslie found a way to help the team break through.
@@ -146,7 +146,7 @@ Dialogue: 0,0:12:00.20,0:12:01.56,Default,,0,0,0,,That’s great, Weslie.
 Dialogue: 0,0:12:01.56,0:12:02.84,Default,,0,0,0,,The rest is up to you.
 Dialogue: 0,0:12:06.20,0:12:07.64,Default,,0,0,0,,Bring victory back!
 Dialogue: 0,0:12:14.04,0:12:15.40,Default,,0,0,0,,Unforgivable
-Dialogue: 0,0:12:15.80,0:12:19.48,Default,,0,0,0,,I never expected those GOATs to fight like that.
+Dialogue: 0,0:12:15.80,0:12:19.48,Default,,0,0,0,,I never expected those goats to fight like that.
 Dialogue: 0,0:12:24.84,0:12:27.40,Default,,0,0,0,,I must win this game.
 Dialogue: 0,0:12:30.44,0:12:33.08,Default,,0,0,0,,The most powerful version 3.0 starts up.
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

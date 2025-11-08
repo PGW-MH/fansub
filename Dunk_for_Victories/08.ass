@@ -18,8 +18,8 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.64,0:00:21.64,Default,,0,0,0,,In the previous episode, we mentioned that Team Goat was facing difficulties in recruiting.
 Dialogue: 0,0:00:22.04,0:00:25.64,Default,,0,0,0,,Paddi passed the team entrance test because of his love for food.
-Dialogue: 0,0:00:25.64,0:00:31.32,Default,,0,0,0,,Showcase his pitching talent and become the first new player on the GOAT team.
-Dialogue: 0,0:00:32.36,0:00:36.52,Default,,0,0,0,,But the Goat team’s recruitment process has only just begun.
+Dialogue: 0,0:00:25.64,0:00:31.32,Default,,0,0,0,,Showcase his pitching talent and become the first new player on the Goat Team.
+Dialogue: 0,0:00:32.36,0:00:36.52,Default,,0,0,0,,But the Goat Team’s recruitment process has only just begun.
 Dialogue: 0,0:00:48.92,0:00:50.60,Default,,0,0,0,,Start dribbling practice
 Dialogue: 0,0:01:12.20,0:01:14.12,Default,,0,0,0,,Start passing training
 Dialogue: 0,0:01:17.72,0:01:18.68,Default,,0,0,0,,Watch me
