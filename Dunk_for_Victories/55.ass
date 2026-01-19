@@ -18,7 +18,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:09.12,0:00:12.44,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
 Dialogue: 0,0:00:15.00,0:00:16.48,Default,,0,0,0,,“Escape from danger”
-Dialogue: 0,0:00:18.08,0:00:19.08,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:18.08,0:00:19.08,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.16,0:00:21.60,Default,,0,0,0,,Blazey, Slowy, and the four little goats
 Dialogue: 0,0:00:21.72,0:00:23.24,Default,,0,0,0,,Controlled by wolves
 Dialogue: 0,0:00:23.36,0:00:25.64,Default,,0,0,0,,This was used to threaten Weslie and Wolffy.

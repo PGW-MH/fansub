@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.08,0:00:18.28,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.08,0:00:18.28,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.28,0:00:21.08,Default,,0,0,0,,Wolffy lied and claimed to be a star basketball player.
 Dialogue: 0,0:00:21.08,0:00:23.88,Default,,0,0,0,,Unexpectedly, Wolnie and her son suddenly visited the set.
 Dialogue: 0,0:00:23.88,0:00:27.64,Default,,0,0,0,,Wolffy put on an act to cover it up, but his teammates saw through it.

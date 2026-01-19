@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.64,0:00:19.00,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.64,0:00:19.00,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.00,0:00:22.52,Default,,0,0,0,,Lion Jay taught Sparky many power-forward techniques.
 Dialogue: 0,0:00:22.52,0:00:24.68,Default,,0,0,0,,Their friendship deepens
 Dialogue: 0,0:00:24.68,0:00:27.80,Default,,0,0,0,,Sparky realized that Lion Jay didn’t want to be an idol.

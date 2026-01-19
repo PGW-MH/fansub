@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.32,0:00:18.44,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.32,0:00:18.44,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.44,0:00:23.48,Default,,0,0,0,,Zi Tailang exposes Wolffy’s relationship with the goat and kicks him out of Team Wolves.
 Dialogue: 0,0:00:23.48,0:00:27.16,Default,,0,0,0,,On the other side, Ying Aotian forced Goat to fight him one-on-one.
 Dialogue: 0,0:00:27.16,0:00:29.00,Default,,0,0,0,,Wolffy lends a helping hand

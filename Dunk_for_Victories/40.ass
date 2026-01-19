@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.16,0:00:18.20,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.16,0:00:18.20,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.20,0:00:22.12,Default,,0,0,0,,Wolffy suggested to Victor that they play Blazey’s team basketball.
 Dialogue: 0,0:00:22.12,0:00:24.44,Default,,0,0,0,,Who knew Victor would be so resistant?
 Dialogue: 0,0:00:24.44,0:00:28.04,Default,,0,0,0,,He proved his individual basketball skills with a one-on-three game.

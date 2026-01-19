@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.56,0:00:18.76,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.56,0:00:18.76,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.76,0:00:23.24,Default,,0,0,0,,Despite the physical strain and Blazey’s objections, Weslie disregarded the pressure his body could withstand.
 Dialogue: 0,0:00:23.24,0:00:26.12,Default,,0,0,0,,Using an overloaded finishing move to defeat the defending champion
 Dialogue: 0,0:00:26.12,0:00:28.84,Default,,0,0,0,,Weslie’s foot injury worsened as a result.

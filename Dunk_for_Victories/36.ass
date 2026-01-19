@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.16,0:00:18.28,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.16,0:00:18.28,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.28,0:00:21.72,Default,,0,0,0,,Tibbie consistently used passing to help his team score.
 Dialogue: 0,0:00:21.72,0:00:25.96,Default,,0,0,0,,Leopardess (younger) also pushed his physical limits to the limit, pushing himself beyond his limits.
 Dialogue: 0,0:00:25.96,0:00:28.04,Default,,0,0,0,,Both teams gave it their all.

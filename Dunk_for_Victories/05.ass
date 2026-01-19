@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.32,0:00:18.44,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:17.32,0:00:18.44,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:18.44,0:00:22.52,Default,,0,0,0,,Weslie and Sparky are planning to hire Blazey as their basketball coach.
 Dialogue: 0,0:00:22.52,0:00:25.08,Default,,0,0,0,,To everyone’s surprise, an old goat opened the door.
 Dialogue: 0,0:00:25.08,0:00:27.16,Default,,0,0,0,,Until the three goats fell off the cliff

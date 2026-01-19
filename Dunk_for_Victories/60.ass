@@ -18,7 +18,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:09.44,0:00:12.36,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
 Dialogue: 0,0:00:14.84,0:00:16.64,Default,,0,0,0,,“champion”
-Dialogue: 0,0:00:18.52,0:00:19.40,Default,,0,0,0,,In the previous episode, we talked about
+Dialogue: 0,0:00:18.52,0:00:19.40,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.52,0:00:23.24,Default,,0,0,0,,Victor single-handedly broke away from Team Defenders
 Dialogue: 0,0:00:23.36,0:00:25.72,Default,,0,0,0,,But slowly Team Defenders
 Dialogue: 0,0:00:25.84,0:00:28.36,Default,,0,0,0,,Use team tactics to counter
