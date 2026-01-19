@@ -17,170 +17,173 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.80,0:00:22.12,Default,,0,0,0,,In the previous episode, Weslie and Sparky were signing up for the Basketball Game.
-Dialogue: 0,0:00:22.12,0:00:23.80,Default,,0,0,0,,But he was not favored by his clansmen.
-Dialogue: 0,0:00:23.88,0:00:27.40,Default,,0,0,0,,They bumped into the impressive Victor at the registration site.
-Dialogue: 0,0:00:27.56,0:00:28.92,Default,,0,0,0,,He humiliated me again.
+Dialogue: 0,0:00:22.12,0:00:23.80,Default,,0,0,0,,But they were not favored by other goats.
+Dialogue: 0,0:00:23.88,0:00:27.40,Default,,0,0,0,,They bumped into the impressive Victor at the registration site,
+Dialogue: 0,0:00:27.56,0:00:28.92,Default,,0,0,0,,and get humiliated by him.
 Dialogue: 0,0:00:29.32,0:00:31.48,Default,,0,0,0,,The two goats therefore made up their minds
-Dialogue: 0,0:00:31.48,0:00:34.28,Default,,0,0,0,,To prove that Goat Clan can also play basketball well.
+Dialogue: 0,0:00:31.48,0:00:34.28,Default,,0,0,0,,to prove that Goat Clan can also play basketball well.
 Dialogue: 0,0:00:34.28,0:00:36.12,Default,,0,0,0,,Will they succeed?
-Dialogue: 0,0:00:38.76,0:00:39.88,Default,,0,0,0,,The weather is really
-Dialogue: 0,0:00:41.64,0:00:44.20,Default,,0,0,0,,Children, what’s wrong?
+Dialogue: 0,0:00:38.76,0:00:39.88,Default,,0,0,0,,The weather is really…
+Dialogue: 0,0:00:41.64,0:00:44.20,Default,,0,0,0,,Kids, what’s wrong?
 Dialogue: 0,0:00:44.68,0:00:45.48,Default,,0,0,0,,Mr. Slowy.
 Dialogue: 0,0:00:46.28,0:00:47.64,Default,,0,0,0,,What are you going to do?
 Dialogue: 0,0:00:48.28,0:00:52.04,Default,,0,0,0,,We want to play basketball and win the Basketball Game championship.
 Dialogue: 0,0:00:53.56,0:00:57.24,Default,,0,0,0,,But our Goat Clan doesn’t have much of an advantage in basketball.
-Dialogue: 0,0:00:58.92,0:01:02.12,Default,,0,0,0,,But we’re confident Mr. Slowy will teach us basketball!
+Dialogue: 0,0:00:58.92,0:01:02.12,Default,,0,0,0,,But we’re confident, Mr. Slowy. Teach us basketball!
 Dialogue: 0,0:01:03.00,0:01:05.08,Default,,0,0,0,,I don’t know much about basketball either.
-Dialogue: 0,0:01:05.24,0:01:08.36,Default,,0,0,0,,That’s true, Mr. Slowy is only good at studying.
-Dialogue: 0,0:01:08.36,0:01:10.20,Default,,0,0,0,,Basketball
-Dialogue: 0,0:01:10.20,0:01:13.08,Default,,0,0,0,,Who says I’m only good at reading?
+Dialogue: 0,0:01:05.24,0:01:08.36,Default,,0,0,0,,That’s true. Mr. Slowy is only good at studying.
+Dialogue: 0,0:01:08.36,0:01:10.20,Default,,0,0,0,,As for basketball…
+Dialogue: 0,0:01:10.20,0:01:13.08,Default,,0,0,0,,Who says I’m only good at studying?
 Dialogue: 0,0:01:14.60,0:01:16.76,Default,,0,0,0,,It reminds me of that person again.
-Dialogue: 0,0:01:17.08,0:01:18.28,Default,,0,0,0,,That person
-Dialogue: 0,0:01:18.68,0:01:23.80,Default,,0,0,0,,That person is really good at basketball, but he always calls me a bookworm.
-Dialogue: 0,0:01:24.20,0:01:25.64,Default,,0,0,0,,ridiculous
+Dialogue: 0,0:01:17.08,0:01:18.28,Default,,0,0,0,,That person?
+Dialogue: 0,0:01:18.68,0:01:23.80,Default,,0,0,0,,That person is really good at basketball, but he always calls me a nerd.
+Dialogue: 0,0:01:24.20,0:01:25.64,Default,,0,0,0,,Ridiculous.
 Dialogue: 0,0:01:25.64,0:01:29.24,Default,,0,0,0,,Okay, then let me be your coach.
 Dialogue: 0,0:01:29.24,0:01:32.28,Default,,0,0,0,,You need to learn the basics of basketball first.
-Dialogue: 0,0:01:34.12,0:01:36.84,Default,,0,0,0,,I remember we were going to play a game at the stadium.
-Dialogue: 0,0:01:36.84,0:01:38.76,Default,,0,0,0,,Yes, we should have a competition.
-Dialogue: 0,0:01:38.76,0:01:39.24,Default,,0,0,0,,Let’s go
+Dialogue: 0,0:01:34.12,0:01:36.84,Default,,0,0,0,,I remember we were going to play a game at the court.
+Dialogue: 0,0:01:36.84,0:01:38.76,Default,,0,0,0,,Yes, we should have a game.
+Dialogue: 0,0:01:38.76,0:01:39.24,Default,,0,0,0,,Let’s go.
 Dialogue: 0,0:01:39.64,0:01:43.32,Default,,0,0,0,,Wait, our basketball theory class hasn’t even started yet!
-Dialogue: 0,0:01:47.32,0:01:49.88,Default,,0,0,0,,They finally escaped; Mr. Slowy always talks about theory.
-Dialogue: 0,0:01:49.88,0:01:52.60,Default,,0,0,0,,I don’t know when I’ll be able to practice.
+Dialogue: 0,0:01:47.32,0:01:49.88,Default,,0,0,0,,We finally escaped; Mr. Slowy always talks about theory.
+Dialogue: 0,0:01:49.88,0:01:52.60,Default,,0,0,0,,I don’t know when we’ll be able to practice.
 Dialogue: 0,0:01:53.32,0:01:56.84,Default,,0,0,0,,Yeah, why don’t we have a sparring match right now?
-Dialogue: 0,0:01:57.00,0:01:57.80,Default,,0,0,0,,Good idea
-Dialogue: 0,0:01:57.80,0:01:59.64,Default,,0,0,0,,careful
-Dialogue: 0,0:01:59.64,0:02:01.88,Default,,0,0,0,,Don’t shake them, they’re those two mice.
+Dialogue: 0,0:01:57.00,0:01:57.80,Default,,0,0,0,,Good idea!
+Dialogue: 0,0:01:57.80,0:01:59.64,Default,,0,0,0,,Take care.
+Dialogue: 0,0:01:59.64,0:02:01.88,Default,,0,0,0,,—Don’t shake!　—It’s those two rats.
 Dialogue: 0,0:02:03.32,0:02:04.44,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:02:07.16,0:02:11.88,Default,,0,0,0,,It turns out it was Weslie and someone else…
-Dialogue: 0,0:02:12.20,0:02:15.56,Default,,0,0,0,,Who? My name is Sparky.
-Dialogue: 0,0:02:16.04,0:02:18.44,Default,,0,0,0,,What are you doing to our basketball hoop?
-Dialogue: 0,0:02:19.08,0:02:22.28,Default,,0,0,0,,What, your basketball hoop? This is our basketball hoop.
-Dialogue: 0,0:02:23.56,0:02:27.88,Default,,0,0,0,,Since you lost the match to us, the field naturally belongs to us.
-Dialogue: 0,0:02:28.68,0:02:32.44,Default,,0,0,0,,Yes, whatever we want to demolish has nothing to do with you anymore.
-Dialogue: 0,0:02:34.68,0:02:37.96,Default,,0,0,0,,It was a mistake last time, let’s have another match!
+Dialogue: 0,0:02:07.16,0:02:11.88,Default,,0,0,0,,Turns out it’s Weslie and… Who’s he?
+Dialogue: 0,0:02:12.20,0:02:15.56,Default,,0,0,0,,Who? My name is Sparky!
+Dialogue: 0,0:02:16.04,0:02:18.44,Default,,0,0,0,,What are you doing to our hoop?
+Dialogue: 0,0:02:19.08,0:02:22.28,Default,,0,0,0,,What, your hoop? This is our hoop.
+Dialogue: 0,0:02:23.56,0:02:27.88,Default,,0,0,0,,Since you lost the game to us, the court naturally belongs to us.
+Dialogue: 0,0:02:28.68,0:02:32.44,Default,,0,0,0,,Yes, whatever we want to dismantle has nothing to do with you anymore.
+Dialogue: 0,0:02:34.68,0:02:37.96,Default,,0,0,0,,It was a mistake last time, let’s have another game!
 Dialogue: 0,0:02:39.56,0:02:42.20,Default,,0,0,0,,Do you want to lose again?
 Dialogue: 0,0:02:42.20,0:02:47.16,Default,,0,0,0,,If you guys lose again, you might as well quit playing basketball.
-Dialogue: 0,0:02:53.64,0:02:56.04,Default,,0,0,0,,Why are you silent now? Are you too scared to compete?
-Dialogue: 0,0:02:57.64,0:02:59.08,Default,,0,0,0,,Continue dismantling the rim
-Dialogue: 0,0:03:00.68,0:03:01.96,Default,,0,0,0,,Compare if you want
+Dialogue: 0,0:02:53.64,0:02:56.04,Default,,0,0,0,,Why are you silent now? Are you too scared to play?
+Dialogue: 0,0:02:57.64,0:02:59.08,Default,,0,0,0,,Go on dismantling the hoop.
+Dialogue: 0,0:03:00.68,0:03:01.96,Default,,0,0,0,,Play if you want.
 Dialogue: 0,0:03:06.76,0:03:08.04,Default,,0,0,0,,But Mr. Slowy
 Dialogue: 0,0:03:11.16,0:03:14.52,Default,,0,0,0,,Don’t worry, with my guidance you won’t lose.
 Dialogue: 0,0:03:15.88,0:03:18.04,Default,,0,0,0,,This old goat looks like something special.
 Dialogue: 0,0:03:18.60,0:03:20.12,Default,,0,0,0,,Next
-Dialogue: 0,0:03:22.60,0:03:37.24,Default,,0,0,0,,1 2 3 4, 5 6 7 8, 2 2 3 4, 5 6 7 8
-Dialogue: 0,0:03:38.60,0:03:40.76,Default,,0,0,0,,Look, there’s a match over here!
-Dialogue: 0,0:03:42.84,0:03:44.44,Default,,0,0,0,,Goat vs. Mouse
+Dialogue: 0,0:03:22.60,0:03:37.24,Default,,0,0,0,,One, two, three, four, five, six, seven, eight; two, two, three, four, five, six, seven, eight.
+Dialogue: 0,0:03:38.60,0:03:40.76,Default,,0,0,0,,Look, there’s a game over here!
+Dialogue: 0,0:03:42.84,0:03:44.44,Default,,0,0,0,,Goat vs. Rat.
 Dialogue: 0,0:03:50.68,0:03:52.36,Default,,0,0,0,,Finally, I don’t have to train anymore.
 Dialogue: 0,0:03:53.56,0:03:55.64,Default,,0,0,0,,How should I explain this to Wolnie?
 Dialogue: 0,0:03:59.96,0:04:01.40,Default,,0,0,0,,Let’s ignore that for now.
-Dialogue: 0,0:04:02.20,0:04:04.20,Default,,0,0,0,,Wolnie, son, I’m home.
-Dialogue: 0,0:04:04.44,0:04:05.24,Default,,0,0,0,,dad
+Dialogue: 0,0:04:02.20,0:04:04.20,Default,,0,0,0,,Wolnie, Wilie, I’m home.
+Dialogue: 0,0:04:04.44,0:04:05.24,Default,,0,0,0,,Daddy.
 Dialogue: 0,0:04:06.28,0:04:08.68,Default,,0,0,0,,You’re back just in time! Quickly, help me take in the clothes.
-Dialogue: 0,0:04:09.16,0:04:09.88,Default,,0,0,0,,good…
-Dialogue: 0,0:04:18.04,0:04:18.92,Default,,0,0,0,,not good
+Dialogue: 0,0:04:09.16,0:04:09.88,Default,,0,0,0,,Okay…
+Dialogue: 0,0:04:18.04,0:04:18.92,Default,,0,0,0,,Oh no.
 Dialogue: 0,0:04:23.72,0:04:26.76,Default,,0,0,0,,These actions have become conditioned reflexes.
-Dialogue: 0,0:04:34.68,0:04:36.68,Default,,0,0,0,,Let’s tell her now.
-Dialogue: 0,0:04:36.92,0:04:38.76,Default,,0,0,0,,Wolnie, I
-Dialogue: 0,0:04:41.32,0:04:43.16,Default,,0,0,0,,I’ll come over when I’m done with my work.
-Dialogue: 0,0:04:43.80,0:04:44.52,Default,,0,0,0,,good
+Dialogue: 0,0:04:34.68,0:04:36.68,Default,,0,0,0,,Let me tell her now.
+Dialogue: 0,0:04:36.92,0:04:38.76,Default,,0,0,0,,Wolnie, I…
+Dialogue: 0,0:04:38.76,0:04:41.32,Default,,0,0,0,,Oh, you can wash the vegetables in the kitchen first.
+Dialogue: 0,0:04:41.32,0:04:43.16,Default,,0,0,0,,I’ll come over when I’m done.
+Dialogue: 0,0:04:43.80,0:04:44.52,Default,,0,0,0,,Okay.
 Dialogue: 0,0:04:45.08,0:04:46.52,Default,,0,0,0,,I’ll go help too.
-Dialogue: 0,0:04:48.60,0:04:52.04,Default,,0,0,0,,Dad, I helped Mom with a lot of housework today!
+Dialogue: 0,0:04:48.60,0:04:52.04,Default,,0,0,0,,Dad, I helped Mommy with a lot of housework today!
 Dialogue: 0,0:04:52.28,0:04:53.72,Default,,0,0,0,,Really? Aren’t you tired?
-Dialogue: 0,0:04:53.72,0:04:56.52,Default,,0,0,0,,Not tired, Dad’s an athlete now.
+Dialogue: 0,0:04:53.72,0:04:56.52,Default,,0,0,0,,No! Daddy is an athlete now.
 Dialogue: 0,0:04:56.52,0:04:58.44,Default,,0,0,0,,Regular training is definitely more tiring.
 Dialogue: 0,0:04:58.44,0:05:01.16,Default,,0,0,0,,Wilie, Dad is no longer…
 Dialogue: 0,0:05:01.16,0:05:02.44,Default,,0,0,0,,Completed
-Dialogue: 0,0:05:03.32,0:05:04.52,Default,,0,0,0,,Come on, Wolffy
-Dialogue: 0,0:05:04.92,0:05:06.36,Default,,0,0,0,,Here’s something for you
+Dialogue: 0,0:05:03.32,0:05:04.52,Default,,0,0,0,,Come on, Wolffy!
+Dialogue: 0,0:05:04.92,0:05:06.36,Default,,0,0,0,,Here’s something for you.
 Dialogue: 0,0:05:06.76,0:05:08.52,Default,,0,0,0,,What is that?
-Dialogue: 0,0:05:10.52,0:05:11.80,Default,,0,0,0,,This is
+Dialogue: 0,0:05:10.52,0:05:11.80,Default,,0,0,0,,This is…
 Dialogue: 0,0:05:12.28,0:05:16.28,Default,,0,0,0,,A towel, you can use it to wipe away sweat during training.
-Dialogue: 0,0:05:16.28,0:05:19.72,Default,,0,0,0,,When it’s hot, just wet it and shake it to cool it down.
-Dialogue: 0,0:05:21.40,0:05:22.36,Default,,0,0,0,,Dad, look
+Dialogue: 0,0:05:16.28,0:05:19.72,Default,,0,0,0,,When it’s hot, just wet it and shake it to cool down.
+Dialogue: 0,0:05:21.40,0:05:22.36,Default,,0,0,0,,Daddy, look.
 Dialogue: 0,0:05:22.76,0:05:25.16,Default,,0,0,0,,My mother embroidered our family on it.
 Dialogue: 0,0:05:25.24,0:05:26.44,Default,,0,0,0,,Let me see.
 Dialogue: 0,0:05:34.68,0:05:36.28,Default,,0,0,0,,The embroidery is really ugly.
-Dialogue: 0,0:05:36.28,0:05:37.56,Default,,0,0,0,,What did you say
-Dialogue: 0,0:05:37.88,0:05:39.56,Default,,0,0,0,,I…this
-Dialogue: 0,0:05:39.56,0:05:42.20,Default,,0,0,0,,Dare to say it again?
+Dialogue: 0,0:05:36.28,0:05:37.56,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:05:37.88,0:05:39.56,Default,,0,0,0,,I… I…
+Dialogue: 0,0:05:39.56,0:05:42.20,Default,,0,0,0,,Dare you say it again?
 Dialogue: 0,0:05:42.20,0:05:43.72,Default,,0,0,0,,The embroidery is very good.
-Dialogue: 0,0:05:43.72,0:05:46.28,Default,,0,0,0,,Thank you Wolnie, thank you Willie
+Dialogue: 0,0:05:43.72,0:05:46.28,Default,,0,0,0,,Thank you Wolnie, thank you Wilie.
 Dialogue: 0,0:05:46.52,0:05:48.60,Default,,0,0,0,,I will definitely train hard.
-Dialogue: 0,0:05:52.04,0:05:55.48,Default,,0,0,0,,Is it okay for goat to be the referee in Ten-Ball?
-Dialogue: 0,0:05:55.80,0:05:58.36,Default,,0,0,0,,No problem, absolutely fair and just.
-Dialogue: 0,0:05:58.76,0:06:00.76,Default,,0,0,0,,Weslie, keep a close eye on the mouse.
-Dialogue: 0,0:06:00.76,0:06:01.40,Default,,0,0,0,,yes
-Dialogue: 0,0:06:01.40,0:06:03.56,Default,,0,0,0,,Sparky, keep a close eye on Shu Er
+Dialogue: 0,0:05:52.04,0:05:55.48,Default,,0,0,0,,Race to ten makes, and the old goat will be the referee, is that okay?
+Dialogue: 0,0:05:55.80,0:05:58.36,Default,,0,0,0,,Okay, absolutely fair and just.
+Dialogue: 0,0:05:58.76,0:06:00.76,Default,,0,0,0,,Weslie, keep a close eye on Champ.
+Dialogue: 0,0:06:00.76,0:06:01.40,Default,,0,0,0,,Roger.
+Dialogue: 0,0:06:01.40,0:06:03.56,Default,,0,0,0,,Sparky, keep a close eye on Shu Er.
 Dialogue: 0,0:06:03.72,0:06:05.72,Default,,0,0,0,,Let you go first.
-Dialogue: 0,0:06:06.28,0:06:07.40,Default,,0,0,0,,Then I won’t be polite.
-Dialogue: 0,0:06:12.76,0:06:14.92,Default,,0,0,0,,Goat’s dribbling has improved!
-Dialogue: 0,0:06:14.92,0:06:16.20,Default,,0,0,0,,Weslie, over here
+Dialogue: 0,0:06:06.28,0:06:07.40,Default,,0,0,0,,Then I’ll take it.
+Dialogue: 0,0:06:12.76,0:06:14.92,Default,,0,0,0,,The goat’s dribbling has improved!
+Dialogue: 0,0:06:14.92,0:06:16.20,Default,,0,0,0,,Weslie, over here!
 Dialogue: 0,0:06:24.84,0:06:26.12,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:06:30.60,0:06:33.08,Default,,0,0,0,,What a perfect start, little sheep (goat)!
-Dialogue: 0,0:06:33.88,0:06:35.08,Default,,0,0,0,,There’s still nine balls left.
+Dialogue: 0,0:06:30.60,0:06:33.08,Default,,0,0,0,,What a perfect start, little goat!
+Dialogue: 0,0:06:33.88,0:06:35.08,Default,,0,0,0,,You guys need nine more.
 Dialogue: 0,0:06:36.04,0:06:38.28,Default,,0,0,0,,It seems Goat Clan is still not up to par this year.
-Dialogue: 0,0:06:38.60,0:06:40.36,Default,,0,0,0,,The mouse scored its second goal.
-Dialogue: 0,0:06:43.72,0:06:45.08,Default,,0,0,0,,There’s still a chance, come again.
-Dialogue: 0,0:06:50.92,0:06:53.56,Default,,0,0,0,,Eight to zero, the goat is really suffering!
+Dialogue: 0,0:06:38.60,0:06:40.36,Default,,0,0,0,,The rats scored their second make.
+Dialogue: 0,0:06:43.72,0:06:45.08,Default,,0,0,0,,There’s still chances, come again.
+Dialogue: 0,0:06:50.92,0:06:53.56,Default,,0,0,0,,Eight to zero, the goats are really suffering!
 Dialogue: 0,0:06:53.96,0:06:56.44,Default,,0,0,0,,Ultimately, it’s just two kids playing house.
 Dialogue: 0,0:06:56.44,0:06:58.12,Default,,0,0,0,,That’s right.
 Dialogue: 0,0:07:09.48,0:07:12.68,Default,,0,0,0,,You guys still haven’t improved at all.
-Dialogue: 0,0:07:12.68,0:07:16.04,Default,,0,0,0,,Goat Clan wants to play basketball? They should go back and swat mosquitoes.
-Dialogue: 0,0:07:17.64,0:07:20.52,Default,,0,0,0,,Don’t go too far, there are still two goals left.
-Dialogue: 0,0:07:25.40,0:07:26.04,Default,,0,0,0,,What
+Dialogue: 0,0:07:12.68,0:07:16.04,Default,,0,0,0,,Goat Clan wants to play basketball? You better go back and swat mosquitoes.
+Dialogue: 0,0:07:17.64,0:07:20.52,Default,,0,0,0,,Don’t go too far, you still need two.
+Dialogue: 0,0:07:25.40,0:07:26.04,Default,,0,0,0,,What?
 Dialogue: 0,0:07:26.04,0:07:27.56,Default,,0,0,0,,Such a fast speed
 Dialogue: 0,0:07:27.64,0:07:31.80,Default,,0,0,0,,Who says the Goat Clan can’t play basketball? Let me play with you!
+Dialogue: 0,0:07:30.84,0:07:31.80,Default,,0,0,0,,Who’s that?
 Dialogue: 0,0:07:33.80,0:07:35.00,Default,,0,0,0,,Don’t underestimate us.
-Dialogue: 0,0:07:39.56,0:07:41.00,Default,,0,0,0,,Watch my steal
-Dialogue: 0,0:07:45.16,0:07:46.04,Default,,0,0,0,,SSSC
-Dialogue: 0,0:07:46.20,0:07:47.72,Default,,0,0,0,,Your ball control is amazing!
-Dialogue: 0,0:07:53.40,0:07:57.08,Default,,0,0,0,,No matter how good your ball control is, you can’t get past the defense of both of us.
-Dialogue: 0,0:08:26.28,0:08:27.24,Default,,0,0,0,,strong
-Dialogue: 0,0:08:30.44,0:08:36.28,Default,,0,0,0,,That dribbling, speed, and shooting motion…it’s just like that person’s.
-Dialogue: 0,0:08:42.36,0:08:43.48,Default,,0,0,0,,Good opportunity
+Dialogue: 0,0:07:39.56,0:07:41.00,Default,,0,0,0,,Watch my steal!
+Dialogue: 0,0:07:46.20,0:07:47.72,Default,,0,0,0,,His ball handling is amazing!
+Dialogue: 0,0:07:53.40,0:07:57.08,Default,,0,0,0,,No matter how good your ball handling is, you can’t get past the defense of both of us.
+Dialogue: 0,0:08:26.28,0:08:27.24,Default,,0,0,0,,So strong!
+Dialogue: 0,0:08:30.44,0:08:36.28,Default,,0,0,0,,The dribbling, speed, and shooting motion…it’s just like that person’s.
+Dialogue: 0,0:08:42.36,0:08:43.48,Default,,0,0,0,,Good opportunity!
 Dialogue: 0,0:09:13.76,0:09:15.28,Default,,0,0,0,,That was a three-pointer, right?
-Dialogue: 0,0:09:15.28,0:09:16.56,Default,,0,0,0,,yes.
-Dialogue: 0,0:09:16.56,0:09:18.24,Default,,0,0,0,,Wow, my idol is amazing…
+Dialogue: 0,0:09:15.28,0:09:16.56,Default,,0,0,0,,Yes.
+Dialogue: 0,0:09:16.56,0:09:18.10,Default,,0,0,0,,Wow, amazing! Idol!
+Dialogue: 0,0:09:18.10,0:09:20.24,Default,,0,0,0,,Isn’t he way too strong?
 Dialogue: 0,0:09:29.68,0:09:31.28,Default,,0,0,0,,You’ve lost, go back.
-Dialogue: 0,0:09:40.48,0:09:43.76,Default,,0,0,0,,The captains, only those four were selected as official players.
-Dialogue: 0,0:09:50.96,0:09:52.88,Default,,0,0,0,,Another one, number 99, escaped.
-Dialogue: 0,0:09:54.40,0:09:58.80,Default,,0,0,0,,If you can’t even stick to this much training, you don’t deserve to stay here.
+Dialogue: 0,0:09:40.48,0:09:43.76,Default,,0,0,0,,The captains, only those four were selected as formal players.
+Dialogue: 0,0:09:50.96,0:09:52.88,Default,,0,0,0,,Another one, No. 99, escaped.
+Dialogue: 0,0:09:54.40,0:09:58.80,Default,,0,0,0,,If he can’t even stick to this little training, he doesn’t deserve to stay here.
 Dialogue: 0,0:09:59.92,0:10:02.24,Default,,0,0,0,,But then there would be no substitutes.
 Dialogue: 0,0:10:03.28,0:10:05.84,Default,,0,0,0,,Five players are enough; no substitutes are needed.
 Dialogue: 0,0:10:07.84,0:10:12.00,Default,,0,0,0,,Is there anyone else who doesn’t want to practice, or who can’t stand it?
 Dialogue: 0,0:10:13.76,0:10:15.12,Default,,0,0,0,,Get out of here now.
 Dialogue: 0,0:10:15.76,0:10:18.24,Default,,0,0,0,,We will persevere.
-Dialogue: 0,0:10:18.56,0:10:20.08,Default,,0,0,0,,Me too
-Dialogue: 0,0:10:26.16,0:10:28.48,Default,,0,0,0,,Number 99, I thought he had run away.
+Dialogue: 0,0:10:18.56,0:10:20.08,Default,,0,0,0,,Me, too!
+Dialogue: 0,0:10:26.16,0:10:28.48,Default,,0,0,0,,No. 99, I thought he had run away.
 Dialogue: 0,0:10:33.44,0:10:37.12,Default,,0,0,0,,Please give me another chance. I promise I won’t run away again.
-Dialogue: 0,0:10:45.68,0:10:47.20,Default,,0,0,0,,Go run 500 laps around the track first.
-Dialogue: 0,0:10:50.24,0:10:51.36,Default,,0,0,0,,Captain is truly brilliant
-Dialogue: 0,0:10:54.96,0:10:56.80,Default,,0,0,0,,Dad is an athlete now.
-Dialogue: 0,0:10:56.80,0:10:59.36,Default,,0,0,0,,With this, you can wipe away the sweat during training.
-Dialogue: 0,0:11:00.48,0:11:01.44,Default,,0,0,0,,I ran
-Dialogue: 0,0:11:07.60,0:11:08.72,Default,,0,0,0,,Everyone, please continue practicing.
-Dialogue: 0,0:11:10.24,0:11:13.68,Default,,0,0,0,,good
-Dialogue: 0,0:11:13.68,0:11:16.48,Default,,0,0,0,,Masked Hero, are you participating in the Basketball Game?
+Dialogue: 0,0:10:45.68,0:10:47.20,Default,,0,0,0,,Go run five hundred laps around the track first.
+Dialogue: 0,0:10:50.24,0:10:51.36,Default,,0,0,0,,Captain is truly brilliant.
+Dialogue: 0,0:10:54.96,0:10:56.80,Default,,0,0,0,,Daddy is an athlete now.
+Dialogue: 0,0:10:56.80,0:10:59.36,Default,,0,0,0,,You can use it to wipe away sweat during training.
+Dialogue: 0,0:11:00.48,0:11:01.44,Default,,0,0,0,,I’ll go run!
+Dialogue: 0,0:11:07.60,0:11:08.72,Default,,0,0,0,,Everyone, go on practicing.
+Dialogue: 0,0:11:10.24,0:11:13.68,Default,,0,0,0,,Great!
+Dialogue: 0,0:11:13.68,0:11:16.48,Default,,0,0,0,,Masked hero, are you participating in the Basketball Game?
 Dialogue: 0,0:11:16.56,0:11:25.12,Default,,0,0,0,,So handsome… So cool… So amazing…
-Dialogue: 0,0:11:25.76,0:11:29.12,Default,,0,0,0,,Thank you so much for saving our stadium!
+Dialogue: 0,0:11:17.56,0:11:20.00,Default,,0,0,0,,When did so many people gather here?
+Dialogue: 0,0:11:20.00,0:11:25.12,Default,,0,0,0,,Just you wait!
+Dialogue: 0,0:11:25.76,0:11:29.12,Default,,0,0,0,,Thank you so much for saving our court!
 Dialogue: 0,0:11:29.52,0:11:32.16,Default,,0,0,0,,That was so cool, especially that dunk!
-Dialogue: 0,0:11:34.24,0:11:35.36,Default,,0,0,0,,What’s wrong with you
-Dialogue: 0,0:11:35.44,0:11:38.24,Default,,0,0,0,,How’s your old injury to your right knee? Old Lie
+Dialogue: 0,0:11:34.24,0:11:35.36,Default,,0,0,0,,What’s wrong with you?
+Dialogue: 0,0:11:35.44,0:11:38.24,Default,,0,0,0,,How’s your old injury to your right knee, Blazey?
 Dialogue: 0,0:11:39.68,0:11:42.64,Default,,0,0,0,,I thought you had stopped playing basketball a long time ago.
 Dialogue: 0,0:11:44.48,0:11:46.32,Default,,0,0,0,,Mr. Slowy, you two know each other?
 Dialogue: 0,0:11:46.32,0:11:49.44,Default,,0,0,0,,Yes, he is my classmate Blazey, who said I am
 Dialogue: 0,0:11:49.44,0:11:53.92,Default,,0,0,0,,Idol, please sign your autograph for me.
-Dialogue: 0,0:11:53.92,0:11:54.88,Default,,0,0,0,,Waiting for a senior
-Dialogue: 0,0:11:55.04,0:11:55.28,Default,,0,0,0,,Wait a minute, senior.
-Dialogue: 0,0:11:55.28,0:11:56.88,Default,,0,0,0,,Idol.
+Dialogue: 0,0:11:53.92,0:11:55.28,Default,,0,0,0,,Wait a minute, senior!
+Dialogue: 0,0:11:55.28,0:11:56.88,Default,,0,0,0,,Idol!
 Dialogue: 0,0:11:59.28,0:12:02.88,Default,,0,0,0,,If he were to become the coach, he might have a chance to win the Basketball Game.
-Dialogue: 0,0:12:03.36,0:12:05.28,Default,,0,0,0,,What, based on him?
-Dialogue: 0,0:12:05.28,0:12:06.40,Default,,0,0,0,,impossible
+Dialogue: 0,0:12:03.36,0:12:05.28,Default,,0,0,0,,What? Just him?
+Dialogue: 0,0:12:05.28,0:12:06.40,Default,,0,0,0,,Impossible!
 Dialogue: 0,0:12:06.88,0:12:11.20,Default,,0,0,0,,Mr. Slowy, we don’t want Goat Clan to continue being ridiculed for not being able to play basketball.
 Dialogue: 0,0:12:11.68,0:12:13.84,Default,,0,0,0,,I can be your coach too!
 Dialogue: 0,0:12:15.76,0:12:17.68,Default,,0,0,0,,It’s gone.
-Dialogue: 0,0:12:18.08,0:12:20.16,Default,,0,0,0,,Yes, Mr. Slowy only knows how to read books.
-Dialogue: 0,0:12:20.32,0:12:23.12,Default,,0,0,0,,We only want Blazey as our coach.
+Dialogue: 0,0:12:18.08,0:12:20.16,Default,,0,0,0,,Yes, Mr. Slowy is only good at studying.
+Dialogue: 0,0:12:20.32,0:12:23.12,Default,,0,0,0,,We only want senior Blazey as our coach.
 Dialogue: 0,0:12:25.28,0:12:31.04,Default,,0,0,0,,I’ll give you his address, and then I won’t go.
-Dialogue: 0,0:12:33.20,0:12:34.88,Default,,0,0,0,,Very good
+Dialogue: 0,0:12:33.20,0:12:34.88,Default,,0,0,0,,Great!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
