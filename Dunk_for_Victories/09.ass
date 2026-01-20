@@ -12,12 +12,16 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:08.88,0:00:12.20,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:14.80,0:00:16.92,Default,,0,0,0,,“Guardian Angel Under the Basket”
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,The Guardian under the Hoop
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:18.12,0:00:18.88,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.00,0:00:21.68,Default,,0,0,0,,Tibbie volunteered to join the team.
 Dialogue: 0,0:00:21.80,0:00:24.64,Default,,0,0,0,,However, her ball skills failed the assessment.
@@ -159,5 +163,4 @@ Dialogue: 0,0:12:12.56,0:12:13.20,Default,,0,0,0,,Okay
 Dialogue: 0,0:12:13.84,0:12:15.28,Default,,0,0,0,,Good luck in the game!
 Dialogue: 0,0:12:20.16,0:12:22.12,Default,,0,0,0,,Come take your photos here after you’ve registered!
 Dialogue: 0,0:12:29.76,0:12:32.72,Default,,0,0,0,,Three, two, one, laugh
-Dialogue: 0,0:12:36.28,0:12:37.12,Default,,0,0,0,,(to be continued)
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

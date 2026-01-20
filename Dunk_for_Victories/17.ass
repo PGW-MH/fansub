@@ -12,12 +12,16 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:09.04,0:00:12.32,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:15.32,0:00:17.48,Default,,0,0,0,,“Basketball with all your might”
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Going All Out in Basketball
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:18.28,0:00:19.16,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.28,0:00:22.56,Default,,0,0,0,,In the match between Team Defenders and Team Lion Heart
 Dialogue: 0,0:00:22.68,0:00:24.20,Default,,0,0,0,,The goats faced their first…
@@ -200,5 +204,4 @@ Dialogue: 0,0:12:18.64,0:12:20.52,Default,,0,0,0,,I will defeat the strongest yo
 Dialogue: 0,0:12:22.56,0:12:24.88,Default,,0,0,0,,We’re so far ahead, we should be fine, right?
 Dialogue: 0,0:12:24.96,0:12:26.12,Default,,0,0,0,,uncertain
 Dialogue: 0,0:12:27.68,0:12:31.32,Default,,0,0,0,,That 1% chance of losing appeared.
-Dialogue: 0,0:12:35.96,0:12:37.00,Default,,0,0,0,,(to be continued)
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

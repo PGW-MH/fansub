@@ -12,12 +12,16 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:09.12,0:00:12.72,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:15.68,0:00:16.80,Default,,0,0,0,,“Underground War”
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,The Underground Battle
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:18.96,0:00:20.08,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:20.20,0:00:23.92,Default,,0,0,0,,Paddi wants to get more canned goods for the team.
 Dialogue: 0,0:00:24.00,0:00:26.44,Default,,0,0,0,,Who knew I’d win Bucky
@@ -208,5 +212,4 @@ Dialogue: 0,0:12:09.76,0:12:12.36,Default,,0,0,0,,We are not hungry, not hungry
 Dialogue: 0,0:12:15.32,0:12:17.40,Default,,0,0,0,,She said she wasn’t hungry.
 Dialogue: 0,0:12:19.56,0:12:23.36,Default,,0,0,0,,It’s canned food… Thank you, brother…
 Dialogue: 0,0:12:23.48,0:12:25.68,Default,,0,0,0,,Very good…
-Dialogue: 0,0:12:36.04,0:12:36.84,Default,,0,0,0,,(to be continued)
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

@@ -12,12 +12,16 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:08.84,0:00:12.16,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:14.84,0:00:16.52,Default,,0,0,0,,“The decisive blow was overloaded”
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Buzzer Beating Overload
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.76,0:00:19.88,Default,,0,0,0,,In the previous episode, Jonie using a hook hand.
 Dialogue: 0,0:00:19.96,0:00:22.84,Default,,0,0,0,,Forcing Sky Hawk to use his strongest killing move
 Dialogue: 0,0:00:22.92,0:00:24.32,Default,,0,0,0,,Eagle Soars Through the Sky and Dunks
@@ -181,5 +185,4 @@ Dialogue: 0,0:12:16.40,0:12:17.08,Default,,0,0,0,,Weslie
 Dialogue: 0,0:12:17.68,0:12:19.00,Default,,0,0,0,,let me see
 Dialogue: 0,0:12:20.60,0:12:23.64,Default,,0,0,0,,It must be due to overloading, resulting in excessive burden.
 Dialogue: 0,0:12:23.72,0:12:25.12,Default,,0,0,0,,This resulted in a foot injury.
-Dialogue: 0,0:12:34.72,0:12:36.32,Default,,0,0,0,,(to be continued)
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

@@ -12,12 +12,16 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:09.12,0:00:12.44,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:15.00,0:00:16.48,Default,,0,0,0,,“Escape from danger”
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Escaping to Safety
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:18.08,0:00:19.08,Default,,0,0,0,,In the previous episode,
 Dialogue: 0,0:00:19.16,0:00:21.60,Default,,0,0,0,,Blazey, Slowy, and the four little goats
 Dialogue: 0,0:00:21.72,0:00:23.24,Default,,0,0,0,,Controlled by wolves
@@ -183,5 +187,4 @@ Dialogue: 0,0:12:10.40,0:12:11.76,Default,,0,0,0,,Are you disobedient?
 Dialogue: 0,0:12:14.48,0:12:16.48,Default,,0,0,0,,Run!
 Dialogue: 0,0:12:20.08,0:12:21.80,Default,,0,0,0,,Walk…
 Dialogue: 0,0:12:26.08,0:12:29.84,Default,,0,0,0,,You absolutely have to win…
-Dialogue: 0,0:12:33.72,0:12:35.84,Default,,0,0,0,,(to be continued)
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
