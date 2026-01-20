@@ -16,49 +16,49 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.40,0:00:21.56,Default,,0,0,0,,In the previous episode, Blazey guided the goats to defeat the two mice.
-Dialogue: 0,0:00:21.80,0:00:23.88,Default,,0,0,0,,And agreed to serve as the coach of the Goat Team.
-Dialogue: 0,0:00:24.52,0:00:28.60,Default,,0,0,0,,But when Slowy returned to Goats’ Village, he didn’t recognize the people in front of him.
+Dialogue: 0,0:00:17.40,0:00:21.56,Default,,0,0,0,,In the previous episode, Blazey guided the goats to defeat the two rats,
+Dialogue: 0,0:00:21.80,0:00:23.88,Default,,0,0,0,,and agreed to serve as the coach of the Goat Team.
+Dialogue: 0,0:00:24.52,0:00:28.60,Default,,0,0,0,,But when he returned to Goats’ Village, Slowy didn’t recognize him.
 Dialogue: 0,0:00:28.84,0:00:32.76,Default,,0,0,0,,Blazey’s appearance has undergone a complete transformation.
 Dialogue: 0,0:00:33.24,0:00:36.60,Default,,0,0,0,,What exactly happened to him?
 Dialogue: 0,0:00:40.20,0:00:42.04,Default,,0,0,0,,That won’t work.
-Dialogue: 0,0:00:42.36,0:00:43.32,Default,,0,0,0,,Listen to me
-Dialogue: 0,0:00:43.72,0:00:44.68,Default,,0,0,0,,Ignore
-Dialogue: 0,0:00:47.24,0:00:50.04,Default,,0,0,0,,Mr. Slowy, coach, please stop arguing.
-Dialogue: 0,0:00:50.04,0:00:52.04,Default,,0,0,0,,Tell me, whose opinion do you listen to?
-Dialogue: 0,0:00:56.52,0:00:57.72,Default,,0,0,0,,We want to hear
-Dialogue: 0,0:00:57.72,0:00:59.80,Default,,0,0,0,,The basketball team’s next steps
-Dialogue: 0,0:01:03.48,0:01:05.24,Default,,0,0,0,,This must be Xin’s.
+Dialogue: 0,0:00:42.36,0:00:43.32,Default,,0,0,0,,Listen to me!
+Dialogue: 0,0:00:43.72,0:00:44.68,Default,,0,0,0,,I won’t.
+Dialogue: 0,0:00:47.24,0:00:50.04,Default,,0,0,0,,Mr. Slowy, Coach, please stop arguing.
+Dialogue: 0,0:00:50.04,0:00:52.04,Default,,0,0,0,,Tell me, who are you listening to?
+Dialogue: 0,0:00:56.52,0:00:57.72,Default,,0,0,0,,We want to listen to—
+Dialogue: 0,0:00:57.72,0:00:59.80,Default,,0,0,0,,The basketball team’s next steps.
+Dialogue: 0,0:01:03.48,0:01:05.24,Default,,0,0,0,,Then you’re definitely listening to me!
 Dialogue: 0,0:01:07.00,0:01:10.36,Default,,0,0,0,,According to big data analysis, all the top teams
-Dialogue: 0,0:01:10.76,0:01:12.76,Default,,0,0,0,,There are many essential conditions.
-Dialogue: 0,0:01:12.76,0:01:16.44,Default,,0,0,0,,Training grounds, meeting rooms, lounges, etc.
+Dialogue: 0,0:01:10.76,0:01:12.76,Default,,0,0,0,,possess many essential conditions.
+Dialogue: 0,0:01:12.76,0:01:16.44,Default,,0,0,0,,Training grounds, meeting rooms, lounges, and so on.
 Dialogue: 0,0:01:17.56,0:01:18.92,Default,,0,0,0,,Not one can be missing.
 Dialogue: 0,0:01:20.68,0:01:21.96,Default,,0,0,0,,What do you know?
-Dialogue: 0,0:01:22.92,0:01:26.36,Default,,0,0,0,,In my experience, you can just recruit people and start training them directly.
+Dialogue: 0,0:01:22.92,0:01:26.36,Default,,0,0,0,,In my experience, you can just recruit players and start training directly.
 Dialogue: 0,0:01:26.92,0:01:28.52,Default,,0,0,0,,We are now in the data age
 Dialogue: 0,0:01:28.52,0:01:31.72,Default,,0,0,0,,Data is king, you have to listen to me.
 Dialogue: 0,0:01:32.28,0:01:36.44,Default,,0,0,0,,But you’ve never even touched a basketball, what right do you have to give orders?
-Dialogue: 0,0:01:37.00,0:01:39.24,Default,,0,0,0,,To help everyone build a basketball team
-Dialogue: 0,0:01:39.40,0:01:42.76,Default,,0,0,0,,I’ve really mastered all sorts of basketball knowledge these past few days.
-Dialogue: 0,0:01:43.08,0:01:45.96,Default,,0,0,0,,Mastered various key data for winning the game
+Dialogue: 0,0:01:37.00,0:01:39.24,Default,,0,0,0,,To help everyone build a basketball team,
+Dialogue: 0,0:01:39.40,0:01:42.76,Default,,0,0,0,,I’ve really mastered all sorts of basketball knowledge these past few days
+Dialogue: 0,0:01:43.08,0:01:45.96,Default,,0,0,0,,and mastered various key data for winning the game.
 Dialogue: 0,0:01:47.56,0:01:51.56,Default,,0,0,0,,Sports are not games; they cannot be measured by data.
 Dialogue: 0,0:01:52.28,0:01:55.08,Default,,0,0,0,,Anyway, I need to build the basketball facilities first.
 Dialogue: 0,0:01:57.96,0:02:01.80,Default,,0,0,0,,I’m the basketball team coach, so I need to recruit players first.
 Dialogue: 0,0:02:04.84,0:02:06.04,Default,,0,0,0,,Whom do you help?
-Dialogue: 0,0:02:08.52,0:02:10.36,Default,,0,0,0,,this.
-Dialogue: 0,0:02:13.00,0:02:14.92,Default,,0,0,0,,What should I do now?
+Dialogue: 0,0:02:08.52,0:02:10.36,Default,,0,0,0,,Hmm…
+Dialogue: 0,0:02:13.00,0:02:14.92,Default,,0,0,0,,What should we do now?
 Dialogue: 0,0:02:23.40,0:02:24.44,Default,,0,0,0,,They’re so stupid.
-Dialogue: 0,0:02:24.44,0:02:27.24,Default,,0,0,0,,If you can be lazy, why bother doing anything seriously?
-Dialogue: 0,0:02:29.72,0:02:34.44,Default,,0,0,0,,Number 99, how dare you slack off!
-Dialogue: 0,0:02:35.32,0:02:36.68,Default,,0,0,0,,Do 1,000 more
+Dialogue: 0,0:02:24.44,0:02:27.24,Default,,0,0,0,,If you can slack off, why bother doing it seriously?
+Dialogue: 0,0:02:29.72,0:02:34.44,Default,,0,0,0,,No. 99, how dare you slack off!
+Dialogue: 0,0:02:35.32,0:02:36.68,Default,,0,0,0,,Do one thousand more.
 Dialogue: 0,0:02:41.48,0:02:42.68,Default,,0,0,0,,What about the others?
 Dialogue: 0,0:02:45.40,0:02:47.96,Default,,0,0,0,,They were all seriously injured during training.
-Dialogue: 0,0:02:49.08,0:02:50.68,Default,,0,0,0,,Looks like we’ll have to hire new people again.
+Dialogue: 0,0:02:49.08,0:02:50.68,Default,,0,0,0,,Looks like we’ll have to recruit new players again.
 Dialogue: 0,0:02:53.40,0:02:55.72,Default,,0,0,0,,The chance to escape the training ground has arrived.
 Dialogue: 0,0:02:55.72,0:02:58.52,Default,,0,0,0,,This arduous task is entrusted to me.
 Dialogue: 0,0:02:58.52,0:03:01.32,Default,,0,0,0,,I promise to complete the task.
-Dialogue: 0,0:03:01.96,0:03:06.92,Default,,0,0,0,,Just make sure you complete the task; there are no prizes for this registration.
-Dialogue: 0,0:03:07.32,0:03:09.08,Default,,0,0,0,,There probably won’t be many people signing up.
+Dialogue: 0,0:03:01.96,0:03:06.92,Default,,0,0,0,,Just make sure you complete the task; there’s no gift this time.
+Dialogue: 0,0:03:07.32,0:03:09.08,Default,,0,0,0,,So there probably won’t be many people signing up.
 Dialogue: 0,0:03:09.08,0:03:10.44,Default,,0,0,0,,Then what am I supposed to do?
 Dialogue: 0,0:03:11.08,0:03:12.68,Default,,0,0,0,,Then you can continue training.
 Dialogue: 0,0:03:13.16,0:03:17.80,Default,,0,0,0,,No, watch how I complete the task.
@@ -67,117 +67,117 @@ Dialogue: 0,0:03:32.92,0:03:35.80,Default,,0,0,0,,Mr. Slowy, why is your relatio
 Dialogue: 0,0:03:36.20,0:03:38.04,Default,,0,0,0,,What happened before?
 Dialogue: 0,0:03:40.28,0:03:44.04,Default,,0,0,0,,At the time, I was the top student in Goats’ Village.
 Dialogue: 0,0:03:46.04,0:03:48.92,Default,,0,0,0,,Slowy, you’re so good at studying!
-Dialogue: 0,0:03:49.24,0:03:50.20,Default,,0,0,0,,yes
+Dialogue: 0,0:03:49.24,0:03:50.20,Default,,0,0,0,,Exactly, exactly.
 Dialogue: 0,0:03:51.64,0:03:56.20,Default,,0,0,0,,What’s the use of just studying? Basketball is the best!
 Dialogue: 0,0:03:58.68,0:04:00.68,Default,,0,0,0,,Blazey, you’re amazing at basketball!
-Dialogue: 0,0:04:00.68,0:04:02.36,Default,,0,0,0,,yes
-Dialogue: 0,0:04:04.76,0:04:07.00,Default,,0,0,0,,Is being able to play basketball really that great?
+Dialogue: 0,0:04:00.68,0:04:02.36,Default,,0,0,0,,Exactly, exactly.
+Dialogue: 0,0:04:04.76,0:04:07.00,Default,,0,0,0,,Is being able to play basketball something amazing?
 Dialogue: 0,0:04:07.64,0:04:09.32,Default,,0,0,0,,Is being good at studying something amazing?
 Dialogue: 0,0:04:09.40,0:04:10.60,Default,,0,0,0,,That’s amazing!
 Dialogue: 0,0:04:10.60,0:04:14.20,Default,,0,0,0,,We argue about everything, and neither of us is willing to admit defeat.
 Dialogue: 0,0:04:18.04,0:04:19.56,Default,,0,0,0,,Oh, I see.
 Dialogue: 0,0:04:20.36,0:04:24.68,Default,,0,0,0,,Even so, there is still one person who hopes we can become good friends.
-Dialogue: 0,0:04:24.76,0:04:27.08,Default,,0,0,0,,That person is
-Dialogue: 0,0:04:27.64,0:04:29.00,Default,,0,0,0,,Stacy
+Dialogue: 0,0:04:24.76,0:04:27.08,Default,,0,0,0,,That person is—
+Dialogue: 0,0:04:27.64,0:04:29.00,Default,,0,0,0,,Stacy.
 Dialogue: 0,0:04:30.76,0:04:32.76,Default,,0,0,0,,You’re just being stubborn.
-Dialogue: 0,0:04:32.76,0:04:33.96,Default,,0,0,0,,You are the one
+Dialogue: 0,0:04:32.76,0:04:33.96,Default,,0,0,0,,You are the one.
 Dialogue: 0,0:04:34.76,0:04:36.68,Default,,0,0,0,,Okay, stop arguing.
-Dialogue: 0,0:04:37.48,0:04:39.80,Default,,0,0,0,,Can’t you two just give way to each other?
+Dialogue: 0,0:04:37.48,0:04:39.80,Default,,0,0,0,,Can’t you two just give each other a step back?
 Dialogue: 0,0:04:44.76,0:04:47.40,Default,,0,0,0,,Isn’t it nice to be friends?
 Dialogue: 0,0:04:49.00,0:04:52.68,Default,,0,0,0,,Stacy went to great lengths to make us friends.
 Dialogue: 0,0:04:53.96,0:04:56.84,Default,,0,0,0,,One day, Stacy invited me and Blazey…
-Dialogue: 0,0:04:57.08,0:04:59.56,Default,,0,0,0,,Let’s go to the tree at the station.
+Dialogue: 0,0:04:57.08,0:04:59.56,Default,,0,0,0,,to the tree at the station.
 Dialogue: 0,0:05:00.04,0:05:01.80,Default,,0,0,0,,But I didn’t make it.
-Dialogue: 0,0:05:02.12,0:05:03.24,Default,,0,0,0,,Why
-Dialogue: 0,0:05:05.24,0:05:07.64,Default,,0,0,0,,I’m sure I’ll have to say nice things about him again.
+Dialogue: 0,0:05:02.12,0:05:03.24,Default,,0,0,0,,Why?
+Dialogue: 0,0:05:05.24,0:05:07.64,Default,,0,0,0,,I’m sure she’ll say nice things about him again.
 Dialogue: 0,0:05:10.52,0:05:11.80,Default,,0,0,0,,I won’t listen.
 Dialogue: 0,0:05:13.40,0:05:16.60,Default,,0,0,0,,Unfortunately, Stacy left the next day.
 Dialogue: 0,0:05:17.16,0:05:20.68,Default,,0,0,0,,Oh, and she also gave me a gift.
 Dialogue: 0,0:05:20.84,0:05:23.16,Default,,0,0,0,,I’ve been carrying it on my person.
 Dialogue: 0,0:05:25.80,0:05:27.08,Default,,0,0,0,,I have one too.
 Dialogue: 0,0:05:27.80,0:05:32.60,Default,,0,0,0,,Coach, can I see the gift Grandma Stacy gave you?
-Dialogue: 0,0:05:33.96,0:05:34.92,Default,,0,0,0,,Thanks
+Dialogue: 0,0:05:33.96,0:05:34.92,Default,,0,0,0,,Thanks.
 Dialogue: 0,0:05:35.32,0:05:39.24,Default,,0,0,0,,I’m really curious what Grandma Stacy gave the coach back then.
 Dialogue: 0,0:05:41.56,0:05:43.96,Default,,0,0,0,,What is this…?
-Dialogue: 0,0:05:50.44,0:05:51.80,Default,,0,0,0,,how so
+Dialogue: 0,0:05:50.44,0:05:51.80,Default,,0,0,0,,How come—
 Dialogue: 0,0:05:53.32,0:05:55.72,Default,,0,0,0,,How come your gift is the same as mine?
-Dialogue: 0,0:06:01.96,0:06:02.76,Default,,0,0,0,,Give me back
-Dialogue: 0,0:06:06.20,0:06:09.00,Default,,0,0,0,,None of you went to see Grandma Stacy that day.
-Dialogue: 0,0:06:09.16,0:06:13.88,Default,,0,0,0,,Don’t you want to know why Grandma Stacy gave you these gifts?
-Dialogue: 0,0:06:13.88,0:06:14.76,Default,,0,0,0,,Mr. Slowy.
-Dialogue: 0,0:06:17.00,0:06:20.60,Default,,0,0,0,,If you go back together now, you might still be able to find some clues.
-Dialogue: 0,0:06:21.40,0:06:23.16,Default,,0,0,0,,I won’t go with him…
-Dialogue: 0,0:06:37.16,0:06:41.80,Default,,0,0,0,,Whether we find them or not, let’s rest enough first.
-Dialogue: 0,0:06:44.92,0:06:46.68,Default,,0,0,0,,We want to join the basketball team
-Dialogue: 0,0:06:48.12,0:06:49.64,Default,,0,0,0,,Sign it yourself
-Dialogue: 0,0:06:52.60,0:06:54.04,Default,,0,0,0,,Wolffy
+Dialogue: 0,0:06:01.96,0:06:02.76,Default,,0,0,0,,Give mine back.
+Dialogue: 0,0:06:06.20,0:06:09.00,Default,,0,0,0,,Neither of you went to see Grandma Stacy that day.
+Dialogue: 0,0:06:09.16,0:06:13.88,Default,,0,0,0,,Don’t you want to know why Grandma Stacy gave you these gifts,
+Dialogue: 0,0:06:13.88,0:06:14.76,Default,,0,0,0,,Mr. Slowy?
+Dialogue: 0,0:06:17.00,0:06:20.60,Default,,0,0,0,,If you go there together now, you might still be able to find some clues.
+Dialogue: 0,0:06:21.40,0:06:23.16,Default,,0,0,0,,I won’t go with him.
+Dialogue: 0,0:06:37.16,0:06:41.80,Default,,0,0,0,,Whether I can find players or not, let me rest enough first.
+Dialogue: 0,0:06:44.92,0:06:46.68,Default,,0,0,0,,We want to join the basketball team.
+Dialogue: 0,0:06:48.12,0:06:49.64,Default,,0,0,0,,Sign it yourself.
+Dialogue: 0,0:06:52.60,0:06:54.04,Default,,0,0,0,,Wolffy!
 Dialogue: 0,0:06:57.24,0:06:58.68,Default,,0,0,0,,Why is it you guys?
-Dialogue: 0,0:06:59.08,0:07:00.76,Default,,0,0,0,,Let’s join the team.
+Dialogue: 0,0:06:59.08,0:07:00.76,Default,,0,0,0,,We’re joining the team.
 Dialogue: 0,0:07:02.92,0:07:07.08,Default,,0,0,0,,Basketball training is too brutal; I can’t let them suffer like this.
 Dialogue: 0,0:07:07.80,0:07:11.48,Default,,0,0,0,,No, the spots are already full.
-Dialogue: 0,0:07:13.40,0:07:16.68,Default,,0,0,0,,Stop lying, you just asked us to sign your autographs.
+Dialogue: 0,0:07:13.40,0:07:16.68,Default,,0,0,0,,Stop lying, you just asked us to sign.
 Dialogue: 0,0:07:16.84,0:07:20.60,Default,,0,0,0,,No, basketball team training is very tough.
 Dialogue: 0,0:07:20.60,0:07:22.76,Default,,0,0,0,,You definitely won’t be able to stand it.
-Dialogue: 0,0:07:27.16,0:07:30.76,Default,,0,0,0,,This is what you mean by “hardship”
-Dialogue: 0,0:07:32.36,0:07:35.24,Default,,0,0,0,,I came out lazy, really.
+Dialogue: 0,0:07:27.16,0:07:30.76,Default,,0,0,0,,This is what you mean by “hardship”?
+Dialogue: 0,0:07:32.36,0:07:35.24,Default,,0,0,0,,I’m slacking off, really.
 Dialogue: 0,0:07:36.04,0:07:37.72,Default,,0,0,0,,We can do it too!
-Dialogue: 0,0:07:37.80,0:07:40.12,Default,,0,0,0,,Anyone can be lazy.
+Dialogue: 0,0:07:37.80,0:07:40.12,Default,,0,0,0,,Anyone knows how to slack off.
 Dialogue: 0,0:07:41.88,0:07:43.88,Default,,0,0,0,,That’s not true at all.
 Dialogue: 0,0:07:45.48,0:07:49.16,Default,,0,0,0,,Don’t think we don’t know, you’ll receive a gift just for signing up to join the team.
 Dialogue: 0,0:07:49.16,0:07:51.48,Default,,0,0,0,,Do you want to keep all the gifts for yourself?
 Dialogue: 0,0:07:55.64,0:08:00.68,Default,,0,0,0,,Let’s go, everyone! We’re going to sign up!
-Dialogue: 0,0:08:08.36,0:08:10.92,Default,,0,0,0,,I will not let you pass under any circumstances.
+Dialogue: 0,0:08:08.36,0:08:10.92,Default,,0,0,0,,I will never let you guys pass.
 Dialogue: 0,0:08:11.80,0:08:14.20,Default,,0,0,0,,Wolffy, what exactly are you trying to do?
-Dialogue: 0,0:08:14.76,0:08:17.32,Default,,0,0,0,,Uncle, I really didn’t lie to you.
+Dialogue: 0,0:08:14.76,0:08:17.32,Default,,0,0,0,,Uncle Warley, I really didn’t lie to you.
 Dialogue: 0,0:08:17.80,0:08:20.68,Default,,0,0,0,,The basketball team’s training is just too brutal.
 Dialogue: 0,0:08:20.68,0:08:23.32,Default,,0,0,0,,Many people were seriously injured and had to leave the team.
 Dialogue: 0,0:08:26.68,0:08:29.16,Default,,0,0,0,,Wolffy, we believe in you.
 Dialogue: 0,0:08:32.44,0:08:35.56,Default,,0,0,0,,That’s precisely why we came!
 Dialogue: 0,0:08:35.96,0:08:39.32,Default,,0,0,0,,Because you’re here, we can’t let you suffer any injustice.
-Dialogue: 0,0:08:39.32,0:08:40.52,Default,,0,0,0,,Third Uncle
+Dialogue: 0,0:08:39.32,0:08:40.52,Default,,0,0,0,,Uncle Warley!
 Dialogue: 0,0:08:40.60,0:08:43.80,Default,,0,0,0,,You’ve been complaining about feeling lonely and uncomfortable on the team.
 Dialogue: 0,0:08:44.52,0:08:46.76,Default,,0,0,0,,We’re here to keep you company.
 Dialogue: 0,0:08:46.84,0:08:50.60,Default,,0,0,0,,We are family; we share joys and sorrows.
 Dialogue: 0,0:08:51.96,0:08:52.76,Default,,0,0,0,,Everyone
 Dialogue: 0,0:08:52.76,0:08:58.44,Default,,0,0,0,,I didn’t expect you guys to be so kind to me. You really are good relatives of the Wolf Clan.
-Dialogue: 0,0:09:03.64,0:09:05.72,Default,,0,0,0,,Finally, registration is complete.
-Dialogue: 0,0:09:05.72,0:09:06.84,Default,,0,0,0,,Walk
+Dialogue: 0,0:09:03.64,0:09:05.72,Default,,0,0,0,,Finally, signing up is complete.
+Dialogue: 0,0:09:05.72,0:09:06.84,Default,,0,0,0,,Let’s leave.
 Dialogue: 0,0:09:09.00,0:09:12.04,Default,,0,0,0,,Wolffy, we’re teammates now.
-Dialogue: 0,0:09:12.04,0:09:13.88,Default,,0,0,0,,See you at the next training session
+Dialogue: 0,0:09:12.04,0:09:13.88,Default,,0,0,0,,See you at the next training session.
 Dialogue: 0,0:09:29.40,0:09:31.16,Default,,0,0,0,,Stacy, I’m sorry.
 Dialogue: 0,0:09:31.24,0:09:32.92,Default,,0,0,0,,I’m late.
 Dialogue: 0,0:09:35.88,0:09:39.32,Default,,0,0,0,,This is Stacy’s letter.
 Dialogue: 0,0:09:40.04,0:09:42.36,Default,,0,0,0,,I need to find something to take it down.
 Dialogue: 0,0:09:49.72,0:09:52.12,Default,,0,0,0,,Isn’t that Stacy’s letter?
-Dialogue: 0,0:09:55.96,0:09:57.16,Default,,0,0,0,,Yes
+Dialogue: 0,0:09:55.96,0:09:57.16,Default,,0,0,0,,Aha!
 Dialogue: 0,0:10:01.48,0:10:04.44,Default,,0,0,0,,Finally got up here and got it.
 Dialogue: 0,0:10:08.52,0:10:10.52,Default,,0,0,0,,You actually came too?
 Dialogue: 0,0:10:10.60,0:10:12.44,Default,,0,0,0,,Why can’t I come?
-Dialogue: 0,0:10:14.12,0:10:16.12,Default,,0,0,0,,Don’t try to swallow it all alone.
+Dialogue: 0,0:10:14.12,0:10:16.12,Default,,0,0,0,,Don’t try to monopolize it.
 Dialogue: 0,0:10:16.12,0:10:17.64,Default,,0,0,0,,I took it down
-Dialogue: 0,0:10:20.44,0:10:21.40,Default,,0,0,0,,this
-Dialogue: 0,0:10:35.96,0:10:37.40,Default,,0,0,0,,Let’s watch it together.
-Dialogue: 0,0:10:40.68,0:10:42.84,Default,,0,0,0,,Put your petals together
-Dialogue: 0,0:10:42.84,0:10:46.28,Default,,0,0,0,,Then insert the stick from the letter to assemble it into a bamboo dragonfly.
+Dialogue: 0,0:10:20.44,0:10:21.40,Default,,0,0,0,,This
+Dialogue: 0,0:10:35.96,0:10:37.40,Default,,0,0,0,,Let’s read it together.
+Dialogue: 0,0:10:40.68,0:10:42.84,Default,,0,0,0,,Put your petals together,
+Dialogue: 0,0:10:42.84,0:10:46.28,Default,,0,0,0,,then insert the stick from the letter to assemble it into a take-copter.
 Dialogue: 0,0:10:46.28,0:10:48.76,Default,,0,0,0,,You’ll see my message to you.
-Dialogue: 0,0:10:49.88,0:10:51.48,Default,,0,0,0,,stick
-Dialogue: 0,0:10:58.92,0:11:01.48,Default,,0,0,0,,This is a bamboo dragonfly.
-Dialogue: 0,0:11:09.96,0:11:11.32,Default,,0,0,0,,Stacy
-Dialogue: 0,0:11:11.96,0:11:16.44,Default,,0,0,0,,I had already left when you released this bamboo dragonfly.
+Dialogue: 0,0:10:49.88,0:10:51.48,Default,,0,0,0,,Stick?
+Dialogue: 0,0:10:58.92,0:11:01.48,Default,,0,0,0,,This—This is a take-copter.
+Dialogue: 0,0:11:09.96,0:11:11.32,Default,,0,0,0,,Stacy?
+Dialogue: 0,0:11:11.96,0:11:16.44,Default,,0,0,0,,I had already left when you released this take-copter.
 Dialogue: 0,0:11:18.76,0:11:23.80,Default,,0,0,0,,Do you remember that time we were playing in the forest, and I almost got caught by a wolf?
-Dialogue: 0,0:11:24.68,0:11:29.56,Default,,0,0,0,,I was terrified at the time, but you guys worked together to save me.
-Dialogue: 0,0:11:33.64,0:11:37.32,Default,,0,0,0,,At that time, I firmly believed that you, my collaborators, were the best.
-Dialogue: 0,0:11:37.88,0:11:40.68,Default,,0,0,0,,My greatest fortune is meeting you all.
+Dialogue: 0,0:11:24.68,0:11:29.56,Default,,0,0,0,,I was terrified at the time, but you two’s teamwork saved me.
+Dialogue: 0,0:11:33.64,0:11:37.32,Default,,0,0,0,,At that time, I firmly believed that you two’s teamwork was the best.
+Dialogue: 0,0:11:37.88,0:11:40.68,Default,,0,0,0,,My greatest fortune is meeting you two.
 Dialogue: 0,0:11:40.68,0:11:44.12,Default,,0,0,0,,If possible, please make up.
 Dialogue: 0,0:11:44.12,0:11:45.88,Default,,0,0,0,,Even if I’m gone…
-Dialogue: 0,0:11:46.12,0:11:51.08,Default,,0,0,0,,Finally, I hope you can fly higher and farther like bamboo dragonflies.
+Dialogue: 0,0:11:46.12,0:11:51.08,Default,,0,0,0,,Finally, I hope you can fly higher and farther like take-copters.
 Dialogue: 0,0:12:00.76,0:12:02.20,Default,,0,0,0,,Let’s work together.
-Dialogue: 0,0:12:03.96,0:12:05.16,Default,,0,0,0,,but
-Dialogue: 0,0:12:05.16,0:12:07.88,Default,,0,0,0,,The letter and the bamboo dragonfly are both mine.
-Dialogue: 0,0:12:09.00,0:12:09.88,Default,,0,0,0,,childish
+Dialogue: 0,0:12:03.96,0:12:05.16,Default,,0,0,0,,But
+Dialogue: 0,0:12:05.16,0:12:07.88,Default,,0,0,0,,The letter and the take-copter are both mine.
+Dialogue: 0,0:12:09.00,0:12:09.88,Default,,0,0,0,,Childish.
 Dialogue: 0,0:12:11.08,0:12:12.36,Default,,0,0,0,,Don’t run away!
 Dialogue: 0,0:12:18.52,0:12:21.48,Default,,0,0,0,,Why is this basketball team working so hard?
-Dialogue: 0,0:12:21.48,0:12:23.16,Default,,0,0,0,,I told you this a long time ago
-Dialogue: 0,0:12:26.92,0:12:29.96,Default,,0,0,0,,You’ve been slacking off again. You’re punished by having to do another hundred.
+Dialogue: 0,0:12:21.48,0:12:23.16,Default,,0,0,0,,I told you earlier.
+Dialogue: 0,0:12:26.92,0:12:29.96,Default,,0,0,0,,You’ve been slacking off again. You’re punished to do another hundred.
 Dialogue: 0,0:12:30.36,0:12:32.36,Default,,0,0,0,,No way!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
