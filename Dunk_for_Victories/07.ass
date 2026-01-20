@@ -12,194 +12,174 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
+Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,23,1
+Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:09.16,0:00:12.04,Default,,0,0,0,,{\i1}Sports Heroes: Dunk for Victories
-Dialogue: 0,0:00:15.16,0:00:16.64,Default,,0,0,0,,Paddi joins the team
-Dialogue: 0,0:00:18.24,0:00:19.56,Default,,0,0,0,,In the previous episode,
-Dialogue: 0,0:00:19.64,0:00:22.60,Default,,0,0,0,,The goats finally got Blazey as their coach.
-Dialogue: 0,0:00:22.68,0:00:25.96,Default,,0,0,0,,However, Blazey and Slowy have a lingering grudge.
-Dialogue: 0,0:00:26.04,0:00:27.80,Default,,0,0,0,,The goats accidentally discovered
-Dialogue: 0,0:00:27.88,0:00:29.12,Default,,0,0,0,,Stacy a few years ago
-Dialogue: 0,0:00:29.20,0:00:31.76,Default,,0,0,0,,A video left for them
-Dialogue: 0,0:00:31.88,0:00:32.56,Default,,0,0,0,,This video
-Dialogue: 0,0:00:32.64,0:00:36.32,Default,,0,0,0,,Blazey and Slowy reconciled
-Dialogue: 0,0:00:41.60,0:00:43.08,Default,,0,0,0,,Do you have any dreams?
-Dialogue: 0,0:00:43.16,0:00:45.76,Default,,0,0,0,,Want to reach the pinnacle of a goat’s life?
-Dialogue: 0,0:00:45.84,0:00:48.24,Default,,0,0,0,,As long as you join the Goat Basketball Team and win the championship
-Dialogue: 0,0:00:48.32,0:00:49.76,Default,,0,0,0,,You can get a wish
-Dialogue: 0,0:00:49.84,0:00:52.44,Default,,0,0,0,,Your dream has come true.
-Dialogue: 0,0:00:58.44,0:00:59.80,Default,,0,0,0,,No need, goodbye.
-Dialogue: 0,0:01:03.12,0:01:07.28,Default,,0,0,0,,Winning the championship would be beneficial, so who would participate?
-Dialogue: 0,0:01:07.64,0:01:09.68,Default,,0,0,0,,Your methods for recruiting new team members
-Dialogue: 0,0:01:09.76,0:01:11.32,Default,,0,0,0,,It’s really ineffective.
-Dialogue: 0,0:01:11.40,0:01:13.16,Default,,0,0,0,,Mr. Slowy…
-Dialogue: 0,0:01:13.56,0:01:16.56,Default,,0,0,0,,Come and see, you’ve successfully joined the Goat Basketball Team!
-Dialogue: 0,0:01:16.64,0:01:19.16,Default,,0,0,0,,You will receive these gifts
-Dialogue: 0,0:01:19.92,0:01:20.88,Default,,0,0,0,,Gift?
-Dialogue: 0,0:01:20.92,0:01:22.28,Default,,0,0,0,,Gift?
-Dialogue: 0,0:01:22.80,0:01:23.96,Default,,0,0,0,,Gift?
-Dialogue: 0,0:01:24.04,0:01:25.56,Default,,0,0,0,,I want
-Dialogue: 0,0:01:26.76,0:01:29.72,Default,,0,0,0,,We want to join the Goat Basketball Team…
-Dialogue: 0,0:01:31.00,0:01:32.84,Default,,0,0,0,,A goat that only seeks profit, I…
-Dialogue: 0,0:01:32.92,0:01:34.76,Default,,0,0,0,,Don’t cause trouble
-Dialogue: 0,0:01:35.56,0:01:38.96,Default,,0,0,0,,You need to pass two tests to join the team.
-Dialogue: 0,0:01:39.04,0:01:41.12,Default,,0,0,0,,The first test is a physical fitness test.
-Dialogue: 0,0:01:41.20,0:01:42.48,Default,,0,0,0,,It must pass
-Dialogue: 0,0:01:42.60,0:01:45.80,Default,,0,0,0,,Only then can you participate in the second round of shooting tests.
-Dialogue: 0,0:01:45.92,0:01:47.92,Default,,0,0,0,,Are you satisfied now?
-Dialogue: 0,0:01:50.04,0:01:52.48,Default,,0,0,0,,Why is leaving so troublesome? Never mind.
-Dialogue: 0,0:01:52.56,0:01:54.32,Default,,0,0,0,,The gifts seem quite plentiful.
-Dialogue: 0,0:01:54.40,0:01:55.64,Default,,0,0,0,,Why don’t you give it a try?
-Dialogue: 0,0:01:55.72,0:01:58.00,Default,,0,0,0,,Okay, let’s register.
-Dialogue: 0,0:01:58.72,0:02:00.72,Default,,0,0,0,,Those who have registered, come over.
-Dialogue: 0,0:02:00.84,0:02:01.72,Default,,0,0,0,,This is…
-Dialogue: 0,0:02:01.84,0:02:05.00,Default,,0,0,0,,My great-aunt’s latest golden cake
-Dialogue: 0,0:02:05.48,0:02:09.28,Default,,0,0,0,,Coach, I want to play basketball too!
-Dialogue: 0,0:02:09.48,0:02:11.28,Default,,0,0,0,,Paddi…
-Dialogue: 0,0:02:17.44,0:02:19.40,Default,,0,0,0,,Alright, let’s begin the physical fitness test.
-Dialogue: 0,0:02:19.48,0:02:21.76,Default,,0,0,0,,First is the strength test
-Dialogue: 0,0:02:24.68,0:02:27.36,Default,,0,0,0,,This test is very simple.
-Dialogue: 0,0:02:28.52,0:02:31.36,Default,,0,0,0,,Go lift your own dumbbells.
-Dialogue: 0,0:02:35.64,0:02:37.72,Default,,0,0,0,,Paddi failed the strength test.
-Dialogue: 0,0:02:38.48,0:02:41.24,Default,,0,0,0,,Next up is the running test.
-Dialogue: 0,0:02:42.08,0:02:44.08,Default,,0,0,0,,Why are they running so slowly?
-Dialogue: 0,0:02:44.16,0:02:47.96,Default,,0,0,0,,You’re the one who’s slow; they’ve all crossed the finish line.
-Dialogue: 0,0:02:48.32,0:02:50.92,Default,,0,0,0,,Paddi also failed the physical fitness test.
-Dialogue: 0,0:02:51.00,0:02:53.56,Default,,0,0,0,,It doesn’t matter, there are other tests.
-Dialogue: 0,0:03:00.52,0:03:02.96,Default,,0,0,0,,Failed the jumping test
-Dialogue: 0,0:03:13.24,0:03:15.08,Default,,0,0,0,,Thank you, Jonie.
-Dialogue: 0,0:03:15.24,0:03:17.08,Default,,0,0,0,,This type of test is too difficult.
-Dialogue: 0,0:03:17.16,0:03:18.68,Default,,0,0,0,,Why not have an eating contest?
-Dialogue: 0,0:03:18.80,0:03:21.16,Default,,0,0,0,,I’m sure I’ll pass this.
-Dialogue: 0,0:03:22.04,0:03:24.40,Default,,0,0,0,,That being said, you really need to work out more.
-Dialogue: 0,0:03:24.52,0:03:26.20,Default,,0,0,0,,Not a single item passed
-Dialogue: 0,0:03:27.68,0:03:28.88,Default,,0,0,0,,Could it be…?
-Dialogue: 0,0:03:29.00,0:03:32.40,Default,,0,0,0,,Am I destined to never have a golden cake in this lifetime?
-Dialogue: 0,0:03:35.92,0:03:39.16,Default,,0,0,0,,No, you have to wait for me, you delicious golden cake.
-Dialogue: 0,0:03:39.24,0:03:42.48,Default,,0,0,0,,I will definitely eat you up.
-Dialogue: 0,0:03:45.24,0:03:48.40,Default,,0,0,0,,Coach, please give me another chance.
-Dialogue: 0,0:03:48.52,0:03:49.72,Default,,0,0,0,,The coach is very strict
-Dialogue: 0,0:03:49.80,0:03:52.44,Default,,0,0,0,,Why would I give you another chance so easily?
-Dialogue: 0,0:03:53.40,0:03:56.96,Default,,0,0,0,,Okay, come back and test again tomorrow.
-Dialogue: 0,0:03:57.60,0:03:59.12,Default,,0,0,0,,They actually agreed?
-Dialogue: 0,0:03:59.24,0:04:01.16,Default,,0,0,0,,Thank you, coach.
-Dialogue: 0,0:04:01.72,0:04:03.76,Default,,0,0,0,,Paddi, where are you going?
-Dialogue: 0,0:04:05.08,0:04:07.24,Default,,0,0,0,,You must have seen his persistence.
-Dialogue: 0,0:04:07.36,0:04:09.72,Default,,0,0,0,,That’s why I gave him a chance, right?
-Dialogue: 0,0:04:09.84,0:04:13.56,Default,,0,0,0,,Hopefully, he can channel that same dedication into basketball.
-Dialogue: 0,0:04:21.28,0:04:23.36,Default,,0,0,0,,Want us to help train you?
-Dialogue: 0,0:04:23.44,0:04:25.92,Default,,0,0,0,,Yes, I can do it no matter how I train.
-Dialogue: 0,0:04:26.00,0:04:29.20,Default,,0,0,0,,In short, I absolutely must eat the golden cake.
-Dialogue: 0,0:04:29.32,0:04:30.84,Default,,0,0,0,,No matter what your reason is
-Dialogue: 0,0:04:30.96,0:04:32.00,Default,,0,0,0,,As long as you make the team
-Dialogue: 0,0:04:32.12,0:04:33.92,Default,,0,0,0,,So, our three grassland musketeers
-Dialogue: 0,0:04:34.12,0:04:36.64,Default,,0,0,0,,Then we can play ball together.
-Dialogue: 0,0:04:37.80,0:04:39.52,Default,,0,0,0,,However, we are all beginners.
-Dialogue: 0,0:04:39.60,0:04:42.00,Default,,0,0,0,,The training methods may be unprofessional.
-Dialogue: 0,0:04:42.12,0:04:45.28,Default,,0,0,0,,Don’t worry, you definitely won’t be worse than me.
-Dialogue: 0,0:04:45.40,0:04:48.20,Default,,0,0,0,,This doesn’t seem like something to be proud of.
-Dialogue: 0,0:04:48.32,0:04:50.52,Default,,0,0,0,,Go train right away!
-Dialogue: 0,0:05:02.44,0:05:04.28,Default,,0,0,0,,Training begins…
-Dialogue: 0,0:05:05.96,0:05:08.96,Default,,0,0,0,,We haven’t even started, and you’re already hungry?
-Dialogue: 0,0:05:09.04,0:05:11.76,Default,,0,0,0,,Let’s eat something first.
-Dialogue: 0,0:05:13.16,0:05:16.52,Default,,0,0,0,,It would be better if you ate while training.
-Dialogue: 0,0:05:16.60,0:05:19.52,Default,,0,0,0,,Is it really possible to eat and train at the same time?
-Dialogue: 0,0:05:19.64,0:05:21.56,Default,,0,0,0,,Weslie, what do you mean by saying that?
-Dialogue: 0,0:05:21.68,0:05:23.16,Default,,0,0,0,,You’ll find out soon.
-Dialogue: 0,0:05:26.04,0:05:28.08,Default,,0,0,0,,My breakfast
-Dialogue: 0,0:05:28.20,0:05:31.56,Default,,0,0,0,,You can eat it once you catch up with the toy car.
-Dialogue: 0,0:05:31.76,0:05:35.20,Default,,0,0,0,,So you wanted to turn Paddi’s appetite into motivation?
-Dialogue: 0,0:05:42.40,0:05:45.16,Default,,0,0,0,,breakfast
-Dialogue: 0,0:05:55.40,0:05:57.40,Default,,0,0,0,,Let’s try other methods.
-Dialogue: 0,0:06:00.88,0:06:02.52,Default,,0,0,0,,To successfully perform a pull-up
-Dialogue: 0,0:06:02.60,0:06:04.56,Default,,0,0,0,,Only then can you eat bread
-Dialogue: 0,0:06:04.64,0:06:06.88,Default,,0,0,0,,Keep it up, Paddi
-Dialogue: 0,0:06:11.20,0:06:13.44,Default,,0,0,0,,It seems our training methods are effective.
-Dialogue: 0,0:06:13.52,0:06:16.64,Default,,0,0,0,,This will incentivize Paddi to do it more often.
-Dialogue: 0,0:06:19.48,0:06:21.72,Default,,0,0,0,,I know the trick to this training.
-Dialogue: 0,0:06:21.80,0:06:23.12,Default,,0,0,0,,Keep training
-Dialogue: 0,0:06:31.80,0:06:32.96,Default,,0,0,0,,Paddi is rarely seen
-Dialogue: 0,0:06:33.04,0:06:34.96,Default,,0,0,0,,Will you persist in doing one thing?
-Dialogue: 0,0:06:35.04,0:06:37.28,Default,,0,0,0,,He really doesn’t look like him at all.
-Dialogue: 0,0:06:37.36,0:06:38.44,Default,,0,0,0,,But when I think about what he did…
-Dialogue: 0,0:06:38.52,0:06:40.72,Default,,0,0,0,,Just for eating cake…
-Dialogue: 0,0:06:42.52,0:06:45.20,Default,,0,0,0,,This is what our Paddi should be like!
-Dialogue: 0,0:06:45.32,0:06:48.24,Default,,0,0,0,,Paddi, we’ll run with you too!
-Dialogue: 0,0:06:49.36,0:06:51.40,Default,,0,0,0,,The Grassland Trio, chasing their basketball dreams
-Dialogue: 0,0:06:51.52,0:06:53.08,Default,,0,0,0,,come on
-Dialogue: 0,0:06:53.20,0:06:55.24,Default,,0,0,0,,It’s for the cake
-Dialogue: 0,0:06:57.08,0:06:58.12,Default,,0,0,0,,nice shot
-Dialogue: 0,0:07:03.64,0:07:06.12,Default,,0,0,0,,Paddi, are you alright?
-Dialogue: 0,0:07:06.56,0:07:09.04,Default,,0,0,0,,It’s nothing, I’m just a little hungry.
-Dialogue: 0,0:07:09.16,0:07:11.36,Default,,0,0,0,,Paddi has tried his best to practice.
-Dialogue: 0,0:07:11.48,0:07:14.48,Default,,0,0,0,,Maybe I can pass the physical fitness test.
-Dialogue: 0,0:07:14.68,0:07:16.60,Default,,0,0,0,,Are you serious?
-Dialogue: 0,0:07:17.24,0:07:20.56,Default,,0,0,0,,My golden cake, wait for me!
-Dialogue: 0,0:07:23.28,0:07:25.56,Default,,0,0,0,,Okay, let’s start the test now.
-Dialogue: 0,0:07:37.28,0:07:38.52,Default,,0,0,0,,one time
-Dialogue: 0,0:07:39.16,0:07:40.40,Default,,0,0,0,,Two times
-Dialogue: 0,0:07:48.40,0:07:51.96,Default,,0,0,0,,It’s okay, much better than last time, just a little bit more.
-Dialogue: 0,0:07:52.04,0:07:55.92,Default,,0,0,0,,Yes, I will definitely pass the second running test.
-Dialogue: 0,0:07:59.16,0:08:01.72,Default,,0,0,0,,Paddi, what are you doing?
-Dialogue: 0,0:08:02.64,0:08:04.32,Default,,0,0,0,,There were no snacks in front this time.
-Dialogue: 0,0:08:04.40,0:08:07.00,Default,,0,0,0,,I have absolutely no motivation to run.
-Dialogue: 0,0:08:10.36,0:08:12.44,Default,,0,0,0,,We’re almost at the finish line, just hang in there!
-Dialogue: 0,0:08:12.52,0:08:14.92,Default,,0,0,0,,Let’s cheer for the cake!
-Dialogue: 0,0:08:31.56,0:08:34.56,Default,,0,0,0,,It’s okay, there’s still a chance.
-Dialogue: 0,0:08:46.00,0:08:48.56,Default,,0,0,0,,Paddi, you’ve improved a lot this time!
-Dialogue: 0,0:08:48.64,0:08:51.80,Default,,0,0,0,,Yes, Paddi, you’ve done a great job.
-Dialogue: 0,0:08:51.92,0:08:55.08,Default,,0,0,0,,Really? Show me the grades.
-Dialogue: 0,0:09:02.92,0:09:04.84,Default,,0,0,0,,Bad test
-Dialogue: 0,0:09:08.52,0:09:11.24,Default,,0,0,0,,I’m going home to eat snacks.
-Dialogue: 0,0:09:15.08,0:09:16.16,Default,,0,0,0,,goodbye
-Dialogue: 0,0:09:16.24,0:09:17.60,Default,,0,0,0,,Paddi…
-Dialogue: 0,0:09:17.68,0:09:19.60,Default,,0,0,0,,Wait a moment
-Dialogue: 0,0:09:23.00,0:09:25.88,Default,,0,0,0,,If you shoot free throws and make five out of ten…
-Dialogue: 0,0:09:26.00,0:09:27.92,Default,,0,0,0,,We’ll make an exception and let you join the team.
-Dialogue: 0,0:09:28.04,0:09:30.76,Default,,0,0,0,,Coach, Paddi is a beginner in basketball.
-Dialogue: 0,0:09:30.84,0:09:33.28,Default,,0,0,0,,How could you possibly make the shot?
-Dialogue: 0,0:09:34.32,0:09:37.56,Default,,0,0,0,,I’ll try anything as long as there’s a chance to eat cake.
-Dialogue: 0,0:09:51.80,0:09:53.92,Default,,0,0,0,,Could it be…?
-Dialogue: 0,0:09:56.92,0:09:58.96,Default,,0,0,0,,It really didn’t work.
-Dialogue: 0,0:10:07.04,0:10:10.00,Default,,0,0,0,,It seems there’s little hope left.
-Dialogue: 0,0:10:12.00,0:10:14.24,Default,,0,0,0,,This time it’s for real.
-Dialogue: 0,0:10:32.72,0:10:35.48,Default,,0,0,0,,It actually went in!
-Dialogue: 0,0:10:36.28,0:10:39.24,Default,,0,0,0,,So this is what it feels like. Okay.
-Dialogue: 0,0:10:50.76,0:10:53.80,Default,,0,0,0,,Another shot made! Paddi is really amazing!
-Dialogue: 0,0:10:53.92,0:10:55.60,Default,,0,0,0,,Paddi, an outsider
-Dialogue: 0,0:10:55.68,0:10:57.48,Default,,0,0,0,,It has such a great feel!
-Dialogue: 0,0:10:57.52,0:10:58.92,Default,,0,0,0,,As long as he is trained properly
-Dialogue: 0,0:10:59.00,0:11:00.28,Default,,0,0,0,,Will definitely become a team
-Dialogue: 0,0:11:00.36,0:11:02.72,Default,,0,0,0,,An indispensable member
-Dialogue: 0,0:11:03.28,0:11:05.44,Default,,0,0,0,,The team is indispensable
-Dialogue: 0,0:11:05.56,0:11:07.00,Default,,0,0,0,,One member?
-Dialogue: 0,0:11:09.20,0:11:12.24,Default,,0,0,0,,Paddi, how did you make that shot?
-Dialogue: 0,0:11:12.36,0:11:15.60,Default,,0,0,0,,I don’t know either, because I was just so hungry.
-Dialogue: 0,0:11:15.68,0:11:18.60,Default,,0,0,0,,So I mistook the basketball hoop for a winter swing.
-Dialogue: 0,0:11:18.68,0:11:20.96,Default,,0,0,0,,Think of basketballs as chocolate.
-Dialogue: 0,0:11:21.08,0:11:22.88,Default,,0,0,0,,Pour chocolate over the tomato sauce
-Dialogue: 0,0:11:22.96,0:11:25.24,Default,,0,0,0,,It will definitely taste delicious
-Dialogue: 0,0:11:25.48,0:11:27.80,Default,,0,0,0,,As expected of Paddi
-Dialogue: 0,0:11:29.08,0:11:31.40,Default,,0,0,0,,Barely passable
-Dialogue: 0,0:11:32.04,0:11:34.64,Default,,0,0,0,,Congratulations on joining the basketball team!
-Dialogue: 0,0:11:34.76,0:11:37.08,Default,,0,0,0,,Let’s eat cake together!
-Dialogue: 0,0:11:38.96,0:11:40.48,Default,,0,0,0,,good…
-Dialogue: 0,0:11:44.88,0:11:46.96,Default,,0,0,0,,These cakes are the result of your hard work.
-Dialogue: 0,0:11:47.08,0:11:49.56,Default,,0,0,0,,Are you really going to share some with us?
-Dialogue: 0,0:11:49.68,0:11:51.36,Default,,0,0,0,,Without your help in training me
-Dialogue: 0,0:11:51.44,0:11:53.44,Default,,0,0,0,,I won’t get the cake either.
-Dialogue: 0,0:11:53.56,0:11:58.00,Default,,0,0,0,,And cake tastes better when everyone shares it.
-Dialogue: 0,0:11:58.12,0:11:59.80,Default,,0,0,0,,That being said, Paddi
-Dialogue: 0,0:11:59.88,0:12:01.36,Default,,0,0,0,,If there is no cake as a gift
-Dialogue: 0,0:12:01.44,0:12:04.84,Default,,0,0,0,,Do you still play basketball?
-Dialogue: 0,0:12:13.32,0:12:16.08,Default,,0,0,0,,It’s okay, I can try playing too.
-Dialogue: 0,0:12:16.20,0:12:18.24,Default,,0,0,0,,And win the championship later
-Dialogue: 0,0:12:18.36,0:12:21.28,Default,,0,0,0,,I would wish for an endless supply of cake.
-Dialogue: 0,0:12:24.72,0:12:26.44,Default,,0,0,0,,By the way, I’m going to see Tibbie soon.
-Dialogue: 0,0:12:26.52,0:12:29.52,Default,,0,0,0,,She’s not even home, what is she doing?
-Dialogue: 0,0:12:29.60,0:12:33.32,Default,,0,0,0,,I don’t know either, maybe she’s busy with something?
-Dialogue: 0,0:12:36.00,0:12:36.92,Default,,0,0,0,,(to be continued)
+Comment: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,------------------------------------------------------
+Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Paddi Joins the Team
+Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
+Comment: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,------------------------------------------------------
+Dialogue: 0,0:00:17.58,0:00:21.98,Default,,0,0,0,,In the previous episode, The goats finally got Blazey as their coach.
+Dialogue: 0,0:00:22.22,0:00:25.34,Default,,0,0,0,,However, Blazey and Slowy have a lingering grudge.
+Dialogue: 0,0:00:25.54,0:00:27.62,Default,,0,0,0,,The goats accidentally discovered
+Dialogue: 0,0:00:27.62,0:00:31.02,Default,,0,0,0,,that Stacy left a video for them a few years ago.
+Dialogue: 0,0:00:31.34,0:00:36.34,Default,,0,0,0,,This video helped Blazey and Slowy reconciled.
+Dialogue: 0,0:00:41.70,0:00:43.42,Default,,0,0,0,,Young man, do you have a dream?
+Dialogue: 0,0:00:43.42,0:00:45.58,Default,,0,0,0,,Want to reach the pinnacle of a goat’s life?
+Dialogue: 0,0:00:45.70,0:00:48.86,Default,,0,0,0,,As long as you join the Goat Basketball Team and win the championship,
+Dialogue: 0,0:00:49.14,0:00:52.42,Default,,0,0,0,,you can get your wish and have your dream fulfilled.
+Dialogue: 0,0:00:58.22,0:00:59.42,Default,,0,0,0,,No need, goodbye.
+Dialogue: 0,0:01:02.74,0:01:06.30,Default,,0,0,0,,Winning the championship would be beneficial, so who would participate?
+Dialogue: 0,0:01:07.18,0:01:10.98,Default,,0,0,0,,Your method for recruiting new players is really ineffective.
+Dialogue: 0,0:01:11.46,0:01:12.78,Default,,0,0,0,,Mr. Slowy…
+Dialogue: 0,0:01:13.46,0:01:15.30,Default,,0,0,0,,Come and see!
+Dialogue: 0,0:01:15.30,0:01:19.50,Default,,0,0,0,,If you successfully join the Goat Basketball Team, these gifts are all yours!
+Dialogue: 0,0:01:20.02,0:01:20.78,Default,,0,0,0,,Gifts?
+Dialogue: 0,0:01:21.02,0:01:22.06,Default,,0,0,0,,Gifts?
+Dialogue: 0,0:01:22.74,0:01:24.86,Default,,0,0,0,,Gifts? I want!
+Dialogue: 0,0:01:26.22,0:01:29.02,Default,,0,0,0,,We want to join the Goat Basketball Team!
+Dialogue: 0,0:01:30.54,0:01:32.94,Default,,0,0,0,,Goats who only seek profit, I—
+Dialogue: 0,0:01:32.94,0:01:34.30,Default,,0,0,0,,Don’t cause trouble.
+Dialogue: 0,0:01:35.34,0:01:38.22,Default,,0,0,0,,You need to pass two tests to join the team.
+Dialogue: 0,0:01:38.74,0:01:40.90,Default,,0,0,0,,The first phase is the physical fitness test.
+Dialogue: 0,0:01:41.38,0:01:44.98,Default,,0,0,0,,And only those who pass it can proceed to the second phase of the shooting test.
+Dialogue: 0,0:01:45.54,0:01:46.98,Default,,0,0,0,,Are you satisfied now?
+Dialogue: 0,0:01:49.70,0:01:51.94,Default,,0,0,0,,So troublesome? Never mind.
+Dialogue: 0,0:01:51.94,0:01:54.18,Default,,0,0,0,,The gifts seem quite plentiful.
+Dialogue: 0,0:01:54.18,0:01:55.30,Default,,0,0,0,,Why not give it a try?
+Dialogue: 0,0:01:55.30,0:01:57.02,Default,,0,0,0,,Okay, we’re signing up.
+Dialogue: 0,0:01:58.38,0:01:59.98,Default,,0,0,0,,Those who want to sign up, come over.
+Dialogue: 0,0:01:59.98,0:02:04.38,Default,,0,0,0,,This is… Aunt Merry’s latest golden cake!
+Dialogue: 0,0:02:05.02,0:02:08.30,Default,,0,0,0,,Coach, I want to play basketball too!
+Dialogue: 0,0:02:09.38,0:02:11.22,Default,,0,0,0,,Paddi…
+Dialogue: 0,0:02:17.30,0:02:19.30,Default,,0,0,0,,Alright, let’s begin the physical fitness test.
+Dialogue: 0,0:02:19.30,0:02:20.98,Default,,0,0,0,,First is the strength test.
+Dialogue: 0,0:02:24.42,0:02:26.66,Default,,0,0,0,,This test is very simple.
+Dialogue: 0,0:02:28.66,0:02:30.30,Default,,0,0,0,,Go lift your own dumbbells.
+Dialogue: 0,0:02:35.22,0:02:37.70,Default,,0,0,0,,Paddi failed the strength test.
+Dialogue: 0,0:02:38.66,0:02:40.54,Default,,0,0,0,,Next up is the running test.
+Dialogue: 0,0:02:42.14,0:02:44.10,Default,,0,0,0,,Why are they running so slowly?
+Dialogue: 0,0:02:44.10,0:02:45.74,Default,,0,0,0,,You’re the one who’s slow;
+Dialogue: 0,0:02:45.74,0:02:47.22,Default,,0,0,0,,they’ve all crossed the finish line.
+Dialogue: 0,0:02:48.06,0:02:50.58,Default,,0,0,0,,Paddi also failed the running test.
+Dialogue: 0,0:02:50.58,0:02:53.38,Default,,0,0,0,,It doesn’t matter, there are other tests.
+Dialogue: 0,0:02:59.90,0:03:02.02,Default,,0,0,0,,Failed the jumping test.
+Dialogue: 0,0:03:13.06,0:03:14.22,Default,,0,0,0,,Thank you, Jonie.
+Dialogue: 0,0:03:15.02,0:03:16.46,Default,,0,0,0,,This type of test is too difficult.
+Dialogue: 0,0:03:16.98,0:03:19.98,Default,,0,0,0,,Why not have an eating contest? I’m sure I’ll pass that.
+Dialogue: 0,0:03:21.50,0:03:24.22,Default,,0,0,0,,That being said, you really need to work out more.
+Dialogue: 0,0:03:24.42,0:03:25.90,Default,,0,0,0,,Not a single item passed.
+Dialogue: 0,0:03:27.30,0:03:32.10,Default,,0,0,0,,Could it be… that I’m destined to never have a golden cake in this lifetime?
+Dialogue: 0,0:03:35.98,0:03:39.10,Default,,0,0,0,,No, you have to wait for me, you delicious golden cake.
+Dialogue: 0,0:03:39.10,0:03:41.22,Default,,0,0,0,,I will definitely eat you up.
+Dialogue: 0,0:03:45.06,0:03:47.54,Default,,0,0,0,,Coach, please give me another chance.
+Dialogue: 0,0:03:47.66,0:03:51.54,Default,,0,0,0,,Coach is very strict; why would he give you another chance so easily?
+Dialogue: 0,0:03:52.98,0:03:56.14,Default,,0,0,0,,Okay, come back and test again tomorrow.
+Dialogue: 0,0:03:57.54,0:03:58.70,Default,,0,0,0,,He actually agreed?
+Dialogue: 0,0:03:58.86,0:04:00.26,Default,,0,0,0,,Thank you, Coach.
+Dialogue: 0,0:04:01.18,0:04:02.78,Default,,0,0,0,,Paddi, where are you going?
+Dialogue: 0,0:04:04.82,0:04:07.22,Default,,0,0,0,,You must have seen his persistence.
+Dialogue: 0,0:04:07.22,0:04:09.34,Default,,0,0,0,,That’s why you gave him a chance, right?
+Dialogue: 0,0:04:09.34,0:04:13.02,Default,,0,0,0,,Hopefully, he can channel that same dedication into basketball.
+Dialogue: 0,0:04:20.86,0:04:22.66,Default,,0,0,0,,You want us to help train you?
+Dialogue: 0,0:04:23.54,0:04:25.74,Default,,0,0,0,,Yes, I can do it no matter how you train.
+Dialogue: 0,0:04:25.74,0:04:27.82,Default,,0,0,0,,In short, I absolutely must eat the golden cake.
+Dialogue: 0,0:04:28.66,0:04:30.22,Default,,0,0,0,,No matter what your reason is,
+Dialogue: 0,0:04:30.22,0:04:32.66,Default,,0,0,0,,as long as you join the team,
+Dialogue: 0,0:04:32.86,0:04:36.14,Default,,0,0,0,,we Three Grassland Knights can play basketball together.
+Dialogue: 0,0:04:37.58,0:04:41.58,Default,,0,0,0,,But we are just beginners, and our training may not be professional.
+Dialogue: 0,0:04:42.06,0:04:44.46,Default,,0,0,0,,Don’t worry, you definitely won’t be worse than me.
+Dialogue: 0,0:04:45.10,0:04:47.62,Default,,0,0,0,,This doesn’t seem like something to be proud of.
+Dialogue: 0,0:04:48.26,0:04:49.82,Default,,0,0,0,,Go train right away!
+Dialogue: 0,0:05:02.38,0:05:03.94,Default,,0,0,0,,Training be…
+Dialogue: 0,0:05:05.58,0:05:08.54,Default,,0,0,0,,We haven’t even started, and you’re already hungry?
+Dialogue: 0,0:05:08.98,0:05:11.06,Default,,0,0,0,,Let’s eat something first.
+Dialogue: 0,0:05:12.82,0:05:15.58,Default,,0,0,0,,Paddi, why don’t you eat while you train?
+Dialogue: 0,0:05:17.02,0:05:18.46,Default,,0,0,0,,Is it really possible?
+Dialogue: 0,0:05:18.66,0:05:21.14,Default,,0,0,0,,Weslie, what do you mean by saying that?
+Dialogue: 0,0:05:21.54,0:05:22.94,Default,,0,0,0,,You’ll find out soon.
+Dialogue: 0,0:05:25.74,0:05:27.74,Default,,0,0,0,,My breakfast—
+Dialogue: 0,0:05:27.74,0:05:31.26,Default,,0,0,0,,You can eat it once you catch up with the toy car.
+Dialogue: 0,0:05:31.42,0:05:34.54,Default,,0,0,0,,So you wanted to turn Paddi’s appetite into motivation?
+Dialogue: 0,0:05:42.54,0:05:43.58,Default,,0,0,0,,Break…fast!
+Dialogue: 0,0:05:55.14,0:05:57.22,Default,,0,0,0,,Let’s try other methods.
+Dialogue: 0,0:06:00.42,0:06:04.14,Default,,0,0,0,,You have to do a pull-up to get to eat the bread.
+Dialogue: 0,0:06:04.74,0:06:06.30,Default,,0,0,0,,Keep it up, Paddi!
+Dialogue: 0,0:06:10.78,0:06:12.82,Default,,0,0,0,,It seems my training method is effective.
+Dialogue: 0,0:06:12.94,0:06:15.86,Default,,0,0,0,,This will incentivize Paddi to do it more often.
+Dialogue: 0,0:06:19.30,0:06:23.58,Default,,0,0,0,,I know the trick to this training. Keep training.
+Dialogue: 0,0:06:31.58,0:06:34.82,Default,,0,0,0,,It’s rare to see Paddi so persistent.
+Dialogue: 0,0:06:34.82,0:06:36.82,Default,,0,0,0,,He really doesn’t look like him at all.
+Dialogue: 0,0:06:36.82,0:06:40.54,Default,,0,0,0,,But considering that he did all this for the cake…
+Dialogue: 0,0:06:42.54,0:06:44.78,Default,,0,0,0,,This is what our Paddi should be like!
+Dialogue: 0,0:06:44.78,0:06:47.54,Default,,0,0,0,,Paddi, we’ll run with you too!
+Dialogue: 0,0:06:48.70,0:06:50.30,Default,,0,0,0,,Three Grassland Knights,
+Dialogue: 0,0:06:50.30,0:06:52.62,Default,,0,0,0,,Go for your basketball dream!
+Dialogue: 0,0:06:52.62,0:06:54.78,Default,,0,0,0,,Go for my cake too!
+Dialogue: 0,0:06:56.70,0:06:58.06,Default,,0,0,0,,Nice shot.
+Dialogue: 0,0:07:03.22,0:07:05.34,Default,,0,0,0,,Paddi, are you alright?
+Dialogue: 0,0:07:06.62,0:07:08.46,Default,,0,0,0,,It’s nothing, I’m just a little hungry.
+Dialogue: 0,0:07:09.26,0:07:10.78,Default,,0,0,0,,Paddi has tried his best to practice.
+Dialogue: 0,0:07:10.78,0:07:13.26,Default,,0,0,0,,Maybe I can pass the physical fitness test.
+Dialogue: 0,0:07:14.46,0:07:15.58,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:07:17.14,0:07:20.74,Default,,0,0,0,,My golden cake, wait for me!
+Dialogue: 0,0:07:22.90,0:07:24.66,Default,,0,0,0,,Okay, let’s start the test now.
+Dialogue: 0,0:07:37.02,0:07:39.26,Default,,0,0,0,,1… 2…
+Dialogue: 0,0:07:47.94,0:07:50.66,Default,,0,0,0,,It’s okay, much better than last time,
+Dialogue: 0,0:07:50.66,0:07:51.70,Default,,0,0,0,,just a little bit more.
+Dialogue: 0,0:07:51.90,0:07:55.50,Default,,0,0,0,,Yes, I will definitely pass the second running test.
+Dialogue: 0,0:07:59.14,0:08:01.30,Default,,0,0,0,,Paddi, what’s wrong?
+Dialogue: 0,0:08:01.90,0:08:05.54,Default,,0,0,0,,There are no snacks in front this time, so I have no motivation to run.
+Dialogue: 0,0:08:09.78,0:08:12.22,Default,,0,0,0,,You’re almost at the finish line, just hang in there!
+Dialogue: 0,0:08:12.22,0:08:14.46,Default,,0,0,0,,Cheer up for your cake!
+Dialogue: 0,0:08:31.18,0:08:33.14,Default,,0,0,0,,It’s okay, there’s still a chance.
+Dialogue: 0,0:08:45.62,0:08:48.34,Default,,0,0,0,,Paddi, you’ve improved a lot this time!
+Dialogue: 0,0:08:48.34,0:08:49.30,Default,,0,0,0,,Yes,
+Dialogue: 0,0:08:49.30,0:08:51.26,Default,,0,0,0,,Paddi, you’ve done a great job.
+Dialogue: 0,0:08:51.58,0:08:54.14,Default,,0,0,0,,Really? Show me the grades.
+Dialogue: 0,0:09:02.54,0:09:04.58,Default,,0,0,0,,What a stupid test!
+Dialogue: 0,0:09:08.10,0:09:10.50,Default,,0,0,0,,I’m going home to eat snacks.
+Dialogue: 0,0:09:14.98,0:09:15.62,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:09:15.94,0:09:16.66,Default,,0,0,0,,Paddi…
+Dialogue: 0,0:09:17.98,0:09:18.74,Default,,0,0,0,,Wait a moment.
+Dialogue: 0,0:09:23.02,0:09:23.98,Default,,0,0,0,,Free throws.
+Dialogue: 0,0:09:23.98,0:09:27.50,Default,,0,0,0,,If you make five out of ten, I’ll make an exception and let you join the team.
+Dialogue: 0,0:09:28.06,0:09:30.58,Default,,0,0,0,,Coach, Paddi is a beginner in basketball.
+Dialogue: 0,0:09:30.58,0:09:32.18,Default,,0,0,0,,How could you possibly make the shot?
+Dialogue: 0,0:09:33.86,0:09:36.90,Default,,0,0,0,,I’ll try anything as long as there’s a chance to eat cake.
+Dialogue: 0,0:09:51.30,0:09:52.62,Default,,0,0,0,,Could it be…?
+Dialogue: 0,0:09:56.54,0:09:58.10,Default,,0,0,0,,It really didn’t work.
+Dialogue: 0,0:10:06.66,0:10:08.66,Default,,0,0,0,,It seems there’s little hope left.
+Dialogue: 0,0:10:11.58,0:10:13.02,Default,,0,0,0,,This time it’s for real.
+Dialogue: 0,0:10:31.98,0:10:33.90,Default,,0,0,0,,It actually went in!
+Dialogue: 0,0:10:35.86,0:10:37.18,Default,,0,0,0,,This feeling…
+Dialogue: 0,0:10:50.70,0:10:53.22,Default,,0,0,0,,Another shot made! Paddi is really amazing!
+Dialogue: 0,0:10:53.54,0:10:57.26,Default,,0,0,0,,Paddi, a complete novice, actually has such a great feel!
+Dialogue: 0,0:10:57.54,0:10:58.98,Default,,0,0,0,,As long as he is trained properly,
+Dialogue: 0,0:10:59.06,0:11:02.26,Default,,0,0,0,,he will definitely become an indispensable member of the team.
+Dialogue: 0,0:11:03.22,0:11:06.38,Default,,0,0,0,,An indispensable member?
+Dialogue: 0,0:11:08.62,0:11:11.74,Default,,0,0,0,,Paddi, how did you make that shot?
+Dialogue: 0,0:11:12.06,0:11:14.82,Default,,0,0,0,,I don’t know either, because I was just so hungry.
+Dialogue: 0,0:11:15.18,0:11:18.30,Default,,0,0,0,,So I mistook the basketball hoop for a doughnut,
+Dialogue: 0,0:11:18.30,0:11:20.10,Default,,0,0,0,,the basketball for a chocolate ball.
+Dialogue: 0,0:11:20.78,0:11:24.22,Default,,0,0,0,,Drizzle chocolate on top, it’s absolutely delicious!
+Dialogue: 0,0:11:25.38,0:11:27.26,Default,,0,0,0,,As expected of Paddi.
+Dialogue: 0,0:11:28.74,0:11:30.50,Default,,0,0,0,,Barely passable.
+Dialogue: 0,0:11:31.50,0:11:33.98,Default,,0,0,0,,Congratulations on joining the basketball team!
+Dialogue: 0,0:11:34.42,0:11:36.38,Default,,0,0,0,,Let’s eat cake together!
+Dialogue: 0,0:11:38.54,0:11:39.30,Default,,0,0,0,,Okay!
+Dialogue: 0,0:11:44.78,0:11:48.46,Default,,0,0,0,,These cakes are the result of your hard work. Are you really going to share some with us?
+Dialogue: 0,0:11:49.50,0:11:52.62,Default,,0,0,0,,Without your help in training me, I won’t get the cake either.
+Dialogue: 0,0:11:53.22,0:11:56.74,Default,,0,0,0,,And cake tastes better when everyone shares it.
+Dialogue: 0,0:11:57.82,0:11:59.46,Default,,0,0,0,,That being said, Paddi,
+Dialogue: 0,0:11:59.78,0:12:03.14,Default,,0,0,0,,Would you still play basketball if there was no cake as a gift?
+Dialogue: 0,0:12:13.02,0:12:15.30,Default,,0,0,0,,It’s okay, I can try playing too.
+Dialogue: 0,0:12:15.98,0:12:16.66,Default,,0,0,0,,And
+Dialogue: 0,0:12:16.86,0:12:20.70,Default,,0,0,0,,When I win the championship, I’ll wish for an endless supply of cakes.
+Dialogue: 0,0:12:23.90,0:12:27.82,Default,,0,0,0,,By the way, every time I go to see Tibbie lately, she’s not home.
+Dialogue: 0,0:12:27.82,0:12:29.26,Default,,0,0,0,,Where did she go?
+Dialogue: 0,0:12:29.58,0:12:34.10,Default,,0,0,0,,I don’t know either. Maybe she’s busy with something?
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
