@@ -19,13 +19,13 @@ Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
-Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Strange Leopardess
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Strange Pantheress
 Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.71,0:00:22.59,Default,,0,0,0,,In the previous episode, we mentioned that Tibbie was excited because his next match was against his idol.
-Dialogue: 0,0:00:22.99,0:00:27.23,Default,,0,0,0,,The next day, however, he saw his idol, Leopardess (elder), at a street competition.
-Dialogue: 0,0:00:27.23,0:00:30.67,Default,,0,0,0,,He then chased after Leopardess (elder) and expressed his worship.
-Dialogue: 0,0:00:30.91,0:00:36.51,Default,,0,0,0,,However, Leopardess (elder) treated Tibbie coldly, leaving Tibbie disheartened.
+Dialogue: 0,0:00:22.99,0:00:27.23,Default,,0,0,0,,The next day, however, he saw his idol, Pantheress, at a street competition.
+Dialogue: 0,0:00:27.23,0:00:30.67,Default,,0,0,0,,He then chased after Pantheress and expressed his worship.
+Dialogue: 0,0:00:30.91,0:00:36.51,Default,,0,0,0,,However, Pantheress treated Tibbie coldly, leaving Tibbie disheartened.
 Dialogue: 0,0:00:44.99,0:00:46.75,Default,,0,0,0,,I wonder how Tibbie is doing.
 Dialogue: 0,0:00:47.55,0:00:49.07,Default,,0,0,0,,Let’s go take a look.
 Dialogue: 0,0:01:38.99,0:01:40.75,Default,,0,0,0,,Tibbie, are you okay?
@@ -42,12 +42,12 @@ Dialogue: 0,0:02:21.79,0:02:24.11,Default,,0,0,0,,Is it really okay for Tibbie t
 Dialogue: 0,0:02:27.87,0:02:29.47,Default,,0,0,0,,Are you alright? Are you alright?
 Dialogue: 0,0:02:29.79,0:02:31.79,Default,,0,0,0,,But everything spilled out.
 Dialogue: 0,0:02:31.79,0:02:33.39,Default,,0,0,0,,Let’s tidy up.
-Dialogue: 0,0:02:35.55,0:02:37.95,Default,,0,0,0,,Leopardess (elder) said basketball is her life.
+Dialogue: 0,0:02:35.55,0:02:37.95,Default,,0,0,0,,Pantheress said basketball is her life.
 Dialogue: 0,0:02:38.43,0:02:39.95,Default,,0,0,0,,That’s way too exaggerated!
-Dialogue: 0,0:02:41.15,0:02:44.19,Default,,0,0,0,,It seems Leopardess (elder) is interested in nothing but basketball.
+Dialogue: 0,0:02:41.15,0:02:44.19,Default,,0,0,0,,It seems Pantheress is interested in nothing but basketball.
 Dialogue: 0,0:02:44.51,0:02:46.19,Default,,0,0,0,,This personality seems to
 Dialogue: 0,0:02:46.51,0:02:47.55,Default,,0,0,0,,Victor
-Dialogue: 0,0:02:54.03,0:02:58.67,Default,,0,0,0,,Why does the Leopardess (elder) described here look completely different from the one I saw yesterday?
+Dialogue: 0,0:02:54.03,0:02:58.67,Default,,0,0,0,,Why does the Pantheress described here look completely different from the one I saw yesterday?
 Dialogue: 0,0:02:58.99,0:03:01.47,Default,,0,0,0,,Yeah, and they even insulted Tibbie.
 Dialogue: 0,0:03:02.03,0:03:03.79,Default,,0,0,0,,I want to ask and find out.
 Dialogue: 0,0:03:04.83,0:03:05.79,Default,,0,0,0,,I’ll go too
@@ -105,26 +105,26 @@ Dialogue: 0,0:07:06.91,0:07:09.71,Default,,0,0,0,,If you want to go in, I can he
 Dialogue: 0,0:07:16.35,0:07:17.79,Default,,0,0,0,,Come and chase me!
 Dialogue: 0,0:07:17.79,0:07:19.63,Default,,0,0,0,,It seems they haven’t had enough of the hardship yet.
 Dialogue: 0,0:07:22.59,0:07:23.95,Default,,0,0,0,,Sparky
-Dialogue: 0,0:07:32.59,0:07:34.27,Default,,0,0,0,,Leopardess (elder) is dancing!
-Dialogue: 0,0:07:35.55,0:07:37.71,Default,,0,0,0,,Wasn’t it said that Leopardess (elder) was undergoing secret training?
+Dialogue: 0,0:07:32.59,0:07:34.27,Default,,0,0,0,,Pantheress is dancing!
+Dialogue: 0,0:07:35.55,0:07:37.71,Default,,0,0,0,,Wasn’t it said that Pantheress was undergoing secret training?
 Dialogue: 0,0:07:38.35,0:07:40.11,Default,,0,0,0,,Is dancing just special training?
-Dialogue: 0,0:07:46.27,0:07:48.03,Default,,0,0,0,,Leopardess (elder) clearly said
+Dialogue: 0,0:07:46.27,0:07:48.03,Default,,0,0,0,,Pantheress clearly said
 Dialogue: 0,0:07:48.03,0:07:51.23,Default,,0,0,0,,She’s interested in nothing but basketball.
 Dialogue: 0,0:07:51.71,0:07:53.07,Default,,0,0,0,,Let’s go in and ask.
 Dialogue: 0,0:07:53.23,0:07:54.59,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:07:58.19,0:08:00.35,Default,,0,0,0,,Tibbie, what are you doing here?
 Dialogue: 0,0:08:00.99,0:08:02.51,Default,,0,0,0,,I also want to ask you guys…
 Dialogue: 0,0:08:03.39,0:08:06.11,Default,,0,0,0,,These things don’t matter, Tibbie, look!
-Dialogue: 0,0:08:08.59,0:08:09.95,Default,,0,0,0,,Leopardess (elder) is dancing
-Dialogue: 0,0:08:11.07,0:08:12.51,Default,,0,0,0,,Does Leopardess (elder) like to dance?
+Dialogue: 0,0:08:08.59,0:08:09.95,Default,,0,0,0,,Pantheress is dancing
+Dialogue: 0,0:08:11.07,0:08:12.51,Default,,0,0,0,,Does Pantheress like to dance?
 Dialogue: 0,0:08:13.39,0:08:15.71,Default,,0,0,0,,Never mind, it’s none of my business.
 Dialogue: 0,0:08:15.79,0:08:17.23,Default,,0,0,0,,Let’s hurry up and go.
-Dialogue: 0,0:08:26.67,0:08:31.15,Default,,0,0,0,,Thank you for your concern, but I really don’t need to contact Leopardess (elder) anymore.
-Dialogue: 0,0:08:32.43,0:08:35.31,Default,,0,0,0,,Tibbie, you’ll definitely be better than Leopardess (elder) in the future.
-Dialogue: 0,0:08:35.95,0:08:38.27,Default,,0,0,0,,You are not allowed to speak ill of Leopardess (elder)
-Dialogue: 0,0:08:42.67,0:08:44.19,Default,,0,0,0,,You are a fan of Leopardess (elder)
+Dialogue: 0,0:08:26.67,0:08:31.15,Default,,0,0,0,,Thank you for your concern, but I really don’t need to contact Pantheress anymore.
+Dialogue: 0,0:08:32.43,0:08:35.31,Default,,0,0,0,,Tibbie, you’ll definitely be better than Pantheress in the future.
+Dialogue: 0,0:08:35.95,0:08:38.27,Default,,0,0,0,,You are not allowed to speak ill of Pantheress
+Dialogue: 0,0:08:42.67,0:08:44.19,Default,,0,0,0,,You are a fan of Pantheress
 Dialogue: 0,0:08:45.63,0:08:46.43,Default,,0,0,0,,certainly
-Dialogue: 0,0:08:46.83,0:08:49.55,Default,,0,0,0,,Moreover, I’m Leopardess (elder)’s number one fan.
+Dialogue: 0,0:08:46.83,0:08:49.55,Default,,0,0,0,,Moreover, I’m Pantheress’s number one fan.
 Dialogue: 0,0:08:49.55,0:08:50.51,Default,,0,0,0,,There’s even a signature!
 Dialogue: 0,0:08:53.79,0:08:55.15,Default,,0,0,0,,Envious, aren’t you?
 Dialogue: 0,0:09:01.15,0:09:02.91,Default,,0,0,0,,It seems a bit strange.
@@ -133,9 +133,9 @@ Dialogue: 0,0:09:10.43,0:09:11.55,Default,,0,0,0,,how so
 Dialogue: 0,0:09:12.59,0:09:13.95,Default,,0,0,0,,You also have a signature.
 Dialogue: 0,0:09:15.39,0:09:16.19,Default,,0,0,0,,real
 Dialogue: 0,0:09:17.23,0:09:18.83,Default,,0,0,0,,Something feels off.
-Dialogue: 0,0:09:20.27,0:09:23.79,Default,,0,0,0,,Leopardess (elder) is not surprising at all; I will always support her.
-Dialogue: 0,0:09:30.11,0:09:34.35,Default,,0,0,0,,Not surprising, not surprising at all, we’re also fans of Leopardess (elder)!
-Dialogue: 0,0:09:34.83,0:09:38.91,Default,,0,0,0,,I’m Leopardess (elder)’s number one fan. Please call me “senpai” if we meet again.
+Dialogue: 0,0:09:20.27,0:09:23.79,Default,,0,0,0,,Pantheress is not surprising at all; I will always support her.
+Dialogue: 0,0:09:30.11,0:09:34.35,Default,,0,0,0,,Not surprising, not surprising at all, we’re also fans of Pantheress!
+Dialogue: 0,0:09:34.83,0:09:38.91,Default,,0,0,0,,I’m Pantheress’s number one fan. Please call me “senpai” if we meet again.
 Dialogue: 0,0:09:44.11,0:09:44.91,Default,,0,0,0,,Let’s go
 Dialogue: 0,0:09:49.07,0:09:50.35,Default,,0,0,0,,Leopard Team, move quickly!
 Dialogue: 0,0:09:51.63,0:09:53.23,Default,,0,0,0,,Why should we hide?
@@ -149,7 +149,7 @@ Dialogue: 0,0:10:13.15,0:10:15.79,Default,,0,0,0,,These carrot cookies were made
 Dialogue: 0,0:10:15.79,0:10:17.95,Default,,0,0,0,,Nutritious and healthy, here it is for you.
 Dialogue: 0,0:10:20.51,0:10:22.51,Default,,0,0,0,,I’m sorry, I’m allergic to carrots.
 Dialogue: 0,0:10:22.51,0:10:24.43,Default,,0,0,0,,I appreciate your kindness.
-Dialogue: 0,0:10:25.55,0:10:28.75,Default,,0,0,0,,Leopardess (elder) is allergic to carrots and would never eat them.
+Dialogue: 0,0:10:25.55,0:10:28.75,Default,,0,0,0,,Pantheress is allergic to carrots and would never eat them.
 Dialogue: 0,0:10:29.31,0:10:33.07,Default,,0,0,0,,That’s even stranger. Let’s go check it out.
 Dialogue: 0,0:10:42.03,0:10:43.87,Default,,0,0,0,,We need to find a way to get in again.
 Dialogue: 0,0:10:46.75,0:10:47.79,Default,,0,0,0,,Leave it to me.
@@ -160,7 +160,7 @@ Dialogue: 0,0:11:04.19,0:11:05.47,Default,,0,0,0,,Give me back
 Dialogue: 0,0:11:14.03,0:11:15.31,Default,,0,0,0,,Give it back to me
 Dialogue: 0,0:11:15.95,0:11:17.31,Default,,0,0,0,,I won’t give it to you.
 Dialogue: 0,0:11:25.87,0:11:26.99,Default,,0,0,0,,How could this be?
-Dialogue: 0,0:11:42.11,0:11:46.03,Default,,0,0,0,,The carrot cookies are all gone; there’s something wrong with this Leopardess (elder).
+Dialogue: 0,0:11:42.11,0:11:46.03,Default,,0,0,0,,The carrot cookies are all gone; there’s something wrong with this Pantheress.
 Dialogue: 0,0:11:46.91,0:11:47.47,Default,,0,0,0,,Follow her
 Dialogue: 0,0:11:51.47,0:11:52.75,Default,,0,0,0,,Training is really tiring
 Dialogue: 0,0:11:57.71,0:11:59.55,Default,,0,0,0,,Hurry up and take the clothes to be washed.

@@ -24,7 +24,7 @@ Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.80,0:00:22.12,Default,,0,0,0,,In the previous episode, we mentioned that the robot team copied Team Defenders’ every move.
 Dialogue: 0,0:00:22.36,0:00:23.56,Default,,0,0,0,,At the same time, everyone learned
-Dialogue: 0,0:00:23.80,0:00:27.48,Default,,0,0,0,,The machine team was also the team Zi Tailang used to deal with Goat Clan.
+Dialogue: 0,0:00:23.80,0:00:27.48,Default,,0,0,0,,The machine team was also the team Vera used to deal with Goat Clan.
 Dialogue: 0,0:00:27.56,0:00:28.60,Default,,0,0,0,,anxious
 Dialogue: 0,0:00:29.40,0:00:30.44,Default,,0,0,0,,Facing a stalemate
 Dialogue: 0,0:00:30.68,0:00:35.08,Default,,0,0,0,,Weslie and Wolffy ultimately achieved a tacit understanding that machines could not replicate.
@@ -34,7 +34,7 @@ Dialogue: 0,0:00:46.76,0:00:48.92,Default,,0,0,0,,Let’s have a big meal!
 Dialogue: 0,0:00:56.36,0:00:58.44,Default,,0,0,0,,Weslie, what’s wrong?
 Dialogue: 0,0:00:59.48,0:01:02.12,Default,,0,0,0,,Yeah, why are you looking so gloomy?
 Dialogue: 0,0:01:02.36,0:01:03.32,Default,,0,0,0,,nothing
-Dialogue: 0,0:01:04.20,0:01:08.12,Default,,0,0,0,,I was just thinking… Zi Tailang
+Dialogue: 0,0:01:04.20,0:01:08.12,Default,,0,0,0,,I was just thinking… Vera
 Dialogue: 0,0:01:09.48,0:01:10.52,Default,,0,0,0,,Do you remember?
 Dialogue: 0,0:01:11.08,0:01:14.76,Default,,0,0,0,,She communicated with us via robot on the court.
 Dialogue: 0,0:01:15.96,0:01:17.48,Default,,0,0,0,,She’s so lowly.
@@ -102,7 +102,7 @@ Dialogue: 0,0:06:09.72,0:06:12.92,Default,,0,0,0,,Forget it, let’s go find Wol
 Dialogue: 0,0:06:13.48,0:06:15.88,Default,,0,0,0,,I’ll also go to Wolf Fortress to freeload some food and drinks.
 Dialogue: 0,0:06:42.36,0:06:45.32,Default,,0,0,0,,Sorry, I thought someone else was causing trouble.
 Dialogue: 0,0:06:45.40,0:06:47.32,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:06:50.28,0:06:52.52,Default,,0,0,0,,I am from the Department of Science
+Dialogue: 0,0:06:50.28,0:06:52.52,Default,,0,0,0,,I am from the Science Department.
 Dialogue: 0,0:06:52.92,0:06:57.48,Default,,0,0,0,,Our chief inventor has stepped down; someone has recommended you to succeed him.
 Dialogue: 0,0:06:59.32,0:07:04.12,Default,,0,0,0,,The Science Department, the department that controls all of Wolf Clan’s inventions.
 Dialogue: 0,0:07:04.68,0:07:07.32,Default,,0,0,0,,Yes, this is an appointment notice.
@@ -117,7 +117,7 @@ Dialogue: 0,0:07:34.84,0:07:37.80,Default,,0,0,0,,No, how could I possibly leave
 Dialogue: 0,0:07:39.24,0:07:43.96,Default,,0,0,0,,So you’re going to become a traitor to Wolf Clan and continue to cause your family fear?
 Dialogue: 0,0:07:44.92,0:07:49.72,Default,,0,0,0,,Or become the pride of the Wolf Clan and live the life of a wolf-waiting.
 Dialogue: 0,0:07:50.04,0:07:51.96,Default,,0,0,0,,Have you thought it through?
-Dialogue: 0,0:08:02.84,0:08:05.72,Default,,0,0,0,,No, I can’t let Goat down.
+Dialogue: 0,0:08:02.84,0:08:05.72,Default,,0,0,0,,No, I can’t let the goats down.
 Dialogue: 0,0:08:07.48,0:08:10.20,Default,,0,0,0,,But what about Wolnie and Wilie?
 Dialogue: 0,0:08:12.28,0:08:14.76,Default,,0,0,0,,traitor
 Dialogue: 0,0:08:15.80,0:08:18.28,Default,,0,0,0,,Shameless traitor
@@ -135,7 +135,7 @@ Dialogue: 0,0:08:56.60,0:08:58.92,Default,,0,0,0,,Wolffy, don’t listen to them
 Dialogue: 0,0:08:59.16,0:09:01.24,Default,,0,0,0,,Wilie and I both support you.
 Dialogue: 0,0:09:02.44,0:09:05.08,Default,,0,0,0,,This is just a basketball trophy.
 Dialogue: 0,0:09:05.64,0:09:09.48,Default,,0,0,0,,Why put your family in danger because of this sport?
-Dialogue: 0,0:09:10.04,0:09:12.28,Default,,0,0,0,,I can’t let the goat down!
+Dialogue: 0,0:09:10.04,0:09:12.28,Default,,0,0,0,,I can’t let the goats down!
 Dialogue: 0,0:09:13.00,0:09:16.92,Default,,0,0,0,,They don’t need you, so please don’t make the wrong choice.
 Dialogue: 0,0:09:18.84,0:09:20.36,Default,,0,0,0,,I’m afraid I won’t be able to stop them.
 Dialogue: 0,0:09:21.16,0:09:23.40,Default,,0,0,0,,It’s not good if anyone gets hurt in the end.
@@ -164,7 +164,7 @@ Dialogue: 0,0:11:02.76,0:11:05.40,Default,,0,0,0,,We all support everyone playin
 Dialogue: 0,0:11:07.24,0:11:09.96,Default,,0,0,0,,Do you think we are all traitors to our race?
 Dialogue: 0,0:11:15.24,0:11:17.56,Default,,0,0,0,,Don’t be afraid, everyone, let’s push this up.
 Dialogue: 0,0:11:21.48,0:11:23.16,Default,,0,0,0,,So it was you.
-Dialogue: 0,0:11:24.20,0:11:25.40,Default,,0,0,0,,Zi Tailang
+Dialogue: 0,0:11:24.20,0:11:25.40,Default,,0,0,0,,Vera
 Dialogue: 0,0:11:30.12,0:11:31.40,Default,,0,0,0,,You all need to remember this.
 Dialogue: 0,0:11:34.92,0:11:38.04,Default,,0,0,0,,They were so incapable of distinguishing right from wrong that they aided and abetted the wicked.
 Dialogue: 0,0:11:40.36,0:11:42.68,Default,,0,0,0,,We won’t do it again.

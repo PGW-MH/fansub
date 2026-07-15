@@ -31,17 +31,17 @@ Dialogue: 0,0:00:32.04,0:00:34.60,Default,,0,0,0,,However, the machine team upgr
 Dialogue: 0,0:00:34.68,0:00:36.68,Default,,0,0,0,,What other new tricks do they have up their sleeves?
 Dialogue: 0,0:00:42.68,0:00:44.12,Default,,0,0,0,,Hopefully nothing goes wrong.
 Dialogue: 0,0:01:02.12,0:01:03.32,Default,,0,0,0,,pretty
-Dialogue: 0,0:01:03.32,0:01:07.32,Default,,0,0,0,,Weslie made a lightning-fast breakthrough and scored two points in an instant.
+Dialogue: 0,0:01:03.32,0:01:07.32,Default,,0,0,0,,Weslie made a Lightning Attack and scored two points in an instant.
 Dialogue: 0,0:01:09.72,0:01:12.28,Default,,0,0,0,,Weslie, is your foot alright?
-Dialogue: 0,0:01:14.44,0:01:18.12,Default,,0,0,0,,As long as you don’t use overload mode, it should be fine.
-Dialogue: 0,0:01:20.84,0:01:25.72,Default,,0,0,0,,The robot Small Forward unleashed… Lightning Breakthrough
+Dialogue: 0,0:01:14.44,0:01:18.12,Default,,0,0,0,,As long as you don’t use Overdrive mode, it should be fine.
+Dialogue: 0,0:01:20.84,0:01:25.72,Default,,0,0,0,,The robot Small Forward unleashed… Lightning Attack
 Dialogue: 0,0:01:27.16,0:01:29.24,Default,,0,0,0,,Isn’t this Weslie’s signature move?
 Dialogue: 0,0:01:29.56,0:01:31.08,Default,,0,0,0,,How come?
 Dialogue: 0,0:01:41.32,0:01:42.52,Default,,0,0,0,,What
 Dialogue: 0,0:01:49.40,0:01:51.16,Default,,0,0,0,,Unbelievable!
 Dialogue: 0,0:01:51.16,0:01:55.48,Default,,0,0,0,,The robot Small Forward seemed to mimic all of Weslie’s movements.
 Dialogue: 0,0:01:57.72,0:01:57.96,Default,,0,0,0,,CC
-Dialogue: 0,0:01:59.96,0:02:00.20,Default,,0,0,0,,0-5
+Dialogue: 0,0:01:59.96,0:02:00.20,Default,,0,0,0,,Robot 05
 Dialogue: 0,0:02:08.92,0:02:09.40,Default,,0,0,0,,CVCV
 Dialogue: 0,0:02:19.64,0:02:22.84,Default,,0,0,0,,Team Defenders requests a pause.
 Dialogue: 0,0:02:23.80,0:02:28.52,Default,,0,0,0,,Exactly the same; these robots have probably upgraded their systems.
@@ -68,7 +68,7 @@ Dialogue: 0,0:04:01.32,0:04:03.40,Default,,0,0,0,,Hurry up and use your own tric
 Dialogue: 0,0:04:03.80,0:04:06.44,Default,,0,0,0,,I will defeat you and become the number one in the world.
 Dialogue: 0,0:04:06.92,0:04:11.48,Default,,0,0,0,,The one who can defeat himself is the greatest fool in the world.
 Dialogue: 0,0:04:15.96,0:04:20.20,Default,,0,0,0,,Can Team Defenders create a breakthrough after the pause?
-Dialogue: 0,0:04:20.20,0:04:22.76,Default,,0,0,0,,How to counter Team Robot’s copy tactics?
+Dialogue: 0,0:04:20.20,0:04:22.76,Default,,0,0,0,,How to counter Team Robo’s copy tactics?
 Dialogue: 0,0:04:35.40,0:04:37.32,Default,,0,0,0,,The squad leader and I held off the opponent.
 Dialogue: 0,0:04:38.12,0:04:42.36,Default,,0,0,0,,Tibbie and Paddi pass the ball to Wolffy, who is responsible for the score.
 Dialogue: 0,0:04:43.00,0:04:43.64,Default,,0,0,0,,good
@@ -91,16 +91,16 @@ Dialogue: 0,0:06:33.48,0:06:35.56,Default,,0,0,0,,Even teamwork can be replicate
 Dialogue: 0,0:06:35.96,0:06:37.40,Default,,0,0,0,,How can we fight like this?
 Dialogue: 0,0:06:44.84,0:06:48.92,Default,,0,0,0,,No, we can’t let them waste any more time like this.
 Dialogue: 0,0:07:09.80,0:07:14.76,Default,,0,0,0,,Could they even anticipate their opponents’ thoughts?
-Dialogue: 0,0:07:17.72,0:07:20.04,Default,,0,0,0,,It seems the only option is to use overload again.
+Dialogue: 0,0:07:17.72,0:07:20.04,Default,,0,0,0,,It seems the only option is to use Overdrive again.
 Dialogue: 0,0:07:22.52,0:07:25.64,Default,,0,0,0,,What are you doing, you little goat? Are you out of your mind?
 Dialogue: 0,0:07:26.04,0:07:27.08,Default,,0,0,0,,But they
 Dialogue: 0,0:07:27.40,0:07:28.84,Default,,0,0,0,,That won’t work either.
-Dialogue: 0,0:07:29.32,0:07:31.24,Default,,0,0,0,,If you use overload again
+Dialogue: 0,0:07:29.32,0:07:31.24,Default,,0,0,0,,If you use Overdrive again
 Dialogue: 0,0:07:31.24,0:07:35.08,Default,,0,0,0,,Even if we win this game, what about the next one?
 Dialogue: 0,0:07:40.68,0:07:42.68,Default,,0,0,0,,Calm down, Weslie
 Dialogue: 0,0:07:42.68,0:07:44.60,Default,,0,0,0,,There must be a way.
-Dialogue: 0,0:07:47.24,0:07:47.96,Default,,0,0,0,,0-1
-Dialogue: 0,0:07:48.44,0:07:50.60,Default,,0,0,0,,You are Zi Tailang
+Dialogue: 0,0:07:47.24,0:07:47.96,Default,,0,0,0,,Robot 01
+Dialogue: 0,0:07:48.44,0:07:50.60,Default,,0,0,0,,You are Vera
 Dialogue: 0,0:07:52.68,0:07:53.48,Default,,0,0,0,,That’s right
 Dialogue: 0,0:07:53.88,0:07:55.64,Default,,0,0,0,,Why would you
 Dialogue: 0,0:07:56.36,0:07:59.80,Default,,0,0,0,,I heard you’re very smart, how come you couldn’t think of this?
@@ -109,7 +109,7 @@ Dialogue: 0,0:08:04.92,0:08:08.20,Default,,0,0,0,,What?! Aren’t you the manage
 Dialogue: 0,0:08:09.32,0:08:13.32,Default,,0,0,0,,Of course, this is for double protection after we win against you.
 Dialogue: 0,0:08:13.56,0:08:16.28,Default,,0,0,0,,Both teams in the finals were my teams.
 Dialogue: 0,0:08:16.52,0:08:20.04,Default,,0,0,0,,Regardless of winning or losing, I will be the one who ultimately triumphs.
-Dialogue: 0,0:08:20.04,0:08:22.52,Default,,0,0,0,,Zi Tailang, you’re so despicable!
+Dialogue: 0,0:08:20.04,0:08:22.52,Default,,0,0,0,,Vera, you’re so despicable!
 Dialogue: 0,0:08:22.52,0:08:24.92,Default,,0,0,0,,Everyone on Team Wolves is playing so hard.
 Dialogue: 0,0:08:24.92,0:08:27.24,Default,,0,0,0,,You…you treat them like this.
 Dialogue: 0,0:08:27.96,0:08:30.92,Default,,0,0,0,,This world only has winners and losers.
@@ -129,7 +129,7 @@ Dialogue: 0,0:09:31.64,0:09:32.84,Default,,0,0,0,,Big Grey Wolf O
 Dialogue: 0,0:09:34.04,0:09:37.88,Default,,0,0,0,,Wolffy is right, nothing is impossible.
 Dialogue: 0,0:09:42.68,0:09:45.56,Default,,0,0,0,,Let them see how powerful Team Defenders are.
 Dialogue: 0,0:09:45.56,0:09:46.28,Default,,0,0,0,,good
-Dialogue: 0,0:09:51.00,0:09:55.48,Default,,0,0,0,,It seems the tide has turned: facing Team Robot’s replication capabilities.
+Dialogue: 0,0:09:51.00,0:09:55.48,Default,,0,0,0,,It seems the tide has turned: facing Team Robo’s replication capabilities.
 Dialogue: 0,0:09:55.48,0:09:58.92,Default,,0,0,0,,How can Team Defenders turn the tide?
 Dialogue: 0,0:09:58.92,0:10:01.72,Default,,0,0,0,,Wait, what’s that?
 Dialogue: 0,0:10:06.92,0:10:07.96,Default,,0,0,0,,What.
@@ -151,7 +151,7 @@ Dialogue: 0,0:11:25.80,0:11:28.60,Default,,0,0,0,,Don’t underestimate our team
 Dialogue: 0,0:11:45.80,0:11:47.96,Default,,0,0,0,,good
 Dialogue: 0,0:11:49.00,0:11:50.36,Default,,0,0,0,,nice shot
 Dialogue: 0,0:11:51.64,0:11:54.60,Default,,0,0,0,,They did it, they really did it.
-Dialogue: 0,0:11:54.60,0:11:57.56,Default,,0,0,0,,The goats actually defeated Team Robot!
+Dialogue: 0,0:11:54.60,0:11:57.56,Default,,0,0,0,,The goats actually defeated Team Robo!
 Dialogue: 0,0:11:58.12,0:12:03.40,Default,,0,0,0,,I never expected that wolves and goats could put on such a spectacular match together!
 Dialogue: 0,0:12:03.40,0:12:05.96,Default,,0,0,0,,It seems we underestimated them.
 Dialogue: 0,0:12:07.00,0:12:10.84,Default,,0,0,0,,I told you, wolves and goats teaming up are incredibly powerful.

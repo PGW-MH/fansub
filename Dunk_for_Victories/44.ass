@@ -19,12 +19,12 @@ Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes: Dunk for Victories.
-Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Buzzer Beating Overload
+Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,Buzzer-Beater Overdrive
 Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.76,0:00:19.88,Default,,0,0,0,,In the previous episode, Jonie using a hook hand.
 Dialogue: 0,0:00:19.96,0:00:22.84,Default,,0,0,0,,Forcing Sky Hawk to use his strongest killing move
-Dialogue: 0,0:00:22.92,0:00:24.32,Default,,0,0,0,,Eagle Soars Through the Sky and Dunks
+Dialogue: 0,0:00:22.92,0:00:24.32,Default,,0,0,0,,The Eagle Dunk
 Dialogue: 0,0:00:24.44,0:00:26.80,Default,,0,0,0,,None of Team Defenders were able to intercept it.
 Dialogue: 0,0:00:26.88,0:00:28.40,Default,,0,0,0,,The score was quickly widened
 Dialogue: 0,0:00:29.12,0:00:31.20,Default,,0,0,0,,In the end, Jonie stepped forward.
@@ -62,7 +62,7 @@ Dialogue: 0,0:03:23.24,0:03:24.80,Default,,0,0,0,,After all, they were the previ
 Dialogue: 0,0:03:24.88,0:03:27.52,Default,,0,0,0,,How could they willingly let Team Defenders overpower them and launch a counterattack?
 Dialogue: 0,0:03:29.68,0:03:31.16,Default,,0,0,0,,Stop them!
 Dialogue: 0,0:03:47.44,0:03:49.36,Default,,0,0,0,,Sky Hawk unleashed his most powerful move once again.
-Dialogue: 0,0:03:49.44,0:03:51.60,Default,,0,0,0,,Eagle Soars Through the Sky and Dunks
+Dialogue: 0,0:03:49.44,0:03:51.60,Default,,0,0,0,,The Eagle Dunk
 Dialogue: 0,0:03:51.96,0:03:54.52,Default,,0,0,0,,Does Team Defenders still have a chance to turn things around?
 Dialogue: 0,0:03:54.64,0:03:56.64,Default,,0,0,0,,This is infuriating! They’re using this trick again!
 Dialogue: 0,0:03:56.76,0:03:58.28,Default,,0,0,0,,There’s simply no way to defend against it.
@@ -80,7 +80,7 @@ Dialogue: 0,0:04:47.80,0:04:50.00,Default,,0,0,0,,Overloaded, overloaded again.
 Dialogue: 0,0:04:50.08,0:04:52.00,Default,,0,0,0,,Weslie scores another crucial goal
 Dialogue: 0,0:04:52.08,0:04:53.48,Default,,0,0,0,,The two sides tied again.
 Dialogue: 0,0:04:54.76,0:04:56.84,Default,,0,0,0,,With only 10 seconds left in the game…
-Dialogue: 0,0:05:03.52,0:05:05.56,Default,,0,0,0,,We can’t let him use the Eagle Soaring Through the Sky…
+Dialogue: 0,0:05:03.52,0:05:05.56,Default,,0,0,0,,We can’t let him use the Eagle…
 Dialogue: 0,0:05:28.84,0:05:29.92,Default,,0,0,0,,Oh no…
 Dialogue: 0,0:05:39.24,0:05:40.52,Default,,0,0,0,,The championship is ours
 Dialogue: 0,0:05:40.92,0:05:43.12,Default,,0,0,0,,Two points, leading by two points again.
