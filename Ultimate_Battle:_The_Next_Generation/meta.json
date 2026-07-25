@@ -3,8 +3,10 @@
         {
             "num": 1,
             "youtube": "https://youtu.be/wvbIlAkduJg",
-            "translator": ["Big Humphrey|Venn"],
-            "translatorsword": "This is translated with Subtitle Translation Tool. The translation is machine-assisted and may contain inaccuracies. Please share feedback on the Discord server."
+            "translator": ["Big Humphrey|Venn", "Honoka55"],
+            "proofreader": ["King Vincent"],
+            "timer": ["Honoka55"],
+            "translatorsword": "The proofreader for this episode’s subtitles also created a fandub of the episode! Feel free to check it out."
         },
         {
             "num": 2,
