@@ -1,0 +1,48 @@
+name: Update YouTube links
+
+on:
+  schedule:
+    - cron: '0 12 * * 1,3,5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-youtube:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run updater
+        id: updater
+        run: node scripts/update-youtube.js >> "$GITHUB_OUTPUT"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add New_Wild_Cosmos/meta.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update nwc ${{ steps.updater.outputs.updated }} youtube"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Purge jsDelivr cache
+        uses: gacts/purge-jsdelivr-cache@v1.1.2
+        with:
+          url: https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest/New_Wild_Cosmos/meta.json
