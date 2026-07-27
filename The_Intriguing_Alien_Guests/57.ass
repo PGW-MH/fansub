@@ -21,7 +21,7 @@ Dialogue: 0,00:00:29.25,00:00:30.81,Default,,0,0,0,,When did you have more authe
 Dialogue: 0,00:00:33.57,00:00:35.17,Default,,0,0,0,,It turns out you are here!
 Dialogue: 0,00:00:35.77,00:00:37.57,Default,,0,0,0,,Do you know how worried I am about you…
 Dialogue: 0,00:00:37.61,00:00:38.25,Default,,0,0,0,,Run quickly
-Dialogue: 0,00:00:38.45,00:00:39.89,Default,,0,0,0,,The wolf castle is about to collapse
+Dialogue: 0,00:00:38.45,00:00:39.89,Default,,0,0,0,,The Wolf Fortress is about to collapse
 Dialogue: 0,00:00:40.85,00:00:41.65,Default,,0,0,0,,What’s going on?
 Dialogue: 0,00:00:41.77,00:00:43.41,Default,,0,0,0,,Let’s talk about it after leaving here
 Dialogue: 0,00:01:02.13,00:01:04.89,Default,,0,0,0,,The power finally came back!
@@ -104,11 +104,10 @@ Dialogue: 0,00:04:39.33,00:04:40.49,Default,,0,0,0,,No matter how big he is, it 
 Dialogue: 0,00:04:40.65,00:04:41.53,Default,,0,0,0,,I can
 Dialogue: 0,00:04:41.93,00:04:43.53,Default,,0,0,0,,Listen to me! Go quickly!
 Dialogue: 0,00:04:44.33,00:04:45.69,Default,,0,0,0,,no! Listen to me!
-Dialogue: 0,00:04:45.81,00:04:48.77,Default,,0,0,0,,-You go first
--You go first
+Dialogue: 0,00:04:45.81,00:04:48.77,Default,,0,0,0,,-You go first -You go first
 Dialogue: 0,00:04:48.81,00:04:50.45,Default,,0,0,0,,Dad, mom, you go first
 Dialogue: 0,00:04:50.69,00:04:52.05,Default,,0,0,0,,I’ll hold him
-Dialogue: 0,00:04:53.13,00:04:54.29,Default,,0,0,0,,Small gray
+Dialogue: 0,00:04:53.13,00:04:54.29,Default,,0,0,0,,Wilie
 Dialogue: 0,00:04:57.29,00:04:59.25,Default,,0,0,0,,Why are you not afraid!
 Dialogue: 0,00:04:59.33,00:05:01.53,Default,,0,0,0,,I’m reporting you
 Dialogue: 0,00:05:03.89,00:05:05.21,Default,,0,0,0,,You’re fine
@@ -173,7 +172,7 @@ Dialogue: 0,00:07:49.45,00:07:50.53,Default,,0,0,0,,OK OK OK
 Dialogue: 0,00:07:50.93,00:07:52.01,Default,,0,0,0,,Don’t worry
 Dialogue: 0,00:07:52.73,00:07:54.65,Default,,0,0,0,,We’ll take good care of ourselves
 Dialogue: 0,00:07:55.49,00:07:56.01,Default,,0,0,0,,Red
-Dialogue: 0,00:07:56.25,00:07:57.25,Default,,0,0,0,,Small gray
+Dialogue: 0,00:07:56.25,00:07:57.25,Default,,0,0,0,,Wilie
 Dialogue: 0,00:07:59.41,00:08:00.73,Default,,0,0,0,,That’s right
 Dialogue: 0,00:08:00.97,00:08:03.21,Default,,0,0,0,,I’m the first inventor on the grassland
 Dialogue: 0,00:08:03.53,00:08:05.29,Default,,0,0,0,,It’s my son’s hero
@@ -230,8 +229,7 @@ Dialogue: 0,00:10:28.33,00:10:29.41,Default,,0,0,0,,Sorry
 Dialogue: 0,00:10:32.05,00:10:34.05,Default,,0,0,0,,My eyes
 Dialogue: 0,00:10:34.05,00:10:35.37,Default,,0,0,0,,I’m here
 Dialogue: 0,00:10:48.81,00:10:50.61,Default,,0,0,0,,It should be OK now
-Dialogue: 0,00:10:51.85,00:10:53.73,Default,,0,0,0,,- Two guys!
-- The King
+Dialogue: 0,00:10:51.85,00:10:53.73,Default,,0,0,0,,- Two guys! - The King
 Dialogue: 0,00:10:53.77,00:10:54.49,Default,,0,0,0,,You wake up!
 Dialogue: 0,00:10:54.61,00:10:56.17,Default,,0,0,0,,I’m Xiao Zi
 Dialogue: 0,00:10:56.25,00:10:58.09,Default,,0,0,0,,Oops! Xiao Zi is in danger!

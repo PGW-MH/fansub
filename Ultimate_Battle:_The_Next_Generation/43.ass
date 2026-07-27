@@ -119,10 +119,8 @@ Dialogue: 0,00:07:27.89,00:07:30.29,Default,,0,0,0,,No one, please check it out
 Dialogue: 0,00:07:46.05,00:07:48.25,Default,,0,0,0,,I almost forgot to lock the warehouse door
 Dialogue: 0,00:07:55.53,00:07:57.49,Default,,0,0,0,,No humans seem to have found it
 Dialogue: 0,00:07:58.13,00:07:59.41,Default,,0,0,0,,OK Get off work
-Dialogue: 0,00:08:02.13,00:08:03.97,Default,,0,0,0,,- Ah Insurance
-- Ah Insurance
-Dialogue: 0,00:08:04.89,00:08:08.89,Default,,0,0,0,,- Open the door quickly. We’re locked inside
-- Open the door quickly. We’re locked inside
+Dialogue: 0,00:08:02.13,00:08:03.97,Default,,0,0,0,,- Ah Insurance - Ah Insurance
+Dialogue: 0,00:08:04.89,00:08:08.89,Default,,0,0,0,,- Open the door quickly. We’re locked inside - Open the door quickly. We’re locked inside
 Dialogue: 0,00:08:11.09,00:08:13.37,Default,,0,0,0,,Oops, it’s so cold
 Dialogue: 0,00:08:16.41,00:08:18.49,Default,,0,0,0,,How can the insurance warehouse be so cold
 Dialogue: 0,00:08:21.33,00:08:24.17,Default,,0,0,0,,Let me come Shadow Blade
@@ -132,7 +130,7 @@ Dialogue: 0,00:08:40.65,00:08:44.21,Default,,0,0,0,,Right, contact other people 
 Dialogue: 0,00:08:44.89,00:08:46.93,Default,,0,0,0,,I tried it without a signal
 Dialogue: 0,00:08:51.01,00:08:54.10,Default,,0,0,0,,It’s getting colder and colder, we can’t sit
 Dialogue: 0,00:08:54.13,00:08:56.05,Default,,0,0,0,,Come and move
-Dialogue: 0,00:09:00.45,00:09:03.65,Default,,0,0,0,,Red Red Red Red Stop you will be hurt
+Dialogue: 0,00:09:00.45,00:09:03.65,Default,,0,0,0,,Wolnie Wolnie Stop you will be hurt
 Dialogue: 0,00:09:04.09,00:09:06.69,Default,,0,0,0,,You see, your hands are made like this
 Dialogue: 0,00:09:07.33,00:09:10.29,Default,,0,0,0,,Let’s think of a way to warm your body up first
 Dialogue: 0,00:09:20.13,00:09:21.81,Default,,0,0,0,,Don’t worry, I’m not cold
@@ -163,10 +161,9 @@ Dialogue: 0,00:11:31.01,00:11:34.01,Default,,0,0,0,,Let’s pull together and le
 Dialogue: 0,00:11:36.13,00:11:37.37,Default,,0,0,0,,Weslie…
 Dialogue: 0,00:11:39.17,00:11:41.61,Default,,0,0,0,,Don’t be too slow, hurry up
 Dialogue: 0,00:11:41.85,00:11:42.73,Default,,0,0,0,,thank you
-Dialogue: 0,00:11:44.97,00:11:47.17,Default,,0,0,0,,- 123
-- 123
+Dialogue: 0,00:11:44.97,00:11:47.17,Default,,0,0,0,,- 123 - 123
 Dialogue: 0,00:11:52.33,00:11:54.61,Default,,0,0,0,,Red Quick…
 Dialogue: 0,00:12:12.53,00:12:14.77,Default,,0,0,0,,Red, are you happy?
 Dialogue: 0,00:12:15.65,00:12:18.69,Default,,0,0,0,,Red, please ask someone to save us
-Dialogue: 0,00:12:19.05,00:12:21.89,Default,,0,0,0,,Red Red Did you hear Red Red Red…
+Dialogue: 0,00:12:19.05,00:12:21.89,Default,,0,0,0,,Wolnie Did you hear Wolnie Red…
 Dialogue: 0,00:12:22.97,00:12:24.89,Default,,0,0,0,,I need to install the transmitter quickly

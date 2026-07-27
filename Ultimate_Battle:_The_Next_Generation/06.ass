@@ -32,7 +32,7 @@ Dialogue: 0,00:00:57.16,00:00:59.92,Default,,0,0,0,,Tibbie This pen must be very
 Dialogue: 0,00:01:01.24,00:01:03.28,Default,,0,0,0,,This pen is the time when I became a reporter
 Dialogue: 0,00:01:03.68,00:01:05.12,Default,,0,0,0,,Everyone gave it to me
 Dialogue: 0,00:01:06.12,00:01:08.68,Default,,0,0,0,,Tibbie Congratulations on becoming a reporter
-Dialogue: 0,00:01:09.20,00:01:11.56,Default,,0,0,0,,Look at the gifts everyone in the Goat Village gives you
+Dialogue: 0,00:01:09.20,00:01:11.56,Default,,0,0,0,,Look at the gifts everyone in the Goats’ Village gives you
 Dialogue: 0,00:01:12.71,00:01:14.60,Default,,0,0,0,,I’ve given two copies
 Dialogue: 0,00:01:14.60,00:01:15.68,Default,,0,0,0,,I’ll do three
 Dialogue: 0,00:01:15.68,00:01:16.80,Default,,0,0,0,,I’m four
@@ -85,11 +85,9 @@ Dialogue: 0,00:04:07.07,00:04:07.96,Default,,0,0,0,,He’s there
 Dialogue: 0,00:04:09.24,00:04:10.68,Default,,0,0,0,,Uncle, please wait a moment
 Dialogue: 0,00:04:12.36,00:04:13.88,Default,,0,0,0,,Your box is dangerous
 Dialogue: 0,00:04:14.73,00:04:15.97,Default,,0,0,0,,danger?
-Dialogue: 0,00:04:32.52,00:04:33.76,Default,,0,0,0,,-Flashlight…
--Flashlight…
+Dialogue: 0,00:04:32.52,00:04:33.76,Default,,0,0,0,,-Flashlight… -Flashlight…
 Dialogue: 0,00:04:36.60,00:04:39.16,Default,,0,0,0,,Did you report that I just stepped on the pen?
-Dialogue: 0,00:04:41.48,00:04:43.63,Default,,0,0,0,,-Sorry, I’ll pack you up
--Sorry, I’ll pack you up
+Dialogue: 0,00:04:41.48,00:04:43.63,Default,,0,0,0,,-Sorry, I’ll pack you up -Sorry, I’ll pack you up
 Dialogue: 0,00:04:43.80,00:04:45.00,Default,,0,0,0,,Forget it
 Dialogue: 0,00:04:49.88,00:04:50.72,Default,,0,0,0,,What’s up
 Dialogue: 0,00:04:51.60,00:04:52.56,Default,,0,0,0,,What about my pen
@@ -138,8 +136,7 @@ Dialogue: 0,00:08:23.28,00:08:26.00,Default,,0,0,0,,It…it should be the one I 
 Dialogue: 0,00:08:26.72,00:08:27.76,Default,,0,0,0,,what?
 Dialogue: 0,00:08:28.44,00:08:30.08,Default,,0,0,0,,Let’s chase
 Dialogue: 0,00:08:35.40,00:08:37.04,Default,,0,0,0,,Dirty me
-Dialogue: 0,00:08:37.60,00:08:40.68,Default,,0,0,0,,-You’ve dirtyed me
--I’m sorry
+Dialogue: 0,00:08:37.60,00:08:40.68,Default,,0,0,0,,-You’ve dirtyed me -I’m sorry
 Dialogue: 0,00:08:40.68,00:08:43.08,Default,,0,0,0,,I didn’t mean it
 Dialogue: 0,00:08:56.44,00:08:57.60,Default,,0,0,0,,Come here
 Dialogue: 0,00:09:25.92,00:09:27.88,Default,,0,0,0,,Uncle, go to a safe place

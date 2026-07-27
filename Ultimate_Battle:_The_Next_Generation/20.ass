@@ -15,13 +15,13 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:24.29,00:00:26.77,Default,,0,0,0,,Big Wolf Where are you
-Dialogue: 0,00:00:39.25,00:00:41.69,Default,,0,0,0,,Hello, what’s wrong My cute little gray
+Dialogue: 0,00:00:39.25,00:00:41.69,Default,,0,0,0,,Hello, what’s wrong My cute Wilie
 Dialogue: 0,00:00:42.81,00:00:43.69,Default,,0,0,0,,Red
 Dialogue: 0,00:00:49.29,00:00:51.85,Default,,0,0,0,,I’m back…
 Dialogue: 0,00:00:59.81,00:01:01.45,Default,,0,0,0,,Gray…Grey Wolf
-Dialogue: 0,00:01:04.49,00:01:06.73,Default,,0,0,0,,Red Red Where are you now
+Dialogue: 0,00:01:04.49,00:01:06.73,Default,,0,0,0,,Wolnie Where are you now
 Dialogue: 0,00:01:11.13,00:01:13.01,Default,,0,0,0,,When will you come back
-Dialogue: 0,00:01:14.05,00:01:16.53,Default,,0,0,0,,Red Red Why don’t you talk anymore
+Dialogue: 0,00:01:14.05,00:01:16.53,Default,,0,0,0,,Wolnie Why don’t you talk anymore
 Dialogue: 0,00:01:17.65,00:01:18.85,Default,,0,0,0,,You’re back
 Dialogue: 0,00:01:20.17,00:01:22.45,Default,,0,0,0,,Yes, I’m back
 Dialogue: 0,00:01:25.33,00:01:26.29,Default,,0,0,0,,Very good
@@ -57,11 +57,9 @@ Dialogue: 0,00:03:37.65,00:03:38.65,Default,,0,0,0,,Spear damage
 Dialogue: 0,00:03:38.73,00:03:39.61,Default,,0,0,0,,Shield damage
 Dialogue: 0,00:03:39.93,00:03:40.73,Default,,0,0,0,,Spear damage
 Dialogue: 0,00:03:41.05,00:03:41.63,Default,,0,0,0,,Shield damage
-Dialogue: 0,00:03:41.65,00:03:45.23,Default,,0,0,0,,- The spear is…
-- Shield damage
+Dialogue: 0,00:03:41.65,00:03:45.23,Default,,0,0,0,,- The spear is… - Shield damage
 Dialogue: 0,00:03:45.25,00:03:48.05,Default,,0,0,0,,Hello, the museum is about to close. You leave quickly
-Dialogue: 0,00:03:50.09,00:03:52.47,Default,,0,0,0,,- The spear is…
-- Shield damage
+Dialogue: 0,00:03:50.09,00:03:52.47,Default,,0,0,0,,- The spear is… - Shield damage
 Dialogue: 0,00:03:52.49,00:03:53.65,Default,,0,0,0,,Spear Spear
 Dialogue: 0,00:03:58.69,00:04:01.93,Default,,0,0,0,,Who is more harmful
 Dialogue: 0,00:04:12.57,00:04:13.87,Default,,0,0,0,,Thousands of years
@@ -170,10 +168,10 @@ Dialogue: 0,00:10:59.93,00:11:02.77,Default,,0,0,0,,This time you must let you k
 Dialogue: 0,00:11:03.61,00:11:04.85,Default,,0,0,0,,Found you
 Dialogue: 0,00:11:11.09,00:11:13.09,Default,,0,0,0,,Wilie, what are you doing
 Dialogue: 0,00:11:13.81,00:11:14.69,Default,,0,0,0,,Can’t go
-Dialogue: 0,00:11:18.09,00:11:19.17,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:18.09,00:11:19.17,Default,,0,0,0,,Wilie
 Dialogue: 0,00:11:19.89,00:11:22.61,Default,,0,0,0,,I know you’re afraid that your dad will be in danger
 Dialogue: 0,00:11:22.93,00:11:23.73,Default,,0,0,0,,but…
-Dialogue: 0,00:11:24.77,00:11:27.37,Default,,0,0,0,,Dad is one of the guardians of Yang Village
+Dialogue: 0,00:11:24.77,00:11:27.37,Default,,0,0,0,,Dad is one of the Mighty Little Defenders
 Dialogue: 0,00:11:27.69,00:11:29.15,Default,,0,0,0,,Encountering dangers and difficulties
 Dialogue: 0,00:11:29.17,00:11:31.13,Default,,0,0,0,,How can you hide behind others
 Dialogue: 0,00:11:31.65,00:11:33.33,Default,,0,0,0,,I don’t want to be a coward

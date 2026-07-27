@@ -48,10 +48,8 @@ Dialogue: 0,00:01:48.41,00:01:50.77,Default,,0,0,0,,Don’t induce us with food
 Dialogue: 0,00:01:52.13,00:01:53.45,Default,,0,0,0,,Before the sun goes down
 Dialogue: 0,00:01:53.77,00:01:55.69,Default,,0,0,0,,You’re going to carve a hundred ice sculptures
 Dialogue: 0,00:01:56.37,00:01:58.75,Default,,0,0,0,,what? How can this be done
-Dialogue: 0,00:01:58.77,00:01:59.27,Default,,0,0,0,,- yes
-- yes
-Dialogue: 0,00:01:59.29,00:02:00.37,Default,,0,0,0,,- yes
-- How can this be done
+Dialogue: 0,00:01:58.77,00:01:59.27,Default,,0,0,0,,- yes - yes
+Dialogue: 0,00:01:59.29,00:02:00.37,Default,,0,0,0,,- yes - How can this be done
 Dialogue: 0,00:02:00.77,00:02:02.77,Default,,0,0,0,,Can’t finish it? That’s the next
 Dialogue: 0,00:02:03.25,00:02:05.09,Default,,0,0,0,,Husky soup is so fragrant
 Dialogue: 0,00:02:05.33,00:02:07.37,Default,,0,0,0,,We almost couldn’t help it
@@ -155,7 +153,7 @@ Dialogue: 0,00:09:49.17,00:09:49.97,Default,,0,0,0,,No
 Dialogue: 0,00:09:50.17,00:09:52.69,Default,,0,0,0,,Repairing the fan just consumes too much energy
 Dialogue: 0,00:09:52.89,00:09:55.37,Default,,0,0,0,,Let this king come out of his own
 Dialogue: 0,00:09:56.69,00:09:58.57,Default,,0,0,0,,Wolffy, you have to be careful
-Dialogue: 0,00:09:58.85,00:10:02.29,Default,,0,0,0,,Don’t worry, I’ve been experiencing my years of experience in sneaking into the Goat Village
+Dialogue: 0,00:09:58.85,00:10:02.29,Default,,0,0,0,,Don’t worry, I’ve been experiencing my years of experience in sneaking into the Goats’ Village
 Dialogue: 0,00:10:02.49,00:10:06.01,Default,,0,0,0,,It’s a side dish… a dish…
 Dialogue: 0,00:10:08.13,00:10:09.97,Default,,0,0,0,,ah…
 Dialogue: 0,00:10:15.77,00:10:18.29,Default,,0,0,0,,You are told to be careful, but you fall down
@@ -173,15 +171,12 @@ Dialogue: 0,00:10:59.05,00:11:02.09,Default,,0,0,0,,Oh, why did I just chop it a
 Dialogue: 0,00:11:02.61,00:11:04.75,Default,,0,0,0,,You want to find a way to solve the problem
 Dialogue: 0,00:11:04.77,00:11:06.97,Default,,0,0,0,,It’s not that you want to create a problem
 Dialogue: 0,00:11:07.65,00:11:08.77,Default,,0,0,0,,Ah… I’ve fought
-Dialogue: 0,00:11:16.81,00:11:18.29,Default,,0,0,0,,- Wolffy
-- Wolffy
+Dialogue: 0,00:11:16.81,00:11:18.29,Default,,0,0,0,,- Wolffy - Wolffy
 Dialogue: 0,00:11:21.33,00:11:22.21,Default,,0,0,0,,I hug
-Dialogue: 0,00:11:22.53,00:11:23.37,Default,,0,0,0,,- Well…
-- Well…
+Dialogue: 0,00:11:22.53,00:11:23.37,Default,,0,0,0,,- Well… - Well…
 Dialogue: 0,00:11:23.85,00:11:26.13,Default,,0,0,0,,Thunder Bird Flash…
 Dialogue: 0,00:11:26.89,00:11:28.75,Default,,0,0,0,,Oops Oops…
-Dialogue: 0,00:11:28.77,00:11:30.05,Default,,0,0,0,,- Is this OK?
-- Is this OK?
+Dialogue: 0,00:11:28.77,00:11:30.05,Default,,0,0,0,,- Is this OK? - Is this OK?
 Dialogue: 0,00:11:32.37,00:11:34.69,Default,,0,0,0,,It seems that Wolffy has defeated the Great Miracle
 Dialogue: 0,00:11:35.09,00:11:36.13,Default,,0,0,0,,Wolffy is great
 Dialogue: 0,00:11:39.65,00:11:41.37,Default,,0,0,0,,Tibbie, you’re fine, right?

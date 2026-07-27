@@ -15,8 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:18.84,00:00:19.84,Default,,0,0,0,,You’re good
-Dialogue: 0,00:00:21.16,00:00:22.20,Default,,0,0,0,,- Weslie
-- Weslie
+Dialogue: 0,00:00:21.16,00:00:22.20,Default,,0,0,0,,- Weslie - Weslie
 Dialogue: 0,00:00:26.16,00:00:27.72,Default,,0,0,0,,Weslie What are you here to do
 Dialogue: 0,00:00:29.88,00:00:31.23,Default,,0,0,0,,Of course I’m here to catch people
 Dialogue: 0,00:00:31.76,00:00:32.36,Default,,0,0,0,,Wait a moment
@@ -27,8 +26,7 @@ Dialogue: 0,00:00:41.68,00:00:43.09,Default,,0,0,0,,If you can complete the miss
 Dialogue: 0,00:00:43.12,00:00:44.47,Default,,0,0,0,,I don’t want to come here
 Dialogue: 0,00:00:44.64,00:00:46.44,Default,,0,0,0,,I’ll stop messing with me again
 Dialogue: 0,00:00:47.32,00:00:47.96,Default,,0,0,0,,Oops
-Dialogue: 0,00:00:48.32,00:00:50.12,Default,,0,0,0,,- Tibbie
-- I’ll warn you again in the end
+Dialogue: 0,00:00:48.32,00:00:50.12,Default,,0,0,0,,- Tibbie - I’ll warn you again in the end
 Dialogue: 0,00:00:50.24,00:00:51.84,Default,,0,0,0,,I’ll catch the prisoner
 Dialogue: 0,00:00:52.00,00:00:53.57,Default,,0,0,0,,Of course I was arresting the prisoner
 Dialogue: 0,00:00:53.60,00:00:54.28,Default,,0,0,0,,I’ll catch it
@@ -171,8 +169,7 @@ Dialogue: 0,00:10:17.64,00:10:18.61,Default,,0,0,0,,Fortunately, you are here
 Dialogue: 0,00:10:18.64,00:10:19.67,Default,,0,0,0,,Uh-huh
 Dialogue: 0,00:10:21.36,00:10:23.00,Default,,0,0,0,,Paddi…
 Dialogue: 0,00:10:23.44,00:10:25.29,Default,,0,0,0,,It turns out that you are coming out so soon
-Dialogue: 0,00:10:25.32,00:10:28.72,Default,,0,0,0,,- 未…
-- Don’t be so loud, Big Grey Wolf
+Dialogue: 0,00:10:25.32,00:10:28.72,Default,,0,0,0,,- 未… - Don’t be so loud, Big Grey Wolf
 Dialogue: 0,00:10:29.60,00:10:32.12,Default,,0,0,0,,What are you talking about? That’s so small
 Dialogue: 0,00:10:32.64,00:10:33.36,Default,,0,0,0,,They say
 Dialogue: 0,00:10:33.60,00:10:34.67,Default,,0,0,0,,Don’t be so loud

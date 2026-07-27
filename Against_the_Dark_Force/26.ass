@@ -49,8 +49,7 @@ Dialogue: 0,00:01:57.85,00:01:58.49,Default,,0,0,0,,and
 Dialogue: 0,00:01:58.85,00:02:00.59,Default,,0,0,0,,Give them a bottle of water every day
 Dialogue: 0,00:02:00.61,00:02:01.73,Default,,0,0,0,,Just a thunderhead
 Dialogue: 0,00:02:01.97,00:02:04.29,Default,,0,0,0,,Can’t be too good to them, do you understand?
-Dialogue: 0,00:02:04.97,00:02:05.69,Default,,0,0,0,,- yes
-- yes
+Dialogue: 0,00:02:04.97,00:02:05.69,Default,,0,0,0,,- yes - yes
 Dialogue: 0,00:02:11.05,00:02:12.89,Default,,0,0,0,,Sparky , please stand me
 Dialogue: 0,00:02:14.45,00:02:15.63,Default,,0,0,0,,No need to quit
 Dialogue: 0,00:02:15.65,00:02:17.97,Default,,0,0,0,,I won’t let you out, no matter what.
@@ -74,10 +73,8 @@ Dialogue: 0,00:03:26.77,00:03:28.55,Default,,0,0,0,,Yes, thank you for reminding
 Dialogue: 0,00:03:28.57,00:03:30.69,Default,,0,0,0,,I’m going to learn to be smart this time
 Dialogue: 0,00:03:30.85,00:03:33.31,Default,,0,0,0,,What a fantasy I am a Sparky
 Dialogue: 0,00:03:33.33,00:03:35.61,Default,,0,0,0,,Come in and see what they are doing!
-Dialogue: 0,00:03:35.85,00:03:37.11,Default,,0,0,0,,- What a fantasy
-- Alas
-Dialogue: 0,00:03:37.13,00:03:38.73,Default,,0,0,0,,- I am Sparky 
-- I’ve learned quite like it
+Dialogue: 0,00:03:35.85,00:03:37.11,Default,,0,0,0,,- What a fantasy - Alas
+Dialogue: 0,00:03:37.13,00:03:38.73,Default,,0,0,0,,- I am Sparky  - I’ve learned quite like it
 Dialogue: 0,00:03:39.45,00:03:41.49,Default,,0,0,0,,It seems that I can only go by myself
 Dialogue: 0,00:03:46.37,00:03:49.65,Default,,0,0,0,,Why are you so good to give prisoners privately
 Dialogue: 0,00:03:49.93,00:03:51.85,Default,,0,0,0,,No, Sparky 
@@ -109,10 +106,8 @@ Dialogue: 0,00:05:23.05,00:05:24.25,Default,,0,0,0,,Take his key!
 Dialogue: 0,00:05:32.29,00:05:33.45,Default,,0,0,0,,Shocked me
 Dialogue: 0,00:05:33.57,00:05:35.27,Default,,0,0,0,,Hahahahahahahahaha…
 Dialogue: 0,00:05:35.29,00:05:37.37,Default,,0,0,0,,You have no way to go out
-Dialogue: 0,00:05:37.81,00:05:39.97,Default,,0,0,0,,- You can’t get out by yourself?
-- Well…
-Dialogue: 0,00:05:40.49,00:05:42.25,Default,,0,0,0,,- You’re still stupid
-- Well…
+Dialogue: 0,00:05:37.81,00:05:39.97,Default,,0,0,0,,- You can’t get out by yourself? - Well…
+Dialogue: 0,00:05:40.49,00:05:42.25,Default,,0,0,0,,- You’re still stupid - Well…
 Dialogue: 0,00:05:42.97,00:05:46.61,Default,,0,0,0,,You have to keep it! Let me out quickly!
 Dialogue: 0,00:05:46.85,00:05:49.33,Default,,0,0,0,,If you want to go out, let the soldiers open the door
 Dialogue: 0,00:05:49.85,00:05:51.49,Default,,0,0,0,,I won’t be there
@@ -128,8 +123,7 @@ Dialogue: 0,00:06:21.09,00:06:22.85,Default,,0,0,0,,Help Hahahahaha…
 Dialogue: 0,00:06:22.89,00:06:24.77,Default,,0,0,0,,Very terrible…
 Dialogue: 0,00:06:28.17,00:06:30.31,Default,,0,0,0,,Help Hahahaha…
 Dialogue: 0,00:06:30.33,00:06:31.31,Default,,0,0,0,,Come quickly
-Dialogue: 0,00:06:31.33,00:06:32.87,Default,,0,0,0,,- Tips for carving
-- Hahaha…
+Dialogue: 0,00:06:31.33,00:06:32.87,Default,,0,0,0,,- Tips for carving - Hahaha…
 Dialogue: 0,00:06:32.89,00:06:35.45,Default,,0,0,0,,It must be an illusion again. They’re too traitorous.
 Dialogue: 0,00:06:35.69,00:06:37.91,Default,,0,0,0,,I can’t help laughing. It’s so fake
 Dialogue: 0,00:06:37.93,00:06:39.93,Default,,0,0,0,,Hahaha…

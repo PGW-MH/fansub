@@ -46,10 +46,10 @@ Dialogue: 0,00:02:25.65,00:02:27.73,Default,,0,0,0,,If the resistance value is t
 Dialogue: 0,00:02:28.01,00:02:29.77,Default,,0,0,0,,Two more resistors
 Dialogue: 0,00:02:37.97,00:02:39.29,Default,,0,0,0,,He really said it
 Dialogue: 0,00:02:42.33,00:02:42.77,Default,,0,0,0,,Go
-Dialogue: 0,00:02:43.29,00:02:44.49,Default,,0,0,0,,Help me sweep the Wolf Castle
-Dialogue: 0,00:02:53.25,00:02:54.19,Default,,0,0,0,,Small gray
+Dialogue: 0,00:02:43.29,00:02:44.49,Default,,0,0,0,,Help me sweep the Wolf Fortress
+Dialogue: 0,00:02:53.25,00:02:54.19,Default,,0,0,0,,Wilie
 Dialogue: 0,00:02:54.21,00:02:55.73,Default,,0,0,0,,Have eaten
-Dialogue: 0,00:02:58.01,00:02:59.17,Default,,0,0,0,,Small gray
+Dialogue: 0,00:02:58.01,00:02:59.17,Default,,0,0,0,,Wilie
 Dialogue: 0,00:03:20.49,00:03:23.61,Default,,0,0,0,,This is the invention of Wilie Competition
 Dialogue: 0,00:03:25.89,00:03:28.17,Default,,0,0,0,,It’s not going to be rubbish
 Dialogue: 0,00:03:33.01,00:03:36.41,Default,,0,0,0,,It’s smaller than garbage
@@ -87,7 +87,7 @@ Dialogue: 0,00:06:19.65,00:06:20.69,Default,,0,0,0,,I…
 Dialogue: 0,00:06:21.85,00:06:23.97,Default,,0,0,0,,Do you think I’m happy like this?
 Dialogue: 0,00:06:24.97,00:06:26.49,Default,,0,0,0,,Fifteen years have passed
 Dialogue: 0,00:06:26.65,00:06:27.77,Default,,0,0,0,,You haven’t changed at all
-Dialogue: 0,00:06:35.01,00:06:38.61,Default,,0,0,0,,How about it…Little Huihui complained to me
+Dialogue: 0,00:06:35.01,00:06:38.61,Default,,0,0,0,,How about it…Wilie complained to me
 Dialogue: 0,00:06:39.05,00:06:41.49,Default,,0,0,0,,He said I always thought it was right
 Dialogue: 0,00:06:42.41,00:06:45.45,Default,,0,0,0,,I’m just doing it for him
 Dialogue: 0,00:06:45.77,00:06:47.41,Default,,0,0,0,,I know I know
@@ -130,7 +130,7 @@ Dialogue: 0,00:10:22.57,00:10:25.81,Default,,0,0,0,,As long as I want to attack 
 Dialogue: 0,00:10:30.05,00:10:30.73,Default,,0,0,0,,dad…
 Dialogue: 0,00:10:39.61,00:10:42.13,Default,,0,0,0,,Big block, I’ll deal with you
 Dialogue: 0,00:10:56.29,00:10:56.97,Default,,0,0,0,,Oops…
-Dialogue: 0,00:11:04.45,00:11:05.19,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:04.45,00:11:05.19,Default,,0,0,0,,Wilie
 Dialogue: 0,00:11:05.21,00:11:06.71,Default,,0,0,0,,What are you doing here
 Dialogue: 0,00:11:06.73,00:11:08.05,Default,,0,0,0,,Escape quickly
 Dialogue: 0,00:11:08.65,00:11:10.77,Default,,0,0,0,,I’m here to help you attack its inside
@@ -138,9 +138,8 @@ Dialogue: 0,00:11:11.29,00:11:13.53,Default,,0,0,0,,Super Swallowing Experts
 Dialogue: 0,00:11:33.01,00:11:33.85,Default,,0,0,0,,It’s up to you
 Dialogue: 0,00:11:34.77,00:11:36.13,Default,,0,0,0,,no problem
 Dialogue: 0,00:11:39.93,00:11:41.97,Default,,0,0,0,,See the big block again
-Dialogue: 0,00:11:50.69,00:11:51.69,Default,,0,0,0,,- well done
-- well done
-Dialogue: 0,00:11:56.09,00:11:56.97,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:50.69,00:11:51.69,Default,,0,0,0,,- well done - well done
+Dialogue: 0,00:11:56.09,00:11:56.97,Default,,0,0,0,,Wilie
 Dialogue: 0,00:11:58.05,00:11:59.71,Default,,0,0,0,,Remember it’s delicious
 Dialogue: 0,00:11:59.73,00:12:00.77,Default,,0,0,0,,I’ll leave first
 Dialogue: 0,00:12:03.93,00:12:06.21,Default,,0,0,0,,Could it be that I just got hurt?

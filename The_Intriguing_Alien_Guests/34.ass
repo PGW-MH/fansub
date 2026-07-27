@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:18.20,00:00:20.36,Default,,0,0,0,,The monster "roared" and sprayed flames
-Dialogue: 0,00:00:21.92,00:00:23.36,Default,,0,0,0,,Little Huihui appears-
+Dialogue: 0,00:00:21.92,00:00:23.36,Default,,0,0,0,,Wilie appears-
 Dialogue: 0,00:00:23.40,00:00:24.76,Default,,0,0,0,,I want to protect my mother…
 Dialogue: 0,00:00:28.12,00:00:28.80,Default,,0,0,0,,child
 Dialogue: 0,00:00:29.08,00:00:30.24,Default,,0,0,0,,What are you painting?
@@ -31,11 +31,11 @@ Dialogue: 0,00:00:55.36,00:00:57.76,Default,,0,0,0,,Then you have to make your m
 Dialogue: 0,00:01:03.80,00:01:04.68,Default,,0,0,0,,I’m here
 Dialogue: 0,00:01:04.71,00:01:06.71,Default,,0,0,0,,Don’t even want to slap my son
 Dialogue: 0,00:01:17.12,00:01:17.76,Default,,0,0,0,,stop!
-Dialogue: 0,00:01:23.00,00:01:24.96,Default,,0,0,0,,Screw me out of the Wolf Castle and don’t come back!
+Dialogue: 0,00:01:23.00,00:01:24.96,Default,,0,0,0,,Screw me out of the Wolf Fortress and don’t come back!
 Dialogue: 0,00:01:25.28,00:01:26.48,Default,,0,0,0,,No hearing!
 Dialogue: 0,00:01:28.08,00:01:29.43,Default,,0,0,0,,It depends on where you are going!
 Dialogue: 0,00:01:35.64,00:01:37.48,Default,,0,0,0,,It’s all the appearance of that group of bacteria
-Dialogue: 0,00:01:37.52,00:01:39.96,Default,,0,0,0,,Only then did Wolf Castle have such a lot of fun to see!
+Dialogue: 0,00:01:37.52,00:01:39.96,Default,,0,0,0,,Only then did Wolf Fortress have such a lot of fun to see!
 Dialogue: 0,00:01:40.60,00:01:42.12,Default,,0,0,0,,I must get rid of them!
 Dialogue: 0,00:01:48.43,00:01:50.71,Default,,0,0,0,,Mom, what are we going to do this?
 Dialogue: 0,00:01:51.16,00:01:52.32,Default,,0,0,0,,Clean up the garbage
@@ -48,7 +48,7 @@ Dialogue: 0,00:02:21.24,00:02:22.40,Default,,0,0,0,,What’s going on with you
 Dialogue: 0,00:02:23.00,00:02:23.56,Default,,0,0,0,,The King
 Dialogue: 0,00:02:23.68,00:02:25.24,Default,,0,0,0,,Yes… Yes, Wolnie!
 Dialogue: 0,00:02:30.88,00:02:31.72,Default,,0,0,0,,you…
-Dialogue: 0,00:02:32.40,00:02:33.84,Default,,0,0,0,,Bring me out of the Wolf Castle!
+Dialogue: 0,00:02:32.40,00:02:33.84,Default,,0,0,0,,Bring me out of the Wolf Fortress!
 Dialogue: 0,00:02:47.80,00:02:49.16,Default,,0,0,0,,I am the king of bacteria
 Dialogue: 0,00:02:49.20,00:02:50.64,Default,,0,0,0,,How can I recognize it!
 Dialogue: 0,00:02:50.84,00:02:51.52,Default,,0,0,0,,Xiao Huang!
@@ -102,7 +102,7 @@ Dialogue: 0,00:07:48.80,00:07:49.68,Default,,0,0,0,,Son, don’t be afraid
 Dialogue: 0,00:07:49.72,00:07:50.68,Default,,0,0,0,,Mom will protect you!
 Dialogue: 0,00:08:00.84,00:08:02.72,Default,,0,0,0,,Don’t bully my mother!
 Dialogue: 0,00:08:22.20,00:08:23.24,Default,,0,0,0,,So terrible!
-Dialogue: 0,00:08:24.56,00:08:25.35,Default,,0,0,0,,Small gray
+Dialogue: 0,00:08:24.56,00:08:25.35,Default,,0,0,0,,Wilie
 Dialogue: 0,00:08:28.72,00:08:30.00,Default,,0,0,0,,It’s a child indeed
 Dialogue: 0,00:08:30.08,00:08:31.35,Default,,0,0,0,,Just run away!
 Dialogue: 0,00:08:47.96,00:08:48.64,Default,,0,0,0,,Son
@@ -140,7 +140,7 @@ Dialogue: 0,00:10:52.28,00:10:52.60,Default,,0,0,0,,I…
 Dialogue: 0,00:10:52.84,00:10:53.76,Default,,0,0,0,,I have a trick!
 Dialogue: 0,00:11:04.60,00:11:05.88,Default,,0,0,0,,Just a little chicken
 Dialogue: 0,00:11:05.92,00:11:06.96,Default,,0,0,0,,What are you afraid of!
-Dialogue: 0,00:11:19.76,00:11:20.68,Default,,0,0,0,,Small gray
+Dialogue: 0,00:11:19.76,00:11:20.68,Default,,0,0,0,,Wilie
 Dialogue: 0,00:11:21.64,00:11:22.52,Default,,0,0,0,,mother
 Dialogue: 0,00:11:26.04,00:11:27.20,Default,,0,0,0,,You give me
 Dialogue: 0,00:11:28.44,00:11:29.84,Default,,0,0,0,,I’m not a stinger

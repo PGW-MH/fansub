@@ -26,7 +26,7 @@ Dialogue: 0,00:01:13.76,00:01:15.12,Default,,0,0,0,,What do you want to do
 Dialogue: 0,00:01:17.08,00:01:17.71,Default,,0,0,0,,Wait a minute.
 Dialogue: 0,00:01:35.68,00:01:37.00,Default,,0,0,0,,ah…
 Dialogue: 0,00:01:42.04,00:01:44.20,Default,,0,0,0,,Don’t run Don’t run…
-Dialogue: 0,00:01:51.12,00:01:51.97,Default,,0,0,0,,Small gray
+Dialogue: 0,00:01:51.12,00:01:51.97,Default,,0,0,0,,Wilie
 Dialogue: 0,00:01:52.00,00:01:54.71,Default,,0,0,0,,Your performance in this inventorial competition is pretty good
 Dialogue: 0,00:01:55.52,00:01:58.53,Default,,0,0,0,,Your first try to convert light energy to heat energy
 Dialogue: 0,00:01:58.56,00:02:01.36,Default,,0,0,0,,It’s so terrible
@@ -38,7 +38,7 @@ Dialogue: 0,00:02:13.52,00:02:16.04,Default,,0,0,0,,Well…I want to go to the p
 Dialogue: 0,00:02:16.60,00:02:17.24,Default,,0,0,0,,OK
 Dialogue: 0,00:02:17.36,00:02:18.89,Default,,0,0,0,,Then Dad will take you there
 Dialogue: 0,00:02:18.92,00:02:22.37,Default,,0,0,0,,Hahahahaha
-Dialogue: 0,00:02:22.40,00:02:24.72,Default,,0,0,0,,Little Gray Gray Small Gray Gray
+Dialogue: 0,00:02:22.40,00:02:24.72,Default,,0,0,0,,Wilie Wilie
 Dialogue: 0,00:02:24.88,00:02:26.16,Default,,0,0,0,,What’s wrong with you
 Dialogue: 0,00:02:26.60,00:02:28.88,Default,,0,0,0,,Nothing to do, maybe just tired
 Dialogue: 0,00:02:29.08,00:02:30.17,Default,,0,0,0,,Then go back and have a break…
@@ -52,8 +52,7 @@ Dialogue: 0,00:02:59.00,00:03:00.44,Default,,0,0,0,,What’s going on
 Dialogue: 0,00:03:01.24,00:03:02.88,Default,,0,0,0,,It’s hard to say that it’s a fragment of star stone
 Dialogue: 0,00:03:05.32,00:03:07.28,Default,,0,0,0,,Ahhhh…
 Dialogue: 0,00:03:08.24,00:03:09.04,Default,,0,0,0,,Target confirmation
-Dialogue: 0,00:03:35.00,00:03:36.53,Default,,0,0,0,,- Target cleared
-- Run quickly
+Dialogue: 0,00:03:35.00,00:03:36.53,Default,,0,0,0,,- Target cleared - Run quickly
 Dialogue: 0,00:03:36.56,00:03:37.52,Default,,0,0,0,,Begin recycling of fragments
 Dialogue: 0,00:03:44.00,00:03:44.68,Default,,0,0,0,,ah?
 Dialogue: 0,00:03:45.12,00:03:47.04,Default,,0,0,0,,Will it…rebirth?
@@ -122,8 +121,7 @@ Dialogue: 0,00:07:49.16,00:07:50.64,Default,,0,0,0,,Why haven’t my mother come
 Dialogue: 0,00:07:51.40,00:07:54.52,Default,,0,0,0,,Don’t worry, I believe your mother will come back
 Dialogue: 0,00:07:55.24,00:07:55.47,Default,,0,0,0,,Um
 Dialogue: 0,00:07:59.80,00:08:02.40,Default,,0,0,0,,Mom, I’ll wait for you
-Dialogue: 0,00:08:07.47,00:08:08.47,Default,,0,0,0,,- Red
-- mother
+Dialogue: 0,00:08:07.47,00:08:08.47,Default,,0,0,0,,- Red - mother
 Dialogue: 0,00:08:09.28,00:08:10.60,Default,,0,0,0,,What is this
 Dialogue: 0,00:08:12.56,00:08:13.60,Default,,0,0,0,,Be careful, dad
 Dialogue: 0,00:08:16.28,00:08:17.56,Default,,0,0,0,,These thorns are poisonous
@@ -133,7 +131,7 @@ Dialogue: 0,00:08:27.80,00:08:28.28,Default,,0,0,0,,dad…
 Dialogue: 0,00:08:29.40,00:08:30.84,Default,,0,0,0,,Let’s fight together
 Dialogue: 0,00:08:34.64,00:08:36.88,Default,,0,0,0,,Wilie Be careful behind
 Dialogue: 0,00:08:44.52,00:08:45.65,Default,,0,0,0,,Drink…uh
-Dialogue: 0,00:08:45.68,00:08:47.08,Default,,0,0,0,,Small gray
+Dialogue: 0,00:08:45.68,00:08:47.08,Default,,0,0,0,,Wilie
 Dialogue: 0,00:08:49.44,00:08:52.88,Default,,0,0,0,,Ah, at this time…
 Dialogue: 0,00:09:07.12,00:09:08.40,Default,,0,0,0,,Ah…Mom
 Dialogue: 0,00:09:10.44,00:09:13.52,Default,,0,0,0,,Don’t mislead, I’m just here to get the pieces

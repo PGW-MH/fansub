@@ -52,7 +52,7 @@ Dialogue: 0,00:03:41.33,00:03:42.01,Default,,0,0,0,,Weslie
 Dialogue: 0,00:03:42.09,00:03:43.77,Default,,0,0,0,,The bacteria are coming to catch BB Goat!
 Dialogue: 0,00:03:45.57,00:03:46.57,Default,,0,0,0,,There are too many people here
 Dialogue: 0,00:03:46.61,00:03:48.29,Default,,0,0,0,,Bacteria can attack us while it is a problem
-Dialogue: 0,00:03:48.29,00:03:49.85,Default,,0,0,0,,Let’s go back to Yang Village first!
+Dialogue: 0,00:03:48.29,00:03:49.85,Default,,0,0,0,,Let’s go back to Goats’ Village first!
 Dialogue: 0,00:04:01.21,00:04:02.01,Default,,0,0,0,,Come
 Dialogue: 0,00:04:07.77,00:04:09.09,Default,,0,0,0,,I’m here to deliver the letter
 Dialogue: 0,00:04:09.13,00:04:10.73,Default,,0,0,0,,What’s going on?
@@ -98,9 +98,8 @@ Dialogue: 0,00:06:18.93,00:06:19.57,Default,,0,0,0,,Casino?
 Dialogue: 0,00:06:19.89,00:06:21.53,Default,,0,0,0,,It’s impossible to use it for baking
 Dialogue: 0,00:06:21.97,00:06:23.97,Default,,0,0,0,,Just inform the lamb with urgency
 Dialogue: 0,00:06:24.93,00:06:26.53,Default,,0,0,0,,Why doesn’t the phone sound?
-Dialogue: 0,00:06:29.25,00:06:31.25,Default,,0,0,0,,Seal all entrances and exits of Wolf Castles
-Dialogue: 0,00:06:31.29,00:06:33.37,Default,,0,0,0,,-Don’t let anyone leave Wolf Castle!
--yes!
+Dialogue: 0,00:06:29.25,00:06:31.25,Default,,0,0,0,,Seal all entrances and exits of Wolf Fortresss
+Dialogue: 0,00:06:31.29,00:06:33.37,Default,,0,0,0,,-Don’t let anyone leave Wolf Fortress! -yes!
 Dialogue: 0,00:06:33.81,00:06:35.85,Default,,0,0,0,,Can you tell me that my identity has been exposed?
 Dialogue: 0,00:06:36.77,00:06:38.37,Default,,0,0,0,,Or use flying bird books!
 Dialogue: 0,00:06:40.13,00:06:41.57,Default,,0,0,0,,It seems that it won’t work
@@ -124,7 +123,7 @@ Dialogue: 0,00:08:41.81,00:08:42.93,Default,,0,0,0,,You imitate it very much
 Dialogue: 0,00:08:43.41,00:08:44.69,Default,,0,0,0,,Not my voice
 Dialogue: 0,00:08:47.77,00:08:49.45,Default,,0,0,0,,Wolffy is really here
 Dialogue: 0,00:08:53.17,00:08:54.77,Default,,0,0,0,,Bacteria built a cannon
-Dialogue: 0,00:08:54.81,00:08:56.29,Default,,0,0,0,,Maybe attack the goat village
+Dialogue: 0,00:08:54.81,00:08:56.29,Default,,0,0,0,,Maybe attack the Goats’ Village
 Dialogue: 0,00:08:58.13,00:09:00.01,Default,,0,0,0,,Big Wolf, you’re here again
 Dialogue: 0,00:09:00.65,00:09:01.85,Default,,0,0,0,,Did you miss it
 Dialogue: 0,00:09:01.89,00:09:03.73,Default,,0,0,0,,That table is not a concentrating light
@@ -145,8 +144,7 @@ Dialogue: 0,00:09:35.41,00:09:36.65,Default,,0,0,0,,Go and remove the cannon
 Dialogue: 0,00:09:37.53,00:09:38.45,Default,,0,0,0,,good!
 Dialogue: 0,00:09:44.69,00:09:46.37,Default,,0,0,0,,Everyone has been having a good time this time
 Dialogue: 0,00:09:47.09,00:09:48.33,Default,,0,0,0,,There is this casino in most places
-Dialogue: 0,00:09:48.37,00:09:50.29,Default,,0,0,0,,- This king…
-- You won’t succeed
+Dialogue: 0,00:09:48.37,00:09:50.29,Default,,0,0,0,,- This king… - You won’t succeed
 Dialogue: 0,00:09:53.53,00:09:54.61,Default,,0,0,0,,There’s really a cannon
 Dialogue: 0,00:10:09.85,00:10:11.13,Default,,0,0,0,,Remove the cannon
 Dialogue: 0,00:10:18.97,00:10:20.13,Default,,0,0,0,,What are you doing

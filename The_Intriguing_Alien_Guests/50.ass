@@ -14,8 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:24.69,00:00:26.61,Default,,0,0,0,,- Good morning Brother Weslie
-- Good morning BB Goat
+Dialogue: 0,00:00:24.69,00:00:26.61,Default,,0,0,0,,- Good morning Brother Weslie - Good morning BB Goat
 Dialogue: 0,00:00:46.25,00:00:47.05,Default,,0,0,0,,Who is it
 Dialogue: 0,00:00:48.17,00:00:49.13,Default,,0,0,0,,Who would you like?
 Dialogue: 0,00:00:49.33,00:00:50.17,Default,,0,0,0,,Weslie
@@ -29,8 +28,7 @@ Dialogue: 0,00:01:00.49,00:01:02.29,Default,,0,0,0,,I’ve found the search for 
 Dialogue: 0,00:01:02.81,00:01:04.85,Default,,0,0,0,,I’ll go with you this time
 Dialogue: 0,00:01:05.93,00:01:07.05,Default,,0,0,0,,Mr. Slowy is no longer
 Dialogue: 0,00:01:07.17,00:01:09.21,Default,,0,0,0,,Just go with BB Goat
-Dialogue: 0,00:01:10.21,00:01:11.73,Default,,0,0,0,,-But…
--I run fast
+Dialogue: 0,00:01:10.21,00:01:11.73,Default,,0,0,0,,-But… -I run fast
 Dialogue: 0,00:01:11.77,00:01:13.05,Default,,0,0,0,,Even if you encounter danger, you can
 Dialogue: 0,00:01:13.09,00:01:14.89,Default,,0,0,0,,Escape easily with BB Goat
 Dialogue: 0,00:01:14.89,00:01:15.65,Default,,0,0,0,,Oh well

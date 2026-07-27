@@ -32,9 +32,8 @@ Dialogue: 0,00:01:04.73,00:01:06.89,Default,,0,0,0,,In the end, it’s up to me!
 Dialogue: 0,00:01:09.29,00:01:12.53,Default,,0,0,0,,I’ll leave my house to you for the past few days
 Dialogue: 0,00:01:12.57,00:01:14.05,Default,,0,0,0,,It’s wrapped in me…
 Dialogue: 0,00:01:15.09,00:01:17.17,Default,,0,0,0,,Wilie wants to hear his father!
-Dialogue: 0,00:01:18.77,00:01:20.85,Default,,0,0,0,,- See you again
-- Red and red
-Dialogue: 0,00:01:23.73,00:01:25.61,Default,,0,0,0,,How many days has the Red Red been away from home…
+Dialogue: 0,00:01:18.77,00:01:20.85,Default,,0,0,0,,- See you again - Red and red
+Dialogue: 0,00:01:23.73,00:01:25.61,Default,,0,0,0,,How many days has the Wolnie been away from home…
 Dialogue: 0,00:01:26.53,00:01:29.61,Default,,0,0,0,,Finally, I can study my bacteria cleaner with peace of mind
 Dialogue: 0,00:01:29.93,00:01:32.93,Default,,0,0,0,,This time, you must completely eliminate the bacteria!
 Dialogue: 0,00:01:37.41,00:01:39.49,Default,,0,0,0,,Dad, let’s go out to play!
@@ -86,12 +85,11 @@ Dialogue: 0,00:05:16.05,00:05:17.57,Default,,0,0,0,,No! What? What’s going on?
 Dialogue: 0,00:05:21.17,00:05:24.33,Default,,0,0,0,,Why is it useless for younger children?
 Dialogue: 0,00:05:26.33,00:05:27.61,Default,,0,0,0,,It seems that I can only get tough!
 Dialogue: 0,00:05:28.73,00:05:29.65,Default,,0,0,0,,Come with me!
-Dialogue: 0,00:05:30.05,00:05:31.09,Default,,0,0,0,,Small gray
+Dialogue: 0,00:05:30.05,00:05:31.09,Default,,0,0,0,,Wilie
 Dialogue: 0,00:05:32.97,00:05:33.97,Default,,0,0,0,,Weslie! ?
 Dialogue: 0,00:05:34.13,00:05:35.49,Default,,0,0,0,,The remote control you want
-Dialogue: 0,00:05:35.97,00:05:37.29,Default,,0,0,0,,Small gray
-Dialogue: 0,00:05:37.41,00:05:38.85,Default,,0,0,0,,- The flowers you want!
-- The cake you want!
+Dialogue: 0,00:05:35.97,00:05:37.29,Default,,0,0,0,,Wilie
+Dialogue: 0,00:05:37.41,00:05:38.85,Default,,0,0,0,,- The flowers you want! - The cake you want!
 Dialogue: 0,00:05:38.89,00:05:40.13,Default,,0,0,0,,The remote control you want
 Dialogue: 0,00:05:40.25,00:05:41.05,Default,,0,0,0,,The toy you want!
 Dialogue: 0,00:05:41.09,00:05:42.29,Default,,0,0,0,,I want to play together, too!
@@ -117,7 +115,7 @@ Dialogue: 0,00:06:48.77,00:06:51.89,Default,,0,0,0,,Very good! Finally, I can ca
 Dialogue: 0,00:06:52.01,00:06:53.13,Default,,0,0,0,,No
 Dialogue: 0,00:06:56.25,00:06:58.01,Default,,0,0,0,,This is too quiet
 Dialogue: 0,00:06:58.93,00:07:00.93,Default,,0,0,0,,Right! Where is the son?
-Dialogue: 0,00:07:01.73,00:07:04.01,Default,,0,0,0,,Little Huihui! Where are you?
+Dialogue: 0,00:07:01.73,00:07:04.01,Default,,0,0,0,,Wilie! Where are you?
 Dialogue: 0,00:07:04.77,00:07:06.09,Default,,0,0,0,,I’m back
 Dialogue: 0,00:07:06.61,00:07:08.61,Default,,0,0,0,,Son…where have you been?
 Dialogue: 0,00:07:08.77,00:07:10.49,Default,,0,0,0,,Why is your body so dirty?
@@ -169,7 +167,7 @@ Dialogue: 0,00:09:37.89,00:09:40.65,Default,,0,0,0,,Son, slow down! Be careful o
 Dialogue: 0,00:09:41.17,00:09:42.85,Default,,0,0,0,,Then don’t chase us!
 Dialogue: 0,00:09:42.89,00:09:44.61,Default,,0,0,0,,right! Don’t chase us!
 Dialogue: 0,00:09:50.49,00:09:53.29,Default,,0,0,0,,Not good! Weslie!
-Dialogue: 0,00:09:55.77,00:09:57.45,Default,,0,0,0,,Little Huihui! Wait for me!
+Dialogue: 0,00:09:55.77,00:09:57.45,Default,,0,0,0,,Wilie! Wait for me!
 Dialogue: 0,00:09:57.85,00:09:59.93,Default,,0,0,0,,Don’t chase us anymore!
 Dialogue: 0,00:10:01.93,00:10:03.01,Default,,0,0,0,,Son!
 Dialogue: 0,00:10:06.89,00:10:08.81,Default,,0,0,0,,Save us now
@@ -191,15 +189,12 @@ Dialogue: 0,00:11:25.29,00:11:28.01,Default,,0,0,0,,Look, I’ve said that I’m
 Dialogue: 0,00:11:28.05,00:11:30.29,Default,,0,0,0,,sorry! sorry
 Dialogue: 0,00:11:31.01,00:11:32.37,Default,,0,0,0,,Where are my sons going?
 Dialogue: 0,00:11:34.05,00:11:35.73,Default,,0,0,0,,Son? Where are you?
-Dialogue: 0,00:11:40.05,00:11:42.41,Default,,0,0,0,,Little Huihui! Why are you back by yourself!
-Dialogue: 0,00:11:46.73,00:11:49.33,Default,,0,0,0,,People… They want to go home
-Take something to save you!
+Dialogue: 0,00:11:40.05,00:11:42.41,Default,,0,0,0,,Wilie! Why are you back by yourself!
+Dialogue: 0,00:11:46.73,00:11:49.33,Default,,0,0,0,,People… They want to go home Take something to save you!
 Dialogue: 0,00:11:49.97,00:11:52.01,Default,,0,0,0,,My son is so good
-Dialogue: 0,00:11:52.53,00:11:57.13,Default,,0,0,0,,It’s daddy who is wrong
-I just want to make a bacteria cleaner and don’t take good care of you!
+Dialogue: 0,00:11:52.53,00:11:57.13,Default,,0,0,0,,It’s daddy who is wrong I just want to make a bacteria cleaner and don’t take good care of you!
 Dialogue: 0,00:11:57.37,00:11:58.61,Default,,0,0,0,,Bacterial cleaner?
-Dialogue: 0,00:11:59.61,00:12:03.53,Default,,0,0,0,,Yes, just press it lightly
-Automatically run bacteria!
+Dialogue: 0,00:11:59.61,00:12:03.53,Default,,0,0,0,,Yes, just press it lightly Automatically run bacteria!
 Dialogue: 0,00:12:07.85,00:12:08.97,Default,,0,0,0,,Discovered bacteria
 Dialogue: 0,00:12:09.41,00:12:10.45,Default,,0,0,0,,what!
 Dialogue: 0,00:12:10.53,00:12:12.33,Default,,0,0,0,,It turns out you are on my son!

@@ -62,7 +62,7 @@ Dialogue: 0,00:03:15.69,00:03:17.21,Default,,0,0,0,,Yes, please step down
 Dialogue: 0,00:03:18.41,00:03:18.97,Default,,0,0,0,,yes…
 Dialogue: 0,00:03:23.81,00:03:26.69,Default,,0,0,0,,Is it hurting a companion or being hurt by a companion
 Dialogue: 0,00:03:27.57,00:03:29.81,Default,,0,0,0,,I really want to see how you choose
-Dialogue: 0,00:03:32.53,00:03:34.87,Default,,0,0,0,,Red Red You can hide with Wilie first
+Dialogue: 0,00:03:32.53,00:03:34.87,Default,,0,0,0,,Wolnie You can hide with Wilie first
 Dialogue: 0,00:03:34.89,00:03:35.89,Default,,0,0,0,,Don’t come out
 Dialogue: 0,00:03:36.45,00:03:37.17,Default,,0,0,0,,knew
 Dialogue: 0,00:03:37.49,00:03:38.69,Default,,0,0,0,,Come on, Dad
@@ -114,8 +114,7 @@ Dialogue: 0,00:08:05.89,00:08:07.97,Default,,0,0,0,,Do you don’t understand wh
 Dialogue: 0,00:08:09.25,00:08:09.81,Default,,0,0,0,,Are you?
 Dialogue: 0,00:08:11.09,00:08:14.27,Default,,0,0,0,,Come on, grab them quickly
 Dialogue: 0,00:08:14.29,00:08:14.91,Default,,0,0,0,,Mr. Slowy
-Dialogue: 0,00:08:14.93,00:08:16.23,Default,,0,0,0,,- Come quickly
-- No
+Dialogue: 0,00:08:14.93,00:08:16.23,Default,,0,0,0,,- Come quickly - No
 Dialogue: 0,00:08:16.25,00:08:17.67,Default,,0,0,0,,Please listen to our explanation
 Dialogue: 0,00:08:17.69,00:08:19.01,Default,,0,0,0,,There seems to be a silence there
 Dialogue: 0,00:08:19.29,00:08:20.29,Default,,0,0,0,,Go and take a look
@@ -155,10 +154,8 @@ Dialogue: 0,00:10:29.65,00:10:30.93,Default,,0,0,0,,I’m not polite
 Dialogue: 0,00:10:36.53,00:10:38.37,Default,,0,0,0,,Children cannot pick on food
 Dialogue: 0,00:10:38.57,00:10:40.49,Default,,0,0,0,,Only by balanced nutrition can you grow taller
 Dialogue: 0,00:10:43.05,00:10:44.47,Default,,0,0,0,,If you don’t eat, don’t eat
-Dialogue: 0,00:10:44.49,00:10:45.71,Default,,0,0,0,,- What’s wrong with me if I don’t eat
-- No, no…
-Dialogue: 0,00:10:45.73,00:10:47.09,Default,,0,0,0,,- If you don’t eat, I’ll eat
-- I eat I eat
+Dialogue: 0,00:10:44.49,00:10:45.71,Default,,0,0,0,,- What’s wrong with me if I don’t eat - No, no…
+Dialogue: 0,00:10:45.73,00:10:47.09,Default,,0,0,0,,- If you don’t eat, I’ll eat - I eat I eat
 Dialogue: 0,00:10:57.57,00:11:00.47,Default,,0,0,0,,Ah, I gave it to me…
 Dialogue: 0,00:11:00.49,00:11:01.69,Default,,0,0,0,,Give you
 Dialogue: 0,00:11:03.77,00:11:06.45,Default,,0,0,0,,I don’t want to eat this I want to eat skewers…

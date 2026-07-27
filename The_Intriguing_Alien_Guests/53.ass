@@ -95,7 +95,7 @@ Dialogue: 0,00:04:16.85,00:04:18.85,Default,,0,0,0,,I have to go to the kitchen 
 Dialogue: 0,00:04:19.05,00:04:21.05,Default,,0,0,0,,Finally found the kitchen
 Dialogue: 0,00:04:21.77,00:04:22.85,Default,,0,0,0,,what
 Dialogue: 0,00:04:23.05,00:04:24.37,Default,,0,0,0,,So much food!
-Dialogue: 0,00:04:24.49,00:04:26.85,Default,,0,0,0,,It must have been stolen from Wolf Castle!
+Dialogue: 0,00:04:24.49,00:04:26.85,Default,,0,0,0,,It must have been stolen from Wolf Fortress!
 Dialogue: 0,00:04:27.29,00:04:28.73,Default,,0,0,0,,Take it all back to me
 Dialogue: 0,00:04:29.29,00:04:30.57,Default,,0,0,0,,Find something to eat
 Dialogue: 0,00:04:30.77,00:04:31.89,Default,,0,0,0,,Fill the stomach
@@ -234,11 +234,9 @@ Dialogue: 0,00:11:31.73,00:11:32.93,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:11:34.13,00:11:35.21,Default,,0,0,0,,sorry
 Dialogue: 0,00:11:35.41,00:11:36.81,Default,,0,0,0,,Cause you to be hurt
 Dialogue: 0,00:12:04.29,00:12:06.77,Default,,0,0,0,,Don’t think this will trap me
-Dialogue: 0,00:12:11.33,00:12:13.45,Default,,0,0,0,,- Uncle, hello
-- Dad, hello
+Dialogue: 0,00:12:11.33,00:12:13.45,Default,,0,0,0,,- Uncle, hello - Dad, hello
 Dialogue: 0,00:12:15.65,00:12:16.85,Default,,0,0,0,,Continue
-Dialogue: 0,00:12:16.97,00:12:18.73,Default,,0,0,0,,-Uncle, hello!
--Dad, hello!
+Dialogue: 0,00:12:16.97,00:12:18.73,Default,,0,0,0,,-Uncle, hello! -Dad, hello!
 Dialogue: 0,00:12:23.73,00:12:25.29,Default,,0,0,0,,What happened again!
 Dialogue: 0,00:12:26.01,00:12:27.77,Default,,0,0,0,,Why did it get out of control?
 Dialogue: 0,00:12:31.73,00:12:33.57,Default,,0,0,0,,Want to run, no door

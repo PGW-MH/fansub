@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.32,00:00:22.85,Default,,0,0,0,,That’s an important part we’ve developed
 Dialogue: 0,00:00:22.88,00:00:25.00,Default,,0,0,0,,Be sure to retrieve it
 Dialogue: 0,00:00:29.96,00:00:31.00,Default,,0,0,0,,Hum, so stupid
-Dialogue: 0,00:00:36.36,00:00:39.32,Default,,0,0,0,,Alas, where has the red red gone
+Dialogue: 0,00:00:36.36,00:00:39.32,Default,,0,0,0,,Alas, where has the Wolnie gone
 Dialogue: 0,00:00:42.52,00:00:44.37,Default,,0,0,0,,Let it open…so quickly
 Dialogue: 0,00:00:44.40,00:00:45.92,Default,,0,0,0,,ah…
 Dialogue: 0,00:00:48.16,00:00:48.97,Default,,0,0,0,,Help
@@ -42,20 +42,18 @@ Dialogue: 0,00:02:07.00,00:02:09.01,Default,,0,0,0,,I miss this feeling so much
 Dialogue: 0,00:02:09.04,00:02:10.08,Default,,0,0,0,,oops
 Dialogue: 0,00:02:14.76,00:02:16.65,Default,,0,0,0,,Wow ah ah wow ah…
 Dialogue: 0,00:02:16.68,00:02:18.65,Default,,0,0,0,,Baby, baby, baby, don’t cry
-Dialogue: 0,00:02:18.68,00:02:22.08,Default,,0,0,0,,Red Red You still like it so much when you bother children
+Dialogue: 0,00:02:18.68,00:02:22.08,Default,,0,0,0,,Wolnie You still like it so much when you bother children
 Dialogue: 0,00:02:22.44,00:02:24.68,Default,,0,0,0,,You see how much he can’t let you go
 Dialogue: 0,00:02:25.32,00:02:26.40,Default,,0,0,0,,I’m just a robot
 Dialogue: 0,00:02:26.56,00:02:27.92,Default,,0,0,0,,I don’t understand what you’re talking about
 Dialogue: 0,00:02:29.52,00:02:33.20,Default,,0,0,0,,Of course you are not a robot, you just saved someone
 Dialogue: 0,00:02:33.56,00:02:35.40,Default,,0,0,0,,Red, wait for me
 Dialogue: 0,00:02:37.88,00:02:41.08,Default,,0,0,0,,Hero Thank you for saving my old pig’s life
-Dialogue: 0,00:02:41.76,00:02:44.08,Default,,0,0,0,,- Red Red Red Red Red…
-- Wow wow wow…
-Dialogue: 0,00:02:45.40,00:02:48.16,Default,,0,0,0,,Red Red Stop working on doctoral jobs
+Dialogue: 0,00:02:41.76,00:02:44.08,Default,,0,0,0,,- Wolnie Wolnie Red… - Wow wow wow…
+Dialogue: 0,00:02:45.40,00:02:48.16,Default,,0,0,0,,Wolnie Stop working on doctoral jobs
 Dialogue: 0,00:02:48.36,00:02:49.88,Default,,0,0,0,,He’s a bad person
 Dialogue: 0,00:02:57.16,00:02:58.93,Default,,0,0,0,,Let us go out
-Dialogue: 0,00:02:58.96,00:03:00.73,Default,,0,0,0,,- Let us out quickly
-- Let us go out
+Dialogue: 0,00:02:58.96,00:03:00.73,Default,,0,0,0,,- Let us out quickly - Let us go out
 Dialogue: 0,00:03:00.76,00:03:01.68,Default,,0,0,0,,Let me go…
 Dialogue: 0,00:03:05.36,00:03:06.40,Default,,0,0,0,,What is this to do
 Dialogue: 0,00:03:08.63,00:03:11.88,Default,,0,0,0,,Report These are trials of doctoral designs
@@ -97,8 +95,7 @@ Dialogue: 0,00:05:14.84,00:05:15.40,Default,,0,0,0,,yes
 Dialogue: 0,00:05:18.92,00:05:20.69,Default,,0,0,0,,How do you feel now
 Dialogue: 0,00:05:20.72,00:05:21.68,Default,,0,0,0,,Are you OK
 Dialogue: 0,00:05:22.48,00:05:24.09,Default,,0,0,0,,You saved me
-Dialogue: 0,00:05:24.12,00:05:25.63,Default,,0,0,0,,- If it’s not you…
-- Wow…
+Dialogue: 0,00:05:24.12,00:05:25.63,Default,,0,0,0,,- If it’s not you… - Wow…
 Dialogue: 0,00:05:26.63,00:05:28.41,Default,,0,0,0,,Baobao, why did he cry again
 Dialogue: 0,00:05:28.44,00:05:31.17,Default,,0,0,0,,Wow wow wow wow…
 Dialogue: 0,00:05:31.20,00:05:32.33,Default,,0,0,0,,Let me come
@@ -119,7 +116,7 @@ Dialogue: 0,00:06:27.40,00:06:28.60,Default,,0,0,0,,Wow, so terrible
 Dialogue: 0,00:06:35.04,00:06:36.33,Default,,0,0,0,,That’s how it is
 Dialogue: 0,00:06:36.36,00:06:38.12,Default,,0,0,0,,Red actually saved me
 Dialogue: 0,00:06:38.52,00:06:40.64,Default,,0,0,0,,She still cares about me
-Dialogue: 0,00:06:41.36,00:06:46.16,Default,,0,0,0,,Thank you for being in search of Red Red. See you again
+Dialogue: 0,00:06:41.36,00:06:46.16,Default,,0,0,0,,Thank you for being in search of Wolnie. See you again
 Dialogue: 0,00:07:09.24,00:07:10.20,Default,,0,0,0,,These robots
 Dialogue: 0,00:07:11.04,00:07:12.96,Default,,0,0,0,,Are humans used as test products?
 Dialogue: 0,00:07:15.00,00:07:17.60,Default,,0,0,0,,That’s right, but they’re useless
@@ -157,7 +154,7 @@ Dialogue: 0,00:09:47.32,00:09:48.64,Default,,0,0,0,,Hand over the parts
 Dialogue: 0,00:10:10.96,00:10:12.72,Default,,0,0,0,,Red, you’re fine
 Dialogue: 0,00:10:13.35,00:10:14.44,Default,,0,0,0,,More carefree things
 Dialogue: 0,00:10:16.80,00:10:19.52,Default,,0,0,0,,Stop resistance Stop resistance
-Dialogue: 0,00:10:20.84,00:10:23.20,Default,,0,0,0,,Red Red Why do they want to chase you
+Dialogue: 0,00:10:20.84,00:10:23.20,Default,,0,0,0,,Wolnie Why do they want to chase you
 Dialogue: 0,00:10:23.60,00:10:24.24,Default,,0,0,0,,Just verbose
 Dialogue: 0,00:10:27.92,00:10:29.88,Default,,0,0,0,,Leave it to me here
 Dialogue: 0,00:10:40.12,00:10:42.00,Default,,0,0,0,,Give me…let me go

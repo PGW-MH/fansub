@@ -14,22 +14,17 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:22.21,00:00:23.13,Default,,0,0,0,,- oops
-- oops
+Dialogue: 0,00:00:22.21,00:00:23.13,Default,,0,0,0,,- oops - oops
 Dialogue: 0,00:00:24.21,00:00:25.01,Default,,0,0,0,,Tibbie
-Dialogue: 0,00:00:25.25,00:00:26.41,Default,,0,0,0,,- You’re fine
-- I’m fine
+Dialogue: 0,00:00:25.25,00:00:26.41,Default,,0,0,0,,- You’re fine - I’m fine
 Dialogue: 0,00:00:27.81,00:00:28.63,Default,,0,0,0,,Excuse me
 Dialogue: 0,00:00:28.65,00:00:31.29,Default,,0,0,0,,Why do I always hit you in the corner?
 Dialogue: 0,00:00:32.05,00:00:34.61,Default,,0,0,0,,Do you want to find the Elephant Star Stone fragments together?
 Dialogue: 0,00:00:35.45,00:00:36.29,Default,,0,0,0,,OK
 Dialogue: 0,00:00:45.29,00:00:46.09,Default,,0,0,0,,careful
-Dialogue: 0,00:00:52.61,00:00:54.25,Default,,0,0,0,,- We’re here to help you
-- We’re here to help you
-Dialogue: 0,00:00:56.85,00:00:57.61,Default,,0,0,0,,- alright
-- alright
-Dialogue: 0,00:00:58.25,00:01:01.29,Default,,0,0,0,,- Thank you brother and sister
-- Thank you brother and sister
+Dialogue: 0,00:00:52.61,00:00:54.25,Default,,0,0,0,,- We’re here to help you - We’re here to help you
+Dialogue: 0,00:00:56.85,00:00:57.61,Default,,0,0,0,,- alright - alright
+Dialogue: 0,00:00:58.25,00:01:01.29,Default,,0,0,0,,- Thank you brother and sister - Thank you brother and sister
 Dialogue: 0,00:01:01.53,00:01:03.21,Default,,0,0,0,,Weslie, look
 Dialogue: 0,00:01:03.37,00:01:05.37,Default,,0,0,0,,There are frogs in the bird’s trunk
 Dialogue: 0,00:01:05.89,00:01:08.59,Default,,0,0,0,,The people in the Science and Technology City are really interesting
@@ -47,8 +42,7 @@ Dialogue: 0,00:01:39.25,00:01:41.37,Default,,0,0,0,,If only this continues
 Dialogue: 0,00:02:03.29,00:02:04.93,Default,,0,0,0,,No, it’s going to run away
 Dialogue: 0,00:02:51.37,00:02:52.01,Default,,0,0,0,,ah…
 Dialogue: 0,00:02:56.53,00:02:58.25,Default,,0,0,0,,It turns out to be a
-Dialogue: 0,00:03:09.93,00:03:10.73,Default,,0,0,0,,-oops
--oops
+Dialogue: 0,00:03:09.93,00:03:10.73,Default,,0,0,0,,-oops -oops
 Dialogue: 0,00:03:11.13,00:03:11.83,Default,,0,0,0,,Tibbie
 Dialogue: 0,00:03:11.85,00:03:12.91,Default,,0,0,0,,You’re fine
 Dialogue: 0,00:03:12.93,00:03:13.85,Default,,0,0,0,,It’s OK

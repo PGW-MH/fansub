@@ -38,7 +38,7 @@ Dialogue: 0,00:02:03.93,00:02:05.51,Default,,0,0,0,,Say it’s long
 Dialogue: 0,00:02:05.53,00:02:07.18,Default,,0,0,0,,Mr. Slowy should tell us first
 Dialogue: 0,00:02:07.21,00:02:08.93,Default,,0,0,0,,What happened to Dr. Fu and Oli
 Dialogue: 0,00:02:09.61,00:02:14.21,Default,,0,0,0,,Alas, this is also a long time…
-Dialogue: 0,00:02:15.29,00:02:16.75,Default,,0,0,0,,That’s my representative to Goat Village
+Dialogue: 0,00:02:15.29,00:02:16.75,Default,,0,0,0,,That’s my representative to Goats’ Village
 Dialogue: 0,00:02:16.77,00:02:19.29,Default,,0,0,0,,When I was attending the robot conference…
 Dialogue: 0,00:02:19.93,00:02:22.81,Default,,0,0,0,,Look at the strange robots there
 Dialogue: 0,00:02:23.53,00:02:26.95,Default,,0,0,0,,We can definitely make a big splash at the conference today
@@ -192,8 +192,7 @@ Dialogue: 0,00:11:43.57,00:11:46.01,Default,,0,0,0,,Dr. Fu will not come back ag
 Dialogue: 0,00:11:46.77,00:11:49.49,Default,,0,0,0,,Dr. Fu is no longer here
 Dialogue: 0,00:11:54.93,00:11:55.61,Default,,0,0,0,,Oli…
 Dialogue: 0,00:11:56.25,00:11:59.03,Default,,0,0,0,,He wouldn’t have agreed to me
-Dialogue: 0,00:11:59.05,00:12:02.41,Default,,0,0,0,,- Will definitely find Dr. Fu’s
-- Oli, you’re injured
+Dialogue: 0,00:11:59.05,00:12:02.41,Default,,0,0,0,,- Will definitely find Dr. Fu’s - Oli, you’re injured
 Dialogue: 0,00:12:03.45,00:12:04.41,Default,,0,0,0,,Go back with me
 Dialogue: 0,00:12:04.89,00:12:07.07,Default,,0,0,0,,We’ll help you repair Oli
 Dialogue: 0,00:12:07.09,00:12:09.93,Default,,0,0,0,,Card…just get the card…

@@ -51,7 +51,7 @@ Dialogue: 0,00:02:02.42,00:02:04.56,Default,,0,0,0,,Let’s go find the fragment
 Dialogue: 0,00:02:04.58,00:02:05.22,Default,,0,0,0,,Um
 Dialogue: 0,00:02:07.98,00:02:11.50,Default,,0,0,0,,That…I want to go home first
 Dialogue: 0,00:02:11.90,00:02:13.28,Default,,0,0,0,,I want to go back and have a look
-Dialogue: 0,00:02:13.30,00:02:15.64,Default,,0,0,0,,What happened to Wilie and Red Red
+Dialogue: 0,00:02:13.30,00:02:15.64,Default,,0,0,0,,What happened to Wilie and Wolnie
 Dialogue: 0,00:02:15.66,00:02:18.02,Default,,0,0,0,,Well, let’s act separately
 Dialogue: 0,00:02:21.74,00:02:22.54,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:02:22.74,00:02:23.64,Default,,0,0,0,,You wait
@@ -82,7 +82,7 @@ Dialogue: 0,00:03:39.38,00:03:40.96,Default,,0,0,0,,Slowly turned into disappoin
 Dialogue: 0,00:03:40.98,00:03:43.62,Default,,0,0,0,,Finally, I don’t even want to mention you
 Dialogue: 0,00:03:45.30,00:03:49.26,Default,,0,0,0,,How about it… Son Dad is back
 Dialogue: 0,00:03:57.66,00:03:59.78,Default,,0,0,0,,The changes around are so big
-Dialogue: 0,00:04:00.22,00:04:04.14,Default,,0,0,0,,But the Wolf Castle has not changed at all
+Dialogue: 0,00:04:00.22,00:04:04.14,Default,,0,0,0,,But the Wolf Fortress has not changed at all
 Dialogue: 0,00:04:08.58,00:04:10.14,Default,,0,0,0,,I’m back
 Dialogue: 0,00:04:16.38,00:04:18.38,Default,,0,0,0,,Still a familiar feeling
 Dialogue: 0,00:04:19.46,00:04:20.62,Default,,0,0,0,,Son
@@ -90,8 +90,7 @@ Dialogue: 0,00:04:28.42,00:04:29.46,Default,,0,0,0,,Son
 Dialogue: 0,00:04:34.66,00:04:38.34,Default,,0,0,0,,Mom, don’t ask me for any auntie
 Dialogue: 0,00:04:39.10,00:04:40.78,Default,,0,0,0,,I can take care of myself
 Dialogue: 0,00:04:42.98,00:04:44.46,Default,,0,0,0,,Yes OK
-Dialogue: 0,00:04:47.02,00:04:49.38,Default,,0,0,0,,- See you again Mom
-- Wilie has grown
+Dialogue: 0,00:04:47.02,00:04:49.38,Default,,0,0,0,,- See you again Mom - Wilie has grown
 Dialogue: 0,00:04:50.86,00:04:51.38,Default,,0,0,0,,who?
 Dialogue: 0,00:04:54.62,00:04:55.82,Default,,0,0,0,,Who is there
 Dialogue: 0,00:04:58.38,00:04:59.34,Default,,0,0,0,,Swallow auntie
@@ -111,8 +110,7 @@ Dialogue: 0,00:05:40.54,00:05:42.78,Default,,0,0,0,,It’s been fifteen years si
 Dialogue: 0,00:05:43.78,00:05:48.18,Default,,0,0,0,,But at least you can come back to us
 Dialogue: 0,00:05:49.50,00:05:50.26,Default,,0,0,0,,Um
 Dialogue: 0,00:05:53.70,00:05:54.52,Default,,0,0,0,,ah…
-Dialogue: 0,00:05:54.54,00:05:57.06,Default,,0,0,0,,- There are monsters
-- Ah…there are monsters
+Dialogue: 0,00:05:54.54,00:05:57.06,Default,,0,0,0,,- There are monsters - Ah…there are monsters
 Dialogue: 0,00:05:59.22,00:06:00.50,Default,,0,0,0,,There is a card reaction
 Dialogue: 0,00:06:00.70,00:06:01.38,Default,,0,0,0,,Let’s go
 Dialogue: 0,00:06:02.98,00:06:06.00,Default,,0,0,0,,ah…
@@ -127,7 +125,7 @@ Dialogue: 0,00:06:25.98,00:06:28.32,Default,,0,0,0,,Tibbie I’ll go to lead the
 Dialogue: 0,00:06:28.34,00:06:29.66,Default,,0,0,0,,You’ll evacuate everyone
 Dialogue: 0,00:06:29.98,00:06:32.02,Default,,0,0,0,,But…you are alone…
 Dialogue: 0,00:06:32.74,00:06:33.56,Default,,0,0,0,,Don’t worry
-Dialogue: 0,00:06:33.58,00:06:36.34,Default,,0,0,0,,This is not the first time we have been a guardian of the Goat Village
+Dialogue: 0,00:06:33.58,00:06:36.34,Default,,0,0,0,,This is not the first time we have been a guardian of the Goats’ Village
 Dialogue: 0,00:06:36.54,00:06:38.42,Default,,0,0,0,,Yes, be careful
 Dialogue: 0,00:06:41.10,00:06:43.70,Default,,0,0,0,,Everyone follows my lights
 Dialogue: 0,00:06:46.78,00:06:48.46,Default,,0,0,0,,Blue Blue Sniper
@@ -164,7 +162,7 @@ Dialogue: 0,00:08:57.38,00:08:58.46,Default,,0,0,0,,Where did you go
 Dialogue: 0,00:09:01.94,00:09:02.98,Default,,0,0,0,,Wolffy
 Dialogue: 0,00:09:04.58,00:09:06.82,Default,,0,0,0,,Beware that there are monsters hidden in the fog
 Dialogue: 0,00:09:10.66,00:09:13.66,Default,,0,0,0,,Weslie…Brother
-Dialogue: 0,00:09:14.94,00:09:16.82,Default,,0,0,0,,Are you…Little Huihui?
+Dialogue: 0,00:09:14.94,00:09:16.82,Default,,0,0,0,,Are you…Wilie?
 Dialogue: 0,00:09:17.62,00:09:20.70,Default,,0,0,0,,It’s really you…Pleasant Brother Goat?
 Dialogue: 0,00:09:21.66,00:09:23.10,Default,,0,0,0,,When did you come back
 Dialogue: 0,00:09:26.06,00:09:27.36,Default,,0,0,0,,I’ll explain it to you later

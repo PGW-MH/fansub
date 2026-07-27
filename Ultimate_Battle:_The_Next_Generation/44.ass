@@ -56,7 +56,7 @@ Dialogue: 0,00:02:42.77,00:02:45.61,Default,,0,0,0,,Weslie never came back all n
 Dialogue: 0,00:02:46.05,00:02:47.75,Default,,0,0,0,,Didn’t call a single
 Dialogue: 0,00:02:47.77,00:02:49.49,Default,,0,0,0,,Nothing will happen
 Dialogue: 0,00:02:51.25,00:02:54.05,Default,,0,0,0,,It’s Weslie coming to the phone
-Dialogue: 0,00:02:54.57,00:02:56.05,Default,,0,0,0,,It’s a little gray
+Dialogue: 0,00:02:54.57,00:02:56.05,Default,,0,0,0,,It’s a Wilie
 Dialogue: 0,00:02:58.57,00:03:01.61,Default,,0,0,0,,Sister Tibbie is my dad there with you?
 Dialogue: 0,00:03:02.65,00:03:04.93,Default,,0,0,0,,No, he didn’t come here
 Dialogue: 0,00:03:05.17,00:03:08.05,Default,,0,0,0,,He has never come back since he went out yesterday
@@ -124,7 +124,7 @@ Dialogue: 0,00:06:29.29,00:06:31.97,Default,,0,0,0,,Oh, I can’t run anymore
 Dialogue: 0,00:06:32.81,00:06:36.45,Default,,0,0,0,,Can we finally make popsicles here?
 Dialogue: 0,00:06:36.97,00:06:40.17,Default,,0,0,0,,Don’t worry, isn’t Wolnie going out?
 Dialogue: 0,00:06:40.53,00:06:42.85,Default,,0,0,0,,She’ll find someone to save us
-Dialogue: 0,00:06:44.17,00:06:47.53,Default,,0,0,0,,Do you think Red Red really asks someone to save us?
+Dialogue: 0,00:06:44.17,00:06:47.53,Default,,0,0,0,,Do you think Wolnie really asks someone to save us?
 Dialogue: 0,00:06:47.81,00:06:49.45,Default,,0,0,0,,I believe red is too wolf
 Dialogue: 0,00:06:49.97,00:06:53.45,Default,,0,0,0,,You have such deep feelings, you should believe her even more
 Dialogue: 0,00:06:54.09,00:06:55.17,Default,,0,0,0,,Weslie…
@@ -140,14 +140,12 @@ Dialogue: 0,00:07:14.45,00:07:16.47,Default,,0,0,0,,At that time, every time you
 Dialogue: 0,00:07:16.49,00:07:18.77,Default,,0,0,0,,In the end, we ran away
 Dialogue: 0,00:07:19.25,00:07:22.05,Default,,0,0,0,,You’re always worried
 Dialogue: 0,00:07:22.93,00:07:23.89,Default,,0,0,0,,Live
-Dialogue: 0,00:07:24.53,00:07:29.69,Default,,0,0,0,,- Ha ha ha ha…
-- Ha ha ha ha…
+Dialogue: 0,00:07:24.53,00:07:29.69,Default,,0,0,0,,- Ha ha ha ha… - Ha ha ha ha…
 Dialogue: 0,00:07:42.49,00:07:45.77,Default,,0,0,0,,Please ask if you have seen them
 Dialogue: 0,00:07:46.81,00:07:49.01,Default,,0,0,0,,They are called Weslie and Wolffy
 Dialogue: 0,00:07:49.17,00:07:50.39,Default,,0,0,0,,Please ask if you have seen them…
 Dialogue: 0,00:07:50.41,00:07:50.79,Default,,0,0,0,,no
-Dialogue: 0,00:07:50.81,00:07:52.55,Default,,0,0,0,,They are called Weslie and Wolffy
-no
+Dialogue: 0,00:07:50.81,00:07:52.55,Default,,0,0,0,,They are called Weslie and Wolffy no
 Dialogue: 0,00:07:52.57,00:07:53.05,Default,,0,0,0,,Hello
 Dialogue: 0,00:07:53.65,00:07:55.85,Default,,0,0,0,,It’s hard to tell that they’re still in the insurance warehouse
 Dialogue: 0,00:07:56.69,00:07:59.53,Default,,0,0,0,,Red, please ask someone to save us
@@ -170,11 +168,9 @@ Dialogue: 0,00:08:41.89,00:08:42.65,Default,,0,0,0,,no
 Dialogue: 0,00:08:42.97,00:08:44.57,Default,,0,0,0,,Please ask if you have seen them
 Dialogue: 0,00:08:44.85,00:08:45.49,Default,,0,0,0,,no
 Dialogue: 0,00:08:47.33,00:08:47.75,Default,,0,0,0,,no
-Dialogue: 0,00:08:47.77,00:08:50.19,Default,,0,0,0,,- Please…have you seen them
-- Please…have you seen them
+Dialogue: 0,00:08:47.77,00:08:50.19,Default,,0,0,0,,- Please…have you seen them - Please…have you seen them
 Dialogue: 0,00:08:50.21,00:08:50.55,Default,,0,0,0,,no
-Dialogue: 0,00:08:50.57,00:08:51.65,Default,,0,0,0,,- Haven’t seen it
-- Never seen
+Dialogue: 0,00:08:50.57,00:08:51.65,Default,,0,0,0,,- Haven’t seen it - Never seen
 Dialogue: 0,00:08:51.89,00:08:52.41,Default,,0,0,0,,no
 Dialogue: 0,00:08:53.01,00:08:53.61,Default,,0,0,0,,no
 Dialogue: 0,00:08:53.97,00:08:55.25,Default,,0,0,0,,no
@@ -203,12 +199,9 @@ Dialogue: 0,00:10:10.17,00:10:11.93,Default,,0,0,0,,I miss them
 Dialogue: 0,00:10:16.13,00:10:18.85,Default,,0,0,0,,Weslie Weslie Weslie
 Dialogue: 0,00:10:19.01,00:10:19.69,Default,,0,0,0,,dad
 Dialogue: 0,00:10:20.89,00:10:21.59,Default,,0,0,0,,Little River
-Dialogue: 0,00:10:21.61,00:10:23.43,Default,,0,0,0,,- Come and open the door quickly
-- Why do I seem to hear it
-Dialogue: 0,00:10:23.45,00:10:25.07,Default,,0,0,0,,- Here is a low temperature warehouse
-- Everyone’s voice
-Dialogue: 0,00:10:25.09,00:10:26.63,Default,,0,0,0,,- Why would someone come in if it’s cold
-- Me too
+Dialogue: 0,00:10:21.61,00:10:23.43,Default,,0,0,0,,- Come and open the door quickly - Why do I seem to hear it
+Dialogue: 0,00:10:23.45,00:10:25.07,Default,,0,0,0,,- Here is a low temperature warehouse - Everyone’s voice
+Dialogue: 0,00:10:25.09,00:10:26.63,Default,,0,0,0,,- Why would someone come in if it’s cold - Me too
 Dialogue: 0,00:10:26.65,00:10:28.71,Default,,0,0,0,,It seems that we have had phantoms
 Dialogue: 0,00:10:28.73,00:10:29.57,Default,,0,0,0,,It seems to be
 Dialogue: 0,00:10:30.13,00:10:31.77,Default,,0,0,0,,You’re quick to move

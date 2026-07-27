@@ -15,8 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:21.61,00:00:23.13,Default,,0,0,0,,No! Can’t move anymore!
-Dialogue: 0,00:00:23.89,00:00:27.81,Default,,0,0,0,,I didn’t expect to find it in Wolf Castle
-These fruit guns are so harmful…
+Dialogue: 0,00:00:23.89,00:00:27.81,Default,,0,0,0,,I didn’t expect to find it in Wolf Fortress These fruit guns are so harmful…
 Dialogue: 0,00:00:27.93,00:00:30.57,Default,,0,0,0,,Don’t slap it. Hand over BB Goat!
 Dialogue: 0,00:00:36.93,00:00:37.65,Default,,0,0,0,,Don’t be afraid
 Dialogue: 0,00:00:37.69,00:00:38.97,Default,,0,0,0,,I’ll protect you
@@ -37,8 +36,7 @@ Dialogue: 0,00:01:35.69,00:01:36.49,Default,,0,0,0,,good
 Dialogue: 0,00:01:48.33,00:01:49.05,Default,,0,0,0,,BB Goat?
 Dialogue: 0,00:01:50.29,00:01:51.49,Default,,0,0,0,,What are you doing here?
 Dialogue: 0,00:01:51.57,00:01:52.93,Default,,0,0,0,,It’s bad to infect you
-Dialogue: 0,00:01:53.29,00:01:56.57,Default,,0,0,0,,Weslie Brother, you are sick
-BB Goat wants to take care of you!
+Dialogue: 0,00:01:53.29,00:01:56.57,Default,,0,0,0,,Weslie Brother, you are sick BB Goat wants to take care of you!
 Dialogue: 0,00:01:59.61,00:02:01.93,Default,,0,0,0,,Mom said she should apply a towel when she was burning
 Dialogue: 0,00:02:06.89,00:02:08.21,Default,,0,0,0,,Drink more water!
 Dialogue: 0,00:02:11.65,00:02:13.97,Default,,0,0,0,,Also, you need to reduce the heat and reduce the temperature
@@ -54,12 +52,10 @@ Dialogue: 0,00:02:31.69,00:02:33.25,Default,,0,0,0,,Make him quick and good!
 Dialogue: 0,00:02:33.49,00:02:35.49,Default,,0,0,0,,I need a good rest when I am sick
 Dialogue: 0,00:02:35.53,00:02:37.17,Default,,0,0,0,,Don’t beat him up…
 Dialogue: 0,00:02:37.61,00:02:39.89,Default,,0,0,0,,Mr. Slowy! All the anti-burn medicines are used up!
-Dialogue: 0,00:02:46.85,00:02:50.17,Default,,0,0,0,,Let’s find it together
-This orange anti-heat fruit!
+Dialogue: 0,00:02:46.85,00:02:50.17,Default,,0,0,0,,Let’s find it together This orange anti-heat fruit!
 Dialogue: 0,00:02:53.77,00:02:54.49,Default,,0,0,0,,good
 Dialogue: 0,00:02:57.57,00:02:59.17,Default,,0,0,0,,Orange heat-reducing fruit…
-Dialogue: 0,00:03:15.41,00:03:17.89,Default,,0,0,0,,It’s all your fault for slapping me
-Otherwise, there is no need to stop the station!
+Dialogue: 0,00:03:15.41,00:03:17.89,Default,,0,0,0,,It’s all your fault for slapping me Otherwise, there is no need to stop the station!
 Dialogue: 0,00:03:18.61,00:03:20.13,Default,,0,0,0,,It was obviously you who snatched me!
 Dialogue: 0,00:03:20.29,00:03:21.33,Default,,0,0,0,,I’m so embarrassed to say!
 Dialogue: 0,00:03:22.37,00:03:24.41,Default,,0,0,0,,It’s all your fault! It’s all your fault!
@@ -79,21 +75,18 @@ Dialogue: 0,00:04:04.05,00:04:05.41,Default,,0,0,0,,What kind of anti-hot fruit
 Dialogue: 0,00:04:05.53,00:04:07.13,Default,,0,0,0,,Isn’t that just an ordinary orange?
 Dialogue: 0,00:04:14.65,00:04:16.05,Default,,0,0,0,,Let’s help you
 Dialogue: 0,00:04:26.09,00:04:27.09,Default,,0,0,0,,Picked!
-Dialogue: 0,00:04:32.45,00:04:35.53,Default,,0,0,0,,Weslie Brother Eat Eat the Heat Reduction Fruit
-It will get better!
+Dialogue: 0,00:04:32.45,00:04:35.53,Default,,0,0,0,,Weslie Brother Eat Eat the Heat Reduction Fruit It will get better!
 Dialogue: 0,00:04:36.37,00:04:37.65,Default,,0,0,0,,What happened to him in Weslie?
 Dialogue: 0,00:04:44.85,00:04:45.57,Default,,0,0,0,,King!
 Dialogue: 0,00:04:47.13,00:04:48.81,Default,,0,0,0,,It turns out that Weslie fell ill
 Dialogue: 0,00:04:48.89,00:04:51.33,Default,,0,0,0,,The lambs also went to find the hot-reducing fruit
-Dialogue: 0,00:04:51.65,00:04:54.97,Default,,0,0,0,,The sentence says now
-The best time to catch BB Goat!
+Dialogue: 0,00:04:51.65,00:04:54.97,Default,,0,0,0,,The sentence says now The best time to catch BB Goat!
 Dialogue: 0,00:04:55.49,00:04:57.05,Default,,0,0,0,,How did you know?
 Dialogue: 0,00:04:57.69,00:05:00.05,Default,,0,0,0,,This was what BB Goat told us in private!
 Dialogue: 0,00:05:00.21,00:05:02.13,Default,,0,0,0,,Did BB Goat tell you privately?
 Dialogue: 0,00:05:02.65,00:05:05.09,Default,,0,0,0,,We met the single BB Goat in the Forest
 Dialogue: 0,00:05:05.13,00:05:07.13,Default,,0,0,0,,And she found some heat-reduction fruits!
-Dialogue: 0,00:05:07.93,00:05:11.01,Default,,0,0,0,,We are in the process of helping her
-I heard it secretly!
+Dialogue: 0,00:05:07.93,00:05:11.01,Default,,0,0,0,,We are in the process of helping her I heard it secretly!
 Dialogue: 0,00:05:11.13,00:05:11.77,Default,,0,0,0,,Is it harmful?
 Dialogue: 0,00:05:12.25,00:05:14.33,Default,,0,0,0,,This time we didn’t act without permission!
 Dialogue: 0,00:05:15.93,00:05:16.93,Default,,0,0,0,,what!

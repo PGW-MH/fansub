@@ -73,10 +73,8 @@ Dialogue: 0,00:04:12.00,00:04:13.24,Default,,0,0,0,,No hair
 Dialogue: 0,00:04:13.28,00:04:14.92,Default,,0,0,0,,If you don’t believe it, go and see
 Dialogue: 0,00:04:15.56,00:04:16.32,Default,,0,0,0,,I don’t believe it
 Dialogue: 0,00:04:17.16,00:04:20.04,Default,,0,0,0,,If you can find a hair, I will give you a bench
-Dialogue: 0,00:04:20.32,00:04:22.21,Default,,0,0,0,,- Yes, I can find a hair
-- Yes, I can find a hair
-Dialogue: 0,00:04:22.24,00:04:24.16,Default,,0,0,0,,- We will also give you a seat on a stool.
-- We will also give you a seat on a stool.
+Dialogue: 0,00:04:20.32,00:04:22.21,Default,,0,0,0,,- Yes, I can find a hair - Yes, I can find a hair
+Dialogue: 0,00:04:22.24,00:04:24.16,Default,,0,0,0,,- We will also give you a seat on a stool. - We will also give you a seat on a stool.
 Dialogue: 0,00:04:24.76,00:04:25.48,Default,,0,0,0,,Go and go
 Dialogue: 0,00:05:05.12,00:05:06.92,Default,,0,0,0,,Don’t let go of any corner
 Dialogue: 0,00:05:07.64,00:05:08.20,Default,,0,0,0,,good
@@ -138,8 +136,7 @@ Dialogue: 0,00:08:28.76,00:08:31.16,Default,,0,0,0,,Look, this is my re-baked fi
 Dialogue: 0,00:08:31.52,00:08:32.92,Default,,0,0,0,,Was it very successful?
 Dialogue: 0,00:08:34.76,00:08:36.80,Default,,0,0,0,,Jonie eat this
 Dialogue: 0,00:08:38.32,00:08:39.45,Default,,0,0,0,,Eat this Eat this… Jonie
-Dialogue: 0,00:08:39.48,00:08:42.32,Default,,0,0,0,,- Jonie Eat this…
-- Jonie Eat this…
+Dialogue: 0,00:08:39.48,00:08:42.32,Default,,0,0,0,,- Jonie Eat this… - Jonie Eat this…
 Dialogue: 0,00:08:46.55,00:08:47.96,Default,,0,0,0,,And this…
 Dialogue: 0,00:08:57.28,00:08:58.64,Default,,0,0,0,,Very cool
 Dialogue: 0,00:08:59.40,00:08:59.92,Default,,0,0,0,,Sweet?

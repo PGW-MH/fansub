@@ -35,8 +35,7 @@ Dialogue: 0,00:00:57.80,00:00:58.40,Default,,0,0,0,,Everyone
 Dialogue: 0,00:00:58.71,00:01:00.16,Default,,0,0,0,,Please help us
 Dialogue: 0,00:01:05.76,00:01:07.36,Default,,0,0,0,,Let me cover you up
 Dialogue: 0,00:01:22.43,00:01:24.56,Default,,0,0,0,,Deformed rod bacteria
-Dialogue: 0,00:02:38.28,00:02:39.32,Default,,0,0,0,,-Pleasant Brother Goat
--dad
+Dialogue: 0,00:02:38.28,00:02:39.32,Default,,0,0,0,,-Pleasant Brother Goat -dad
 Dialogue: 0,00:02:39.32,00:02:40.44,Default,,0,0,0,,You’re fine
 Dialogue: 0,00:02:49.04,00:02:49.88,Default,,0,0,0,,Don’t come over
 Dialogue: 0,00:02:52.72,00:02:54.44,Default,,0,0,0,,What a powerful force
@@ -58,8 +57,7 @@ Dialogue: 0,00:03:20.80,00:03:21.63,Default,,0,0,0,,I don’t want it
 Dialogue: 0,00:03:22.96,00:03:25.28,Default,,0,0,0,,I don’t want to lose my brother alone
 Dialogue: 0,00:03:27.28,00:03:29.00,Default,,0,0,0,,You’re such a bad egg
 Dialogue: 0,00:03:31.44,00:03:33.96,Default,,0,0,0,,I don’t want you to hurt them again
-Dialogue: 0,00:03:34.52,00:03:35.56,Default,,0,0,0,,- Little gray
-- BB Goat
+Dialogue: 0,00:03:34.52,00:03:35.56,Default,,0,0,0,,- Wilie - BB Goat
 Dialogue: 0,00:03:36.20,00:03:37.20,Default,,0,0,0,,And me
 Dialogue: 0,00:03:37.56,00:03:38.68,Default,,0,0,0,,And me!
 Dialogue: 0,00:03:38.68,00:03:41.63,Default,,0,0,0,,And me…
@@ -103,8 +101,7 @@ Dialogue: 0,00:07:09.96,00:07:11.80,Default,,0,0,0,,The place where dad and mom 
 Dialogue: 0,00:07:16.76,00:07:18.40,Default,,0,0,0,,Dad Mom!
 Dialogue: 0,00:07:26.68,00:07:28.56,Default,,0,0,0,,Let’s unblock them quickly
 Dialogue: 0,00:07:28.72,00:07:29.47,Default,,0,0,0,,good!
-Dialogue: 0,00:07:39.28,00:07:40.60,Default,,0,0,0,,-Dad Mom!
--Dad Mom!
+Dialogue: 0,00:07:39.28,00:07:40.60,Default,,0,0,0,,-Dad Mom! -Dad Mom!
 Dialogue: 0,00:07:44.64,00:07:46.52,Default,,0,0,0,,Weslie Goat BB Goat!
 Dialogue: 0,00:07:47.44,00:07:48.60,Default,,0,0,0,,There is also the teacher of Slowy
 Dialogue: 0,00:07:48.64,00:07:49.47,Default,,0,0,0,,And the lamb
@@ -201,7 +198,7 @@ Dialogue: 0,00:11:22.32,00:11:24.72,Default,,0,0,0,,That’s how it ends in terr
 Dialogue: 0,00:11:25.00,00:11:27.44,Default,,0,0,0,,The Bacteria Army also returned to their universe
 Dialogue: 0,00:11:28.00,00:11:28.92,Default,,0,0,0,,Before repair
 Dialogue: 0,00:11:29.00,00:11:30.64,Default,,0,0,0,,The planet that was destroyed by them
-Dialogue: 0,00:11:31.08,00:11:33.24,Default,,0,0,0,,Wolffy finally returned to Wolf Castle
+Dialogue: 0,00:11:31.08,00:11:33.24,Default,,0,0,0,,Wolffy finally returned to Wolf Fortress
 Dialogue: 0,00:11:33.76,00:11:34.80,Default,,0,0,0,,But it seems
 Dialogue: 0,00:11:36.96,00:11:38.08,Default,,0,0,0,,A little lonely
 Dialogue: 0,00:11:40.40,00:11:41.20,Default,,0,0,0,,dad
@@ -225,10 +222,8 @@ Dialogue: 0,00:12:17.52,00:12:18.72,Default,,0,0,0,,I’ll be your referee
 Dialogue: 0,00:12:18.92,00:12:19.88,Default,,0,0,0,,Who would win
 Dialogue: 0,00:12:19.92,00:12:21.84,Default,,0,0,0,,I’ll take him out to play on the electric car
 Dialogue: 0,00:12:22.52,00:12:23.72,Default,,0,0,0,,Brother, go wash your hands and eat
-Dialogue: 0,00:12:24.20,00:12:25.92,Default,,0,0,0,,- We are going to start the competition!
--good!
-Dialogue: 0,00:12:25.96,00:12:27.60,Default,,0,0,0,,-I will definitely not transfer it to you!
--good
+Dialogue: 0,00:12:24.20,00:12:25.92,Default,,0,0,0,,- We are going to start the competition! -good!
+Dialogue: 0,00:12:25.96,00:12:27.60,Default,,0,0,0,,-I will definitely not transfer it to you! -good
 Dialogue: 0,00:12:27.68,00:12:28.16,Default,,0,0,0,,Come
 Dialogue: 0,00:12:28.16,00:12:28.80,Default,,0,0,0,,Prepared
 Dialogue: 0,00:12:29.08,00:12:29.80,Default,,0,0,0,,three
