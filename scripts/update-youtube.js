@@ -54,13 +54,13 @@ function parseFeed(xml) {
     for (const video of videos) {
         console.log(`Checking: ${video.title}`);
 
-        const ok = TARGET.keywords.every((k) => item.title.includes(k));
+        const ok = TARGET.keywords.every((k) => title.includes(k));
         if (!ok) {
             console.log('  Skip: keywords not matched.');
             continue;
         }
 
-        const match = item.title.match(TARGET.episodeRegex);
+        const match = title.match(TARGET.episodeRegex);
         if (!match) {
             console.log('  Skip: episode number not found.');
             continue;
