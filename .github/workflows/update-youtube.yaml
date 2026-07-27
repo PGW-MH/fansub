@@ -28,7 +28,7 @@ jobs:
 
       - name: Run updater
         id: updater
-        run: node scripts/update-youtube.js >> "$GITHUB_OUTPUT"
+        run: node scripts/update-youtube.js
 
       - name: Commit changes
         run: |

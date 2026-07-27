@@ -85,13 +85,13 @@ function parseFeed(xml) {
         }
 
         console.log(`  EP${epNum}: ${current} -> ${video.url}`);
-        edits.push(...modify(text, ['episodes', index, 'youtube'], video.url));
+        edits.push(...modify(text, ['episodes', index, 'youtube'], video.url, {}));
         updated.push(epNum);
     }
 
     if (updated.length === 0) {
         console.log('No changes.');
-        console.log('updated=');
+        await fs.appendFile(process.env.GITHUB_OUTPUT, `updated=\n`);
         return;
     }
 
@@ -99,6 +99,6 @@ function parseFeed(xml) {
     await fs.writeFile(TARGET.file, newText, 'utf8');
 
     console.log(`Updated episodes: ${updated.join(', ')}`);
-    console.log(`updated=${updated.join(',')}`);
+    await fs.appendFile(process.env.GITHUB_OUTPUT, `updated=${updated.join(',')}\n`);
     console.log(`[${new Date().toISOString()}] updater completed.`);
 })();
