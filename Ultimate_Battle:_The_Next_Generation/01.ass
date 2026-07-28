@@ -10,7 +10,7 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.5,1.7,2,13,11,14,1
+Style: Default,TeXGyreHeros,56,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.5,1.7,2,13,11,14,1
 Style: Title,Orbitron Black,96,&H000C78FF,&H000000FF,&H00FFFFFF,&H00D66C33,0,0,0,0,100,100,0,0,1,2,6,2,20,10,84,1
 Style: Title1,Orbitron Black,48,&H00FFFFFF,&H000000FF,&H00813909,&H00FFFFFF,0,0,0,0,100,120,0,0,1,4,0,8,160,10,315,1
 Style: end,Orbitron Black,72,&H00FFB645,&H000000FF,&H00FFFFFF,&H23531819,0,0,0,0,100,100,0,0,1,1,0,2,13,13,300,1
