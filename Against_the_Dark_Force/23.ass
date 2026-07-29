@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:21.29,00:00:22.49,Default,,0,0,0,,While the Sparky  is not chasing
+Dialogue: 0,00:00:21.29,00:00:22.49,Default,,0,0,0,,While the Sparky is not chasing
 Dialogue: 0,00:00:22.73,00:00:25.09,Default,,0,0,0,,Let’s take a car to the palace to find Princess Levana
 Dialogue: 0,00:00:31.93,00:00:33.57,Default,,0,0,0,,What are you doing with Weslie
 Dialogue: 0,00:00:35.09,00:00:35.57,Default,,0,0,0,,You see
@@ -80,7 +80,7 @@ Dialogue: 0,00:04:32.25,00:04:32.97,Default,,0,0,0,,What are you doing
 Dialogue: 0,00:04:38.69,00:04:40.73,Default,,0,0,0,,All fell off, go ahead
 Dialogue: 0,00:04:54.89,00:04:56.65,Default,,0,0,0,,I’ve asked a lot of people
 Dialogue: 0,00:04:56.81,00:04:59.13,Default,,0,0,0,,No one has water, what should I do
-Dialogue: 0,00:05:05.89,00:05:08.69,Default,,0,0,0,,Sparky  manages here so that it will not leak out
+Dialogue: 0,00:05:05.89,00:05:08.69,Default,,0,0,0,,Sparky manages here so that it will not leak out
 Dialogue: 0,00:05:08.89,00:05:10.89,Default,,0,0,0,,But there must be a miscellaneous secret.
 Dialogue: 0,00:05:11.09,00:05:12.45,Default,,0,0,0,,He never thought…
 Dialogue: 0,00:05:15.37,00:05:18.89,Default,,0,0,0,,Kid, lend the water gun to the uncle for fun

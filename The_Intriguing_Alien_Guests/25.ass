@@ -15,17 +15,17 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:36.16,00:00:37.24,Default,,0,0,0,,Been discovered!
-Dialogue: 0,00:00:38.28,00:00:39.56,Default,,0,0,0,,King, run away! !
+Dialogue: 0,00:00:38.28,00:00:39.56,Default,,0,0,0,,King, run away!
 Dialogue: 0,00:00:58.16,00:00:59.96,Default,,0,0,0,,There is actually a helicopter!
 Dialogue: 0,00:01:03.32,00:01:05.00,Default,,0,0,0,,Xiaohuang quickly transforms!
 Dialogue: 0,00:01:19.80,00:01:20.76,Default,,0,0,0,,No way out!
 Dialogue: 0,00:01:23.56,00:01:25.40,Default,,0,0,0,,Where do you want to run
 Dialogue: 0,00:01:29.20,00:01:31.88,Default,,0,0,0,,This time, I won’t completely eliminate you!
 Dialogue: 0,00:01:32.48,00:01:33.36,Default,,0,0,0,,Launch!
-Dialogue: 0,00:01:45.68,00:01:47.92,Default,,0,0,0,,Do it! Not here! !
+Dialogue: 0,00:01:45.68,00:01:47.92,Default,,0,0,0,,Do it! Not here!
 Dialogue: 0,00:01:49.08,00:01:50.16,Default,,0,0,0,,What’s the situation
-Dialogue: 0,00:01:51.00,00:01:51.84,Default,,0,0,0,,Stop quickly! !
-Dialogue: 0,00:01:55.48,00:01:57.04,Default,,0,0,0,,How could this happen! !
+Dialogue: 0,00:01:51.00,00:01:51.84,Default,,0,0,0,,Stop quickly!
+Dialogue: 0,00:01:55.48,00:01:57.04,Default,,0,0,0,,How could this happen!
 Dialogue: 0,00:02:04.28,00:02:05.28,Default,,0,0,0,,This is
 Dialogue: 0,00:02:05.40,00:02:09.12,Default,,0,0,0,,I’ll catch BB Goat and go back
 Dialogue: 0,00:02:10.24,00:02:11.92,Default,,0,0,0,,He finally arrived
@@ -36,21 +36,21 @@ Dialogue: 0,00:02:42.20,00:02:44.24,Default,,0,0,0,,We came in with Mr. Slowy
 Dialogue: 0,00:02:44.48,00:02:46.16,Default,,0,0,0,,When the light is opened, you will be discovered
 Dialogue: 0,00:02:46.56,00:02:48.60,Default,,0,0,0,,Then what are we going to do here
 Dialogue: 0,00:02:49.72,00:02:53.36,Default,,0,0,0,,Of course, I’m here to see the super big TV newly bought by Mr. Slowy!
-Dialogue: 0,00:02:53.48,00:02:55.88,Default,,0,0,0,,It’s a waste to watch animations! !
+Dialogue: 0,00:02:53.48,00:02:55.88,Default,,0,0,0,,It’s a waste to watch animations!
 Dialogue: 0,00:02:56.60,00:02:57.60,Default,,0,0,0,,Yes Yes!
 Dialogue: 0,00:02:58.92,00:03:01.20,Default,,0,0,0,,What is this sound
 Dialogue: 0,00:03:07.28,00:03:09.32,Default,,0,0,0,,Is it the sound of a TV?
 Dialogue: 0,00:03:09.80,00:03:12.24,Default,,0,0,0,,But we haven’t opened the TV
 Dialogue: 0,00:03:12.96,00:03:14.32,Default,,0,0,0,,It’s too dark here
 Dialogue: 0,00:03:14.36,00:03:16.36,Default,,0,0,0,,I’ll go open the lights
-Dialogue: 0,00:03:20.80,00:03:23.16,Default,,0,0,0,,Why did the lights open by themselves! !
+Dialogue: 0,00:03:20.80,00:03:23.16,Default,,0,0,0,,Why did the lights open by themselves!
 Dialogue: 0,00:03:32.12,00:03:33.80,Default,,0,0,0,,This! That’s it!
 Dialogue: 0,00:03:34.76,00:03:36.76,Default,,0,0,0,,King, it’s been so long
 Dialogue: 0,00:03:38.00,00:03:40.44,Default,,0,0,0,,Your new helper hasn’t caught the goat yet
 Dialogue: 0,00:03:40.56,00:03:42.44,Default,,0,0,0,,Can he do it alone
 Dialogue: 0,00:03:47.24,00:03:49.60,Default,,0,0,0,,Don’t underestimate him
 Dialogue: 0,00:03:51.56,00:03:54.80,Default,,0,0,0,,He came and shot a single gun
-Dialogue: 0,00:03:55.00,00:03:58.28,Default,,0,0,0,,I once controlled an entire planet in an instant! !
+Dialogue: 0,00:03:55.00,00:03:58.28,Default,,0,0,0,,I once controlled an entire planet in an instant!
 Dialogue: 0,00:04:05.56,00:04:07.07,Default,,0,0,0,,Such a darn
 Dialogue: 0,00:04:07.36,00:04:10.07,Default,,0,0,0,,Could it be that he has also come to win the position of King?
 Dialogue: 0,00:04:17.88,00:04:20.88,Default,,0,0,0,,Then I will never be the king
@@ -77,11 +77,11 @@ Dialogue: 0,00:05:27.20,00:05:28.12,Default,,0,0,0,,you…
 Dialogue: 0,00:05:28.60,00:05:29.63,Default,,0,0,0,,How did you come
 Dialogue: 0,00:05:30.32,00:05:33.28,Default,,0,0,0,,Don’t you have information on your phone that attracts you?
 Dialogue: 0,00:05:34.24,00:05:38.56,Default,,0,0,0,,It looks so strange Is this a newly invented program by Mr. Slowy?
-Dialogue: 0,00:05:39.88,00:05:41.60,Default,,0,0,0,,I’ll tell you to see this! !
+Dialogue: 0,00:05:39.88,00:05:41.60,Default,,0,0,0,,I’ll tell you to see this!
 Dialogue: 0,00:05:42.32,00:05:45.28,Default,,0,0,0,,It turns out that everything you see is what you have developed
 Dialogue: 0,00:05:46.12,00:05:50.04,Default,,0,0,0,,But these pictures are watching I haven’t eaten at the scene yet
 Dialogue: 0,00:05:50.84,00:05:54.96,Default,,0,0,0,,What a bad thing it was broken My data analysis psychedelic method!
-Dialogue: 0,00:05:58.24,00:06:00.24,Default,,0,0,0,,It seems delicious! !
+Dialogue: 0,00:05:58.24,00:06:00.24,Default,,0,0,0,,It seems delicious!
 Dialogue: 0,00:06:00.28,00:06:02.32,Default,,0,0,0,,How about a small program like this!
 Dialogue: 0,00:06:03.68,00:06:06.40,Default,,0,0,0,,The program invented by Mr. Slowy would not be so feasted
 Dialogue: 0,00:06:06.64,00:06:08.00,Default,,0,0,0,,Who are you
@@ -117,11 +117,11 @@ Dialogue: 0,00:07:55.44,00:07:56.92,Default,,0,0,0,,Always calm
 Dialogue: 0,00:07:58.20,00:08:00.64,Default,,0,0,0,,Where is the virus here? It’s so difficult to deal with
 Dialogue: 0,00:08:01.16,00:08:04.92,Default,,0,0,0,,We rushed to tell Mr. Slowy His laboratory has been poisoned!
 Dialogue: 0,00:08:11.40,00:08:12.08,Default,,0,0,0,,Wait a minute.!
-Dialogue: 0,00:08:13.00,00:08:14.60,Default,,0,0,0,,BB Goat is missing! !
+Dialogue: 0,00:08:13.00,00:08:14.60,Default,,0,0,0,,BB Goat is missing!
 Dialogue: 0,00:08:14.64,00:08:15.88,Default,,0,0,0,,what!
 Dialogue: 0,00:08:18.52,00:08:20.04,Default,,0,0,0,,Stop and don’t run!
 Dialogue: 0,00:08:26.40,00:08:28.04,Default,,0,0,0,,So many snacks!
-Dialogue: 0,00:08:28.68,00:08:29.64,Default,,0,0,0,,There! !
+Dialogue: 0,00:08:28.68,00:08:29.64,Default,,0,0,0,,There!
 Dialogue: 0,00:08:30.24,00:08:31.92,Default,,0,0,0,,It was indeed him who caught BB Goat!
 Dialogue: 0,00:08:34.88,00:08:37.47,Default,,0,0,0,,Don’t eat it! It’s all mine
 Dialogue: 0,00:08:40.24,00:08:42.08,Default,,0,0,0,,BB Goat are almost released!
@@ -141,7 +141,7 @@ Dialogue: 0,00:09:44.16,00:09:45.68,Default,,0,0,0,,Finally got rid of them
 Dialogue: 0,00:09:47.80,00:09:49.52,Default,,0,0,0,,Very delicious
 Dialogue: 0,00:09:50.60,00:09:52.96,Default,,0,0,0,,Why did you eat up all your snacks? !
 Dialogue: 0,00:09:53.68,00:09:55.96,Default,,0,0,0,,I want to eat too
-Dialogue: 0,00:10:01.64,00:10:03.47,Default,,0,0,0,,Lots of snacks! !
+Dialogue: 0,00:10:01.64,00:10:03.47,Default,,0,0,0,,Lots of snacks!
 Dialogue: 0,00:10:03.84,00:10:06.52,Default,,0,0,0,,It must have been the sky that fell to compensate me
 Dialogue: 0,00:10:22.76,00:10:23.35,Default,,0,0,0,,What’s going on
 Dialogue: 0,00:10:24.20,00:10:25.64,Default,,0,0,0,,It’s you!
@@ -162,10 +162,10 @@ Dialogue: 0,00:11:54.64,00:11:59.16,Default,,0,0,0,,The three of us join forces 
 Dialogue: 0,00:12:00.28,00:12:02.32,Default,,0,0,0,,He doesn’t seem to have powered
 Dialogue: 0,00:12:02.84,00:12:04.00,Default,,0,0,0,,Don’t turn off the machine!
 Dialogue: 0,00:12:04.00,00:12:05.76,Default,,0,0,0,,Move to other equipment quickly
-Dialogue: 0,00:12:08.64,00:12:10.08,Default,,0,0,0,,All the equipment is broken! !
+Dialogue: 0,00:12:08.64,00:12:10.08,Default,,0,0,0,,All the equipment is broken!
 Dialogue: 0,00:12:12.00,00:12:14.60,Default,,0,0,0,,The king cheers up, and I’m
 Dialogue: 0,00:12:16.92,00:12:19.92,Default,,0,0,0,,We will definitely come back!
 Dialogue: 0,00:12:20.44,00:12:24.24,Default,,0,0,0,,Remember to come back next time
-Don’t eat snacks on the road! !
-Dialogue: 0,00:12:25.24,00:12:26.80,Default,,0,0,0,,Help! !
-Dialogue: 0,00:12:27.20,00:12:30.16,Default,,0,0,0,,Who can help me stop it! !
+Don’t eat snacks on the road!
+Dialogue: 0,00:12:25.24,00:12:26.80,Default,,0,0,0,,Help!
+Dialogue: 0,00:12:27.20,00:12:30.16,Default,,0,0,0,,Who can help me stop it!
