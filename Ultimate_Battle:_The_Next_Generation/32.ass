@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:29.41,00:00:29.93,Default,,0,0,0,,Oli
+Dialogue: 0,00:00:29.41,00:00:29.93,Default,,0,0,0,,Aoli
 Dialogue: 0,00:00:30.17,00:00:31.49,Default,,0,0,0,,Why are you still here
 Dialogue: 0,00:00:32.97,00:00:34.09,Default,,0,0,0,,Go home soon…
 Dialogue: 0,00:00:36.29,00:00:39.19,Default,,0,0,0,,One day a horse fell into the river
@@ -24,14 +24,14 @@ Dialogue: 0,00:00:44.45,00:00:45.97,Default,,0,0,0,,What jokes are you talking a
 Dialogue: 0,00:00:46.61,00:00:47.89,Default,,0,0,0,,Your house is on fire
 Dialogue: 0,00:00:50.33,00:00:51.53,Default,,0,0,0,,Go back and have a look
 Dialogue: 0,00:01:00.41,00:01:02.05,Default,,0,0,0,,There are fragments nearby
-Dialogue: 0,00:01:02.25,00:01:04.13,Default,,0,0,0,,Oli You finally come back
+Dialogue: 0,00:01:02.25,00:01:04.13,Default,,0,0,0,,Aoli You finally come back
 Dialogue: 0,00:01:04.33,00:01:07.17,Default,,0,0,0,,Don’t worry, the firefighters have already slammed the fire
 Dialogue: 0,00:01:19.89,00:01:22.45,Default,,0,0,0,,Not good Dr. Fu’s items
 Dialogue: 0,00:01:31.97,00:01:32.69,Default,,0,0,0,,who
 Dialogue: 0,00:01:37.33,00:01:38.05,Default,,0,0,0,,Come out
 Dialogue: 0,00:01:55.81,00:01:57.77,Default,,0,0,0,,Fu…Dr…
 Dialogue: 0,00:02:06.01,00:02:06.59,Default,,0,0,0,,very good
-Dialogue: 0,00:02:06.61,00:02:09.49,Default,,0,0,0,,Pay close attention to the situation around Oli
+Dialogue: 0,00:02:06.61,00:02:09.49,Default,,0,0,0,,Pay close attention to the situation around Aoli
 Dialogue: 0,00:02:09.81,00:02:10.29,Default,,0,0,0,,OK
 Dialogue: 0,00:02:14.85,00:02:16.53,Default,,0,0,0,,It’s almost successful…
 Dialogue: 0,00:02:19.97,00:02:21.05,Default,,0,0,0,,Dr. Fu
@@ -91,18 +91,18 @@ Dialogue: 0,00:06:57.13,00:07:00.29,Default,,0,0,0,,Dr. Fu, I won’t let go thi
 Dialogue: 0,00:07:00.93,00:07:03.17,Default,,0,0,0,,You can’t leave my video
 Dialogue: 0,00:07:03.33,00:07:06.09,Default,,0,0,0,,What, please let me go
 Dialogue: 0,00:07:10.53,00:07:12.17,Default,,0,0,0,,Let me go
-Dialogue: 0,00:07:12.97,00:07:13.81,Default,,0,0,0,,It’s Oli
+Dialogue: 0,00:07:12.97,00:07:13.81,Default,,0,0,0,,It’s Aoli
 Dialogue: 0,00:07:14.37,00:07:16.73,Default,,0,0,0,,That person looks so familiar
 Dialogue: 0,00:07:16.93,00:07:19.05,Default,,0,0,0,,I seem to have seen it somewhere
 Dialogue: 0,00:07:25.85,00:07:27.97,Default,,0,0,0,,I remembered that he is Dr. Fu
 Dialogue: 0,00:07:28.25,00:07:28.73,Default,,0,0,0,,Wait a minute.
 Dialogue: 0,00:07:28.89,00:07:31.53,Default,,0,0,0,,Didn’t Mr. Slowy say that Dr. Fu is no longer alive?
-Dialogue: 0,00:07:32.93,00:07:33.65,Default,,0,0,0,,Oli
-Dialogue: 0,00:07:34.65,00:07:35.49,Default,,0,0,0,,Oli
+Dialogue: 0,00:07:32.93,00:07:33.65,Default,,0,0,0,,Aoli
+Dialogue: 0,00:07:34.65,00:07:35.49,Default,,0,0,0,,Aoli
 Dialogue: 0,00:07:40.49,00:07:41.57,Default,,0,0,0,,What’s going on
 Dialogue: 0,00:07:45.81,00:07:48.21,Default,,0,0,0,,what? You saw Lao Fu
 Dialogue: 0,00:07:48.97,00:07:51.21,Default,,0,0,0,,Yes, it’s on the street
-Dialogue: 0,00:07:51.61,00:07:53.93,Default,,0,0,0,,I saw Oli and Dr. Fu together
+Dialogue: 0,00:07:51.61,00:07:53.93,Default,,0,0,0,,I saw Aoli and Dr. Fu together
 Dialogue: 0,00:07:54.77,00:07:58.37,Default,,0,0,0,,This is impossible. The report must be correct
 Dialogue: 0,00:07:58.49,00:08:00.25,Default,,0,0,0,,Are you dazzled
 Dialogue: 0,00:08:05.89,00:08:07.73,Default,,0,0,0,,There are fragments of elephant star stones nearby
@@ -150,5 +150,5 @@ Dialogue: 0,00:11:56.65,00:11:57.57,Default,,0,0,0,,soil?
 Dialogue: 0,00:12:00.21,00:12:02.49,Default,,0,0,0,,Eat me a stew
 Dialogue: 0,00:12:17.49,00:12:20.39,Default,,0,0,0,,Don’t come over, help
 Dialogue: 0,00:12:20.41,00:12:21.85,Default,,0,0,0,,Dr. Fu
-Dialogue: 0,00:12:24.61,00:12:26.97,Default,,0,0,0,,Oli, save me
+Dialogue: 0,00:12:24.61,00:12:26.97,Default,,0,0,0,,Aoli, save me
 Dialogue: 0,00:12:29.85,00:12:30.93,Default,,0,0,0,,stop

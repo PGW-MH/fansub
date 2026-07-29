@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.13,00:00:21.13,Default,,0,0,0,,sorry
 Dialogue: 0,00:00:22.81,00:00:24.13,Default,,0,0,0,,I failed
 Dialogue: 0,00:00:25.25,00:00:27.57,Default,,0,0,0,,You’re useless
-Dialogue: 0,00:00:29.85,00:00:30.57,Default,,0,0,0,,PhD
+Dialogue: 0,00:00:29.85,00:00:30.57,Default,,0,0,0,,Doctor
 Dialogue: 0,00:00:31.73,00:00:32.57,Default,,0,0,0,,And it’s gone
 Dialogue: 0,00:00:33.01,00:00:34.61,Default,,0,0,0,,It’s better to use it to the end
 Dialogue: 0,00:00:35.49,00:00:37.81,Default,,0,0,0,,Maybe it can also play a role

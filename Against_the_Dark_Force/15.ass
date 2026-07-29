@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:20.09,00:00:21.01,Default,,0,0,0,,Princess Luna
-Dialogue: 0,00:00:21.37,00:00:24.17,Default,,0,0,0,,You have never said before that there are snowmen residents in the country of Weird Cat
+Dialogue: 0,00:00:21.37,00:00:24.17,Default,,0,0,0,,You have never said before that there are snowmen residents in the Qimao Kingdom
 Dialogue: 0,00:00:24.53,00:00:26.09,Default,,0,0,0,,It’s so amazing
 Dialogue: 0,00:00:26.25,00:00:27.69,Default,,0,0,0,,I don’t know much, either
 Dialogue: 0,00:00:28.17,00:00:31.37,Default,,0,0,0,,Princess Luna Are you Princess Luna?

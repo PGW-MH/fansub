@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:17.93,00:00:20.33,Default,,0,0,0,,The 56th experiment…
-Dialogue: 0,00:00:21.05,00:00:22.07,Default,,0,0,0,,Hello Oli
+Dialogue: 0,00:00:21.05,00:00:22.07,Default,,0,0,0,,Hello Aoli
 Dialogue: 0,00:00:22.09,00:00:23.89,Default,,0,0,0,,Can you hear me say
 Dialogue: 0,00:00:24.61,00:00:27.43,Default,,0,0,0,,Unusual function, successful startup
 Dialogue: 0,00:00:27.45,00:00:28.31,Default,,0,0,0,,Hello
@@ -26,10 +26,10 @@ Dialogue: 0,00:00:35.65,00:00:37.59,Default,,0,0,0,,My name is Dr. Fu
 Dialogue: 0,00:00:37.61,00:00:39.89,Default,,0,0,0,,A scientist living in the Science and Technology City
 Dialogue: 0,00:00:41.41,00:00:42.97,Default,,0,0,0,,DiDi Dr. Fu
 Dialogue: 0,00:00:47.17,00:00:50.37,Default,,0,0,0,,You are the smart robot I have developed by myself.
-Dialogue: 0,00:00:52.21,00:00:54.17,Default,,0,0,0,,Beep I’m Oli
+Dialogue: 0,00:00:52.21,00:00:54.17,Default,,0,0,0,,Beep I’m Aoli
 Dialogue: 0,00:00:56.37,00:00:59.37,Default,,0,0,0,,That’s right. From now on, we’ll be a family
 Dialogue: 0,00:00:59.61,00:01:00.61,Default,,0,0,0,,Family
-Dialogue: 0,00:01:04.65,00:01:07.31,Default,,0,0,0,,Oli I’ll take you there
+Dialogue: 0,00:01:04.65,00:01:07.31,Default,,0,0,0,,Aoli I’ll take you there
 Dialogue: 0,00:01:07.33,00:01:19.35,Default,,0,0,0,,How about it? How about it? How about it? How about it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it? Was it
 Dialogue: 0,00:01:19.37,00:01:22.45,Default,,0,0,0,,Doctor How is his eyes dripping
 Dialogue: 0,00:01:22.73,00:01:23.89,Default,,0,0,0,,This is called crying
@@ -49,35 +49,35 @@ Dialogue: 0,00:02:02.13,00:02:04.45,Default,,0,0,0,,Doctor, why didn’t he cry
 Dialogue: 0,00:02:05.13,00:02:07.57,Default,,0,0,0,,Because jokes make people happy
 Dialogue: 0,00:02:08.29,00:02:10.81,Default,,0,0,0,,Happiness will make people smile
 Dialogue: 0,00:02:10.97,00:02:13.97,Default,,0,0,0,,Then I will give you a joke every day
-Dialogue: 0,00:02:14.25,00:02:15.37,Default,,0,0,0,,How about Oli
+Dialogue: 0,00:02:14.25,00:02:15.37,Default,,0,0,0,,How about Aoli
 Dialogue: 0,00:02:15.53,00:02:17.81,Default,,0,0,0,,Have you felt the wonder of nature?
 Dialogue: 0,00:02:18.41,00:02:20.81,Default,,0,0,0,,Detected many life reactions
 Dialogue: 0,00:02:21.65,00:02:23.09,Default,,0,0,0,,Remove dirt
 Dialogue: 0,00:02:23.41,00:02:24.97,Default,,0,0,0,,Wait…wait for a while
-Dialogue: 0,00:02:26.29,00:02:28.71,Default,,0,0,0,,Oli, every life is precious
+Dialogue: 0,00:02:26.29,00:02:28.71,Default,,0,0,0,,Aoli, every life is precious
 Dialogue: 0,00:02:28.73,00:02:30.37,Default,,0,0,0,,Don’t harm it
 Dialogue: 0,00:02:31.21,00:02:33.49,Default,,0,0,0,,They are all trying to survive
 Dialogue: 0,00:02:34.33,00:02:36.93,Default,,0,0,0,,Even if they are small and fragile
 Dialogue: 0,00:02:37.33,00:02:39.29,Default,,0,0,0,,Have the right to survive
-Dialogue: 0,00:02:42.33,00:02:44.49,Default,,0,0,0,,The view is great Oli
+Dialogue: 0,00:02:42.33,00:02:44.49,Default,,0,0,0,,The view is great Aoli
 Dialogue: 0,00:02:44.89,00:02:46.89,Default,,0,0,0,,On the stars in this sky
 Dialogue: 0,00:02:47.05,00:02:50.13,Default,,0,0,0,,Su contains many unknown materials and energy
 Dialogue: 0,00:02:50.65,00:02:53.09,Default,,0,0,0,,I really want to study them
-Dialogue: 0,00:02:57.89,00:03:00.49,Default,,0,0,0,,Oli I’m going on a business trip
-Dialogue: 0,00:03:00.97,00:03:03.57,Default,,0,0,0,,Oli must wait for me to come back
+Dialogue: 0,00:02:57.89,00:03:00.49,Default,,0,0,0,,Aoli I’m going on a business trip
+Dialogue: 0,00:03:00.97,00:03:03.57,Default,,0,0,0,,Aoli must wait for me to come back
 Dialogue: 0,00:03:04.65,00:03:05.81,Default,,0,0,0,,knew
 Dialogue: 0,00:03:14.77,00:03:16.19,Default,,0,0,0,,Finally came back
-Dialogue: 0,00:03:16.21,00:03:20.03,Default,,0,0,0,,Go home and see Oli… Yes
+Dialogue: 0,00:03:16.21,00:03:20.03,Default,,0,0,0,,Go home and see Aoli… Yes
 Dialogue: 0,00:03:20.05,00:03:21.15,Default,,0,0,0,,What is this…
 Dialogue: 0,00:03:21.17,00:03:23.13,Default,,0,0,0,,Welcome back Doctor
 Dialogue: 0,00:03:24.45,00:03:25.31,Default,,0,0,0,,O’er…O’er
 Dialogue: 0,00:03:25.33,00:03:27.85,Default,,0,0,0,,Have you not opened here?
 Dialogue: 0,00:03:29.45,00:03:32.19,Default,,0,0,0,,Oh, silly kid…yes
-Dialogue: 0,00:03:32.21,00:03:35.89,Default,,0,0,0,,Haha Oli Your gift
-Dialogue: 0,00:03:38.41,00:03:40.85,Default,,0,0,0,,Oli I’ll teach you how to make oil noodles
+Dialogue: 0,00:03:32.21,00:03:35.89,Default,,0,0,0,,Haha Aoli Your gift
+Dialogue: 0,00:03:38.41,00:03:40.85,Default,,0,0,0,,Aoli I’ll teach you how to make oil noodles
 Dialogue: 0,00:03:41.73,00:03:43.21,Default,,0,0,0,,Pay attention to maintaining balance
 Dialogue: 0,00:03:44.81,00:03:46.33,Default,,0,0,0,,Try new parts
-Dialogue: 0,00:03:50.93,00:03:52.53,Default,,0,0,0,,Oli is about to come out
+Dialogue: 0,00:03:50.93,00:03:52.53,Default,,0,0,0,,Aoli is about to come out
 Dialogue: 0,00:03:53.73,00:03:54.65,Default,,0,0,0,,knew
 Dialogue: 0,00:04:10.89,00:04:12.71,Default,,0,0,0,,Oh…
 Dialogue: 0,00:04:12.73,00:04:14.41,Default,,0,0,0,,Just pass this device
@@ -149,13 +149,13 @@ Dialogue: 0,00:07:44.17,00:07:47.25,Default,,0,0,0,,Dr. Fu, you’re fine
 Dialogue: 0,00:07:48.33,00:07:51.13,Default,,0,0,0,,Hum, you crazy scientist, leave here
 Dialogue: 0,00:07:52.57,00:07:54.73,Default,,0,0,0,,Doctor Violent
 Dialogue: 0,00:07:55.37,00:07:57.89,Default,,0,0,0,,Demonstration clearance immediately
-Dialogue: 0,00:08:00.05,00:08:04.85,Default,,0,0,0,,Oli No…No harm to them
+Dialogue: 0,00:08:00.05,00:08:04.85,Default,,0,0,0,,Aoli No…No harm to them
 Dialogue: 0,00:08:05.89,00:08:06.73,Default,,0,0,0,,But…
-Dialogue: 0,00:08:09.85,00:08:15.91,Default,,0,0,0,,Oli You are a listening child, you must be a kind robot
+Dialogue: 0,00:08:09.85,00:08:15.91,Default,,0,0,0,,Aoli You are a listening child, you must be a kind robot
 Dialogue: 0,00:08:15.93,00:08:16.45,Default,,0,0,0,,Um
 Dialogue: 0,00:08:25.93,00:08:29.37,Default,,0,0,0,,Sorry, I can’t take you with me this experiment
 Dialogue: 0,00:08:29.69,00:08:31.89,Default,,0,0,0,,Dr. Fu Your luggage
-Dialogue: 0,00:08:32.57,00:08:36.41,Default,,0,0,0,,Thank you Oli, I’ll leave first
+Dialogue: 0,00:08:32.57,00:08:36.41,Default,,0,0,0,,Thank you Aoli, I’ll leave first
 Dialogue: 0,00:08:46.57,00:08:47.73,Default,,0,0,0,,Dr. Fu…
 Dialogue: 0,00:08:48.89,00:08:49.93,Default,,0,0,0,,What’s up
 Dialogue: 0,00:08:57.33,00:08:59.21,Default,,0,0,0,,Pay attention to safety on the road
@@ -163,7 +163,7 @@ Dialogue: 0,00:09:02.25,00:09:06.35,Default,,0,0,0,,Yes, although this experimen
 Dialogue: 0,00:09:06.37,00:09:08.09,Default,,0,0,0,,But you don’t have to worry about it.
 Dialogue: 0,00:09:08.81,00:09:10.77,Default,,0,0,0,,I’ll be back soon
 Dialogue: 0,00:09:10.85,00:09:13.17,Default,,0,0,0,,You will be presented with a gift at that time
-Dialogue: 0,00:09:18.61,00:09:21.29,Default,,0,0,0,,Oli will wait for the doctor to come back
+Dialogue: 0,00:09:18.61,00:09:21.29,Default,,0,0,0,,Aoli will wait for the doctor to come back
 Dialogue: 0,00:10:33.09,00:10:36.13,Default,,0,0,0,,The system… is severely damaged
 Dialogue: 0,00:10:36.21,00:10:38.49,Default,,0,0,0,,It’s about to… stop running
 Dialogue: 0,00:10:38.89,00:10:40.41,Default,,0,0,0,,Keep going like this
@@ -179,13 +179,13 @@ Dialogue: 0,00:11:11.21,00:11:12.73,Default,,0,0,0,,You think it through yoursel
 Dialogue: 0,00:11:12.81,00:11:14.29,Default,,0,0,0,,This slowly decays
 Dialogue: 0,00:11:14.61,00:11:16.65,Default,,0,0,0,,You can’t wait for Dr. Fu to come back
 Dialogue: 0,00:11:17.01,00:11:18.53,Default,,0,0,0,,Dr. Fu…
-Dialogue: 0,00:11:20.17,00:11:26.85,Default,,0,0,0,,Oli…Oli…Oli…Oli…
+Dialogue: 0,00:11:20.17,00:11:26.85,Default,,0,0,0,,Aoli…Aoli…Aoli…Aoli…
 Dialogue: 0,00:11:31.85,00:11:34.13,Default,,0,0,0,,OK I’ll promise you…
 Dialogue: 0,00:11:36.97,00:11:42.13,Default,,0,0,0,,This time… I won’t separate it with Dr. Fu again…
-Dialogue: 0,00:11:53.49,00:11:54.71,Default,,0,0,0,,Oli…
+Dialogue: 0,00:11:53.49,00:11:54.71,Default,,0,0,0,,Aoli…
 Dialogue: 0,00:11:54.73,00:11:57.29,Default,,0,0,0,,You may not be able to attack Dr. Fu
 Dialogue: 0,00:12:02.97,00:12:03.73,Default,,0,0,0,,ah
-Dialogue: 0,00:12:04.17,00:12:04.75,Default,,0,0,0,,Oli
+Dialogue: 0,00:12:04.17,00:12:04.75,Default,,0,0,0,,Aoli
 Dialogue: 0,00:12:04.77,00:12:05.93,Default,,0,0,0,,A little cold
 Dialogue: 0,00:12:08.65,00:12:10.73,Default,,0,0,0,,This doctor is just a fake
 Dialogue: 0,00:12:12.49,00:12:14.77,Default,,0,0,0,,He is the monster that the card depends on

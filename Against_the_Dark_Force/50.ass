@@ -16,7 +16,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:19.25,00:00:21.93,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:00:22.17,00:00:23.19,Default,,0,0,0,,From now on
-Dialogue: 0,00:00:23.21,00:00:26.27,Default,,0,0,0,,I’m the strongest person in the entire cat country
+Dialogue: 0,00:00:23.21,00:00:26.27,Default,,0,0,0,,I’m the strongest person in the entire Qimao Kingdom
 Dialogue: 0,00:00:26.29,00:00:28.97,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:00:29.25,00:00:31.25,Default,,0,0,0,,Take them all to the dungeon
 Dialogue: 0,00:00:38.37,00:00:41.81,Default,,0,0,0,,I understand, just do what Luna said
@@ -32,7 +32,7 @@ Dialogue: 0,00:01:19.09,00:01:20.03,Default,,0,0,0,,- Luna… - Hahaha…
 Dialogue: 0,00:01:20.05,00:01:20.95,Default,,0,0,0,,Hahaha…
 Dialogue: 0,00:01:20.97,00:01:23.01,Default,,0,0,0,,But it’s a story
 Dialogue: 0,00:01:23.53,00:01:24.97,Default,,0,0,0,,What are you so afraid of doing
-Dialogue: 0,00:01:25.37,00:01:28.09,Default,,0,0,0,,I’m the strongest in the entire cat country now
+Dialogue: 0,00:01:25.37,00:01:28.09,Default,,0,0,0,,I’m the strongest in the entire Qimao Kingdom now
 Dialogue: 0,00:01:28.33,00:01:29.49,Default,,0,0,0,,I won’t leave
 Dialogue: 0,00:01:30.77,00:01:32.89,Default,,0,0,0,,The power I have now
 Dialogue: 0,00:01:33.41,00:01:35.49,Default,,0,0,0,,Whether it is the storied drama, it’s good
@@ -89,14 +89,14 @@ Dialogue: 0,00:04:36.05,00:04:38.65,Default,,0,0,0,,But… your body…
 Dialogue: 0,00:04:38.97,00:04:39.73,Default,,0,0,0,,I’m not afraid
 Dialogue: 0,00:04:40.37,00:04:43.17,Default,,0,0,0,,Even if I want to sacrifice my life
 Dialogue: 0,00:04:43.65,00:04:45.65,Default,,0,0,0,,I want to save Luna, too
-Dialogue: 0,00:04:46.25,00:04:48.17,Default,,0,0,0,,Save the cat country back
+Dialogue: 0,00:04:46.25,00:04:48.17,Default,,0,0,0,,Save the Qimao Kingdom back
 Dialogue: 0,00:04:48.77,00:04:50.09,Default,,0,0,0,,This is our home
 Dialogue: 0,00:04:51.05,00:04:52.77,Default,,0,0,0,,As long as I have the last breath
 Dialogue: 0,00:04:53.81,00:04:56.25,Default,,0,0,0,,You can’t just watch others destroy it
 Dialogue: 0,00:04:56.37,00:04:57.49,Default,,0,0,0,,Do nothing
 Dialogue: 0,00:05:05.73,00:05:08.57,Default,,0,0,0,,Want… want to do… what do you want to do…
 Dialogue: 0,00:05:13.73,00:05:15.09,Default,,0,0,0,,you…
-Dialogue: 0,00:05:15.77,00:05:18.05,Default,,0,0,0,,We also want to make some effort to the cat country
+Dialogue: 0,00:05:15.77,00:05:18.05,Default,,0,0,0,,We also want to make some effort to the Qimao Kingdom
 Dialogue: 0,00:05:18.45,00:05:20.45,Default,,0,0,0,,I am worthy of being the soldier I teach
 Dialogue: 0,00:05:20.69,00:05:22.13,Default,,0,0,0,,Ha ha ha ha…
 Dialogue: 0,00:05:23.97,00:05:25.09,Default,,0,0,0,,tomorrow…
@@ -156,7 +156,7 @@ Dialogue: 0,00:10:17.13,00:10:18.97,Default,,0,0,0,,I’m a little anxious, too
 Dialogue: 0,00:10:21.17,00:10:23.97,Default,,0,0,0,,It’s time and I’m still joking
 Dialogue: 0,00:10:26.93,00:10:31.29,Default,,0,0,0,,Alas I just don’t want everyone to be too depressed
 Dialogue: 0,00:10:31.89,00:10:33.09,Default,,0,0,0,,I’m very guilty
-Dialogue: 0,00:10:33.89,00:10:36.33,Default,,0,0,0,,I am the king of the country at this time
+Dialogue: 0,00:10:33.89,00:10:36.33,Default,,0,0,0,,I am the King at this time
 Dialogue: 0,00:10:36.49,00:10:38.97,Default,,0,0,0,,I don’t have the ability to fight with everyone
 Dialogue: 0,00:10:39.25,00:10:42.29,Default,,0,0,0,,The only thing I can do is protect you
 Dialogue: 0,00:10:42.65,00:10:44.05,Default,,0,0,0,,Don’t distract them

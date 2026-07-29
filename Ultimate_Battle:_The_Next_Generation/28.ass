@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:19.74,00:00:22.50,Default,,0,0,0,,After searching for two days, I still couldn’t find Bu Lei
+Dialogue: 0,00:00:19.74,00:00:22.50,Default,,0,0,0,,After searching for two days, I still couldn’t find Bulei
 Dialogue: 0,00:00:24.34,00:00:25.38,Default,,0,0,0,,Jonie
 Dialogue: 0,00:00:25.90,00:00:28.50,Default,,0,0,0,,Is she really the friend you were a kid?
 Dialogue: 0,00:00:29.58,00:00:33.06,Default,,0,0,0,,I…I don’t know, but I want to save her
