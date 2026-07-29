@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:29.45,00:00:30.81,Default,,0,0,0,,Why is it so chaotic
 Dialogue: 0,00:00:46.05,00:00:48.05,Default,,0,0,0,,There is actually a secret room here
 Dialogue: 0,00:01:10.25,00:01:10.97,Default,,0,0,0,,That’s…
-Dialogue: 0,00:01:11.85,00:01:15.01,Default,,0,0,0,,Is this the dark energy that will turn tomorrow black?
+Dialogue: 0,00:01:11.85,00:01:15.01,Default,,0,0,0,,Is this the dark force that will turn tomorrow black?
 Dialogue: 0,00:01:15.45,00:01:16.45,Default,,0,0,0,,That’s right
 Dialogue: 0,00:01:17.37,00:01:18.77,Default,,0,0,0,,Just put it there?
 Dialogue: 0,00:01:19.13,00:01:20.85,Default,,0,0,0,,What if anyone comes to steal
@@ -25,7 +25,7 @@ Dialogue: 0,00:01:25.41,00:01:27.05,Default,,0,0,0,,Be careful not to get close
 Dialogue: 0,00:01:32.97,00:01:34.73,Default,,0,0,0,,ah…
 Dialogue: 0,00:01:35.13,00:01:36.09,Default,,0,0,0,,Squat down
 Dialogue: 0,00:01:41.53,00:01:43.73,Default,,0,0,0,,So scary, what’s going on
-Dialogue: 0,00:01:45.89,00:01:48.77,Default,,0,0,0,,To prevent anyone from stealing dark energy
+Dialogue: 0,00:01:45.89,00:01:48.77,Default,,0,0,0,,To prevent anyone from stealing dark force
 Dialogue: 0,00:01:49.09,00:01:51.17,Default,,0,0,0,,I’ve already added a barrier
 Dialogue: 0,00:01:52.37,00:01:55.05,Default,,0,0,0,,Then don’t worry about someone stealing it again
 Dialogue: 0,00:01:55.65,00:01:57.49,Default,,0,0,0,,But is this really safe?
@@ -39,7 +39,7 @@ Dialogue: 0,00:02:13.65,00:02:16.01,Default,,0,0,0,,The King of the Kingdom This
 Dialogue: 0,00:02:16.17,00:02:18.25,Default,,0,0,0,,How can I say it out in a casual way
 Dialogue: 0,00:02:18.93,00:02:20.45,Default,,0,0,0,,Yes! …
 Dialogue: 0,00:02:23.09,00:02:24.61,Default,,0,0,0,,What happened? Fulai?
-Dialogue: 0,00:02:24.77,00:02:26.49,Default,,0,0,0,,Dark energy is fine
+Dialogue: 0,00:02:24.77,00:02:26.49,Default,,0,0,0,,dark force is fine
 Dialogue: 0,00:02:26.85,00:02:29.77,Default,,0,0,0,,But… When will Luna wake up
 Dialogue: 0,00:02:30.73,00:02:32.13,Default,,0,0,0,,It’s definitely nothing
 Dialogue: 0,00:02:32.45,00:02:33.37,Default,,0,0,0,,Um
@@ -86,7 +86,7 @@ Dialogue: 0,00:05:19.45,00:05:20.17,Default,,0,0,0,,Luna…
 Dialogue: 0,00:05:21.29,00:05:23.89,Default,,0,0,0,,Sister…it’s great, you’re fine
 Dialogue: 0,00:05:24.73,00:05:25.69,Default,,0,0,0,,Yes Luna
 Dialogue: 0,00:05:25.89,00:05:26.77,Default,,0,0,0,,I’m fine
-Dialogue: 0,00:05:27.25,00:05:29.85,Default,,0,0,0,,You’ve sucked out all my dark energy
+Dialogue: 0,00:05:27.25,00:05:29.85,Default,,0,0,0,,You’ve sucked out all my dark force
 Dialogue: 0,00:05:30.57,00:05:31.61,Default,,0,0,0,,Thank you
 Dialogue: 0,00:05:34.37,00:05:36.07,Default,,0,0,0,,You’re fine, right
 Dialogue: 0,00:05:36.09,00:05:36.89,Default,,0,0,0,,Um
@@ -112,7 +112,7 @@ Dialogue: 0,00:06:41.37,00:06:43.49,Default,,0,0,0,,I never had a chance to apol
 Dialogue: 0,00:06:43.65,00:06:46.85,Default,,0,0,0,,I was so sorry to you at that time…
 Dialogue: 0,00:06:53.41,00:06:54.37,Default,,0,0,0,,sorry…
 Dialogue: 0,00:07:01.49,00:07:02.57,Default,,0,0,0,,It’s okay
-Dialogue: 0,00:07:02.73,00:07:04.93,Default,,0,0,0,,You are also affected by dark energy
+Dialogue: 0,00:07:02.73,00:07:04.93,Default,,0,0,0,,You are also affected by dark force
 Dialogue: 0,00:07:05.29,00:07:07.81,Default,,0,0,0,,We believe you won’t hurt everyone again
 Dialogue: 0,00:07:10.57,00:07:13.29,Default,,0,0,0,,Yes, and because of this time
 Dialogue: 0,00:07:13.49,00:07:16.21,Default,,0,0,0,,We have become more cherishing our friendship
@@ -195,7 +195,7 @@ Dialogue: 0,00:12:01.45,00:12:02.41,Default,,0,0,0,,Luna…
 Dialogue: 0,00:12:02.85,00:12:04.85,Default,,0,0,0,,Luna…
 Dialogue: 0,00:12:06.29,00:12:07.05,Default,,0,0,0,,Luna
 Dialogue: 0,00:12:15.61,00:12:17.57,Default,,0,0,0,,Nothing, just fainted
-Dialogue: 0,00:12:17.93,00:12:19.89,Default,,0,0,0,,After absorbing dark energy
+Dialogue: 0,00:12:17.93,00:12:19.89,Default,,0,0,0,,After absorbing dark force
 Dialogue: 0,00:12:20.77,00:12:23.01,Default,,0,0,0,,Luna shouldn’t recover yet
 Dialogue: 0,00:12:23.53,00:12:25.49,Default,,0,0,0,,Then let’s leave first
 Dialogue: 0,00:12:25.77,00:12:27.09,Default,,0,0,0,,Let her have a good rest
