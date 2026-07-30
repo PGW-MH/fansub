@@ -27,7 +27,7 @@ Dialogue: 0,0:00:21.32,0:00:23.48,Default,,0,0,0,,They were all very nervous.
 Dialogue: 0,0:00:23.48,0:00:28.36,Default,,0,0,0,,And four of the goats all went out to train separately, without prior arrangement.
 Dialogue: 0,0:00:29.16,0:00:32.20,Default,,0,0,0,,And each of them made some breakthroughs.
 Dialogue: 0,0:00:32.20,0:00:36.76,Default,,0,0,0,,Only Paddi remained soundly asleep.
-Dialogue: 0,0:00:39.08,0:00:41.88,Default,,0,0,0,,Today is the Guardians’ first match.
+Dialogue: 0,0:00:39.08,0:00:41.88,Default,,0,0,0,,Today is the Defenders’ first match.
 Dialogue: 0,0:00:41.88,0:00:43.08,Default,,0,0,0,,Keep it up, everyone!
 Dialogue: 0,0:00:43.72,0:00:48.04,Default,,0,0,0,,Blazey and I prepared a surprise in your backpacks.
 Dialogue: 0,0:00:50.36,0:00:51.48,Default,,0,0,0,,It’s a jersey.
@@ -39,12 +39,12 @@ Dialogue: 0,0:01:24.92,0:01:28.20,Default,,0,0,0,,I’m your host, Moki.
 Dialogue: 0,0:01:29.08,0:01:32.12,Default,,0,0,0,,The highly anticipated first match is about to begin.
 Dialogue: 0,0:01:32.12,0:01:36.36,Default,,0,0,0,,Please give a warm round of applause to welcome our first team.
 Dialogue: 0,0:01:36.36,0:01:38.52,Default,,0,0,0,,Team Defenders
-Dialogue: 0,0:01:43.88,0:01:45.64,Default,,0,0,0,,Go, little sheep (goats)!
+Dialogue: 0,0:01:43.88,0:01:45.64,Default,,0,0,0,,Go, little goats!
 Dialogue: 0,0:01:45.64,0:01:49.80,Default,,0,0,0,,Don’t waste the space I gave up for drying clothes so you could practice!
 Dialogue: 0,0:01:55.08,0:01:58.36,Default,,0,0,0,,There are no spectators, what are you nervous about?
 Dialogue: 0,0:01:58.36,0:02:01.16,Default,,0,0,0,,And you, you even wore your jersey backwards!
 Dialogue: 0,0:02:05.08,0:02:11.16,Default,,0,0,0,,Next, another team was arrogant and agile.
-Dialogue: 0,0:02:11.16,0:02:13.72,Default,,0,0,0,,Team Rats
+Dialogue: 0,0:02:11.16,0:02:13.72,Default,,0,0,0,,Team Thunder Rats
 Dialogue: 0,0:02:18.36,0:02:23.88,Default,,0,0,0,,It’s all your fault for being too weak; no one’s watching the game anymore.
 Dialogue: 0,0:02:28.52,0:02:31.24,Default,,0,0,0,,Coach, if they lose
 Dialogue: 0,0:02:31.24,0:02:35.32,Default,,0,0,0,,You should teach us; we have much more potential.
@@ -56,18 +56,18 @@ Dialogue: 0,0:03:04.44,0:03:06.84,Default,,0,0,0,,Okay, the referee is ready to 
 Dialogue: 0,0:03:07.24,0:03:10.44,Default,,0,0,0,,Both teams’ centers are very focused.
 Dialogue: 0,0:03:11.00,0:03:14.44,Default,,0,0,0,,Who will have possession of the first ball?
 Dialogue: 0,0:03:18.68,0:03:20.44,Default,,0,0,0,,Oh no, I jumped too early.
-Dialogue: 0,0:03:25.32,0:03:27.96,Default,,0,0,0,,Team Rats gained possession of the ball.
+Dialogue: 0,0:03:25.32,0:03:27.96,Default,,0,0,0,,Team Thunder Rats gained possession of the ball.
 Dialogue: 0,0:03:29.96,0:03:31.88,Default,,0,0,0,,I won’t let you score.
 Dialogue: 0,0:03:38.12,0:03:39.80,Default,,0,0,0,,feints
 Dialogue: 0,0:03:40.44,0:03:45.16,Default,,0,0,0,,Passing you is as easy as crossing the street.
-Dialogue: 0,0:03:45.96,0:03:49.48,Default,,0,0,0,,Team Rats scored the first two points of the game.
+Dialogue: 0,0:03:45.96,0:03:49.48,Default,,0,0,0,,Team Thunder Rats scored the first two points of the game.
 Dialogue: 0,0:03:53.48,0:03:54.84,Default,,0,0,0,,Overestimating one’s abilities
 Dialogue: 0,0:03:55.96,0:04:00.20,Default,,0,0,0,,It’s okay, we just need to play steadily and score points.
 Dialogue: 0,0:04:01.40,0:04:05.80,Default,,0,0,0,,Okay, so how will Team Defenders retaliate next?
 Dialogue: 0,0:04:09.48,0:04:10.04,Default,,0,0,0,,55
 Dialogue: 0,0:04:11.08,0:04:12.36,Default,,0,0,0,,I can do it.
 Dialogue: 0,0:04:12.76,0:04:14.60,Default,,0,0,0,,Team Defenders was dispossessed.
-Dialogue: 0,0:04:16.36,0:04:18.68,Default,,0,0,0,,Team Rats scored two more points.
+Dialogue: 0,0:04:16.36,0:04:18.68,Default,,0,0,0,,Team Thunder Rats scored two more points.
 Dialogue: 0,0:04:20.12,0:04:23.08,Default,,0,0,0,,It seems Team Defenders aren’t in very good shape.
 Dialogue: 0,0:04:26.12,0:04:28.44,Default,,0,0,0,,You need to time your shot correctly.
 Dialogue: 0,0:04:28.44,0:04:32.28,Default,,0,0,0,,Paddi, run! Everyone’s starting their attack!
@@ -79,7 +79,7 @@ Dialogue: 0,0:05:03.80,0:05:05.32,Default,,0,0,0,,Too slow
 Dialogue: 0,0:05:07.48,0:05:09.64,Default,,0,0,0,,We succeeded! We finally…
 Dialogue: 0,0:05:11.00,0:05:12.12,Default,,0,0,0,,Yeah
 Dialogue: 0,0:05:16.04,0:05:18.60,Default,,0,0,0,,Team Defenders were dispossessed again.
-Dialogue: 0,0:05:20.92,0:05:24.36,Default,,0,0,0,,Team Rats executed a difficult spin layup.
+Dialogue: 0,0:05:20.92,0:05:24.36,Default,,0,0,0,,Team Thunder Rats executed a difficult spin layup.
 Dialogue: 0,0:05:24.84,0:05:27.96,Default,,0,0,0,,They went on a 12-0 run.
 Dialogue: 0,0:05:27.96,0:05:30.20,Default,,0,0,0,,Is there no other way?
 Dialogue: 0,0:05:30.52,0:05:34.76,Default,,0,0,0,,It seems you two are about the same as those other players who just made up the numbers.
@@ -130,7 +130,7 @@ Dialogue: 0,0:08:23.72,0:08:28.52,Default,,0,0,0,,They certainly didn’t expect
 Dialogue: 0,0:08:28.52,0:08:30.52,Default,,0,0,0,,Go and surprise them!
 Dialogue: 0,0:08:30.52,0:08:31.48,Default,,0,0,0,,yes
 Dialogue: 0,0:08:35.16,0:08:37.48,Default,,0,0,0,,This guy has a different aura.
-Dialogue: 0,0:09:12.44,0:09:13.32,Default,,0,0,0,,nice shot
+Dialogue: 0,0:09:12.44,0:09:13.32,Default,,0,0,0,,Nice shot.
 Dialogue: 0,0:09:14.12,0:09:16.68,Default,,0,0,0,,Team Defenders finally scored!
 Dialogue: 0,0:09:16.68,0:09:20.44,Default,,0,0,0,,That breakthrough was like lightning, so fast!
 Dialogue: 0,0:09:20.68,0:09:22.92,Default,,0,0,0,,Now you know how powerful we are, right?
@@ -152,10 +152,10 @@ Dialogue: 0,0:10:27.08,0:10:29.48,Default,,0,0,0,,Let’s wait and see.
 Dialogue: 0,0:10:36.76,0:10:41.08,Default,,0,0,0,,The second half began with a duel between the two team captains.
 Dialogue: 0,0:10:41.40,0:10:43.88,Default,,0,0,0,,Is it coming? Lightning Attack
 Dialogue: 0,0:10:51.88,0:10:53.40,Default,,0,0,0,,This…this is
-Dialogue: 0,0:10:53.88,0:10:56.84,Default,,0,0,0,,Team Rats were trying to defend against Weslie’s Lightning Attack.
+Dialogue: 0,0:10:53.88,0:10:56.84,Default,,0,0,0,,Team Thunder Rats were trying to defend against Weslie’s Lightning Attack.
 Dialogue: 0,0:10:56.84,0:10:58.68,Default,,0,0,0,,They actually used a three-man swarm.
 Dialogue: 0,0:10:59.56,0:11:01.88,Default,,0,0,0,,Sparky was also double-teamed.
-Dialogue: 0,0:11:02.20,0:11:04.04,Default,,0,0,0,,Team Rats stole the ball.
+Dialogue: 0,0:11:02.20,0:11:04.04,Default,,0,0,0,,Team Thunder Rats stole the ball.
 Dialogue: 0,0:11:05.48,0:11:07.08,Default,,0,0,0,,Fast break score
 Dialogue: 0,0:11:07.08,0:11:10.68,Default,,0,0,0,,The Team Rats has started targeting Weslie and Sparky, their two leading scorers.
 Dialogue: 0,0:11:10.68,0:11:13.48,Default,,0,0,0,,These little mice are so cunning!
