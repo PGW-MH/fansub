@@ -14,7 +14,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0,0,100,100,0,0,1,1.6,1.8,2,13,11,140,1
 Style: Title,Orbitron Black,87,&H00585D1A,&H000000FF,&H00FDFF41,&H00FDFF41,0,0,0,0,92,100,0,0,1,6,0,2,7,7,100,1
 Style: end,Cherry Bomb One,65,&H00E0BC2B,&H000000FF,&H0046140C,&H238C2930,0,0,0,0,100,100,0,0,1,4,4,3,9,150,23,1
-Style: lyrics,Cherry Bomb One,62,&H003ED3F8,&H000000FF,&H001D1755,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,3,2,13,11,140,1
+Style: lyrics,Cherry Bomb One,62,&H003ED3F8,&H000000FF,&H001D1755,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,3,2,13,11,150,1
 Style: lyrics1,Cherry Bomb One,62,&H003ED3F8,&H000000FF,&H001D1755,&H00FFFFFF,0,0,0,0,100,100,0,0,1,6,3,2,13,11,6,1
 
 [Events]
@@ -183,13 +183,13 @@ Dialogue: 0,0:11:19.96,0:11:22.32,Default,,0,0,0,,Congratulations to Team Wolves
 Dialogue: 0,0:11:22.32,0:11:24.20,Default,,0,0,0,,Their fierce battle against Team Defenders
 Dialogue: 0,0:11:24.20,0:11:27.16,Default,,0,0,0,,brought this Basketball Game to a perfect conclusion.
 Dialogue: 0,0:11:28.56,0:11:30.56,Default,,0,0,0,,So, what is your wish?
-Dialogue: 0,0:11:18.74,0:11:22.74,lyrics1,,0,0,0,,♪ Step forward and rush towards the hoop of hope ♪
-Dialogue: 0,0:11:22.74,0:11:26.70,lyrics1,,0,0,0,,♪ Leaping vigorously on the stage of youth ♪
-Dialogue: 0,0:11:26.70,0:11:30.54,lyrics1,,0,0,0,,♪ Running with speed ♪
-Dialogue: 0,0:11:30.54,0:11:34.54,lyrics1,,0,0,0,,♪ Proud and brave ♪
-Dialogue: 0,0:11:34.80,0:11:38.64,lyrics1,,0,0,0,,♪ Step forward and rush towards the hoop of hope ♪
-Dialogue: 0,0:11:38.76,0:11:42.86,lyrics1,,0,0,0,,♪ Dreams relentlessly breaking through the soil ♪
-Dialogue: 0,0:11:42.86,0:11:51.78,lyrics1,,0,0,0,,♪ Writing the champion’s anthem with hard work ♪
+Dialogue: 1,0:11:18.74,0:11:22.74,lyrics1,,0,0,0,,♪ Step forward and rush towards the hoop of hope ♪
+Dialogue: 1,0:11:22.74,0:11:26.70,lyrics1,,0,0,0,,♪ Leaping vigorously on the stage of youth ♪
+Dialogue: 1,0:11:26.70,0:11:30.54,lyrics1,,0,0,0,,♪ Running with speed ♪
+Dialogue: 1,0:11:30.54,0:11:34.54,lyrics1,,0,0,0,,♪ Proud and brave ♪
+Dialogue: 1,0:11:34.80,0:11:38.64,lyrics1,,0,0,0,,♪ Step forward and rush towards the hoop of hope ♪
+Dialogue: 1,0:11:38.76,0:11:42.86,lyrics1,,0,0,0,,♪ Dreams relentlessly breaking through the soil ♪
+Dialogue: 1,0:11:42.86,0:11:51.78,lyrics1,,0,0,0,,♪ Writing the champion’s anthem with hard work ♪
 Dialogue: 0,0:11:41.48,0:11:42.48,Default,,0,0,0,,My wish?
 Dialogue: 0,0:11:45.04,0:11:48.96,Default,,0,0,0,,My wish is to take our basketball game even further!
 Dialogue: 0,0:12:00.40,0:12:02.40,Default,,0,0,0,,I don’t see any “Doctor” here.
