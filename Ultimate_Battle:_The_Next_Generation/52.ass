@@ -15,7 +15,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,00:00:21.62,00:00:22.38,Default,,0,0,0,,Very good
-Dialogue: 0,00:00:22.62,00:00:25.10,Default,,0,0,0,,The crisis in Science and Technology City was finally lifted
+Dialogue: 0,00:00:22.62,00:00:25.10,Default,,0,0,0,,The crisis in Technology City was finally lifted
 Dialogue: 0,00:00:25.86,00:00:28.22,Default,,0,0,0,,Now just find the remaining cards
 Dialogue: 0,00:00:28.30,00:00:30.46,Default,,0,0,0,,You can restore the star stone
 Dialogue: 0,00:00:31.10,00:00:33.86,Default,,0,0,0,,Then there is a chance to help Weslie and others go back

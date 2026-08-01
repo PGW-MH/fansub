@@ -22,7 +22,7 @@ Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes:
 Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,The Lion’s Dream
 Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.40,0:00:20.44,Default,,0,0,0,,In the previous episode, we learned that after the goats defeated the Team Rats…
+Dialogue: 0,0:00:17.40,0:00:20.44,Default,,0,0,0,,In the previous episode, we learned that after the goats defeated Team Rats…
 Dialogue: 0,0:00:20.44,0:00:23.40,Default,,0,0,0,,Blazey continues to train his fundamentals as always.
 Dialogue: 0,0:00:23.40,0:00:26.68,Default,,0,0,0,,Sparky wants to learn cooler basketball skills.
 Dialogue: 0,0:00:26.84,0:00:31.08,Default,,0,0,0,,So he trained alone, but unexpectedly ran into the popular idol Lion Jay.
@@ -35,7 +35,7 @@ Dialogue: 0,0:00:57.80,0:01:02.84,Default,,0,0,0,,He leaves right after practice
 Dialogue: 0,0:01:02.84,0:01:04.84,Default,,0,0,0,,I don’t care what he wants to do.
 Dialogue: 0,0:01:05.56,0:01:09.48,Default,,0,0,0,,I don’t want to do anything anymore, I want to rest.
 Dialogue: 0,0:01:12.68,0:01:13.88,Default,,0,0,0,,children
-Dialogue: 0,0:01:13.88,0:01:17.80,Default,,0,0,0,,Your task tomorrow is to observe the Team Lion Heart’s training session.
+Dialogue: 0,0:01:13.88,0:01:17.80,Default,,0,0,0,,Your task tomorrow is to observe Team Lion Heart’s training session.
 Dialogue: 0,0:01:18.52,0:01:20.52,Default,,0,0,0,,Only then can you know yourself and your enemy.
 Dialogue: 0,0:01:23.16,0:01:25.48,Default,,0,0,0,,No training tomorrow
 Dialogue: 0,0:01:33.88,0:01:34.52,Default,,0,0,0,,Let’s begin.
@@ -163,21 +163,21 @@ Dialogue: 0,0:09:31.24,0:09:34.28,Default,,0,0,0,,Therefore, being a good coach 
 Dialogue: 0,0:09:34.28,0:09:36.36,Default,,0,0,0,,The fundamentals are the most important.
 Dialogue: 0,0:09:37.16,0:09:40.68,Default,,0,0,0,,As long as you keep training, dunking will be a piece of cake.
 Dialogue: 0,0:09:42.28,0:09:43.08,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:09:52.28,0:09:55.96,Default,,0,0,0,,Come on, today I’ll teach you the most important technique of Power Forward.
-Dialogue: 0,0:09:56.92,0:09:58.60,Default,,0,0,0,,The most important skills
-Dialogue: 0,0:09:59.24,0:09:59.80,Default,,0,0,0,,That’s right
+Dialogue: 0,0:09:52.28,0:09:55.96,Default,,0,0,0,,Come on, today I’ll teach you the most important skill for a power forward.
+Dialogue: 0,0:09:56.92,0:09:58.60,Default,,0,0,0,,The most important skill?
+Dialogue: 0,0:09:59.24,0:09:59.80,Default,,0,0,0,,That’s right.
 Dialogue: 0,0:10:00.84,0:10:02.36,Default,,0,0,0,,It’s about grabbing rebounds.
-Dialogue: 0,0:10:03.16,0:10:04.28,Default,,0,0,0,,Cricket
-Dialogue: 0,0:10:04.92,0:10:06.44,Default,,0,0,0,,The most important thing in rebounding
-Dialogue: 0,0:10:06.44,0:10:09.56,Default,,0,0,0,,It’s about predicting where the ball will land after it bounces off the rim.
-Dialogue: 0,0:10:13.72,0:10:15.32,Default,,0,0,0,,Start one step earlier than others
-Dialogue: 0,0:10:15.80,0:10:19.08,Default,,0,0,0,,You’ll have more chances to get the rebound than others.
-Dialogue: 0,0:10:22.28,0:10:24.36,Default,,0,0,0,,Get back the ball you missed.
-Dialogue: 0,0:10:25.32,0:10:27.56,Default,,0,0,0,,Create more opportunities for teammates to attack
+Dialogue: 0,0:10:03.16,0:10:04.28,Default,,0,0,0,,Rebounds?
+Dialogue: 0,0:10:04.92,0:10:06.44,Default,,0,0,0,,The key to rebounding
+Dialogue: 0,0:10:06.44,0:10:09.56,Default,,0,0,0,,is anticipating where the ball will land after bouncing off the rim,
+Dialogue: 0,0:10:13.72,0:10:15.32,Default,,0,0,0,,and moving a step ahead of everyone else.
+Dialogue: 0,0:10:15.80,0:10:19.08,Default,,0,0,0,,That way, you have a better chance than the others of grabbing the rebound,
+Dialogue: 0,0:10:22.28,0:10:24.36,Default,,0,0,0,,recovering missed shots,
+Dialogue: 0,0:10:25.32,0:10:27.56,Default,,0,0,0,,and creating more offensive opportunities for your teammates.
 Dialogue: 0,0:10:28.68,0:10:29.72,Default,,0,0,0,,This is the rebound.
-Dialogue: 0,0:10:31.24,0:10:35.16,Default,,0,0,0,,Whoever controls the rebounds can dominate the game.
-Dialogue: 0,0:10:37.56,0:10:38.52,Default,,0,0,0,,Really
-Dialogue: 0,0:10:39.08,0:10:39.96,Default,,0,0,0,,Of course
+Dialogue: 0,0:10:31.24,0:10:35.16,Default,,0,0,0,,Whoever controls the rebounds dominates the game.
+Dialogue: 0,0:10:37.56,0:10:38.52,Default,,0,0,0,,Really?
+Dialogue: 0,0:10:39.08,0:10:39.96,Default,,0,0,0,,Of course.
 Dialogue: 0,0:10:40.76,0:10:45.24,Default,,0,0,0,,Let’s get started! Basketball is so much fun!
 Dialogue: 0,0:10:53.24,0:10:57.88,Default,,0,0,0,,Sparky has been disappearing lately, what has he been up to?
 Dialogue: 0,0:10:57.88,0:10:58.68,Default,,0,0,0,,Lion Jay

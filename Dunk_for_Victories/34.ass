@@ -33,7 +33,6 @@ Dialogue: 0,0:00:44.04,0:00:45.80,Default,,0,0,0,,Excellent, children!
 Dialogue: 0,0:00:45.80,0:00:48.28,Default,,0,0,0,,In the second half, just keep an eye on Team Sonic.
 Dialogue: 0,0:00:48.28,0:00:51.08,Default,,0,0,0,,Their stamina definitely can’t keep up.
 Dialogue: 0,0:00:52.20,0:00:57.80,Default,,0,0,0,,Don’t let your guard down, they definitely have a way to deal with this.
-Dialogue: 0,0:00:57.80,0:00:58.12,Default,,0,0,0,,SS
 Dialogue: 0,0:00:58.12,0:01:02.20,Default,,0,0,0,,They will definitely continue to use this tactic to wear us down in the second half.
 Dialogue: 0,0:01:02.44,0:01:07.80,Default,,0,0,0,,Tibbie, your opponent might adjust their formation to counter you in the next match.
 Dialogue: 0,0:01:08.20,0:01:11.72,Default,,0,0,0,,To reduce energy consumption, let’s use that move.
@@ -49,7 +48,6 @@ Dialogue: 0,0:02:34.52,0:02:36.12,Default,,0,0,0,,Things you can think of
 Dialogue: 0,0:02:36.76,0:02:39.48,Default,,0,0,0,,Do you think we wouldn’t think of that?
 Dialogue: 0,0:02:40.60,0:02:43.32,Default,,0,0,0,,Don’t panic, everyone, hurry back!
 Dialogue: 0,0:03:00.12,0:03:01.32,Default,,0,0,0,,Defend
-Dialogue: 0,0:03:01.80,0:03:03.96,Default,,0,0,0,,CVC
 Dialogue: 0,0:03:11.80,0:03:15.08,Default,,0,0,0,,What just happened? How did Team Sonic score?
 Dialogue: 0,0:03:15.40,0:03:17.80,Default,,0,0,0,,Just now… what was that?
 Dialogue: 0,0:03:21.72,0:03:24.04,Default,,0,0,0,,After the opponent’s small forward intercepted the ball
@@ -59,27 +57,25 @@ Dialogue: 0,0:03:29.80,0:03:32.28,Default,,0,0,0,,But Team Sonic can
 Dialogue: 0,0:03:38.04,0:03:40.04,Default,,0,0,0,,So that’s how it is.
 Dialogue: 0,0:03:41.16,0:03:44.68,Default,,0,0,0,,Pantheress
 Dialogue: 0,0:03:44.68,0:03:49.16,Default,,0,0,0,,Team Defenders will win!
-Dialogue: 0,0:03:53.08,0:03:54.68,Default,,0,0,0,,SS
 Dialogue: 0,0:03:57.72,0:03:58.92,Default,,0,0,0,,Jonie
 Dialogue: 0,0:04:02.60,0:04:03.32,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:04:16.92,0:04:17.16,Default,,0,0,0,,CVC
 Dialogue: 0,0:04:17.48,0:04:21.48,Default,,0,0,0,,Team Sonic continuously unleashed long, cannon-like passes from extremely long distances.
 Dialogue: 0,0:04:21.48,0:04:23.88,Default,,0,0,0,,Team Defenders suffers a series of defeats.
 Dialogue: 0,0:04:26.52,0:04:28.60,Default,,0,0,0,,Team Defenders has requested a pause.
-Dialogue: 0,0:04:40.04,0:04:44.52,Default,,0,0,0,,What’s going on? They’re withstanding our tight defense.
-Dialogue: 0,0:04:44.52,0:04:47.40,Default,,0,0,0,,It seems like I’m not expending as much energy as before.
-Dialogue: 0,0:04:48.28,0:04:52.28,Default,,0,0,0,,Constantly rotating players makes fast breaks less tiring.
-Dialogue: 0,0:04:53.64,0:04:56.52,Default,,0,0,0,,Their tactic was a supersonic fast attack.
-Dialogue: 0,0:04:56.84,0:05:00.68,Default,,0,0,0,,The Sonic Fast Break only has one player on offense at a time.
-Dialogue: 0,0:05:00.68,0:05:03.64,Default,,0,0,0,,Other players will get a proper rest.
-Dialogue: 0,0:05:04.60,0:05:09.40,Default,,0,0,0,,In other words, Team Sonic’s physical weakness has been overcome.
+Dialogue: 0,0:04:40.04,0:04:44.52,Default,,0,0,0,,What’s going on? Even against our tight defense,
+Dialogue: 0,0:04:44.52,0:04:47.40,Default,,0,0,0,,they don’t seem to be expending as much energy as before.
+Dialogue: 0,0:04:48.28,0:04:52.28,Default,,0,0,0,,Constantly rotating players for fast breaks naturally makes it less exhausting.
+Dialogue: 0,0:04:53.64,0:04:56.52,Default,,0,0,0,,They’re using the Sonic Fast Break tactic.
+Dialogue: 0,0:04:56.84,0:05:00.68,Default,,0,0,0,,With the Sonic Fast Break, only one player handles the attack at a time.
+Dialogue: 0,0:05:00.68,0:05:03.64,Default,,0,0,0,,The other players get a chance to rest properly.
+Dialogue: 0,0:05:04.60,0:05:09.40,Default,,0,0,0,,In other words, Team Sonic has overcome their stamina weakness.
 Dialogue: 0,0:05:11.64,0:05:13.24,Default,,0,0,0,,What should we do then?
 Dialogue: 0,0:05:19.16,0:05:21.80,Default,,0,0,0,,The game restarted
 Dialogue: 0,0:05:34.28,0:05:35.32,Default,,0,0,0,,Quickly return to defense
 Dialogue: 0,0:05:37.80,0:05:38.92,Default,,0,0,0,,Tibbie
-Dialogue: 0,0:05:38.92,0:05:41.64,Default,,0,0,0,,The only way to break the sonic attack
-Dialogue: 0,0:05:41.64,0:05:44.92,Default,,0,0,0,,It depends on you first anticipating who your opponent will pass to.
-Dialogue: 0,0:05:44.92,0:05:46.76,Default,,0,0,0,,This is how you can prevent it.
+Dialogue: 0,0:05:38.92,0:05:41.64,Default,,0,0,0,,The only way to counter the Sonic Fast Break
+Dialogue: 0,0:05:41.64,0:05:44.92,Default,,0,0,0,,is to anticipate who the opponent is going to pass to.
+Dialogue: 0,0:05:44.92,0:05:46.76,Default,,0,0,0,,That’s the only way to stop it.
 Dialogue: 0,0:05:46.76,0:05:48.76,Default,,0,0,0,,To anticipate… to anticipate
 Dialogue: 0,0:05:49.64,0:05:51.80,Default,,0,0,0,,Who will this ball be passed to?
 Dialogue: 0,0:06:28.44,0:06:33.32,Default,,0,0,0,,No… the players who pass and receive the ball are not fixed at all.
@@ -106,13 +102,10 @@ Dialogue: 0,0:08:14.28,0:08:16.52,Default,,0,0,0,,I had expected this.
 Dialogue: 0,0:08:19.56,0:08:21.64,Default,,0,0,0,,Tibbie, are you okay?
 Dialogue: 0,0:08:21.64,0:08:22.60,Default,,0,0,0,,I’m fine.
 Dialogue: 0,0:08:23.16,0:08:25.72,Default,,0,0,0,,Tibbie, you’re amazing!
-Dialogue: 0,0:08:28.04,0:08:28.60,Default,,0,0,0,,SS
 Dialogue: 0,0:08:56.92,0:08:58.60,Default,,0,0,0,,They played really well.
 Dialogue: 0,0:08:59.00,0:08:59.48,Default,,0,0,0,,but.
-Dialogue: 0,0:09:03.08,0:09:03.32,Default,,0,0,0,,SS
 Dialogue: 0,0:09:05.08,0:09:06.52,Default,,0,0,0,,That’s all.
 Dialogue: 0,0:09:11.88,0:09:13.72,Default,,0,0,0,,Let’s see how you see through me this time.
-Dialogue: 0,0:09:13.72,0:09:13.96,Default,,0,0,0,,222281
 Dialogue: 0,0:09:15.32,0:09:18.60,Default,,0,0,0,,Team Sonic’s four players simultaneously coordinated a fast break.
 Dialogue: 0,0:09:20.44,0:09:23.08,Default,,0,0,0,,Team Defenders probably had no other choice this time.
 Dialogue: 0,0:09:28.68,0:09:30.12,Default,,0,0,0,,pretty
