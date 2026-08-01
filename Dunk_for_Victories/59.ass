@@ -22,141 +22,121 @@ Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes:
 Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,One versus All
 Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.88,0:00:18.72,Default,,0,0,0,,In the previous episode,
-Dialogue: 0,0:00:18.88,0:00:21.68,Default,,0,0,0,,Weslie boosted the morale of Team Defenders.
-Dialogue: 0,0:00:21.88,0:00:23.04,Default,,0,0,0,,Paddi was injured
-Dialogue: 0,0:00:23.16,0:00:24.96,Default,,0,0,0,,Still desperately trying to score for the team
-Dialogue: 0,0:00:25.16,0:00:26.12,Default,,0,0,0,,The Goats’ Fighting Spirit
-Dialogue: 0,0:00:26.28,0:00:29.24,Default,,0,0,0,,Vera was driven to a state of madness.
-Dialogue: 0,0:00:29.40,0:00:31.16,Default,,0,0,0,,The two teams eventually tied.
-Dialogue: 0,0:00:31.32,0:00:34.60,Default,,0,0,0,,Wolffy and Victor finally arrived at the scene.
-Dialogue: 0,0:00:34.72,0:00:36.80,Default,,0,0,0,,What kind of performance will they deliver?
-Dialogue: 0,0:00:46.12,0:00:46.80,Default,,0,0,0,,team leader
-Dialogue: 0,0:00:47.92,0:00:50.04,Default,,0,0,0,,I’m so sorry, Captain.
-Dialogue: 0,0:00:50.20,0:00:51.00,Default,,0,0,0,,Okay
-Dialogue: 0,0:00:51.32,0:00:53.96,Default,,0,0,0,,Now is not the time to apologize.
-Dialogue: 0,0:00:56.72,0:00:58.16,Default,,0,0,0,,There’s still half a game left.
-Dialogue: 0,0:01:05.72,0:01:07.12,Default,,0,0,0,,Listen up, everyone.
-Dialogue: 0,0:01:07.44,0:01:09.76,Default,,0,0,0,,Let me tell you how to deploy next.
-Dialogue: 0,0:01:09.96,0:01:10.76,Default,,0,0,0,,yes…
-Dialogue: 0,0:01:14.52,0:01:16.48,Default,,0,0,0,,Thank you for your hard work just now, Paddi
-Dialogue: 0,0:01:16.88,0:01:19.76,Default,,0,0,0,,Wolffy will then take your place.
-Dialogue: 0,0:01:21.84,0:01:23.32,Default,,0,0,0,,Don’t worry, Paddi
-Dialogue: 0,0:01:23.48,0:01:25.64,Default,,0,0,0,,Leave the rest to me, you can take a rest.
-Dialogue: 0,0:01:28.32,0:01:31.60,Default,,0,0,0,,I hope you will listen carefully to what I am about to say.
-Dialogue: 0,0:01:35.64,0:01:38.28,Default,,0,0,0,,You have always been looked down upon and questioned by everyone.
-Dialogue: 0,0:01:38.48,0:01:40.52,Default,,0,0,0,,We’ve come this far amidst a barrage of insults.
-Dialogue: 0,0:01:40.60,0:01:41.72,Default,,0,0,0,,It’s really not easy.
-Dialogue: 0,0:01:43.72,0:01:45.92,Default,,0,0,0,,But you managed to get through such difficulties.
-Dialogue: 0,0:01:47.48,0:01:48.92,Default,,0,0,0,,It also lets all the animals see
-Dialogue: 0,0:01:49.04,0:01:52.20,Default,,0,0,0,,Ordinary steps can complete a great journey.
-Dialogue: 0,0:01:53.16,0:01:54.12,Default,,0,0,0,,This moment
-Dialogue: 0,0:01:54.28,0:01:57.40,Default,,0,0,0,,To be able to stand on this final stage
-Dialogue: 0,0:01:58.52,0:02:00.64,Default,,0,0,0,,It’s about your efforts and mutual trust.
-Dialogue: 0,0:02:00.72,0:02:02.84,Default,,0,0,0,,Affirmation of unity and perseverance
-Dialogue: 0,0:02:04.24,0:02:06.12,Default,,0,0,0,,The final match
-Dialogue: 0,0:02:06.36,0:02:07.76,Default,,0,0,0,,I hope you remember
-Dialogue: 0,0:02:08.12,0:02:09.64,Default,,0,0,0,,Believe in yourself
-Dialogue: 0,0:02:11.00,0:02:13.08,Default,,0,0,0,,Each and every one of you is a strong person.
-Dialogue: 0,0:02:13.72,0:02:15.88,Default,,0,0,0,,Don’t let yourself have regrets.
-Dialogue: 0,0:02:16.40,0:02:18.52,Default,,0,0,0,,Enjoy the game!
-Dialogue: 0,0:02:21.16,0:02:22.80,Default,,0,0,0,,From this second onwards
-Dialogue: 0,0:02:22.88,0:02:24.68,Default,,0,0,0,,That’s your most shining moment.
-Dialogue: 0,0:02:26.36,0:02:30.16,Default,,0,0,0,,Timeout complete. All players, please return to the field.
-Dialogue: 0,0:02:30.48,0:02:33.16,Default,,0,0,0,,The real competition is finally about to begin.
-Dialogue: 0,0:02:33.68,0:02:36.48,Default,,0,0,0,,Team Defenders are getting really impressive!
-Dialogue: 0,0:02:38.16,0:02:40.16,Default,,0,0,0,,Which team will win the championship?
-Dialogue: 0,0:02:40.64,0:02:42.76,Default,,0,0,0,,Of course, it’s our Team Defenders.
-Dialogue: 0,0:02:43.00,0:02:44.96,Default,,0,0,0,,When did you get back?
-Dialogue: 0,0:03:16.92,0:03:19.04,Default,,0,0,0,,A very powerful aura
-Dialogue: 0,0:03:47.36,0:03:49.72,Default,,0,0,0,,Victor scored immediately upon entering the game.
-Dialogue: 0,0:03:51.04,0:03:53.24,Default,,0,0,0,,His personal abilities are simply outstanding.
-Dialogue: 0,0:03:55.56,0:03:58.04,Default,,0,0,0,,There was absolutely no way to stop him.
-Dialogue: 0,0:03:58.48,0:04:00.36,Default,,0,0,0,,His method was very simple.
-Dialogue: 0,0:04:00.44,0:04:02.72,Default,,0,0,0,,However, the timing of its use was very precise.
-Dialogue: 0,0:04:02.92,0:04:05.16,Default,,0,0,0,,Achieving the optimal state of offense and defense
-Dialogue: 0,0:04:13.60,0:04:15.00,Default,,0,0,0,,So fast
-Dialogue: 0,0:04:43.08,0:04:45.28,Default,,0,0,0,,That was amazing!
-Dialogue: 0,0:04:45.44,0:04:47.68,Default,,0,0,0,,That shot is going to be historic.
-Dialogue: 0,0:04:48.36,0:04:51.24,Default,,0,0,0,,One against many, a god descended to earth, unstoppable.
-Dialogue: 0,0:04:51.44,0:04:53.56,Default,,0,0,0,,This is the only way to describe Victor’s father.
-Dialogue: 0,0:04:53.72,0:04:55.96,Default,,0,0,0,,Don’t worry, Dad will definitely win.
-Dialogue: 0,0:04:56.16,0:04:59.44,Default,,0,0,0,,I think Victor seems even more amazing than before.
-Dialogue: 0,0:05:07.24,0:05:08.48,Default,,0,0,0,,Weslie, your feet…
-Dialogue: 0,0:05:11.52,0:05:13.48,Default,,0,0,0,,Don’t worry, I can handle it.
-Dialogue: 0,0:05:13.92,0:05:16.00,Default,,0,0,0,,Wolffy, listen up!
-Dialogue: 0,0:05:17.08,0:05:19.96,Default,,0,0,0,,Victor is so amazing solely because of his personal abilities.
-Dialogue: 0,0:05:20.08,0:05:24.20,Default,,0,0,0,,So it’s not entirely impossible to defeat him.
-Dialogue: 0,0:05:25.32,0:05:27.08,Default,,0,0,0,,Okay, I understand what you’re trying to say.
-Dialogue: 0,0:05:29.48,0:05:31.40,Default,,0,0,0,,The ball is back in Victor’s hands.
-Dialogue: 0,0:05:38.76,0:05:41.36,Default,,0,0,0,,Team Defenders switched to a double-team strategy against Victor.
-Dialogue: 0,0:05:41.64,0:05:43.76,Default,,0,0,0,,Weslie, let’s go.
-Dialogue: 0,0:05:50.40,0:05:52.76,Default,,0,0,0,,Just a little bit short
-Dialogue: 0,0:05:53.08,0:05:55.84,Default,,0,0,0,,A two-person pincer attack requires a high degree of teamwork.
-Dialogue: 0,0:05:56.08,0:05:59.36,Default,,0,0,0,,It seems they have found a way to counter it.
-Dialogue: 0,0:06:38.44,0:06:40.76,Default,,0,0,0,,Wow, Team Defenders finally broke the spell!
-Dialogue: 0,0:06:40.88,0:06:42.48,Default,,0,0,0,,Victor’s offensive
-Dialogue: 0,0:07:04.28,0:07:05.08,Default,,0,0,0,,Stop him
-Dialogue: 0,0:07:24.80,0:07:25.64,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:07:37.52,0:07:38.52,Default,,0,0,0,,come on
-Dialogue: 0,0:08:01.36,0:08:02.16,Default,,0,0,0,,Entered
-Dialogue: 0,0:08:02.48,0:08:04.00,Default,,0,0,0,,In this competition, individual skill was unmatched.
-Dialogue: 0,0:08:04.08,0:08:06.96,Default,,0,0,0,,Victor, who never misses a shot
-Dialogue: 0,0:08:07.28,0:08:08.16,Default,,0,0,0,,Team Defenders
-Dialogue: 0,0:08:08.24,0:08:10.40,Default,,0,0,0,,The team’s cooperative approach defeated them.
-Dialogue: 0,0:08:11.48,0:08:13.92,Default,,0,0,0,,There is no law in the world that the strong will always prevail.
-Dialogue: 0,0:08:14.04,0:08:14.88,Default,,0,0,0,,No matter how strong a person is
-Dialogue: 0,0:08:15.00,0:08:17.60,Default,,0,0,0,,It’s not even as good as the strength of the whole team.
-Dialogue: 0,0:08:19.36,0:08:22.36,Default,,0,0,0,,Awesome…
-Dialogue: 0,0:08:22.44,0:08:23.88,Default,,0,0,0,,Go, Captain!
-Dialogue: 0,0:08:24.08,0:08:25.72,Default,,0,0,0,,Score the ball quickly and get back into the game!
-Dialogue: 0,0:08:25.92,0:08:28.88,Default,,0,0,0,,Keep it up… Great job…
-Dialogue: 0,0:08:31.36,0:08:33.08,Default,,0,0,0,,The power of team
-Dialogue: 0,0:08:37.36,0:08:39.52,Default,,0,0,0,,Come on, let’s score another goal!
-Dialogue: 0,0:08:42.12,0:08:44.40,Default,,0,0,0,,I have a question for everyone.
-Dialogue: 0,0:08:45.12,0:08:47.36,Default,,0,0,0,,Do you guys prefer one-on-one basketball?
-Dialogue: 0,0:08:48.24,0:08:49.32,Default,,0,0,0,,I still prefer to cooperate with each other.
-Dialogue: 0,0:08:49.48,0:08:51.16,Default,,0,0,0,,Basketball where players pass the ball around?
-Dialogue: 0,0:08:56.60,0:08:58.36,Default,,0,0,0,,If I absolutely had to choose one
-Dialogue: 0,0:08:58.44,0:08:59.96,Default,,0,0,0,,I think team basketball is better.
-Dialogue: 0,0:09:00.08,0:09:02.60,Default,,0,0,0,,It will be easier to win the game and be happier.
-Dialogue: 0,0:09:04.04,0:09:07.36,Default,,0,0,0,,Actually, I also think team basketball is pretty good.
-Dialogue: 0,0:09:07.52,0:09:09.04,Default,,0,0,0,,I feel the same way.
-Dialogue: 0,0:09:09.24,0:09:10.84,Default,,0,0,0,,That’s what I think too.
-Dialogue: 0,0:09:16.56,0:09:17.92,Default,,0,0,0,,I think you might want to try
-Dialogue: 0,0:09:18.04,0:09:20.52,Default,,0,0,0,,Cooperate more with other teammates
-Dialogue: 0,0:09:21.00,0:09:23.60,Default,,0,0,0,,This will also improve the atmosphere in our team.
-Dialogue: 0,0:09:23.72,0:09:24.84,Default,,0,0,0,,Then it will condense into a force
-Dialogue: 0,0:09:24.96,0:09:27.20,Default,,0,0,0,,An invincible force
-Dialogue: 0,0:09:29.80,0:09:31.72,Default,,0,0,0,,You have indeed become stronger.
-Dialogue: 0,0:09:36.04,0:09:36.80,Default,,0,0,0,,Passing
-Dialogue: 0,0:09:46.92,0:09:50.16,Default,,0,0,0,,Victor received the ball and launched another solo attack.
-Dialogue: 0,0:09:51.24,0:09:52.32,Default,,0,0,0,,Team Defenders saw
-Dialogue: 0,0:09:52.44,0:09:54.60,Default,,0,0,0,,Immediately launch a team encirclement tactic
-Dialogue: 0,0:09:55.80,0:09:57.20,Default,,0,0,0,,As expected, it happened again.
-Dialogue: 0,0:09:57.32,0:09:59.04,Default,,0,0,0,,Victor decided to rely on his own attack.
-Dialogue: 0,0:10:01.16,0:10:02.32,Default,,0,0,0,,Jonie
-Dialogue: 0,0:10:02.68,0:10:05.08,Default,,0,0,0,,Jonie blocked Victor’s attack.
-Dialogue: 0,0:10:10.44,0:10:11.56,Default,,0,0,0,,Trying to block me?
-Dialogue: 0,0:10:21.96,0:10:24.96,Default,,0,0,0,,I…don’t want to lose anymore.
-Dialogue: 0,0:10:29.00,0:10:31.68,Default,,0,0,0,,Since that incident, I’ve believed…
-Dialogue: 0,0:10:32.28,0:10:35.24,Default,,0,0,0,,Only by becoming a king with outstanding personal abilities
-Dialogue: 0,0:10:35.44,0:10:37.32,Default,,0,0,0,,Only then can you stand on this field forever.
-Dialogue: 0,0:10:38.16,0:10:40.88,Default,,0,0,0,,If you can’t beat everyone on the field
-Dialogue: 0,0:10:41.16,0:10:42.48,Default,,0,0,0,,It’s completely meaningless.
-Dialogue: 0,0:10:44.08,0:10:45.52,Default,,0,0,0,,But now…
-Dialogue: 0,0:10:49.44,0:10:50.92,Default,,0,0,0,,On my own
-Dialogue: 0,0:10:51.04,0:10:53.28,Default,,0,0,0,,Even standing at the very top
-Dialogue: 0,0:10:53.48,0:10:54.80,Default,,0,0,0,,You still can’t see what’s ahead.
-Dialogue: 0,0:10:57.52,0:11:00.60,Default,,0,0,0,,If I wasn’t the only one
-Dialogue: 0,0:11:05.04,0:11:07.60,Default,,0,0,0,,Maybe we can see further.
-Dialogue: 0,0:11:14.80,0:11:16.88,Default,,0,0,0,,Goal!
-Dialogue: 0,0:11:19.24,0:11:20.56,Default,,0,0,0,,team leader
-Dialogue: 0,0:11:45.72,0:11:48.52,Default,,0,0,0,,Great shot… Great shot!
-Dialogue: 0,0:11:49.56,0:11:50.36,Default,,0,0,0,,Victor’s assist led Team Wolves
-Dialogue: 0,0:11:50.44,0:11:52.12,Default,,0,0,0,,Victor actually passed the ball after scoring another goal?
-Dialogue: 0,0:12:08.60,0:12:09.84,Default,,0,0,0,,Win the championship together
-Dialogue: 0,0:12:15.44,0:12:16.44,Default,,0,0,0,,good…
-Dialogue: 0,0:12:21.88,0:12:23.32,Default,,0,0,0,,Welcome back
-Dialogue: 0,0:12:30.40,0:12:31.56,Default,,0,0,0,,Weslie
+Dialogue: 0,0:00:17.40,0:00:21.12,Default,,0,0,0,,In the previous episode, Weslie rallied the morale of Team Defenders.
+Dialogue: 0,0:00:21.28,0:00:24.24,Default,,0,0,0,,Paddi gave it his all to score points for the team.
+Dialogue: 0,0:00:24.48,0:00:28.72,Default,,0,0,0,,The fighting spirit of the little goats drove Vera into a frenzy, making her play recklessly.
+Dialogue: 0,0:00:28.72,0:00:31.12,Default,,0,0,0,,In the end, the two teams were tied.
+Dialogue: 0,0:00:31.20,0:00:34.32,Default,,0,0,0,,Wolffy and Victor finally arrived at the court…
+Dialogue: 0,0:00:34.40,0:00:36.72,Default,,0,0,0,,what kind of performance will they put on?
+Dialogue: 0,0:00:46.00,0:00:46.68,Default,,0,0,0,,Captain.
+Dialogue: 0,0:00:47.92,0:00:49.84,Default,,0,0,0,,I’m sorry, Captain.
+Dialogue: 0,0:00:50.48,0:00:51.16,Default,,0,0,0,,Alright.
+Dialogue: 0,0:00:51.64,0:00:53.32,Default,,0,0,0,,Now is not the time for apologies.
+Dialogue: 0,0:00:55.84,0:00:57.52,Default,,0,0,0,,There’s still half the game left to play.
+Dialogue: 0,0:01:05.92,0:01:07.48,Default,,0,0,0,,Alright, everyone, come here.
+Dialogue: 0,0:01:07.48,0:01:09.32,Default,,0,0,0,,Next up: tactical deployment.
+Dialogue: 0,0:01:09.60,0:01:10.36,Default,,0,0,0,,Alright.
+Dialogue: 0,0:01:14.44,0:01:16.20,Default,,0,0,0,,Paddi, you’ve worked hard.
+Dialogue: 0,0:01:16.72,0:01:19.44,Default,,0,0,0,,Wolffy will be taking your place now.
+Dialogue: 0,0:01:21.48,0:01:24.36,Default,,0,0,0,,Don’t worry, Paddi; leave the rest to me.
+Dialogue: 0,0:01:24.36,0:01:25.48,Default,,0,0,0,,Get some good rest.
+Dialogue: 0,0:01:28.36,0:01:31.88,Default,,0,0,0,,I want you all to listen carefully to what I’m about to say.
+Dialogue: 0,0:01:35.08,0:01:37.76,Default,,0,0,0,,You’ve all made it this far while facing criticism and doubt,
+Dialogue: 0,0:01:37.76,0:01:41.40,Default,,0,0,0,,pushing forward even when no one believed in you—it hasn’t been easy at all.
+Dialogue: 0,0:01:43.40,0:01:45.80,Default,,0,0,0,,But not only have you persevered,
+Dialogue: 0,0:01:46.92,0:01:48.76,Default,,0,0,0,,you’ve shown everyone
+Dialogue: 0,0:01:48.76,0:01:51.92,Default,,0,0,0,,that ordinary steps can complete a magnificent journey.
+Dialogue: 0,0:01:52.60,0:01:57.00,Default,,0,0,0,,Standing on this grand final stage right now
+Dialogue: 0,0:01:57.36,0:02:00.40,Default,,0,0,0,,is the ultimate validation of your hard work, trust, unity,
+Dialogue: 0,0:02:00.40,0:02:02.68,Default,,0,0,0,,and refusal to give up.
+Dialogue: 0,0:02:03.76,0:02:07.68,Default,,0,0,0,,For this final match, I want you all to remember:
+Dialogue: 0,0:02:07.76,0:02:09.40,Default,,0,0,0,,believe in yourselves.
+Dialogue: 0,0:02:10.56,0:02:12.84,Default,,0,0,0,,Each and every one of you is the best.
+Dialogue: 0,0:02:13.68,0:02:18.32,Default,,0,0,0,,Leave no regrets—go out there and truly enjoy the game.
+Dialogue: 0,0:02:20.40,0:02:24.12,Default,,0,0,0,,From this second on, it’s your moment to shine.
+Dialogue: 0,0:02:26.00,0:02:30.48,Default,,0,0,0,,Time-out is over; athletes, please return to the court.
+Dialogue: 0,0:02:30.48,0:02:32.96,Default,,0,0,0,,The real match is finally beginning.
+Dialogue: 0,0:02:34.16,0:02:35.96,Default,,0,0,0,,The energy of Team Defenders has shifted.
+Dialogue: 0,0:02:37.64,0:02:39.64,Default,,0,0,0,,Which team will take the championship?
+Dialogue: 0,0:02:40.72,0:02:42.64,Default,,0,0,0,,It’s Team Defenders, of course.
+Dialogue: 0,0:02:42.64,0:02:44.64,Default,,0,0,0,,When did you get back?
+Dialogue: 0,0:03:16.52,0:03:19.04,Default,,0,0,0,,Such an imposing presence.
+Dialogue: 0,0:03:47.36,0:03:50.16,Default,,0,0,0,,Victor scores the moment he steps onto the court.
+Dialogue: 0,0:03:50.68,0:03:53.64,Default,,0,0,0,,His exceptional individual skill is truly incredible.
+Dialogue: 0,0:03:55.32,0:03:57.84,Default,,0,0,0,,It’s completely…completely impossible to defend against.
+Dialogue: 0,0:03:57.84,0:04:00.00,Default,,0,0,0,,Victor’s moves might look simple,
+Dialogue: 0,0:04:00.00,0:04:02.48,Default,,0,0,0,,but every ounce of energy is used with precision.
+Dialogue: 0,0:04:02.48,0:04:04.92,Default,,0,0,0,,He achieves the ultimate state of offense and defense.
+Dialogue: 0,0:04:13.84,0:04:14.56,Default,,0,0,0,,So fast.
+Dialogue: 0,0:04:43.44,0:04:45.20,Default,,0,0,0,,Spectacular!
+Dialogue: 0,0:04:45.20,0:04:47.44,Default,,0,0,0,,An absolutely incredible play.
+Dialogue: 0,0:04:47.76,0:04:49.48,Default,,0,0,0,,One versus all, totally unstoppable,
+Dialogue: 0,0:04:49.48,0:04:53.16,Default,,0,0,0,,—a god descended to earth—that’s the only way to describe Victor. —Daddy.
+Dialogue: 0,0:04:53.32,0:04:55.72,Default,,0,0,0,,Don’t worry, Daddy will definitely win.
+Dialogue: 0,0:04:56.60,0:04:58.76,Default,,0,0,0,,Victor is even more formidable than before.
+Dialogue: 0,0:05:06.72,0:05:08.40,Default,,0,0,0,,Weslie, your leg…
+Dialogue: 0,0:05:11.52,0:05:12.72,Default,,0,0,0,,I can still hold on.
+Dialogue: 0,0:05:14.08,0:05:15.44,Default,,0,0,0,,Listen up, Wolffy.
+Dialogue: 0,0:05:16.76,0:05:19.48,Default,,0,0,0,,Victor’s strength lies in his individual ability.
+Dialogue: 0,0:05:19.96,0:05:23.32,Default,,0,0,0,,But it’s not impossible to beat him.
+Dialogue: 0,0:05:24.96,0:05:26.56,Default,,0,0,0,,I get what you mean.
+Dialogue: 0,0:05:28.84,0:05:31.28,Default,,0,0,0,,Victor has the ball again.
+Dialogue: 0,0:05:38.20,0:05:40.92,Default,,0,0,0,,Team Defenders has switched to double-teaming Victor.
+Dialogue: 0,0:05:41.60,0:05:43.00,Default,,0,0,0,,Weslie, let’s go.
+Dialogue: 0,0:05:49.96,0:05:51.76,Default,,0,0,0,,So close.
+Dialogue: 0,0:05:52.68,0:05:55.56,Default,,0,0,0,,That kind of double-team relies heavily on chemistry.
+Dialogue: 0,0:05:56.08,0:05:58.72,Default,,0,0,0,,It looks like they’ve found a way to counter it.
+Dialogue: 0,0:06:38.00,0:06:42.36,Default,,0,0,0,,Incredible! Team Defenders finally halted Victor’s offensive.
+Dialogue: 0,0:07:03.52,0:07:04.52,Default,,0,0,0,,Stop him!
+Dialogue: 0,0:07:24.52,0:07:25.36,Default,,0,0,0,,Oh no…
+Dialogue: 0,0:07:37.52,0:07:39.28,Default,,0,0,0,,Scored—
+Dialogue: 0,0:08:00.72,0:08:01.80,Default,,0,0,0,,They scored!
+Dialogue: 0,0:08:01.80,0:08:04.12,Default,,0,0,0,,Victor, whose individual skills had been unstoppable throughout the games
+Dialogue: 0,0:08:04.12,0:08:05.96,Default,,0,0,0,,and who had never failed before,
+Dialogue: 0,0:08:05.96,0:08:10.92,Default,,0,0,0,,has actually been defeated by the collective team play of Team Defenders.
+Dialogue: 0,0:08:11.40,0:08:13.88,Default,,0,0,0,,Being the best doesn’t guarantee a win,
+Dialogue: 0,0:08:13.88,0:08:17.12,Default,,0,0,0,,and solo talent never beats a team with one heartbeat.
+Dialogue: 0,0:08:19.20,0:08:21.64,Default,,0,0,0,,Great! That’s amazing!
+Dialogue: 0,0:08:21.92,0:08:22.56,Default,,0,0,0,,Captain!
+Dialogue: 0,0:08:23.68,0:08:25.40,Default,,0,0,0,,Let’s go win back the points we lost.
+Dialogue: 0,0:08:30.96,0:08:31.92,Default,,0,0,0,,Teamwork…
+Dialogue: 0,0:08:36.40,0:08:39.32,Default,,0,0,0,,Come on, let’s score another goal.
+Dialogue: 0,0:08:41.40,0:08:43.88,Default,,0,0,0,,I’d like to ask everyone a question.
+Dialogue: 0,0:08:44.88,0:08:47.60,Default,,0,0,0,,Do you prefer basketball where you play one-on-one,
+Dialogue: 0,0:08:47.60,0:08:52.44,Default,,0,0,0,,or basketball that involves teamwork and passing the ball to each other?
+Dialogue: 0,0:08:55.76,0:08:57.24,Default,,0,0,0,,If I had to choose one,
+Dialogue: 0,0:08:57.24,0:09:00.80,Default,,0,0,0,,I think team-oriented basketball is better; it makes winning easier.
+Dialogue: 0,0:09:00.80,0:09:02.72,Default,,0,0,0,,And it’s also…more fun…
+Dialogue: 0,0:09:03.64,0:09:06.96,Default,,0,0,0,,Actually, I think team basketball is great, too.
+Dialogue: 0,0:09:06.96,0:09:08.88,Default,,0,0,0,,I feel the same way…
+Dialogue: 0,0:09:09.28,0:09:10.24,Default,,0,0,0,,Me too…
+Dialogue: 0,0:09:16.08,0:09:20.40,Default,,0,0,0,,I think you might want to try focusing a bit more on working with the team.
+Dialogue: 0,0:09:20.40,0:09:23.40,Default,,0,0,0,,That way, the atmosphere within the team would be better, too.
+Dialogue: 0,0:09:23.40,0:09:27.08,Default,,0,0,0,,Then our team will become an unstoppable force.
+Dialogue: 0,0:09:29.44,0:09:31.20,Default,,0,0,0,,You really have gotten stronger.
+Dialogue: 0,0:09:36.64,0:09:37.36,Default,,0,0,0,,Pass!
+Dialogue: 0,0:09:46.96,0:09:50.36,Default,,0,0,0,,Victor receives the pass and breaks through on his own again.
+Dialogue: 0,0:09:50.80,0:09:54.72,Default,,0,0,0,,Seeing this, Team Defenders immediately moves to surround him.
+Dialogue: 0,0:09:55.28,0:09:58.76,Default,,0,0,0,,But as expected, Victor still chooses to attack solo.
+Dialogue: 0,0:10:00.88,0:10:02.16,Default,,0,0,0,,Jonie!
+Dialogue: 0,0:10:02.16,0:10:04.60,Default,,0,0,0,,Jonie blocks Victor’s attack.
+Dialogue: 0,0:10:09.68,0:10:10.88,Default,,0,0,0,,You want to stop me?
+Dialogue: 0,0:10:21.28,0:10:24.12,Default,,0,0,0,,I…don’t want to lose again.
+Dialogue: 0,0:10:28.44,0:10:30.64,Default,,0,0,0,,Ever since then, I’ve believed
+Dialogue: 0,0:10:31.88,0:10:34.16,Default,,0,0,0,,that only by becoming a king with exceptional individual skill,
+Dialogue: 0,0:10:34.68,0:10:36.92,Default,,0,0,0,,can one stand tall on this court forever.
+Dialogue: 0,0:10:38.16,0:10:42.24,Default,,0,0,0,,If I don’t beat everyone else on the court, it’s completely meaningless.
+Dialogue: 0,0:10:43.52,0:10:44.52,Default,,0,0,0,,But now…
+Dialogue: 0,0:10:48.80,0:10:52.44,Default,,0,0,0,,On my own—even if I stood at the very pinnacle of the game—
+Dialogue: 0,0:10:52.76,0:10:54.36,Default,,0,0,0,,I still wouldn’t be able to see what lies ahead.
+Dialogue: 0,0:10:56.72,0:10:59.72,Default,,0,0,0,,If it weren’t just me alone,
+Dialogue: 0,0:11:04.20,0:11:06.96,Default,,0,0,0,,maybe I could see further.
+Dialogue: 0,0:11:14.24,0:11:17.32,Default,,0,0,0,,Score the goal!
+Dialogue: 0,0:11:19.00,0:11:20.04,Default,,0,0,0,,Captain.
+Dialogue: 0,0:11:46.32,0:11:48.80,Default,,0,0,0,,Nice shot!
+Dialogue: 0,0:11:48.80,0:11:51.08,Default,,0,0,0,,—Victor’s assist leads to a goal for Team Wolves.　—Victor actually passed the ball?
+Dialogue: 0,0:12:07.68,0:12:09.48,Default,,0,0,0,,Let’s win the championship together.
+Dialogue: 0,0:12:14.68,0:12:16.04,Default,,0,0,0,,Right.
+Dialogue: 0,0:12:21.64,0:12:23.32,Default,,0,0,0,,Welcome back.
+Dialogue: 0,0:12:30.08,0:12:31.48,Default,,0,0,0,,Weslie!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
