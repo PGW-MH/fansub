@@ -3,8 +3,8 @@ import { parse, modify, applyEdits } from 'jsonc-parser';
 
 const FEED = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCbELDDHGqMbjsA_4Kyd7vMw';
 const TARGET = {
-    file: 'New_Wild_Cosmos/meta.json',
-    keywords: ['New', 'Wild', 'Cosmos'],
+    file: 'Bizarre_World:_Echoes_of_the_Unknown/meta.json',
+    keywords: ['Bizarre', 'World', 'Echoes', 'Unknown'],
     episodeRegex: /\bEP(\d{2})\b/i,
     placeholderYoutube: ['https://youtu.be/9jol5hXX0HA', 'https://youtu.be/xzbwqaou124']
 };
