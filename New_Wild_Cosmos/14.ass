@@ -22,7 +22,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:07.74,0:00:11.82,Default,,0,0,0,,{\i1}Mighty Little Defenders 11 – New Wild Cosmos.
 Dialogue: 0,0:00:13.10,0:00:16.74,Title,,0,0,0,,{\fad(200,200)}Shrouded in Smoke of Gunpowder
 Dialogue: 0,0:00:13.10,0:00:16.74,Title1,,0,0,0,,{\fad(200,200)}Episode 14
-Dialogue: 0,0:12:34.38,0:12:36.94,end,,0,0,0,,To be continued
+Dialogue: 0,0:12:14.38,0:12:16.94,end,,0,0,0,,To be continued
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:20.55,0:00:21.47,Default,,0,0,0,,Go home
 Dialogue: 0,0:00:29.79,0:00:33.47,Default,,0,0,0,,Wolffy, do you remember which rift leads to Green Green Grassland?
@@ -37,7 +37,8 @@ Dialogue: 0,0:01:28.75,0:01:31.34,Default,,0,0,0,,When will it end?
 Dialogue: 0,0:01:32.96,0:01:34.24,Default,,0,0,0,,So hot
 Dialogue: 0,0:01:36.24,0:01:37.84,Default,,0,0,0,,Are fur dolls also afraid of heat?
 Dialogue: 0,0:01:40.55,0:01:42.31,Default,,0,0,0,,What a strong wind
-Dialogue: 0,0:01:44.84,0:01:47.52,Default,,0,0,0,,It’s a sandstorm
+Dialogue: 0,0:01:43.67,0:01:44.32,Default,,0,0,0,,Sand—
+Dialogue: 0,0:01:44.84,0:01:47.52,Default,,0,0,0,,Sandstorm!
 Dialogue: 0,0:01:57.56,0:01:58.76,Default,,0,0,0,,Back to the rift
 Dialogue: 0,0:02:01.51,0:02:03.71,Default,,0,0,0,,Such a familiar plot
 Dialogue: 0,0:02:03.71,0:02:05.31,Default,,0,0,0,,Sorry Wolffy
@@ -95,16 +96,16 @@ Dialogue: 0,0:05:50.34,0:05:52.62,Default,,0,0,0,,Have you ever seen a purple ri
 Dialogue: 0,0:05:57.91,0:06:00.66,Default,,0,0,0,,Thank you for the water. Let us take our leave now.
 Dialogue: 0,0:06:01.50,0:06:02.30,Default,,0,0,0,,Wait
 Dialogue: 0,0:06:04.22,0:06:08.96,Default,,0,0,0,,You don’t have water or a vehicle. It’s very dangerous to walk in the desert.
-Dialogue: 0,0:06:09.40,0:06:12.47,Default,,0,0,0,,Why not go to the city and get ready before setting off?
+Dialogue: 0,0:06:09.40,0:06:12.47,Default,,0,0,0,,Why not go to the town and get ready before setting off?
 Dialogue: 0,0:06:13.27,0:06:14.47,Default,,0,0,0,,Makes sense
 Dialogue: 0,0:06:14.71,0:06:18.20,Default,,0,0,0,,Otherwise we will fall in the desert before we can find the rift.
-Dialogue: 0,0:06:18.60,0:06:21.24,Default,,0,0,0,,But we don’t know how to get to the city either.
+Dialogue: 0,0:06:18.60,0:06:21.24,Default,,0,0,0,,But we don’t know how to get to the town either.
 Dialogue: 0,0:06:21.56,0:06:24.27,Default,,0,0,0,,We need to transport supplies back and we’re on the way.
 Dialogue: 0,0:06:24.27,0:06:26.71,Default,,0,0,0,,As a thank you, I’ll send you there.
 Dialogue: 0,0:06:29.15,0:06:31.32,Default,,0,0,0,,Then we would rather obey than be respectful.
 Dialogue: 0,0:06:31.60,0:06:33.16,Default,,0,0,0,,Take them too
 Dialogue: 0,0:06:33.56,0:06:34.52,Default,,0,0,0,,Why?
-Dialogue: 0,0:06:35.04,0:06:37.12,Default,,0,0,0,,You’ll find out when you go to the city
+Dialogue: 0,0:06:35.04,0:06:37.12,Default,,0,0,0,,You’ll find out when you go to the town
 Dialogue: 0,0:06:49.93,0:06:51.33,Default,,0,0,0,,Be careful
 Dialogue: 0,0:06:51.33,0:06:52.72,Default,,0,0,0,,Sorry sorry sorry
 Dialogue: 0,0:06:55.57,0:06:56.73,Default,,0,0,0,,this is
@@ -147,16 +148,16 @@ Dialogue: 0,0:09:34.28,0:09:36.56,Default,,0,0,0,,She looks like Tibbie
 Dialogue: 0,0:09:37.89,0:09:40.60,Default,,0,0,0,,What did she do that warrants such a high reward?
 Dialogue: 0,0:09:41.64,0:09:42.92,Default,,0,0,0,,she is lost
 Dialogue: 0,0:09:43.16,0:09:45.48,Default,,0,0,0,,Her father is eager to find his daughter
-Dialogue: 0,0:09:45.48,0:09:47.28,Default,,0,0,0,,A generous reward was set
+Dialogue: 0,0:09:45.48,0:09:47.28,Default,,0,0,0,,and set a generous reward
 Dialogue: 0,0:09:48.80,0:09:49.88,Default,,0,0,0,,So that’s it
-Dialogue: 0,0:09:51.20,0:09:53.00,Default,,0,0,0,,why do you drink our water
+Dialogue: 0,0:09:51.20,0:09:53.00,Default,,0,0,0,,Why did you drink our water?
 Dialogue: 0,0:09:53.36,0:09:57.64,Default,,0,0,0,,Information is a commodity. That’s the rule here.
 Dialogue: 0,0:09:57.68,0:09:59.28,Default,,0,0,0,,Yeah. Any questions?
 Dialogue: 0,0:10:00.00,0:10:01.25,Default,,0,0,0,,No, no, no
 Dialogue: 0,0:10:04.81,0:10:06.49,Default,,0,0,0,,The world is really dangerous
 Dialogue: 0,0:10:07.09,0:10:10.32,Default,,0,0,0,,The water we finally exchanged for it was just gone.
 Dialogue: 0,0:10:11.40,0:10:13.41,Default,,0,0,0,,We need to find rifts in the desert
-Dialogue: 0,0:10:13.73,0:10:16.97,Default,,0,0,0,,But the rewards we can offer are far too meager.
+Dialogue: 0,0:10:13.73,0:10:16.97,Default,,0,0,0,,But the orders we can do are far too meager.
 Dialogue: 0,0:10:19.21,0:10:22.44,Default,,0,0,0,,If only a wanted person could just come to me on their own!
 Dialogue: 0,0:10:32.16,0:10:35.24,Default,,0,0,0,,Quickly, if you catch her, you can change the water.
 Dialogue: 0,0:10:35.68,0:10:36.54,Default,,0,0,0,,she is Tib—

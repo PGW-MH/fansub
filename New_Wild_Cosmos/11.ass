@@ -22,7 +22,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:07.74,0:00:11.82,Default,,0,0,0,,{\i1}Mighty Little Defenders 11 – New Wild Cosmos.
 Dialogue: 0,0:00:13.10,0:00:16.74,Title,,0,0,0,,{\fad(200,200)}The Heart Knot
 Dialogue: 0,0:00:13.10,0:00:16.74,Title1,,0,0,0,,{\fad(200,200)}Episode 11
-Dialogue: 0,0:12:34.38,0:12:36.94,end,,0,0,0,,To be continued
+Dialogue: 0,0:12:14.38,0:12:16.94,end,,0,0,0,,To be continued
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:21.47,0:00:24.19,Default,,0,0,0,,Today, with heavy hearts,
 Dialogue: 0,0:00:24.23,0:00:26.39,Default,,0,0,0,,we announce the devastating news
@@ -32,7 +32,7 @@ Dialogue: 0,0:00:41.17,0:00:43.69,Default,,0,0,0,,What? Even the Prince was eate
 Dialogue: 0,0:00:46.29,0:00:49.18,Default,,0,0,0,,It’s over. The Bulala Kingdom is over.
 Dialogue: 0,0:00:51.38,0:00:54.18,Default,,0,0,0,,Don’t panic everyone, Master Quan is still here
 Dialogue: 0,0:00:54.42,0:00:57.26,Default,,0,0,0,,The future of Bulala Kingdom is guarded by Master Quan
-Dialogue: 0,0:00:57.58,0:01:00.45,Default,,0,0,0,,He will never let anyone be harmed by monsters
+Dialogue: 0,0:00:57.58,0:01:00.45,Default,,0,0,0,,He will never let anyone be harmed by the monster
 Dialogue: 0,0:01:00.61,0:01:03.61,Default,,0,0,0,,Please believe in Master Quan and support Master Quan
 Dialogue: 0,0:01:04.01,0:01:05.73,Default,,0,0,0,,Master Quan the New King
 Dialogue: 0,0:01:05.73,0:01:06.93,Default,,0,0,0,,Do we support Master Quan?
@@ -70,9 +70,10 @@ Dialogue: 0,0:03:47.59,0:03:48.39,Default,,0,0,0,,This is
 Dialogue: 0,0:03:48.87,0:03:50.71,Default,,0,0,0,,These must have been done by Uncle again
 Dialogue: 0,0:03:50.71,0:03:53.79,Default,,0,0,0,,But where did such a big Little Cutie come from?
 Dialogue: 0,0:03:53.79,0:03:56.74,Default,,0,0,0,,There is no such monster in our world
-Dialogue: 0,0:03:56.82,0:03:59.54,Default,,0,0,0,,I don’t know what day I jumped out of the cave.
+Dialogue: 0,0:03:56.82,0:03:59.54,Default,,0,0,0,,I don’t know what day it jumped out of the cave.
 Dialogue: 0,0:04:04.16,0:04:06.08,Default,,0,0,0,,It turns out you also came from the rifts
-Dialogue: 0,0:04:10.71,0:04:11.63,Default,,0,0,0,,go home
+Dialogue: 0,0:04:07.55,0:04:10.23,Default,,0,0,0,,We never expected to find our way home.
+Dialogue: 0,0:04:10.71,0:04:11.63,Default,,0,0,0,,Way home?
 Dialogue: 0,0:04:11.83,0:04:14.79,Default,,0,0,0,,In fact, we also come from the world on the other side of the rift.
 Dialogue: 0,0:04:16.38,0:04:18.94,Default,,0,0,0,,Are you leaving now?
 Dialogue: 0,0:04:20.82,0:04:22.94,Default,,0,0,0,,We have one more important thing to do

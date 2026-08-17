@@ -22,7 +22,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:07.74,0:00:11.82,Default,,0,0,0,,{\i1}Mighty Little Defenders 11 – New Wild Cosmos.
 Dialogue: 0,0:00:13.10,0:00:16.74,Title,,0,0,0,,{\fad(200,200)}Run, Run!
 Dialogue: 0,0:00:13.10,0:00:16.74,Title1,,0,0,0,,{\fad(200,200)}Episode 4
-Dialogue: 0,0:12:34.38,0:12:36.94,end,,0,0,0,,To be continued
+Dialogue: 0,0:12:14.38,0:12:16.94,end,,0,0,0,,To be continued
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:25.71,0:00:29.02,Default,,0,0,0,,This thing does not belong to our world
 Dialogue: 0,0:00:29.38,0:00:32.42,Default,,0,0,0,,Did this thing come out of that rift?
@@ -98,8 +98,8 @@ Dialogue: 0,0:04:32.81,0:04:34.09,Default,,0,0,0,,The moving Bulala
 Dialogue: 0,0:04:34.21,0:04:36.29,Default,,0,0,0,,Are they talking about Weslie?
 Dialogue: 0,0:04:37.40,0:04:39.29,Default,,0,0,0,,If your friend leaves, he can just leave
 Dialogue: 0,0:04:39.29,0:04:41.45,Default,,0,0,0,,Why destroy Bulala?
-Dialogue: 0,0:04:41.45,0:04:43.97,Default,,0,0,0,,Without Bulala we would be attacked by monsters
-Dialogue: 0,0:04:44.81,0:04:45.77,Default,,0,0,0,,monster
+Dialogue: 0,0:04:41.45,0:04:43.97,Default,,0,0,0,,Without Bulala we would be attacked by the monster
+Dialogue: 0,0:04:44.81,0:04:45.77,Default,,0,0,0,,Monster?
 Dialogue: 0,0:04:46.92,0:04:47.92,Default,,0,0,0,,don’t you know
 Dialogue: 0,0:04:49.40,0:04:50.68,Default,,0,0,0,,Every full moon night
 Dialogue: 0,0:04:50.68,0:04:52.36,Default,,0,0,0,,There will always be a monster coming

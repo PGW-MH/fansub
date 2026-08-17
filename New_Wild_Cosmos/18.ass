@@ -22,7 +22,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:07.74,0:00:11.82,Default,,0,0,0,,{\i1}Mighty Little Defenders 11 – New Wild Cosmos.
 Dialogue: 0,0:00:13.10,0:00:16.74,Title,,0,0,0,,{\fad(200,200)}Sandstorm Destroys the Inn
 Dialogue: 0,0:00:13.10,0:00:16.74,Title1,,0,0,0,,{\fad(200,200)}Episode 18
-Dialogue: 0,0:12:34.38,0:12:36.94,end,,0,0,0,,To be continued
+Dialogue: 0,0:12:14.38,0:12:16.94,end,,0,0,0,,To be continued
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:17.87,0:00:20.07,Default,,0,0,0,,Mr. Slowy, what is our mission?
 Dialogue: 0,0:00:20.59,0:00:22.97,Default,,0,0,0,,The drones I sent detected
@@ -158,8 +158,8 @@ Dialogue: 0,0:06:51.29,0:06:53.16,Default,,0,0,0,,I’ll tell you after you drin
 Dialogue: 0,0:07:00.61,0:07:02.09,Default,,0,0,0,,Can you say it now?
 Dialogue: 0,0:07:03.24,0:07:04.84,Default,,0,0,0,,Is this guest tired?
 Dialogue: 0,0:07:05.16,0:07:07.53,Default,,0,0,0,,Do you want to stay in our invincible sand view room?
-Dialogue: 0,0:07:08.81,0:07:10.09,Default,,0,0,0,,Everyone knows exactly who we are,
-Dialogue: 0,0:07:10.69,0:07:12.21,Default,,0,0,0,,don’t they?
+Dialogue: 0,0:07:08.81,0:07:10.09,Default,,0,0,0,,We both know who the other really is,
+Dialogue: 0,0:07:10.69,0:07:12.21,Default,,0,0,0,,don’t we?
 Dialogue: 0,0:07:12.80,0:07:14.56,Default,,0,0,0,,In that case, I advise you to leave early.
 Dialogue: 0,0:07:20.52,0:07:21.88,Default,,0,0,0,,Who is this inn owner?
 Dialogue: 0,0:07:22.52,0:07:23.52,Default,,0,0,0,,No idea.
@@ -237,5 +237,5 @@ Dialogue: 0,0:11:26.39,0:11:29.33,Default,,0,0,0,,We need to catch her before Ch
 Dialogue: 0,0:11:34.80,0:11:35.52,Default,,0,0,0,,Don’t run
 Dialogue: 0,0:11:49.52,0:11:50.69,Default,,0,0,0,,Let go of Xiao Mei
 Dialogue: 0,0:11:51.09,0:11:52.17,Default,,0,0,0,,You can’t leave
-Dialogue: 0,0:12:00.24,0:12:02.80,Default,,0,0,0,,Well done. You are truly worthy of being my subordinate.
+Dialogue: 0,0:12:00.24,0:12:02.80,Default,,0,0,0,,Well done. You are truly worthy of being my subordinates.
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

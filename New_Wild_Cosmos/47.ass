@@ -22,7 +22,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:07.74,0:00:11.82,Default,,0,0,0,,{\i1}Mighty Little Defenders 11 – New Wild Cosmos.
 Dialogue: 0,0:00:13.10,0:00:16.74,Title,,0,0,0,,{\fad(200,200)}Climbing Up against All Odds
 Dialogue: 0,0:00:13.10,0:00:16.74,Title1,,0,0,0,,{\fad(200,200)}Episode 47
-Dialogue: 0,0:12:34.38,0:12:36.94,end,,0,0,0,,To be continued
+Dialogue: 0,0:12:16.00,0:12:16.94,end,,0,0,0,,To be continued
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:22.88,0:00:24.36,Default,,0,0,0,,I want to become stronger.
 Dialogue: 0,0:00:27.59,0:00:32.31,Default,,0,0,0,,That way, I can protect everyone, just like Big Brother.
@@ -169,7 +169,8 @@ Dialogue: 0,0:10:52.08,0:10:53.72,Default,,0,0,0,,We made it out!
 Dialogue: 0,0:10:58.44,0:10:59.76,Default,,0,0,0,,Little Brown. Stop it.
 Dialogue: 0,0:11:01.17,0:11:03.00,Default,,0,0,0,,That voice…could it be…
 Dialogue: 0,0:11:18.76,0:11:20.16,Default,,0,0,0,,Big Brother?
-Dialogue: 0,0:11:21.28,0:11:24.68,Default,,0,0,0,,You…
+Dialogue: 0,0:11:21.28,0:11:24.14,Default,,0,0,0,,I never imagined you’d become this strong.
+Dialogue: 0,0:11:24.14,0:11:24.68,Default,,0,0,0,,You…
 Dialogue: 0,0:11:24.96,0:11:27.56,Default,,0,0,0,,are actually still alive.
 Dialogue: 0,0:11:28.96,0:11:30.00,Default,,0,0,0,,Thanks to Sparky.
 Dialogue: 0,0:11:30.00,0:11:32.88,Default,,0,0,0,,He was the one who saved us from the Bottomless Abyss.
