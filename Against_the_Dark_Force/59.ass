@@ -14,9 +14,9 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:08.72,00:00:10.56,Default,,0,0,0,,"The Guardian of Goats’ Village Three"
-Dialogue: 0,00:00:10.92,00:00:12.60,Default,,0,0,0,,"Saving the Great World"
-Dialogue: 0,00:00:14.56,00:00:16.28,Default,,0,0,0,,"The Fall of the Island"
+Dialogue: 0,00:00:08.72,00:00:10.56,Default,,0,0,0,,{\i1}Mighty Little Defenders 3
+Dialogue: 0,00:00:10.92,00:00:12.60,Default,,0,0,0,,{\i1}Against the Dark Force
+Dialogue: 0,00:00:14.56,00:00:16.28,Default,,0,0,0,,“The Fall of the Island”.
 Dialogue: 0,00:00:20.03,00:00:22.24,Default,,0,0,0,,Wolf will fight you too much
 Dialogue: 0,00:00:22.52,00:00:24.56,Default,,0,0,0,,Let’s work together to stop him
 Dialogue: 0,00:00:25.07,00:00:25.52,Default,,0,0,0,,Um

@@ -43,14 +43,14 @@ Dialogue: 1,0:00:12.46,0:00:16.98,Title,,0,0,0,gradiente @d45 14,{\clip(0,784,19
 Dialogue: 1,0:00:12.46,0:00:16.98,Title,,0,0,0,gradiente @d45 15,{\clip(0,794,1920,804)\pos(300,790)\1c&H8960D2&}{\fad(200,700)}An Unexpected Disaster
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
 Dialogue: 0,0:00:22.94,0:00:25.70,Default,,0,0,0,,How many times have I told you, Paddi?
-Dialogue: 0,0:00:26.62,0:00:28.70,Default,,0,0,0,,Don't eat while driving.
+Dialogue: 0,0:00:26.62,0:00:28.70,Default,,0,0,0,,Don’t eat while driving.
 Dialogue: 0,0:00:31.30,0:00:33.02,Default,,0,0,0,,You need to focus on the road.
-Dialogue: 0,0:00:39.78,0:00:41.50,Default,,0,0,0,,I've still got a stash.
+Dialogue: 0,0:00:39.78,0:00:41.50,Default,,0,0,0,,I’ve still got a stash.
 Dialogue: 0,0:00:47.66,0:00:49.30,Default,,0,0,0,,I knew it.
 Dialogue: 0,0:00:51.70,0:00:55.50,Default,,0,0,0,,If you ever eat and drive again, I’ll throw it all out.
 Dialogue: 0,0:00:56.50,0:00:57.42,Default,,0,0,0,,No!
 Dialogue: 0,0:01:04.06,0:01:05.74,Default,,0,0,0,,It’s a sweet-tooth aphid!
-Dialogue: 0,0:01:08.98,0:01:11.50,Default,,0,0,0,,No, you can't have this one.
+Dialogue: 0,0:01:08.98,0:01:11.50,Default,,0,0,0,,No, you can’t have this one.
 Dialogue: 0,0:01:15.02,0:01:16.62,Default,,0,0,0,,Don’t eat my candy!
 Dialogue: 0,0:01:25.90,0:01:27.22,Default,,0,0,0,,Weslie!
 Dialogue: 0,0:01:34.10,0:01:35.82,Default,,0,0,0,,I’m coming down to get you!
@@ -59,7 +59,7 @@ Dialogue: 0,0:01:44.70,0:01:45.30,Default,,0,0,0,,Oh no.
 Dialogue: 0,0:01:49.06,0:01:51.18,Default,,0,0,0,,The Energy Seed is mine at last.
 Dialogue: 0,0:01:52.62,0:01:55.14,Default,,0,0,0,,Wolnie and I can stay young forever.
 Dialogue: 0,0:01:58.94,0:02:00.74,Default,,0,0,0,,Oh, come on!
-Dialogue: 0,0:02:01.66,0:02:02.94,Default,,0,0,0,,I'm definitely not telling you
+Dialogue: 0,0:02:01.66,0:02:02.94,Default,,0,0,0,,I’m definitely not telling you
 Dialogue: 0,0:02:02.94,0:02:06.10,Default,,0,0,0,,that Weslie fell out of the train and got dragged away by an aphid.
 Dialogue: 0,0:02:07.66,0:02:10.22,Default,,0,0,0,,Please stop talking, Paddi.
 Dialogue: 0,0:02:11.22,0:02:14.18,Default,,0,0,0,,Oh, I see! I’ll go find him right away.
@@ -77,7 +77,7 @@ Dialogue: 0,0:02:57.14,0:02:58.74,Default,,0,0,0,,Give back my lollipop!
 Dialogue: 0,0:03:02.58,0:03:04.66,Default,,0,0,0,,There you are.
 Dialogue: 0,0:03:05.50,0:03:07.14,Default,,0,0,0,,Wolffy?
 Dialogue: 0,0:03:09.30,0:03:12.02,Default,,0,0,0,,The Energy Seed? Where did you get that from?
-Dialogue: 0,0:03:13.46,0:03:16.30,Default,,0,0,0,,Mm-hm. Your handprint is all that's left.
+Dialogue: 0,0:03:13.46,0:03:16.30,Default,,0,0,0,,Mm-hm. Your handprint is all that’s left.
 Dialogue: 0,0:03:20.10,0:03:21.98,Default,,0,0,0,,Give me your hand right now!
 Dialogue: 0,0:03:38.98,0:03:40.74,Default,,0,0,0,,Here comes a honey fruit!
 Dialogue: 0,0:03:50.50,0:03:51.62,Default,,0,0,0,,Here comes another one!
@@ -85,32 +85,32 @@ Dialogue: 0,0:04:03.74,0:04:06.14,Default,,0,0,0,,Open the Energy Seed box.
 Dialogue: 0,0:04:06.38,0:04:07.74,Default,,0,0,0,,No.
 Dialogue: 0,0:04:08.50,0:04:09.86,Default,,0,0,0,,Yes!
 Dialogue: 0,0:04:09.86,0:04:10.78,Default,,0,0,0,,No!
-Dialogue: 0,0:04:53.50,0:04:56.26,Default,,0,0,0,,While he's asleep, I'll count down from three,
+Dialogue: 0,0:04:53.50,0:04:56.26,Default,,0,0,0,,While he’s asleep, I’ll count down from three,
 Dialogue: 0,0:04:56.26,0:04:59.18,Default,,0,0,0,,and we’ll run in five separate directions
 Dialogue: 0,0:04:59.18,0:05:00.78,Default,,0,0,0,,so he won’t be able to catch us.
 Dialogue: 0,0:05:01.90,0:05:03.50,Default,,0,0,0,,Are we ready?
 Dialogue: 0,0:05:04.10,0:05:06.58,Default,,0,0,0,,Three, two, one.
 Dialogue: 0,0:05:14.26,0:05:15.22,Default,,0,0,0,,Trying to run?
 Dialogue: 0,0:05:15.26,0:05:16.74,Default,,0,0,0,,Not happening.
-Dialogue: 0,0:05:18.94,0:05:21.78,Default,,0,0,0,,You know what? Untie me, and let's duel, if you dare.
-Dialogue: 0,0:05:23.74,0:05:25.54,Default,,0,0,0,,Sure. I'm not scared.
-Dialogue: 0,0:05:35.82,0:05:38.02,Default,,0,0,0,,You're not going to win just because you're taller!
+Dialogue: 0,0:05:18.94,0:05:21.78,Default,,0,0,0,,You know what? Untie me, and let’s duel, if you dare.
+Dialogue: 0,0:05:23.74,0:05:25.54,Default,,0,0,0,,Sure. I’m not scared.
+Dialogue: 0,0:05:35.82,0:05:38.02,Default,,0,0,0,,You’re not going to win just because you’re taller!
 Dialogue: 0,0:05:39.26,0:05:40.10,Default,,0,0,0,,Although I’m short—
 Dialogue: 0,0:05:40.10,0:05:42.30,Default,,0,0,0,,Although… Although I’m short…
 Dialogue: 0,0:05:44.18,0:05:46.74,Default,,0,0,0,,Do you think I want to be so short?
 Dialogue: 0,0:05:51.70,0:05:53.58,Default,,0,0,0,,Would you like to grow taller?
 Dialogue: 0,0:05:53.86,0:05:55.62,Default,,0,0,0,,Yes, yes! I would.
 Dialogue: 0,0:05:56.38,0:05:58.90,Default,,0,0,0,,I have a quick fix.
-Dialogue: 0,0:06:10.14,0:06:11.70,Default,,0,0,0,,Why isn't it working?
-Dialogue: 0,0:06:16.18,0:06:18.06,Default,,0,0,0,,It's the wrong hand.
+Dialogue: 0,0:06:10.14,0:06:11.70,Default,,0,0,0,,Why isn’t it working?
+Dialogue: 0,0:06:16.18,0:06:18.06,Default,,0,0,0,,It’s the wrong hand.
 Dialogue: 0,0:06:18.78,0:06:20.18,Default,,0,0,0,,Huh?
-Dialogue: 0,0:06:37.02,0:06:40.22,Default,,0,0,0,,Weslie’s hand is mine! Don't touch it!
-Dialogue: 0,0:06:49.94,0:06:53.94,Default,,0,0,0,,Hey, I shower daily! Don't be so dramatic!
+Dialogue: 0,0:06:37.02,0:06:40.22,Default,,0,0,0,,Weslie’s hand is mine! Don’t touch it!
+Dialogue: 0,0:06:49.94,0:06:53.94,Default,,0,0,0,,Hey, I shower daily! Don’t be so dramatic!
 Dialogue: 0,0:06:54.14,0:06:55.24,Default,,0,0,0,,Hurry, run!
 Dialogue: 0,0:06:56.10,0:06:57.38,Default,,0,0,0,,One thousand one hundred and eleven,
 Dialogue: 0,0:06:57.38,0:06:58.82,Default,,0,0,0,,one thousand one hundred and twelve,
 Dialogue: 0,0:06:58.82,0:07:00.34,Default,,0,0,0,,one thousand one hundred and thirteen!
-Dialogue: 0,0:07:00.34,0:07:01.78,Default,,0,0,0,,You're on your way to growing!
+Dialogue: 0,0:07:00.34,0:07:01.78,Default,,0,0,0,,You’re on your way to growing!
 Dialogue: 0,0:07:01.98,0:07:02.98,Default,,0,0,0,,Keep it up!
 Dialogue: 0,0:07:04.82,0:07:07.10,Default,,0,0,0,,I’m too tired. I can’t jump anymore.
 Dialogue: 0,0:07:10.26,0:07:12.18,Default,,0,0,0,,This is what a taller you will look like.
@@ -126,7 +126,7 @@ Dialogue: 0,0:07:34.30,0:07:35.14,Default,,0,0,0,,Wonderful!
 Dialogue: 0,0:07:35.30,0:07:38.54,Default,,0,0,0,,We’ll head outside and not bother your training.
 Dialogue: 0,0:07:38.98,0:07:40.62,Default,,0,0,0,,Keep it up, Justice Spider!
 Dialogue: 0,0:07:41.18,0:07:41.54,Default,,0,0,0,,Okay.
-Dialogue: 0,0:07:41.54,0:07:42.82,Default,,0,0,0,,Don't slow down!
+Dialogue: 0,0:07:41.54,0:07:42.82,Default,,0,0,0,,Don’t slow down!
 Dialogue: 0,0:07:42.82,0:07:43.58,Default,,0,0,0,,Yes!
 Dialogue: 0,0:07:45.50,0:07:47.26,Default,,0,0,0,,Keep it up! Don’t stop!
 Dialogue: 0,0:07:51.22,0:07:53.02,Default,,0,0,0,,Ready now?
@@ -137,7 +137,7 @@ Dialogue: 0,0:08:21.30,0:08:23.14,Default,,0,0,0,,Look over there.
 Dialogue: 0,0:08:25.38,0:08:26.86,Default,,0,0,0,,Please, can we try?
 Dialogue: 0,0:08:27.15,0:08:28.10,Default,,0,0,0,,Of course.
 Dialogue: 0,0:08:33.38,0:08:35.50,Default,,0,0,0,,This is some really sticky fruit sap, huh?
-Dialogue: 0,0:08:35.50,0:08:38.22,Default,,0,0,0,,It'll soften up with a bit more time.
+Dialogue: 0,0:08:35.50,0:08:38.22,Default,,0,0,0,,It’ll soften up with a bit more time.
 Dialogue: 0,0:08:39.32,0:08:41.54,Default,,0,0,0,,Can we try something else?
 Dialogue: 0,0:08:41.54,0:08:42.50,Default,,0,0,0,,No.
 Dialogue: 0,0:08:42.50,0:08:44.18,Default,,0,0,0,,Why not?
@@ -170,25 +170,25 @@ Dialogue: 0,0:10:50.34,0:10:52.06,Default,,0,0,0,,I’m busy jumping rope to get
 Dialogue: 0,0:10:52.14,0:10:52.94,Default,,0,0,0,,Two thousand and—
 Dialogue: 0,0:10:53.10,0:10:55.46,Default,,0,0,0,,Darn it, I forgot how many times I’ve jumped.
 Dialogue: 0,0:10:55.70,0:10:57.42,Default,,0,0,0,,Don’t… disturb… me!
-Dialogue: 0,0:10:57.42,0:10:59.82,Default,,0,0,0,,It's no use, Wolffy.
-Dialogue: 0,0:11:01.10,0:11:04.38,Default,,0,0,0,,Well, if I have the Energy Seed, I'll just capture you guys again, anyway.
+Dialogue: 0,0:10:57.42,0:10:59.82,Default,,0,0,0,,It’s no use, Wolffy.
+Dialogue: 0,0:11:01.10,0:11:04.38,Default,,0,0,0,,Well, if I have the Energy Seed, I’ll just capture you guys again, anyway.
 Dialogue: 0,0:11:10.82,0:11:13.46,Default,,0,0,0,,Come get us, Wolffy!
 Dialogue: 0,0:11:16.26,0:11:17.30,Default,,0,0,0,,Watch this.
 Dialogue: 0,0:11:17.50,0:11:19.38,Default,,0,0,0,,Sirius!
-Dialogue: 0,0:11:25.98,0:11:27.86,Default,,0,0,0,,This is our little "present" for you.
+Dialogue: 0,0:11:25.98,0:11:27.86,Default,,0,0,0,,This is our little “present” for you.
 Dialogue: 0,0:11:27.86,0:11:30.46,Default,,0,0,0,,Do you like it, Wolffy?
 Dialogue: 0,0:11:31.30,0:11:32.66,Default,,0,0,0,,You can run for all I care.
 Dialogue: 0,0:11:32.74,0:11:36.30,Default,,0,0,0,,The Energy Seed is still in my hands, anyway.
-Dialogue: 0,0:11:38.26,0:11:40.50,Default,,0,0,0,,Hey, what's this?
+Dialogue: 0,0:11:38.26,0:11:40.50,Default,,0,0,0,,Hey, what’s this?
 Dialogue: 0,0:11:41.98,0:11:43.78,Default,,0,0,0,,When you were carrying me just now,
 Dialogue: 0,0:11:43.78,0:11:45.74,Default,,0,0,0,,I stole it back from you.
 Dialogue: 0,0:11:46.14,0:11:48.34,Default,,0,0,0,,I hate you guys!
-Dialogue: 0,0:11:48.46,0:11:50.50,Default,,0,0,0,,You're not going anywhere!
+Dialogue: 0,0:11:48.46,0:11:50.50,Default,,0,0,0,,You’re not going anywhere!
 Dialogue: 0,0:11:54.62,0:11:56.02,Default,,0,0,0,,Oh, by the way,
 Dialogue: 0,0:11:56.02,0:11:58.98,Default,,0,0,0,,we turned your missiles into boomerangs.
 Dialogue: 0,0:12:09.58,0:12:10.70,Default,,0,0,0,,Where’s Wolffy?
 Dialogue: 0,0:12:14.39,0:12:17.58,Default,,0,0,0,,A stupid missile is no match for me.
-Dialogue: 0,0:12:22.86,0:12:24.78,Default,,0,0,0,,I'm taller! I really am!
+Dialogue: 0,0:12:22.86,0:12:24.78,Default,,0,0,0,,I’m taller! I really am!
 Dialogue: 0,0:12:25.50,0:12:28.46,Default,,0,0,0,,Wolffy, Justice Spider, goodbye!
 Dialogue: 0,0:12:28.74,0:12:32.22,Default,,0,0,0,,Goodbye! Thank you for your height fix!
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

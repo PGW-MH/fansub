@@ -45,7 +45,7 @@ Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,-------------------------------
 Dialogue: 0,0:00:27.86,0:00:31.74,Default,,0,0,0,,The juice that Andy sent is super refreshing.
 Dialogue: 0,0:00:40.38,0:00:42.46,Default,,0,0,0,,Too bad he only sent one, though.
 Dialogue: 0,0:00:42.90,0:00:45.53,Default,,0,0,0,,Paddi, help move the branches!
-Dialogue: 0,0:00:46.90,0:00:50.94,Default,,0,0,0,,These big tasks aren't for me.
+Dialogue: 0,0:00:46.90,0:00:50.94,Default,,0,0,0,,These big tasks aren’t for me.
 Dialogue: 0,0:00:56.58,0:00:57.54,Default,,0,0,0,,Come on.
 Dialogue: 0,0:00:59.90,0:01:01.90,Default,,0,0,0,,The slumber fruit is very powerful.
 Dialogue: 0,0:01:03.70,0:01:05.54,Default,,0,0,0,,It releases a hypnotic aroma that,
@@ -54,8 +54,8 @@ Dialogue: 0,0:01:07.70,0:01:09.74,Default,,0,0,0,,one will sleep eternally after
 Dialogue: 0,0:01:09.94,0:01:11.66,Default,,0,0,0,,I need to be careful.
 Dialogue: 0,0:01:15.74,0:01:18.50,Default,,0,0,0,,If I catch you eating again, I’ll tell Mr. Slowy.
 Dialogue: 0,0:01:19.70,0:01:20.70,Default,,0,0,0,,Fine.
-Dialogue: 0,0:01:22.86,0:01:24.46,Default,,0,0,0,,I'll stop.
-Dialogue: 0,0:01:31.38,0:01:32.62,Default,,0,0,0,,Uh... It's not mine!
+Dialogue: 0,0:01:22.86,0:01:24.46,Default,,0,0,0,,I’ll stop.
+Dialogue: 0,0:01:31.38,0:01:32.62,Default,,0,0,0,,Uh… It’s not mine!
 Dialogue: 0,0:01:36.78,0:01:37.78,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:39.10,0:01:41.26,Default,,0,0,0,,Why are the leaves of this fruit so weird?
 Dialogue: 0,0:01:42.58,0:01:44.10,Default,,0,0,0,,What fruit is this?
@@ -66,30 +66,30 @@ Dialogue: 0,0:02:12.50,0:02:13.98,Default,,0,0,0,,You’ve all been poisoned!
 Dialogue: 0,0:02:29.66,0:02:32.10,Default,,0,0,0,,What exactly did they come here for?
 Dialogue: 0,0:02:39.98,0:02:44.42,Default,,0,0,0,,Don’t worry. No one is showing posioning symptoms.
 Dialogue: 0,0:02:44.86,0:02:47.38,Default,,0,0,0,,Wolffy was probably just trying to scare us.
-Dialogue: 0,0:02:49.30,0:02:52.46,Default,,0,0,0,,Let's determine new routes for delivering the Seed.
+Dialogue: 0,0:02:49.30,0:02:52.46,Default,,0,0,0,,Let’s determine new routes for delivering the Seed.
 Dialogue: 0,0:02:52.58,0:02:54.82,Default,,0,0,0,,Pay attention and listen, alright?
 Dialogue: 0,0:02:56.38,0:02:57.50,Default,,0,0,0,,Paddi!
 Dialogue: 0,0:02:57.97,0:02:59.14,Default,,0,0,0,,That wasn’t me!
 Dialogue: 0,0:02:59.54,0:03:01.54,Default,,0,0,0,,I’m sorry, that was me.
 Dialogue: 0,0:03:09.98,0:03:10.86,Default,,0,0,0,,That wasn’t me!
 Dialogue: 0,0:03:10.86,0:03:12.94,Default,,0,0,0,,That wasn’t me, either!
-Dialogue: 0,0:03:13.34,0:03:17.86,Default,,0,0,0,,We’re sorry. We're just too sleepy, Mr. Slowy.
-Dialogue: 0,0:03:18.02,0:03:21.14,Default,,0,0,0,,What do you mean, "sleepy"? Why aren’t {/i1}I{/i0} sleepy?
-Dialogue: 0,0:03:21.54,0:03:23.70,Default,,0,0,0,,You guys are just...
+Dialogue: 0,0:03:13.34,0:03:17.86,Default,,0,0,0,,We’re sorry. We’re just too sleepy, Mr. Slowy.
+Dialogue: 0,0:03:18.02,0:03:21.14,Default,,0,0,0,,What do you mean, “sleepy”? Why aren’t {\i1}I{\i0} sleepy?
+Dialogue: 0,0:03:21.54,0:03:23.70,Default,,0,0,0,,You guys are just…
 Dialogue: 0,0:03:29.74,0:03:31.86,Default,,0,0,0,,Wake up, Mr. Slowy.
 Dialogue: 0,0:03:33.70,0:03:35.54,Default,,0,0,0,,Something’s not right.
 Dialogue: 0,0:03:35.58,0:03:38.14,Default,,0,0,0,,Bring that weird fruit over here.
 Dialogue: 0,0:03:38.26,0:03:40.54,Default,,0,0,0,,My encyclopedia, too.
 Dialogue: 0,0:03:49.30,0:03:52.14,Default,,0,0,0,,Oh no, this is the slumber fruit!
-Dialogue: 0,0:03:52.14,0:03:54.38,Default,,0,0,0,,We {/i1}have{/i0} been poisoned!
-Dialogue: 0,0:03:57.58,0:04:00.22,Default,,0,0,0,,What in the world is the "slumber fruit"?
+Dialogue: 0,0:03:52.14,0:03:54.38,Default,,0,0,0,,We {\i1}have{\i0} been poisoned!
+Dialogue: 0,0:03:57.58,0:04:00.22,Default,,0,0,0,,What in the world is the “slumber fruit”?
 Dialogue: 0,0:04:00.22,0:04:01.98,Default,,0,0,0,,What happens if you’re poisoned by it?
 Dialogue: 0,0:04:02.90,0:04:05.82,Default,,0,0,0,,Once poisoned, you could fall asleep at any time.
 Dialogue: 0,0:04:06.26,0:04:09.22,Default,,0,0,0,,If you don’t take the antidote within two hours,
 Dialogue: 0,0:04:09.22,0:04:11.34,Default,,0,0,0,,you’ll fall into an eternal sleep.
 Dialogue: 0,0:04:12.22,0:04:14.10,Default,,0,0,0,,Eternal sleep?
 Dialogue: 0,0:04:14.86,0:04:18.70,Default,,0,0,0,,No wonder Wolffy disappeared without saying a word.
-Dialogue: 0,0:04:19.46,0:04:22.18,Default,,0,0,0,,He's been waiting for us to fall asleep
+Dialogue: 0,0:04:19.46,0:04:22.18,Default,,0,0,0,,He’s been waiting for us to fall asleep
 Dialogue: 0,0:04:22.22,0:04:24.06,Default,,0,0,0,,so he can capture us.
 Dialogue: 0,0:04:24.90,0:04:27.22,Default,,0,0,0,,Why don’t I feel anything?
 Dialogue: 0,0:04:27.54,0:04:30.10,Default,,0,0,0,,The book says that we’ll be fine
@@ -132,7 +132,7 @@ Dialogue: 0,0:08:07.82,0:08:11.02,Default,,0,0,0,,The goats who are awake must l
 Dialogue: 0,0:08:12.42,0:08:13.46,Default,,0,0,0,,I’m still awake.
 Dialogue: 0,0:08:14.34,0:08:17.66,Default,,0,0,0,,I must take courage in responsibility and look after everyone!
 Dialogue: 0,0:08:25.46,0:08:26.94,Default,,0,0,0,,Magic Trains,
-Dialogue: 0,0:08:27.06,0:08:27.94,Default,,0,0,0,,let's go!
+Dialogue: 0,0:08:27.06,0:08:27.94,Default,,0,0,0,,let’s go!
 Dialogue: 0,0:08:29.90,0:08:33.02,Default,,0,0,0,,I can still look after everyone on my own.
 Dialogue: 0,0:08:38.62,0:08:40.58,Default,,0,0,0,,Why isn’t the train moving?
 Dialogue: 0,0:08:50.34,0:08:51.34,Default,,0,0,0,,What now?
@@ -146,7 +146,7 @@ Dialogue: 0,0:09:23.18,0:09:25.54,Default,,0,0,0,,Now, all I have to do is to ca
 Dialogue: 0,0:09:25.54,0:09:27.46,Default,,0,0,0,,and the Energy Seed will be mine.
 Dialogue: 0,0:09:50.82,0:09:51.94,Default,,0,0,0,,How did they wake up?
 Dialogue: 0,0:09:52.50,0:09:53.58,Default,,0,0,0,,That’s impossible!
-Dialogue: 0,0:09:53.58,0:09:56.90,Default,,0,0,0,,They can't wake up without the antidote once poisoned.
+Dialogue: 0,0:09:53.58,0:09:56.90,Default,,0,0,0,,They can’t wake up without the antidote once poisoned.
 Dialogue: 0,0:09:56.90,0:09:57.82,Default,,0,0,0,,What’s going on?
 Dialogue: 0,0:09:59.98,0:10:01.26,Default,,0,0,0,,Where’s Paddi?
 Dialogue: 0,0:10:02.46,0:10:05.42,Default,,0,0,0,,Paddi abandoned you guys and ran off himself.
@@ -170,7 +170,7 @@ Dialogue: 0,0:11:15.90,0:11:19.18,Default,,0,0,0,,Thanks for saving me the hassl
 Dialogue: 0,0:11:20.70,0:11:22.02,Default,,0,0,0,,What’s this?
 Dialogue: 0,0:11:22.22,0:11:26.50,Default,,0,0,0,,Are these the fruits that Madam Wolnie bought to eat with mutton?
 Dialogue: 0,0:11:27.06,0:11:28.54,Default,,0,0,0,,Of course they are.
-Dialogue: 0,0:11:28.70,0:11:31.54,Default,,0,0,0,,It's Wolnie's favorite.
+Dialogue: 0,0:11:28.70,0:11:31.54,Default,,0,0,0,,It’s Wolnie’s favorite.
 Dialogue: 0,0:11:42.38,0:11:44.14,Default,,0,0,0,,A slumber fruit!
 Dialogue: 0,0:11:47.58,0:11:49.10,Default,,0,0,0,,Come back here, little goats!
 Dialogue: 0,0:11:50.46,0:11:54.70,Default,,0,0,0,,Chasing us will delay you in getting the antidote.

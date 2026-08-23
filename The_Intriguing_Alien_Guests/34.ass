@@ -14,7 +14,7 @@ Style: Default,TeXGyreHeros,62,&H00FFFFFF,&H000000FF,&H00000000,&H23000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,00:00:18.20,00:00:20.36,Default,,0,0,0,,The monster "roared" and sprayed flames
+Dialogue: 0,00:00:18.20,00:00:20.36,Default,,0,0,0,,The monster “roared” and sprayed flames
 Dialogue: 0,00:00:21.92,00:00:23.36,Default,,0,0,0,,Wilie appears-
 Dialogue: 0,00:00:23.40,00:00:24.76,Default,,0,0,0,,I want to protect my mother…
 Dialogue: 0,00:00:28.12,00:00:28.80,Default,,0,0,0,,child
@@ -26,7 +26,7 @@ Dialogue: 0,00:00:40.60,00:00:41.80,Default,,0,0,0,,This is a monster
 Dialogue: 0,00:00:42.40,00:00:43.96,Default,,0,0,0,,Mom hasn’t painted yet
 Dialogue: 0,00:00:44.76,00:00:47.04,Default,,0,0,0,,Then what are you doing in front of monsters?
 Dialogue: 0,00:00:47.32,00:00:48.84,Default,,0,0,0,,I’m protecting my mother
-Dialogue: 0,00:00:48.96,00:00:52.36,Default,,0,0,0,,Dad said, "A real man should protect his mother"!
+Dialogue: 0,00:00:48.96,00:00:52.36,Default,,0,0,0,,Dad said, “A real man should protect his mother”!
 Dialogue: 0,00:00:55.36,00:00:57.76,Default,,0,0,0,,Then you have to make your mother look good!
 Dialogue: 0,00:01:03.80,00:01:04.68,Default,,0,0,0,,I’m here
 Dialogue: 0,00:01:04.71,00:01:06.71,Default,,0,0,0,,Don’t even want to slap my son
@@ -41,7 +41,7 @@ Dialogue: 0,00:01:48.43,00:01:50.71,Default,,0,0,0,,Mom, what are we going to do
 Dialogue: 0,00:01:51.16,00:01:52.32,Default,,0,0,0,,Clean up the garbage
 Dialogue: 0,00:02:02.48,00:02:04.04,Default,,0,0,0,,What are these purple gases?
 Dialogue: 0,00:02:04.60,00:02:06.76,Default,,0,0,0,,It’s a killer!
-Dialogue: 0,00:02:10.60,00:02:12.88,Default,,0,0,0,,The "poisonous atmosphere" leaks. Escape quickly!
+Dialogue: 0,00:02:10.60,00:02:12.88,Default,,0,0,0,,The “poisonous atmosphere” leaks. Escape quickly!
 Dialogue: 0,00:02:13.88,00:02:15.00,Default,,0,0,0,,Don’t pull me
 Dialogue: 0,00:02:15.00,00:02:16.28,Default,,0,0,0,,I can’t hear it again
 Dialogue: 0,00:02:21.24,00:02:22.40,Default,,0,0,0,,What’s going on with you
