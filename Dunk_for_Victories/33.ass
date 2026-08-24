@@ -74,7 +74,7 @@ Dialogue: 0,0:05:50.04,0:05:50.60,Default,,0,0,0,,not good
 Dialogue: 0,0:05:57.48,0:05:58.84,Default,,0,0,0,,4. My legs are a little slow to keep up.
 Dialogue: 0,0:06:07.16,0:06:09.24,Default,,0,0,0,,Pantheress: I tried my best.
 Dialogue: 0,0:06:16.20,0:06:17.72,Default,,0,0,0,,I didn’t see wrong, did I?
-Dialogue: 0,0:06:18.20,0:06:20.44,Default,,0,0,0,,Team Sonic requests a pause
+Dialogue: 0,0:06:18.20,0:06:20.44,Default,,0,0,0,,Team Sonic calls a timeout.
 Dialogue: 0,0:06:25.32,0:06:27.16,Default,,0,0,0,,Team Defenders caught up by 14
 Dialogue: 0,0:06:27.16,0:06:29.72,Default,,0,0,0,,Team Sonic seems to be struggling with physical issues.
 Dialogue: 0,0:06:29.72,0:06:31.88,Default,,0,0,0,,How should they respond?
@@ -93,14 +93,14 @@ Dialogue: 0,0:07:34.44,0:07:35.00,Default,,0,0,0,,om
 Dialogue: 0,0:07:35.00,0:07:36.68,Default,,0,0,0,,Don’t think you can beat us.
 Dialogue: 0,0:07:40.20,0:07:41.72,Default,,0,0,0,,Weslie, over here
 Dialogue: 0,0:08:07.56,0:08:09.56,Default,,0,0,0,,The point difference has widened again.
-Dialogue: 0,0:08:09.56,0:08:13.64,Default,,0,0,0,,It seems the pause just now helped Team Sonic regain a lot of energy.
+Dialogue: 0,0:08:09.56,0:08:13.64,Default,,0,0,0,,It seems the timeout just now helped Team Sonic regain a lot of energy.
 Dialogue: 0,0:08:15.32,0:08:17.64,Default,,0,0,0,,We have no way to attack like this.
 Dialogue: 0,0:08:18.36,0:08:20.84,Default,,0,0,0,,what to do
 Dialogue: 0,0:08:36.36,0:08:37.08,Default,,0,0,0,,Dodged
 Dialogue: 0,0:08:42.36,0:08:43.72,Default,,0,0,0,,Wow, that’s fast!
 Dialogue: 0,0:08:50.28,0:08:52.20,Default,,0,0,0,,She’s here again. Can I escape her?
-Dialogue: 0,0:08:56.76,0:08:58.04,Default,,0,0,0,,out of bounds
-Dialogue: 0,0:08:58.28,0:08:59.80,Default,,0,0,0,,Request to pause
+Dialogue: 0,0:08:56.76,0:08:58.04,Default,,0,0,0,,Out of bounds!
+Dialogue: 0,0:08:58.28,0:08:59.80,Default,,0,0,0,,Requesting a timeout.
 Dialogue: 0,0:09:07.56,0:09:12.92,Default,,0,0,0,,Tibbie, it’s your turn to break the deadlock for the team.
 Dialogue: 0,0:09:12.92,0:09:14.52,Default,,0,0,0,,Can I?
 Dialogue: 0,0:09:14.76,0:09:17.96,Default,,0,0,0,,You have a stable sense of ball control and passing skills
@@ -115,26 +115,25 @@ Dialogue: 0,0:09:35.16,0:09:39.00,Default,,0,0,0,,The timeout has ended, and Tea
 Dialogue: 0,0:09:42.04,0:09:44.28,Default,,0,0,0,,Facing Team Sonic’s lightning-fast steal
 Dialogue: 0,0:09:44.28,0:09:48.20,Default,,0,0,0,,How can Team Defenders resolve this predicament?
 Dialogue: 0,0:09:48.76,0:09:51.16,Default,,0,0,0,,It’s up to you, Tibbie.
-Dialogue: 0,0:09:52.12,0:09:54.12,Default,,0,0,0,,Can I… do it?
-Dialogue: 0,0:09:58.20,0:09:59.40,Default,,0,0,0,,Must be done
-Dialogue: 0,0:10:25.72,0:10:30.12,Default,,0,0,0,,I will carry Pantheress’s belief and play my best in basketball.
-Dialogue: 0,0:10:41.24,0:10:42.68,Default,,0,0,0,,I can control the ball well.
-Dialogue: 0,0:10:43.72,0:10:45.72,Default,,0,0,0,,Go Tibbie!
-Dialogue: 0,0:10:53.72,0:10:55.24,Default,,0,0,0,,I want to be with everyone
-Dialogue: 0,0:10:59.40,0:11:02.68,Default,,0,0,0,,Continue to race on this field
-Dialogue: 0,0:11:04.20,0:11:05.56,Default,,0,0,0,,Let’s talk after the goal is scored.
-Dialogue: 0,0:11:11.40,0:11:13.56,Default,,0,0,0,,Don’t even think about scoring.
-Dialogue: 0,0:11:40.60,0:11:43.88,Default,,0,0,0,,That was amazing, that beautiful turn!
-Dialogue: 0,0:11:44.12,0:11:48.04,Default,,0,0,0,,Brilliant ball control, stunning passes
-Dialogue: 0,0:11:48.04,0:11:52.68,Default,,0,0,0,,I can’t think of any words to express the excitement I feel.
+Dialogue: 0,0:09:52.12,0:09:54.12,Default,,0,0,0,,Can I really…do this?
+Dialogue: 0,0:09:58.20,0:09:59.40,Default,,0,0,0,,I have to!
+Dialogue: 0,0:10:25.72,0:10:30.12,Default,,0,0,0,,I’ll carry Pantheress’s belief and give this game everything I’ve got!
+Dialogue: 0,0:10:41.24,0:10:42.68,Default,,0,0,0,,My handles feel perfect.
+Dialogue: 0,0:10:43.72,0:10:45.72,Default,,0,0,0,,Go, Tibbie!
+Dialogue: 0,0:10:53.72,0:10:55.24,Default,,0,0,0,,I want to stand with my team
+Dialogue: 0,0:10:59.40,0:11:02.68,Default,,0,0,0,,and keep running on this court!
+Dialogue: 0,0:11:04.20,0:11:05.56,Default,,0,0,0,,Talk after you score.
+Dialogue: 0,0:11:11.40,0:11:13.56,Default,,0,0,0,,You’re not getting a single bucket!
+Dialogue: 0,0:11:40.60,0:11:43.88,Default,,0,0,0,,Unbelievable! What a beautiful spin move!
+Dialogue: 0,0:11:44.12,0:11:48.04,Default,,0,0,0,,Brilliant handles, spectacular passing!
+Dialogue: 0,0:11:48.04,0:11:52.68,Default,,0,0,0,,Words cannot describe the excitement I feel!
 Dialogue: 0,0:11:53.64,0:11:58.04,Default,,0,0,0,,Tibbie, you’re the best point guard!
-Dialogue: 0,0:11:58.04,0:11:59.64,Default,,0,0,0,,I…I did it.
-Dialogue: 0,0:12:01.24,0:12:04.20,Default,,0,0,0,,You’re amazing, Tibbie!
+Dialogue: 0,0:11:58.04,0:11:59.64,Default,,0,0,0,,I…I actually did it.
+Dialogue: 0,0:12:01.24,0:12:04.20,Default,,0,0,0,,You were incredible, Tibbie!
 Dialogue: 0,0:12:06.04,0:12:08.28,Default,,0,0,0,,We need to keep chasing points.
-Dialogue: 0,0:12:08.28,0:12:08.52,Default,,0,0,0,,good
-Dialogue: 0,0:12:08.68,0:12:09.00,Default,,0,0,0,,good
+Dialogue: 0,0:12:08.28,0:12:09.00,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:12:18.36,0:12:23.64,Default,,0,0,0,,They tied it.
-Dialogue: 0,0:12:25.16,0:12:28.28,Default,,0,0,0,,The first half has ended, and both sides are now in a break.
+Dialogue: 0,0:12:25.16,0:12:28.28,Default,,0,0,0,,The first half has ended, and the teams are heading into halftime.
 Dialogue: 0,0:12:31.72,0:12:34.12,Default,,0,0,0,,I will beat you in the second half.
 Dialogue: 0,0:12:34.28,0:12:35.24,Default,,0,0,0,,I’m waiting.
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------

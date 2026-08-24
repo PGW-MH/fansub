@@ -22,7 +22,7 @@ Dialogue: 0,0:00:08.80,0:00:13.30,Default,,0,0,0,,{\i1}Legends of Sports Heroes:
 Dialogue: 0,0:00:14.52,0:00:16.80,Title,,0,0,0,,The Mysterious Ace
 Dialogue: 0,0:12:36.16,0:12:36.96,end,,0,0,0,,To be continued…
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,------------------------------------------------------
-Dialogue: 0,0:00:17.56,0:00:22.28,Default,,0,0,0,,In the previous episode, we mentioned that Team Goats faced the formidable Team Rats in their first match.
+Dialogue: 0,0:00:17.56,0:00:22.28,Default,,0,0,0,,In the previous episode, we mentioned that Team Goats faced the formidable Team Rats in their first game.
 Dialogue: 0,0:00:23.00,0:00:26.52,Default,,0,0,0,,Team Goats was initially at a disadvantage due to tension.
 Dialogue: 0,0:00:26.84,0:00:31.40,Default,,0,0,0,,Fortunately, Team Goats showed their true strength in the second half and tied the score.
 Dialogue: 0,0:00:32.04,0:00:36.12,Default,,0,0,0,,At this point, only ten seconds remained in the game.
@@ -55,14 +55,14 @@ Dialogue: 0,0:02:35.40,0:02:39.64,Default,,0,0,0,,I can’t believe we lost. You
 Dialogue: 0,0:02:40.28,0:02:44.04,Default,,0,0,0,,We’re not weak at all; you’re underestimating us.
 Dialogue: 0,0:02:45.00,0:02:47.72,Default,,0,0,0,,S SSL Basketball is a five-player sport.
 Dialogue: 0,0:02:47.88,0:02:52.44,Default,,0,0,0,,As long as the five of us unite, anything is possible.
-Dialogue: 0,0:02:53.88,0:02:56.44,Default,,0,0,0,,Looking forward to playing another match with you guys next time.
+Dialogue: 0,0:02:53.88,0:02:56.44,Default,,0,0,0,,Looking forward to playing another game with you guys next time.
 Dialogue: 0,0:03:01.00,0:03:05.56,Default,,0,0,0,,I have to train right after the competition, can I have a break?
 Dialogue: 0,0:03:06.68,0:03:07.72,Default,,0,0,0,,how
 Dialogue: 0,0:03:10.84,0:03:13.08,Default,,0,0,0,,Champ and Trump What are you doing here?
 Dialogue: 0,0:03:13.48,0:03:15.88,Default,,0,0,0,,Are you upset about losing and want to cause trouble?
-Dialogue: 0,0:03:16.28,0:03:18.20,Default,,0,0,0,,They were the sparring partners I hired.
+Dialogue: 0,0:03:16.28,0:03:18.20,Default,,0,0,0,,They were the scrimmage partners I hired.
 Dialogue: 0,0:03:19.08,0:03:20.92,Default,,0,0,0,,You lack practical experience
-Dialogue: 0,0:03:21.24,0:03:24.76,Default,,0,0,0,,That’s why I specifically invited them to play practice matches with you.
+Dialogue: 0,0:03:21.24,0:03:24.76,Default,,0,0,0,,That’s why I specifically invited them to play practice games with you.
 Dialogue: 0,0:03:24.76,0:03:25.72,Default,,0,0,0,,That’s right
 Dialogue: 0,0:03:25.88,0:03:28.60,Default,,0,0,0,,Okay, let’s begin the basic training.
 Dialogue: 0,0:03:28.76,0:03:29.80,Default,,0,0,0,,Run 20 laps
@@ -78,7 +78,7 @@ Dialogue: 0,0:04:03.72,0:04:05.96,Default,,0,0,0,,Everyone’s strength has also
 Dialogue: 0,0:04:06.52,0:04:10.44,Default,,0,0,0,,But we must not be complacent. We still need to continue strengthening our fundamentals.
 Dialogue: 0,0:04:10.44,0:04:11.56,Default,,0,0,0,,yes
 Dialogue: 0,0:04:27.72,0:04:29.80,Default,,0,0,0,,Looks like I still need to learn how to dunk.
-Dialogue: 0,0:04:30.68,0:04:33.40,Default,,0,0,0,,Then I’ll be the coolest player on the field.
+Dialogue: 0,0:04:30.68,0:04:33.40,Default,,0,0,0,,Then I’ll be the coolest player on the court.
 Dialogue: 0,0:04:38.68,0:04:41.32,Default,,0,0,0,,As expected, my skills weren’t up to par.
 Dialogue: 0,0:04:41.72,0:04:43.40,Default,,0,0,0,,They were unwilling to teach me.
 Dialogue: 0,0:04:45.08,0:04:46.04,Default,,0,0,0,,Brother Champ
@@ -170,7 +170,7 @@ Dialogue: 0,0:10:28.52,0:10:30.76,Default,,0,0,0,,Lion Jay is so handsome!
 Dialogue: 0,0:10:31.56,0:10:33.08,Default,,0,0,0,,You also like Lion Jay
 Dialogue: 0,0:10:34.20,0:10:35.72,Default,,0,0,0,,Of course
 Dialogue: 0,0:10:39.88,0:10:44.76,Default,,0,0,0,,You’re finally starting to grow up and know how to understand your opponents.
-Dialogue: 0,0:10:47.40,0:10:50.68,Default,,0,0,0,,Team Lion Heart is our opponent in the next match.
+Dialogue: 0,0:10:47.40,0:10:50.68,Default,,0,0,0,,Team Lion Heart is our opponent in the next game.
 Dialogue: 0,0:10:50.68,0:10:51.96,Default,,0,0,0,,What
 Dialogue: 0,0:10:51.96,0:10:53.80,Default,,0,0,0,,Oh no, Lion Jay is so amazing!
 Dialogue: 0,0:10:53.80,0:10:57.00,Default,,0,0,0,,Isn’t our chance of winning only 1%?

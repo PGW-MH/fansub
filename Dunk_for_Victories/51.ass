@@ -43,7 +43,7 @@ Dialogue: 0,0:01:51.16,0:01:55.48,Default,,0,0,0,,The robot Small Forward seemed
 Dialogue: 0,0:01:57.72,0:01:57.96,Default,,0,0,0,,CC
 Dialogue: 0,0:01:59.96,0:02:00.20,Default,,0,0,0,,Robot 05
 Dialogue: 0,0:02:08.92,0:02:09.40,Default,,0,0,0,,CVCV
-Dialogue: 0,0:02:19.64,0:02:22.84,Default,,0,0,0,,Team Defenders requests a pause.
+Dialogue: 0,0:02:19.64,0:02:22.84,Default,,0,0,0,,Team Defenders calls a timeout.
 Dialogue: 0,0:02:23.80,0:02:28.52,Default,,0,0,0,,Exactly the same; these robots have probably upgraded their systems.
 Dialogue: 0,0:02:28.76,0:02:32.44,Default,,0,0,0,,It can replicate your every move, which means
 Dialogue: 0,0:02:32.44,0:02:36.68,Default,,0,0,0,,Standing before you now is equivalent to five versions of yourself.
@@ -67,7 +67,7 @@ Dialogue: 0,0:03:58.04,0:04:01.16,Default,,0,0,0,,Master, why don’t you use th
 Dialogue: 0,0:04:01.32,0:04:03.40,Default,,0,0,0,,Hurry up and use your own tricks!
 Dialogue: 0,0:04:03.80,0:04:06.44,Default,,0,0,0,,I will defeat you and become the number one in the world.
 Dialogue: 0,0:04:06.92,0:04:11.48,Default,,0,0,0,,The one who can defeat himself is the greatest fool in the world.
-Dialogue: 0,0:04:15.96,0:04:20.20,Default,,0,0,0,,Can Team Defenders create a breakthrough after the pause?
+Dialogue: 0,0:04:15.96,0:04:20.20,Default,,0,0,0,,Can Team Defenders create a breakthrough after the timeout?
 Dialogue: 0,0:04:20.20,0:04:22.76,Default,,0,0,0,,How to counter Team Robo’s copy tactics?
 Dialogue: 0,0:04:35.40,0:04:37.32,Default,,0,0,0,,Jonie and I held off the opponent.
 Dialogue: 0,0:04:38.12,0:04:42.36,Default,,0,0,0,,Tibbie and Paddi pass the ball to Wolffy, who is responsible for the score.
@@ -81,7 +81,7 @@ Dialogue: 0,0:05:25.40,0:05:27.96,Default,,0,0,0,,Don’t worry, I definitely wo
 Dialogue: 0,0:05:39.72,0:05:40.92,Default,,0,0,0,,again…
 Dialogue: 0,0:05:44.92,0:05:47.96,Default,,0,0,0,,Disappointing everyone
 Dialogue: 0,0:05:50.28,0:05:52.44,Default,,0,0,0,,CV
-Dialogue: 0,0:05:53.00,0:05:56.76,Default,,0,0,0,,Goal!
+Dialogue: 0,0:05:53.00,0:05:56.76,Default,,0,0,0,,Bucket!
 Dialogue: 0,0:05:56.76,0:05:57.40,Default,,0,0,0,,good
 Dialogue: 0,0:05:58.36,0:05:59.16,Default,,0,0,0,,Very good
 Dialogue: 0,0:05:59.16,0:06:02.44,Default,,0,0,0,,They can’t replicate our teamwork, so let’s try again.
